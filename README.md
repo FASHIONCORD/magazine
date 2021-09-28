@@ -15,18 +15,18 @@ https://hypebeast.kr/feed/
 - 여행: https://hypebeast.kr/travel/feed/  
 - 스포츠: https://hypebeast.kr/sports/feed/  
 ### 네이버 포스트
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_fashion.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_footwear.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_music.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_art.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_tech.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_automotive.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_entertainment.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_design.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_food-beverage.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_gaming.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_travel.xml
-- https://FASHIONCORD.github.io/magazine/naverpost_hypebeast_sports.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_fashion.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_footwear.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_music.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_art.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_tech.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_automotive.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_entertainment.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_design.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_food-beverage.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_gaming.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_travel.xml
+- https://fashioncord.github.io/magazine/naverpost_hypebeast_sports.xml
 
 ## 지큐코리아
 https://www.gqkorea.co.kr/feed/  
