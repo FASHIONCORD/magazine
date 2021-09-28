@@ -25,15 +25,6 @@ linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
 
-[naverpost_hypebeast_music]
-title = "네이버 포스트 ─ 하입비스트 ─ 음악"
-url = "https://post.naver.com/my/series/detail.naver?seriesNo=325347&memberNo=37600247"
-entrySelector = "#el_list_container ul ul li"
-titleSelector = "div.spot_post_name span.ell"
-linkSelector = "a[href]"
-imageSelector = "img"
-contentSelector = "span.writer_name"
-
 [naverpost_hypebeast_art]
 title = "네이버 포스트 ─ 하입비스트 ─ 미술"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=351637&memberNo=37600247"
