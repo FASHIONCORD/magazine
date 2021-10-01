@@ -41,14 +41,37 @@ https://www.gqkorea.co.kr/feed/
 - SEX: https://www.gqkorea.co.kr/category/sex/feed/  
 
 ## [엘르 코리아](https://github.com/FASHIONCORD/elle)
-- https://FASHIONCORD.github.io/magazine/elle_fashion.xml
-- https://FASHIONCORD.github.io/magazine/elle_beauty.xml
-- https://FASHIONCORD.github.io/magazine/elle_star.xml
-- https://FASHIONCORD.github.io/magazine/elle_culture.xml
-- https://FASHIONCORD.github.io/magazine/elle_culture_music.xml
-- https://FASHIONCORD.github.io/magazine/elle_culture_moviesandtv.xml
-- https://FASHIONCORD.github.io/magazine/elle_culture_artanddesign.xml
-- https://FASHIONCORD.github.io/magazine/elle_loveandlife.xml
-- https://FASHIONCORD.github.io/magazine/elle_society.xml
+https://fashioncord.github.io/elle/all.xml
+- 패션: https://fashioncord.github.io/elle/fashion.xml
+- 뷰티: https://fashioncord.github.io/elle/beauty.xml
+- 스타: https://fashioncord.github.io/elle/star.xml
+- 컬쳐: https://fashioncord.github.io/elle/culture.xml
+   - 뮤직: https://fashioncord.github.io/elle/culture_music.xml
+   - 무비&TV: https://fashioncord.github.io/elle/culture_moviesandtv.xml
+   - 아트&디자인: https://fashioncord.github.io/elle/culture_artanddesign.xml
+- 러브&라이프: https://fashioncord.github.io/elle/loveandlife.xml
+- 소사이어티: https://fashioncord.github.io/elle/society.xml
 
 ## [하퍼스바자 코리아](https://github.com/FASHIONCORD/harpersbazaar)
+https://fashioncord.github.io/harpersbazaar/all.xml
+- https://fashioncord.github.io/harpersbazaar/fashion.xml
+- https://fashioncord.github.io/harpersbazaar/beauty.xml
+- https://fashioncord.github.io/harpersbazaar/celebrity.xml
+- https://fashioncord.github.io/harpersbazaar/artandculture.xml
+- https://fashioncord.github.io/harpersbazaar/lifestyle.xml
+- https://fashioncord.github.io/harpersbazaar/sustainability.xml
+
+## [무신사](https://github.com/FASHIONCORD/musinsa)
+https://fashioncord.github.io/musinsa/all.xml
+- https://fashioncord.github.io/musinsa/news.xml
+- https://fashioncord.github.io/musinsa/magazine.xml
+- https://fashioncord.github.io/musinsa/lookbook.xml
+- https://fashioncord.github.io/musinsa/street.xml
+- https://fashioncord.github.io/musinsa/shopstaff.xml
+- https://fashioncord.github.io/musinsa/recruit.xml
+- https://fashioncord.github.io/musinsa/tv.xml
+- https://fashioncord.github.io/musinsa/naverpost_musinsa_snap.xml
+- https://fashioncord.github.io/musinsa/naverpost_musinsa_report.xml
+- https://fashioncord.github.io/musinsa/naverpost_musinsa_stylefactory.xml
+- https://fashioncord.github.io/musinsa/naverpost_musinsa_stylelesson.xml
+- https://fashioncord.github.io/musinsa/naverpost_musinsa_storerank.xml
