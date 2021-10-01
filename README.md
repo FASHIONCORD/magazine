@@ -93,7 +93,7 @@ https://fashioncord.github.io/harpersbazaar/all.xml
 
 ## 코스모폴리탄 코리아 | 허스트중앙
 
-## 에스콰이어 코리아 | 허스트중앙
+## [에스콰이어 코리아](https://github.com/FASHIONCORD/esquire) | 허스트중앙
 https://fashioncord.github.io/esquire/all.xml
 - https://fashioncord.github.io/esquire/style.xml
 - https://fashioncord.github.io/esquire/watch.xml
