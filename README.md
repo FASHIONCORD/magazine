@@ -40,7 +40,7 @@ https://www.gqkorea.co.kr/feed/
 - VIDEO: https://www.gqkorea.co.kr/category/video/feed/  
 - SEX: https://www.gqkorea.co.kr/category/sex/feed/  
 
-## [엘르 코리아](https://github.com/FASHIONCORD/elle)
+## [엘르 코리아](https://github.com/FASHIONCORD/elle) | 허스트중앙
 https://fashioncord.github.io/elle/all.xml
 - 패션: https://fashioncord.github.io/elle/fashion.xml
 - 뷰티: https://fashioncord.github.io/elle/beauty.xml
@@ -52,7 +52,7 @@ https://fashioncord.github.io/elle/all.xml
 - 러브&라이프: https://fashioncord.github.io/elle/loveandlife.xml
 - 소사이어티: https://fashioncord.github.io/elle/society.xml
 
-## [하퍼스바자 코리아](https://github.com/FASHIONCORD/harpersbazaar)
+## [하퍼스바자 코리아](https://github.com/FASHIONCORD/harpersbazaar) | 허스트중앙
 https://fashioncord.github.io/harpersbazaar/all.xml
 - https://fashioncord.github.io/harpersbazaar/fashion.xml
 - https://fashioncord.github.io/harpersbazaar/beauty.xml
@@ -60,6 +60,15 @@ https://fashioncord.github.io/harpersbazaar/all.xml
 - https://fashioncord.github.io/harpersbazaar/artandculture.xml
 - https://fashioncord.github.io/harpersbazaar/lifestyle.xml
 - https://fashioncord.github.io/harpersbazaar/sustainability.xml
+
+## [보그 코리아](https://github.com/FASHIONCORD/vogue)
+https://fashioncord.github.io/vogue/all.xml
+- https://fashioncord.github.io/vogue/fashion.xml
+- https://fashioncord.github.io/vogue/beauty.xml
+- https://fashioncord.github.io/vogue/living.xml
+- https://fashioncord.github.io/vogue/people.xml
+- https://fashioncord.github.io/vogue/voguetv.xml
+- https://fashioncord.github.io/vogue/shopping.xml
 
 ## [무신사](https://github.com/FASHIONCORD/musinsa)
 https://fashioncord.github.io/musinsa/all.xml
