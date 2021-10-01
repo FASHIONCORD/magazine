@@ -49,6 +49,9 @@ https://fashioncord.github.io/vogue/all.xml
 - https://fashioncord.github.io/vogue/voguetv.xml
 - https://fashioncord.github.io/vogue/shopping.xml
 
+## 얼루어 코리아
+
+
 ## [엘르 코리아](https://github.com/FASHIONCORD/elle) | 허스트중앙
 https://fashioncord.github.io/elle/all.xml
 - 패션: https://fashioncord.github.io/elle/fashion.xml
@@ -69,6 +72,10 @@ https://fashioncord.github.io/harpersbazaar/all.xml
 - https://fashioncord.github.io/harpersbazaar/artandculture.xml
 - https://fashioncord.github.io/harpersbazaar/lifestyle.xml
 - https://fashioncord.github.io/harpersbazaar/sustainability.xml
+
+## 코스모폴리탄 코리아 | 허스트중앙
+
+## 에스콰이어 코리아 | 허스트중앙
 
 ## [무신사](https://github.com/FASHIONCORD/musinsa)
 https://fashioncord.github.io/musinsa/all.xml
