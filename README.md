@@ -49,7 +49,7 @@ https://fashioncord.github.io/vogue/all.xml
 - https://fashioncord.github.io/vogue/voguetv.xml
 - https://fashioncord.github.io/vogue/shopping.xml
 
-## 얼루어 코리아
+## 얼루어 코리아 | 두산매거진
 https://www.allurekorea.com/feed/
 - BEAUTY: https://www.allurekorea.com/category/beauty/feed/
 - FASHION: https://www.allurekorea.com/category/fashion/feed/
