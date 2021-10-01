@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 10:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 17:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK !]]></title>
+            <link>https://www.elle.co.kr/article/58988</link>
+            <guid>https://www.elle.co.kr/article/58988</guid>
+            <pubDate>Fri, 01 Oct 2021 17:47:16 GMT</pubDate>
+            <content:encoded><![CDATA[정통에 트렌드를 과감하게 믹스하는 7명의 훅]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/de498aaa-57fb-47e9-845f-819e4a3dc3d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘이 조합 대박이겠는데?’ 리정이 그린 큰 그림. 최강조합 #YGX]]></title>
             <link>https://www.elle.co.kr/article/58958</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
             <content:encoded><![CDATA[헤드윅 #렌, 엑스칼리버 #도겸 뮤지컬 데뷔한 NCT #도영 까지. 투마치토커 에디터의 실물...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/31/b0a66cde-88d8-4b4d-a963-b1507098e54b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핑크 가발 '부끄뚱' 문세윤 본 '1박2일' 멤버들의 현실적 반응]]></title>
-            <link>https://www.elle.co.kr/article/58124</link>
-            <guid>https://www.elle.co.kr/article/58124</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
-            <content:encoded><![CDATA["이런 거 왜 해?" -&gt; "왜 잘해?"]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/30/2c5b69de-170d-4800-b72c-6a6252a9cb90.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

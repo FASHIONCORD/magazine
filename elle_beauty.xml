@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 10:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 17:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12시간만 먹고 끝내는 ‘시간 제한 다이어트’_몸에 좋은 잔소리 #28]]></title>
+            <link>https://www.elle.co.kr/article/58963</link>
+            <guid>https://www.elle.co.kr/article/58963</guid>
+            <pubDate>Fri, 01 Oct 2021 17:45:57 GMT</pubDate>
+            <content:encoded><![CDATA[먹는 시간만 제한해도 살이 빠진다?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/360d0d6a-f2b1-4fea-8fc0-9d57533dcf89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬의 독보적인 우아함]]></title>
             <link>https://www.elle.co.kr/article/58730</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
             <content:encoded><![CDATA[트리플 A형, 걱정 인형을 끌어안고 사는 극소심 성격 소유자, 작은 일에도 놀라는 개복치들에...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/21/22982843-5949-4722-ae99-90fe827c40f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리얼웨이 가을 트렌드 메이크업 키워드 3_선배's 어드바이스 #83]]></title>
-            <link>https://www.elle.co.kr/article/58683</link>
-            <guid>https://www.elle.co.kr/article/58683</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[마스크 속에도 가을은 온다. 쇼핑 카트에 메이크업 신제품 한둘 담고픈 욕망이 솔솔. 딱 세 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/20/181ec8d1-a425-4f03-8c65-287acebac05f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

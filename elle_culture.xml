@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 10:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 17:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이 조합 대박이겠는데?’ 리정이 그린 큰 그림. 최강조합 #YGX]]></title>
+            <link>https://www.elle.co.kr/article/58958</link>
+            <guid>https://www.elle.co.kr/article/58958</guid>
+            <pubDate>Fri, 01 Oct 2021 17:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[춤을 통해 살아 있음을 증명하고 싶은 ‘춤생춤사’ YGX와 엘르가 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/d90d8c31-b676-4262-90e1-9b4ca979df5d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '오징어 게임'으로 흥한 의외의 K컬쳐]]></title>
             <link>https://www.elle.co.kr/article/58964</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:55:42 GMT</pubDate>
             <content:encoded><![CDATA[댄서들이 인정하는 댄서.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/46697859-3cd3-496b-b05f-a222eb42fd78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션월드도 사로잡은 NFT! 그게 대체 뭐길래?]]></title>
-            <link>https://www.elle.co.kr/article/58873</link>
-            <guid>https://www.elle.co.kr/article/58873</guid>
-            <pubDate>Fri, 01 Oct 2021 08:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[손에 잡히지 않아 더 감질나는 '오리지널'의 매력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/0e849f18-17a4-4f9d-8df6-7fa8937e7ad8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 10:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 17:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷 잘 입는 스타들의 가을 아우터 5]]></title>
+            <link>https://www.elle.co.kr/article/58892</link>
+            <guid>https://www.elle.co.kr/article/58892</guid>
+            <pubDate>Fri, 01 Oct 2021 17:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 티셔츠 위 가벼운 아우터가 필요할 때! 시크한 레더 점퍼부터 캐주얼한 셔츠 재킷까지,...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/14c58391-ba25-4ef8-bc69-4a132907039a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가슴 보일라! 마이크로 카디건 열풍]]></title>
             <link>https://www.elle.co.kr/article/58872</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
             <content:encoded><![CDATA[미우치아 프라다와 라프 시몬스의 새로운 2022 SS 컬렉션이 곧 공개됩니다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/863c61c4-630e-419d-b0e2-adb6905c1b3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계를 접수한 #제니 파워! 샤넬 글로벌 캠페인 모델까지!]]></title>
-            <link>https://www.elle.co.kr/article/58735</link>
-            <guid>https://www.elle.co.kr/article/58735</guid>
-            <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[변함없이 매력적인 모습으로 올 겨울 스포츠웨어 트렌드를 선도할 샤넬 코코 네쥬 컬렉션의 얼굴...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/793f5269-9210-48a9-9f52-58202270d285.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
