@@ -68,6 +68,7 @@ https://www.wkorea.com/feed/
 - HOROSCOPE: https://www.wkorea.com/category/horoscope/feed/
 - W TV: https://www.wkorea.com/category/w-tv/feed/
 - COLLECTION TV: https://www.wkorea.com/category/collection-tv/feed/
+- LOVE YOUR W: https://www.wkorea.com/category/love-your-w/feed/
 
 ## [엘르 코리아](https://github.com/FASHIONCORD/elle) | 허스트중앙
 https://fashioncord.github.io/elle/all.xml
@@ -94,6 +95,8 @@ https://fashioncord.github.io/harpersbazaar/all.xml
 
 ## 에스콰이어 코리아 | 허스트중앙
 
+
+# 플랫폼
 ## [무신사](https://github.com/FASHIONCORD/musinsa)
 https://fashioncord.github.io/musinsa/all.xml
 - https://fashioncord.github.io/musinsa/news.xml
