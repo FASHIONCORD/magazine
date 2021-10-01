@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 21:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 22:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비비는 오늘도 자유롭게 비행중]]></title>
+            <link>https://www.elle.co.kr/article/58980</link>
+            <guid>https://www.elle.co.kr/article/58980</guid>
+            <pubDate>Fri, 01 Oct 2021 22:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[자신만의 방식대로 지금을 그려나가는 비비.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/0a8df816-957f-4507-9a89-95a2067cbccf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채림이 아들 민우를 방송 최초로 공개하며 눈물을 흘린 이유]]></title>
             <link>https://www.elle.co.kr/article/58955</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:44:32 GMT</pubDate>
             <content:encoded><![CDATA[댄서들이 인정하는 댄서.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/46697859-3cd3-496b-b05f-a222eb42fd78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑스럽고 감각적인 매력 발산! 나연이 전하는 눈부신 미학.]]></title>
-            <link>https://www.elle.co.kr/article/58831</link>
-            <guid>https://www.elle.co.kr/article/58831</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[과거와 현재의 경계에 선 나연의 약동하는 아름다움 속으로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/bcbbd2d7-8016-4f9f-98fb-3ab7ae854c8b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

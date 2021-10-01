@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 21:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 22:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단조로운 공간이 지겨울 때, 변화를 줄 공예품 3]]></title>
+            <link>https://www.elle.co.kr/article/58866</link>
+            <guid>https://www.elle.co.kr/article/58866</guid>
+            <pubDate>Fri, 01 Oct 2021 22:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[방에 두는 순간 바로 우리 집이 갤러리!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/57a2759e-7cfa-47cf-9439-3d6436af9253.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을엔 분위기 있게 와인 한 잔! 벌써 핫플 예감 오는 와인바 3 #신상맛집]]></title>
             <link>https://www.elle.co.kr/article/58844</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 09:08:50 GMT</pubDate>
             <content:encoded><![CDATA[삶은 예술! 일상에 끼얹는 유니크한 마법 한 스푼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/66918657-3a16-48f9-aab5-96fd957ce905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 브랜드의 DNA를 간직한 리빙 아이템(1)]]></title>
-            <link>https://www.elle.co.kr/article/58707</link>
-            <guid>https://www.elle.co.kr/article/58707</guid>
-            <pubDate>Fri, 01 Oct 2021 09:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[삶은 예술! 일상에 끼얹는 유니크한 마법 한 스푼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/5de38c11-6431-4c84-95dd-b3d5fdbe52f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
