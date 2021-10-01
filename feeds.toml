@@ -105,3 +105,33 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+
+[elle_fashion]
+title = "엘르 코리아 ─ 패션"
+url = "https://www.elle.co.kr/fashion"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[elle_beauty]
+title = "엘르 코리아 ─ 뷰티"
+url = "https://www.elle.co.kr/beauty"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[elle_star]
+title = "엘르 코리아 ─ 스타"
+url = "https://www.elle.co.kr/star"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
