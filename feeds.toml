@@ -175,3 +175,23 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitUntil = "networkidle"
+
+[elle_loveandlife]
+title = "엘르 코리아 ─ 컬쳐 ─ 러브&라이프"
+url = "https://www.elle.co.kr/loveandlife"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[elle_society]
+title = "엘르 코리아 ─ 소사이어티"
+url = "https://www.elle.co.kr/society"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
