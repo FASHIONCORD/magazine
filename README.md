@@ -58,6 +58,17 @@ https://www.allurekorea.com/feed/
 - WELLNESS: https://www.allurekorea.com/category/wellness/feed/
 - VIDEO: https://www.allurekorea.com/video/feed/
 
+## 더블유 코리아 | 두산매거진
+https://www.wkorea.com/feed/
+- FASHION: https://www.wkorea.com/category/fashion/feed/
+- BEAUTY: https://www.wkorea.com/category/beauty/feed/
+- FEATURE: https://www.wkorea.com/category/feature/feed/
+- SUSTAINABLE: https://www.wkorea.com/category/sustainable/feed/
+- WHAT’S NEW: https://www.wkorea.com/category/whats-new/feed/
+- HOROSCOPE: https://www.wkorea.com/category/horoscope/feed/
+- W TV: https://www.wkorea.com/category/w-tv/feed/
+- COLLECTION TV: https://www.wkorea.com/category/collection-tv/feed/
+
 ## [엘르 코리아](https://github.com/FASHIONCORD/elle) | 허스트중앙
 https://fashioncord.github.io/elle/all.xml
 - 패션: https://fashioncord.github.io/elle/fashion.xml
