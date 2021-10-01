@@ -39,3 +39,8 @@ https://www.gqkorea.co.kr/feed/
 - WATCH: https://www.gqkorea.co.kr/category/watch/feed/  
 - VIDEO: https://www.gqkorea.co.kr/category/video/feed/  
 - SEX: https://www.gqkorea.co.kr/category/sex/feed/  
+
+## 엘르코리아
+- 패션: https://fashioncord.github.io/magazine/elle_fashion.xml
+- 뷰티: https://fashioncord.github.io/magazine/elle_beauty.xml
+- 스타: https://fashioncord.github.io/magazine/elle_star.xml
