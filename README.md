@@ -28,7 +28,7 @@ https://hypebeast.kr/feed/
 - https://fashioncord.github.io/magazine/naverpost_hypebeast_travel.xml
 - https://fashioncord.github.io/magazine/naverpost_hypebeast_sports.xml
 
-## 지큐 코리아
+## 지큐 코리아 | 두산매거진
 https://www.gqkorea.co.kr/feed/  
 - STYLE: https://www.gqkorea.co.kr/category/style/feed/  
 - SNEAKERS: https://www.gqkorea.co.kr/category/sneakers/feed/  
@@ -39,6 +39,15 @@ https://www.gqkorea.co.kr/feed/
 - WATCH: https://www.gqkorea.co.kr/category/watch/feed/  
 - VIDEO: https://www.gqkorea.co.kr/category/video/feed/  
 - SEX: https://www.gqkorea.co.kr/category/sex/feed/  
+
+## [보그 코리아](https://github.com/FASHIONCORD/vogue) | 두산매거진
+https://fashioncord.github.io/vogue/all.xml
+- https://fashioncord.github.io/vogue/fashion.xml
+- https://fashioncord.github.io/vogue/beauty.xml
+- https://fashioncord.github.io/vogue/living.xml
+- https://fashioncord.github.io/vogue/people.xml
+- https://fashioncord.github.io/vogue/voguetv.xml
+- https://fashioncord.github.io/vogue/shopping.xml
 
 ## [엘르 코리아](https://github.com/FASHIONCORD/elle) | 허스트중앙
 https://fashioncord.github.io/elle/all.xml
@@ -60,15 +69,6 @@ https://fashioncord.github.io/harpersbazaar/all.xml
 - https://fashioncord.github.io/harpersbazaar/artandculture.xml
 - https://fashioncord.github.io/harpersbazaar/lifestyle.xml
 - https://fashioncord.github.io/harpersbazaar/sustainability.xml
-
-## [보그 코리아](https://github.com/FASHIONCORD/vogue)
-https://fashioncord.github.io/vogue/all.xml
-- https://fashioncord.github.io/vogue/fashion.xml
-- https://fashioncord.github.io/vogue/beauty.xml
-- https://fashioncord.github.io/vogue/living.xml
-- https://fashioncord.github.io/vogue/people.xml
-- https://fashioncord.github.io/vogue/voguetv.xml
-- https://fashioncord.github.io/vogue/shopping.xml
 
 ## [무신사](https://github.com/FASHIONCORD/musinsa)
 https://fashioncord.github.io/musinsa/all.xml
