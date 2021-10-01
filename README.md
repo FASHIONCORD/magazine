@@ -40,7 +40,13 @@ https://www.gqkorea.co.kr/feed/
 - VIDEO: https://www.gqkorea.co.kr/category/video/feed/  
 - SEX: https://www.gqkorea.co.kr/category/sex/feed/  
 
-## 엘르코리아
-- 패션: https://fashioncord.github.io/magazine/elle_fashion.xml
-- 뷰티: https://fashioncord.github.io/magazine/elle_beauty.xml
-- 스타: https://fashioncord.github.io/magazine/elle_star.xml
+## [엘르코리아](https://github.com/FASHIONCORD/elle)
+- https://FASHIONCORD.github.io/magazine/elle_fashion.xml
+- https://FASHIONCORD.github.io/magazine/elle_beauty.xml
+- https://FASHIONCORD.github.io/magazine/elle_star.xml
+- https://FASHIONCORD.github.io/magazine/elle_culture.xml
+- https://FASHIONCORD.github.io/magazine/elle_culture_music.xml
+- https://FASHIONCORD.github.io/magazine/elle_culture_moviesandtv.xml
+- https://FASHIONCORD.github.io/magazine/elle_culture_artanddesign.xml
+- https://FASHIONCORD.github.io/magazine/elle_loveandlife.xml
+- https://FASHIONCORD.github.io/magazine/elle_society.xml
