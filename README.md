@@ -94,7 +94,15 @@ https://fashioncord.github.io/harpersbazaar/all.xml
 ## 코스모폴리탄 코리아 | 허스트중앙
 
 ## 에스콰이어 코리아 | 허스트중앙
-
+https://fashioncord.github.io/esquire/all.xml
+- https://fashioncord.github.io/esquire/style.xml
+- https://fashioncord.github.io/esquire/watch.xml
+- https://fashioncord.github.io/esquire/carandtech.xml
+- https://fashioncord.github.io/esquire/food.xml
+- https://fashioncord.github.io/esquire/life.xml
+- https://fashioncord.github.io/esquire/people.xml
+- https://fashioncord.github.io/esquire/now.xml
+- https://fashioncord.github.io/esquire/eshop.xml
 
 # 플랫폼
 ## [무신사](https://github.com/FASHIONCORD/musinsa)
@@ -106,6 +114,7 @@ https://fashioncord.github.io/musinsa/all.xml
 - https://fashioncord.github.io/musinsa/shopstaff.xml
 - https://fashioncord.github.io/musinsa/recruit.xml
 - https://fashioncord.github.io/musinsa/tv.xml
+### 네이버 포스트
 - https://fashioncord.github.io/musinsa/naverpost_musinsa_snap.xml
 - https://fashioncord.github.io/musinsa/naverpost_musinsa_report.xml
 - https://fashioncord.github.io/musinsa/naverpost_musinsa_stylefactory.xml
