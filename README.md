@@ -28,7 +28,7 @@ https://hypebeast.kr/feed/
 - https://fashioncord.github.io/magazine/naverpost_hypebeast_travel.xml
 - https://fashioncord.github.io/magazine/naverpost_hypebeast_sports.xml
 
-## 지큐코리아
+## 지큐 코리아
 https://www.gqkorea.co.kr/feed/  
 - STYLE: https://www.gqkorea.co.kr/category/style/feed/  
 - SNEAKERS: https://www.gqkorea.co.kr/category/sneakers/feed/  
@@ -40,7 +40,7 @@ https://www.gqkorea.co.kr/feed/
 - VIDEO: https://www.gqkorea.co.kr/category/video/feed/  
 - SEX: https://www.gqkorea.co.kr/category/sex/feed/  
 
-## [엘르코리아](https://github.com/FASHIONCORD/elle)
+## [엘르 코리아](https://github.com/FASHIONCORD/elle)
 - https://FASHIONCORD.github.io/magazine/elle_fashion.xml
 - https://FASHIONCORD.github.io/magazine/elle_beauty.xml
 - https://FASHIONCORD.github.io/magazine/elle_star.xml
@@ -50,3 +50,5 @@ https://www.gqkorea.co.kr/feed/
 - https://FASHIONCORD.github.io/magazine/elle_culture_artanddesign.xml
 - https://FASHIONCORD.github.io/magazine/elle_loveandlife.xml
 - https://FASHIONCORD.github.io/magazine/elle_society.xml
+
+## [하퍼스바자 코리아](https://github.com/FASHIONCORD/harpersbazaar)
