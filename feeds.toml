@@ -135,3 +135,43 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitUntil = "networkidle"
+
+[elle_culture]
+title = "엘르 코리아 ─ 컬쳐"
+url = "https://www.elle.co.kr/culture"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[elle_culture_music]
+title = "엘르 코리아 ─ 컬쳐 ─ 뮤직"
+url = "https://www.elle.co.kr/culture/music"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[elle_culture_moviesandtv]
+title = "엘르 코리아 ─ 컬쳐 ─ 무비&TV"
+url = "https://www.elle.co.kr/culture/moviesandtv"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
+
+[elle_culture_artanddesign]
+title = "엘르 코리아 ─ 컬쳐 ─ 아트&디자인"
+url = "https://www.elle.co.kr/culture/artanddesign"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitUntil = "networkidle"
