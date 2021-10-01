@@ -50,7 +50,13 @@ https://fashioncord.github.io/vogue/all.xml
 - https://fashioncord.github.io/vogue/shopping.xml
 
 ## 얼루어 코리아
-
+https://www.allurekorea.com/feed/
+- BEAUTY: https://www.allurekorea.com/category/beauty/feed/
+- FASHION: https://www.allurekorea.com/category/fashion/feed/
+- FEATURE: https://www.allurekorea.com/category/feature/feed/
+- CELEBRITY: https://www.allurekorea.com/category/celebrity/feed/
+- WELLNESS: https://www.allurekorea.com/category/wellness/feed/
+- VIDEO: https://www.allurekorea.com/video/feed/
 
 ## [엘르 코리아](https://github.com/FASHIONCORD/elle) | 허스트중앙
 https://fashioncord.github.io/elle/all.xml
