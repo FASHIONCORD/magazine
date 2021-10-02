@@ -29,9 +29,6 @@ https://fashioncord.github.io/hypebeast/all.xml
 - https://fashioncord.github.io/hypebeast/naverpost_hypebeast_travel.xml
 - https://fashioncord.github.io/hypebeast/naverpost_hypebeast_sports.xml
 
-A combined feed is available at:
-	https://fashioncord.github.io/hypebeast/all.xml
-
 ## 지큐 코리아 | 두산매거진
 https://www.gqkorea.co.kr/feed/  
 - STYLE: https://www.gqkorea.co.kr/category/style/feed/  
