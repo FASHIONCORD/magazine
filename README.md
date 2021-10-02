@@ -82,6 +82,13 @@ https://fashioncord.github.io/elle/all.xml
    - 아트&디자인: https://fashioncord.github.io/elle/culture_artanddesign.xml
 - 러브&라이프: https://fashioncord.github.io/elle/loveandlife.xml
 - 소사이어티: https://fashioncord.github.io/elle/society.xml
+### 네이버 포스트
+- https://FASHIONCORD.github.io/elle/naverpost_elle_loveandlife.xml
+- https://FASHIONCORD.github.io/elle/naverpost_elle_shop.xml
+- https://FASHIONCORD.github.io/elle/naverpost_elle_beauty.xml
+- https://FASHIONCORD.github.io/elle/naverpost_elle_fashion.xml
+- https://FASHIONCORD.github.io/elle/naverpost_elle_star.xml
+- https://FASHIONCORD.github.io/elle/naverpost_elle_notice.xml
 
 ## [하퍼스바자 코리아](https://github.com/FASHIONCORD/harpersbazaar) | 허스트중앙
 https://fashioncord.github.io/harpersbazaar/all.xml
@@ -92,7 +99,14 @@ https://fashioncord.github.io/harpersbazaar/all.xml
 - https://fashioncord.github.io/harpersbazaar/lifestyle.xml
 - https://fashioncord.github.io/harpersbazaar/sustainability.xml
 
-## 코스모폴리탄 코리아 | 허스트중앙
+## [코스모폴리탄 코리아](https://github.com/FASHIONCORD/cosmopolitan) | 허스트중앙
+https://fashioncord.github.io/cosmopolitan/all.xml
+- https://fashioncord.github.io/cosmopolitan/fashion.xml
+- https://fashioncord.github.io/cosmopolitan/beauty.xml
+- https://fashioncord.github.io/cosmopolitan/celebs.xml
+- https://fashioncord.github.io/cosmopolitan/love.xml
+- https://fashioncord.github.io/cosmopolitan/life.xml
+- https://fashioncord.github.io/cosmopolitan/cofficial.xml
 
 ## [에스콰이어 코리아](https://github.com/FASHIONCORD/esquire) | 허스트중앙
 https://fashioncord.github.io/esquire/all.xml
