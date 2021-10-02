@@ -1,6 +1,6 @@
 # 패션 매거진
 
-## 하입비스트
+## [하입비스트](https://github.com/FASHIONCORD/hypebeast)
 https://hypebeast.kr/feed/  
 - 패션: https://hypebeast.kr/fashion/feed/  
 - 신발: https://hypebeast.kr/footwear/feed/  
