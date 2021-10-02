@@ -98,6 +98,13 @@ https://fashioncord.github.io/harpersbazaar/all.xml
 - https://fashioncord.github.io/harpersbazaar/artandculture.xml
 - https://fashioncord.github.io/harpersbazaar/lifestyle.xml
 - https://fashioncord.github.io/harpersbazaar/sustainability.xml
+###
+- https://fashioncord.github.io/harpersbazaar/naverpost_life.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_fashion.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_celebs.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_beauty.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_event.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_art.xml
 
 ## [코스모폴리탄 코리아](https://github.com/FASHIONCORD/cosmopolitan) | 허스트중앙
 https://fashioncord.github.io/cosmopolitan/all.xml
