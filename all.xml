@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 09:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 17:50:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/25/26f6dad9-bb0d-4c31-a8b6-eca86c4affe5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[문숙이 알려주는 침대 위 15분 아침 요가 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/58981</link>
+            <guid>https://www.elle.co.kr/article/58981</guid>
+            <pubDate>Sat, 02 Oct 2021 17:47:35 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 삶을 지향하는 문숙과 함께 간단하고 쉬운 요가로 아침을 시작해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/33c65c4c-4c74-443b-a5f8-d2d1de287282.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[12시간만 먹고 끝내는 ‘시간 제한 다이어트’_몸에 좋은 잔소리 #28 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/58963</link>
             <guid>https://www.elle.co.kr/article/58963</guid>
@@ -1920,12 +1928,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/21/d98a6399-bb27-4b87-a82d-833ecfbae42e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[걱정도 병? 아니, 걱정이 약! (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/58684</link>
-            <guid>https://www.elle.co.kr/article/58684</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[트리플 A형, 걱정 인형을 끌어안고 사는 극소심 성격 소유자, 작은 일에도 놀라는 개복치들에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/21/22982843-5949-4722-ae99-90fe827c40f1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[문숙이 알려주는 침대 위 15분 아침 요가 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/58981</link>
+            <guid>https://www.elle.co.kr/article/58981</guid>
+            <pubDate>Sat, 02 Oct 2021 17:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 삶을 지향하는 문숙과 함께 간단하고 쉬운 요가로 아침을 시작해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/33c65c4c-4c74-443b-a5f8-d2d1de287282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비비는 오늘도 자유롭게 비행중 (엘르 코리아 ─ 스타)]]></title>
@@ -1982,14 +1990,6 @@
             <pubDate>Fri, 01 Oct 2021 08:44:32 GMT</pubDate>
             <content:encoded><![CDATA[지금은 티셔츠 위 가벼운 아우터가 필요할 때! 시크한 레더 점퍼부터 캐주얼한 셔츠 재킷까지,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/14c58391-ba25-4ef8-bc69-4a132907039a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 라치카 헬퍼 댄서로 깜짝 등장! '보깅의 어머니' 러브란은 누구? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/58889</link>
-            <guid>https://www.elle.co.kr/article/58889</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[댄서들이 인정하는 댄서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/46697859-3cd3-496b-b05f-a222eb42fd78.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘이 조합 대박이겠는데?’ 리정이 그린 큰 그림. 최강조합 #YGX (엘르 코리아 ─ 컬쳐)]]></title>

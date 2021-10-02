@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 09:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 17:50:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문숙이 알려주는 침대 위 15분 아침 요가]]></title>
+            <link>https://www.elle.co.kr/article/58981</link>
+            <guid>https://www.elle.co.kr/article/58981</guid>
+            <pubDate>Sat, 02 Oct 2021 17:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 삶을 지향하는 문숙과 함께 간단하고 쉬운 요가로 아침을 시작해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/33c65c4c-4c74-443b-a5f8-d2d1de287282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비비는 오늘도 자유롭게 비행중]]></title>
             <link>https://www.elle.co.kr/article/58980</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:44:32 GMT</pubDate>
             <content:encoded><![CDATA[지금은 티셔츠 위 가벼운 아우터가 필요할 때! 시크한 레더 점퍼부터 캐주얼한 셔츠 재킷까지,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/14c58391-ba25-4ef8-bc69-4a132907039a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 라치카 헬퍼 댄서로 깜짝 등장! '보깅의 어머니' 러브란은 누구?]]></title>
-            <link>https://www.elle.co.kr/article/58889</link>
-            <guid>https://www.elle.co.kr/article/58889</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[댄서들이 인정하는 댄서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/46697859-3cd3-496b-b05f-a222eb42fd78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
