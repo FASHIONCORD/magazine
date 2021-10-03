@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 17:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 05:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따라 하고 싶은 셀러브리티의 올 화이트 스타일링 5]]></title>
+            <link>https://www.elle.co.kr/article/58982</link>
+            <guid>https://www.elle.co.kr/article/58982</guid>
+            <pubDate>Sun, 03 Oct 2021 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[쿨한 화이트 룩을 원한다면? 스포티한 원마일웨어부터 출근 룩까지 스타들의 데일리룩을 참고해 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/28d9fabd-81cb-479f-831c-f58d4faeb166.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문숙이 알려주는 침대 위 15분 아침 요가]]></title>
             <link>https://www.elle.co.kr/article/58981</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:44:32 GMT</pubDate>
             <content:encoded><![CDATA[평생의 콤플렉스를 해결해 준 건 친동생 미르.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/82555146-acea-491a-b9d4-0e5e86b8a100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷 잘 입는 스타들의 가을 아우터 5]]></title>
-            <link>https://www.elle.co.kr/article/58892</link>
-            <guid>https://www.elle.co.kr/article/58892</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[지금은 티셔츠 위 가벼운 아우터가 필요할 때! 시크한 레더 점퍼부터 캐주얼한 셔츠 재킷까지,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/14c58391-ba25-4ef8-bc69-4a132907039a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
