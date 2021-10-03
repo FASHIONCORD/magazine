@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 05:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 17:48:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을맞이 새 신발 쇼핑 (feat. 로퍼)]]></title>
+            <link>https://www.elle.co.kr/article/58939</link>
+            <guid>https://www.elle.co.kr/article/58939</guid>
+            <pubDate>Sun, 03 Oct 2021 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[‘요즘 뭐 신지?’ 고민이라면 주목! 단정하고 귀여운 매력의 로퍼 쇼핑 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/0b3fb62b-ca69-4f93-9db0-2286ab024201.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간이 지나도 변함없는 스타일과 기능성의 COS의 AW21 컬렉션]]></title>
             <link>https://www.elle.co.kr/article/58903</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
             <content:encoded><![CDATA[우주를 향한 열망이 패션계에서도 비로소 구체화되기 시작했다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/63dfe46c-1012-4313-97b7-1ab8e09441e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 부츠 시대]]></title>
-            <link>https://www.elle.co.kr/article/58789</link>
-            <guid>https://www.elle.co.kr/article/58789</guid>
-            <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[미니스커트와 매치한 ‘쿨’한 90년대 스타일부터 클래식하게 연출한 승마룩까지, 계절을 타지않...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/25/26f6dad9-bb0d-4c31-a8b6-eca86c4affe5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
