@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 05:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 17:53:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백지영이 다이어트 카운슬러에게 전수 받은 탄수화물 제한 식단]]></title>
+            <link>https://www.elle.co.kr/article/58990</link>
+            <guid>https://www.elle.co.kr/article/58990</guid>
+            <pubDate>Mon, 04 Oct 2021 17:47:56 GMT</pubDate>
+            <content:encoded><![CDATA[하지만 백지영도 넘지 못한 일주일의 벽...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/3c513cdc-673b-4588-94de-1e843140b2b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세경의 시크릿 뷰티]]></title>
+            <link>https://www.elle.co.kr/article/58888</link>
+            <guid>https://www.elle.co.kr/article/58888</guid>
+            <pubDate>Mon, 04 Oct 2021 17:47:56 GMT</pubDate>
+            <content:encoded><![CDATA[신세경이 간직한 신비로움의 비결. 아베다 인바티 어드밴스드™로 달라진 그녀의 뷰티 모멘츠를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/83e3d2e4-0e48-4cf9-98ef-c5493ebdfdcb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문숙이 알려주는 침대 위 15분 아침 요가]]></title>
             <link>https://www.elle.co.kr/article/58981</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
             <content:encoded><![CDATA[집에서 한 발자국도 나가고 싶지 않을 때! 아이비가 냉장고를 털어 만든 요리를 참고해 간단한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/328801cb-5abd-4fbc-a12d-44d101641bca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제로웨이스트를 위한 첫 걸음]]></title>
-            <link>https://www.elle.co.kr/article/58751</link>
-            <guid>https://www.elle.co.kr/article/58751</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[플라스틱 없는 욕실을 위한 샴푸 바.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/0c7519a6-4381-44dd-b795-de860f485cd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향수보다 핫하다는 퍼퓸 손 세정제 4]]></title>
-            <link>https://www.elle.co.kr/article/58688</link>
-            <guid>https://www.elle.co.kr/article/58688</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[파우치 필수템으로 완벽!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/21/d98a6399-bb27-4b87-a82d-833ecfbae42e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

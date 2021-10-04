@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 05:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 17:53:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[본 적 없는 #제임스본드, 라샤나 린치]]></title>
+            <link>https://www.elle.co.kr/article/58973</link>
+            <guid>https://www.elle.co.kr/article/58973</guid>
+            <pubDate>Mon, 04 Oct 2021 17:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[여성, 흑인 모든 핸디캡을 뛰어넘은 007 노타임투다이의 새 얼굴]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/439715e9-8a78-44c9-9fe6-b76cd6fc4812.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘이 조합 대박이겠는데?’ 리정이 그린 큰 그림. 최강조합 #YGX]]></title>
             <link>https://www.elle.co.kr/article/58958</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:55:42 GMT</pubDate>
             <content:encoded><![CDATA[평생의 콤플렉스를 해결해 준 건 친동생 미르.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/82555146-acea-491a-b9d4-0e5e86b8a100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 라치카 헬퍼 댄서로 깜짝 등장! '보깅의 어머니' 러브란은 누구?]]></title>
-            <link>https://www.elle.co.kr/article/58889</link>
-            <guid>https://www.elle.co.kr/article/58889</guid>
-            <pubDate>Fri, 01 Oct 2021 08:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[댄서들이 인정하는 댄서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/46697859-3cd3-496b-b05f-a222eb42fd78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

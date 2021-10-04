@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 05:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 17:53:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[필드 위 자신감 상승 #골린이 패션]]></title>
+            <link>https://www.elle.co.kr/article/59002</link>
+            <guid>https://www.elle.co.kr/article/59002</guid>
+            <pubDate>Mon, 04 Oct 2021 17:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[일상과 필드를 넘나드는 새로운 골프웨어의 등장.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/3b0695d3-ed37-49b7-aae5-caeca82b9d11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[따라 하고 싶은 셀러브리티의 올 화이트 스타일링 5]]></title>
+            <link>https://www.elle.co.kr/article/58982</link>
+            <guid>https://www.elle.co.kr/article/58982</guid>
+            <pubDate>Mon, 04 Oct 2021 17:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[쿨한 화이트 룩을 원한다면? 스포티한 원마일웨어부터 출근 룩까지 스타들의 데일리룩을 참고해 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/28d9fabd-81cb-479f-831c-f58d4faeb166.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오니츠카타이거, <MILAN-TOKYO>테마의 2022 S/S 디지털 컬렉션 공개]]></title>
+            <link>https://www.elle.co.kr/article/58902</link>
+            <guid>https://www.elle.co.kr/article/58902</guid>
+            <pubDate>Mon, 04 Oct 2021 17:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[도쿄 곳곳에서 선보이는 오니츠카타이거의 2022 S/S 컬렉션]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/750d37bf-b31e-44b7-accd-dd94061ab406.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을맞이 새 신발 쇼핑 (feat. 로퍼)]]></title>
             <link>https://www.elle.co.kr/article/58939</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
             <content:encoded><![CDATA[자유로운 창조 정신에서 비롯된 대담한 도전 그 자체.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/eb2a4051-f8d9-4984-ba36-c3eaad3d6494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '카바레'의 주인공처럼, 반짝이고 찰랑이는 카바레 패션]]></title>
-            <link>https://www.elle.co.kr/article/58839</link>
-            <guid>https://www.elle.co.kr/article/58839</guid>
-            <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[1970년대 밥 포시의 뮤지컬영화 '카바레' 속 패션 따라잡기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/a216cedb-afcc-404b-80e8-22e1079cb4ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨라 하디드가 푹 빠진 이것? 카고 팬츠 이렇게 입기]]></title>
-            <link>https://www.elle.co.kr/article/58793</link>
-            <guid>https://www.elle.co.kr/article/58793</guid>
-            <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[추억의 아이템 역주행 소식! Y2K 바람을 타고 포켓이 주렁주렁 달린 카고팬츠가 돌아왔어요....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/25/ec36b0d2-2918-4229-8fd2-982c8dad8194.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주의 기운으로 가득한 패션계 이야기]]></title>
-            <link>https://www.elle.co.kr/article/58791</link>
-            <guid>https://www.elle.co.kr/article/58791</guid>
-            <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[우주를 향한 열망이 패션계에서도 비로소 구체화되기 시작했다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/63dfe46c-1012-4313-97b7-1ab8e09441e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
