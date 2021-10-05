@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 17:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 05:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서촌에서 즐기는 향긋한 차의 풍경, 전시 '다함께 차차차']]></title>
+            <link>https://www.elle.co.kr/article/59045</link>
+            <guid>https://www.elle.co.kr/article/59045</guid>
+            <pubDate>Tue, 05 Oct 2021 05:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[다구 구경하고, 특별한 차 맛도 보고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/8ad569d9-dcd2-4767-911b-73ec03bd2b33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금, 여기의 미술들이 있는 곳! 10월 미디어 비엔날레 2 #인싸 전시_36]]></title>
             <link>https://www.elle.co.kr/article/58986</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
             <content:encoded><![CDATA[김나영의 새로운 ‘노필터 티비’ 사무실이 드디어 공개되었습니다! 그녀의 취향과 감각이 가득 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/05/37eaad47-83e5-4268-8872-c9ce380b5f7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간의 흐름을 거슬러 미지에서 온 질문 #인싸 전시_34]]></title>
-            <link>https://www.elle.co.kr/article/58249</link>
-            <guid>https://www.elle.co.kr/article/58249</guid>
-            <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
-            <content:encoded><![CDATA[전혀 다른 시공간 속 두 남자는 배우 박정민과 갓세븐 진영이 연기했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/18/41eb11e3-a399-40eb-8cd8-84a2efe4556e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
