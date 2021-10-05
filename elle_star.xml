@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 05:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 17:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을엔 트렌치코트! 따라하고 싶은 가을 데일리 룩 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/59033</link>
+            <guid>https://www.elle.co.kr/article/59033</guid>
+            <pubDate>Tue, 05 Oct 2021 17:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[트렌치코트가 빛을 발하는 계절, 가을! 어떻게 입어야 좋을지 고민이라면? 옷 잘 입기로 유명...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/fc5ce8f7-b43f-4e8c-bb58-06e689697924.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달릴 준비가 되어 있는 배우, 강민아 #엘르런]]></title>
+            <link>https://www.elle.co.kr/article/59029</link>
+            <guid>https://www.elle.co.kr/article/59029</guid>
+            <pubDate>Tue, 05 Oct 2021 17:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 마음과 환한 미소로 도약할 준비가 되어 있는 97년생 배우 강민아]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/b7b2afc0-9f70-4a23-8743-d698744ec8c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비즈니스 파트너이자 동갑내기 찐친, 허니제이X박재범]]></title>
+            <link>https://www.elle.co.kr/article/59023</link>
+            <guid>https://www.elle.co.kr/article/59023</guid>
+            <pubDate>Tue, 05 Oct 2021 17:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이의 '홀리뱅'이란 크루명도 박재범과 의논했다고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/77f7df2d-7f22-43be-9eb2-ac2584efcfb9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[계절이 바뀌며 윤박도 바뀐다]]></title>
             <link>https://www.elle.co.kr/article/59020</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 03 Oct 2021 05:40:35 GMT</pubDate>
             <content:encoded><![CDATA[쿨한 화이트 룩을 원한다면? 스포티한 원마일웨어부터 출근 룩까지 스타들의 데일리룩을 참고해 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/28d9fabd-81cb-479f-831c-f58d4faeb166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문숙이 알려주는 침대 위 15분 아침 요가]]></title>
-            <link>https://www.elle.co.kr/article/58981</link>
-            <guid>https://www.elle.co.kr/article/58981</guid>
-            <pubDate>Sat, 02 Oct 2021 17:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 삶을 지향하는 문숙과 함께 간단하고 쉬운 요가로 아침을 시작해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/33c65c4c-4c74-443b-a5f8-d2d1de287282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비비는 오늘도 자유롭게 비행중]]></title>
-            <link>https://www.elle.co.kr/article/58980</link>
-            <guid>https://www.elle.co.kr/article/58980</guid>
-            <pubDate>Fri, 01 Oct 2021 22:31:41 GMT</pubDate>
-            <content:encoded><![CDATA[자신만의 방식대로 지금을 그려나가는 비비.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/0a8df816-957f-4507-9a89-95a2067cbccf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채림이 아들 민우를 방송 최초로 공개하며 눈물을 흘린 이유]]></title>
-            <link>https://www.elle.co.kr/article/58955</link>
-            <guid>https://www.elle.co.kr/article/58955</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[JTBC '내가 키운다'에서 아들과의 일상을 전했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/e891078e-7460-45a2-9d0e-218a1d6cc16f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

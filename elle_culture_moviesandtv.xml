@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 05:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 17:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오징어게임' 최대 수혜자 정호연, '도수코' 도전자에서 '넷플수저' 되기까지]]></title>
+            <link>https://www.elle.co.kr/article/59054</link>
+            <guid>https://www.elle.co.kr/article/59054</guid>
+            <pubDate>Tue, 05 Oct 2021 17:47:18 GMT</pubDate>
+            <content:encoded><![CDATA[배우 데뷔작이 '오징어게임'...!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/ce59c957-6e0e-432c-b6bf-af759172e680.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 막 내린 '환승연애', 과몰입 유발 영상 TOP 3]]></title>
             <link>https://www.elle.co.kr/article/58997</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:56:56 GMT</pubDate>
             <content:encoded><![CDATA[임시완의 입대 날도 전역 날도 함께 했다는 설경구.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/c3de877a-7661-40ad-8f4d-c1d03e0b3847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존재 자체가 ‘심쿵해’ 크리스틴 스튜어트_요주의 여성 #31]]></title>
-            <link>https://www.elle.co.kr/article/58774</link>
-            <guid>https://www.elle.co.kr/article/58774</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:56 GMT</pubDate>
-            <content:encoded><![CDATA[숏컷, 청바지, 샤넬이 잘 어울리는 여자. ‘멋지다’는 말로는 한없이 부족한 크리스틴 스튜어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/fd3cca7f-d3c7-4f0a-94a8-7457217b89f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

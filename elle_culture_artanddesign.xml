@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 05:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 17:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모델하우스 맞아? 멋지게 변신한 이곳 #원에디션아트스페이스]]></title>
+            <link>https://www.elle.co.kr/article/59068</link>
+            <guid>https://www.elle.co.kr/article/59068</guid>
+            <pubDate>Tue, 05 Oct 2021 17:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[견본 주택이 대중과 소통하는 아트 공간으로 멋지게 탈바꿈했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/1f02ed77-762b-472c-8619-2afbf2b1bd26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서촌에서 즐기는 향긋한 차의 풍경, 전시 '다함께 차차차']]></title>
             <link>https://www.elle.co.kr/article/59045</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
             <content:encoded><![CDATA[요즘 아트 신을 사로잡은 '뉴 아트 제너레이션'은 어떤 신인류일까? 미술을 가지고 노는 영 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/09/3470ce01-311a-4fe3-9102-32a8d040924d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 공개된 김나영의 뉴 오피스]]></title>
-            <link>https://www.elle.co.kr/article/58293</link>
-            <guid>https://www.elle.co.kr/article/58293</guid>
-            <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
-            <content:encoded><![CDATA[김나영의 새로운 ‘노필터 티비’ 사무실이 드디어 공개되었습니다! 그녀의 취향과 감각이 가득 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/05/37eaad47-83e5-4268-8872-c9ce380b5f7a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
