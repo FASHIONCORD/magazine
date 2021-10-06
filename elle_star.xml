@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 17:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 05:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잇몸만개하는 귀여움 #이달의소녀 츄&현진 #엘르런]]></title>
+            <link>https://www.elle.co.kr/article/59037</link>
+            <guid>https://www.elle.co.kr/article/59037</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[뛰고, 땀을 흘리는 것을 두려워하지 않는 세상 발랄한 두 소녀]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/ee024445-8c4c-4377-ba7f-6d1c54ae8e58.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내마음에 골인! 100% 화보재질 #손흥민]]></title>
+            <link>https://www.elle.co.kr/article/59034</link>
+            <guid>https://www.elle.co.kr/article/59034</guid>
+            <pubDate>Wed, 06 Oct 2021 05:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을엔 트렌치코트! 따라하고 싶은 가을 데일리 룩 #옷잘입는언니]]></title>
             <link>https://www.elle.co.kr/article/59033</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 04 Oct 2021 17:48:43 GMT</pubDate>
             <content:encoded><![CDATA[보면 볼수록 원더풀. 이하늬가 진짜 ‘원더우먼’인 이유.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/06bb9df2-0a08-47cb-b30b-15e6719e6e8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백지영이 다이어트 카운슬러에게 전수 받은 탄수화물 제한 식단]]></title>
-            <link>https://www.elle.co.kr/article/58990</link>
-            <guid>https://www.elle.co.kr/article/58990</guid>
-            <pubDate>Sun, 03 Oct 2021 17:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[하지만 백지영도 넘지 못한 일주일의 벽...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/3c513cdc-673b-4588-94de-1e843140b2b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따라 하고 싶은 셀러브리티의 올 화이트 스타일링 5]]></title>
-            <link>https://www.elle.co.kr/article/58982</link>
-            <guid>https://www.elle.co.kr/article/58982</guid>
-            <pubDate>Sun, 03 Oct 2021 05:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[쿨한 화이트 룩을 원한다면? 스포티한 원마일웨어부터 출근 룩까지 스타들의 데일리룩을 참고해 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/28d9fabd-81cb-479f-831c-f58d4faeb166.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
