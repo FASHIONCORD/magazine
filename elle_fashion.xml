@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 05:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 17:49:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 S/S 밀란 패션위크 하이라이트 5]]></title>
+            <link>https://www.elle.co.kr/article/59012</link>
+            <guid>https://www.elle.co.kr/article/59012</guid>
+            <pubDate>Wed, 06 Oct 2021 17:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[역대급 콜라보로 화제가 된 '펜다체'부터 듀얼 런웨이를 선보인 프라다, 5개국에서 디지털 라...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/458faa7d-a59d-40be-a196-a75f6561ce86.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[필드 위 자신감 상승 #골린이 패션]]></title>
             <link>https://www.elle.co.kr/article/59002</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
             <content:encoded><![CDATA[아슬아슬, 가슴만 겨우 가린 마이크로 카디건의 활약!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/7c3203f1-bdbd-40ec-bd12-2dfc047b578b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛의 주얼러, 부쉐론의 새로운 하이주얼리 컬렉션]]></title>
-            <link>https://www.elle.co.kr/article/58777</link>
-            <guid>https://www.elle.co.kr/article/58777</guid>
-            <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[자유로운 창조 정신에서 비롯된 대담한 도전 그 자체.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/eb2a4051-f8d9-4984-ba36-c3eaad3d6494.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

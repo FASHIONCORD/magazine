@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 05:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 17:49:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어서와 A dreamer's HOUSE]]></title>
+            <link>https://www.elle.co.kr/article/59103</link>
+            <guid>https://www.elle.co.kr/article/59103</guid>
+            <pubDate>Wed, 06 Oct 2021 17:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[20여 년에 걸친 세월의 흔적을 켜켜이 입은 낡은 빌라가 상상력과 즉흥적인 DNA를 지닌 새...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/b1b71253-1065-4c7b-bf33-f9b3b6637693.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모델하우스 맞아? 멋지게 변신한 이곳 #원에디션아트스페이스]]></title>
             <link>https://www.elle.co.kr/article/59068</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
             <content:encoded><![CDATA[아틀리에 에르메스에 펼쳐진 뒤얽힌 색채의 조각. 조각가 현남이 감각한 오늘의 세계다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/13/432a4eaa-b38d-4060-88d0-a1fa1130b040.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신도 영 컬렉터? 아트에 진심인 사람이 이렇게 많다]]></title>
-            <link>https://www.elle.co.kr/article/58396</link>
-            <guid>https://www.elle.co.kr/article/58396</guid>
-            <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 아트 신을 사로잡은 '뉴 아트 제너레이션'은 어떤 신인류일까? 미술을 가지고 노는 영 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/09/3470ce01-311a-4fe3-9102-32a8d040924d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
