@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 17:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 05:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타들의 집에 있는 그 의자, 어디 거?]]></title>
+            <link>https://www.elle.co.kr/article/59051</link>
+            <guid>https://www.elle.co.kr/article/59051</guid>
+            <pubDate>Thu, 07 Oct 2021 05:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[편안하면서도 완벽한 디자인을 자랑하는 의자들을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/d3102c1d-99a2-4ec1-a909-995d1f9fe25e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서촌에서 즐기는 향긋한 차의 풍경, 전시 '다함께 차차차']]></title>
+            <link>https://www.elle.co.kr/article/59045</link>
+            <guid>https://www.elle.co.kr/article/59045</guid>
+            <pubDate>Thu, 07 Oct 2021 05:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[다구 구경하고, 특별한 차 맛도 보고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/8ad569d9-dcd2-4767-911b-73ec03bd2b33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 핫한 애월읍부터 금능 해수욕장까지, 새로 생긴 제주 맛집 3 #신상맛집]]></title>
             <link>https://www.elle.co.kr/article/59042</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 05 Oct 2021 05:42:29 GMT</pubDate>
             <content:encoded><![CDATA[합천에 이렇게 먹을 게 많았다고!?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/465cd94b-a9b9-4781-8935-f949d1595aa3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단조로운 공간이 지겨울 때, 변화를 줄 공예품 3]]></title>
-            <link>https://www.elle.co.kr/article/58866</link>
-            <guid>https://www.elle.co.kr/article/58866</guid>
-            <pubDate>Fri, 01 Oct 2021 22:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[방에 두는 순간 바로 우리 집이 갤러리!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/57a2759e-7cfa-47cf-9439-3d6436af9253.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을엔 분위기 있게 와인 한 잔! 벌써 핫플 예감 오는 와인바 3 #신상맛집]]></title>
-            <link>https://www.elle.co.kr/article/58844</link>
-            <guid>https://www.elle.co.kr/article/58844</guid>
-            <pubDate>Fri, 01 Oct 2021 09:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[합정-연남-녹사평에 새로 생긴 와인바들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/001a8b9d-fcaa-43b6-85a1-d8c92c06aa7a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

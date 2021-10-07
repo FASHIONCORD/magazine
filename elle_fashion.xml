@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 17:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 05:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀렙들의 러닝 아웃핏]]></title>
+            <link>https://www.elle.co.kr/article/59025</link>
+            <guid>https://www.elle.co.kr/article/59025</guid>
+            <pubDate>Thu, 07 Oct 2021 05:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[러닝에 자극을 불어넣어줄 스타일링! 셀렙들의 짐 웨어 룩에서 힌트를 얻어보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/a4b02b2d-2a57-4ba8-9791-abb80c8c488b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 S/S 밀란 패션위크 하이라이트 5]]></title>
             <link>https://www.elle.co.kr/article/59012</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 17:45:42 GMT</pubDate>
             <content:encoded><![CDATA[지금은 티셔츠 위 가벼운 아우터가 필요할 때! 시크한 레더 점퍼부터 캐주얼한 셔츠 재킷까지,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/14c58391-ba25-4ef8-bc69-4a132907039a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가슴 보일라! 마이크로 카디건 열풍]]></title>
-            <link>https://www.elle.co.kr/article/58872</link>
-            <guid>https://www.elle.co.kr/article/58872</guid>
-            <pubDate>Fri, 01 Oct 2021 08:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[아슬아슬, 가슴만 겨우 가린 마이크로 카디건의 활약!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/7c3203f1-bdbd-40ec-bd12-2dfc047b578b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
