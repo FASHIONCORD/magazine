@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 05:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스우파' 세미 파이널 투표 시작! 제시 신곡 미션 나선 여섯 크루 영상.zip]]></title>
+            <link>https://www.elle.co.kr/article/59080</link>
+            <guid>https://www.elle.co.kr/article/59080</guid>
+            <pubDate>Fri, 08 Oct 2021 05:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[시청자들의 기대와 우려 속에 시작된 투표.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/59ca2c71-225a-4b1f-b4c9-9b78fd5e7ab0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[졌지만 잘 싸웠다! '스트릿 우먼 파이터' 두 번째 탈락 크루 '원트' 활약 모음]]></title>
+            <link>https://www.elle.co.kr/article/59079</link>
+            <guid>https://www.elle.co.kr/article/59079</guid>
+            <pubDate>Fri, 08 Oct 2021 05:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[늘 살얼음판을 걷는 듯하던 원트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/bbe05644-89fd-4539-a0fd-ac956dd932c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모델하우스 맞아? 멋지게 변신한 이곳 #원에디션아트스페이스]]></title>
             <link>https://www.elle.co.kr/article/59068</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 05 Oct 2021 17:46:33 GMT</pubDate>
             <content:encoded><![CDATA[정통에 트렌드를 과감하게 믹스하는 7명의 훅]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/de498aaa-57fb-47e9-845f-819e4a3dc3d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 막 내린 '환승연애', 과몰입 유발 영상 TOP 3]]></title>
-            <link>https://www.elle.co.kr/article/58997</link>
-            <guid>https://www.elle.co.kr/article/58997</guid>
-            <pubDate>Tue, 05 Oct 2021 17:46:33 GMT</pubDate>
-            <content:encoded><![CDATA[눈물도 웃음도 분노도 유발했던 '환승연애' 15주.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/4e19d934-a1f8-4a3b-b811-e5ee9eaa2800.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금, 여기의 미술들이 있는 곳! 10월 미디어 비엔날레 2 #인싸 전시_36]]></title>
-            <link>https://www.elle.co.kr/article/58986</link>
-            <guid>https://www.elle.co.kr/article/58986</guid>
-            <pubDate>Tue, 05 Oct 2021 17:46:33 GMT</pubDate>
-            <content:encoded><![CDATA[미술 애호가들이라면 가을 나들이 코스에 반드시 넣어야 할 전시들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/59e29d89-86f7-4b40-95c9-12d2c0729e87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

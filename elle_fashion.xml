@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 05:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내마음에 골인! 100% 화보재질 #손흥민]]></title>
+            <link>https://www.elle.co.kr/article/59034</link>
+            <guid>https://www.elle.co.kr/article/59034</guid>
+            <pubDate>Fri, 08 Oct 2021 05:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을엔 트렌치코트! 따라하고 싶은 가을 데일리 룩 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/59033</link>
+            <guid>https://www.elle.co.kr/article/59033</guid>
+            <pubDate>Fri, 08 Oct 2021 05:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[트렌치코트가 빛을 발하는 계절, 가을! 어떻게 입어야 좋을지 고민이라면? 옷 잘 입기로 유명...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/fc5ce8f7-b43f-4e8c-bb58-06e689697924.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀렙들의 러닝 아웃핏]]></title>
             <link>https://www.elle.co.kr/article/59025</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 03 Oct 2021 17:45:27 GMT</pubDate>
             <content:encoded><![CDATA[‘요즘 뭐 신지?’ 고민이라면 주목! 단정하고 귀여운 매력의 로퍼 쇼핑 리스트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/0b3fb62b-ca69-4f93-9db0-2286ab024201.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간이 지나도 변함없는 스타일과 기능성의 COS의 AW21 컬렉션]]></title>
-            <link>https://www.elle.co.kr/article/58903</link>
-            <guid>https://www.elle.co.kr/article/58903</guid>
-            <pubDate>Fri, 01 Oct 2021 22:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[컨템포러리 문화에서 영감을 받은 코스의 AW21 컬렉션이 런던 패션위크에서 공개됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/1e880ca9-613c-46b9-a107-f47faec73257.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷 잘 입는 스타들의 가을 아우터 5]]></title>
-            <link>https://www.elle.co.kr/article/58892</link>
-            <guid>https://www.elle.co.kr/article/58892</guid>
-            <pubDate>Fri, 01 Oct 2021 17:45:42 GMT</pubDate>
-            <content:encoded><![CDATA[지금은 티셔츠 위 가벼운 아우터가 필요할 때! 시크한 레더 점퍼부터 캐주얼한 셔츠 재킷까지,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/14c58391-ba25-4ef8-bc69-4a132907039a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

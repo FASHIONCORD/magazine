@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 05:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버추얼 인플루언서 #슈듀 #마야 #이마가 얘기하는 몸이 없어 제일 좋은 점]]></title>
+            <link>https://www.elle.co.kr/article/58673</link>
+            <guid>https://www.elle.co.kr/article/58673</guid>
+            <pubDate>Fri, 08 Oct 2021 05:44:46 GMT</pubDate>
+            <content:encoded><![CDATA[버추얼 인플루언서 슈듀, 마야, 이마와의 나눈 &lt;엘르&gt; 단독 인터뷰.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/19/b2348c94-37ed-4379-ab07-9bab92aa3e18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버추얼 인플루언서 #로지 #아포키와 나눈 신박한 인터뷰]]></title>
             <link>https://www.elle.co.kr/article/58663</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 09:09:27 GMT</pubDate>
             <content:encoded><![CDATA[OTT에 투자하기엔 이미 늦었다고 말하는 당신에게.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/09/d5e7315d-25e9-4882-9762-fffd3f883352.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웬만한 사연은 다 들어본 방송작가가 말하는 망한연애 #엘르보이스]]></title>
-            <link>https://www.elle.co.kr/article/58392</link>
-            <guid>https://www.elle.co.kr/article/58392</guid>
-            <pubDate>Fri, 01 Oct 2021 09:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[왜 우리는 남의 망한 연애 이야기를 계속 들을까? 그것은 나의 과거를 구원하는 일이기도 하다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/09/431c943b-0aa0-4ca1-839f-c9d981d24c1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
