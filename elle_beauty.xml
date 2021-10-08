@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 17:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건강한 몸에 건강한 정신이 깃드는 법]]></title>
+            <link>https://www.elle.co.kr/article/59016</link>
+            <guid>https://www.elle.co.kr/article/59016</guid>
+            <pubDate>Fri, 08 Oct 2021 17:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[기록보다 자신만의 온전한 시간과 도전을 응원하며 &lt;엘르&gt;가 선택한 러닝 준비템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/fdc55425-b004-48bb-9311-dbec20c8c8a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버추얼 러닝을 대하는 러너들의 자세]]></title>
+            <link>https://www.elle.co.kr/article/59007</link>
+            <guid>https://www.elle.co.kr/article/59007</guid>
+            <pubDate>Fri, 08 Oct 2021 17:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[피니시 라인까지 든든한 페이스 메이커가 되어줄 여덟 명의 엘르런 앰배서더들의 인터뷰.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/c67dbad7-f5fb-4657-a3e9-4ab0dc3322ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먹방만 보고 살찔 수 있다? YES!]]></title>
             <link>https://www.elle.co.kr/article/58995</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
             <content:encoded><![CDATA[스킨케어와 메이크업, 두 가지를 모두 충족시키는 샤넬만의 기술이 담긴 수블리마지 라인.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/84203a81-9e0d-41a0-bacf-939c686c364b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 곽지영 다이어트! 맛과 건강 둘 다 잡은 다이어트 식단 3]]></title>
-            <link>https://www.elle.co.kr/article/58809</link>
-            <guid>https://www.elle.co.kr/article/58809</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[굶는 다이어트는 그만! 13년차 모델 곽지영이 소개하는 건강에 중점을 둔 다이어트 식단과 다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/ecb94146-5f7a-4cb2-87b5-eca624283820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코에 박제하고 싶은 9월 신상 향수 시향기(프레데릭 말, 딥티크) #코통사고]]></title>
-            <link>https://www.elle.co.kr/article/58772</link>
-            <guid>https://www.elle.co.kr/article/58772</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[에디터가 #코통사고 당한 향수 리뷰]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/45ef8059-a1c3-415c-b272-4f7726bdb30a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

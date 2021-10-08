@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 17:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 모델들을 소개하는 빈티지 롤렉스 입문 가이드, 파트 1 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32510043&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32510043&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 08 Oct 2021 17:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMjgx/MDAxNjMzNTk0NjQ1MTcw.q8hv7DRqJVgNUPwDat4IQH2rjq06f6C2lQaSRVMa9K0g.ZBLv7TyIBF8r6salfVPj5L4i0az-GJn06RrNnMTTD1gg.JPEG/Ipv8-Byl0K6jfim8oia_iMClFWVA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기본 1억7천만 원부터, 한국에서 살 수 있는 가장 비싼 하이엔드 워치 8 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32508393&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjZfMzAg/MDAxNjE2NzQ0NTY3Mjc2.RKONnCk9NX83Ld4oibcfwnMKYv2KB74ic_-PeuKhkNAg.DFCATQ5mAxyMaPobKV7l2jrzoUHdYYkMif332LR-Masg.JPEG/ICfx_JRtaMzfYZEbxoZRF9QpfmC4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어팟을 위한 새로운 스타일의 이어 커프 액세서리가 출시됐다 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30899938&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30899938&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMDlfMTk5/MDAxNjE1Mjc5MjYxMjU1.pYwUsYxCdO_b6tF7Ec6nZ_CztIZ5iFkoNNVOJpIAKiEg.UAMqJWVCXpo5JzzV3ZTS4qyIuSCnOwYftX27dkuZFRAg.JPEG/IkLljxmnEyJP1f4CjeRrUUDQttus.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이키 덩크 로우 ‘서울’을 만난, 서울 사람들 (네이버 포스트 ─ 하입비스트 ─ 신발)]]></title>
@@ -1864,6 +1864,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/0b3fb62b-ca69-4f93-9db0-2286ab024201.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[건강한 몸에 건강한 정신이 깃드는 법 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/59016</link>
+            <guid>https://www.elle.co.kr/article/59016</guid>
+            <pubDate>Fri, 08 Oct 2021 17:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[기록보다 자신만의 온전한 시간과 도전을 응원하며 &lt;엘르&gt;가 선택한 러닝 준비템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/fdc55425-b004-48bb-9311-dbec20c8c8a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버추얼 러닝을 대하는 러너들의 자세 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/59007</link>
+            <guid>https://www.elle.co.kr/article/59007</guid>
+            <pubDate>Fri, 08 Oct 2021 17:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[피니시 라인까지 든든한 페이스 메이커가 되어줄 여덟 명의 엘르런 앰배서더들의 인터뷰.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/c67dbad7-f5fb-4657-a3e9-4ab0dc3322ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[먹방만 보고 살찔 수 있다? YES! (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/58995</link>
             <guid>https://www.elle.co.kr/article/58995</guid>
@@ -1912,20 +1928,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/84203a81-9e0d-41a0-bacf-939c686c364b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모델 곽지영 다이어트! 맛과 건강 둘 다 잡은 다이어트 식단 3 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/58809</link>
-            <guid>https://www.elle.co.kr/article/58809</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[굶는 다이어트는 그만! 13년차 모델 곽지영이 소개하는 건강에 중점을 둔 다이어트 식단과 다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/ecb94146-5f7a-4cb2-87b5-eca624283820.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ② (feat. 나영석PD, 김연경, 김희애) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/59108</link>
+            <guid>https://www.elle.co.kr/article/59108</guid>
+            <pubDate>Thu, 07 Oct 2021 05:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코에 박제하고 싶은 9월 신상 향수 시향기(프레데릭 말, 딥티크) #코통사고 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/58772</link>
-            <guid>https://www.elle.co.kr/article/58772</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[에디터가 #코통사고 당한 향수 리뷰]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/45ef8059-a1c3-415c-b272-4f7726bdb30a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ① (feat. 박재범X로꼬, 한지민, 이준기) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/59107</link>
+            <guid>https://www.elle.co.kr/article/59107</guid>
+            <pubDate>Thu, 07 Oct 2021 05:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/3ff49d99-1ab6-4fdd-9264-a823bf9b676b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 S/S 파리 패션 위크 하이라이트 4 (엘르 코리아 ─ 스타)]]></title>
@@ -1976,20 +1992,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/59234dbd-7b3e-4fb7-9177-849144b91af4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[힙합 아티스트가 다녀간 맛집 따라가기 4 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/59067</link>
-            <guid>https://www.elle.co.kr/article/59067</guid>
-            <pubDate>Wed, 06 Oct 2021 17:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[‘힙’한 곳만 갈 것 같은 힙합 아티스트들이 방문한 맛집을 소개합니다. 최자/ pH-1/ 스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/7dc61d38-8c57-491d-958b-8d77699761e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임' 최대 수혜자 정호연, '도수코' 도전자에서 '넷플수저' 되기까지 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/59054</link>
-            <guid>https://www.elle.co.kr/article/59054</guid>
-            <pubDate>Tue, 05 Oct 2021 17:47:18 GMT</pubDate>
-            <content:encoded><![CDATA[배우 데뷔작이 '오징어게임'...!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/ce59c957-6e0e-432c-b6bf-af759172e680.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이태원의 오래된 빌라가 취향 좋은 주인을 만났다 #인테리어 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/59103</link>
+            <guid>https://www.elle.co.kr/article/59103</guid>
+            <pubDate>Wed, 06 Oct 2021 17:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[20여 년에 걸친 세월의 흔적을 켜켜이 입은 낡은 빌라가 상상력과 즉흥적인 DNA를 지닌 새...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/b1b71253-1065-4c7b-bf33-f9b3b6637693.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스우파' 세미 파이널 투표 시작! 제시 신곡 미션 나선 여섯 크루 영상.zip (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2046,14 +2054,6 @@
             <pubDate>Wed, 06 Oct 2021 05:40:25 GMT</pubDate>
             <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK ! (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/58988</link>
-            <guid>https://www.elle.co.kr/article/58988</guid>
-            <pubDate>Fri, 01 Oct 2021 17:47:16 GMT</pubDate>
-            <content:encoded><![CDATA[정통에 트렌드를 과감하게 믹스하는 7명의 훅]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/de498aaa-57fb-47e9-845f-819e4a3dc3d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK ! (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -2160,6 +2160,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/31/b0a66cde-88d8-4b4d-a963-b1507098e54b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나에게도 이런 세포들이 있을까? '유미의 세포들'의 세포들 탐구 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/59151</link>
+            <guid>https://www.elle.co.kr/article/59151</guid>
+            <pubDate>Fri, 08 Oct 2021 17:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[적재적소에 등장해 드라마를 풍성하게 만들어 준 세포들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/1a0a8334-0eed-400e-8f0f-d9439680a027.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['기적' 박정민부터 '오겜' 위하준까지? 스우파 '헤이 마마' 커버한 스타 4 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/59139</link>
             <guid>https://www.elle.co.kr/article/59139</guid>
@@ -2254,14 +2262,6 @@
             <pubDate>Fri, 01 Oct 2021 08:44:32 GMT</pubDate>
             <content:encoded><![CDATA[코트 안에서도 밖에서도 유쾌한 김연경.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/52446188-69f2-40f8-a4ac-14601173ac37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남다른 영화 안목을 갖춘 당신이 만족해할 최신 영화 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/58933</link>
-            <guid>https://www.elle.co.kr/article/58933</guid>
-            <pubDate>Fri, 01 Oct 2021 08:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[재미와 작품성, 영상미까지 뭐 하나 빠지지 않는 신작 영화 두 편.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/8d87b37b-f9a1-4e0e-920b-d1c4c2af32a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이태원의 오래된 빌라가 취향 좋은 주인을 만났다 #인테리어 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2368,6 +2368,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/13/432a4eaa-b38d-4060-88d0-a1fa1130b040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잠만 자는 숙소 NO! 캠핑부터 이색 체험까지 한 번에 해결되는 김제 숙소 셋 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59077</link>
+            <guid>https://www.elle.co.kr/article/59077</guid>
+            <pubDate>Fri, 08 Oct 2021 17:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[반려견 동반 가능한 숙소도 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/a30b48fa-3628-4722-bc83-2553ed57f029.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙합 아티스트가 다녀간 맛집 따라가기 4 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/59067</link>
+            <guid>https://www.elle.co.kr/article/59067</guid>
+            <pubDate>Wed, 06 Oct 2021 17:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[‘힙’한 곳만 갈 것 같은 힙합 아티스트들이 방문한 맛집을 소개합니다. 최자/ pH-1/ 스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/7dc61d38-8c57-491d-958b-8d77699761e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요린이를 위한 근사한 영화 속 요리 4 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/59046</link>
             <guid>https://www.elle.co.kr/article/59046</guid>
@@ -2414,22 +2430,6 @@
             <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
             <content:encoded><![CDATA[미술 애호가들이라면 가을 나들이 코스에 반드시 넣어야 할 전시들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/59e29d89-86f7-4b40-95c9-12d2c0729e87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문숙이 알려주는 침대 위 15분 아침 요가 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/58981</link>
-            <guid>https://www.elle.co.kr/article/58981</guid>
-            <pubDate>Sat, 02 Oct 2021 17:47:35 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 삶을 지향하는 문숙과 함께 간단하고 쉬운 요가로 아침을 시작해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/33c65c4c-4c74-443b-a5f8-d2d1de287282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 이승미의 부산 바다를 품은 테라스 하우스 #취향을담은집 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/58890</link>
-            <guid>https://www.elle.co.kr/article/58890</guid>
-            <pubDate>Tue, 05 Oct 2021 05:42:29 GMT</pubDate>
-            <content:encoded><![CDATA[좋아하는 무언가에 애정을 쏟을 줄 알고, 분명한 취향을 바탕으로 자신만의 행복하고 풍요로운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/7f7c72a4-0574-4b17-98f7-464cf062c774.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버추얼 인플루언서 #슈듀 #마야 #이마가 얘기하는 몸이 없어 제일 좋은 점 (엘르 코리아 ─ 소사이어티)]]></title>

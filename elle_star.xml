@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 17:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ② (feat. 나영석PD, 김연경, 김희애)]]></title>
+            <link>https://www.elle.co.kr/article/59108</link>
+            <guid>https://www.elle.co.kr/article/59108</guid>
+            <pubDate>Fri, 08 Oct 2021 17:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ① (feat. 박재범X로꼬, 한지민, 이준기)]]></title>
+            <link>https://www.elle.co.kr/article/59107</link>
+            <guid>https://www.elle.co.kr/article/59107</guid>
+            <pubDate>Fri, 08 Oct 2021 17:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/3ff49d99-1ab6-4fdd-9264-a823bf9b676b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 S/S 파리 패션 위크 하이라이트 4]]></title>
             <link>https://www.elle.co.kr/article/59105</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 05:40:26 GMT</pubDate>
             <content:encoded><![CDATA[몸과 내면에 대한 확신으로 오늘도 나아가는 최희서.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/59234dbd-7b3e-4fb7-9177-849144b91af4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합 아티스트가 다녀간 맛집 따라가기 4]]></title>
-            <link>https://www.elle.co.kr/article/59067</link>
-            <guid>https://www.elle.co.kr/article/59067</guid>
-            <pubDate>Wed, 06 Oct 2021 17:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[‘힙’한 곳만 갈 것 같은 힙합 아티스트들이 방문한 맛집을 소개합니다. 최자/ pH-1/ 스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/7dc61d38-8c57-491d-958b-8d77699761e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임' 최대 수혜자 정호연, '도수코' 도전자에서 '넷플수저' 되기까지]]></title>
-            <link>https://www.elle.co.kr/article/59054</link>
-            <guid>https://www.elle.co.kr/article/59054</guid>
-            <pubDate>Wed, 06 Oct 2021 17:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[배우 데뷔작이 '오징어게임'...!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/ce59c957-6e0e-432c-b6bf-af759172e680.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

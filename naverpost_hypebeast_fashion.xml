@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 17:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 모델들을 소개하는 빈티지 롤렉스 입문 가이드, 파트 1]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32510043&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32510043&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 08 Oct 2021 17:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMjgx/MDAxNjMzNTk0NjQ1MTcw.q8hv7DRqJVgNUPwDat4IQH2rjq06f6C2lQaSRVMa9K0g.ZBLv7TyIBF8r6salfVPj5L4i0az-GJn06RrNnMTTD1gg.JPEG/Ipv8-Byl0K6jfim8oia_iMClFWVA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기본 1억7천만 원부터, 한국에서 살 수 있는 가장 비싼 하이엔드 워치 8]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32508393&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:56:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjZfMzAg/MDAxNjE2NzQ0NTY3Mjc2.RKONnCk9NX83Ld4oibcfwnMKYv2KB74ic_-PeuKhkNAg.DFCATQ5mAxyMaPobKV7l2jrzoUHdYYkMif332LR-Masg.JPEG/ICfx_JRtaMzfYZEbxoZRF9QpfmC4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어팟을 위한 새로운 스타일의 이어 커프 액세서리가 출시됐다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30899938&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30899938&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:56:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMDlfMTk5/MDAxNjE1Mjc5MjYxMjU1.pYwUsYxCdO_b6tF7Ec6nZ_CztIZ5iFkoNNVOJpIAKiEg.UAMqJWVCXpo5JzzV3ZTS4qyIuSCnOwYftX27dkuZFRAg.JPEG/IkLljxmnEyJP1f4CjeRrUUDQttus.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

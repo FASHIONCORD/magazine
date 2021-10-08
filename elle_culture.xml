@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 17:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이태원의 오래된 빌라가 취향 좋은 주인을 만났다 #인테리어]]></title>
+            <link>https://www.elle.co.kr/article/59103</link>
+            <guid>https://www.elle.co.kr/article/59103</guid>
+            <pubDate>Fri, 08 Oct 2021 17:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[20여 년에 걸친 세월의 흔적을 켜켜이 입은 낡은 빌라가 상상력과 즉흥적인 DNA를 지닌 새...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/b1b71253-1065-4c7b-bf33-f9b3b6637693.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스우파' 세미 파이널 투표 시작! 제시 신곡 미션 나선 여섯 크루 영상.zip]]></title>
             <link>https://www.elle.co.kr/article/59080</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 06 Oct 2021 05:40:41 GMT</pubDate>
             <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK !]]></title>
-            <link>https://www.elle.co.kr/article/58988</link>
-            <guid>https://www.elle.co.kr/article/58988</guid>
-            <pubDate>Tue, 05 Oct 2021 17:46:33 GMT</pubDate>
-            <content:encoded><![CDATA[정통에 트렌드를 과감하게 믹스하는 7명의 훅]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/de498aaa-57fb-47e9-845f-819e4a3dc3d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

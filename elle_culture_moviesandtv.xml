@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 17:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나에게도 이런 세포들이 있을까? '유미의 세포들'의 세포들 탐구]]></title>
+            <link>https://www.elle.co.kr/article/59151</link>
+            <guid>https://www.elle.co.kr/article/59151</guid>
+            <pubDate>Fri, 08 Oct 2021 17:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[적재적소에 등장해 드라마를 풍성하게 만들어 준 세포들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/1a0a8334-0eed-400e-8f0f-d9439680a027.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['기적' 박정민부터 '오겜' 위하준까지? 스우파 '헤이 마마' 커버한 스타 4]]></title>
             <link>https://www.elle.co.kr/article/59139</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:56:56 GMT</pubDate>
             <content:encoded><![CDATA[코트 안에서도 밖에서도 유쾌한 김연경.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/52446188-69f2-40f8-a4ac-14601173ac37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남다른 영화 안목을 갖춘 당신이 만족해할 최신 영화]]></title>
-            <link>https://www.elle.co.kr/article/58933</link>
-            <guid>https://www.elle.co.kr/article/58933</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:56 GMT</pubDate>
-            <content:encoded><![CDATA[재미와 작품성, 영상미까지 뭐 하나 빠지지 않는 신작 영화 두 편.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/8d87b37b-f9a1-4e0e-920b-d1c4c2af32a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
