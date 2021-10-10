@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 05:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 05:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오트쿠튀르 쿠션 파운데이션]]></title>
+            <link>https://www.elle.co.kr/article/59035</link>
+            <guid>https://www.elle.co.kr/article/59035</guid>
+            <pubDate>Sun, 10 Oct 2021 05:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 쿠션과 사랑에 빠지기 1초 전.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/4e83077c-a8bf-4134-aa36-e9e22ec4a92b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 하기 딱 좋은 시트 & 크림 마스크_선배's 어드바이스 #85]]></title>
+            <link>https://www.elle.co.kr/article/59032</link>
+            <guid>https://www.elle.co.kr/article/59032</guid>
+            <pubDate>Sun, 10 Oct 2021 05:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[거울 속 피부가 충격적인 가을, 마스크로 위기 탈출하기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/b6c6c860-b6f7-4113-915f-ba6797ce6443.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건강한 몸에 건강한 정신이 깃드는 법]]></title>
             <link>https://www.elle.co.kr/article/59016</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 17:47:35 GMT</pubDate>
             <content:encoded><![CDATA[건강한 삶을 지향하는 문숙과 함께 간단하고 쉬운 요가로 아침을 시작해보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/33c65c4c-4c74-443b-a5f8-d2d1de287282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12시간만 먹고 끝내는 ‘시간 제한 다이어트’_몸에 좋은 잔소리 #28]]></title>
-            <link>https://www.elle.co.kr/article/58963</link>
-            <guid>https://www.elle.co.kr/article/58963</guid>
-            <pubDate>Fri, 01 Oct 2021 17:45:57 GMT</pubDate>
-            <content:encoded><![CDATA[먹는 시간만 제한해도 살이 빠진다?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/360d0d6a-f2b1-4fea-8fc0-9d57533dcf89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬의 독보적인 우아함]]></title>
-            <link>https://www.elle.co.kr/article/58730</link>
-            <guid>https://www.elle.co.kr/article/58730</guid>
-            <pubDate>Fri, 01 Oct 2021 08:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[스킨케어와 메이크업, 두 가지를 모두 충족시키는 샤넬만의 기술이 담긴 수블리마지 라인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/84203a81-9e0d-41a0-bacf-939c686c364b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
