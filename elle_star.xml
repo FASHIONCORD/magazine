@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 05:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 17:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#유미의세포 당장 정주행 시작해! 김고은과 안보현 커플화보]]></title>
+            <link>https://www.elle.co.kr/article/59134</link>
+            <guid>https://www.elle.co.kr/article/59134</guid>
+            <pubDate>Sun, 10 Oct 2021 17:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[서로가 품은 내면과 알상의 풍경을 공유하기로 한 두 사람. 유미와 웅이가 자리에 나란히 앉았...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/64f092b8-495d-4c3a-85e1-fc7c054d98de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스트리트 우먼 파이터' 황금 리더 효진초이 리더십 탐구]]></title>
+            <link>https://www.elle.co.kr/article/59122</link>
+            <guid>https://www.elle.co.kr/article/59122</guid>
+            <pubDate>Sun, 10 Oct 2021 17:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[때론 부드럽게 또 강하게. '원트'의 리더 효진초이의 리더십.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/a4dfd090-c965-4b2a-b812-11054ba6a878.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ② (feat. 나영석PD, 김연경, 김희애)]]></title>
             <link>https://www.elle.co.kr/article/59108</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 05:40:26 GMT</pubDate>
             <content:encoded><![CDATA[시청자들의 기대와 우려 속에 시작된 투표.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/59ca2c71-225a-4b1f-b4c9-9b78fd5e7ab0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[졌지만 잘 싸웠다! '스트릿 우먼 파이터' 두 번째 탈락 크루 '원트' 활약 모음]]></title>
-            <link>https://www.elle.co.kr/article/59079</link>
-            <guid>https://www.elle.co.kr/article/59079</guid>
-            <pubDate>Thu, 07 Oct 2021 05:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[늘 살얼음판을 걷는 듯하던 원트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/bbe05644-89fd-4539-a0fd-ac956dd932c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월에 제일 바쁠 배우라고? #최희서 의 반전매력 #엘르런]]></title>
-            <link>https://www.elle.co.kr/article/59071</link>
-            <guid>https://www.elle.co.kr/article/59071</guid>
-            <pubDate>Thu, 07 Oct 2021 05:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[몸과 내면에 대한 확신으로 오늘도 나아가는 최희서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/59234dbd-7b3e-4fb7-9177-849144b91af4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

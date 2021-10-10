@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 05:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 17:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친구야 우리 함께 건물주나 돼볼까?_돈쓸신잡 #12]]></title>
+            <link>https://www.elle.co.kr/article/58737</link>
+            <guid>https://www.elle.co.kr/article/58737</guid>
+            <pubDate>Sun, 10 Oct 2021 17:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[당장 내일도 수백억짜리 건물 지분을 보유할 수 있다. 리츠에 주목해보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/3db11ade-f515-4fa4-ba04-d82a954aa2e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버추얼 인플루언서 #슈듀 #마야 #이마가 얘기하는 몸이 없어 제일 좋은 점]]></title>
             <link>https://www.elle.co.kr/article/58673</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 09:09:27 GMT</pubDate>
             <content:encoded><![CDATA[놀랍도록 아름답고 눈부시게 고마운 아이의 성장에 대하여]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/d3741cf1-0c4d-4898-a2ca-8aae09374634.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OTT 시장이 레드오션이라고? 이제 시작일 뿐_돈쓸신잡 #10]]></title>
-            <link>https://www.elle.co.kr/article/58397</link>
-            <guid>https://www.elle.co.kr/article/58397</guid>
-            <pubDate>Fri, 01 Oct 2021 09:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[OTT에 투자하기엔 이미 늦었다고 말하는 당신에게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/09/d5e7315d-25e9-4882-9762-fffd3f883352.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

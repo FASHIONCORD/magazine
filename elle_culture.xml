@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 05:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 17:49:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ② (feat. 나영석PD, 김연경, 김희애)]]></title>
+            <link>https://www.elle.co.kr/article/59108</link>
+            <guid>https://www.elle.co.kr/article/59108</guid>
+            <pubDate>Sun, 10 Oct 2021 17:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ① (feat. 박재범X로꼬, 한지민, 이준기)]]></title>
             <link>https://www.elle.co.kr/article/59107</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 06 Oct 2021 17:46:07 GMT</pubDate>
             <content:encoded><![CDATA[배우 데뷔작이 '오징어게임'...!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/ce59c957-6e0e-432c-b6bf-af759172e680.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서촌에서 즐기는 향긋한 차의 풍경, 전시 '다함께 차차차']]></title>
-            <link>https://www.elle.co.kr/article/59045</link>
-            <guid>https://www.elle.co.kr/article/59045</guid>
-            <pubDate>Wed, 06 Oct 2021 05:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[다구 구경하고, 특별한 차 맛도 보고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/8ad569d9-dcd2-4767-911b-73ec03bd2b33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
