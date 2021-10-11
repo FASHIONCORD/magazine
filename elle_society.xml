@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 05:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 17:58:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존재 자체가 ‘심쿵해’ 크리스틴 스튜어트_요주의 여성 #31]]></title>
+            <link>https://www.elle.co.kr/article/58774</link>
+            <guid>https://www.elle.co.kr/article/58774</guid>
+            <pubDate>Mon, 11 Oct 2021 17:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[숏컷, 청바지, 샤넬이 잘 어울리는 여자. ‘멋지다’는 말로는 한없이 부족한 크리스틴 스튜어...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/fd3cca7f-d3c7-4f0a-94a8-7457217b89f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["우린 '로스트 제너레이션'이 아니다": UN총회 참석한 BTS 말말말]]></title>
             <link>https://www.elle.co.kr/article/58759</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 09:09:27 GMT</pubDate>
             <content:encoded><![CDATA[쏟아지는 신곡과 퍼포먼스 사이로 ‘스트리트 우먼 파이터’ 속 반가운 얼굴이 보인다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/13/6b55476f-a250-451e-8bd8-7115091e2cfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“잘 봐, 언니들 싸움이다”_요주의 여성 #30]]></title>
-            <link>https://www.elle.co.kr/article/58435</link>
-            <guid>https://www.elle.co.kr/article/58435</guid>
-            <pubDate>Fri, 01 Oct 2021 09:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;스트릿 우먼 파이터&gt;를 보면서 생각한 ‘여자답게’ 싸우는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/10/db189c1f-cea3-4fd6-9944-7b825a55a8eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
