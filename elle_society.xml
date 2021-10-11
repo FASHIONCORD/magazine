@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 17:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 05:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["우린 '로스트 제너레이션'이 아니다": UN총회 참석한 BTS 말말말]]></title>
+            <link>https://www.elle.co.kr/article/58759</link>
+            <guid>https://www.elle.co.kr/article/58759</guid>
+            <pubDate>Mon, 11 Oct 2021 05:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[UN총회에서 '퍼미션 투 댄스' 무대도 펼쳤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/5f41640b-4b97-408c-b4d3-179610738fc3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[친구야 우리 함께 건물주나 돼볼까?_돈쓸신잡 #12]]></title>
             <link>https://www.elle.co.kr/article/58737</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 09:09:27 GMT</pubDate>
             <content:encoded><![CDATA[&lt;스트릿 우먼 파이터&gt;를 보면서 생각한 ‘여자답게’ 싸우는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/10/db189c1f-cea3-4fd6-9944-7b825a55a8eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[둘째를 낳았다. 언니가 된 첫째는 새 이가 났다 #엘르보이스]]></title>
-            <link>https://www.elle.co.kr/article/58424</link>
-            <guid>https://www.elle.co.kr/article/58424</guid>
-            <pubDate>Fri, 01 Oct 2021 09:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[놀랍도록 아름답고 눈부시게 고마운 아이의 성장에 대하여]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/d3741cf1-0c4d-4898-a2ca-8aae09374634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

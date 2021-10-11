@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 17:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 05:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈가에 내려앉은 가을 컬러]]></title>
+            <link>https://www.elle.co.kr/article/59158</link>
+            <guid>https://www.elle.co.kr/article/59158</guid>
+            <pubDate>Mon, 11 Oct 2021 05:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[드라마틱한 음영 메이크업을 위한 아이 팔레트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/5bbb4ca1-3932-4375-90a7-41dba57b01fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 이 시기에 꼭 챙겨먹어야 할 영양제]]></title>
+            <link>https://www.elle.co.kr/article/59133</link>
+            <guid>https://www.elle.co.kr/article/59133</guid>
+            <pubDate>Mon, 11 Oct 2021 05:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[하루하루 체력이 딸리고 피로감이 쉽게 해소되지 않는다고? 좀 '먹어 본' 뷰티 인사이더들이 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/9ad10c38-1bb4-47d8-b538-4247714d9d0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오트쿠튀르 쿠션 파운데이션]]></title>
             <link>https://www.elle.co.kr/article/59035</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 04 Oct 2021 17:47:56 GMT</pubDate>
             <content:encoded><![CDATA[하지만 백지영도 넘지 못한 일주일의 벽...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/3c513cdc-673b-4588-94de-1e843140b2b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세경의 시크릿 뷰티]]></title>
-            <link>https://www.elle.co.kr/article/58888</link>
-            <guid>https://www.elle.co.kr/article/58888</guid>
-            <pubDate>Mon, 04 Oct 2021 17:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[신세경이 간직한 신비로움의 비결. 아베다 인바티 어드밴스드™로 달라진 그녀의 뷰티 모멘츠를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/83e3d2e4-0e48-4cf9-98ef-c5493ebdfdcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문숙이 알려주는 침대 위 15분 아침 요가]]></title>
-            <link>https://www.elle.co.kr/article/58981</link>
-            <guid>https://www.elle.co.kr/article/58981</guid>
-            <pubDate>Sat, 02 Oct 2021 17:47:35 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 삶을 지향하는 문숙과 함께 간단하고 쉬운 요가로 아침을 시작해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/33c65c4c-4c74-443b-a5f8-d2d1de287282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
