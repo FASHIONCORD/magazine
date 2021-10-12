@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 05:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 17:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['기적' 박정민부터 '오겜' 위하준까지? 스우파 '헤이 마마' 커버한 스타 4]]></title>
+            <link>https://www.elle.co.kr/article/59139</link>
+            <guid>https://www.elle.co.kr/article/59139</guid>
+            <pubDate>Tue, 12 Oct 2021 17:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[출퇴근길에도 샤워할 때도 '헤이 마마' 맴도는 사람은 고개를 들어 주세요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/efbc4b7b-1870-4fa8-9c7f-c16d20bb224c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스트리트 우먼 파이터' 황금 리더 효진초이 리더십 탐구]]></title>
             <link>https://www.elle.co.kr/article/59122</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 05:40:39 GMT</pubDate>
             <content:encoded><![CDATA[견본 주택이 대중과 소통하는 아트 공간으로 멋지게 탈바꿈했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/1f02ed77-762b-472c-8619-2afbf2b1bd26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시작하자. 지금이라는 시즌]]></title>
-            <link>https://www.elle.co.kr/article/59053</link>
-            <guid>https://www.elle.co.kr/article/59053</guid>
-            <pubDate>Thu, 07 Oct 2021 05:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[김연경 &amp; 현빈과 함께한 언더아머 21 F/W 윈터 캠페인 공개]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/fbf2fdcf-689a-48f7-94d1-bf38fac63846.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

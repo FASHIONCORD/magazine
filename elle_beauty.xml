@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 05:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 17:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여자가 남자보다 술에 약하다고?_몸에 좋은 잔소리 #29]]></title>
+            <link>https://www.elle.co.kr/article/59165</link>
+            <guid>https://www.elle.co.kr/article/59165</guid>
+            <pubDate>Tue, 12 Oct 2021 17:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[알코올이 여자에게 더 치명적인 이유에 대해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/5caa007d-2503-4ce1-b225-94432297d056.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈가에 내려앉은 가을 컬러]]></title>
             <link>https://www.elle.co.kr/article/59158</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 05:40:46 GMT</pubDate>
             <content:encoded><![CDATA[먹방 영상이 ‘길티플레저’가 아닌 ‘길티’가 될 수 있다는 이야기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/3f43cbe8-36fe-4159-bf0d-93118aafa0da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백지영이 다이어트 카운슬러에게 전수 받은 탄수화물 제한 식단]]></title>
-            <link>https://www.elle.co.kr/article/58990</link>
-            <guid>https://www.elle.co.kr/article/58990</guid>
-            <pubDate>Mon, 04 Oct 2021 17:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[하지만 백지영도 넘지 못한 일주일의 벽...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/3c513cdc-673b-4588-94de-1e843140b2b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
