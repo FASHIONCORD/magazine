@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 17:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 05:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러블리한 나연의 변신]]></title>
+            <link>https://www.elle.co.kr/article/59194</link>
+            <guid>https://www.elle.co.kr/article/59194</guid>
+            <pubDate>Tue, 12 Oct 2021 05:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[사랑스러운 나연의 패셔너블한 순간]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/dbd3ceb7-1055-4383-94ae-5e4e1c1e8809.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 봐, 이게 여자들 우정이다. 스우파 '혜인즈' 아이키X리헤이 (feat. 연신내즈)]]></title>
+            <link>https://www.elle.co.kr/article/59185</link>
+            <guid>https://www.elle.co.kr/article/59185</guid>
+            <pubDate>Tue, 12 Oct 2021 05:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[치열한 배틀만큼 뜨거운 여자들의 우정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/14779d7c-5e65-474c-8478-b6f8ceeab0c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 윤계상 vs 인간 윤계상]]></title>
             <link>https://www.elle.co.kr/article/59162</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 17:45:53 GMT</pubDate>
             <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ① (feat. 박재범X로꼬, 한지민, 이준기)]]></title>
-            <link>https://www.elle.co.kr/article/59107</link>
-            <guid>https://www.elle.co.kr/article/59107</guid>
-            <pubDate>Fri, 08 Oct 2021 17:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/3ff49d99-1ab6-4fdd-9264-a823bf9b676b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 S/S 파리 패션 위크 하이라이트 4]]></title>
-            <link>https://www.elle.co.kr/article/59105</link>
-            <guid>https://www.elle.co.kr/article/59105</guid>
-            <pubDate>Fri, 08 Oct 2021 05:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[발렌시아가를 입은 '심슨 가족' 스페셜 필름부터 로제와 지수의 쇼 참석으로 역대급 인파가 몰...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/1cb02f76-addc-47e6-a3a2-43bab5707777.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

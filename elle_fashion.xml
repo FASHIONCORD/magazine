@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 17:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 05:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 S/S 파리 패션 위크 하이라이트 4]]></title>
+            <link>https://www.elle.co.kr/article/59105</link>
+            <guid>https://www.elle.co.kr/article/59105</guid>
+            <pubDate>Tue, 12 Oct 2021 05:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[발렌시아가를 입은 '심슨 가족' 스페셜 필름부터 로제와 지수의 쇼 참석으로 역대급 인파가 몰...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/1cb02f76-addc-47e6-a3a2-43bab5707777.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리부터 발끝까지 힙 & 핫 '스.우.파' 댄서 8인의 OOTD]]></title>
             <link>https://www.elle.co.kr/article/59089</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Oct 2021 17:47:03 GMT</pubDate>
             <content:encoded><![CDATA[일상과 필드를 넘나드는 새로운 골프웨어의 등장.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/3b0695d3-ed37-49b7-aae5-caeca82b9d11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따라 하고 싶은 셀러브리티의 올 화이트 스타일링 5]]></title>
-            <link>https://www.elle.co.kr/article/58982</link>
-            <guid>https://www.elle.co.kr/article/58982</guid>
-            <pubDate>Mon, 04 Oct 2021 17:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[쿨한 화이트 룩을 원한다면? 스포티한 원마일웨어부터 출근 룩까지 스타들의 데일리룩을 참고해 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/28d9fabd-81cb-479f-831c-f58d4faeb166.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

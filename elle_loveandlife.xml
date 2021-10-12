@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 17:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 05:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방금 오픈! 서촌 신상 카페 리스트 3]]></title>
+            <link>https://www.elle.co.kr/article/59152</link>
+            <guid>https://www.elle.co.kr/article/59152</guid>
+            <pubDate>Tue, 12 Oct 2021 05:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[인왕산의 푸르름 함께 커피 한 잔]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/65224c99-b61f-4446-85a0-7b27b086e0c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크림이야 빵이야? 크림 디저트로 유명한 맛집 플레이스 3]]></title>
+            <link>https://www.elle.co.kr/article/59142</link>
+            <guid>https://www.elle.co.kr/article/59142</guid>
+            <pubDate>Tue, 12 Oct 2021 05:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[한 눈에 봐도 어마어마한 크림양!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/b9fce982-c1a1-4b72-a60b-5c5ef265218d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ② (feat. 나영석PD, 김연경, 김희애)]]></title>
             <link>https://www.elle.co.kr/article/59108</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 05:42:14 GMT</pubDate>
             <content:encoded><![CDATA[편안하면서도 완벽한 디자인을 자랑하는 의자들을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/d3102c1d-99a2-4ec1-a909-995d1f9fe25e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서촌에서 즐기는 향긋한 차의 풍경, 전시 '다함께 차차차']]></title>
-            <link>https://www.elle.co.kr/article/59045</link>
-            <guid>https://www.elle.co.kr/article/59045</guid>
-            <pubDate>Thu, 07 Oct 2021 05:42:14 GMT</pubDate>
-            <content:encoded><![CDATA[다구 구경하고, 특별한 차 맛도 보고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/8ad569d9-dcd2-4767-911b-73ec03bd2b33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 핫한 애월읍부터 금능 해수욕장까지, 새로 생긴 제주 맛집 3 #신상맛집]]></title>
-            <link>https://www.elle.co.kr/article/59042</link>
-            <guid>https://www.elle.co.kr/article/59042</guid>
-            <pubDate>Wed, 06 Oct 2021 05:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[제주 여행을 만끽하려면 반드시 체크할 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5d8cf5bd-ed0a-4d70-819f-2cbccf3ff0f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
