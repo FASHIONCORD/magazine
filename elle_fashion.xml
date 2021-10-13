@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 17:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 05:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셔츠는 이렇게! 가을 날씨 만끽할 여리여리한 셔츠 스타일링]]></title>
+            <link>https://www.elle.co.kr/article/59125</link>
+            <guid>https://www.elle.co.kr/article/59125</guid>
+            <pubDate>Wed, 13 Oct 2021 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[가을은 셔츠의 계절! 스타들의 룩에서 스타일링 힌트를 얻어보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/fde08f50-dadc-48af-a3ed-e59e8d3e8a11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 S/S 파리 패션 위크 하이라이트 4]]></title>
             <link>https://www.elle.co.kr/article/59105</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 06 Oct 2021 17:44:20 GMT</pubDate>
             <content:encoded><![CDATA[역대급 콜라보로 화제가 된 '펜다체'부터 듀얼 런웨이를 선보인 프라다, 5개국에서 디지털 라...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/458faa7d-a59d-40be-a196-a75f6561ce86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필드 위 자신감 상승 #골린이 패션]]></title>
-            <link>https://www.elle.co.kr/article/59002</link>
-            <guid>https://www.elle.co.kr/article/59002</guid>
-            <pubDate>Mon, 04 Oct 2021 17:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[일상과 필드를 넘나드는 새로운 골프웨어의 등장.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/3b0695d3-ed37-49b7-aae5-caeca82b9d11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
