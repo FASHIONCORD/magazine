@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 17:47:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 나은 세상을 향한 조수빈 아나운서 모녀의 REBUILD THE WORLD WITH LEGO]]></title>
+            <link>https://www.elle.co.kr/article/59220</link>
+            <guid>https://www.elle.co.kr/article/59220</guid>
+            <pubDate>Wed, 13 Oct 2021 17:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[조수빈 아나운서와 그녀의 딸, 행복이의 상상력으로 완성한 레고 유토피아! 더 나은 세상을 꿈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/696ad97d-6639-41be-bcad-c5655251544e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[술 당기는 게 함정인 문근영의 다이어트 식단 5]]></title>
+            <link>https://www.elle.co.kr/article/59232</link>
+            <guid>https://www.elle.co.kr/article/59232</guid>
+            <pubDate>Wed, 13 Oct 2021 17:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[안주 같기도 하고... 다이어트 식단 같기도 하고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/c9216058-2e92-4d65-bfa3-19aa2c8f566d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코미디 아티스트 웻보이부터 리헤이 남친까지? 스우파의 남자들 6]]></title>
             <link>https://www.elle.co.kr/article/59229</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 17:45:13 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 20년을 맞이한 엄지원이 몸매를 유지하는 비결은? 알아서 관리되는 생활 속 작은 습관들...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/cd03f883-0d1b-458e-a3b1-3f64a9225153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러블리한 나연의 변신]]></title>
-            <link>https://www.elle.co.kr/article/59194</link>
-            <guid>https://www.elle.co.kr/article/59194</guid>
-            <pubDate>Tue, 12 Oct 2021 05:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[사랑스러운 나연의 패셔너블한 순간]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/dbd3ceb7-1055-4383-94ae-5e4e1c1e8809.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐, 이게 여자들 우정이다. 스우파 '혜인즈' 아이키X리헤이 (feat. 연신내즈)]]></title>
-            <link>https://www.elle.co.kr/article/59185</link>
-            <guid>https://www.elle.co.kr/article/59185</guid>
-            <pubDate>Tue, 12 Oct 2021 05:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[치열한 배틀만큼 뜨거운 여자들의 우정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/14779d7c-5e65-474c-8478-b6f8ceeab0c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

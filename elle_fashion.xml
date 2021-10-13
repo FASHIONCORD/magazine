@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 17:47:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['하이클래스' 조여정 VS 김지수 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/59200</link>
+            <guid>https://www.elle.co.kr/article/59200</guid>
+            <pubDate>Wed, 13 Oct 2021 17:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[믿고 보는 연기력에 보는 재미가 쏠쏠한 스타일까지! 우아한 카리스마가 폭발하는, 드라마 '하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/c82c2913-5634-4df4-93c9-b02d89ee3e4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타들이 빠진 이것! #코르셋]]></title>
+            <link>https://www.elle.co.kr/article/59126</link>
+            <guid>https://www.elle.co.kr/article/59126</guid>
+            <pubDate>Wed, 13 Oct 2021 17:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[코르셋 패션이 헐리우드 셀러브리티부터 패피들의 리얼웨이까지 점령한 순간을 포착했습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/1f1bb842-611a-4445-9d62-80832ca311c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셔츠는 이렇게! 가을 날씨 만끽할 여리여리한 셔츠 스타일링]]></title>
             <link>https://www.elle.co.kr/article/59125</link>
@@ -45,7 +61,7 @@
             <guid>https://www.elle.co.kr/article/59034</guid>
             <pubDate>Fri, 08 Oct 2021 05:40:00 GMT</pubDate>
             <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을엔 트렌치코트! 따라하고 싶은 가을 데일리 룩 #옷잘입는언니]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 05:40:00 GMT</pubDate>
             <content:encoded><![CDATA[트렌치코트가 빛을 발하는 계절, 가을! 어떻게 입어야 좋을지 고민이라면? 옷 잘 입기로 유명...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/fc5ce8f7-b43f-4e8c-bb58-06e689697924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀렙들의 러닝 아웃핏]]></title>
-            <link>https://www.elle.co.kr/article/59025</link>
-            <guid>https://www.elle.co.kr/article/59025</guid>
-            <pubDate>Thu, 07 Oct 2021 05:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[러닝에 자극을 불어넣어줄 스타일링! 셀렙들의 짐 웨어 룩에서 힌트를 얻어보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/a4b02b2d-2a57-4ba8-9791-abb80c8c488b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 S/S 밀란 패션위크 하이라이트 5]]></title>
-            <link>https://www.elle.co.kr/article/59012</link>
-            <guid>https://www.elle.co.kr/article/59012</guid>
-            <pubDate>Wed, 06 Oct 2021 17:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[역대급 콜라보로 화제가 된 '펜다체'부터 듀얼 런웨이를 선보인 프라다, 5개국에서 디지털 라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/458faa7d-a59d-40be-a196-a75f6561ce86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
