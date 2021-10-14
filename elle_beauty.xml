@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 17:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 05:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피부 되살리기 일주일 챌린지! 에이핑크 윤보미처럼!]]></title>
+            <link>https://www.elle.co.kr/article/59183</link>
+            <guid>https://www.elle.co.kr/article/59183</guid>
+            <pubDate>Thu, 14 Oct 2021 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[윤보미가 소개하는 피부 되살리기 일주일 챌린지. 환절기와 마스크로 인한 자극 때문에 눈에 띄...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/d1cb3718-434d-4677-ace3-cc0095406fb3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타일 지수를 높여줄 러닝 아이템]]></title>
             <link>https://www.elle.co.kr/article/59176</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 17:45:34 GMT</pubDate>
             <content:encoded><![CDATA[기록보다 자신만의 온전한 시간과 도전을 응원하며 &lt;엘르&gt;가 선택한 러닝 준비템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/fdc55425-b004-48bb-9311-dbec20c8c8a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버추얼 러닝을 대하는 러너들의 자세]]></title>
-            <link>https://www.elle.co.kr/article/59007</link>
-            <guid>https://www.elle.co.kr/article/59007</guid>
-            <pubDate>Fri, 08 Oct 2021 17:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[피니시 라인까지 든든한 페이스 메이커가 되어줄 여덟 명의 엘르런 앰배서더들의 인터뷰.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/c67dbad7-f5fb-4657-a3e9-4ab0dc3322ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
