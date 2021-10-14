@@ -4,11 +4,19 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 17:55:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[고현정 VS 이영애 VS 전지현 VS 송혜교?! 2021 가을 드라마에서 볼 여자들]]></title>
+            <title><![CDATA[드디어 한국 상륙하는 디즈니 플러스 오리지널 드라마 라인업.list]]></title>
+            <link>https://www.elle.co.kr/article/59311</link>
+            <guid>https://www.elle.co.kr/article/59311</guid>
+            <pubDate>Thu, 14 Oct 2021 17:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[11월12일 드디어 한국 상륙!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/b11848fc-441e-4184-8cca-9a97b2dde897.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고현정 VS 전지현 VS 이영애 VS 송혜교?! 2021 가을 드라마에서 볼 여자들]]></title>
             <link>https://www.elle.co.kr/article/59294</link>
             <guid>https://www.elle.co.kr/article/59294</guid>
             <pubDate>Thu, 14 Oct 2021 05:41:20 GMT</pubDate>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 06 Oct 2021 05:41:24 GMT</pubDate>
             <content:encoded><![CDATA[시청자들의 기대와 우려 속에 시작된 투표.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/59ca2c71-225a-4b1f-b4c9-9b78fd5e7ab0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[졌지만 잘 싸웠다! '스트릿 우먼 파이터' 두 번째 탈락 크루 '원트' 활약 모음]]></title>
-            <link>https://www.elle.co.kr/article/59079</link>
-            <guid>https://www.elle.co.kr/article/59079</guid>
-            <pubDate>Wed, 06 Oct 2021 05:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[늘 살얼음판을 걷는 듯하던 원트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/bbe05644-89fd-4539-a0fd-ac956dd932c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

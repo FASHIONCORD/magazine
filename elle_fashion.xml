@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 17:55:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타들이 트위드 재킷을 입는 법]]></title>
+            <link>https://www.elle.co.kr/article/59210</link>
+            <guid>https://www.elle.co.kr/article/59210</guid>
+            <pubDate>Thu, 14 Oct 2021 17:51:48 GMT</pubDate>
+            <content:encoded><![CDATA[차정원, 기은세, 한선화 등 스타들의 데일리 룩에서 포착된 트위드 재킷 스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/47e3c0af-e472-42e3-95a7-0dfa8be58436.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세기말 패션 #Y2K 가 돌아왔다]]></title>
             <link>https://www.elle.co.kr/article/59203</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Oct 2021 17:54:00 GMT</pubDate>
             <content:encoded><![CDATA[파리 실제 상황! 런웨이에서 만나는  미우미우(MIU MIU)의 SS22 쇼를 만나보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/c512856e-3f7d-410c-9331-0ab324b4045c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내마음에 골인! 100% 화보재질 #손흥민]]></title>
-            <link>https://www.elle.co.kr/article/59034</link>
-            <guid>https://www.elle.co.kr/article/59034</guid>
-            <pubDate>Fri, 08 Oct 2021 05:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[언제 어디든 멋지게 질주하는 남자, 손흥민의 패션필름]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/892758f5-2b7a-4bb0-9d61-83c66d8b46f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

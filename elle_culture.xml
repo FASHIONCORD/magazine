@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 17:55:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재범에 '하이힐 맛집' 조권도 등장! 기습 공개된 스우파 '맨 오브 우먼' 미션 모아보기.zip]]></title>
+            <link>https://www.elle.co.kr/article/59221</link>
+            <guid>https://www.elle.co.kr/article/59221</guid>
+            <pubDate>Thu, 14 Oct 2021 17:53:05 GMT</pubDate>
+            <content:encoded><![CDATA[투표는 15일 자정까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/b0329ebc-edcd-41fd-af24-b802fc9c883a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘 봐, 이게 여자들 우정이다. 스우파 '혜인즈' 아이키X리헤이 (feat. 연신내즈)]]></title>
             <link>https://www.elle.co.kr/article/59185</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 10 Oct 2021 05:43:18 GMT</pubDate>
             <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/3ff49d99-1ab6-4fdd-9264-a823bf9b676b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원의 오래된 빌라가 취향 좋은 주인을 만났다 #인테리어]]></title>
-            <link>https://www.elle.co.kr/article/59103</link>
-            <guid>https://www.elle.co.kr/article/59103</guid>
-            <pubDate>Fri, 08 Oct 2021 17:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[20여 년에 걸친 세월의 흔적을 켜켜이 입은 낡은 빌라가 상상력과 즉흥적인 DNA를 지닌 새...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/b1b71253-1065-4c7b-bf33-f9b3b6637693.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
