@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 17:55:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 05:44:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀러브리티들의 셔츠 스타일링 공식 6]]></title>
+            <link>https://www.elle.co.kr/article/59246</link>
+            <guid>https://www.elle.co.kr/article/59246</guid>
+            <pubDate>Fri, 15 Oct 2021 05:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[따라 하고 싶은 스타들의 셔츠 스타일링 팁 여섯 가지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1e9b256c-7a06-4aa0-a8ae-ac32e9ff1b3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타들이 트위드 재킷을 입는 법]]></title>
             <link>https://www.elle.co.kr/article/59210</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Oct 2021 17:54:00 GMT</pubDate>
             <content:encoded><![CDATA[지금 가장 주목받고 있는 &lt;스트릿 우먼 파이터&gt;의 주인공인 댄서들. SNS 피드에서 포착한 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/800e952c-5f39-4528-ac78-0e2f02d3ce0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVE ON! 미우미우의 2022 SS 여성복 컬렉션]]></title>
-            <link>https://www.elle.co.kr/article/58987</link>
-            <guid>https://www.elle.co.kr/article/58987</guid>
-            <pubDate>Mon, 11 Oct 2021 17:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[파리 실제 상황! 런웨이에서 만나는  미우미우(MIU MIU)의 SS22 쇼를 만나보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/c512856e-3f7d-410c-9331-0ab324b4045c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

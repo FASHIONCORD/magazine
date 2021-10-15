@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 17:55:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 05:44:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스우파 라치카X조권, 프라우드먼X캼의 선택! 드랙(Drag)이란?]]></title>
+            <link>https://www.elle.co.kr/article/59341</link>
+            <guid>https://www.elle.co.kr/article/59341</guid>
+            <pubDate>Fri, 15 Oct 2021 05:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 다른 무대였지만 메시지는 하나.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/3365e54b-a957-4247-b75c-ab832651d6e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 한국 상륙하는 디즈니 플러스 오리지널 드라마 라인업.list]]></title>
             <link>https://www.elle.co.kr/article/59311</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 07 Oct 2021 05:41:17 GMT</pubDate>
             <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/3ff49d99-1ab6-4fdd-9264-a823bf9b676b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 세미 파이널 투표 시작! 제시 신곡 미션 나선 여섯 크루 영상.zip]]></title>
-            <link>https://www.elle.co.kr/article/59080</link>
-            <guid>https://www.elle.co.kr/article/59080</guid>
-            <pubDate>Wed, 06 Oct 2021 05:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[시청자들의 기대와 우려 속에 시작된 투표.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/59ca2c71-225a-4b1f-b4c9-9b78fd5e7ab0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

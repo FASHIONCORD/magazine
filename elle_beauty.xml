@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 17:55:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 05:44:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[술 당기는 게 함정인 문근영의 다이어트 식단 5]]></title>
+            <link>https://www.elle.co.kr/article/59232</link>
+            <guid>https://www.elle.co.kr/article/59232</guid>
+            <pubDate>Fri, 15 Oct 2021 05:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[안주 같기도 하고... 다이어트 식단 같기도 하고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/c9216058-2e92-4d65-bfa3-19aa2c8f566d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을엔 꽃밭으로, 플로럴 향수 8_선배's 어드바이스 #86]]></title>
             <link>https://www.elle.co.kr/article/59198</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Oct 2021 05:40:03 GMT</pubDate>
             <content:encoded><![CDATA[하루하루 체력이 딸리고 피로감이 쉽게 해소되지 않는다고? 좀 '먹어 본' 뷰티 인사이더들이 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/9ad10c38-1bb4-47d8-b538-4247714d9d0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오트쿠튀르 쿠션 파운데이션]]></title>
-            <link>https://www.elle.co.kr/article/59035</link>
-            <guid>https://www.elle.co.kr/article/59035</guid>
-            <pubDate>Sun, 10 Oct 2021 05:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 쿠션과 사랑에 빠지기 1초 전.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/4e83077c-a8bf-4134-aa36-e9e22ec4a92b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
