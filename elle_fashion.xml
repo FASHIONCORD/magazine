@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 05:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 17:47:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쟈딕앤볼테르 2022 S/S 컬렉션, Elegant Cowboy]]></title>
+            <link>https://www.elle.co.kr/article/59249</link>
+            <guid>https://www.elle.co.kr/article/59249</guid>
+            <pubDate>Fri, 15 Oct 2021 17:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[엘르 코리아가 단독으로 만난 크리에이티브 디렉터 세실리아 본스트롬 인터뷰.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/a76d8a30-a421-4e07-9f9c-3a4a3e9868b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀러브리티들의 셔츠 스타일링 공식 6]]></title>
             <link>https://www.elle.co.kr/article/59246</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 05:39:54 GMT</pubDate>
             <content:encoded><![CDATA[발렌시아가를 입은 '심슨 가족' 스페셜 필름부터 로제와 지수의 쇼 참석으로 역대급 인파가 몰...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/1cb02f76-addc-47e6-a3a2-43bab5707777.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리부터 발끝까지 힙 & 핫 '스.우.파' 댄서 8인의 OOTD]]></title>
-            <link>https://www.elle.co.kr/article/59089</link>
-            <guid>https://www.elle.co.kr/article/59089</guid>
-            <pubDate>Mon, 11 Oct 2021 17:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 주목받고 있는 &lt;스트릿 우먼 파이터&gt;의 주인공인 댄서들. SNS 피드에서 포착한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/800e952c-5f39-4528-ac78-0e2f02d3ce0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

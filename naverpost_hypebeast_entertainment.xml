@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 05:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 17:47:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[론칭 앞둔 디즈니+에서 공개될 한국 콘텐츠 7]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32551972&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32551972&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 15 Oct 2021 17:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMTcy/MDAxNjM0MjAxNTQxMTgw.a1pSFyrY215GPzDYRx__mnJkQNkPQkDZ1crK8PiQeoIg.vYJGxQxmUcov3v5Qsk8rW9o94ye2cSOwdXuzobbIYIgg.JPEG/Ifv0m8Eet5YrvqfPalQhMOiJfrQY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 ‘오징어 게임’, 해외에서 더욱 열광하는 이유는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32502675&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMjlfMTQy/MDAxNjA5MjM2MTUwOTM3.E6bSS0sqNo1Z0IHIHPjpQuy2bvobpbwUrfRwdu9XU1og.c4msSrEERqK567GyQ3ql-qorna2_1yJuBsWmZ_VZ_usg.JPEG/IIGufhffe506FWH8m68X-FBsV8rE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스파이더맨 3’ 연계 확정, 캐스팅 등 ‘닥터 스트레인지’ 속편 새로운 정보들]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30199728&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30199728&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTFfNTUg/MDAxNjA3NjU2OTgwMjAy.CYnc0FB0L7ROzHq6-zYNjpDWsN9XNgvXAJgiNhhDoEEg.LOWw8ojK9wVpPhEHubCWTT7SYn2ynMk_9-ONIF361t4g.JPEG/I05mrqy330T0ke6_EwyqfsBI8frI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
