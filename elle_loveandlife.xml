@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 05:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 17:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을에 꼭 맛봐야 할 밤! 눈과 입을 사로잡는 밤 디저트 3]]></title>
+            <link>https://www.elle.co.kr/article/59253</link>
+            <guid>https://www.elle.co.kr/article/59253</guid>
+            <pubDate>Sat, 16 Oct 2021 17:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[무르익은 가을의 풍성한 맛을 느낄 수 있는 제철 식재료 밤. 조림부터 아이스크림까지 더욱더 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/5525c390-1bea-4008-b610-1ad91ae097e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청보리한우와 막창순대국밥, 이미 고유명사인 김제 향토 음식 맛집 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/59247</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 05:42:43 GMT</pubDate>
             <content:encoded><![CDATA[인왕산의 푸르름 함께 커피 한 잔]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/65224c99-b61f-4446-85a0-7b27b086e0c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크림이야 빵이야? 크림 디저트로 유명한 맛집 플레이스 3]]></title>
-            <link>https://www.elle.co.kr/article/59142</link>
-            <guid>https://www.elle.co.kr/article/59142</guid>
-            <pubDate>Tue, 12 Oct 2021 05:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[한 눈에 봐도 어마어마한 크림양!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/b9fce982-c1a1-4b72-a60b-5c5ef265218d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 05:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 17:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 다큐를 만드는 이유 #국가대표 #이은규PD]]></title>
+            <link>https://www.elle.co.kr/article/59378</link>
+            <guid>https://www.elle.co.kr/article/59378</guid>
+            <pubDate>Sat, 16 Oct 2021 17:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[세상 곳곳에 빛을 밝히려 오늘도 고군분투하는 이은규PD가 얘기하는 지금의 여성, 여성 다큐멘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/8e5b856d-cb58-4ad3-ac23-212829ceb85e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘오징어 게임’ 속 이 배우를 주목할 것! #240번 #이유미]]></title>
             <link>https://www.elle.co.kr/article/59370</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 08 Oct 2021 05:42:59 GMT</pubDate>
             <content:encoded><![CDATA[출퇴근길에도 샤워할 때도 '헤이 마마' 맴도는 사람은 고개를 들어 주세요...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/efbc4b7b-1870-4fa8-9c7f-c16d20bb224c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스트리트 우먼 파이터' 황금 리더 효진초이 리더십 탐구]]></title>
-            <link>https://www.elle.co.kr/article/59122</link>
-            <guid>https://www.elle.co.kr/article/59122</guid>
-            <pubDate>Fri, 08 Oct 2021 05:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[때론 부드럽게 또 강하게. '원트'의 리더 효진초이의 리더십.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/a4dfd090-c965-4b2a-b812-11054ba6a878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

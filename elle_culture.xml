@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 05:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 17:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 한국 상륙하는 디즈니 플러스 오리지널 드라마 라인업.list]]></title>
+            <link>https://www.elle.co.kr/article/59311</link>
+            <guid>https://www.elle.co.kr/article/59311</guid>
+            <pubDate>Sat, 16 Oct 2021 17:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[11월12일 드디어 한국 상륙!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/b11848fc-441e-4184-8cca-9a97b2dde897.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고현정 VS 전지현 VS 이영애 VS 송혜교?! 2021 가을 드라마에서 볼 여자들]]></title>
             <link>https://www.elle.co.kr/article/59294</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 17:45:36 GMT</pubDate>
             <content:encoded><![CDATA[#소말리아난민출신 #모델을겸하는복싱챔피언 람라 알리가 지닌 이야기는 비단 이뿐만이 아니다. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/14aa33ce-bdbb-4a43-a7aa-5dd77a7ae424.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나에게도 이런 세포들이 있을까? '유미의 세포들'의 세포들 탐구]]></title>
-            <link>https://www.elle.co.kr/article/59151</link>
-            <guid>https://www.elle.co.kr/article/59151</guid>
-            <pubDate>Wed, 13 Oct 2021 05:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[적재적소에 등장해 드라마를 풍성하게 만들어 준 세포들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1a0a8334-0eed-400e-8f0f-d9439680a027.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
