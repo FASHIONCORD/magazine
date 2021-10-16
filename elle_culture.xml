@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 17:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 05:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고현정 VS 전지현 VS 이영애 VS 송혜교?! 2021 가을 드라마에서 볼 여자들]]></title>
+            <link>https://www.elle.co.kr/article/59294</link>
+            <guid>https://www.elle.co.kr/article/59294</guid>
+            <pubDate>Sat, 16 Oct 2021 05:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[반가운 여성 배우 러시.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/b0f1c594-05f5-49cb-83ce-7b731d55670c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신민아와 김우빈이 드디어 한 작품에서 만난다]]></title>
             <link>https://www.elle.co.kr/article/59271</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 05:40:50 GMT</pubDate>
             <content:encoded><![CDATA[적재적소에 등장해 드라마를 풍성하게 만들어 준 세포들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1a0a8334-0eed-400e-8f0f-d9439680a027.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기적' 박정민부터 '오겜' 위하준까지? 스우파 '헤이 마마' 커버한 스타 4]]></title>
-            <link>https://www.elle.co.kr/article/59139</link>
-            <guid>https://www.elle.co.kr/article/59139</guid>
-            <pubDate>Tue, 12 Oct 2021 17:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[출퇴근길에도 샤워할 때도 '헤이 마마' 맴도는 사람은 고개를 들어 주세요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/efbc4b7b-1870-4fa8-9c7f-c16d20bb224c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

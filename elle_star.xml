@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 17:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 05:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 열정지수 '만렙'인 #내가키운다 채림]]></title>
+            <link>https://www.elle.co.kr/article/59326</link>
+            <guid>https://www.elle.co.kr/article/59326</guid>
+            <pubDate>Sat, 16 Oct 2021 05:41:07 GMT</pubDate>
+            <content:encoded><![CDATA['이든이 엄마' 채림이 JTBC 헬프 스티커 캠페인을 위해 #엘르 카메라 앞에 섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/99177239-b231-43cf-b0fe-ef1de7125387.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고현정 VS 전지현 VS 이영애 VS 송혜교?! 2021 가을 드라마에서 볼 여자들]]></title>
             <link>https://www.elle.co.kr/article/59294</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 05:40:20 GMT</pubDate>
             <content:encoded><![CDATA[따라 하고 싶은 스타들의 셔츠 스타일링 팁 여섯 가지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1e9b256c-7a06-4aa0-a8ae-ac32e9ff1b3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#내가키운다 김나영이 말하는 지금이 최고 전성기인 이유]]></title>
-            <link>https://www.elle.co.kr/article/59243</link>
-            <guid>https://www.elle.co.kr/article/59243</guid>
-            <pubDate>Thu, 14 Oct 2021 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA['시우와 이준이 엄마'로 활약 중인 김나영이 JTBC 헬프 스티커 캠페인을 위해 잠시 #엘르...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/15b65d69-ea9d-4877-a320-00eb1c3dde47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

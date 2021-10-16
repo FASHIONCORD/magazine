@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 17:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 05:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청보리한우와 막창순대국밥, 이미 고유명사인 김제 향토 음식 맛집 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/59247</link>
+            <guid>https://www.elle.co.kr/article/59247</guid>
+            <pubDate>Sat, 16 Oct 2021 05:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[김제 향토 음식들 + '백종원 픽' 짬뽕까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/10a04ded-3982-409b-ad6a-db736c4d2171.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성공적인 감성 홈카페를 위한 구매 리스트 3]]></title>
             <link>https://www.elle.co.kr/article/59222</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 05:42:43 GMT</pubDate>
             <content:encoded><![CDATA[한 눈에 봐도 어마어마한 크림양!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/b9fce982-c1a1-4b72-a60b-5c5ef265218d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백종원이 술 마실 때 찾는 '백스피릿' 맛집 3 ② (feat. 나영석PD, 김연경, 김희애)]]></title>
-            <link>https://www.elle.co.kr/article/59108</link>
-            <guid>https://www.elle.co.kr/article/59108</guid>
-            <pubDate>Mon, 11 Oct 2021 05:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 사람들과 좋은 이야기를 나누기 좋은 곳들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/97f51ff2-26fa-44ac-a576-d55b6fd44cf6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

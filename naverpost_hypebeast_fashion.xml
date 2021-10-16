@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 17:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 05:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언제나 활용도 높은 로고 후디 추천 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32552052&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32552052&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Sat, 16 Oct 2021 05:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMjQ3/MDAxNjM0MjAyMTI4NzYw.h9jKOOOG3Jf_NVcYQ6i04AlYvXT_1jHkj6Z8DuDddjAg.ppN-q9VP1t2jd6b7VmUTiyEKUmQtGcRGkAhn9SzuS-Ug.JPEG/IM3xbAWQLOLjkjwgunANNGVtLdqM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메종 키츠네, 아미, 톰 브라운 등에서 고른 추천 카디건 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32551916&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:56:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDZfMTgy/MDAxNjE3NzAwMTAzMTI5.Idl2XFjOnP0bzND7vQMFWTNyb6F-z2-r0gzsDrDZifQg.ATSV6584eDwtKYYiEqXRMZsrc-xVxe63yK6QdHkz_d4g.JPEG/IOftctfyepo3Grs33wRe-vCVUYxU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태그드: 트래비스 스캇의 차고에는 과연 어떤 아이템들이 있을까?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31115395&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31115395&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:56:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDJfMTk2/MDAxNjE3MzQ2MTAxNjA3.ZGQzsDfuFVBUJaVwkchcqRIZruajvs3QghSyhz4A3pQg.KSvu1Fswv1xAeUBgjjcvDXmClHkFDK-0ipXCsrefyb4g.JPEG/I_50HvK-FHublpAeCY7DgHD67Xtc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
