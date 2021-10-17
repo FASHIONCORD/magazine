@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 05:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 17:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6,25 여군 학도병을 조명하다 #연순기숙 #오예진PD]]></title>
+            <link>https://www.elle.co.kr/article/59395</link>
+            <guid>https://www.elle.co.kr/article/59395</guid>
+            <pubDate>Sun, 17 Oct 2021 17:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[영 제너레이션 다큐멘터리 PD 오예진이 얘기하는 지금의 다큐멘터리 신]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/27d67472-6f64-410d-8373-a3e094d0c472.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이게 얼마만의 투샷? '스우파'에서 만난 조권X박재범]]></title>
+            <link>https://www.elle.co.kr/article/59392</link>
+            <guid>https://www.elle.co.kr/article/59392</guid>
+            <pubDate>Sun, 17 Oct 2021 17:46:56 GMT</pubDate>
+            <content:encoded><![CDATA["내가 원했던 게 이거잖아, 보고 싶었던 거 이거"]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/99f3dfa4-014f-47da-b170-5d1c843b83f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 다큐를 만드는 이유 #국가대표 #이은규PD]]></title>
             <link>https://www.elle.co.kr/article/59378</link>
@@ -94,22 +110,6 @@
             <pubDate>Sun, 10 Oct 2021 17:48:21 GMT</pubDate>
             <content:encoded><![CDATA[치열한 배틀만큼 뜨거운 여자들의 우정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/14779d7c-5e65-474c-8478-b6f8ceeab0c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나에게도 이런 세포들이 있을까? '유미의 세포들'의 세포들 탐구]]></title>
-            <link>https://www.elle.co.kr/article/59151</link>
-            <guid>https://www.elle.co.kr/article/59151</guid>
-            <pubDate>Fri, 08 Oct 2021 17:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[적재적소에 등장해 드라마를 풍성하게 만들어 준 세포들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1a0a8334-0eed-400e-8f0f-d9439680a027.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기적' 박정민부터 '오겜' 위하준까지? 스우파 '헤이 마마' 커버한 스타 4]]></title>
-            <link>https://www.elle.co.kr/article/59139</link>
-            <guid>https://www.elle.co.kr/article/59139</guid>
-            <pubDate>Fri, 08 Oct 2021 05:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[출퇴근길에도 샤워할 때도 '헤이 마마' 맴도는 사람은 고개를 들어 주세요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/efbc4b7b-1870-4fa8-9c7f-c16d20bb224c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

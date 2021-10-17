@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 05:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 17:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스우파 라치카X조권, 프라우드먼X캼의 선택! 드랙(Drag)이란?]]></title>
+            <link>https://www.elle.co.kr/article/59341</link>
+            <guid>https://www.elle.co.kr/article/59341</guid>
+            <pubDate>Sun, 17 Oct 2021 17:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 다른 무대였지만 메시지는 하나.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/3365e54b-a957-4247-b75c-ab832651d6e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 뷔도 다녀간 키아프 서울, 놓치지 말아야 할 부스 7 #인싸 전시_37]]></title>
+            <link>https://www.elle.co.kr/article/59336</link>
+            <guid>https://www.elle.co.kr/article/59336</guid>
+            <pubDate>Sun, 17 Oct 2021 17:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[수많은 셀럽들이 이미 방문한 그 전시.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/6e82e140-78fa-49e4-8b48-50e5fd3c7bac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 한국 상륙하는 디즈니 플러스 오리지널 드라마 라인업.list]]></title>
             <link>https://www.elle.co.kr/article/59311</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 17:53:05 GMT</pubDate>
             <content:encoded><![CDATA[투표는 15일 자정까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/b0329ebc-edcd-41fd-af24-b802fc9c883a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐, 이게 여자들 우정이다. 스우파 '혜인즈' 아이키X리헤이 (feat. 연신내즈)]]></title>
-            <link>https://www.elle.co.kr/article/59185</link>
-            <guid>https://www.elle.co.kr/article/59185</guid>
-            <pubDate>Thu, 14 Oct 2021 05:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[치열한 배틀만큼 뜨거운 여자들의 우정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/14779d7c-5e65-474c-8478-b6f8ceeab0c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복싱 챔피언 람라 알리의 드라마틱한 인생사]]></title>
-            <link>https://www.elle.co.kr/article/59180</link>
-            <guid>https://www.elle.co.kr/article/59180</guid>
-            <pubDate>Wed, 13 Oct 2021 17:45:36 GMT</pubDate>
-            <content:encoded><![CDATA[#소말리아난민출신 #모델을겸하는복싱챔피언 람라 알리가 지닌 이야기는 비단 이뿐만이 아니다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/14aa33ce-bdbb-4a43-a7aa-5dd77a7ae424.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

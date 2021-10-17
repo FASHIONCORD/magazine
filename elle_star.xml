@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 05:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 17:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스우파 라치카X조권, 프라우드먼X캼의 선택! 드랙(Drag)이란?]]></title>
+            <link>https://www.elle.co.kr/article/59341</link>
+            <guid>https://www.elle.co.kr/article/59341</guid>
+            <pubDate>Sun, 17 Oct 2021 17:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 다른 무대였지만 메시지는 하나.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/3365e54b-a957-4247-b75c-ab832651d6e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여성 댄서들 총집합! <엘르>와 스우파의 만남]]></title>
+            <link>https://www.elle.co.kr/article/59324</link>
+            <guid>https://www.elle.co.kr/article/59324</guid>
+            <pubDate>Sun, 17 Oct 2021 17:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[라치카, 프라우드먼, 훅, YGX 댄서 26인과 엘르가 조우했다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c6021be1-7312-4594-b61b-272dc7ce0c5b.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[가을 최애템, 재킷과 볼 캡]]></title>
             <link>https://www.elle.co.kr/article/59333</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 05:40:55 GMT</pubDate>
             <content:encoded><![CDATA[&lt;내가 키운다&gt;의 채림, 김현숙, 김나영, 조윤희가 JTBC의 헬프 스티커 캠페인을 위해 모...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/638f0467-3744-4d4e-b4d9-c9d34d33bcbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신민아와 김우빈이 드디어 한 작품에서 만난다]]></title>
-            <link>https://www.elle.co.kr/article/59271</link>
-            <guid>https://www.elle.co.kr/article/59271</guid>
-            <pubDate>Thu, 14 Oct 2021 17:52:50 GMT</pubDate>
-            <content:encoded><![CDATA[공개 연애 7년 만.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/f00b9e20-2d50-4135-8679-1fec50fbaeef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 10대 버전 스핀오프 '스걸파', 심사위원과 방송 시기는?]]></title>
-            <link>https://www.elle.co.kr/article/59256</link>
-            <guid>https://www.elle.co.kr/article/59256</guid>
-            <pubDate>Thu, 14 Oct 2021 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[여자 고등학생 중 재능 있는 댄서를 발굴하겠다는 취지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1fdaad31-0d85-45f3-bb07-66881f2cb867.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
