@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 17:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 05:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보테가 베네타의 새로운 아트 인스톨레이션, ‘THE MAZE’]]></title>
+            <link>https://www.elle.co.kr/article/59259</link>
+            <guid>https://www.elle.co.kr/article/59259</guid>
+            <pubDate>Sun, 17 Oct 2021 05:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드의 세계관을 직접 경험할 수 있는 기회다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/a077de4c-75e9-4ad0-95c7-ad00ac7b907b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쟈딕앤볼테르 2022 S/S 컬렉션, Elegant Cowboy]]></title>
             <link>https://www.elle.co.kr/article/59249</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 05:39:52 GMT</pubDate>
             <content:encoded><![CDATA[가을은 셔츠의 계절! 스타들의 룩에서 스타일링 힌트를 얻어보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/fde08f50-dadc-48af-a3ed-e59e8d3e8a11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 S/S 파리 패션 위크 하이라이트 4]]></title>
-            <link>https://www.elle.co.kr/article/59105</link>
-            <guid>https://www.elle.co.kr/article/59105</guid>
-            <pubDate>Tue, 12 Oct 2021 05:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[발렌시아가를 입은 '심슨 가족' 스페셜 필름부터 로제와 지수의 쇼 참석으로 역대급 인파가 몰...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/1cb02f76-addc-47e6-a3a2-43bab5707777.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 17:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 05:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 최애템, 재킷과 볼 캡]]></title>
+            <link>https://www.elle.co.kr/article/59333</link>
+            <guid>https://www.elle.co.kr/article/59333</guid>
+            <pubDate>Sun, 17 Oct 2021 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[셀러브리티들의 사복 패션에서 찾을 수 있는 ‘힙’한 패션 스타일링! 포멀한 재킷에 스포티한 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c682477f-0ba9-4e4e-bb5b-e86b0af6d15e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 열정지수 '만렙'인 #내가키운다 채림]]></title>
             <link>https://www.elle.co.kr/article/59326</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 05:40:20 GMT</pubDate>
             <content:encoded><![CDATA[여자 고등학생 중 재능 있는 댄서를 발굴하겠다는 취지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1fdaad31-0d85-45f3-bb07-66881f2cb867.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀러브리티들의 셔츠 스타일링 공식 6]]></title>
-            <link>https://www.elle.co.kr/article/59246</link>
-            <guid>https://www.elle.co.kr/article/59246</guid>
-            <pubDate>Thu, 14 Oct 2021 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[따라 하고 싶은 스타들의 셔츠 스타일링 팁 여섯 가지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1e9b256c-7a06-4aa0-a8ae-ac32e9ff1b3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
