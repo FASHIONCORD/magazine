@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 05:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 17:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 지수 메이크업 하우투(feat. 디올 뷰티(Dior Beauty))]]></title>
+            <link>https://www.elle.co.kr/article/59312</link>
+            <guid>https://www.elle.co.kr/article/59312</guid>
+            <pubDate>Wed, 20 Oct 2021 17:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[지수 담당 메이크업 아티스트에게 물었다! 디올 22 S/S 쇼장에 참석한 날, 메이크업 어떻...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/e3d9bd0e-8d4c-4c60-8feb-fe446f6b8db7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독보적인 신세대 감성을 소개하는 싱어송라이터 윤지영]]></title>
             <link>https://www.elle.co.kr/article/59010</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 05:39:51 GMT</pubDate>
             <content:encoded><![CDATA[윤보미가 소개하는 피부 되살리기 일주일 챌린지. 환절기와 마스크로 인한 자극 때문에 눈에 띄...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/d1cb3718-434d-4677-ace3-cc0095406fb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일 지수를 높여줄 러닝 아이템]]></title>
-            <link>https://www.elle.co.kr/article/59176</link>
-            <guid>https://www.elle.co.kr/article/59176</guid>
-            <pubDate>Wed, 13 Oct 2021 17:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[로드 러닝부터 트레킹 러닝까지 코스에 따른 쇼핑 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/ddafacc5-2eba-42bd-8eed-6256cc8534fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

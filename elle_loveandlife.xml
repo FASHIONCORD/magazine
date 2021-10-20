@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 05:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 17:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닭이 낳지 않은 달걀이 있다고? #식물성달걀]]></title>
+            <link>https://www.elle.co.kr/article/59425</link>
+            <guid>https://www.elle.co.kr/article/59425</guid>
+            <pubDate>Wed, 20 Oct 2021 17:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[달걀의 맛과 색을 빼닮은 식물성 대체 달걀의 등장!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/31b36b14-4f91-4433-b7aa-09fa3af97af9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결혼은 과정일까? 엔딩일까?]]></title>
             <link>https://www.elle.co.kr/article/59394</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 16 Oct 2021 17:46:26 GMT</pubDate>
             <content:encoded><![CDATA[무르익은 가을의 풍성한 맛을 느낄 수 있는 제철 식재료 밤. 조림부터 아이스크림까지 더욱더 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/5525c390-1bea-4008-b610-1ad91ae097e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청보리한우와 막창순대국밥, 이미 고유명사인 김제 향토 음식 맛집 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/59247</link>
-            <guid>https://www.elle.co.kr/article/59247</guid>
-            <pubDate>Sat, 16 Oct 2021 05:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[김제 향토 음식들 + '백종원 픽' 짬뽕까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/10a04ded-3982-409b-ad6a-db736c4d2171.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 05:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 17:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 최애템, 재킷과 볼 캡]]></title>
+            <link>https://www.elle.co.kr/article/59333</link>
+            <guid>https://www.elle.co.kr/article/59333</guid>
+            <pubDate>Wed, 20 Oct 2021 17:47:10 GMT</pubDate>
+            <content:encoded><![CDATA[셀러브리티들의 사복 패션에서 찾을 수 있는 ‘힙’한 패션 스타일링! 포멀한 재킷에 스포티한 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c682477f-0ba9-4e4e-bb5b-e86b0af6d15e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올가을에는 #레오퍼드 아이템 도전!]]></title>
+            <link>https://www.elle.co.kr/article/59329</link>
+            <guid>https://www.elle.co.kr/article/59329</guid>
+            <pubDate>Wed, 20 Oct 2021 17:47:10 GMT</pubDate>
+            <content:encoded><![CDATA[야성적인 힘을 내뿜는 레오퍼드의 강렬한 유혹.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/440025aa-3bc6-44dc-a930-5be940861f56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소희 추천! 내돈내산 주얼리 리스트]]></title>
+            <link>https://www.elle.co.kr/article/59292</link>
+            <guid>https://www.elle.co.kr/article/59292</guid>
+            <pubDate>Wed, 20 Oct 2021 17:47:10 GMT</pubDate>
+            <content:encoded><![CDATA[주얼리 쇼핑 전 참고하세요. 옷 잘 입는 그, 소희가 추천하는 주얼리 리스트를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/6b5110cf-4b5f-4a6e-8856-7026aa374c8f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보테가 베네타의 새로운 아트 인스톨레이션, ‘THE MAZE’]]></title>
             <link>https://www.elle.co.kr/article/59259</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 05:39:37 GMT</pubDate>
             <content:encoded><![CDATA[벨라 하디드, 올리비아 로드리고, 제니까지! 셀럽들이 사랑하는 세기말 감성의 귀환]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/5576652a-5651-47eb-a2e0-a9fc3d56d367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하이클래스' 조여정 VS 김지수 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/59200</link>
-            <guid>https://www.elle.co.kr/article/59200</guid>
-            <pubDate>Wed, 13 Oct 2021 17:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 보는 연기력에 보는 재미가 쏠쏠한 스타일까지! 우아한 카리스마가 폭발하는, 드라마 '하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/c82c2913-5634-4df4-93c9-b02d89ee3e4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들이 빠진 이것! #코르셋]]></title>
-            <link>https://www.elle.co.kr/article/59126</link>
-            <guid>https://www.elle.co.kr/article/59126</guid>
-            <pubDate>Wed, 13 Oct 2021 17:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[코르셋 패션이 헐리우드 셀러브리티부터 패피들의 리얼웨이까지 점령한 순간을 포착했습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/1f1bb842-611a-4445-9d62-80832ca311c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셔츠는 이렇게! 가을 날씨 만끽할 여리여리한 셔츠 스타일링]]></title>
-            <link>https://www.elle.co.kr/article/59125</link>
-            <guid>https://www.elle.co.kr/article/59125</guid>
-            <pubDate>Wed, 13 Oct 2021 05:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[가을은 셔츠의 계절! 스타들의 룩에서 스타일링 힌트를 얻어보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/fde08f50-dadc-48af-a3ed-e59e8d3e8a11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
