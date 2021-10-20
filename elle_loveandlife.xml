@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 05:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 05:43:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결혼은 과정일까? 엔딩일까?]]></title>
+            <link>https://www.elle.co.kr/article/59394</link>
+            <guid>https://www.elle.co.kr/article/59394</guid>
+            <pubDate>Wed, 20 Oct 2021 05:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[결혼은 과정보단 엔딩에 가까워 보였다. 상실을 끌어안고 그 이후의 삶을 이어가는 사람들의 태...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/6e379cdc-0afb-41cb-8dfd-3d53737d8f83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[술이 술술 들어가는 #홈바 인테리어 최강전]]></title>
+            <link>https://www.elle.co.kr/article/59381</link>
+            <guid>https://www.elle.co.kr/article/59381</guid>
+            <pubDate>Wed, 20 Oct 2021 05:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[유난히 술이 당기는 날, #홈바 계의 숨은 강자를 찾아갔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/00c23212-716b-44a0-96ea-fc9e7f4cabd5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 단풍과 역사와 문학이 숨쉬는 김제 명소 셋 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/59371</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 16 Oct 2021 05:44:05 GMT</pubDate>
             <content:encoded><![CDATA[김제 향토 음식들 + '백종원 픽' 짬뽕까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/10a04ded-3982-409b-ad6a-db736c4d2171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성공적인 감성 홈카페를 위한 구매 리스트 3]]></title>
-            <link>https://www.elle.co.kr/article/59222</link>
-            <guid>https://www.elle.co.kr/article/59222</guid>
-            <pubDate>Fri, 15 Oct 2021 17:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[테이블부터 컵까지 감성 가득한 리빙 용품들]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/60eb8821-696c-4ee2-9843-d0457fd4f1fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외여행 온 줄? 서울에 방금 생긴 독특한 감성의 카페 셋 #신상맛집]]></title>
-            <link>https://www.elle.co.kr/article/59211</link>
-            <guid>https://www.elle.co.kr/article/59211</guid>
-            <pubDate>Fri, 15 Oct 2021 17:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[명동, 연남동, 서울숲에서 즐기는 브런치와 디저트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/47c31256-0cdf-4b73-922f-bad3d1f4d3b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
