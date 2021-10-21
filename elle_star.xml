@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 17:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 '스우파' 파이널 미션! 최종 점수 30% 반영되는 글로벌 응원 투표 영상 모음]]></title>
+            <link>https://www.elle.co.kr/article/59460</link>
+            <guid>https://www.elle.co.kr/article/59460</guid>
+            <pubDate>Thu, 21 Oct 2021 05:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[단 네 크루만이 남았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/5c42cdf3-16e5-45e5-a0e7-1006864fdc39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예정화가 마동석 출연 <이터널스> 월드 프리미어 행사에 나타났다]]></title>
             <link>https://www.elle.co.kr/article/59444</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 05:41:04 GMT</pubDate>
             <content:encoded><![CDATA[모두가 잠든 도시, 네온사인 불빛을 배경으로 펼쳐지는 이도현과 나스의 뷰티 신(Scene)....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/33c3ee30-6bd0-4658-9412-eb7e2c32e212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 얼마만의 투샷? '스우파'에서 만난 조권X박재범]]></title>
-            <link>https://www.elle.co.kr/article/59392</link>
-            <guid>https://www.elle.co.kr/article/59392</guid>
-            <pubDate>Tue, 19 Oct 2021 05:41:27 GMT</pubDate>
-            <content:encoded><![CDATA["내가 원했던 게 이거잖아, 보고 싶었던 거 이거"]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/99f3dfa4-014f-47da-b170-5d1c843b83f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
