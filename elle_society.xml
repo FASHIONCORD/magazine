@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 05:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 17:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임현주 아나운서가 한강 러닝을 다시 시작한 멋진 이유 #엘르보이스]]></title>
+            <link>https://www.elle.co.kr/article/59285</link>
+            <guid>https://www.elle.co.kr/article/59285</guid>
+            <pubDate>Thu, 21 Oct 2021 17:50:54 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 한강 풍경이 파리 센느강 풍경과 비슷하다는 거 진짜? 운동이 일상이 된 요즘 삶]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/58980da5-f0a4-4556-9566-a4fa405ebf2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달리기와 수영을 통한 내 몸의 재발견 #엘르보이스]]></title>
+            <link>https://www.elle.co.kr/article/59240</link>
+            <guid>https://www.elle.co.kr/article/59240</guid>
+            <pubDate>Thu, 21 Oct 2021 17:50:54 GMT</pubDate>
+            <content:encoded><![CDATA[흠뻑 땀을 흘린 뒤 샤워하며 시원함을 느끼는 내 기특한 몸에 관심을 갖게 됐다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/a7f38c8e-d46e-44d5-8852-ba97c7c9b25e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파격선언! 고칠 수 없는 물건은 내 게 아니다? #엘르보이스]]></title>
             <link>https://www.elle.co.kr/article/59202</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 11 Oct 2021 17:58:14 GMT</pubDate>
             <content:encoded><![CDATA[숏컷, 청바지, 샤넬이 잘 어울리는 여자. ‘멋지다’는 말로는 한없이 부족한 크리스틴 스튜어...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/fd3cca7f-d3c7-4f0a-94a8-7457217b89f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우린 '로스트 제너레이션'이 아니다": UN총회 참석한 BTS 말말말]]></title>
-            <link>https://www.elle.co.kr/article/58759</link>
-            <guid>https://www.elle.co.kr/article/58759</guid>
-            <pubDate>Mon, 11 Oct 2021 05:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[UN총회에서 '퍼미션 투 댄스' 무대도 펼쳤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/5f41640b-4b97-408c-b4d3-179610738fc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친구야 우리 함께 건물주나 돼볼까?_돈쓸신잡 #12]]></title>
-            <link>https://www.elle.co.kr/article/58737</link>
-            <guid>https://www.elle.co.kr/article/58737</guid>
-            <pubDate>Sun, 10 Oct 2021 17:49:47 GMT</pubDate>
-            <content:encoded><![CDATA[당장 내일도 수백억짜리 건물 지분을 보유할 수 있다. 리츠에 주목해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/3db11ade-f515-4fa4-ba04-d82a954aa2e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

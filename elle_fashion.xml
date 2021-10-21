@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 05:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 17:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬 바람 불 땐 스웨터, 이렇게 입어봐요]]></title>
+            <link>https://www.elle.co.kr/article/59488</link>
+            <guid>https://www.elle.co.kr/article/59488</guid>
+            <pubDate>Thu, 21 Oct 2021 17:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[스웨터의 매력을 오롯이 느낄 수 있는 지금. 장희령, 김나영, 예리처럼 특별한 스웨터로 가을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/407b22c8-406f-452e-a058-4614b6ecbf42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['원더우먼' 이하늬 VS 진서연 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/59468</link>
+            <guid>https://www.elle.co.kr/article/59468</guid>
+            <pubDate>Thu, 21 Oct 2021 17:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[자체 최고 시청률 경신! '원더 열풍'을 일으키고 있는 드라마 '원 더 우먼(One the ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/97e5ef5a-9ae6-4d2f-a348-126ca0cc7305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패리스 힐튼과 제니의 연결고리 #벨벳트랙수트]]></title>
+            <link>https://www.elle.co.kr/article/59385</link>
+            <guid>https://www.elle.co.kr/article/59385</guid>
+            <pubDate>Thu, 21 Oct 2021 17:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[Y2K 패션의 끝판왕! 그 시절 패리스 힐튼이 즐겨 입던 벨벳 트레이닝 룩이 돌아왔다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/d0cc5daa-d4e5-4b01-8bc5-d4e9a6228634.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손맛이 가득! 할머니의 손뜨개를 닮은 니트]]></title>
             <link>https://www.elle.co.kr/article/59369</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 17 Oct 2021 05:39:44 GMT</pubDate>
             <content:encoded><![CDATA[브랜드의 세계관을 직접 경험할 수 있는 기회다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/a077de4c-75e9-4ad0-95c7-ad00ac7b907b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쟈딕앤볼테르 2022 S/S 컬렉션, Elegant Cowboy]]></title>
-            <link>https://www.elle.co.kr/article/59249</link>
-            <guid>https://www.elle.co.kr/article/59249</guid>
-            <pubDate>Fri, 15 Oct 2021 17:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[엘르 코리아가 단독으로 만난 크리에이티브 디렉터 세실리아 본스트롬 인터뷰.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/a76d8a30-a421-4e07-9f9c-3a4a3e9868b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀러브리티들의 셔츠 스타일링 공식 6]]></title>
-            <link>https://www.elle.co.kr/article/59246</link>
-            <guid>https://www.elle.co.kr/article/59246</guid>
-            <pubDate>Fri, 15 Oct 2021 05:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[따라 하고 싶은 스타들의 셔츠 스타일링 팁 여섯 가지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1e9b256c-7a06-4aa0-a8ae-ac32e9ff1b3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들이 트위드 재킷을 입는 법]]></title>
-            <link>https://www.elle.co.kr/article/59210</link>
-            <guid>https://www.elle.co.kr/article/59210</guid>
-            <pubDate>Thu, 14 Oct 2021 17:51:48 GMT</pubDate>
-            <content:encoded><![CDATA[차정원, 기은세, 한선화 등 스타들의 데일리 룩에서 포착된 트위드 재킷 스타일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/47e3c0af-e472-42e3-95a7-0dfa8be58436.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

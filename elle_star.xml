@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 05:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 17:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['원더우먼' 이하늬 VS 진서연 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/59468</link>
+            <guid>https://www.elle.co.kr/article/59468</guid>
+            <pubDate>Thu, 21 Oct 2021 17:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[자체 최고 시청률 경신! '원더 열풍'을 일으키고 있는 드라마 '원 더 우먼(One the ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/97e5ef5a-9ae6-4d2f-a348-126ca0cc7305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스우파' 탈락한 프라우드먼 모니카의 마지막 인사에 울림이 있는 이유]]></title>
+            <link>https://www.elle.co.kr/article/59461</link>
+            <guid>https://www.elle.co.kr/article/59461</guid>
+            <pubDate>Thu, 21 Oct 2021 17:47:25 GMT</pubDate>
+            <content:encoded><![CDATA["프라우드먼은 집에 가는 게 아니다"]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/3de85c48-1ca4-4f3e-9a80-9db5bf23fcec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 '스우파' 파이널 미션! 최종 점수 30% 반영되는 글로벌 응원 투표 영상 모음]]></title>
             <link>https://www.elle.co.kr/article/59460</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 05:41:04 GMT</pubDate>
             <content:encoded><![CDATA[육아는 장비빨! 엄마가 된 스타들이 선택한 육아템은 바로 '이것'.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/e7812f20-24ff-417b-aecf-e7aaeec07c0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갯마을 차차차'의 식혜 커플, 신민아와 김선호가 결혼했다]]></title>
-            <link>https://www.elle.co.kr/article/59402</link>
-            <guid>https://www.elle.co.kr/article/59402</guid>
-            <pubDate>Wed, 20 Oct 2021 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[힐링 드라마 답게 최종회도 해피엔딩.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/ead313bc-32cd-4f3e-973d-daad0d117025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화려한 조명이 이도현을 감싸네 (feat. 나스 홀리데이 2021 컬렉션)]]></title>
-            <link>https://www.elle.co.kr/article/59342</link>
-            <guid>https://www.elle.co.kr/article/59342</guid>
-            <pubDate>Wed, 20 Oct 2021 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[모두가 잠든 도시, 네온사인 불빛을 배경으로 펼쳐지는 이도현과 나스의 뷰티 신(Scene)....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/33c3ee30-6bd0-4658-9412-eb7e2c32e212.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
