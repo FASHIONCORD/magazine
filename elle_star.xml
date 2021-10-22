@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 17:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 05:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에너지 넘치는 카이 미션엘파서블에 다시 오다!]]></title>
+            <link>https://www.elle.co.kr/article/59485</link>
+            <guid>https://www.elle.co.kr/article/59485</guid>
+            <pubDate>Fri, 22 Oct 2021 05:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 카이가 꽂힌 모든 것들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/1c360a34-821d-429b-ab42-7d5675a11a9a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출산 6개월 만에 복근과 함께 돌아온 강소라의 다이어트 운동 & 식단]]></title>
+            <link>https://www.elle.co.kr/article/59474</link>
+            <guid>https://www.elle.co.kr/article/59474</guid>
+            <pubDate>Fri, 22 Oct 2021 05:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[선명한 11자 복근.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/df7f292d-58ef-430e-9a3d-88c6e9f17b03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['원더우먼' 이하늬 VS 진서연 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/59468</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 17:48:16 GMT</pubDate>
             <content:encoded><![CDATA[첫 만남부터 심상치 않았던 두 사람.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/2ab7ef50-58c9-4398-b0eb-74fa4acebfd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스트릿 우먼 파이터' 크루들이 콘서트를 한다고?]]></title>
-            <link>https://www.elle.co.kr/article/59409</link>
-            <guid>https://www.elle.co.kr/article/59409</guid>
-            <pubDate>Wed, 20 Oct 2021 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[소리도 소문도 없이 열린 예매 페이지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/a12651c7-894f-4e17-8233-cf44c681627e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한지혜부터 이시영까지! 엄마가 된 스타들의 육아템]]></title>
-            <link>https://www.elle.co.kr/article/59403</link>
-            <guid>https://www.elle.co.kr/article/59403</guid>
-            <pubDate>Wed, 20 Oct 2021 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[육아는 장비빨! 엄마가 된 스타들이 선택한 육아템은 바로 '이것'.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/e7812f20-24ff-417b-aecf-e7aaeec07c0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

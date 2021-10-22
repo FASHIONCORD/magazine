@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 17:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 05:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오겜', 'D.P.', '마이네임' 다음은? 아직 남은 2021 넷플릭스 한국 오리지널 3]]></title>
+            <link>https://www.elle.co.kr/article/59567</link>
+            <guid>https://www.elle.co.kr/article/59567</guid>
+            <pubDate>Fri, 22 Oct 2021 05:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[정체기 극복한 넷플릭스의 한국 사랑.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/44d197ab-0a94-4911-8b7a-6af7695f869b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6년차 커플 정호연과 이동휘, ‘유 퀴즈’ 출연을 두고 경쟁했다고?]]></title>
             <link>https://www.elle.co.kr/article/59516</link>
@@ -102,14 +110,6 @@
             <pubDate>Sun, 17 Oct 2021 17:46:56 GMT</pubDate>
             <content:encoded><![CDATA["내가 원했던 게 이거잖아, 보고 싶었던 거 이거"]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/99f3dfa4-014f-47da-b170-5d1c843b83f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 다큐를 만드는 이유 #국가대표 #이은규PD]]></title>
-            <link>https://www.elle.co.kr/article/59378</link>
-            <guid>https://www.elle.co.kr/article/59378</guid>
-            <pubDate>Sat, 16 Oct 2021 17:45:42 GMT</pubDate>
-            <content:encoded><![CDATA[세상 곳곳에 빛을 밝히려 오늘도 고군분투하는 이은규PD가 얘기하는 지금의 여성, 여성 다큐멘...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/8e5b856d-cb58-4ad3-ac23-212829ceb85e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

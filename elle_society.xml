@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 17:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 05:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오징어게임> 닮은 자본주의에서 생존하는 방법_#돈쓸신잡_15]]></title>
+            <link>https://www.elle.co.kr/article/59323</link>
+            <guid>https://www.elle.co.kr/article/59323</guid>
+            <pubDate>Fri, 22 Oct 2021 05:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[자본주의 게임에서 살아남는 법칙에 대해 공부할 때다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/882a4ef9-6e70-4cff-bc32-8c7b27c548a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임현주 아나운서가 한강 러닝을 다시 시작한 멋진 이유 #엘르보이스]]></title>
             <link>https://www.elle.co.kr/article/59285</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 17:47:22 GMT</pubDate>
             <content:encoded><![CDATA[반도체로 돈 벌고 싶다면 알아야 할 단기 속성 상식 사전.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/a09f01a0-298c-4526-b7b5-c3da9821a016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존재 자체가 ‘심쿵해’ 크리스틴 스튜어트_요주의 여성 #31]]></title>
-            <link>https://www.elle.co.kr/article/58774</link>
-            <guid>https://www.elle.co.kr/article/58774</guid>
-            <pubDate>Mon, 11 Oct 2021 17:58:14 GMT</pubDate>
-            <content:encoded><![CDATA[숏컷, 청바지, 샤넬이 잘 어울리는 여자. ‘멋지다’는 말로는 한없이 부족한 크리스틴 스튜어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/fd3cca7f-d3c7-4f0a-94a8-7457217b89f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
