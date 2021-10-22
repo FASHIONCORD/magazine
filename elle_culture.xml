@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 05:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 17:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이쯤 되면 무대 해석 1타 강사? '스우파' 저지 보아의 날카로운 심사평.zip]]></title>
+            <link>https://www.elle.co.kr/article/59500</link>
+            <guid>https://www.elle.co.kr/article/59500</guid>
+            <pubDate>Fri, 22 Oct 2021 17:52:05 GMT</pubDate>
+            <content:encoded><![CDATA['맨 오브 우먼' 미션에서 정점을 찍은 보아의 심사평 퀄리티.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/2d00df20-b24e-4252-8c95-20497cc33751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스우파' 탈락한 프라우드먼 모니카의 마지막 인사에 울림이 있는 이유]]></title>
+            <link>https://www.elle.co.kr/article/59461</link>
+            <guid>https://www.elle.co.kr/article/59461</guid>
+            <pubDate>Fri, 22 Oct 2021 17:52:05 GMT</pubDate>
+            <content:encoded><![CDATA["프라우드먼은 집에 가는 게 아니다"]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/3de85c48-1ca4-4f3e-9a80-9db5bf23fcec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 '스우파' 파이널 미션! 최종 점수 30% 반영되는 글로벌 응원 투표 영상 모음]]></title>
             <link>https://www.elle.co.kr/article/59460</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 05:41:18 GMT</pubDate>
             <content:encoded><![CDATA[소리도 소문도 없이 열린 예매 페이지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/a12651c7-894f-4e17-8233-cf44c681627e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갯마을 차차차'의 식혜 커플, 신민아와 김선호가 결혼했다]]></title>
-            <link>https://www.elle.co.kr/article/59402</link>
-            <guid>https://www.elle.co.kr/article/59402</guid>
-            <pubDate>Wed, 20 Oct 2021 05:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[힐링 드라마 답게 최종회도 해피엔딩.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/ead313bc-32cd-4f3e-973d-daad0d117025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6,25 여군 학도병을 조명하다 #연순기숙 #오예진PD]]></title>
-            <link>https://www.elle.co.kr/article/59395</link>
-            <guid>https://www.elle.co.kr/article/59395</guid>
-            <pubDate>Wed, 20 Oct 2021 05:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[영 제너레이션 다큐멘터리 PD 오예진이 얘기하는 지금의 다큐멘터리 신]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/27d67472-6f64-410d-8373-a3e094d0c472.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

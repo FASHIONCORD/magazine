@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 05:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 17:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘바퀴 달린 집 3’에 등장한 막내 재질? '공명'에게 주목 할 이유]]></title>
+            <link>https://www.elle.co.kr/article/59582</link>
+            <guid>https://www.elle.co.kr/article/59582</guid>
+            <pubDate>Fri, 22 Oct 2021 17:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[전국 방방곡곡 아름다운 자연을 찾아 떠나는 ‘바달집’ 시즌 3의 막내 공명의 활약, 기대해도...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/074d9a9d-f8a5-4ac7-95b8-e4c444237100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오겜', 'D.P.', '마이네임' 다음은? 아직 남은 2021 넷플릭스 한국 오리지널 3]]></title>
             <link>https://www.elle.co.kr/article/59567</link>
@@ -102,14 +110,6 @@
             <pubDate>Sun, 17 Oct 2021 17:46:56 GMT</pubDate>
             <content:encoded><![CDATA[영 제너레이션 다큐멘터리 PD 오예진이 얘기하는 지금의 다큐멘터리 신]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/27d67472-6f64-410d-8373-a3e094d0c472.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 얼마만의 투샷? '스우파'에서 만난 조권X박재범]]></title>
-            <link>https://www.elle.co.kr/article/59392</link>
-            <guid>https://www.elle.co.kr/article/59392</guid>
-            <pubDate>Sun, 17 Oct 2021 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA["내가 원했던 게 이거잖아, 보고 싶었던 거 이거"]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/99f3dfa4-014f-47da-b170-5d1c843b83f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

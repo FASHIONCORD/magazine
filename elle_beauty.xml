@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 05:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 17:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진통제도 골라 먹어야 해!_몸에 좋은 잔소리 #30]]></title>
+            <link>https://www.elle.co.kr/article/59340</link>
+            <guid>https://www.elle.co.kr/article/59340</guid>
+            <pubDate>Fri, 22 Oct 2021 17:51:14 GMT</pubDate>
+            <content:encoded><![CDATA[#해열진통제 #소염진통제 #타이레놀 #부루펜]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/e1e49d73-64e6-45f6-a93f-e7255c134fb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 지수 메이크업 하우투(feat. 디올 뷰티(Dior Beauty))]]></title>
             <link>https://www.elle.co.kr/article/59312</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 17:52:03 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 20년을 맞이한 엄지원이 몸매를 유지하는 비결은? 알아서 관리되는 생활 속 작은 습관들...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/cd03f883-0d1b-458e-a3b1-3f64a9225153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부 되살리기 일주일 챌린지! 에이핑크 윤보미처럼!]]></title>
-            <link>https://www.elle.co.kr/article/59183</link>
-            <guid>https://www.elle.co.kr/article/59183</guid>
-            <pubDate>Thu, 14 Oct 2021 05:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[윤보미가 소개하는 피부 되살리기 일주일 챌린지. 환절기와 마스크로 인한 자극 때문에 눈에 띄...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/d1cb3718-434d-4677-ace3-cc0095406fb3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
