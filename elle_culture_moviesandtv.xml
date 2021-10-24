@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 17:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 17:47:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허니제이X이하늬, '하늬즈' 결성? 스우파 크루들과 이하늬 의외의 인연]]></title>
+            <link>https://www.elle.co.kr/article/59596</link>
+            <guid>https://www.elle.co.kr/article/59596</guid>
+            <pubDate>Sun, 24 Oct 2021 17:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[이하늬 헤이마마 볼 수 있나요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/66c51c95-f07c-40b5-a861-8f8e00539954.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘바퀴 달린 집 3’에 등장한 막내 재질? '공명'에게 주목 할 이유]]></title>
             <link>https://www.elle.co.kr/article/59582</link>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 19 Oct 2021 05:42:29 GMT</pubDate>
             <content:encoded><![CDATA[힐링 드라마 답게 최종회도 해피엔딩.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/ead313bc-32cd-4f3e-973d-daad0d117025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6,25 여군 학도병을 조명하다 #연순기숙 #오예진PD]]></title>
-            <link>https://www.elle.co.kr/article/59395</link>
-            <guid>https://www.elle.co.kr/article/59395</guid>
-            <pubDate>Sun, 17 Oct 2021 17:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[영 제너레이션 다큐멘터리 PD 오예진이 얘기하는 지금의 다큐멘터리 신]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/27d67472-6f64-410d-8373-a3e094d0c472.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

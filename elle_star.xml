@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 17:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 17:47:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니와 샤넬 코코 네쥬의 만남]]></title>
+            <link>https://www.elle.co.kr/article/59519</link>
+            <guid>https://www.elle.co.kr/article/59519</guid>
+            <pubDate>Sun, 24 Oct 2021 17:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼 아이콘 제니가 샤넬의 윈터 캡슐 컬렉션 ‘코코 네쥬’의 모델로 발탁됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/5206d393-2a1d-492b-8b7a-2501e8cd9ca1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6년차 커플 정호연과 이동휘, ‘유 퀴즈’ 출연을 두고 경쟁했다고?]]></title>
+            <link>https://www.elle.co.kr/article/59516</link>
+            <guid>https://www.elle.co.kr/article/59516</guid>
+            <pubDate>Sun, 24 Oct 2021 17:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021년은 이 커플의 해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/98563680-155d-442c-85aa-4277139db150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이쯤 되면 무대 해석 1타 강사? '스우파' 저지 보아의 날카로운 심사평.zip]]></title>
             <link>https://www.elle.co.kr/article/59500</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 05:43:08 GMT</pubDate>
             <content:encoded><![CDATA[단 네 크루만이 남았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/5c42cdf3-16e5-45e5-a0e7-1006864fdc39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예정화가 마동석 출연 <이터널스> 월드 프리미어 행사에 나타났다]]></title>
-            <link>https://www.elle.co.kr/article/59444</link>
-            <guid>https://www.elle.co.kr/article/59444</guid>
-            <pubDate>Wed, 20 Oct 2021 17:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[벌써 5년째 공개 열애 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/e0b6f3aa-680a-4b49-9f42-91edf7955a3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1억1100만 계정이 참가한 '오징어게임', 외신 반응 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/59440</link>
-            <guid>https://www.elle.co.kr/article/59440</guid>
-            <pubDate>Wed, 20 Oct 2021 17:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계가 대서특필 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/ee01e289-5535-481b-9d54-9ae7de2b893b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
