@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 17:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:45:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손 씻기가 세상을 구한다, 비누 & 핸드 워시의 힘_선배's 어드바이스 #87]]></title>
+            <link>https://www.elle.co.kr/article/59400</link>
+            <guid>https://www.elle.co.kr/article/59400</guid>
+            <pubDate>Mon, 25 Oct 2021 05:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[비누로 손을 씻지 않는 사람이 80%? ‘세계 손 씻기의 날’을 맞아 다시 배우는 손 씻기....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/a983b2a2-1049-434c-8d87-5d211a46ca33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진통제도 골라 먹어야 해!_몸에 좋은 잔소리 #30]]></title>
             <link>https://www.elle.co.kr/article/59340</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 17:52:03 GMT</pubDate>
             <content:encoded><![CDATA[그윽하게 피어나는 가을에 어울리는 꽃향기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/b583add5-c52b-427b-b947-042f6aac554a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄지원이 알려주는 ‘살 안찌는 생활습관’]]></title>
-            <link>https://www.elle.co.kr/article/59196</link>
-            <guid>https://www.elle.co.kr/article/59196</guid>
-            <pubDate>Thu, 14 Oct 2021 17:52:03 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 20년을 맞이한 엄지원이 몸매를 유지하는 비결은? 알아서 관리되는 생활 속 작은 습관들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/cd03f883-0d1b-458e-a3b1-3f64a9225153.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

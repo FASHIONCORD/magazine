@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 17:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:45:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추울 땐 이렇게! 후디 활용법 4]]></title>
+            <link>https://www.elle.co.kr/article/59589</link>
+            <guid>https://www.elle.co.kr/article/59589</guid>
+            <pubDate>Mon, 25 Oct 2021 05:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[쌀쌀한 바람이 부는 계절에 자연스럽게 손이 가는 후디. 스타들의 데일리 룩을 참고해 스타일리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/989f5ae3-39ce-4e3c-a2b7-062198f79440.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클래식 중의 클래식, 세일러 룩 쇼핑 리스트]]></title>
             <link>https://www.elle.co.kr/article/59544</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 17:46:34 GMT</pubDate>
             <content:encoded><![CDATA[자체 최고 시청률 경신! '원더 열풍'을 일으키고 있는 드라마 '원 더 우먼(One the ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/97e5ef5a-9ae6-4d2f-a348-126ca0cc7305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패리스 힐튼과 제니의 연결고리 #벨벳트랙수트]]></title>
-            <link>https://www.elle.co.kr/article/59385</link>
-            <guid>https://www.elle.co.kr/article/59385</guid>
-            <pubDate>Thu, 21 Oct 2021 17:46:34 GMT</pubDate>
-            <content:encoded><![CDATA[Y2K 패션의 끝판왕! 그 시절 패리스 힐튼이 즐겨 입던 벨벳 트레이닝 룩이 돌아왔다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/d0cc5daa-d4e5-4b01-8bc5-d4e9a6228634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 17:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:45:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성의 이야기가 고전이 될 때까지_주간책방 #1]]></title>
+            <link>https://www.elle.co.kr/article/59530</link>
+            <guid>https://www.elle.co.kr/article/59530</guid>
+            <pubDate>Mon, 25 Oct 2021 05:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[지금, 여성들의 이야기, '클래식책방']]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/faafe263-616b-4cd8-9dbb-2be9933f148b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6년차 커플 정호연과 이동휘, ‘유 퀴즈’ 출연을 두고 경쟁했다고?]]></title>
             <link>https://www.elle.co.kr/article/59516</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 05:43:22 GMT</pubDate>
             <content:encoded><![CDATA[첫 만남부터 심상치 않았던 두 사람.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/2ab7ef50-58c9-4398-b0eb-74fa4acebfd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할머니들의 셰어하우스 체험기를 기록한 이유 #60세미만출입금지 #이승주PD]]></title>
-            <link>https://www.elle.co.kr/article/59424</link>
-            <guid>https://www.elle.co.kr/article/59424</guid>
-            <pubDate>Wed, 20 Oct 2021 05:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[“다큐멘터리를 찍으면서 개인의 삶도 성장하죠” 이승주 PD가 노인의 이야기에 주목한 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/9483c2c1-4d36-4cca-baa4-1395f328987a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
