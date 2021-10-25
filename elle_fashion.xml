@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 05:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 17:54:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힐 신는 남자들]]></title>
+            <link>https://www.elle.co.kr/article/59593</link>
+            <guid>https://www.elle.co.kr/article/59593</guid>
+            <pubDate>Mon, 25 Oct 2021 17:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[하이힐을 신고 용감하게 또각 또각 걷는 남자 아이콘들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/74d8606b-00b0-4a6d-a5c0-d46bb41b42c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추울 땐 이렇게! 후디 활용법 4]]></title>
             <link>https://www.elle.co.kr/article/59589</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 17:46:34 GMT</pubDate>
             <content:encoded><![CDATA[스웨터의 매력을 오롯이 느낄 수 있는 지금. 장희령, 김나영, 예리처럼 특별한 스웨터로 가을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/407b22c8-406f-452e-a058-4614b6ecbf42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['원더우먼' 이하늬 VS 진서연 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/59468</link>
-            <guid>https://www.elle.co.kr/article/59468</guid>
-            <pubDate>Thu, 21 Oct 2021 17:46:34 GMT</pubDate>
-            <content:encoded><![CDATA[자체 최고 시청률 경신! '원더 열풍'을 일으키고 있는 드라마 '원 더 우먼(One the ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/97e5ef5a-9ae6-4d2f-a348-126ca0cc7305.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 05:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 17:54:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿바이, 앙겔라 메르켈_요주의여성 #34]]></title>
+            <link>https://www.elle.co.kr/article/59357</link>
+            <guid>https://www.elle.co.kr/article/59357</guid>
+            <pubDate>Mon, 25 Oct 2021 17:54:41 GMT</pubDate>
+            <content:encoded><![CDATA[세계에서 가장 영향력 있는 여성이 은퇴한다. 앙겔라 메르켈 독일 총리가 남긴 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c5ad5281-0719-45d1-9901-4f2e35b87832.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<오징어게임> 닮은 자본주의에서 생존하는 방법_#돈쓸신잡_15]]></title>
             <link>https://www.elle.co.kr/article/59323</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 17:47:32 GMT</pubDate>
             <content:encoded><![CDATA[팬덤이 있는 기업은 망하지 않는다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/26cfd7fd-0e0b-4d45-874e-48abf79b43d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체로 돈 벌고 싶다면 알아야 할 단기 속성 상식 사전.]]></title>
-            <link>https://www.elle.co.kr/article/58957</link>
-            <guid>https://www.elle.co.kr/article/58957</guid>
-            <pubDate>Tue, 12 Oct 2021 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[반도체로 돈 벌고 싶다면 알아야 할 단기 속성 상식 사전.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/a09f01a0-298c-4526-b7b5-c3da9821a016.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

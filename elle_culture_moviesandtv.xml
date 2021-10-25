@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 05:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 17:54:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 사랑한 스파이, 한소희_요주의여성 #35]]></title>
+            <link>https://www.elle.co.kr/article/59624</link>
+            <guid>https://www.elle.co.kr/article/59624</guid>
+            <pubDate>Mon, 25 Oct 2021 17:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘예쁜 배우’ 한소희의 반전 혹은 본색, &lt;마이 네임&gt;.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/5bc4bced-a00b-4a59-bcec-b0ed87069d1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tvN 토일드라마 역대 첫방 시청률 갈아 치운 '지리산', 대체 무슨 내용?]]></title>
             <link>https://www.elle.co.kr/article/59622</link>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 19 Oct 2021 05:42:29 GMT</pubDate>
             <content:encoded><![CDATA[“다큐멘터리를 찍으면서 개인의 삶도 성장하죠” 이승주 PD가 노인의 이야기에 주목한 이유]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/9483c2c1-4d36-4cca-baa4-1395f328987a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스트릿 우먼 파이터' 크루들이 콘서트를 한다고?]]></title>
-            <link>https://www.elle.co.kr/article/59409</link>
-            <guid>https://www.elle.co.kr/article/59409</guid>
-            <pubDate>Tue, 19 Oct 2021 05:42:29 GMT</pubDate>
-            <content:encoded><![CDATA[소리도 소문도 없이 열린 예매 페이지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/a12651c7-894f-4e17-8233-cf44c681627e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
