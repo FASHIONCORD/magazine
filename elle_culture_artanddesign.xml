@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 17:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 17:50:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤은혜가 알려주는 ‘행복지수 올리는 법’]]></title>
+            <link>https://www.elle.co.kr/article/60664</link>
+            <guid>https://www.elle.co.kr/article/60664</guid>
+            <pubDate>Wed, 27 Oct 2021 17:49:19 GMT</pubDate>
+            <content:encoded><![CDATA[윤은혜가 소개하는 방법들로 건강하고, 긍정적인 삶을 위한 작은 습관들을 만들어볼까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/240da27c-1a78-4ef4-af8e-17fb7a2eedda.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5억원에 팔린 가상의 집? #마스하우스]]></title>
             <link>https://www.elle.co.kr/article/59583</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
             <content:encoded><![CDATA[버추얼 인플루언서 슈듀, 마야, 이마와의 나눈 &lt;엘르&gt; 단독 인터뷰.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/b2348c94-37ed-4379-ab07-9bab92aa3e18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버추얼 인플루언서 #로지 #아포키와 나눈 신박한 인터뷰]]></title>
-            <link>https://www.elle.co.kr/article/58663</link>
-            <guid>https://www.elle.co.kr/article/58663</guid>
-            <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
-            <content:encoded><![CDATA[버추얼 인플루언서들의 활약하는 세상. 아이돌만큼 유명한 #로지 #아포키는 어떻게 스타가 되었...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/18/c153e727-17a8-4899-b169-10a82e293a7f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

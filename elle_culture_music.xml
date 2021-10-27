@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 17:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 17:50:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤은혜가 알려주는 ‘행복지수 올리는 법’]]></title>
+            <link>https://www.elle.co.kr/article/60664</link>
+            <guid>https://www.elle.co.kr/article/60664</guid>
+            <pubDate>Wed, 27 Oct 2021 17:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[윤은혜가 소개하는 방법들로 건강하고, 긍정적인 삶을 위한 작은 습관들을 만들어볼까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/240da27c-1a78-4ef4-af8e-17fb7a2eedda.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK !]]></title>
             <link>https://www.elle.co.kr/article/58988</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
             <content:encoded><![CDATA[MZ 세대들이 좋아하는 ‘쿨’한 아티스트 이지 카미나를 만났다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/01/27bdb431-06da-4e10-9a47-8d3f04390e14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보았다! 아이돌 뮤지컬 도겸 도영 그리고 렌 ෆ]]></title>
-            <link>https://www.elle.co.kr/article/58163</link>
-            <guid>https://www.elle.co.kr/article/58163</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[헤드윅 #렌, 엑스칼리버 #도겸 뮤지컬 데뷔한 NCT #도영 까지. 투마치토커 에디터의 실물...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/31/b0a66cde-88d8-4b4d-a963-b1507098e54b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
