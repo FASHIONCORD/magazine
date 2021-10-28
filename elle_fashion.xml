@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 17:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 17:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<슈퍼밴드2> 걸 크러쉬 언니들의 스타일]]></title>
+            <link>https://www.elle.co.kr/article/59497</link>
+            <guid>https://www.elle.co.kr/article/59497</guid>
+            <pubDate>Thu, 28 Oct 2021 17:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;슈퍼밴드2&gt; 슈퍼 뮤지션, 모조에스핀을 입다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/8b7c06ce-bedc-44b6-9fbb-8b6c14bad285.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노제 사복 패션 ‘손민수’하고 싶다면 비니는 필수]]></title>
             <link>https://www.elle.co.kr/article/59640</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 17:49:45 GMT</pubDate>
             <content:encoded><![CDATA[하이힐을 신고 용감하게 또각 또각 걷는 남자 아이콘들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/74d8606b-00b0-4a6d-a5c0-d46bb41b42c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추울 땐 이렇게! 후디 활용법 4]]></title>
-            <link>https://www.elle.co.kr/article/59589</link>
-            <guid>https://www.elle.co.kr/article/59589</guid>
-            <pubDate>Mon, 25 Oct 2021 05:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[쌀쌀한 바람이 부는 계절에 자연스럽게 손이 가는 후디. 스타들의 데일리 룩을 참고해 스타일리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/989f5ae3-39ce-4e3c-a2b7-062198f79440.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

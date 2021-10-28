@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 17:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 17:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥상달빛 김윤주가 남편인 10cm 권정열의 첫인상을 '극혐'이었다고 한 이유]]></title>
+            <link>https://www.elle.co.kr/article/60741</link>
+            <guid>https://www.elle.co.kr/article/60741</guid>
+            <pubDate>Thu, 28 Oct 2021 17:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[역시 '홍대 김구라' 다운 입담.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/99936ab1-d2fa-4136-a3b1-652141e6f706.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 암살자에서 프랑스 귀족으로 변신? #라스트듀얼 #조디코머 와의 대화]]></title>
             <link>https://www.elle.co.kr/article/60719</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 21 Oct 2021 05:44:06 GMT</pubDate>
             <content:encoded><![CDATA['맨 오브 우먼' 미션에서 정점을 찍은 보아의 심사평 퀄리티.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/2d00df20-b24e-4252-8c95-20497cc33751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 탈락한 프라우드먼 모니카의 마지막 인사에 울림이 있는 이유]]></title>
-            <link>https://www.elle.co.kr/article/59461</link>
-            <guid>https://www.elle.co.kr/article/59461</guid>
-            <pubDate>Wed, 20 Oct 2021 05:42:02 GMT</pubDate>
-            <content:encoded><![CDATA["프라우드먼은 집에 가는 게 아니다"]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/3de85c48-1ca4-4f3e-9a80-9db5bf23fcec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

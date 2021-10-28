@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 17:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 17:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피부에 식재료를 양보해야 하는 이유?]]></title>
+            <link>https://www.elle.co.kr/article/59452</link>
+            <guid>https://www.elle.co.kr/article/59452</guid>
+            <pubDate>Thu, 28 Oct 2021 17:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[먹음직스러운 식재료가 피부에 전하는 신선한 위로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/09baaeea-db48-4d58-9f2c-dfa31dd3f73c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송경아의 시크릿 아침 식단]]></title>
             <link>https://www.elle.co.kr/article/59448</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 05:40:40 GMT</pubDate>
             <content:encoded><![CDATA[1960년대의 생동감 넘치는 바이브가 담긴 메이크업을 매개로 ‘변화’라는 새로운 언어를 제시...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/f715929b-12e6-4512-a2cf-7195330d6a0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술 당기는 게 함정인 문근영의 다이어트 식단 5]]></title>
-            <link>https://www.elle.co.kr/article/59232</link>
-            <guid>https://www.elle.co.kr/article/59232</guid>
-            <pubDate>Fri, 15 Oct 2021 05:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[안주 같기도 하고... 다이어트 식단 같기도 하고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/c9216058-2e92-4d65-bfa3-19aa2c8f566d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
