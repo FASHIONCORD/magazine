@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 17:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 17:50:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멋지게 나이 드는 노하우]]></title>
+            <link>https://www.elle.co.kr/article/59543</link>
+            <guid>https://www.elle.co.kr/article/59543</guid>
+            <pubDate>Fri, 29 Oct 2021 17:50:18 GMT</pubDate>
+            <content:encoded><![CDATA[시간의 흐름을 다르게 마주할 수 있도록 안내하는 일상 속 마음가짐과 생활습관 가이드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/59c82342-7521-44f4-ab75-feecd5642733.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비트코인 투자가 무섭다면 여긴 어때?_#돈쓸신잡_16]]></title>
+            <link>https://www.elle.co.kr/article/59522</link>
+            <guid>https://www.elle.co.kr/article/59522</guid>
+            <pubDate>Fri, 29 Oct 2021 17:50:18 GMT</pubDate>
+            <content:encoded><![CDATA[비트코인에 투자하는 건 무섭지만, 아예 무시하기도 싫은 당신을 위한 투자처.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/3cb1f704-79a1-4a59-ba72-27f1408d24c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한지혜부터 이시영까지! 엄마가 된 스타들의 육아템]]></title>
             <link>https://www.elle.co.kr/article/59403</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 05:43:49 GMT</pubDate>
             <content:encoded><![CDATA[전구 갈기, 커튼봉 달기, 샤워기 헤드 갈기. 더이상 '사람 부르기'를 멈춘 어느 1인가구의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/c8634de4-f94b-43ea-a7ba-b09a65953577.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#PerpetualPlanet]]></title>
-            <link>https://www.elle.co.kr/article/59148</link>
-            <guid>https://www.elle.co.kr/article/59148</guid>
-            <pubDate>Fri, 15 Oct 2021 17:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[변함없는 지구, 환경, 바다, 우리 모두의 지속 가능한 삶을 지키기 위한 참여. 롤렉스 퍼페...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/5fb76233-f493-4241-bc16-0a5bc95517d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴댄스하는 페미니스트 가능? 새로운 운동법을 찾았다 #엘르보이스]]></title>
-            <link>https://www.elle.co.kr/article/59189</link>
-            <guid>https://www.elle.co.kr/article/59189</guid>
-            <pubDate>Thu, 14 Oct 2021 17:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[인생운동 줌바를 잃은 윤이나가 폴댄스에 빠진 뜻밖의 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/5ec5050f-0b46-46b4-ae91-d0e3fcfef5f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

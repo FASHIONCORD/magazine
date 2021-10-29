@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 17:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 17:50:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출산 6개월 만에 복근과 함께 돌아온 강소라의 다이어트 운동 & 식단]]></title>
+            <link>https://www.elle.co.kr/article/59474</link>
+            <guid>https://www.elle.co.kr/article/59474</guid>
+            <pubDate>Fri, 29 Oct 2021 17:46:13 GMT</pubDate>
+            <content:encoded><![CDATA[선명한 11자 복근.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/df7f292d-58ef-430e-9a3d-88c6e9f17b03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피부에 식재료를 양보해야 하는 이유?]]></title>
             <link>https://www.elle.co.kr/article/59452</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 05:40:19 GMT</pubDate>
             <content:encoded><![CDATA[3인 3색 단발 헤어스타일 파헤치기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/02b76701-d2f5-4608-b384-c2fa48c5b995.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 뷰티(Dior Beauty) 2022 S/S 메이크업 트렌드]]></title>
-            <link>https://www.elle.co.kr/article/59261</link>
-            <guid>https://www.elle.co.kr/article/59261</guid>
-            <pubDate>Tue, 19 Oct 2021 05:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[1960년대의 생동감 넘치는 바이브가 담긴 메이크업을 매개로 ‘변화’라는 새로운 언어를 제시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/f715929b-12e6-4512-a2cf-7195330d6a0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

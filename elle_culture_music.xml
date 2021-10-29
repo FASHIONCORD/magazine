@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 17:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 17:50:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 노래들과 함께 출발하는 김사월의 기분 좋은 주행.]]></title>
+            <link>https://www.elle.co.kr/article/60773</link>
+            <guid>https://www.elle.co.kr/article/60773</guid>
+            <pubDate>Fri, 29 Oct 2021 17:48:06 GMT</pubDate>
+            <content:encoded><![CDATA[새 EP &lt;드라이브&gt;로 산뜻한 주행을 알린 김사월. 엑셀을 밟는 김사월의 마음과 호흡은 이전...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/e8a0a767-3cbf-4c6b-b668-c20c6a2d9686.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤은혜가 알려주는 ‘행복지수 올리는 법’]]></title>
             <link>https://www.elle.co.kr/article/60664</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
             <content:encoded><![CDATA[이날 '유 퀴즈 온 더 블럭'에서 8명 완전체로 4년 만에 모인 소녀시대.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/02/68f70531-eaf6-4007-a0af-c56ab1f5c352.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지 카미나를 아시나요?]]></title>
-            <link>https://www.elle.co.kr/article/58186</link>
-            <guid>https://www.elle.co.kr/article/58186</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[MZ 세대들이 좋아하는 ‘쿨’한 아티스트 이지 카미나를 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/01/27bdb431-06da-4e10-9a47-8d3f04390e14.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
