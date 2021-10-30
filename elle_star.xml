@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 17:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 05:43:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dream of Dream 꿈속의 꿈, 아이유&카이 만나다!]]></title>
+            <link>https://www.elle.co.kr/article/60733</link>
+            <guid>https://www.elle.co.kr/article/60733</guid>
+            <pubDate>Sat, 30 Oct 2021 05:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[반짝이는 재능과 타고난 아름다움을 비집고 나온, 두 사람의 따뜻한 시선과 꽃갈피 같은 마음에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/6662adf1-fdcf-47ef-a043-26ed9e9ffe41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옥상달빛 김윤주가 남편인 10cm 권정열의 첫인상을 '극혐'이었다고 한 이유]]></title>
             <link>https://www.elle.co.kr/article/60741</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 17:54:04 GMT</pubDate>
             <content:encoded><![CDATA[끝났지만 끝난 게 아니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/693635e8-2710-4df9-af19-ff505ef58dd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 최종 우승! 언더독의 반란 그 자체인 홀리뱅 서사 모음]]></title>
-            <link>https://www.elle.co.kr/article/60670</link>
-            <guid>https://www.elle.co.kr/article/60670</guid>
-            <pubDate>Thu, 28 Oct 2021 17:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[하위권에서 우승 크루에 등극하기까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/0f375829-71a0-4936-a24b-eba284140609.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

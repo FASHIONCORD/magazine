@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 17:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 05:43:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거위가 뛰어 노는 찐시골 카페에서 가을 하늘 감상하기! 옥천 카페 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/59587</link>
+            <guid>https://www.elle.co.kr/article/59587</guid>
+            <pubDate>Sat, 30 Oct 2021 05:43:11 GMT</pubDate>
+            <content:encoded><![CDATA[더 추워지기 전에 들러 볼 옥천 카페들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/316a24e0-918e-4dba-89ce-66293cda7009.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퐁신폭신 '겉바속폭' 다쿠아즈 택배 맛집 추천 3]]></title>
             <link>https://www.elle.co.kr/article/59520</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 17:50:00 GMT</pubDate>
             <content:encoded><![CDATA[달걀의 맛과 색을 빼닮은 식물성 대체 달걀의 등장!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/31b36b14-4f91-4433-b7aa-09fa3af97af9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼은 과정일까? 엔딩일까?]]></title>
-            <link>https://www.elle.co.kr/article/59394</link>
-            <guid>https://www.elle.co.kr/article/59394</guid>
-            <pubDate>Fri, 29 Oct 2021 17:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[결혼은 과정보단 엔딩에 가까워 보였다. 상실을 끌어안고 그 이후의 삶을 이어가는 사람들의 태...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/6e379cdc-0afb-41cb-8dfd-3d53737d8f83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

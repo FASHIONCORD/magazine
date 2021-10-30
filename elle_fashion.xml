@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 17:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 05:43:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[믿고 보는 #카이 구찌... 한번 보면 계속 보게되는 영상]]></title>
+            <link>https://www.elle.co.kr/article/60718</link>
+            <guid>https://www.elle.co.kr/article/60718</guid>
+            <pubDate>Sat, 30 Oct 2021 05:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[카이가 또 카이했다! 한국 사람이라면 꼭 봐야하는 패션필름]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/892d3522-0534-4ffd-b372-fac4717ecdb9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#아이유 역대급 미모를 담았다! 29살 아이유의 패션필름]]></title>
             <link>https://www.elle.co.kr/article/60717</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 17:45:55 GMT</pubDate>
             <content:encoded><![CDATA[걸크러시 패션의 종결자, 카무플라주 패턴을 입은 스타들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/b7315a7d-8203-43e4-9f9f-f671afcdb48a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이틴 영화 속 주인공처럼!]]></title>
-            <link>https://www.elle.co.kr/article/59592</link>
-            <guid>https://www.elle.co.kr/article/59592</guid>
-            <pubDate>Wed, 27 Oct 2021 17:45:55 GMT</pubDate>
-            <content:encoded><![CDATA[선미와 소미, 벨라 하디드와 엠마 체임벌린도 빠진 하이틴 무드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/f2d9b6fa-2977-44da-b640-65d4ed4a075e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
