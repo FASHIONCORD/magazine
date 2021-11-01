@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 05:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 17:51:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘열일’하는 식물 성분 화장품 7_선배's 어드바이스 #88]]></title>
+            <link>https://www.elle.co.kr/article/59617</link>
+            <guid>https://www.elle.co.kr/article/59617</guid>
+            <pubDate>Mon, 01 Nov 2021 17:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[실제 피부 개선 효과 강력한 식물 스킨케어 제품들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/3dbee9b2-4e85-422e-be79-8b976cd69dfd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[솟아라 피부 탄력! #안티에이징 #신상]]></title>
             <link>https://www.elle.co.kr/article/59585</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 17:47:30 GMT</pubDate>
             <content:encoded><![CDATA[지수 담당 메이크업 아티스트에게 물었다! 디올 22 S/S 쇼장에 참석한 날, 메이크업 어떻...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/e3d9bd0e-8d4c-4c60-8feb-fe446f6b8db7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독보적인 신세대 감성을 소개하는 싱어송라이터 윤지영]]></title>
-            <link>https://www.elle.co.kr/article/59010</link>
-            <guid>https://www.elle.co.kr/article/59010</guid>
-            <pubDate>Wed, 20 Oct 2021 05:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[올리브영이 선정한 N 월의 올리브! 10월의 인물 싱어송라이터 윤지영과 함께한 인터뷰.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/ab869dfe-886b-49e6-9925-17a2a5057be9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 05:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 17:51:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부러워서 이미 졌다. 카이아 거버와의 뷰티 숏터뷰]]></title>
+            <link>https://www.elle.co.kr/article/60721</link>
+            <guid>https://www.elle.co.kr/article/60721</guid>
+            <pubDate>Mon, 01 Nov 2021 17:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[그녀가 입으면, 그녀가 먹으면, 그녀가 바르면, 모든 것이 하나의 트렌드가 된다. 카이아 거...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/c29f029d-b285-4da9-80e0-6a99210d1c27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[믿고 보는 #카이 구찌... 한번 보면 계속 보게되는 영상]]></title>
             <link>https://www.elle.co.kr/article/60718</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 17:45:55 GMT</pubDate>
             <content:encoded><![CDATA[한 손에 쏙. 놀랍도록 작아진 아이코닉 백.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/880ac027-5399-4fa2-a7e1-56f778a50c71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋있는 여자는 카무플라주를 입는다! BEST 스타일링 6.]]></title>
-            <link>https://www.elle.co.kr/article/59597</link>
-            <guid>https://www.elle.co.kr/article/59597</guid>
-            <pubDate>Wed, 27 Oct 2021 17:45:55 GMT</pubDate>
-            <content:encoded><![CDATA[걸크러시 패션의 종결자, 카무플라주 패턴을 입은 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/b7315a7d-8203-43e4-9f9f-f671afcdb48a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
