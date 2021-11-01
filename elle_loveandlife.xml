@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 17:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:54:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타의 SNS에서 발견한 성수동 ‘핫플’ 찾기 3.]]></title>
+            <link>https://www.elle.co.kr/article/59588</link>
+            <guid>https://www.elle.co.kr/article/59588</guid>
+            <pubDate>Mon, 01 Nov 2021 05:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[셀러브리티가 다녀간 성수동 핫 플레이스! 그들은 성수동에서 어떤 시간을 보냈을까요? 프롤라/...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/edcce188-22db-4824-8a77-4a39f7094bb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거위가 뛰어 노는 찐시골 카페에서 가을 하늘 감상하기! 옥천 카페 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/59587</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 17:50:00 GMT</pubDate>
             <content:encoded><![CDATA[맛과 분위기 모두 잡은 신상맛집들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/1b6581f1-fd82-4b17-9712-aca275d37de3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닭이 낳지 않은 달걀이 있다고? #식물성달걀]]></title>
-            <link>https://www.elle.co.kr/article/59425</link>
-            <guid>https://www.elle.co.kr/article/59425</guid>
-            <pubDate>Fri, 29 Oct 2021 17:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[달걀의 맛과 색을 빼닮은 식물성 대체 달걀의 등장!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/31b36b14-4f91-4433-b7aa-09fa3af97af9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

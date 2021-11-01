@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 17:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:54:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솟아라 피부 탄력! #안티에이징 #신상]]></title>
+            <link>https://www.elle.co.kr/article/59585</link>
+            <guid>https://www.elle.co.kr/article/59585</guid>
+            <pubDate>Mon, 01 Nov 2021 05:50:42 GMT</pubDate>
+            <content:encoded><![CDATA[팽팽하게 당겨진 긋, 촘촘하게 채워진 듯. 우리의 희망사항을 충족시켜 줄 안티에이징 신상. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/073930fb-06b4-43d9-bd0c-fa668dfaf0ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출산 6개월 만에 복근과 함께 돌아온 강소라의 다이어트 운동 & 식단]]></title>
             <link>https://www.elle.co.kr/article/59474</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 05:40:19 GMT</pubDate>
             <content:encoded><![CDATA[올리브영이 선정한 N 월의 올리브! 10월의 인물 싱어송라이터 윤지영과 함께한 인터뷰.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/ab869dfe-886b-49e6-9925-17a2a5057be9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단발병을 부르는 전지현의 단발 헤어 UPDATE! (feat. 김고은, 한소희)]]></title>
-            <link>https://www.elle.co.kr/article/59300</link>
-            <guid>https://www.elle.co.kr/article/59300</guid>
-            <pubDate>Wed, 20 Oct 2021 05:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[3인 3색 단발 헤어스타일 파헤치기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/02b76701-d2f5-4608-b384-c2fa48c5b995.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
