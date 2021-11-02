@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 17:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 05:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설현이 화이자 2차 후기와 함께 전한 화보 촬영 전 다이어트 식단]]></title>
+            <link>https://www.elle.co.kr/article/59633</link>
+            <guid>https://www.elle.co.kr/article/59633</guid>
+            <pubDate>Tue, 02 Nov 2021 05:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[치팅 식단까지 '먹잘알'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/b8468a54-bdcc-425a-a059-b9e5b2d59063.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘열일’하는 식물 성분 화장품 7_선배's 어드바이스 #88]]></title>
             <link>https://www.elle.co.kr/article/59617</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 17:51:14 GMT</pubDate>
             <content:encoded><![CDATA[#해열진통제 #소염진통제 #타이레놀 #부루펜]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/e1e49d73-64e6-45f6-a93f-e7255c134fb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 지수 메이크업 하우투(feat. 디올 뷰티(Dior Beauty))]]></title>
-            <link>https://www.elle.co.kr/article/59312</link>
-            <guid>https://www.elle.co.kr/article/59312</guid>
-            <pubDate>Wed, 20 Oct 2021 17:47:30 GMT</pubDate>
-            <content:encoded><![CDATA[지수 담당 메이크업 아티스트에게 물었다! 디올 22 S/S 쇼장에 참석한 날, 메이크업 어떻...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/e3d9bd0e-8d4c-4c60-8feb-fe446f6b8db7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

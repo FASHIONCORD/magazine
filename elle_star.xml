@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 17:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 05:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우정엔 나이가 없지! '선생님 콜렉터' 아이유가 고두심·정동환과 나눈 우정]]></title>
+            <link>https://www.elle.co.kr/article/60822</link>
+            <guid>https://www.elle.co.kr/article/60822</guid>
+            <pubDate>Tue, 02 Nov 2021 05:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[어른들과도 찐 우정을 주고받는 아이유의 매력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/05973c49-116d-4ccf-9d64-7970fac51c2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셀럽들이 사랑한 로고 패션.zip]]></title>
+            <link>https://www.elle.co.kr/article/60809</link>
+            <guid>https://www.elle.co.kr/article/60809</guid>
+            <pubDate>Tue, 02 Nov 2021 05:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[제니부터 선미, 노제까지. 로고가 패션이 되는 로고 플레이 룩 모음]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/9aa4b23f-98dd-4655-878c-12c3766d3a01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지갑이 열리네요. 나스&이도현이 들어오죠.]]></title>
             <link>https://www.elle.co.kr/article/60807</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 17:47:03 GMT</pubDate>
             <content:encoded><![CDATA[역시 '홍대 김구라' 다운 입담.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/99936ab1-d2fa-4136-a3b1-652141e6f706.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도베르만은 원래 이렇게 생겼다! 미용 수술 안 한 BTS 정국의 반려견]]></title>
-            <link>https://www.elle.co.kr/article/60731</link>
-            <guid>https://www.elle.co.kr/article/60731</guid>
-            <pubDate>Fri, 29 Oct 2021 17:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[귀와 꼬리 모두 자연 그대로의 모습.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ef59fc39-aa9f-4ef8-93fc-4abb3913fd8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨겨진 사복 패션 장인! 소녀시대 최수영의 가을 데일리 룩 #옷잘입는언니]]></title>
-            <link>https://www.elle.co.kr/article/60730</link>
-            <guid>https://www.elle.co.kr/article/60730</guid>
-            <pubDate>Fri, 29 Oct 2021 17:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[가을의 한가운데! 내일 어떤 옷을 입어야 좋을지 고민이라면? 감각적인 사복 패션을 선보이는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/bfe33b50-3fd1-44f3-98ec-ea8bf4a34070.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
