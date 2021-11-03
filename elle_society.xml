@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 05:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 05:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환경을 위한 작은 움직임, <제주바다 플로깅>]]></title>
+            <link>https://www.elle.co.kr/article/59479</link>
+            <guid>https://www.elle.co.kr/article/59479</guid>
+            <pubDate>Wed, 03 Nov 2021 05:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[신중히 고민하며 변함없는 지구를 그리는 모습은 일상 속 작은 실천과 함께 더 나은 방향으로 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/0fb416b5-ab0f-4a1a-aa7c-9d78f6cf8bad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멋지게 나이 드는 노하우]]></title>
             <link>https://www.elle.co.kr/article/59543</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 17:50:54 GMT</pubDate>
             <content:encoded><![CDATA[흠뻑 땀을 흘린 뒤 샤워하며 시원함을 느끼는 내 기특한 몸에 관심을 갖게 됐다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/a7f38c8e-d46e-44d5-8852-ba97c7c9b25e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파격선언! 고칠 수 없는 물건은 내 게 아니다? #엘르보이스]]></title>
-            <link>https://www.elle.co.kr/article/59202</link>
-            <guid>https://www.elle.co.kr/article/59202</guid>
-            <pubDate>Tue, 19 Oct 2021 05:43:49 GMT</pubDate>
-            <content:encoded><![CDATA[전구 갈기, 커튼봉 달기, 샤워기 헤드 갈기. 더이상 '사람 부르기'를 멈춘 어느 1인가구의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/c8634de4-f94b-43ea-a7ba-b09a65953577.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

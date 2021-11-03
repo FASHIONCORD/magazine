@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 05:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 05:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숨겨진 사복 패션 장인! 소녀시대 최수영의 가을 데일리 룩 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/60730</link>
+            <guid>https://www.elle.co.kr/article/60730</guid>
+            <pubDate>Wed, 03 Nov 2021 05:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[가을의 한가운데! 내일 어떤 옷을 입어야 좋을지 고민이라면? 감각적인 사복 패션을 선보이는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/bfe33b50-3fd1-44f3-98ec-ea8bf4a34070.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오징어게임 속 새벽! 정호연의 화려한 과거]]></title>
+            <link>https://www.elle.co.kr/article/60720</link>
+            <guid>https://www.elle.co.kr/article/60720</guid>
+            <pubDate>Wed, 03 Nov 2021 05:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[톱 모델에서 대세 배우로, 성공적인 첫걸음을 내디딘 정호연. 이제는 볼 수 없는 런웨이 위 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/a9a51f3c-9395-4d89-803a-9a30fd5dd2f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부러워서 이미 졌다. 카이아 거버와의 뷰티 숏터뷰]]></title>
             <link>https://www.elle.co.kr/article/60721</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 17:45:55 GMT</pubDate>
             <content:encoded><![CDATA[비니부터 볼 캡까지. 스타들의 다양한 모자 스타일링과 구매 욕구를 불러일으키는 모자 쇼핑리스...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/1840dd35-38d7-40fb-963a-32ef2826f7ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑스러운 매력에 퐁당! 신민아 스타일 탐구 #옷잘입는언니]]></title>
-            <link>https://www.elle.co.kr/article/59615</link>
-            <guid>https://www.elle.co.kr/article/59615</guid>
-            <pubDate>Wed, 27 Oct 2021 17:45:55 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 보는 배우이자 로코 장인으로 등극한 신민아! 사랑스럽고 해사한 미소만큼이나 어여쁜 신민...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/ca248e93-9f32-4907-aa39-d5f2b6db114d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니마니모 #나노백 #미니백]]></title>
-            <link>https://www.elle.co.kr/article/59600</link>
-            <guid>https://www.elle.co.kr/article/59600</guid>
-            <pubDate>Wed, 27 Oct 2021 17:45:55 GMT</pubDate>
-            <content:encoded><![CDATA[한 손에 쏙. 놀랍도록 작아진 아이코닉 백.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/880ac027-5399-4fa2-a7e1-56f778a50c71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
