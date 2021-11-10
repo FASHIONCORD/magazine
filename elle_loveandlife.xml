@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 05:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰 맛집 총집합! 시골인데 시골 같지 않은 고성 감성 숙소 셋 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/60883</link>
+            <guid>https://www.elle.co.kr/article/60883</guid>
+            <pubDate>Wed, 10 Nov 2021 05:52:25 GMT</pubDate>
+            <content:encoded><![CDATA[위드 코로나 시대, 당장 달려가야 할 국내 여행지 고성.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/49d6de4b-29c5-4962-8a46-14cdd2efaef3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 로제부터 레드벨벳 슬기까지! 스타가 픽한 인테리어 잇템]]></title>
             <link>https://www.elle.co.kr/article/60848</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 05:49:27 GMT</pubDate>
             <content:encoded><![CDATA[성수에 새로 생긴 평범하지 않은 식당들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/180ac850-477e-4cb2-a6ef-911ef66743c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타의 SNS에서 발견한 성수동 ‘핫플’ 찾기 3.]]></title>
-            <link>https://www.elle.co.kr/article/59588</link>
-            <guid>https://www.elle.co.kr/article/59588</guid>
-            <pubDate>Mon, 01 Nov 2021 05:54:13 GMT</pubDate>
-            <content:encoded><![CDATA[셀러브리티가 다녀간 성수동 핫 플레이스! 그들은 성수동에서 어떤 시간을 보냈을까요? 프롤라/...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/edcce188-22db-4824-8a77-4a39f7094bb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

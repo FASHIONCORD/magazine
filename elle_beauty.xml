@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 05:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쉐킷쉐킷 섞어 사용하는 믹스 화장품]]></title>
+            <link>https://www.elle.co.kr/article/60998</link>
+            <guid>https://www.elle.co.kr/article/60998</guid>
+            <pubDate>Wed, 10 Nov 2021 05:49:31 GMT</pubDate>
+            <content:encoded><![CDATA[실보다는 득이 되는 경험을 선사해 줄 뷰티 엑스퍼트들의 신선한 화장품 믹스 레시피]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/2870dbce-544e-4d02-b532-fb3786bd8dbe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이시영도 갔다! 지금 가장 핫한 #용궐산]]></title>
+            <link>https://www.elle.co.kr/article/60992</link>
+            <guid>https://www.elle.co.kr/article/60992</guid>
+            <pubDate>Wed, 10 Nov 2021 05:49:31 GMT</pubDate>
+            <content:encoded><![CDATA[등산의 계절, 얼마 남지 않은 가을을 만끽하고 싶다면? 이시영이 추천하는 용궐산으로 떠나보세...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/ef212941-67e6-4347-b4d7-ee2efe106833.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자기 혈관 숫자, 알고 있니?_몸에 좋은 잔소리 #31]]></title>
             <link>https://www.elle.co.kr/article/60982</link>
@@ -53,23 +69,7 @@
             <guid>https://www.elle.co.kr/article/60884</guid>
             <pubDate>Sat, 06 Nov 2021 05:40:30 GMT</pubDate>
             <content:encoded><![CDATA[향수계의 전설! 샤넬 넘버5 론칭 100주년에 헌정하는 샤넬의 금빛 찬란한 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/5261907b-0e9a-4165-98c3-e734542a3fef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 '위드 코로나' 시대! 단계적 일상회복 첫 단계, 해외여행은 언제부터?]]></title>
-            <link>https://www.elle.co.kr/article/60861</link>
-            <guid>https://www.elle.co.kr/article/60861</guid>
-            <pubDate>Sat, 06 Nov 2021 05:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[단계적 일상회복 3단계 #가보자고]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/cf5d22dd-be11-4b17-b6ad-335c549d60fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100일 동안 10kg 빼기! 살 빠질 수 밖에 없는 김원희의 '다이어트 오징어게임'은?]]></title>
-            <link>https://www.elle.co.kr/article/60853</link>
-            <guid>https://www.elle.co.kr/article/60853</guid>
-            <pubDate>Sat, 06 Nov 2021 05:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[식단 관리, 운동 관리 아닌 정신 관리!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/b22e84a2-1e90-40f3-b667-6b587be96796.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/5261907b-0e9a-4165-98c3-e734542a3fef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

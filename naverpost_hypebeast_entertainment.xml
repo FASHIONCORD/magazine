@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 05:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라치카 인터뷰: 다섯 명이 주는 '긍정의 에너지']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32715896&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32715896&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 10 Nov 2021 05:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfODIg/MDAxNjM2NDMwMDUyNDI4.Zfu4ERo5GaeuvIuLDdBJ5jNHaiR1VESYHbzwSb02ON8g.un98RYeF9JuO2EsWUYgW6tVb1VBZv71kiitGFpMSJ0kg.JPEG/Idj-NU685jyPH3ATbcKOto5Y1C5k.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<귀멸의 칼날>만 기다리지 말고 봐야 할 애니메이션 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32673635&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTJfNzAg/MDAxNjEwNDIzNjE0MjIy.E2YSrD-I0KZm-wKcWY33sONZig0XvzavreTPoT2MEmUg.SMAV04MDHQrE0rxZulNbRP43QNInTdpEtKPXoMJh6Vcg.JPEG/IvCuQjeWVcTS4cia-bbuHROGYPDk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[15만 명의 투표로 선정된 ‘인기 만화 랭킹 100’ 발표]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30400437&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30400437&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMDVfMjMg/MDAxNjA5ODM4MjE3OTMx.6qlr049wm8hpkLu15yNsLLgF6MXspzWofRZjjzNGvFUg.affkS6ALXhDzEt6Z_mB2DAVd71sNRU7LIb-hYG-vWqwg.JPEG/IDARNaqaHd41wwOTYinLb7vzaDO0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
