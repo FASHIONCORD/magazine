@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 17:53:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[15년 MAMA 역사상 첫 여성 호스트는 이 사람이다]]></title>
+            <link>https://www.elle.co.kr/article/61110</link>
+            <guid>https://www.elle.co.kr/article/61110</guid>
+            <pubDate>Thu, 11 Nov 2021 17:51:59 GMT</pubDate>
+            <content:encoded><![CDATA[고개가 절로 끄덕여지는 선택.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/cae03492-74e8-4be7-aece-7f65002d7092.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+의 국내 OTT 시장 상륙! 넷플릭스의 아성은 무너질까?]]></title>
             <link>https://www.elle.co.kr/article/61052</link>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 25 Oct 2021 05:43:42 GMT</pubDate>
             <content:encoded><![CDATA[방송 첫 주부터 10%를 훌쩍 넘은 시청률.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/8b61bc8e-a494-4a36-8bd6-f3b9ee011971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허니제이X이하늬, '하늬즈' 결성? 스우파 크루들과 이하늬 의외의 인연]]></title>
-            <link>https://www.elle.co.kr/article/59596</link>
-            <guid>https://www.elle.co.kr/article/59596</guid>
-            <pubDate>Sun, 24 Oct 2021 17:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[이하늬 헤이마마 볼 수 있나요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/66c51c95-f07c-40b5-a861-8f8e00539954.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
