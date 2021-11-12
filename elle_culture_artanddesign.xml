@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 17:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 05:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성수동 갈 일 있으면 가장 먼저 들러야 할 포토 스폿 2 #인싸 전시_38]]></title>
+            <link>https://www.elle.co.kr/article/61126</link>
+            <guid>https://www.elle.co.kr/article/61126</guid>
+            <pubDate>Fri, 12 Nov 2021 05:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[흥미진진한 바이브가 있는 곳들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/d841fd24-8944-46af-9e4d-bc56fd5e71b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제18회 쇼팽 콩쿨 유일한 한국인 결선 진출자! 'K-클래식' 인기 이을 이혁]]></title>
             <link>https://www.elle.co.kr/article/60776</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
             <content:encoded><![CDATA[삶은 예술! 일상에 끼얹는 유니크한 마법 한 스푼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/66918657-3a16-48f9-aab5-96fd957ce905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 브랜드의 DNA를 간직한 리빙 아이템(1)]]></title>
-            <link>https://www.elle.co.kr/article/58707</link>
-            <guid>https://www.elle.co.kr/article/58707</guid>
-            <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
-            <content:encoded><![CDATA[삶은 예술! 일상에 끼얹는 유니크한 마법 한 스푼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/5de38c11-6431-4c84-95dd-b3d5fdbe52f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

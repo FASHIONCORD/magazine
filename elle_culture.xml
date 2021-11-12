@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 17:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 05:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상하고 귀여운 것들이 가득한, ‘북극서점’_주간책방 #3]]></title>
+            <link>https://www.elle.co.kr/article/60942</link>
+            <guid>https://www.elle.co.kr/article/60942</guid>
+            <pubDate>Fri, 12 Nov 2021 05:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[작가이자 싱어송라이터인 책방지기의 취향이 잔뜩 담긴 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/01e9c709-607e-4d1e-a339-c7736ea7f815.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[30대에도 위화감 없는 교복! 한효주 5년 만의 드라마 복귀작 '해피니스' 내용은?]]></title>
             <link>https://www.elle.co.kr/article/60936</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 Nov 2021 05:41:33 GMT</pubDate>
             <content:encoded><![CDATA[역시 '홍대 김구라' 다운 입담.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/99936ab1-d2fa-4136-a3b1-652141e6f706.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른에게도 그림책이 필요해, ‘PRNT(프린트)’_주간책방 #2]]></title>
-            <link>https://www.elle.co.kr/article/60738</link>
-            <guid>https://www.elle.co.kr/article/60738</guid>
-            <pubDate>Mon, 01 Nov 2021 05:51:43 GMT</pubDate>
-            <content:encoded><![CDATA[낯선 영감으로 가득한 서점 겸 갤러리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/379d9e55-34bd-4ae0-a68c-edfee636a4df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

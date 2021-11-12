@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 17:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 05:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['유미의 세포들' 김고은 VS 박지현 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/61017</link>
+            <guid>https://www.elle.co.kr/article/61017</guid>
+            <pubDate>Fri, 12 Nov 2021 05:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[세포 공감 로맨스 '유미의 세포들' 시즌 2를 기다리며 준비했어요. 데일리 룩으로 참고 하기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/3db21b33-dc35-4828-b634-e6c5e612a915.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[런던 패션 위크에서 생긴 일! #22SS #패션쇼]]></title>
             <link>https://www.elle.co.kr/article/61008</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 Nov 2021 05:39:46 GMT</pubDate>
             <content:encoded><![CDATA[샤넬이 2022년 코코 크러쉬 캠페인에 월드스타 제니와 함께 동행한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/8ac14d77-5475-4a4a-9a35-a81763429c37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 패션쇼에서 생긴 일]]></title>
-            <link>https://www.elle.co.kr/article/60918</link>
-            <guid>https://www.elle.co.kr/article/60918</guid>
-            <pubDate>Sat, 06 Nov 2021 05:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[제니가 참석한 샤넬의 2022년 S/S 컬렉션 리뷰.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/264fe9f7-510d-4ddd-93bf-116e4c080f92.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
