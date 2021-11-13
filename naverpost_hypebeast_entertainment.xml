@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 05:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 17:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홀리뱅 인터뷰: 스트리트가 가장 어울리는 '스우파' 우승팀]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32716589&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32716589&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Sat, 13 Nov 2021 17:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfMTYw/MDAxNjM2NDM1MDA2MjMw.8biodKmQ_J2P7n8OvgW2kPDkzdZ0oVreCT13SUnLRBMg.VL37zt6Nf0Pwa9WAWZ4C9QIyu87-RFkhIMej7DtidJEg.JPEG/IoK4UjhKMiA8aocaaKi_BdRUCNvU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라치카 인터뷰: 다섯 명이 주는 '긍정의 에너지']]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32715896&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTcg/MDAxNjEwNjk4OTc5OTUw.PZ5MTcIxMZBIaPlUgZJtU2X1j8qcYx3Bz6hGti7WpGQg.MWF7_nb5CZQOahFk8M1rVwMm99Eej4dxLZcaRM32n4wg.JPEG/IdMYRytWg2QwZHJsBGE4TabPMOMc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데드풀이 차기작 ‘데드풀 3’로 MCU에 공식 합류한다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30457418&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30457418&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTJfNzAg/MDAxNjEwNDIzNjE0MjIy.E2YSrD-I0KZm-wKcWY33sONZig0XvzavreTPoT2MEmUg.SMAV04MDHQrE0rxZulNbRP43QNInTdpEtKPXoMJh6Vcg.JPEG/IvCuQjeWVcTS4cia-bbuHROGYPDk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

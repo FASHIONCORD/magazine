@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 05:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 17:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이터널스'의 (여)신들_요주의 여성 #36]]></title>
+            <link>https://www.elle.co.kr/article/60968</link>
+            <guid>https://www.elle.co.kr/article/60968</guid>
+            <pubDate>Sat, 13 Nov 2021 17:54:22 GMT</pubDate>
+            <content:encoded><![CDATA[마블의 새 시대를 여는 '이터널스'의 매력적인 여성 히어로들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/04ef2307-0dc3-464e-8ea5-f02a2b478ba3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위드 코로나, 지금 이 순간 돈이 몰리는 곳_돈쓸신잡 #18]]></title>
             <link>https://www.elle.co.kr/article/60919</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 05:45:24 GMT</pubDate>
             <content:encoded><![CDATA[신중히 고민하며 변함없는 지구를 그리는 모습은 일상 속 작은 실천과 함께 더 나은 방향으로 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/0fb416b5-ab0f-4a1a-aa7c-9d78f6cf8bad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋지게 나이 드는 노하우]]></title>
-            <link>https://www.elle.co.kr/article/59543</link>
-            <guid>https://www.elle.co.kr/article/59543</guid>
-            <pubDate>Fri, 29 Oct 2021 17:50:18 GMT</pubDate>
-            <content:encoded><![CDATA[시간의 흐름을 다르게 마주할 수 있도록 안내하는 일상 속 마음가짐과 생활습관 가이드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/59c82342-7521-44f4-ab75-feecd5642733.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

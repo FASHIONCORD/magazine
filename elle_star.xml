@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 05:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 17:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠시만 안녕! 군 입대하는 남자 배우 3]]></title>
+            <link>https://www.elle.co.kr/article/61076</link>
+            <guid>https://www.elle.co.kr/article/61076</guid>
+            <pubDate>Sat, 13 Nov 2021 17:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[더 성숙한 모습으로 만날 수 있길.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/d3446fc5-38b0-4356-b760-6794a4a623c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이들이 있는데 남자 배우 기근이 웬 말? 전역 앞둔 스타 4]]></title>
+            <link>https://www.elle.co.kr/article/61070</link>
+            <guid>https://www.elle.co.kr/article/61070</guid>
+            <pubDate>Sat, 13 Nov 2021 17:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[스크린과 안방극장으로 돌아오는 남자 배우들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/5784ce22-a5e2-4c8b-bd84-5fe954565808.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손담비의 욕실 속 내돈내산 배스 용품 리스트 14]]></title>
             <link>https://www.elle.co.kr/article/61056</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 05:49:43 GMT</pubDate>
             <content:encoded><![CDATA[로맨틱한 성탄절 웨딩!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/6b5928b1-62dc-427f-a66c-84ae1b0cdff7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유미의 세포들' 김고은 VS 박지현 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/61017</link>
-            <guid>https://www.elle.co.kr/article/61017</guid>
-            <pubDate>Wed, 10 Nov 2021 05:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[세포 공감 로맨스 '유미의 세포들' 시즌 2를 기다리며 준비했어요. 데일리 룩으로 참고 하기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/3db21b33-dc35-4828-b634-e6c5e612a915.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 중에도 즐길 수 있는 ‘글루텐프리 베이킹’]]></title>
-            <link>https://www.elle.co.kr/article/61010</link>
-            <guid>https://www.elle.co.kr/article/61010</guid>
-            <pubDate>Wed, 10 Nov 2021 05:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[빵순이들 주목! 모델 김진경이 밀가루 없이 즐기는 시나몬롤 레서피를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/90260e1f-b1cd-4a43-9ff1-f61bd36d0713.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
