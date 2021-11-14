@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 17:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 05:46:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저장각! 참고하기 좋은 스타들의 블랙 팬츠 룩 7 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/61098</link>
+            <guid>https://www.elle.co.kr/article/61098</guid>
+            <pubDate>Sun, 14 Nov 2021 05:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[옷장 속 기본 중의 기본 아이템인 블랙 팬츠. 옷 잘 입기로 소문난 스타들은 이를 어떻게 입...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/6ac6088b-37f9-4c0b-ba23-47ea7a20623f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠시만 안녕! 군 입대하는 남자 배우 3]]></title>
             <link>https://www.elle.co.kr/article/61076</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 17:50:16 GMT</pubDate>
             <content:encoded><![CDATA[진지하게 만나는 중이라고.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/162494f3-2b71-437c-92e9-fa7b6e77bbbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시언, 4년 열애 끝에 드디어 결혼! 예비신부 서지승은 누구?]]></title>
-            <link>https://www.elle.co.kr/article/61020</link>
-            <guid>https://www.elle.co.kr/article/61020</guid>
-            <pubDate>Wed, 10 Nov 2021 05:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[로맨틱한 성탄절 웨딩!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/6b5928b1-62dc-427f-a66c-84ae1b0cdff7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

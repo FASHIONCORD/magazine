@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 17:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 05:46:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당 떨어졌을 때 고민 말고 GO! 새로 생긴 디저트 카페 3 #신상맛집]]></title>
+            <link>https://www.elle.co.kr/article/61038</link>
+            <guid>https://www.elle.co.kr/article/61038</guid>
+            <pubDate>Sun, 14 Nov 2021 05:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[새로 생겼는데 이미 검증된 맛집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/7ca3b0c1-7ed1-4c52-bed8-223344f87fb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트 중에도 즐길 수 있는 ‘글루텐프리 베이킹’]]></title>
             <link>https://www.elle.co.kr/article/61010</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 Nov 2021 05:43:45 GMT</pubDate>
             <content:encoded><![CDATA[워너비 몸매의 소유자 장윤주가 몸매 관리를 위해 평소에 먹는 식단은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/01e1a5d3-76b6-4568-8c6c-44bf6fe5e670.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CNN 선정 한국 명소에서 일출 보고, '천상의 정원' 산책하기! 옥천 관광지 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/60810</link>
-            <guid>https://www.elle.co.kr/article/60810</guid>
-            <pubDate>Sat, 06 Nov 2021 05:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[한 번 가면 잊을 수 없을 옥천의 명소들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/f5c8a4d9-f903-4251-b647-1b55d1f6bba0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
