@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 17:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 05:51:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추위를 마주하는 그들의 자세, 퀼팅 재킷 5]]></title>
+            <link>https://www.elle.co.kr/article/61133</link>
+            <guid>https://www.elle.co.kr/article/61133</guid>
+            <pubDate>Mon, 15 Nov 2021 05:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[날씨가 추워지면서 SNS에서 부쩍 자주 눈에 띄는 그것! 일명 '깔깔이'라 불리는 퀼팅 재킷...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/be22cc02-4211-4edb-a475-9040ae5c1f38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[15년 MAMA 역사상 첫 여성 호스트는 이 사람이다]]></title>
             <link>https://www.elle.co.kr/article/61110</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 17:50:16 GMT</pubDate>
             <content:encoded><![CDATA[물론 모든 어머니들은 아름답다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/e4389685-f5fd-4778-8f32-14d807358503.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손바닥만한 ‘미니 백’의 매력]]></title>
-            <link>https://www.elle.co.kr/article/61037</link>
-            <guid>https://www.elle.co.kr/article/61037</guid>
-            <pubDate>Thu, 11 Nov 2021 17:50:16 GMT</pubDate>
-            <content:encoded><![CDATA[동전지갑이야? 가방이야? 마이크로 미니 백에 빠진 셀러브리티들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/c408cf04-adf8-4d94-b396-825db7ba81e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

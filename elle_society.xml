@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 17:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 05:51:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아프간 소녀도 K드라마의 주인공이 될 수 있을까? #엘르보이스]]></title>
+            <link>https://www.elle.co.kr/article/61051</link>
+            <guid>https://www.elle.co.kr/article/61051</guid>
+            <pubDate>Mon, 15 Nov 2021 05:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 콘텐츠 속에서 한국인의 존재는 커졌다. 그런데 우리 내면은 어떨까? #오징어게임]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/de076dc4-ab82-4a7c-b06b-9f4f0b864fe6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이터널스'의 (여)신들_요주의 여성 #36]]></title>
             <link>https://www.elle.co.kr/article/60968</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 Nov 2021 05:44:21 GMT</pubDate>
             <content:encoded><![CDATA[‘예쁜 배우’ 한소희의 반전 혹은 본색, &lt;마이 네임&gt;.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/5bc4bced-a00b-4a59-bcec-b0ed87069d1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환경을 위한 작은 움직임, <제주바다 플로깅>]]></title>
-            <link>https://www.elle.co.kr/article/59479</link>
-            <guid>https://www.elle.co.kr/article/59479</guid>
-            <pubDate>Wed, 03 Nov 2021 05:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[신중히 고민하며 변함없는 지구를 그리는 모습은 일상 속 작은 실천과 함께 더 나은 방향으로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/0fb416b5-ab0f-4a1a-aa7c-9d78f6cf8bad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

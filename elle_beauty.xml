@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 17:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 05:51:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메이크업 아티스트 서옥이 말하는 2021 FW 메이크업 트렌드!]]></title>
+            <link>https://www.elle.co.kr/article/60863</link>
+            <guid>https://www.elle.co.kr/article/60863</guid>
+            <pubDate>Mon, 15 Nov 2021 05:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[올리브영이 선정한 N월의 올리브! 11월의 인물 메이크업 아티스트 서옥과 함께한 인터뷰.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/d38b3d63-ab4f-4125-abde-0050a528e4c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손담비의 욕실 속 내돈내산 배스 용품 리스트 14]]></title>
             <link>https://www.elle.co.kr/article/61056</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 05:49:31 GMT</pubDate>
             <content:encoded><![CDATA[등산의 계절, 얼마 남지 않은 가을을 만끽하고 싶다면? 이시영이 추천하는 용궐산으로 떠나보세...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/ef212941-67e6-4347-b4d7-ee2efe106833.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자기 혈관 숫자, 알고 있니?_몸에 좋은 잔소리 #31]]></title>
-            <link>https://www.elle.co.kr/article/60982</link>
-            <guid>https://www.elle.co.kr/article/60982</guid>
-            <pubDate>Tue, 09 Nov 2021 05:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[뇌혈관 질환이 급증하는 11월, 혈관 건강 체크하기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/21da5105-19b8-46ce-8d21-7bb8a39fae0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
