@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:45:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직도 '처발처발'하세요? 이제 '마이크로도싱'하세요!]]></title>
+            <link>https://www.elle.co.kr/article/61121</link>
+            <guid>https://www.elle.co.kr/article/61121</guid>
+            <pubDate>Tue, 16 Nov 2021 05:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[10단계 스킨케어? 무조건 넉넉히 덜어 얼굴에 처발처발? 다 옛말인거 아시죠? 소량씩 꾸준히...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/210decba-6108-4a88-8148-04bf47bd1917.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메이크업 아티스트 서옥이 말하는 2021 FW 메이크업 트렌드!]]></title>
             <link>https://www.elle.co.kr/article/60863</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 05:49:31 GMT</pubDate>
             <content:encoded><![CDATA[실보다는 득이 되는 경험을 선사해 줄 뷰티 엑스퍼트들의 신선한 화장품 믹스 레시피]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/2870dbce-544e-4d02-b532-fb3786bd8dbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시영도 갔다! 지금 가장 핫한 #용궐산]]></title>
-            <link>https://www.elle.co.kr/article/60992</link>
-            <guid>https://www.elle.co.kr/article/60992</guid>
-            <pubDate>Wed, 10 Nov 2021 05:49:31 GMT</pubDate>
-            <content:encoded><![CDATA[등산의 계절, 얼마 남지 않은 가을을 만끽하고 싶다면? 이시영이 추천하는 용궐산으로 떠나보세...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/ef212941-67e6-4347-b4d7-ee2efe106833.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

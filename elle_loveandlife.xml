@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:45:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현지인도 외지인도 사랑한 지역 대표 별미들 가득! 고성 맛집 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/61057</link>
+            <guid>https://www.elle.co.kr/article/61057</guid>
+            <pubDate>Tue, 16 Nov 2021 05:44:27 GMT</pubDate>
+            <content:encoded><![CDATA['식객' 허영만 픽 생선찜 맛집도!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/025c86f6-bcf7-4ad6-ab6e-69e6eb3bb046.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당 떨어졌을 때 고민 말고 GO! 새로 생긴 디저트 카페 3 #신상맛집]]></title>
             <link>https://www.elle.co.kr/article/61038</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 Nov 2021 05:49:12 GMT</pubDate>
             <content:encoded><![CDATA[굽이굽이 골목길 돌아가기 귀찮은 현대인들에게 딱인 맛집들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/cff9e439-4f5f-405c-a679-eafe32b78af1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장윤주의 리얼 다이어트 레서피]]></title>
-            <link>https://www.elle.co.kr/article/60823</link>
-            <guid>https://www.elle.co.kr/article/60823</guid>
-            <pubDate>Sat, 06 Nov 2021 05:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[워너비 몸매의 소유자 장윤주가 몸매 관리를 위해 평소에 먹는 식단은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/01e1a5d3-76b6-4568-8c6c-44bf6fe5e670.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

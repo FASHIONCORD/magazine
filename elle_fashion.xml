@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:45:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추위를 마주하는 그들의 자세, 퀼팅 재킷 5]]></title>
+            <link>https://www.elle.co.kr/article/61133</link>
+            <guid>https://www.elle.co.kr/article/61133</guid>
+            <pubDate>Tue, 16 Nov 2021 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[날씨가 추워지면서 SNS에서 부쩍 자주 눈에 띄는 그것! 일명 '깔깔이'라 불리는 퀼팅 재킷...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/be22cc02-4211-4edb-a475-9040ae5c1f38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저장각! 참고하기 좋은 스타들의 블랙 팬츠 룩 7 #옷잘입는언니]]></title>
             <link>https://www.elle.co.kr/article/61098</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 17:49:29 GMT</pubDate>
             <content:encoded><![CDATA[두 시즌 만에 관객과 함께하는 피지컬 쇼로 돌아온 4대 패션 위크에서 생긴 일.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/12a73972-b06a-4a1a-a828-3c74b4a8b59b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과감할수록 멋있는 시스루 패션 6.]]></title>
-            <link>https://www.elle.co.kr/article/60983</link>
-            <guid>https://www.elle.co.kr/article/60983</guid>
-            <pubDate>Tue, 09 Nov 2021 05:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[제니, 두아 리파, 벨라 하디드 등 MZ 세대의 패션 아이콘들이 사랑하는 바로 그것! 시스루...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/f769eaf6-e697-4c8c-adbd-cf044b641dd1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

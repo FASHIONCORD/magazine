@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 05:45:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라부터 롤스로이스까지, 아는 사람들만 아는 자동차 속 특별한 기능 6]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32757587&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32757587&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 16 Nov 2021 05:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTVfMjAw/MDAxNjM2OTY4NTExMTUx.pOc4cWzTFSP_75V-m4I-ImUrYFCR7RokWiyqV1jkDSsg.RawmxfG0Vg8NDqwHmqboZPrNQwrkOC81ah3u5BZQk7gg.JPEG/IRIbW1UZN56wr2S1BPtRiv1aybfM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DRIVERS: 한요한 & 람보르기니 우라칸 스파이더]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32673725&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MjRfMjQ4/MDAxNTk4MjYxMDUwNzUw.r5KVEL1cIkMDhgzvZCBsMWL3pLKRmhpfzyFe8hfe59cg.QhF2wG56WEAjvzfc2ja1J6bHqiqfltWh3eFnxKZpP-og.JPEG/IOWhPFeXMACjswukcmfxbWqik8Ls.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드 프로필: 애스턴마틴]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29118166&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29118166&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MTdfMTUx/MDAxNTk3NjU5NTczNDgy.AozhukNL0-7R3GCMqs4_fg48M0yuqh2xZtAjNFi3_SUg.9V2nSxPxO_xqyO9C0A92ffHX_G_SLd0TIIXoxGEIOmQg.JPEG/IJhpV0_3bm5cX9zwUTCO8lPsU7kE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
