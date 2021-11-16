@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 17:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장현성 아들 준우가 벌써 고3이라고?! '슈돌' 아기들의 근황 모음]]></title>
+            <link>https://www.elle.co.kr/article/61224</link>
+            <guid>https://www.elle.co.kr/article/61224</guid>
+            <pubDate>Tue, 16 Nov 2021 17:50:30 GMT</pubDate>
+            <content:encoded><![CDATA[세월아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/cc8a2fc4-a966-48b2-83df-4805b4eb6d47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[15년 MAMA 역사상 첫 여성 호스트는 이 사람이다]]></title>
             <link>https://www.elle.co.kr/article/61110</link>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 25 Oct 2021 17:53:00 GMT</pubDate>
             <content:encoded><![CDATA[‘예쁜 배우’ 한소희의 반전 혹은 본색, &lt;마이 네임&gt;.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/5bc4bced-a00b-4a59-bcec-b0ed87069d1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tvN 토일드라마 역대 첫방 시청률 갈아 치운 '지리산', 대체 무슨 내용?]]></title>
-            <link>https://www.elle.co.kr/article/59622</link>
-            <guid>https://www.elle.co.kr/article/59622</guid>
-            <pubDate>Mon, 25 Oct 2021 05:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[방송 첫 주부터 10%를 훌쩍 넘은 시청률.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/8b61bc8e-a494-4a36-8bd6-f3b9ee011971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

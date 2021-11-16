@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 17:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애니메이션부터 범죄 드라마까지, 넷플릭스 신작 추천 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32757633&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32757633&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 16 Nov 2021 17:47:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTVfMjc2/MDAxNjM2OTY4ODcyMDcy.YPAGlo4-Iv35bj9O2Jlpm7lUrmuGs7g40gAzaKSRrM0g.SQyjb1u3OPleWA7Zjp-k-KBKZxrAquacIRZuFUznZoIg.JPEG/IXW5bsaQRZYOR1KKRrNSWsn55utU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홀리뱅 인터뷰: 스트리트가 가장 어울리는 '스우파' 우승팀]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32716589&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDJfMTM1/MDAxNjEyMjQ5MTMzMjgw.bMwiSIiEZFZJqzh4ica6S8TSoDEo0w_VzI5Tpvr_L4Eg.Vv4lmI9fLln0hus1UjyJQHyIwJ0l3YttIO9UyguPdZYg.JPEG/INFPfbjc7ljKz63kL8Co1HK0_hy0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈, 거액 들여 '방역 지침 준수 감시용 로봇’ 구매했다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30490197&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30490197&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTcg/MDAxNjEwNjk4OTc5OTUw.PZ5MTcIxMZBIaPlUgZJtU2X1j8qcYx3Bz6hGti7WpGQg.MWF7_nb5CZQOahFk8M1rVwMm99Eej4dxLZcaRM32n4wg.JPEG/IdMYRytWg2QwZHJsBGE4TabPMOMc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
