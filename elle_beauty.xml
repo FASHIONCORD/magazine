@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 17:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 05:53:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메마른 팔과 다리 피부를 위한 모이스처라이저 추천!]]></title>
+            <link>https://www.elle.co.kr/article/61179</link>
+            <guid>https://www.elle.co.kr/article/61179</guid>
+            <pubDate>Thu, 18 Nov 2021 05:48:51 GMT</pubDate>
+            <content:encoded><![CDATA[이 계절의 필수품!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/84ec4a20-49f5-494a-a1b8-08dfd8ecbc58.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회생 불가 손상모 리셋을 위한 헤어 오일]]></title>
             <link>https://www.elle.co.kr/article/61151</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Nov 2021 17:50:42 GMT</pubDate>
             <content:encoded><![CDATA[스윗한 모습부터 섹시미, 젠틀한 멋까지 빠짐없이 고루 갖춘 쓰리(THREE)의 앰버서더 서강...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/1786c64b-325b-494f-a814-f30b180b7061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럭셔리 비건 #홀리데이를 느끼고 싶다면, #디어달리아 도산 플래그십 스토어로!]]></title>
-            <link>https://www.elle.co.kr/article/61018</link>
-            <guid>https://www.elle.co.kr/article/61018</guid>
-            <pubDate>Thu, 11 Nov 2021 17:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[뻔한 플래그십 스토어 말고, 디어달리아 도산에서 경험하는 럭셔리 비건 홀리데이 모먼트를 주목...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/19de0b7e-5aea-4932-94de-442b11b0dfdf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
