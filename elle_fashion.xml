@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 17:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['너를 닮은 사람' 고현정 VS 신현빈 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/61159</link>
+            <guid>https://www.elle.co.kr/article/61159</guid>
+            <pubDate>Thu, 18 Nov 2021 17:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[믿고 보는 배우 고현정과 뚜렷한 존재감을 지닌 배우 신현빈이 열연 중인 JTBC 드라마 '너...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/32899532-00f2-471d-aa75-01a0999fceb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 & 겨울 데일리 룩 치트키, 니트 드레스 5]]></title>
             <link>https://www.elle.co.kr/article/61158</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Nov 2021 17:49:59 GMT</pubDate>
             <content:encoded><![CDATA[리얼 퍼는 비켜! 동물과 환경까지 생각하는 에코 퍼 시대.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/b62036e4-9c8a-4236-acb5-eac47040462b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유미의 세포들' 김고은 VS 박지현 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/61017</link>
-            <guid>https://www.elle.co.kr/article/61017</guid>
-            <pubDate>Fri, 12 Nov 2021 05:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[세포 공감 로맨스 '유미의 세포들' 시즌 2를 기다리며 준비했어요. 데일리 룩으로 참고 하기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/3db21b33-dc35-4828-b634-e6c5e612a915.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

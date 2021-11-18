@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 17:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옛날 뮤직비디오 다들 그리웠지? 리마스터링이 뜬다! #H.O.T #S.E.S #신화]]></title>
+            <link>https://www.elle.co.kr/article/61302</link>
+            <guid>https://www.elle.co.kr/article/61302</guid>
+            <pubDate>Thu, 18 Nov 2021 17:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[이소라, H.O.T, S.E.S, 신화의 뮤직비디오를 4K로?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/30f1ae86-5710-4f13-84e4-1031a621087f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코드 쿤스트가 생각하는 재미난 일]]></title>
             <link>https://www.elle.co.kr/article/60833</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
             <content:encoded><![CDATA[또 대통령과 함께 UN 총회에 간다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/15/0e7f089c-29bf-44e2-8086-fab34f30459c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서로의 인생 엔딩 크레딧에 올라갈 절친, 엄정화X정재형]]></title>
-            <link>https://www.elle.co.kr/article/58466</link>
-            <guid>https://www.elle.co.kr/article/58466</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[1996년부터 이어진 찐 우정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/12/8c5520ea-a0ee-4db2-9e2e-61b25e878653.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

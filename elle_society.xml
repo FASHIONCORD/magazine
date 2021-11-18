@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 17:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고통의 언어없이 타인의 고통을 어떻게 설명할 수 있을까? #엘르보이스]]></title>
+            <link>https://www.elle.co.kr/article/61207</link>
+            <guid>https://www.elle.co.kr/article/61207</guid>
+            <pubDate>Thu, 18 Nov 2021 17:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[백세희 작가가 동네에서 마주친 강아지 다섯 마리를 지나치지 못한 이유. 일단 살리고 보자! ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/2b9d152e-02f7-4fef-9990-a0583f3e990e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공효진은 오늘도 왜?_요주의 여성 #37]]></title>
             <link>https://www.elle.co.kr/article/61186</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Nov 2021 17:54:22 GMT</pubDate>
             <content:encoded><![CDATA[마블의 새 시대를 여는 '이터널스'의 매력적인 여성 히어로들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/04ef2307-0dc3-464e-8ea5-f02a2b478ba3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위드 코로나, 지금 이 순간 돈이 몰리는 곳_돈쓸신잡 #18]]></title>
-            <link>https://www.elle.co.kr/article/60919</link>
-            <guid>https://www.elle.co.kr/article/60919</guid>
-            <pubDate>Thu, 11 Nov 2021 17:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[이제 돈벼락은 '여기'에 친다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/6b769548-f4a0-47f4-adbd-b5e25607f108.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

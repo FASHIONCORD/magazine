@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 17:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재탕 백만 번 해도 슬픈 정조 이산과 의빈 성씨의 러브 스토리]]></title>
+            <link>https://www.elle.co.kr/article/61293</link>
+            <guid>https://www.elle.co.kr/article/61293</guid>
+            <pubDate>Thu, 18 Nov 2021 17:54:15 GMT</pubDate>
+            <content:encoded><![CDATA[15년 짝사랑한 임금... 15년 고백 거절한 생각시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/1ede4ab8-a812-4d8a-9fb9-d4acced5e165.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장현성 아들 준우가 벌써 고3이라고?! '슈돌' 아기들의 근황 모음]]></title>
             <link>https://www.elle.co.kr/article/61224</link>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 27 Oct 2021 17:49:06 GMT</pubDate>
             <content:encoded><![CDATA[여러 대작 속에서도 선방한 한국 영화들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/2d62010b-3e58-404d-96f0-10538999764e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 사랑한 스파이, 한소희_요주의 여성 #35]]></title>
-            <link>https://www.elle.co.kr/article/59624</link>
-            <guid>https://www.elle.co.kr/article/59624</guid>
-            <pubDate>Mon, 25 Oct 2021 17:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘예쁜 배우’ 한소희의 반전 혹은 본색, &lt;마이 네임&gt;.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/5bc4bced-a00b-4a59-bcec-b0ed87069d1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

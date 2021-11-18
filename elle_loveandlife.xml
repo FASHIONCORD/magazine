@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 17:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이글 맛집 찾고 있다면 여기! #베이글핫플 3]]></title>
+            <link>https://www.elle.co.kr/article/61175</link>
+            <guid>https://www.elle.co.kr/article/61175</guid>
+            <pubDate>Thu, 18 Nov 2021 17:55:14 GMT</pubDate>
+            <content:encoded><![CDATA[지금 가장 핫한 베이커리, 담백하고 고소한 베이글을 맛볼 수 있는 핫플레이스를 소개합니다. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/14/36cf1786-1969-4325-a435-288e0133097d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['사이코지만 괜찮아', '동주'를 여기서 찍었다고? 힐링하기 딱 좋은 고성 명소 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/61160</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Nov 2021 17:54:08 GMT</pubDate>
             <content:encoded><![CDATA[오션뷰? 그거 기본 아닌가요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/4083ec19-3882-4e30-9f25-8e83ec5d3f20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘발리댁’ 가희의 건강한 점심 메뉴]]></title>
-            <link>https://www.elle.co.kr/article/60902</link>
-            <guid>https://www.elle.co.kr/article/60902</guid>
-            <pubDate>Thu, 11 Nov 2021 17:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[간단한 재료로 만드는 건강한 점심 식단! 가희의 유튜브를 참고하면 어렵지 않아요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/49f5f3e4-9fd5-44c0-9d5f-1c05bba55549.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
