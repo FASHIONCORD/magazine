@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 17:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 11:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실 찐친? ‘술꾼도시여자들’의 3인 3색 스타일 탐구 (feat. 정은지, 이선빈, 한선화)]]></title>
+            <link>https://www.elle.co.kr/article/61335</link>
+            <guid>https://www.elle.co.kr/article/61335</guid>
+            <pubDate>Sat, 20 Nov 2021 11:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[리얼한 연기로 화제 만발! 본격 ‘기승전술’ 드라마 &lt;술꾼도시여자들&gt;의 정은지, 이선빈, 한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/d16007f7-2400-4078-bcd1-16eaa8e6d267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이토록 강렬한 완다_요주의 여성 #38]]></title>
+            <link>https://www.elle.co.kr/article/61329</link>
+            <guid>https://www.elle.co.kr/article/61329</guid>
+            <pubDate>Sat, 20 Nov 2021 11:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니 플러스를 구독해야 할 첫 번째 이유, &lt;완다비전&gt;.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/25bd0329-6b9f-430f-a378-54451c45b2d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재탕 백만 번 해도 슬픈 정조 이산과 의빈 성씨의 러브 스토리]]></title>
             <link>https://www.elle.co.kr/article/61293</link>
@@ -94,22 +110,6 @@
             <pubDate>Wed, 27 Oct 2021 17:49:06 GMT</pubDate>
             <content:encoded><![CDATA[끝났지만 끝난 게 아니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/693635e8-2710-4df9-af19-ff505ef58dd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파' 최종 우승! 언더독의 반란 그 자체인 홀리뱅 서사 모음]]></title>
-            <link>https://www.elle.co.kr/article/60670</link>
-            <guid>https://www.elle.co.kr/article/60670</guid>
-            <pubDate>Wed, 27 Oct 2021 17:49:06 GMT</pubDate>
-            <content:encoded><![CDATA[하위권에서 우승 크루에 등극하기까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/0f375829-71a0-4936-a24b-eba284140609.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘코시국’ 2년차, 아사 직전 극장가 먹여 살린 영화 TOP 3]]></title>
-            <link>https://www.elle.co.kr/article/60651</link>
-            <guid>https://www.elle.co.kr/article/60651</guid>
-            <pubDate>Wed, 27 Oct 2021 17:49:06 GMT</pubDate>
-            <content:encoded><![CDATA[여러 대작 속에서도 선방한 한국 영화들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/2d62010b-3e58-404d-96f0-10538999764e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
