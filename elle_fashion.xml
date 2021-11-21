@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 05:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 17:49:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 주부터 본격! 실패 없는 롱코트 룩 BEST 6.]]></title>
+            <link>https://www.elle.co.kr/article/61344</link>
+            <guid>https://www.elle.co.kr/article/61344</guid>
+            <pubDate>Sun, 21 Nov 2021 17:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[갑자기 찾아온 겨울을 스타일리시하게 맞이하고 싶다면 롱코트가 제격.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/8259d4a4-a432-41c2-95f1-a5016ea0cf09.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠튀리에가 전하는 낭만, 미스 소희]]></title>
+            <link>https://www.elle.co.kr/article/61342</link>
+            <guid>https://www.elle.co.kr/article/61342</guid>
+            <pubDate>Sun, 21 Nov 2021 17:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[꽃처럼 활짝 만개한 미스 소희가 패션계를 사로 잡았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/ba2b92c6-3916-4c1b-8822-cd52514d00bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이 페이보릿 블랭킷]]></title>
             <link>https://www.elle.co.kr/article/61343</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 20 Nov 2021 11:05:17 GMT</pubDate>
             <content:encoded><![CDATA[아트, 상상력, 폭발하는 실루엣. 알렉산더 맥퀸의 이번 시즌 이야기다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/83d08982-9777-41e9-a19a-f000fdd7a956.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스칸디나비아 패션을 아시나요?]]></title>
-            <link>https://www.elle.co.kr/article/61203</link>
-            <guid>https://www.elle.co.kr/article/61203</guid>
-            <pubDate>Sat, 20 Nov 2021 11:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[페미니즘과 친환경에 대한 올바른 가치관을 가진 북유럽 패션 브랜드 로데비어. 지난달 서울에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/a75e7c1e-a913-4026-b408-a0e0a252821a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다'뚫'익선! 피어싱 열풍이 다시 돌아왔다]]></title>
-            <link>https://www.elle.co.kr/article/61173</link>
-            <guid>https://www.elle.co.kr/article/61173</guid>
-            <pubDate>Sat, 20 Nov 2021 11:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[어디에 뚫어볼까? 반항적인 피어싱의 매력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/14/3b43eae5-acff-4ae9-9b8d-1932d0c6f8ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
