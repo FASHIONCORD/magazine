@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 17:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 05:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수면 메이트 Sleep Tight]]></title>
+            <link>https://www.elle.co.kr/article/61307</link>
+            <guid>https://www.elle.co.kr/article/61307</guid>
+            <pubDate>Sun, 21 Nov 2021 05:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[나날이 깊어지는 밤, 더 아늑하고 평온한 숙면생활을 위하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/1a1808ea-9232-4f52-b90d-32b5d54413db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진짜 빠질까?? 다이어트 보조제 직접 먹어본 후기]]></title>
             <link>https://www.elle.co.kr/article/61282</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Nov 2021 17:48:05 GMT</pubDate>
             <content:encoded><![CDATA[내 머리카락에 기적의 한 방울!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/c0cb53bc-7973-438a-9504-4aa6d5121dbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬바람 불 땐 따뜻한 차 한 잔이 보약_몸에 좋은 잔소리_#32]]></title>
-            <link>https://www.elle.co.kr/article/61141</link>
-            <guid>https://www.elle.co.kr/article/61141</guid>
-            <pubDate>Tue, 16 Nov 2021 17:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[따뜻한 한 모금이 우리를 힐링 시켜주는 겨울에 마시기 좋은 차 추천!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/dacf1b7e-c3cc-4461-8443-aaa5f1c0b111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
