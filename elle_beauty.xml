@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 17:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘너를 닮은 사람’ 고현정의 헤어스타일은 고데기일까? 펌일까?]]></title>
+            <link>https://www.elle.co.kr/article/61316</link>
+            <guid>https://www.elle.co.kr/article/61316</guid>
+            <pubDate>Mon, 22 Nov 2021 05:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[알고 보면 캐릭터의 서사가 모두 녹아들어간 스타일]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/2afd260a-9b18-494e-82be-b4644615811d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수면 메이트 Sleep Tight]]></title>
             <link>https://www.elle.co.kr/article/61307</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 05:48:51 GMT</pubDate>
             <content:encoded><![CDATA[이 계절의 필수품!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/84ec4a20-49f5-494a-a1b8-08dfd8ecbc58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회생 불가 손상모 리셋을 위한 헤어 오일]]></title>
-            <link>https://www.elle.co.kr/article/61151</link>
-            <guid>https://www.elle.co.kr/article/61151</guid>
-            <pubDate>Tue, 16 Nov 2021 17:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[내 머리카락에 기적의 한 방울!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/c0cb53bc-7973-438a-9504-4aa6d5121dbe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
