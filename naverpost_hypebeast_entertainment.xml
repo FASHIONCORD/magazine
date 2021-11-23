@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:54:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키아누 리브스, MCU 합류설에 대해 직접 입장 밝히다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32811049&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32811049&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 23 Nov 2021 17:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfMTI0/MDAxNjM3NjU2NjkyNDI1._XScJgLsmJ4orOjoO6EU5lJUAvN2gi7detHX218aasog.WYHHE3c6diFajrPo4ZKk2ML8ZvBYBx5acznkZnEzOKcg.JPEG/IKsNHutx7tonSAYyJqOe6936Cke8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애니메이션부터 범죄 드라마까지, 넷플릭스 신작 추천 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32757633&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMTVfMTcy/MDAxNjEzMzc4MDM5NTAx.f1eQlUEMpua7jAbgKLV36eBTZUhs9EulklElDm4z8Wcg.8NKb0WxF7rcjw0yanZjlwsHu2wFht6vssKIwl_UtSPkg.PNG/I4cWKYObVp8m9tmHV4iXsi2Cz4eg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘블랙 팬서’의 고향, 와칸다 배경의 새 디즈니 플러스 시리즈 제작 중이다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30626568&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30626568&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDJfMTM1/MDAxNjEyMjQ5MTMzMjgw.bMwiSIiEZFZJqzh4ica6S8TSoDEo0w_VzI5Tpvr_L4Eg.Vv4lmI9fLln0hus1UjyJQHyIwJ0l3YttIO9UyguPdZYg.JPEG/INFPfbjc7ljKz63kL8Co1HK0_hy0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
