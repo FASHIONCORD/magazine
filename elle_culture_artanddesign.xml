@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 05:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 17:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피지컬+디지털=피지털 시대 !]]></title>
+            <link>https://www.elle.co.kr/article/61492</link>
+            <guid>https://www.elle.co.kr/article/61492</guid>
+            <pubDate>Wed, 24 Nov 2021 17:53:24 GMT</pubDate>
+            <content:encoded><![CDATA[가상과 현실의 경계를 무너뜨리는 피지털 패션의 시대가 도래했다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/f5a970d5-7ceb-4d8d-af61-7786d06291da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시, 베를린에서 The faces of SILENCE]]></title>
             <link>https://www.elle.co.kr/article/61268</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
             <content:encoded><![CDATA[손에 잡히지 않아 더 감질나는 '오리지널'의 매력.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/0e849f18-17a4-4f9d-8df6-7fa8937e7ad8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대의 피그말리온이 된 앤디 워홀과 박서보의 전시]]></title>
-            <link>https://www.elle.co.kr/article/58865</link>
-            <guid>https://www.elle.co.kr/article/58865</guid>
-            <pubDate>Fri, 01 Oct 2021 08:57:11 GMT</pubDate>
-            <content:encoded><![CDATA[앤디 워홀 개인전 〈앤디를 찾아서〉&amp; 박서보 개인전 〈Park Seo-Bo&gt;.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/f04a2b37-6a51-48be-a26b-caef94c2f53f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

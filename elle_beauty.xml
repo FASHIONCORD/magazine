@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 05:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 17:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 룩 '꾸안꾸' 찰떡! 헤어밴드를 한 스타 OOTD]]></title>
+            <link>https://www.elle.co.kr/article/61353</link>
+            <guid>https://www.elle.co.kr/article/61353</guid>
+            <pubDate>Wed, 24 Nov 2021 17:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 스타들의 데일리 룩에서 자주 포착되는 헤어밴드 스타일을 모아봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/4cf9eca7-ff5b-4eba-81bf-ca8f9c124b33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말 그대로 전신 운동! 스타 클라이밍 영상.zip]]></title>
             <link>https://www.elle.co.kr/article/61333</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 20 Nov 2021 11:05:29 GMT</pubDate>
             <content:encoded><![CDATA[따끈따끈한 신상 뷰티 브랜드 3.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/d68aeb28-05d1-481c-9ad2-666d91223123.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 달 만에 5kg 감량! 의외의 프로 다이어터 김희철이 전한 중요한 다이어트 조언]]></title>
-            <link>https://www.elle.co.kr/article/61228</link>
-            <guid>https://www.elle.co.kr/article/61228</guid>
-            <pubDate>Sat, 20 Nov 2021 11:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[이전에도 두부 다이어트로 2주 만에 8kg을 뺐던 그.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/e20eb903-c734-46a7-b372-1d545fd4c574.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
