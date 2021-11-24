@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 17:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 05:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[책만 있는 건 아니야, ‘하우스서울’_주간책방 #5]]></title>
+            <link>https://www.elle.co.kr/article/61289</link>
+            <guid>https://www.elle.co.kr/article/61289</guid>
+            <pubDate>Wed, 24 Nov 2021 05:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[커피와 책, 전시를 한자리에서 만날 수 있는 복합문화공간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2078a366-f603-4aea-9406-ac634d2ea08d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시, 베를린에서 The faces of SILENCE]]></title>
             <link>https://www.elle.co.kr/article/61268</link>
@@ -37,7 +45,7 @@
             <guid>https://www.elle.co.kr/article/61117</guid>
             <pubDate>Thu, 18 Nov 2021 17:53:20 GMT</pubDate>
             <content:encoded><![CDATA[청년들의 사랑방이 인문사회과학서점이 되기까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/b4f148b0-b27d-4bdb-aea3-9b17cb772dd8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b4f148b0-b27d-4bdb-aea3-9b17cb772dd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[15년 MAMA 역사상 첫 여성 호스트는 이 사람이다]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Nov 2021 17:49:33 GMT</pubDate>
             <content:encoded><![CDATA[각각 '전지적 참견 시점'과 '나 혼자 산다'에 출연한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/d5b94c5e-70fe-458a-bde3-668dfa091ba5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상하고 귀여운 것들이 가득한, ‘북극서점’_주간책방 #3]]></title>
-            <link>https://www.elle.co.kr/article/60942</link>
-            <guid>https://www.elle.co.kr/article/60942</guid>
-            <pubDate>Fri, 12 Nov 2021 05:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[작가이자 싱어송라이터인 책방지기의 취향이 잔뜩 담긴 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/01e9c709-607e-4d1e-a339-c7736ea7f815.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

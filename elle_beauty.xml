@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 17:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 05:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말 그대로 전신 운동! 스타 클라이밍 영상.zip]]></title>
+            <link>https://www.elle.co.kr/article/61333</link>
+            <guid>https://www.elle.co.kr/article/61333</guid>
+            <pubDate>Wed, 24 Nov 2021 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[설현, 현아 등 스타들도 푹 빠진 클라이밍. 클라이밍 그 매력 탐구! 운동을 시작해볼까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/e4e0bda0-fdb3-4156-81b4-885ff694cbc2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홈트 고민이라면? 여배우의 ‘홈 트레이닝 루틴’ 상세가이드!]]></title>
             <link>https://www.elle.co.kr/article/61332</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 20 Nov 2021 11:05:29 GMT</pubDate>
             <content:encoded><![CDATA[이전에도 두부 다이어트로 2주 만에 8kg을 뺐던 그.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/e20eb903-c734-46a7-b372-1d545fd4c574.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90s 뷰티 트렌드 재해석]]></title>
-            <link>https://www.elle.co.kr/article/61208</link>
-            <guid>https://www.elle.co.kr/article/61208</guid>
-            <pubDate>Sat, 20 Nov 2021 11:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[92년 11월생 &lt;엘르&gt; 코리아를 축하하는 마음으로 동갑내기 모델과 당시 뷰티 트렌드를 재해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/91842c06-c11a-4b30-9dd6-8f00c8b6b57d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
