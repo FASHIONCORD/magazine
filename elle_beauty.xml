@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 05:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 17:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘미쓰 홍당무’세요? 겨울이면 더 불타오르는 안면 홍조 극복 프로젝트_선배's 어드바이스 #92]]></title>
+            <link>https://www.elle.co.kr/article/61365</link>
+            <guid>https://www.elle.co.kr/article/61365</guid>
+            <pubDate>Thu, 25 Nov 2021 17:47:19 GMT</pubDate>
+            <content:encoded><![CDATA[안면 홍조에서 벗어나기 방법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/088485fd-a2e6-402a-ab88-b40a5470b0a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울 룩 '꾸안꾸' 찰떡! 헤어밴드를 한 스타 OOTD]]></title>
             <link>https://www.elle.co.kr/article/61353</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 20 Nov 2021 11:05:29 GMT</pubDate>
             <content:encoded><![CDATA[다이어트 보조제, 식단 키트 등 다이어트를 돕는 제품들을 직접 먹어봤습니다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/b599f473-344a-458a-b392-3b67b9be412c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국에서도 만날 수 있어요]]></title>
-            <link>https://www.elle.co.kr/article/61233</link>
-            <guid>https://www.elle.co.kr/article/61233</guid>
-            <pubDate>Sat, 20 Nov 2021 11:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[따끈따끈한 신상 뷰티 브랜드 3.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/d68aeb28-05d1-481c-9ad2-666d91223123.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 05:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 17:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업데이트된 패피들의 스트릿 룩]]></title>
+            <link>https://www.elle.co.kr/article/61443</link>
+            <guid>https://www.elle.co.kr/article/61443</guid>
+            <pubDate>Thu, 25 Nov 2021 17:47:08 GMT</pubDate>
+            <content:encoded><![CDATA[런던, 파리, 밀란, 런던에서 열린 2022 봄/여름 컬렉션에서 포착한 패션 피플.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/c133757c-c776-4455-b309-06efa9812605.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱크로율 100% ! 크리스틴 스튜어트 VS 다이애나 비]]></title>
             <link>https://www.elle.co.kr/article/61405</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 05:40:12 GMT</pubDate>
             <content:encoded><![CDATA[허리를 잘록하게 하는 클래식한 벨티드 코트가 돌아왔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/88bf852e-9b98-4a49-b56c-03e420a15358.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주부터 본격! 실패 없는 롱코트 룩 BEST 6.]]></title>
-            <link>https://www.elle.co.kr/article/61344</link>
-            <guid>https://www.elle.co.kr/article/61344</guid>
-            <pubDate>Sun, 21 Nov 2021 17:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[갑자기 찾아온 겨울을 스타일리시하게 맞이하고 싶다면 롱코트가 제격.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/8259d4a4-a432-41c2-95f1-a5016ea0cf09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
