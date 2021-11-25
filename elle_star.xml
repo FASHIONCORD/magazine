@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 17:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 05:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저장각! 맛잘알 스타의 입맛을 사로잡은 핫플 푸드 3]]></title>
+            <link>https://www.elle.co.kr/article/61420</link>
+            <guid>https://www.elle.co.kr/article/61420</guid>
+            <pubDate>Thu, 25 Nov 2021 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[샌드위치부터 초코 무스까지! 보는 것만으로도 먹음직스러운, 스타들의 SNS에서 포착한 핫플레...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/0f35c2bd-d949-4c42-aa20-e93db9ea47bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김태리의 유쾌한 솔직함, 당당함 그리고? 45초 동안 표정부자 김태리와 아이컨택하기]]></title>
+            <link>https://www.elle.co.kr/article/61419</link>
+            <guid>https://www.elle.co.kr/article/61419</guid>
+            <pubDate>Thu, 25 Nov 2021 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[45초가 순삭되는 방법. 엘르와 김태리, 그리고 프라다의 멋진 조우]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/99b2d1e5-db3a-4c7a-96d8-c238a1a0f70e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 채정안의 환절기 보디 케어 필수템 4]]></title>
             <link>https://www.elle.co.kr/article/61409</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 05:42:20 GMT</pubDate>
             <content:encoded><![CDATA[같은 소속사 선후배이자 찐친 중의 찐친.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/42f09b8b-7657-46f8-8e59-61fb1f0966da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실 찐친? ‘술꾼도시여자들’의 3인 3색 스타일 탐구 (feat. 정은지, 이선빈, 한선화)]]></title>
-            <link>https://www.elle.co.kr/article/61335</link>
-            <guid>https://www.elle.co.kr/article/61335</guid>
-            <pubDate>Mon, 22 Nov 2021 17:49:36 GMT</pubDate>
-            <content:encoded><![CDATA[리얼한 연기로 화제 만발! 본격 ‘기승전술’ 드라마 &lt;술꾼도시여자들&gt;의 정은지, 이선빈, 한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/d16007f7-2400-4078-bcd1-16eaa8e6d267.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말 그대로 전신 운동! 스타 클라이밍 영상.zip]]></title>
-            <link>https://www.elle.co.kr/article/61333</link>
-            <guid>https://www.elle.co.kr/article/61333</guid>
-            <pubDate>Mon, 22 Nov 2021 17:49:36 GMT</pubDate>
-            <content:encoded><![CDATA[설현, 현아 등 스타들도 푹 빠진 클라이밍. 클라이밍 그 매력 탐구! 운동을 시작해볼까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/e4e0bda0-fdb3-4156-81b4-885ff694cbc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

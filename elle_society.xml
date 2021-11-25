@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 17:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 05:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀라노 할머니 장명숙의 패션 상담소! 진짜 명품은 뭐가 달라? (feat.이탈리아)]]></title>
+            <link>https://www.elle.co.kr/article/61257</link>
+            <guid>https://www.elle.co.kr/article/61257</guid>
+            <pubDate>Thu, 25 Nov 2021 05:46:39 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 밀라논나로 활동하는 장명숙이 정의하는 진정한 명품이란 이런 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/f5536181-9847-420a-a5e0-28f66eacd06c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페이스북이 이름 바꾸고 욕 먹는 이유 #메타 #마크저커버그]]></title>
             <link>https://www.elle.co.kr/article/61221</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Nov 2021 05:45:10 GMT</pubDate>
             <content:encoded><![CDATA[제주바다 정화활동 단체 (사단법인 세이브제주바다)에 수익금 전액 기부하며 마무리]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/0054a23a-e43b-48f4-9396-edcbd406d89c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아프간 소녀도 K드라마의 주인공이 될 수 있을까? #엘르보이스]]></title>
-            <link>https://www.elle.co.kr/article/61051</link>
-            <guid>https://www.elle.co.kr/article/61051</guid>
-            <pubDate>Mon, 15 Nov 2021 05:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 콘텐츠 속에서 한국인의 존재는 커졌다. 그런데 우리 내면은 어떨까? #오징어게임]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/de076dc4-ab82-4a7c-b06b-9f4f0b864fe6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

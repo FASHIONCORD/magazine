@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 17:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 05:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스트릿 우먼 파이터' 서울 콘서트 보러 가족 총출동한 뮤지컬 배우 (feat. 오뚜기)]]></title>
+            <link>https://www.elle.co.kr/article/61498</link>
+            <guid>https://www.elle.co.kr/article/61498</guid>
+            <pubDate>Thu, 25 Nov 2021 05:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이가 말한 '댄서들의 대잔치'에 참석한 '스우파' 팬들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/623e29c7-daca-4d48-abfa-6859308b7a47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뺏긴 지 하루 만에 넷플릭스 세계 1위 탈환한 K-드라마가 있다? 벌써 열린 '지옥' 흥행문]]></title>
+            <link>https://www.elle.co.kr/article/61477</link>
+            <guid>https://www.elle.co.kr/article/61477</guid>
+            <pubDate>Thu, 25 Nov 2021 05:44:04 GMT</pubDate>
+            <content:encoded><![CDATA['오징어게임' 급 장기 흥행 조짐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b19c16f9-626d-4b20-92ce-c76c7d7e5805.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현실 찐친? ‘술꾼도시여자들’의 3인 3색 스타일 탐구 (feat. 정은지, 이선빈, 한선화)]]></title>
             <link>https://www.elle.co.kr/article/61335</link>
@@ -94,22 +110,6 @@
             <pubDate>Wed, 27 Oct 2021 17:49:06 GMT</pubDate>
             <content:encoded><![CDATA[&lt;킬링 이브&gt;의 히로인 조디 코머, 14세기 프랑스 실화를 바탕으로 한 &lt;라스트 듀얼: 최후...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b6b9d07d-efa0-45ad-be41-fdae6a28f299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["60초 후에" 멘트에 눈으로 욕한 천우희X선미? '스우파' 막방 제대로 몰입한 스타들]]></title>
-            <link>https://www.elle.co.kr/article/60688</link>
-            <guid>https://www.elle.co.kr/article/60688</guid>
-            <pubDate>Wed, 27 Oct 2021 17:49:06 GMT</pubDate>
-            <content:encoded><![CDATA[우승 크루 발표를 지켜보던 모두의 똑같은 마음...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/56206ad2-9547-4a86-8035-8370acc917d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘서트부터 예능까지, '스우파' 크루들을 볼 수 있는 향후 스케줄.zip]]></title>
-            <link>https://www.elle.co.kr/article/60672</link>
-            <guid>https://www.elle.co.kr/article/60672</guid>
-            <pubDate>Wed, 27 Oct 2021 17:49:06 GMT</pubDate>
-            <content:encoded><![CDATA[끝났지만 끝난 게 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/693635e8-2710-4df9-af19-ff505ef58dd2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
