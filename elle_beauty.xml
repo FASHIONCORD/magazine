@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 17:52:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 홀리데이의 세계로]]></title>
+            <link>https://www.elle.co.kr/article/61453</link>
+            <guid>https://www.elle.co.kr/article/61453</guid>
+            <pubDate>Fri, 26 Nov 2021 17:48:31 GMT</pubDate>
+            <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 채정안의 환절기 보디 케어 필수템 4]]></title>
+            <link>https://www.elle.co.kr/article/61409</link>
+            <guid>https://www.elle.co.kr/article/61409</guid>
+            <pubDate>Fri, 26 Nov 2021 17:48:31 GMT</pubDate>
+            <content:encoded><![CDATA[피부 케어라면 아낌없이 투자하는 채정안의 환절기 보디 케어 필수템은 무엇?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/98c84907-e907-477e-9a07-72e8b78ca97d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금은 '보디 포지티브' 시대]]></title>
             <link>https://www.elle.co.kr/article/61404</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 17:49:23 GMT</pubDate>
             <content:encoded><![CDATA[드라마 속 배우 신현빈의 과거 VS 현재 스타일링]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/d25d74ba-8338-4a8a-b711-45afb68be973.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘너를 닮은 사람’ 고현정의 헤어스타일은 고데기일까? 펌일까?]]></title>
-            <link>https://www.elle.co.kr/article/61316</link>
-            <guid>https://www.elle.co.kr/article/61316</guid>
-            <pubDate>Mon, 22 Nov 2021 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[알고 보면 캐릭터의 서사가 모두 녹아들어간 스타일]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/2afd260a-9b18-494e-82be-b4644615811d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수면 메이트 Sleep Tight]]></title>
-            <link>https://www.elle.co.kr/article/61307</link>
-            <guid>https://www.elle.co.kr/article/61307</guid>
-            <pubDate>Sun, 21 Nov 2021 05:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[나날이 깊어지는 밤, 더 아늑하고 평온한 숙면생활을 위하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/1a1808ea-9232-4f52-b90d-32b5d54413db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

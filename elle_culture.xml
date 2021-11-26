@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 17:52:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피지컬+디지털=피지털 시대 !]]></title>
+            <link>https://www.elle.co.kr/article/61492</link>
+            <guid>https://www.elle.co.kr/article/61492</guid>
+            <pubDate>Fri, 26 Nov 2021 17:49:24 GMT</pubDate>
+            <content:encoded><![CDATA[가상과 현실의 경계를 무너뜨리는 피지털 패션의 시대가 도래했다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/f5a970d5-7ceb-4d8d-af61-7786d06291da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뺏긴 지 하루 만에 넷플릭스 세계 1위 탈환한 K-드라마가 있다? 벌써 열린 '지옥' 흥행문]]></title>
+            <link>https://www.elle.co.kr/article/61477</link>
+            <guid>https://www.elle.co.kr/article/61477</guid>
+            <pubDate>Fri, 26 Nov 2021 17:49:24 GMT</pubDate>
+            <content:encoded><![CDATA['오징어게임' 급 장기 흥행 조짐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b19c16f9-626d-4b20-92ce-c76c7d7e5805.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월요일부터 아미들 주모 찾게 만든 방탄소년단, 아시아 가수 최초 AMA 대상!]]></title>
             <link>https://www.elle.co.kr/article/61387</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 05:42:45 GMT</pubDate>
             <content:encoded><![CDATA[커피와 책, 전시를 한자리에서 만날 수 있는 복합문화공간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2078a366-f603-4aea-9406-ac634d2ea08d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시, 베를린에서 The faces of SILENCE]]></title>
-            <link>https://www.elle.co.kr/article/61268</link>
-            <guid>https://www.elle.co.kr/article/61268</guid>
-            <pubDate>Sat, 20 Nov 2021 11:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[2년 전 ‘2020 대구사진비엔날레’를 통해 만난 베를린의 독립 큐레이터 키아라 발치 마차라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/00dd310e-efb6-4e2f-93ee-737ad4cd517d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장현성 아들 준우가 벌써 고3이라고?! '슈돌' 아기들의 근황 모음]]></title>
-            <link>https://www.elle.co.kr/article/61224</link>
-            <guid>https://www.elle.co.kr/article/61224</guid>
-            <pubDate>Sat, 20 Nov 2021 11:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[세월아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/cc8a2fc4-a966-48b2-83df-4805b4eb6d47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
