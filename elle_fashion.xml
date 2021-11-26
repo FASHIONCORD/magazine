@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 17:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 제일 잘 나가! 릴 나스 엑스의 패션 센스]]></title>
+            <link>https://www.elle.co.kr/article/61444</link>
+            <guid>https://www.elle.co.kr/article/61444</guid>
+            <pubDate>Fri, 26 Nov 2021 05:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[실험적이고 파격적이다. 릴 나스 엑스의 남다른 패션 감각.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/989fb3a3-33bd-4646-911a-f8d1593a74c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[업데이트된 패피들의 스트릿 룩]]></title>
             <link>https://www.elle.co.kr/article/61443</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 05:40:12 GMT</pubDate>
             <content:encoded><![CDATA[포근하고 부드러운 '쿠션 형태'로 이목을 집중 시킨 '차명'의 디자이너 차명은을 만났다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/704b91b7-061c-4896-87f7-a0c003ea1ce3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨트 코트 시대]]></title>
-            <link>https://www.elle.co.kr/article/61351</link>
-            <guid>https://www.elle.co.kr/article/61351</guid>
-            <pubDate>Tue, 23 Nov 2021 05:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[허리를 잘록하게 하는 클래식한 벨티드 코트가 돌아왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/88bf852e-9b98-4a49-b56c-03e420a15358.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
