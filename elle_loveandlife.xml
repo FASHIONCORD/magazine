@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 17:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 05:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말 모임에 딱! 오감을 모두 만족 시킬 와인 바]]></title>
+            <link>https://www.elle.co.kr/article/61382</link>
+            <guid>https://www.elle.co.kr/article/61382</guid>
+            <pubDate>Sat, 27 Nov 2021 05:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[소중한 사람과 함께 한 해를 마무리하고 싶어지는 연말! 깊어가는 겨울 밤을 더욱 특별하게 만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/9f3f1a97-123e-4a4b-88f8-fb9795df3252.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[논밭과 바다에 돌창고까지! 다채로운 풍경과 색다른 휴식이 있는 남해 카페 셋 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/61345</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 20 Nov 2021 11:10:35 GMT</pubDate>
             <content:encoded><![CDATA[일찍 방문하는 힙스터가 맛집 줄을 안 선다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/6c4e3890-e13a-4ce3-8954-63ffa6d1fc91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이글 맛집 찾고 있다면 여기! #베이글핫플 3]]></title>
-            <link>https://www.elle.co.kr/article/61175</link>
-            <guid>https://www.elle.co.kr/article/61175</guid>
-            <pubDate>Thu, 18 Nov 2021 17:55:14 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 핫한 베이커리, 담백하고 고소한 베이글을 맛볼 수 있는 핫플레이스를 소개합니다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/14/36cf1786-1969-4325-a435-288e0133097d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
