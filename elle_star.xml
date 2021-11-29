@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 17:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 05:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[38년 만에 자취 시작한 산다라박이 최초 공개한 자택과 첫 집들이 현장]]></title>
+            <link>https://www.elle.co.kr/article/61544</link>
+            <guid>https://www.elle.co.kr/article/61544</guid>
+            <pubDate>Mon, 29 Nov 2021 05:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[자취방 콘셉트는 '일탈'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/d11c6aea-c878-4f06-8f88-6af890c5d575.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라인업 무슨 일? 산다라박 동생부터 원조 사이버가수 아담까지 나오는 '싱어게인2' 출연자.list]]></title>
             <link>https://www.elle.co.kr/article/61537</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 05:41:02 GMT</pubDate>
             <content:encoded><![CDATA[허니제이가 말한 '댄서들의 대잔치'에 참석한 '스우파' 팬들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/623e29c7-daca-4d48-abfa-6859308b7a47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연예계 대표 사랑꾼 김재우가 아내를 위해 만든 다이어트 식단은? (feat. 뜻밖의 반응)]]></title>
-            <link>https://www.elle.co.kr/article/61467</link>
-            <guid>https://www.elle.co.kr/article/61467</guid>
-            <pubDate>Fri, 26 Nov 2021 05:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[탄수화물 부족은 못 참지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/fb945d24-4570-4ce6-8f7e-f7ce382393b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
