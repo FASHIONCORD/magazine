@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 05:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 17:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[38년 만에 자취 시작한 산다라박이 최초 공개한 자택과 첫 집들이 현장]]></title>
+            <link>https://www.elle.co.kr/article/61544</link>
+            <guid>https://www.elle.co.kr/article/61544</guid>
+            <pubDate>Mon, 29 Nov 2021 17:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[자취방 콘셉트는 '일탈'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/d11c6aea-c878-4f06-8f88-6af890c5d575.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라인업 무슨 일? 산다라박 동생부터 원조 사이버가수 아담까지 나오는 '싱어게인2' 출연자.list]]></title>
             <link>https://www.elle.co.kr/article/61537</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 Nov 2021 17:49:37 GMT</pubDate>
             <content:encoded><![CDATA[이제 다음은 그래미?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/7752c3fa-df21-49f2-9bd3-985905d4fcf1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실 찐친? ‘술꾼도시여자들’의 3인 3색 스타일 탐구 (feat. 정은지, 이선빈, 한선화)]]></title>
-            <link>https://www.elle.co.kr/article/61335</link>
-            <guid>https://www.elle.co.kr/article/61335</guid>
-            <pubDate>Thu, 25 Nov 2021 17:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[리얼한 연기로 화제 만발! 본격 ‘기승전술’ 드라마 &lt;술꾼도시여자들&gt;의 정은지, 이선빈, 한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/d16007f7-2400-4078-bcd1-16eaa8e6d267.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
