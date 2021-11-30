@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 17:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스우파' 리더즈가 '스걸파' 선생님이 된다면? 캐릭터 확실히 보이는 급훈 모음 (feat. 서예가 딸)]]></title>
+            <link>https://www.elle.co.kr/article/61670</link>
+            <guid>https://www.elle.co.kr/article/61670</guid>
+            <pubDate>Tue, 30 Nov 2021 17:49:37 GMT</pubDate>
+            <content:encoded><![CDATA["뽐" - 가비]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/d16b8600-4baa-4ac0-bc74-9618a9a85993.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[38년 만에 자취 시작한 산다라박이 최초 공개한 자택과 첫 집들이 현장]]></title>
             <link>https://www.elle.co.kr/article/61544</link>
@@ -102,14 +110,6 @@
             <pubDate>Sat, 06 Nov 2021 05:42:17 GMT</pubDate>
             <content:encoded><![CDATA[각각 '전지적 참견 시점'과 '나 혼자 산다'에 출연한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/d5b94c5e-70fe-458a-bde3-668dfa091ba5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30대에도 위화감 없는 교복! 한효주 5년 만의 드라마 복귀작 '해피니스' 내용은?]]></title>
-            <link>https://www.elle.co.kr/article/60936</link>
-            <guid>https://www.elle.co.kr/article/60936</guid>
-            <pubDate>Sat, 06 Nov 2021 05:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[상큼해 보이는 제목과 그렇지 못한 내용...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/2dc2f3f6-cca9-4aab-8c2f-1d044df0fce5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
