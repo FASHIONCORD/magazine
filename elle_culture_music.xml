@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 05:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 17:54:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기]]></title>
+            <link>https://www.elle.co.kr/article/61736</link>
+            <guid>https://www.elle.co.kr/article/61736</guid>
+            <pubDate>Fri, 03 Dec 2021 17:52:20 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대, 샤이니, f(x), 엑소, 레드벨벳, NCT의 이미지를 만든 인물.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/1fdeae7d-ca2e-4cc9-b04f-6a590b83410f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단이 디자이너 버질 아블로 사망에 각별한 애도를 전한 까닭]]></title>
             <link>https://www.elle.co.kr/article/61623</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
             <content:encoded><![CDATA[DF는 어떻게 국힙 세계관 1인자가 됐을까? 박동준, 김민정, 장백산 3PD 가 말한다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/18/c06f2862-9901-4e5e-83e8-07622397faf8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K팝을 브랜딩하다! '허스키폭스' 이두희&정기영 #KPOP #케이팝]]></title>
-            <link>https://www.elle.co.kr/article/58610</link>
-            <guid>https://www.elle.co.kr/article/58610</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[1theK를 브랜딩하고 BTS 앨범으로 그래미 어워즈까지 진출한 이 사람들, 대체 누구야?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/21/8ce97a53-8982-4128-8882-5315f43f37e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
