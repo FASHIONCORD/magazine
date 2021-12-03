@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 17:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기]]></title>
+            <link>https://www.elle.co.kr/article/61736</link>
+            <guid>https://www.elle.co.kr/article/61736</guid>
+            <pubDate>Fri, 03 Dec 2021 05:47:19 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대, 샤이니, f(x), 엑소, 레드벨벳, NCT의 이미지를 만든 인물.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/1fdeae7d-ca2e-4cc9-b04f-6a590b83410f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자들의 여정]]></title>
             <link>https://www.elle.co.kr/article/61682</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 15 Oct 2021 05:43:43 GMT</pubDate>
             <content:encoded><![CDATA[수많은 셀럽들이 이미 방문한 그 전시.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/6e82e140-78fa-49e4-8b48-50e5fd3c7bac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원의 오래된 빌라가 취향 좋은 주인을 만났다 #인테리어]]></title>
-            <link>https://www.elle.co.kr/article/59103</link>
-            <guid>https://www.elle.co.kr/article/59103</guid>
-            <pubDate>Wed, 06 Oct 2021 17:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[20여 년에 걸친 세월의 흔적을 켜켜이 입은 낡은 빌라가 상상력과 즉흥적인 DNA를 지닌 새...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/b1b71253-1065-4c7b-bf33-f9b3b6637693.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 17:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주적 영감으로 가득 찬 아이템]]></title>
+            <link>https://www.elle.co.kr/article/61423</link>
+            <guid>https://www.elle.co.kr/article/61423</guid>
+            <pubDate>Fri, 03 Dec 2021 05:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[우주적 영감으로 가득 찬 2021년의 패션&amp;뷰티 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7a2ea904-31f4-4c41-b201-752ff617595d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 디지털 세상 속으로]]></title>
             <link>https://www.elle.co.kr/article/61381</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 17:48:31 GMT</pubDate>
             <content:encoded><![CDATA[피부 케어라면 아낌없이 투자하는 채정안의 환절기 보디 케어 필수템은 무엇?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/98c84907-e907-477e-9a07-72e8b78ca97d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 '보디 포지티브' 시대]]></title>
-            <link>https://www.elle.co.kr/article/61404</link>
-            <guid>https://www.elle.co.kr/article/61404</guid>
-            <pubDate>Fri, 26 Nov 2021 05:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[누군가에게 살을 빼고 싶다는 속마음을 드러낸다면, 내가 비정상인걸까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/7857cea4-6179-465b-8a7f-327db66eba0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
