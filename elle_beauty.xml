@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 05:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 17:55:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약이야? 화장품이야? 제약회사가 만든 화장품 9_선배's 어드바이스 #93]]></title>
+            <link>https://www.elle.co.kr/article/61612</link>
+            <guid>https://www.elle.co.kr/article/61612</guid>
+            <pubDate>Sat, 04 Dec 2021 17:49:03 GMT</pubDate>
+            <content:encoded><![CDATA[약으로 다진 내공, 화장품으로 피어나다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/959c4e7d-4554-4389-8071-568cc4d4ea35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주적 영감으로 가득 찬 아이템]]></title>
             <link>https://www.elle.co.kr/article/61423</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 17:48:31 GMT</pubDate>
             <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 채정안의 환절기 보디 케어 필수템 4]]></title>
-            <link>https://www.elle.co.kr/article/61409</link>
-            <guid>https://www.elle.co.kr/article/61409</guid>
-            <pubDate>Fri, 26 Nov 2021 17:48:31 GMT</pubDate>
-            <content:encoded><![CDATA[피부 케어라면 아낌없이 투자하는 채정안의 환절기 보디 케어 필수템은 무엇?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/98c84907-e907-477e-9a07-72e8b78ca97d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
