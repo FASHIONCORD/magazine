@@ -1,6 +1,6 @@
 # 패션 매거진
 
-## [하입비스트](https://github.com/fashioncord/hypebeast)
+## [하입비스트](https://github.com/FASHIONCORD/hypebeast)
 https://hypebeast.kr/feed/  
 - 패션: https://hypebeast.kr/fashion/feed/  
 - 신발: https://hypebeast.kr/footwear/feed/  
@@ -31,17 +31,17 @@ https://fashioncord.github.io/hypebeast/all.xml
 
 ## 지큐 코리아 | 두산매거진
 https://www.gqkorea.co.kr/feed/  
-- style: https://www.gqkorea.co.kr/category/style/feed/  
-- sneakers: https://www.gqkorea.co.kr/category/sneakers/feed/  
-- grooming: https://www.gqkorea.co.kr/category/grooming/feed/  
-- entertainment: https://www.gqkorea.co.kr/category/entertainment/feed/  
-- travel & eats: https://www.gqkorea.co.kr/category/traveleats/feed/  
-- car & tech: https://www.gqkorea.co.kr/category/cartech/feed/  
-- watch: https://www.gqkorea.co.kr/category/watch/feed/  
-- video: https://www.gqkorea.co.kr/category/video/feed/  
-- sex: https://www.gqkorea.co.kr/category/sex/feed/  
+- STYLE: https://www.gqkorea.co.kr/category/style/feed/  
+- SNEAKERS: https://www.gqkorea.co.kr/category/sneakers/feed/  
+- GROOMING: https://www.gqkorea.co.kr/category/grooming/feed/  
+- ENTERTAINMENT: https://www.gqkorea.co.kr/category/entertainment/feed/  
+- TRAVEL & EATS: https://www.gqkorea.co.kr/category/traveleats/feed/  
+- CAR & TECH: https://www.gqkorea.co.kr/category/cartech/feed/  
+- WATCH: https://www.gqkorea.co.kr/category/watch/feed/  
+- VIDEO: https://www.gqkorea.co.kr/category/video/feed/  
+- SEX: https://www.gqkorea.co.kr/category/sex/feed/  
 
-## [보그 코리아](https://github.com/fashioncord/vogue) | 두산매거진
+## [보그 코리아](https://github.com/FASHIONCORD/vogue) | 두산매거진
 https://fashioncord.github.io/vogue/all.xml
 - https://fashioncord.github.io/vogue/fashion.xml
 - https://fashioncord.github.io/vogue/beauty.xml
@@ -52,33 +52,33 @@ https://fashioncord.github.io/vogue/all.xml
 
 ## 얼루어 코리아 | 두산매거진
 https://www.allurekorea.com/feed/
-- beauty: https://www.allurekorea.com/category/beauty/feed/
-- fashion: https://www.allurekorea.com/category/fashion/feed/
-- feature: https://www.allurekorea.com/category/feature/feed/
-- celebrity: https://www.allurekorea.com/category/celebrity/feed/
-- wellness: https://www.allurekorea.com/category/wellness/feed/
-- video: https://www.allurekorea.com/video/feed/
+- BEAUTY: https://www.allurekorea.com/category/beauty/feed/
+- FASHION: https://www.allurekorea.com/category/fashion/feed/
+- FEATURE: https://www.allurekorea.com/category/feature/feed/
+- CELEBRITY: https://www.allurekorea.com/category/celebrity/feed/
+- WELLNESS: https://www.allurekorea.com/category/wellness/feed/
+- VIDEO: https://www.allurekorea.com/video/feed/
 
 ## 더블유 코리아 | 두산매거진
 https://www.wkorea.com/feed/
-- fashion: https://www.wkorea.com/category/fashion/feed/
-- beauty: https://www.wkorea.com/category/beauty/feed/
-- feature: https://www.wkorea.com/category/feature/feed/
-- sustainable: https://www.wkorea.com/category/sustainable/feed/
-- what’s new: https://www.wkorea.com/category/whats-new/feed/
-- horoscope: https://www.wkorea.com/category/horoscope/feed/
-- w tv: https://www.wkorea.com/category/w-tv/feed/
-- collection tv: https://www.wkorea.com/category/collection-tv/feed/
-- love your w: https://www.wkorea.com/category/love-your-w/feed/
+- FASHION: https://www.wkorea.com/category/fashion/feed/
+- BEAUTY: https://www.wkorea.com/category/beauty/feed/
+- FEATURE: https://www.wkorea.com/category/feature/feed/
+- SUSTAINABLE: https://www.wkorea.com/category/sustainable/feed/
+- WHAT’S NEW: https://www.wkorea.com/category/whats-new/feed/
+- HOROSCOPE: https://www.wkorea.com/category/horoscope/feed/
+- W TV: https://www.wkorea.com/category/w-tv/feed/
+- COLLECTION TV: https://www.wkorea.com/category/collection-tv/feed/
+- LOVE YOUR W: https://www.wkorea.com/category/love-your-w/feed/
 
-## [엘르 코리아](https://github.com/fashioncord/elle) | 허스트중앙
+## [엘르 코리아](https://github.com/FASHIONCORD/elle) | 허스트중앙
 https://fashioncord.github.io/elle/all.xml
 - 패션: https://fashioncord.github.io/elle/fashion.xml
 - 뷰티: https://fashioncord.github.io/elle/beauty.xml
 - 스타: https://fashioncord.github.io/elle/star.xml
 - 컬쳐: https://fashioncord.github.io/elle/culture.xml
    - 뮤직: https://fashioncord.github.io/elle/culture_music.xml
-   - 무비&tv: https://fashioncord.github.io/elle/culture_moviesandtv.xml
+   - 무비&TV: https://fashioncord.github.io/elle/culture_moviesandtv.xml
    - 아트&디자인: https://fashioncord.github.io/elle/culture_artanddesign.xml
 - 러브&라이프: https://fashioncord.github.io/elle/loveandlife.xml
 - 소사이어티: https://fashioncord.github.io/elle/society.xml
@@ -90,7 +90,7 @@ https://fashioncord.github.io/elle/all.xml
 - https://fashioncord.github.io/elle/naverpost_elle_star.xml
 - https://fashioncord.github.io/elle/naverpost_elle_notice.xml
 
-## [하퍼스바자 코리아](https://github.com/fashioncord/harpersbazaar) | 허스트중앙
+## [하퍼스바자 코리아](https://github.com/FASHIONCORD/harpersbazaar) | 허스트중앙
 https://fashioncord.github.io/harpersbazaar/all.xml
 - https://fashioncord.github.io/harpersbazaar/fashion.xml
 - https://fashioncord.github.io/harpersbazaar/beauty.xml
@@ -106,7 +106,7 @@ https://fashioncord.github.io/harpersbazaar/all.xml
 - https://fashioncord.github.io/harpersbazaar/naverpost_event.xml
 - https://fashioncord.github.io/harpersbazaar/naverpost_art.xml
 
-## [코스모폴리탄 코리아](https://github.com/fashioncord/cosmopolitan) | 허스트중앙
+## [코스모폴리탄 코리아](https://github.com/FASHIONCORD/cosmopolitan) | 허스트중앙
 https://fashioncord.github.io/cosmopolitan/all.xml
 - https://fashioncord.github.io/cosmopolitan/fashion.xml
 - https://fashioncord.github.io/cosmopolitan/beauty.xml
@@ -115,7 +115,7 @@ https://fashioncord.github.io/cosmopolitan/all.xml
 - https://fashioncord.github.io/cosmopolitan/life.xml
 - https://fashioncord.github.io/cosmopolitan/cofficial.xml
 
-## [에스콰이어 코리아](https://github.com/fashioncord/esquire) | 허스트중앙
+## [에스콰이어 코리아](https://github.com/FASHIONCORD/esquire) | 허스트중앙
 https://fashioncord.github.io/esquire/all.xml
 - https://fashioncord.github.io/esquire/style.xml
 - https://fashioncord.github.io/esquire/watch.xml
@@ -127,7 +127,7 @@ https://fashioncord.github.io/esquire/all.xml
 - https://fashioncord.github.io/esquire/eshop.xml
 
 # 플랫폼
-## [무신사](https://github.com/fashioncord/musinsa)
+## [무신사](https://github.com/FASHIONCORD/musinsa)
 https://fashioncord.github.io/musinsa/all.xml
 - https://fashioncord.github.io/musinsa/news.xml
 - https://fashioncord.github.io/musinsa/magazine.xml
