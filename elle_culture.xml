@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 17:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기]]></title>
+            <link>https://www.elle.co.kr/article/61736</link>
+            <guid>https://www.elle.co.kr/article/61736</guid>
+            <pubDate>Mon, 06 Dec 2021 05:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[소녀시대, 샤이니, f(x), 엑소, 레드벨벳, NCT의 이미지를 만든 인물.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/1fdeae7d-ca2e-4cc9-b04f-6a590b83410f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열애설 30분 만에 인정한 손담비X이규혁 커플의 연결 고리는?]]></title>
             <link>https://www.elle.co.kr/article/61726</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Dec 2021 17:47:54 GMT</pubDate>
             <content:encoded><![CDATA[예술사에서 전무후무한 캐릭터, 살바도르 달리와 떠나는 초현실적 아트 월드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/01096355-9296-4abf-8250-8c5f1e181ddc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살바도르 달리의 전시가 한국에 상륙했다!]]></title>
-            <link>https://www.elle.co.kr/article/61584</link>
-            <guid>https://www.elle.co.kr/article/61584</guid>
-            <pubDate>Wed, 01 Dec 2021 05:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[독보적인 예술가, 살바도르 달리. 그의 원화를 만날 수 있는 대규모 전시가 한국에 상륙했다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/03fdf3bb-3c15-4ffd-a28b-2ce984d0fdeb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

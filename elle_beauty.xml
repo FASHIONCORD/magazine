@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 17:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
+            <link>https://www.elle.co.kr/article/61369</link>
+            <guid>https://www.elle.co.kr/article/61369</guid>
+            <pubDate>Mon, 06 Dec 2021 05:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[약이야? 화장품이야? 제약회사가 만든 화장품 9_선배's 어드바이스 #93]]></title>
             <link>https://www.elle.co.kr/article/61612</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 05:42:31 GMT</pubDate>
             <content:encoded><![CDATA[탄수화물 부족은 못 참지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/fb945d24-4570-4ce6-8f7e-f7ce382393b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 홀리데이의 세계로]]></title>
-            <link>https://www.elle.co.kr/article/61453</link>
-            <guid>https://www.elle.co.kr/article/61453</guid>
-            <pubDate>Fri, 26 Nov 2021 17:48:31 GMT</pubDate>
-            <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
