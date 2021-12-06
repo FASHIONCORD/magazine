@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 17:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DRIVERS: 미스터 우 & 닷지 챌린저 R/T]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32892054&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32892054&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 06 Dec 2021 17:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfODgg/MDAxNjM4Nzc5MTY2Nzky.OSz_QfTMrcpTSRVAlofpVQ4f-A27eHzOn7lBoyQL06Ug.bTCe47pszXAv1AmHxIkSYbmbrJpyHK4TxgSUK27ENekg.JPEG/I71HjW4Clbo2Xu8JMHbclTn5VS3w.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<하입비스트>가 포착한 현대자동차 ‘헤리티지 시리즈 그랜저’ 실물 들여다보기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32811216&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMDJfNiAg/MDAxNjAxNjE4MTg3OTE2.nq7wK-ps7yF20qV-UerzbWJ3r9yrbimSFYj54IJzTpQg.9_S8lLGMNl65FWk-xPPmDC6yNfMBvSJqgnAVmS_cItwg.JPEG/I6wHsu5qgNXy-KeirX9jfrHtLZE0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 대항마, 전기차 ‘루시드 에어’의 예약판매가 시작됐다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29407893&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29407893&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MTFfMTYw/MDAxNTk5Nzk0OTgxNDI2.XrkBNtSLaSL5sARMUg_WwMGDGCX1-0Jcy2LHGi6tT5Ig.6a51RrhTLcIsgXQBW-r3wzMPqUXptlw_pEDMxFYOBbEg.JPEG/IE5d4J5w9RUJ_fcKi1lbdmzwklZk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

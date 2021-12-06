@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 17:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TV 속 개성 만점 여성들이 뜬다]]></title>
+            <link>https://www.elle.co.kr/article/61663</link>
+            <guid>https://www.elle.co.kr/article/61663</guid>
+            <pubDate>Mon, 06 Dec 2021 17:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[쎄도 돼! 악마 같아도 돼! 술 잘 마셔도 돼! 이전에는 쉽게 본 적 없었던 개성 만점 여성...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e35f832c-a8e4-4174-b0ca-817db9e3094e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월화수목토토토…주4일제가 온다_돈쓸신잡_#21]]></title>
+            <link>https://www.elle.co.kr/article/61499</link>
+            <guid>https://www.elle.co.kr/article/61499</guid>
+            <pubDate>Mon, 06 Dec 2021 17:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[주4일제를 실험한 결과는 놀라웠다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/cebc0ed3-219a-4e45-81e5-33ae5d5aaa23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 강렬한 완다_요주의 여성 #38]]></title>
             <link>https://www.elle.co.kr/article/61329</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 20 Nov 2021 11:10:46 GMT</pubDate>
             <content:encoded><![CDATA[페이스북의 영향력이 예전 같지 않다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/e1859a6a-ce27-443e-8c63-5a5076158af4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고통의 언어없이 타인의 고통을 어떻게 설명할 수 있을까? #엘르보이스]]></title>
-            <link>https://www.elle.co.kr/article/61207</link>
-            <guid>https://www.elle.co.kr/article/61207</guid>
-            <pubDate>Thu, 18 Nov 2021 17:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[백세희 작가가 동네에서 마주친 강아지 다섯 마리를 지나치지 못한 이유. 일단 살리고 보자! ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/2b9d152e-02f7-4fef-9990-a0583f3e990e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공효진은 오늘도 왜?_요주의 여성 #37]]></title>
-            <link>https://www.elle.co.kr/article/61186</link>
-            <guid>https://www.elle.co.kr/article/61186</guid>
-            <pubDate>Thu, 18 Nov 2021 05:53:38 GMT</pubDate>
-            <content:encoded><![CDATA[“환경에 진심”인 공효진에게 이심전심, &lt;오늘부터 무해하게&gt;.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/bffcc6a7-38d7-475c-80a0-e13034462084.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

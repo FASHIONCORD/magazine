@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 17:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송년회의 계절! 우아하게 모일 수 있는 서울 와인 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/61639</link>
+            <guid>https://www.elle.co.kr/article/61639</guid>
+            <pubDate>Mon, 06 Dec 2021 17:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[다인원은 자제합시다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/938a76c8-1d66-4b4c-a2dc-56beb9e2d11b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[교과서에서만 보던 계단식 논밭과 양떼 목장까지? 영화 같은 남해 명소 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/61575</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 05:44:28 GMT</pubDate>
             <content:encoded><![CDATA[뷰 맛집에서 먹는 음식들은 더 꿀맛.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/789c01f1-36e4-4b0c-b2b5-5f85f85f9b15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 기기 1도 없는 안드로이드 유저의 애플TV 4K 솔직 후기]]></title>
-            <link>https://www.elle.co.kr/article/61327</link>
-            <guid>https://www.elle.co.kr/article/61327</guid>
-            <pubDate>Wed, 24 Nov 2021 05:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[사용자를 애플 생태계로 유혹하는 애플TV 4K.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/f445e55f-ce91-4ed8-a94e-b7c0db1aa7c7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

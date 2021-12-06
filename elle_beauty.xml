@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 17:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔라의 10단계 스트레칭 따라하기]]></title>
+            <link>https://www.elle.co.kr/article/61698</link>
+            <guid>https://www.elle.co.kr/article/61698</guid>
+            <pubDate>Mon, 06 Dec 2021 17:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[스트레칭으로 운동효과 2배! 솔라가 소개하는 운동 전 스트레칭법 따라해볼까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/034d1f17-460c-45c7-a7e1-58ab94ba5dff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울철, 당신의 어깨와 등이 위험하다]]></title>
+            <link>https://www.elle.co.kr/article/61683</link>
+            <guid>https://www.elle.co.kr/article/61683</guid>
+            <pubDate>Mon, 06 Dec 2021 17:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[자꾸만 안으로 말리는 어깨와 군살이 쉽게 붙는 등을 1주일만에 바꿀 수 있다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/80f80bc5-9fb9-4404-a8e9-20e60f58a622.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EVERYDAY HOLIDAY]]></title>
             <link>https://www.elle.co.kr/article/61369</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 05:41:53 GMT</pubDate>
             <content:encoded><![CDATA[유명하다고, 친구가 했다고 무턱대고 따라 하지 않기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/aa731770-5ffc-49e6-8fe2-2b0de8caa05a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOLIDAY DREAM]]></title>
-            <link>https://www.elle.co.kr/article/61364</link>
-            <guid>https://www.elle.co.kr/article/61364</guid>
-            <pubDate>Mon, 29 Nov 2021 05:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[꿈속의 한 장면처럼 기억될 우리의 홀리데이 드림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연예계 대표 사랑꾼 김재우가 아내를 위해 만든 다이어트 식단은? (feat. 뜻밖의 반응)]]></title>
-            <link>https://www.elle.co.kr/article/61467</link>
-            <guid>https://www.elle.co.kr/article/61467</guid>
-            <pubDate>Mon, 29 Nov 2021 05:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[탄수화물 부족은 못 참지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/fb945d24-4570-4ce6-8f7e-f7ce382393b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
