@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 17:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 17:57:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 그리고 N°5]]></title>
+            <link>https://www.elle.co.kr/article/61610</link>
+            <guid>https://www.elle.co.kr/article/61610</guid>
+            <pubDate>Tue, 07 Dec 2021 17:51:21 GMT</pubDate>
+            <content:encoded><![CDATA[홀리데이 시즌을 맞아 더욱 새로워진 샤넬 N°5의 리미티드 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/4dfe1162-1ce0-40b2-b6dc-65f73d927c28.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[솔라의 10단계 스트레칭 따라하기]]></title>
             <link>https://www.elle.co.kr/article/61698</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 17:46:53 GMT</pubDate>
             <content:encoded><![CDATA[브랜드 담당자가 직접 전한 히든 꿀템은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/ef87d187-f68a-4b4e-bf44-5ed6f6076648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이저 시술, 친구 따라 강남 간다?_몸에 좋은 잔소리 #33]]></title>
-            <link>https://www.elle.co.kr/article/61534</link>
-            <guid>https://www.elle.co.kr/article/61534</guid>
-            <pubDate>Tue, 30 Nov 2021 05:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[유명하다고, 친구가 했다고 무턱대고 따라 하지 않기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/aa731770-5ffc-49e6-8fe2-2b0de8caa05a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

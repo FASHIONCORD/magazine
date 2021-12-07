@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 17:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 17:57:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최대 15만 원, 겨울 추천 액세서리 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32892403&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32892403&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 07 Dec 2021 17:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfMTA4/MDAxNjM4NzgxNDA3MjU3.V-JHr3svLe1JHgcLYiHC09SNEki71tCcClP6eFpjMakg.u-JtlL7GMtewo3RJQ5DG2QHfWs6ZWQQchcv8s0xBcFUg.JPEG/IRSU5hjxn6VQLbe6IUg0uWr8OEnM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wrist Check: '쇼미더머니 10' 프로듀서들이 착용한 시계는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32855820&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:56:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfMjIy/MDAxNjI2MTY1MTYwODQ2.Focx7dWtnuGQnzd7fPp3nCxReiTC_JWdlwDUZLqnV_wg.1G_88PCTB4nUTwab_GMlQlAuOwuvT0sYAEJWIdk-PrQg.JPEG/IdEx0sduUF-IjjTX40KjbacDw61E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['짭프림' 슈프림 이탈리아 만든 범인, 백억여 원 손해 배상 및 징역형 선고받았다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31902095&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31902095&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:56:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDVfNzIg/MDAxNjI1NDU2ODY1MTA0.dya_6Mb_-7eNomhVEdwhuba9ZSfq0vD189wsUXXiGzAg.ffGP4RxO1qNHDl4rPP3bxXx0pvpp5PjL9pCbbaczWkQg.JPEG/I9_Nq1fJaS4ODXOkewzjZJ2racyI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
