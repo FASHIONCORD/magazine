@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 17:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수영의 다이어트 파스타 레서피 2]]></title>
+            <link>https://www.elle.co.kr/article/61837</link>
+            <guid>https://www.elle.co.kr/article/61837</guid>
+            <pubDate>Wed, 08 Dec 2021 17:49:59 GMT</pubDate>
+            <content:encoded><![CDATA[다이어터가 된 수영이 고른 식재료는? 두부면을 이용한 다이어트 파스타 레서피를 참고해보세요....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/c9b14bad-fd99-4e48-b54b-394c9efe2540.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언제나 차별과 싸웠던 유도선수 안창림이 돌연 국가대표 은퇴를 선언한 배경]]></title>
             <link>https://www.elle.co.kr/article/61830</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 05:42:56 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 오리지널 '콜'을 찍다가 가까워졌다고.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/ca3c8c7c-90d3-4294-b4d7-b5354ae4fa79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장우영 집 미쉐린, 키 집 텔레토비 그린 건 누구? 요즘 대세 일러스트레이터 김세동]]></title>
-            <link>https://www.elle.co.kr/article/61769</link>
-            <guid>https://www.elle.co.kr/article/61769</guid>
-            <pubDate>Mon, 06 Dec 2021 05:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[팝 아트에 도전한 기안84가 조언을 구한 아티스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/7af7f714-0fff-4ba3-8332-3520c7f63062.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

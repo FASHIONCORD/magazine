@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 17:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<엘르>의 새로운 약속, 퍼 프리(FUR-FREE)]]></title>
+            <link>https://www.elle.co.kr/article/61758</link>
+            <guid>https://www.elle.co.kr/article/61758</guid>
+            <pubDate>Wed, 08 Dec 2021 17:56:04 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르&gt;가 꼿꼿하게 지켜나갈 다짐, 퍼 프리(FUR-FREE).]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/2c2cf076-4da7-40eb-ae71-6d1add2af728.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김성령이 청와대로 간 이유_요주의 여성 #39]]></title>
+            <link>https://www.elle.co.kr/article/61756</link>
+            <guid>https://www.elle.co.kr/article/61756</guid>
+            <pubDate>Wed, 08 Dec 2021 17:56:04 GMT</pubDate>
+            <content:encoded><![CDATA["쉽게 뭔가를 얻는 여자는 없다고, 이 나라엔."]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/c2724cec-cdf7-4a0f-8779-e070f23a1ecf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파이어족, 불가능한 꿈이 아닙니다_돈쓸신잡 #22]]></title>
             <link>https://www.elle.co.kr/article/61738</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 03 Dec 2021 05:49:42 GMT</pubDate>
             <content:encoded><![CDATA[꼭 그런 건 아니지만 그렇다고 볼 수도 있는 이 애매한 상황.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/a07c532b-3e73-496d-acfd-40fb0b0c260d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들도 이렇게 열심히 재테크를 한다_돈쓸신잡 #20 #기리보이 #소유 #기욤패트리]]></title>
-            <link>https://www.elle.co.kr/article/61279</link>
-            <guid>https://www.elle.co.kr/article/61279</guid>
-            <pubDate>Wed, 01 Dec 2021 05:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[기리보이, 소유, 기욤 패트리가 부자가 된 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/d049cc5c-4530-4385-8510-48be3b8081a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀라노 할머니 장명숙의 패션 상담소! 진짜 명품은 뭐가 달라? (feat.이탈리아)]]></title>
-            <link>https://www.elle.co.kr/article/61257</link>
-            <guid>https://www.elle.co.kr/article/61257</guid>
-            <pubDate>Thu, 25 Nov 2021 05:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[유튜버 밀라논나로 활동하는 장명숙이 정의하는 진정한 명품이란 이런 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/f5536181-9847-420a-a5e0-28f66eacd06c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
