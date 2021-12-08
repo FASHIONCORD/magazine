@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 17:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언제나 차별과 싸웠던 유도선수 안창림이 돌연 국가대표 은퇴를 선언한 배경]]></title>
+            <link>https://www.elle.co.kr/article/61830</link>
+            <guid>https://www.elle.co.kr/article/61830</guid>
+            <pubDate>Wed, 08 Dec 2021 05:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[아쉬운 태극마크 반납.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/bb18a860-af3b-4842-b9de-a81579b8d014.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[군백기는 있어도 얼굴 공백기는 없다. 서강준의 입대 전 마지막 화보]]></title>
+            <link>https://www.elle.co.kr/article/61816</link>
+            <guid>https://www.elle.co.kr/article/61816</guid>
+            <pubDate>Wed, 08 Dec 2021 05:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[겨울밤 공기 속 피어오른 입김처럼. 서강준의 담담함. 그리고 그 틈새의 온기에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/a825d333-b722-4790-a4fc-dcd3527fac9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그림체 완전 다른 두 사람, 알고 보니 찐친? 오마이걸 효정X홀리뱅 제인]]></title>
             <link>https://www.elle.co.kr/article/61807</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 05:42:56 GMT</pubDate>
             <content:encoded><![CDATA[팝 아트에 도전한 기안84가 조언을 구한 아티스트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/7af7f714-0fff-4ba3-8332-3520c7f63062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악으로 하나된 역대급 라인업! #코쿤 #이찬혁 #소금 #콜드 #윤계상 #문가영을 연결시킨 엘르의 두 번째 뮤직 프로젝트 #ELLE리커넥트]]></title>
-            <link>https://www.elle.co.kr/article/61745</link>
-            <guid>https://www.elle.co.kr/article/61745</guid>
-            <pubDate>Mon, 06 Dec 2021 05:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[놀라운 조합으로 다시 뭉친 '리커넥트' 팀! 아름답고 치열한 우리의 지금을 위한 &lt;엘르&gt;의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/119cda64-5d2d-4512-9682-77aeb24bef28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기]]></title>
-            <link>https://www.elle.co.kr/article/61736</link>
-            <guid>https://www.elle.co.kr/article/61736</guid>
-            <pubDate>Mon, 06 Dec 2021 05:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대, 샤이니, f(x), 엑소, 레드벨벳, NCT의 이미지를 만든 인물.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/1fdeae7d-ca2e-4cc9-b04f-6a590b83410f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

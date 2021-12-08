@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 17:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/0989df24-d5a7-4dce-adf4-cd3f973b03ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연말에 뭐해? 나 혼자 스파 가지 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/61799</link>
+            <guid>https://www.elle.co.kr/article/61799</guid>
+            <pubDate>Wed, 08 Dec 2021 05:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[시끌벅적하게 놀다가 확진자 되는 수가 있다. 한해 동안 수고한 나를 위하여, 혼자 조용하고 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/5b8b03a7-696d-4d20-bd24-6d071ca0d918.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤넬 그리고 N°5 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/61610</link>
             <guid>https://www.elle.co.kr/article/61610</guid>
@@ -1920,12 +1928,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아는 사람만 안다?! 뷰티 브랜드의 숨은 꿀템.list (feat. 프레쉬, 헉슬리, 록시땅) (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/61545</link>
-            <guid>https://www.elle.co.kr/article/61545</guid>
-            <pubDate>Tue, 30 Nov 2021 17:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 담당자가 직접 전한 히든 꿀템은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/ef87d187-f68a-4b4e-bf44-5ed6f6076648.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[언제나 차별과 싸웠던 유도선수 안창림이 돌연 국가대표 은퇴를 선언한 배경 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/61830</link>
+            <guid>https://www.elle.co.kr/article/61830</guid>
+            <pubDate>Wed, 08 Dec 2021 05:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[아쉬운 태극마크 반납.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/bb18a860-af3b-4842-b9de-a81579b8d014.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[군백기는 있어도 얼굴 공백기는 없다. 서강준의 입대 전 마지막 화보 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/61816</link>
+            <guid>https://www.elle.co.kr/article/61816</guid>
+            <pubDate>Wed, 08 Dec 2021 05:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[겨울밤 공기 속 피어오른 입김처럼. 서강준의 담담함. 그리고 그 틈새의 온기에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/a825d333-b722-4790-a4fc-dcd3527fac9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그림체 완전 다른 두 사람, 알고 보니 찐친? 오마이걸 효정X홀리뱅 제인 (엘르 코리아 ─ 스타)]]></title>
@@ -1947,7 +1963,7 @@
             <title><![CDATA[겨울에 딱! 클래식해서 매력적인 영화 <캐롤> 속 패션 #옷잘입는언니 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/61793</link>
             <guid>https://www.elle.co.kr/article/61793</guid>
-            <pubDate>Tue, 07 Dec 2021 17:51:34 GMT</pubDate>
+            <pubDate>Tue, 07 Dec 2021 17:50:39 GMT</pubDate>
             <content:encoded><![CDATA[겨울이면 생각나는 영화 &lt;캐롤&gt;. 50년대 뉴욕을 배경으로 우아한 케이트 블란쳇과 사랑스러운...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/fddc6dad-bb5d-4df7-a2f5-32db21a84458.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1976,20 +1992,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/7af7f714-0fff-4ba3-8332-3520c7f63062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[음악으로 하나된 역대급 라인업! #코쿤 #이찬혁 #소금 #콜드 #윤계상 #문가영을 연결시킨 엘르의 두 번째 뮤직 프로젝트 #ELLE리커넥트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/61745</link>
-            <guid>https://www.elle.co.kr/article/61745</guid>
-            <pubDate>Mon, 06 Dec 2021 05:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[놀라운 조합으로 다시 뭉친 '리커넥트' 팀! 아름답고 치열한 우리의 지금을 위한 &lt;엘르&gt;의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/119cda64-5d2d-4512-9682-77aeb24bef28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/61736</link>
-            <guid>https://www.elle.co.kr/article/61736</guid>
-            <pubDate>Thu, 02 Dec 2021 17:50:18 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대, 샤이니, f(x), 엑소, 레드벨벳, NCT의 이미지를 만든 인물.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/1fdeae7d-ca2e-4cc9-b04f-6a590b83410f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국내 유일의 잡지전문공간, ‘종이잡지클럽’_주간책방 #7 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/61739</link>
+            <guid>https://www.elle.co.kr/article/61739</guid>
+            <pubDate>Wed, 08 Dec 2021 05:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[커피 한 잔 값으로 지적 허영을 채울 수 있는 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/363619d9-bd97-4188-baa9-cd985e0ddd4c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2046,14 +2054,6 @@
             <pubDate>Mon, 29 Nov 2021 05:45:53 GMT</pubDate>
             <content:encoded><![CDATA[조각가 권진규와 사진가 목정욱의 만남.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c89c4ab5-ba2b-4e44-a4ee-b2fc97c78b80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기상천외한 초현실주의 미술의 세계를 이해하고 싶다면? 살바도르 달리 전시회로 #인싸 전시_39 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/61591</link>
-            <guid>https://www.elle.co.kr/article/61591</guid>
-            <pubDate>Mon, 29 Nov 2021 05:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[예술사에서 전무후무한 캐릭터, 살바도르 달리와 떠나는 초현실적 아트 월드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/01096355-9296-4abf-8250-8c5f1e181ddc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -2368,6 +2368,30 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/6e82e140-78fa-49e4-8b48-50e5fd3c7bac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빵순이들 당장 주목! 감자빵에 고구마빵까지 있는 해남 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/61794</link>
+            <guid>https://www.elle.co.kr/article/61794</guid>
+            <pubDate>Wed, 08 Dec 2021 05:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[울돌목과 진도대교를 바라보며 차 한 잔 즐길 수 있는 여유로운 공간도.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/19ead9b3-e8ad-47fe-9b07-be3faabb5faf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[땅과 바다와 하늘의 경계를 눈에 담을 수 있는, 땅끝마을 해남 숙소 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/61689</link>
+            <guid>https://www.elle.co.kr/article/61689</guid>
+            <pubDate>Wed, 08 Dec 2021 05:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[숲에 둘러싸인 한옥스테이도 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/3ba76531-181f-4929-bfd7-5eae106c1c0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EVERYDAY HOLIDAY (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/61369</link>
+            <guid>https://www.elle.co.kr/article/61369</guid>
+            <pubDate>Wed, 01 Dec 2021 17:48:27 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[송년회의 계절! 우아하게 모일 수 있는 서울 와인 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/61639</link>
             <guid>https://www.elle.co.kr/article/61639</guid>
@@ -2406,30 +2430,6 @@
             <pubDate>Tue, 30 Nov 2021 05:47:01 GMT</pubDate>
             <content:encoded><![CDATA[다양한 식물을 손쉽게 키우고 관찰할 수 있는 식물생활가전 LG 틔운 오브제컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/b09b094a-1146-4a2c-8cdf-87ddfd076cce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라멘 불모지 압로에 라멘집이 생겼다?! 압구정 로데오-가로수길 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/61408</link>
-            <guid>https://www.elle.co.kr/article/61408</guid>
-            <pubDate>Tue, 30 Nov 2021 05:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[고전적인 '가로수길 브런치'부터 현지 분위기 그대로 느껴지는 일본 음식까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/bb645d50-804d-4979-bc81-8e86cec09110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 모임에 딱! 오감을 모두 만족 시킬 와인 바 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/61382</link>
-            <guid>https://www.elle.co.kr/article/61382</guid>
-            <pubDate>Sat, 27 Nov 2021 05:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[소중한 사람과 함께 한 해를 마무리하고 싶어지는 연말! 깊어가는 겨울 밤을 더욱 특별하게 만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/9f3f1a97-123e-4a4b-88f8-fb9795df3252.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[논밭과 바다에 돌창고까지! 다채로운 풍경과 색다른 휴식이 있는 남해 카페 셋 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/61345</link>
-            <guid>https://www.elle.co.kr/article/61345</guid>
-            <pubDate>Wed, 24 Nov 2021 05:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[뷰 맛집에서 먹는 음식들은 더 꿀맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/789c01f1-36e4-4b0c-b2b5-5f85f85f9b15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파이어족, 불가능한 꿈이 아닙니다_돈쓸신잡 #22 (엘르 코리아 ─ 소사이어티)]]></title>

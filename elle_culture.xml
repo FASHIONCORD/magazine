@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 17:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 유일의 잡지전문공간, ‘종이잡지클럽’_주간책방 #7]]></title>
+            <link>https://www.elle.co.kr/article/61739</link>
+            <guid>https://www.elle.co.kr/article/61739</guid>
+            <pubDate>Wed, 08 Dec 2021 05:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[커피 한 잔 값으로 지적 허영을 채울 수 있는 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/363619d9-bd97-4188-baa9-cd985e0ddd4c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기]]></title>
             <link>https://www.elle.co.kr/article/61736</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Dec 2021 17:47:54 GMT</pubDate>
             <content:encoded><![CDATA[조각가 권진규와 사진가 목정욱의 만남.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c89c4ab5-ba2b-4e44-a4ee-b2fc97c78b80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기상천외한 초현실주의 미술의 세계를 이해하고 싶다면? 살바도르 달리 전시회로 #인싸 전시_39]]></title>
-            <link>https://www.elle.co.kr/article/61591</link>
-            <guid>https://www.elle.co.kr/article/61591</guid>
-            <pubDate>Thu, 02 Dec 2021 17:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[예술사에서 전무후무한 캐릭터, 살바도르 달리와 떠나는 초현실적 아트 월드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/01096355-9296-4abf-8250-8c5f1e181ddc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

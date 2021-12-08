@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 17:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말에 뭐해? 나 혼자 스파 가지]]></title>
+            <link>https://www.elle.co.kr/article/61799</link>
+            <guid>https://www.elle.co.kr/article/61799</guid>
+            <pubDate>Wed, 08 Dec 2021 05:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[시끌벅적하게 놀다가 확진자 되는 수가 있다. 한해 동안 수고한 나를 위하여, 혼자 조용하고 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/5b8b03a7-696d-4d20-bd24-6d071ca0d918.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 그리고 N°5]]></title>
             <link>https://www.elle.co.kr/article/61610</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 01 Dec 2021 17:49:09 GMT</pubDate>
             <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아는 사람만 안다?! 뷰티 브랜드의 숨은 꿀템.list (feat. 프레쉬, 헉슬리, 록시땅)]]></title>
-            <link>https://www.elle.co.kr/article/61545</link>
-            <guid>https://www.elle.co.kr/article/61545</guid>
-            <pubDate>Tue, 30 Nov 2021 17:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 담당자가 직접 전한 히든 꿀템은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/ef87d187-f68a-4b4e-bf44-5ed6f6076648.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
