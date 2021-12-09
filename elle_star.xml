@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 17:56:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 05:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["지금부터 내가 기대돼요" 변우석의 초연한 변화]]></title>
+            <link>https://www.elle.co.kr/article/61851</link>
+            <guid>https://www.elle.co.kr/article/61851</guid>
+            <pubDate>Thu, 09 Dec 2021 05:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[변우석은 언제든 예상치 못한 얼굴을 보여줄 준비가 됐다. 찬란한 순간과 서늘한 잔광의 명암이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/91632145-81be-42c0-94d9-e8b858e6dace.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수영의 다이어트 파스타 레서피 2]]></title>
             <link>https://www.elle.co.kr/article/61837</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 05:42:56 GMT</pubDate>
             <content:encoded><![CDATA[드라마 &lt;해피니스&gt;로 조우한 한효주와 박형식. 두 사람이 치열하게, 또 대담하게 이뤄온 두 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/02c0137f-86df-404d-b527-7e79fb4e3881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 커플 탄생! 전종서와 이충현 감독이 열애 중이다]]></title>
-            <link>https://www.elle.co.kr/article/61771</link>
-            <guid>https://www.elle.co.kr/article/61771</guid>
-            <pubDate>Mon, 06 Dec 2021 05:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 오리지널 '콜'을 찍다가 가까워졌다고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/ca3c8c7c-90d3-4294-b4d7-b5354ae4fa79.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
