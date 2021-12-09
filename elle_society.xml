@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 17:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가둘 수 없는 진실을 믿는 힘 #엘르보이스]]></title>
+            <link>https://www.elle.co.kr/article/61846</link>
+            <guid>https://www.elle.co.kr/article/61846</guid>
+            <pubDate>Thu, 09 Dec 2021 17:55:56 GMT</pubDate>
+            <content:encoded><![CDATA[침묵하지 않고 목소리를 내기로 한 여성이 겪는 수난이 700년 전과 지금, 과연 다른가.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/25bbc7f1-995a-4aae-b322-76ea926dadb4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오미크론 출현으로 다시 비상 걸린 코로나19 시국, 방역패스 필수인 곳은 어디?]]></title>
+            <link>https://www.elle.co.kr/article/61836</link>
+            <guid>https://www.elle.co.kr/article/61836</guid>
+            <pubDate>Thu, 09 Dec 2021 17:55:56 GMT</pubDate>
+            <content:encoded><![CDATA[우리 모두 자중해야 할 때.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/aa4ba84b-7165-4451-9c0b-20e9db3a9226.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<엘르>의 새로운 약속, 퍼 프리(FUR-FREE)]]></title>
             <link>https://www.elle.co.kr/article/61758</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 03 Dec 2021 05:49:42 GMT</pubDate>
             <content:encoded><![CDATA[디즈니 플러스를 구독해야 할 첫 번째 이유, &lt;완다비전&gt;.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/25bd0329-6b9f-430f-a378-54451c45b2d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미쉐린 가이드 픽, 2022년 서울 맛집 BEST 61 #가성비 #빕구루망]]></title>
-            <link>https://www.elle.co.kr/article/61301</link>
-            <guid>https://www.elle.co.kr/article/61301</guid>
-            <pubDate>Fri, 03 Dec 2021 05:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[서울에서 가장 가성비 좋고 맛있는 요리를 먹고 싶다면? 여기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/0f11ac9b-2562-4d17-9ca2-f577878a7e42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 6년 만의 구독료 인상, '망 사용료' 논란 탓? 그게 대체 뭔데?]]></title>
-            <link>https://www.elle.co.kr/article/61284</link>
-            <guid>https://www.elle.co.kr/article/61284</guid>
-            <pubDate>Fri, 03 Dec 2021 05:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[꼭 그런 건 아니지만 그렇다고 볼 수도 있는 이 애매한 상황.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/a07c532b-3e73-496d-acfd-40fb0b0c260d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

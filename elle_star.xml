@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 17:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이비의 겨울을 위한 데일리 메이크업]]></title>
+            <link>https://www.elle.co.kr/article/61894</link>
+            <guid>https://www.elle.co.kr/article/61894</guid>
+            <pubDate>Thu, 09 Dec 2021 17:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[건조하고 푸석해지기 쉬운 겨울철엔 데일리 메이크업도 달라져야 합니다. 아이비가 알려주는 팁을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/556e1ab9-8431-4eb9-b944-1ea98fb43e5f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타들의 사복 패션으로 엿보는 연말 모임을 위한 블랙 룩 5]]></title>
+            <link>https://www.elle.co.kr/article/61854</link>
+            <guid>https://www.elle.co.kr/article/61854</guid>
+            <pubDate>Thu, 09 Dec 2021 17:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[이보다 더 좋은 룩은 없을걸? 소희부터 조이까지 연말 모임을 위한 스타들의 블랙 룩을 소개합...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/e8f1f99e-860d-46b2-b45a-f40560a9e564.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["지금부터 내가 기대돼요" 변우석의 초연한 변화]]></title>
             <link>https://www.elle.co.kr/article/61851</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 07 Dec 2021 17:51:34 GMT</pubDate>
             <content:encoded><![CDATA[빵순이들 주목! 윤승아가 고른 베이글 맛집부터 치아바타 맛집까지 낱낱이 알려줄게요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/ab880f0d-158a-49c9-88b0-c3557556717c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울에 딱! 클래식해서 매력적인 영화 <캐롤> 속 패션 #옷잘입는언니]]></title>
-            <link>https://www.elle.co.kr/article/61793</link>
-            <guid>https://www.elle.co.kr/article/61793</guid>
-            <pubDate>Tue, 07 Dec 2021 17:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[겨울이면 생각나는 영화 &lt;캐롤&gt;. 50년대 뉴욕을 배경으로 우아한 케이트 블란쳇과 사랑스러운...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/fddc6dad-bb5d-4df7-a2f5-32db21a84458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대담하고 치열한 행복 #한효주 #박형식]]></title>
-            <link>https://www.elle.co.kr/article/61788</link>
-            <guid>https://www.elle.co.kr/article/61788</guid>
-            <pubDate>Mon, 06 Dec 2021 05:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 &lt;해피니스&gt;로 조우한 한효주와 박형식. 두 사람이 치열하게, 또 대담하게 이뤄온 두 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/02c0137f-86df-404d-b527-7e79fb4e3881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

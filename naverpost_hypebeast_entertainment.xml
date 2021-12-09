@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 17:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 공개될 넷플릭스 한국 콘텐츠 라인업]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32892341&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32892341&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 09 Dec 2021 17:48:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDZfMTUz/MDAxNjM4NzgwNjM4MzQ0.2b0yVemDlccNs7zenKVBqaNyz3HpOcJpJZ5pXbB-_N4g.rMDTY9KO4586qDfWlml4dKu8NjO7LJrBkwONCx7hDEsg.JPEG/IXPGoOEYt6ILmzOZDs-8wU4AkTNc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수능 끝난 지금부터 정주행하면 딱 좋은 디즈니+ 작품 추천 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32811348&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMjVfMjMw/MDAxNjE0MjQxMjUwMTY3.BwbdhRTAmozYI1hiwJ8kXxIUnM3h4671MibreAI--Wcg.fH6ZdvMA5JTbAq02eC8GFpl6RkMS_ZROsBjmWgv5zSsg.JPEG/IB6iMkAKloRdPIL2X7nhDn8x78Lc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 넷플릭스에 공개될 한국 오리지널 시리즈 10]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30806321&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30806321&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMjVfOTgg/MDAxNjE0MjM5NDYyNTQ5.a8o7ueZxCHsvoVVBLHjQ3EMpiFMJIj7wrDV0yR5jS1Ug.k6jE0mjXhmY7kgtc4Oagcjb6zP1zuRlpny37SsInADEg.JPEG/I_G0CTk13qfEu_WiqkEJsOt2uU40.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

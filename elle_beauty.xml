@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 17:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인센스‧향초가 겨울철 건강을 위협한다?_선배's 어드바이스 #94]]></title>
+            <link>https://www.elle.co.kr/article/61826</link>
+            <guid>https://www.elle.co.kr/article/61826</guid>
+            <pubDate>Thu, 09 Dec 2021 17:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[향기에 중독됐다면 꼭 알아야 할 올바른 사용 방법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/f9b72d92-0624-4114-8b81-e2a0550664a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말에 뭐해? 나 혼자 스파 가지]]></title>
             <link>https://www.elle.co.kr/article/61799</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 03 Dec 2021 05:42:24 GMT</pubDate>
             <content:encoded><![CDATA[우주적 영감으로 가득 찬 2021년의 패션&amp;뷰티 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7a2ea904-31f4-4c41-b201-752ff617595d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 디지털 세상 속으로]]></title>
-            <link>https://www.elle.co.kr/article/61381</link>
-            <guid>https://www.elle.co.kr/article/61381</guid>
-            <pubDate>Wed, 01 Dec 2021 17:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

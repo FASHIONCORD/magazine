@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 17:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노래를 이야기하는 뮤직비디오 감독 권오준 #치열(Cheers) #BTS]]></title>
+            <link>https://www.elle.co.kr/article/61961</link>
+            <guid>https://www.elle.co.kr/article/61961</guid>
+            <pubDate>Thu, 09 Dec 2021 17:52:55 GMT</pubDate>
+            <content:encoded><![CDATA[매 순간 진심을 다하는 뮤직비디오 감독 권오준의 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/b9024bd5-447a-42e3-b5dc-0ebc88510843.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[98년 동안 남자 CEO가 다스리던 디즈니 왕국, 드디어 여자 수장이 나왔다]]></title>
             <link>https://www.elle.co.kr/article/61909</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 25 Nov 2021 05:44:04 GMT</pubDate>
             <content:encoded><![CDATA[허니제이가 말한 '댄서들의 대잔치'에 참석한 '스우파' 팬들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/623e29c7-daca-4d48-abfa-6859308b7a47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뺏긴 지 하루 만에 넷플릭스 세계 1위 탈환한 K-드라마가 있다? 벌써 열린 '지옥' 흥행문]]></title>
-            <link>https://www.elle.co.kr/article/61477</link>
-            <guid>https://www.elle.co.kr/article/61477</guid>
-            <pubDate>Thu, 25 Nov 2021 05:44:04 GMT</pubDate>
-            <content:encoded><![CDATA['오징어게임' 급 장기 흥행 조짐.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b19c16f9-626d-4b20-92ce-c76c7d7e5805.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
