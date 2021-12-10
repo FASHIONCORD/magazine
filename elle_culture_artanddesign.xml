@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 17:54:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 장인들은 누구? LE 19M에서 열린 샤넬 2021/22 공방 컬렉션]]></title>
+            <link>https://www.elle.co.kr/article/62002</link>
+            <guid>https://www.elle.co.kr/article/62002</guid>
+            <pubDate>Fri, 10 Dec 2021 17:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬의 디자인을 마법처럼 만들어내는 8개의 공방을 위한 공간에서의 샤넬 2021/22 공방 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/0ce01d74-e3a2-4193-816e-4bf44789f0d0.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[창문을 통해 어렴풋이 들여다 본 '캐롤'의 그 겨울, 사울 레이터 사진전 #인싸 전시_40]]></title>
             <link>https://www.elle.co.kr/article/61978</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 29 Oct 2021 17:49:34 GMT</pubDate>
             <content:encoded><![CDATA[좀처럼 보기 힘든 현대 미술 거장 이불의 신작 전시.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/e64b6662-937a-4eb8-a6cd-f3e2a6e54a84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤은혜가 알려주는 ‘행복지수 올리는 법’]]></title>
-            <link>https://www.elle.co.kr/article/60664</link>
-            <guid>https://www.elle.co.kr/article/60664</guid>
-            <pubDate>Wed, 27 Oct 2021 17:49:19 GMT</pubDate>
-            <content:encoded><![CDATA[윤은혜가 소개하는 방법들로 건강하고, 긍정적인 삶을 위한 작은 습관들을 만들어볼까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/240da27c-1a78-4ef4-af8e-17fb7a2eedda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 17:54:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열려라, 참깨! 2021 어드벤트 캘린더]]></title>
+            <link>https://www.elle.co.kr/article/61892</link>
+            <guid>https://www.elle.co.kr/article/61892</guid>
+            <pubDate>Fri, 10 Dec 2021 17:49:18 GMT</pubDate>
+            <content:encoded><![CDATA[박스를 열면 황홀한 풍경이 눈앞에 펼쳐진다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/ba3e2671-cece-4f7e-b00b-3abc3fb4ce66.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수영의 다이어트 파스타 레서피 2]]></title>
+            <link>https://www.elle.co.kr/article/61837</link>
+            <guid>https://www.elle.co.kr/article/61837</guid>
+            <pubDate>Fri, 10 Dec 2021 17:49:18 GMT</pubDate>
+            <content:encoded><![CDATA[다이어터가 된 수영이 고른 식재료는? 두부면을 이용한 다이어트 파스타 레서피를 참고해보세요....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/c9b14bad-fd99-4e48-b54b-394c9efe2540.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오미크론 출현으로 다시 비상 걸린 코로나19 시국, 방역패스 필수인 곳은 어디?]]></title>
+            <link>https://www.elle.co.kr/article/61836</link>
+            <guid>https://www.elle.co.kr/article/61836</guid>
+            <pubDate>Fri, 10 Dec 2021 17:49:18 GMT</pubDate>
+            <content:encoded><![CDATA[우리 모두 자중해야 할 때.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/aa4ba84b-7165-4451-9c0b-20e9db3a9226.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인센스‧향초가 겨울철 건강을 위협한다?_선배's 어드바이스 #94]]></title>
             <link>https://www.elle.co.kr/article/61826</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 17:41:18 GMT</pubDate>
             <content:encoded><![CDATA[자꾸만 안으로 말리는 어깨와 군살이 쉽게 붙는 등을 1주일만에 바꿀 수 있다면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/80f80bc5-9fb9-4404-a8e9-20e60f58a622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
-            <link>https://www.elle.co.kr/article/61369</link>
-            <guid>https://www.elle.co.kr/article/61369</guid>
-            <pubDate>Mon, 06 Dec 2021 05:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[약이야? 화장품이야? 제약회사가 만든 화장품 9_선배's 어드바이스 #93]]></title>
-            <link>https://www.elle.co.kr/article/61612</link>
-            <guid>https://www.elle.co.kr/article/61612</guid>
-            <pubDate>Sat, 04 Dec 2021 17:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[약으로 다진 내공, 화장품으로 피어나다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/959c4e7d-4554-4389-8071-568cc4d4ea35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주적 영감으로 가득 찬 아이템]]></title>
-            <link>https://www.elle.co.kr/article/61423</link>
-            <guid>https://www.elle.co.kr/article/61423</guid>
-            <pubDate>Fri, 03 Dec 2021 05:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[우주적 영감으로 가득 찬 2021년의 패션&amp;뷰티 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/7a2ea904-31f4-4c41-b201-752ff617595d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

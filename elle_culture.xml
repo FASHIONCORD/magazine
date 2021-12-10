@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 17:54:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노래를 이야기하는 뮤직비디오 감독 권오준 #치열(Cheers) #BTS]]></title>
+            <link>https://www.elle.co.kr/article/61961</link>
+            <guid>https://www.elle.co.kr/article/61961</guid>
+            <pubDate>Fri, 10 Dec 2021 17:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[매 순간 진심을 다하는 뮤직비디오 감독 권오준의 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/b9024bd5-447a-42e3-b5dc-0ebc88510843.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[98년 동안 남자 CEO가 다스리던 디즈니 왕국, 드디어 여자 수장이 나왔다]]></title>
+            <link>https://www.elle.co.kr/article/61909</link>
+            <guid>https://www.elle.co.kr/article/61909</guid>
+            <pubDate>Fri, 10 Dec 2021 17:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니를 '찐 IP 공룡'으로 만든 '밥 아이거 시대'의 종언.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/94d9d26c-b51b-474f-9beb-bdb6fa4cdc1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언제나 차별과 싸웠던 유도선수 안창림이 돌연 국가대표 은퇴를 선언한 배경]]></title>
             <link>https://www.elle.co.kr/article/61830</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 05:43:36 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대, 샤이니, f(x), 엑소, 레드벨벳, NCT의 이미지를 만든 인물.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/1fdeae7d-ca2e-4cc9-b04f-6a590b83410f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열애설 30분 만에 인정한 손담비X이규혁 커플의 연결 고리는?]]></title>
-            <link>https://www.elle.co.kr/article/61726</link>
-            <guid>https://www.elle.co.kr/article/61726</guid>
-            <pubDate>Sat, 04 Dec 2021 17:50:24 GMT</pubDate>
-            <content:encoded><![CDATA[5살 차이 커플.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/9310e2b0-ef08-43f9-8919-bd10ff6fef85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좀 놀 줄 아는 녀석들이네? '스우파' 리더즈도 감탄한 '스걸파' 갓기들 무대 모음]]></title>
-            <link>https://www.elle.co.kr/article/61722</link>
-            <guid>https://www.elle.co.kr/article/61722</guid>
-            <pubDate>Sat, 04 Dec 2021 17:50:24 GMT</pubDate>
-            <content:encoded><![CDATA[믓찌다 믓찌다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/ba986d3e-0d47-46d1-b7dc-95169ff2adc4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

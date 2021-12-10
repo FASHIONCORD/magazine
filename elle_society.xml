@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 17:54:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑받고 싶어서 일 합니다 #엘르보이스]]></title>
+            <link>https://www.elle.co.kr/article/61884</link>
+            <guid>https://www.elle.co.kr/article/61884</guid>
+            <pubDate>Fri, 10 Dec 2021 17:54:44 GMT</pubDate>
+            <content:encoded><![CDATA[어쩌면 세상 대부분의 사람이 사랑받고 싶어서 일하는 거 아닐까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/464f4295-c45c-4496-b201-315719601fba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가둘 수 없는 진실을 믿는 힘 #엘르보이스]]></title>
             <link>https://www.elle.co.kr/article/61846</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 17:46:31 GMT</pubDate>
             <content:encoded><![CDATA[주4일제를 실험한 결과는 놀라웠다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/cebc0ed3-219a-4e45-81e5-33ae5d5aaa23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 강렬한 완다_요주의 여성 #38]]></title>
-            <link>https://www.elle.co.kr/article/61329</link>
-            <guid>https://www.elle.co.kr/article/61329</guid>
-            <pubDate>Fri, 03 Dec 2021 05:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니 플러스를 구독해야 할 첫 번째 이유, &lt;완다비전&gt;.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/25bd0329-6b9f-430f-a378-54451c45b2d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
