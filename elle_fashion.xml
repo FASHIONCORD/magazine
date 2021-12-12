@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 05:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 17:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머리카락 보일라! 올겨울 대세로 떠오른 #바라클라바]]></title>
+            <link>https://www.elle.co.kr/article/61943</link>
+            <guid>https://www.elle.co.kr/article/61943</guid>
+            <pubDate>Sun, 12 Dec 2021 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[스키장 모자 아님 주의!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/d4aab17b-2cda-4a65-b5c5-96060d3bce88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤승아가 추천하는 연말 선물 리스트 6]]></title>
             <link>https://www.elle.co.kr/article/61934</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Dec 2021 05:40:49 GMT</pubDate>
             <content:encoded><![CDATA[바라클라바, 유행인 건 알겠는데 어떻게 소화해야 할지 모르겠다면 스타들의 룩에서 힌트를 얻어...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/d50f1f2c-1ad3-47b7-8e9f-e7921fe4ad82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 총정리 Adieu 2021 #사라진 SNS 계정 #패션 금수저]]></title>
-            <link>https://www.elle.co.kr/article/61805</link>
-            <guid>https://www.elle.co.kr/article/61805</guid>
-            <pubDate>Tue, 07 Dec 2021 17:50:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 패션계엔 무슨 일이 었었을까? 시대 흐름에 맞게 발 빠르게 변화한 패션 이슈들과 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/2c80b63c-74d6-4c17-ab0c-a35360bea0bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
