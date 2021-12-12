@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 17:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 05:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게임 하면서 돈까지 번다고?_돈쓸신잡 #23  (feat. #리니지 #미르4 #제페토)]]></title>
+            <link>https://www.elle.co.kr/article/61920</link>
+            <guid>https://www.elle.co.kr/article/61920</guid>
+            <pubDate>Sun, 12 Dec 2021 05:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[게임 하면서 합법적으로 돈 버는 시대가 왔다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/a1c04010-34a5-4801-809a-1b34faf59ed2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑받고 싶어서 일 합니다 #엘르보이스]]></title>
             <link>https://www.elle.co.kr/article/61884</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 17:46:31 GMT</pubDate>
             <content:encoded><![CDATA[쎄도 돼! 악마 같아도 돼! 술 잘 마셔도 돼! 이전에는 쉽게 본 적 없었던 개성 만점 여성...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e35f832c-a8e4-4174-b0ca-817db9e3094e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월화수목토토토…주4일제가 온다_돈쓸신잡_#21]]></title>
-            <link>https://www.elle.co.kr/article/61499</link>
-            <guid>https://www.elle.co.kr/article/61499</guid>
-            <pubDate>Mon, 06 Dec 2021 17:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[주4일제를 실험한 결과는 놀라웠다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/cebc0ed3-219a-4e45-81e5-33ae5d5aaa23.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

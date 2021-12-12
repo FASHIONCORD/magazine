@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 17:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 05:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #스우파 #최정남PD #블랙핑크]]></title>
+            <link>https://www.elle.co.kr/article/62019</link>
+            <guid>https://www.elle.co.kr/article/62019</guid>
+            <pubDate>Sun, 12 Dec 2021 05:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;스트릿 우먼 파이터&gt;의 리더들과 최정남PD, 그리고 올해도 반짝인 블랙핑크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/12/da1a0097-ed2f-49c7-ae6a-963329e9218b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기]]></title>
             <link>https://www.elle.co.kr/article/61736</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
             <content:encoded><![CDATA[싱크로율 무엇? &lt;스트릿 우먼 파이터&gt;의 인기에 힘입어 등장한 ‘스트릿 개그우먼 파이터’. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/0a3cfc54-e83a-4ebb-b408-27b78617f9b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국힙 챙겨! 국힙 세계관 1인자가 된 딩고프리스타일 PD 3인방 #KPOP #케이팝]]></title>
-            <link>https://www.elle.co.kr/article/58664</link>
-            <guid>https://www.elle.co.kr/article/58664</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[DF는 어떻게 국힙 세계관 1인자가 됐을까? 박동준, 김민정, 장백산 3PD 가 말한다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/18/c06f2862-9901-4e5e-83e8-07622397faf8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

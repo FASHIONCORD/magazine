@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 17:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 05:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이비의 겨울을 위한 데일리 메이크업]]></title>
+            <link>https://www.elle.co.kr/article/61894</link>
+            <guid>https://www.elle.co.kr/article/61894</guid>
+            <pubDate>Sun, 12 Dec 2021 05:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[건조하고 푸석해지기 쉬운 겨울철엔 데일리 메이크업도 달라져야 합니다. 아이비가 알려주는 팁을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/556e1ab9-8431-4eb9-b944-1ea98fb43e5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열려라, 참깨! 2021 어드벤트 캘린더]]></title>
             <link>https://www.elle.co.kr/article/61892</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 17:41:18 GMT</pubDate>
             <content:encoded><![CDATA[스트레칭으로 운동효과 2배! 솔라가 소개하는 운동 전 스트레칭법 따라해볼까요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/034d1f17-460c-45c7-a7e1-58ab94ba5dff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울철, 당신의 어깨와 등이 위험하다]]></title>
-            <link>https://www.elle.co.kr/article/61683</link>
-            <guid>https://www.elle.co.kr/article/61683</guid>
-            <pubDate>Mon, 06 Dec 2021 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[자꾸만 안으로 말리는 어깨와 군살이 쉽게 붙는 등을 1주일만에 바꿀 수 있다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/80f80bc5-9fb9-4404-a8e9-20e60f58a622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
