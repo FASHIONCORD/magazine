@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 17:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 05:46:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유산균, 이럴 땐 먹지 마세요!_몸에 좋은 잔소리 #34]]></title>
+            <link>https://www.elle.co.kr/article/61962</link>
+            <guid>https://www.elle.co.kr/article/61962</guid>
+            <pubDate>Mon, 13 Dec 2021 05:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[유산균 섭취 시 주의사항 알아두기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/8392d9c8-dc7f-48b0-8dbd-218d4864535e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이비의 겨울을 위한 데일리 메이크업]]></title>
             <link>https://www.elle.co.kr/article/61894</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Dec 2021 17:51:21 GMT</pubDate>
             <content:encoded><![CDATA[홀리데이 시즌을 맞아 더욱 새로워진 샤넬 N°5의 리미티드 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/4dfe1162-1ce0-40b2-b6dc-65f73d927c28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔라의 10단계 스트레칭 따라하기]]></title>
-            <link>https://www.elle.co.kr/article/61698</link>
-            <guid>https://www.elle.co.kr/article/61698</guid>
-            <pubDate>Mon, 06 Dec 2021 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[스트레칭으로 운동효과 2배! 솔라가 소개하는 운동 전 스트레칭법 따라해볼까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/034d1f17-460c-45c7-a7e1-58ab94ba5dff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
