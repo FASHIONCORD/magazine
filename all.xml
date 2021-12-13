@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 17:53:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/d50f1f2c-1ad3-47b7-8e9f-e7921fe4ad82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영원한 아름다움의 순간 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/61701</link>
+            <guid>https://www.elle.co.kr/article/61701</guid>
+            <pubDate>Mon, 13 Dec 2021 17:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[마이애미 해변의 아트 바젤에서 만난 숭고한 세계. 라프레리와 함께 빛과 물에서 영감 받은 웬...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/57e21475-af24-4568-9068-058dfe61576f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유산균, 이럴 땐 먹지 마세요!_몸에 좋은 잔소리 #34 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/61962</link>
             <guid>https://www.elle.co.kr/article/61962</guid>
@@ -1920,12 +1928,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/5b8b03a7-696d-4d20-bd24-6d071ca0d918.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤넬 그리고 N°5 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/61610</link>
-            <guid>https://www.elle.co.kr/article/61610</guid>
-            <pubDate>Tue, 07 Dec 2021 17:51:21 GMT</pubDate>
-            <content:encoded><![CDATA[홀리데이 시즌을 맞아 더욱 새로워진 샤넬 N°5의 리미티드 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/4dfe1162-1ce0-40b2-b6dc-65f73d927c28.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이경규 딸 이예림 결혼식의 초호화 하객 라인업과 최초 공개된 웨딩화보 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/61990</link>
+            <guid>https://www.elle.co.kr/article/61990</guid>
+            <pubDate>Mon, 13 Dec 2021 17:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[예비신부 다이어트부터 브라이덜 샤워까지 내내 화제가 됐던 결혼 준비 과정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/d89713b1-54b2-45a2-9066-41fcd0c5abf6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이더맨을 내려다 보는 MJ!? 톰 홀랜드X젠데이아 커플이 키 차이에 대처하는 법.tip (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/61988</link>
+            <guid>https://www.elle.co.kr/article/61988</guid>
+            <pubDate>Mon, 13 Dec 2021 17:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[실제 커플이기도 한 두 사람의 달달한 대답.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/f90ee5c0-8d56-4357-b601-656ac2534143.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노래를 이야기하는 뮤직비디오 감독 권오준 #치열(Cheers) #BTS (엘르 코리아 ─ 스타)]]></title>
@@ -1974,22 +1990,6 @@
             <pubDate>Thu, 09 Dec 2021 17:51:16 GMT</pubDate>
             <content:encoded><![CDATA[건조하고 푸석해지기 쉬운 겨울철엔 데일리 메이크업도 달라져야 합니다. 아이비가 알려주는 팁을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/556e1ab9-8431-4eb9-b944-1ea98fb43e5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들의 사복 패션으로 엿보는 연말 모임을 위한 블랙 룩 5 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/61854</link>
-            <guid>https://www.elle.co.kr/article/61854</guid>
-            <pubDate>Thu, 09 Dec 2021 17:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[이보다 더 좋은 룩은 없을걸? 소희부터 조이까지 연말 모임을 위한 스타들의 블랙 룩을 소개합...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/e8f1f99e-860d-46b2-b45a-f40560a9e564.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["지금부터 내가 기대돼요" 변우석의 초연한 변화 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/61851</link>
-            <guid>https://www.elle.co.kr/article/61851</guid>
-            <pubDate>Thu, 09 Dec 2021 05:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[변우석은 언제든 예상치 못한 얼굴을 보여줄 준비가 됐다. 찬란한 순간과 서늘한 잔광의 명암이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/91632145-81be-42c0-94d9-e8b858e6dace.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반짝반짝한 당신을 위한 연말 기프트 17 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2160,6 +2160,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/1393d9fa-4db7-4e27-8ca5-32125212e13c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #윤여정 #이은지 #츄 #주현영 #장도연 #안영미 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/62055</link>
+            <guid>https://www.elle.co.kr/article/62055</guid>
+            <pubDate>Mon, 13 Dec 2021 17:50:56 GMT</pubDate>
+            <content:encoded><![CDATA['레이디 미나리' 윤여정과 건강한 웃음을 책임진 올해의 여성 엔터테이너들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/08601413-b015-4ef8-8073-d765fa889ed3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우먼 프라이드! 2021년의 여성들 #스우파 #최정남PD #블랙핑크 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/62019</link>
             <guid>https://www.elle.co.kr/article/62019</guid>
@@ -2254,14 +2262,6 @@
             <pubDate>Fri, 26 Nov 2021 17:51:13 GMT</pubDate>
             <content:encoded><![CDATA[12월6일 방송 시작.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/efd549fe-e1e9-4f6c-a3ad-3bed913c875d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 부는 사극 열풍, ‘연모’·‘어사와 조이’·‘옷소매 붉은 끝동’의 공통점은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/61512</link>
-            <guid>https://www.elle.co.kr/article/61512</guid>
-            <pubDate>Thu, 25 Nov 2021 17:50:29 GMT</pubDate>
-            <content:encoded><![CDATA[포인트는 '로맨스 사극'이라는 점.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/5a912d34-85fb-43d0-b796-462e8f9e45aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤넬 장인들은 누구? LE 19M에서 열린 샤넬 2021/22 공방 컬렉션 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2432,6 +2432,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/7116ac87-3d64-4de6-aab0-34a5a83cdc12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[파격 스타일링? 그냥 하면 돼! 숏컷에 넥타이 맨 여자 아나운서들 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/61952</link>
+            <guid>https://www.elle.co.kr/article/61952</guid>
+            <pubDate>Sun, 12 Dec 2021 05:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[안경은 쓰고 싶으면 쓰는 것이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/3262a730-8048-476b-9da6-b31af05d700d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우비초 교무실에서 배운 것 #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/61931</link>
             <guid>https://www.elle.co.kr/article/61931</guid>
@@ -2486,14 +2494,6 @@
             <pubDate>Fri, 03 Dec 2021 17:52:33 GMT</pubDate>
             <content:encoded><![CDATA["쉽게 뭔가를 얻는 여자는 없다고, 이 나라엔."]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/c2724cec-cdf7-4a0f-8779-e070f23a1ecf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파이어족, 불가능한 꿈이 아닙니다_돈쓸신잡 #22 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/61738</link>
-            <guid>https://www.elle.co.kr/article/61738</guid>
-            <pubDate>Tue, 07 Dec 2021 17:57:04 GMT</pubDate>
-            <content:encoded><![CDATA[파이어족이 되고 싶다면, 이렇게 하라!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/a9aa40c8-92ad-4d74-8334-411659e706dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

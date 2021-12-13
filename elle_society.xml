@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 17:53:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파격 스타일링? 그냥 하면 돼! 숏컷에 넥타이 맨 여자 아나운서들]]></title>
+            <link>https://www.elle.co.kr/article/61952</link>
+            <guid>https://www.elle.co.kr/article/61952</guid>
+            <pubDate>Mon, 13 Dec 2021 17:53:57 GMT</pubDate>
+            <content:encoded><![CDATA[안경은 쓰고 싶으면 쓰는 것이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/3262a730-8048-476b-9da6-b31af05d700d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우비초 교무실에서 배운 것 #엘르보이스]]></title>
             <link>https://www.elle.co.kr/article/61931</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Dec 2021 17:56:04 GMT</pubDate>
             <content:encoded><![CDATA["쉽게 뭔가를 얻는 여자는 없다고, 이 나라엔."]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/c2724cec-cdf7-4a0f-8779-e070f23a1ecf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파이어족, 불가능한 꿈이 아닙니다_돈쓸신잡 #22]]></title>
-            <link>https://www.elle.co.kr/article/61738</link>
-            <guid>https://www.elle.co.kr/article/61738</guid>
-            <pubDate>Tue, 07 Dec 2021 17:57:04 GMT</pubDate>
-            <content:encoded><![CDATA[파이어족이 되고 싶다면, 이렇게 하라!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/a9aa40c8-92ad-4d74-8334-411659e706dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
