@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 17:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 05:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['싱어게인2' 43호 김현성의 'Heaven' 무대, 변한 목소리가 모두를 울린 분명한 이유]]></title>
+            <link>https://www.elle.co.kr/article/62068</link>
+            <guid>https://www.elle.co.kr/article/62068</guid>
+            <pubDate>Tue, 14 Dec 2021 05:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[금세 눈물바다가 된 촬영장.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/44c20f0e-2dca-47be-a6c1-9161a139e44f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우먼 프라이드! 2021년의 여성들 #윤여정 #이은지 #츄 #주현영 #장도연 #안영미]]></title>
             <link>https://www.elle.co.kr/article/62055</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 26 Nov 2021 17:51:13 GMT</pubDate>
             <content:encoded><![CDATA[자취방 콘셉트는 '일탈'.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/d11c6aea-c878-4f06-8f88-6af890c5d575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인업 무슨 일? 산다라박 동생부터 원조 사이버가수 아담까지 나오는 '싱어게인2' 출연자.list]]></title>
-            <link>https://www.elle.co.kr/article/61537</link>
-            <guid>https://www.elle.co.kr/article/61537</guid>
-            <pubDate>Fri, 26 Nov 2021 17:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월6일 방송 시작.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/efd549fe-e1e9-4f6c-a3ad-3bed913c875d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
