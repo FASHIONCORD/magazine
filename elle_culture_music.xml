@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 17:49:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤계상과 문가영 주연의 '치열(Cheers)' 뮤직비디오! [RECONNECT 2021]]]></title>
+            <link>https://www.elle.co.kr/article/62080</link>
+            <guid>https://www.elle.co.kr/article/62080</guid>
+            <pubDate>Tue, 14 Dec 2021 17:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[엘르의 두 번째 뮤직프로젝트, 윤계상,문가영 주연 &amp; 코드 쿤스트, AKMU 이찬혁, 콜드,...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/2be3d98d-9afc-4498-bfc6-fad44bc27ec8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['싱어게인2' 43호 김현성의 'Heaven' 무대, 변한 목소리가 모두를 울린 분명한 이유]]></title>
+            <link>https://www.elle.co.kr/article/62068</link>
+            <guid>https://www.elle.co.kr/article/62068</guid>
+            <pubDate>Tue, 14 Dec 2021 17:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[금세 눈물바다가 된 촬영장.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/44c20f0e-2dca-47be-a6c1-9161a139e44f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우먼 프라이드! 2021년의 여성들 #정세랑 #황정은 #비비 #미노이 #백예린]]></title>
             <link>https://www.elle.co.kr/article/62024</link>
@@ -94,22 +110,6 @@
             <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
             <content:encoded><![CDATA[춤을 통해 살아 있음을 증명하고 싶은 ‘춤생춤사’ YGX와 엘르가 만났다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/d90d8c31-b676-4262-90e1-9b4ca979df5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페미닌파워! 오직 #라치카 만 할 수 있는 것!]]></title>
-            <link>https://www.elle.co.kr/article/58905</link>
-            <guid>https://www.elle.co.kr/article/58905</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[춤의 장르도, 감정의 경계도 없이 울고 웃으며 서로를 껴안는 사랑스러운 라치카와 엘르의 조우...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/9bff4478-d581-4512-b14f-faeec81a8c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디서도 본적 없는 #프라우드먼 완전체 9인]]></title>
-            <link>https://www.elle.co.kr/article/58861</link>
-            <guid>https://www.elle.co.kr/article/58861</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[그야말로 춤에 미친 사람들. 당당하고 파워풀한 프라우드먼 완전체가 &lt;엘르&gt; 카메라 앞에 섰다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/1393d9fa-4db7-4e27-8ca5-32125212e13c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
