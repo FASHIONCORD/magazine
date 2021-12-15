@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 17:56:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진격거', '체인소 맨' 등 2022년 기대해야 할 애니메이션 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32950340&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32950340&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Dec 2021 17:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfNCAg/MDAxNjM5NTUzMDk2NDUx.3aIg-_7ZIxGnLuStDKxGpbG4q6a6fXbZyFFYnxuDj5Ag.jCTZnOYF4ahYhi2NbKm6ldcBXs1BifyQZE5BA86SFDYg.JPEG/Il2ww0on8wyLGdE61kxMPVcmoPy4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 공개될 넷플릭스 한국 콘텐츠 라인업]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32892341&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMTlfMjgy/MDAxNjE2MTQ1ODEyNTc3.eUbIlLL7c0BhAhZr6KVMaNA3THokt7KHkl950_851Y8g.-Im6bKN4YqLhwQsP5F2ckdovMwkTYVZ2QXn5YhPUnJIg.JPEG/IYaSXQRb2iOg9lnIUQ8qAYKH_FQE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마블 ‘스파이더맨 3’의 ‘진짜 제목’이 드디어 공개됐다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30806793&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30806793&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMjVfMjMw/MDAxNjE0MjQxMjUwMTY3.BwbdhRTAmozYI1hiwJ8kXxIUnM3h4671MibreAI--Wcg.fH6ZdvMA5JTbAq02eC8GFpl6RkMS_ZROsBjmWgv5zSsg.JPEG/IB6iMkAKloRdPIL2X7nhDn8x78Lc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

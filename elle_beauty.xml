@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 17:56:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드 크리에이티브 디렉터들이 <엘르> 코리아에 보내온 특별한 시선]]></title>
+            <link>https://www.elle.co.kr/article/62010</link>
+            <guid>https://www.elle.co.kr/article/62010</guid>
+            <pubDate>Wed, 15 Dec 2021 17:49:34 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 아이덴티티를 구축하는 '키 메이커'인 크리에이티브 디렉터에게 우리가 보는 제품 형태 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/11/6f6a1862-6be8-4ae3-9e3f-c0e26df8d1c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[향으로 떠나는 영국 여행, 버버리뷰티 시그니처 컬렉션]]></title>
+            <link>https://www.elle.co.kr/article/61984</link>
+            <guid>https://www.elle.co.kr/article/61984</guid>
+            <pubDate>Wed, 15 Dec 2021 17:49:34 GMT</pubDate>
+            <content:encoded><![CDATA[버버리의 헤리티지를 고스란히 담고 있는 버버리뷰티의 향수, 시그니처 컬렉션을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/7400526b-0ab4-4178-b95f-2358379afb9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원한 아름다움의 순간]]></title>
             <link>https://www.elle.co.kr/article/61701</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 10 Dec 2021 17:49:18 GMT</pubDate>
             <content:encoded><![CDATA[우리 모두 자중해야 할 때.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/aa4ba84b-7165-4451-9c0b-20e9db3a9226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인센스‧향초가 겨울철 건강을 위협한다?_선배's 어드바이스 #94]]></title>
-            <link>https://www.elle.co.kr/article/61826</link>
-            <guid>https://www.elle.co.kr/article/61826</guid>
-            <pubDate>Thu, 09 Dec 2021 17:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[향기에 중독됐다면 꼭 알아야 할 올바른 사용 방법]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/f9b72d92-0624-4114-8b81-e2a0550664a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말에 뭐해? 나 혼자 스파 가지]]></title>
-            <link>https://www.elle.co.kr/article/61799</link>
-            <guid>https://www.elle.co.kr/article/61799</guid>
-            <pubDate>Wed, 08 Dec 2021 05:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[시끌벅적하게 놀다가 확진자 되는 수가 있다. 한해 동안 수고한 나를 위하여, 혼자 조용하고 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/5b8b03a7-696d-4d20-bd24-6d071ca0d918.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
