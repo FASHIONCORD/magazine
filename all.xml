@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 17:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 05:49:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODA4MjlfMTMy/MDAxNTM1NTE1MjM0NjE3.D8P_tunyIIb2sMCnxpv4fJu8ucqLAjA2VClm0fp54N4g.v5VcWe-jc-Pd2QUfPnwAOMNPT4B_MFqMjpfbxcog-6Ug.JPEG/IN2zyhzSm_jpfvQe8hV_k0E7_AKY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[홀리데이엔 샤넬을! Give Wonder, Give CHANEL (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/61898</link>
+            <guid>https://www.elle.co.kr/article/61898</guid>
+            <pubDate>Wed, 15 Dec 2021 05:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[올겨울, 소중한 사람을 위한 특별한 선물이 되어줄 샤넬의 워치 &amp; 화인 주얼리 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/dcc95d4b-45eb-411a-b4cc-78acd981016b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[머리카락 보일라! 올겨울 대세로 떠오른 #바라클라바 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/61943</link>
             <guid>https://www.elle.co.kr/article/61943</guid>
@@ -1854,14 +1862,6 @@
             <pubDate>Fri, 10 Dec 2021 05:40:49 GMT</pubDate>
             <content:encoded><![CDATA[2021년 패션계엔 무슨 일이 었었을까? 시대 흐름에 맞게 발 빠르게 변화한 패션 이슈들과 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/43fdc4d2-7ce1-4e6a-b9ba-123aa1c076f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스크 위에 딱! 바라클라바 스타일링 실전편 Best 5. (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/61806</link>
-            <guid>https://www.elle.co.kr/article/61806</guid>
-            <pubDate>Fri, 10 Dec 2021 05:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[바라클라바, 유행인 건 알겠는데 어떻게 소화해야 할지 모르겠다면 스타들의 룩에서 힌트를 얻어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/d50f1f2c-1ad3-47b7-8e9f-e7921fe4ad82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영원한 아름다움의 순간 (엘르 코리아 ─ 뷰티)]]></title>
@@ -2171,7 +2171,7 @@
             <title><![CDATA[윤계상과 문가영 주연의 '치열(Cheers)' 뮤직비디오! [RECONNECT 2021] (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/62080</link>
             <guid>https://www.elle.co.kr/article/62080</guid>
-            <pubDate>Tue, 14 Dec 2021 17:46:43 GMT</pubDate>
+            <pubDate>Tue, 14 Dec 2021 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[엘르의 두 번째 뮤직프로젝트, 윤계상,문가영 주연 &amp; 코드 쿤스트, AKMU 이찬혁, 콜드,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/2be3d98d-9afc-4498-bfc6-fad44bc27ec8.jpg" length="0" type="image/jpg"/>
         </item>
@@ -2435,7 +2435,7 @@
             <title><![CDATA[우먼 프라이드! 2021년의 여성들 #김초엽 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/62005</link>
             <guid>https://www.elle.co.kr/article/62005</guid>
-            <pubDate>Tue, 14 Dec 2021 17:49:46 GMT</pubDate>
+            <pubDate>Tue, 14 Dec 2021 17:46:19 GMT</pubDate>
             <content:encoded><![CDATA[데뷔작 &lt;우리가 빛의 속도로 갈 수 없다면&gt;부터 &lt;방금 떠나온 세계&gt;까지, 개별 존재에 대한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/11/5f18a7cd-5c1a-4556-b4ff-108c1b5efafd.jpg" length="0" type="image/jpg"/>
         </item>

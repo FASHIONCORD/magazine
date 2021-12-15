@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 17:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 05:49:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홀리데이엔 샤넬을! Give Wonder, Give CHANEL]]></title>
+            <link>https://www.elle.co.kr/article/61898</link>
+            <guid>https://www.elle.co.kr/article/61898</guid>
+            <pubDate>Wed, 15 Dec 2021 05:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[올겨울, 소중한 사람을 위한 특별한 선물이 되어줄 샤넬의 워치 &amp; 화인 주얼리 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/dcc95d4b-45eb-411a-b4cc-78acd981016b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리카락 보일라! 올겨울 대세로 떠오른 #바라클라바]]></title>
             <link>https://www.elle.co.kr/article/61943</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Dec 2021 05:40:49 GMT</pubDate>
             <content:encoded><![CDATA[2021년 패션계엔 무슨 일이 었었을까? 시대 흐름에 맞게 발 빠르게 변화한 패션 이슈들과 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/43fdc4d2-7ce1-4e6a-b9ba-123aa1c076f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스크 위에 딱! 바라클라바 스타일링 실전편 Best 5.]]></title>
-            <link>https://www.elle.co.kr/article/61806</link>
-            <guid>https://www.elle.co.kr/article/61806</guid>
-            <pubDate>Fri, 10 Dec 2021 05:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[바라클라바, 유행인 건 알겠는데 어떻게 소화해야 할지 모르겠다면 스타들의 룩에서 힌트를 얻어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/d50f1f2c-1ad3-47b7-8e9f-e7921fe4ad82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
