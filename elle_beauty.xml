@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 05:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 17:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황신혜의 30년 다이어트 유지 비법 5]]></title>
+            <link>https://www.elle.co.kr/article/62022</link>
+            <guid>https://www.elle.co.kr/article/62022</guid>
+            <pubDate>Thu, 16 Dec 2021 17:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[30년간 지켜온 몸매 유지 비법은? 나이를 초월해 아름다움을 간직한 황신혜의 데일리 루틴을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/12/f74dd003-37a5-4d5a-93db-4c741fc90001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브랜드 크리에이티브 디렉터들이 <엘르> 코리아에 보내온 특별한 시선]]></title>
             <link>https://www.elle.co.kr/article/62010</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Dec 2021 17:49:18 GMT</pubDate>
             <content:encoded><![CDATA[다이어터가 된 수영이 고른 식재료는? 두부면을 이용한 다이어트 파스타 레서피를 참고해보세요....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/c9b14bad-fd99-4e48-b54b-394c9efe2540.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 출현으로 다시 비상 걸린 코로나19 시국, 방역패스 필수인 곳은 어디?]]></title>
-            <link>https://www.elle.co.kr/article/61836</link>
-            <guid>https://www.elle.co.kr/article/61836</guid>
-            <pubDate>Fri, 10 Dec 2021 17:49:18 GMT</pubDate>
-            <content:encoded><![CDATA[우리 모두 자중해야 할 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/aa4ba84b-7165-4451-9c0b-20e9db3a9226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
