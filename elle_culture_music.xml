@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 17:55:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #아이유 #김은선]]></title>
+            <link>https://www.elle.co.kr/article/62207</link>
+            <guid>https://www.elle.co.kr/article/62207</guid>
+            <pubDate>Fri, 17 Dec 2021 17:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[올해도 우뚝 선 아이유와 샌프란시스코오페라 최초의 여성 음악감독으로 데뷔한 김은선.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/68c0b8b7-d4e7-41eb-8ad6-10c001411783.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['리커넥트 2021' 그날 대관령에서 있었던 일 몰아보기 [RECONNECT 2021]]]></title>
+            <link>https://www.elle.co.kr/article/62198</link>
+            <guid>https://www.elle.co.kr/article/62198</guid>
+            <pubDate>Fri, 17 Dec 2021 17:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[윤계상, 문가영, 코드쿤스트, 이찬혁, 콜드, 소금. 어디서도 본 적 없는 의외의 조합이 모...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/cd74cd96-8304-48e8-ad05-ed892e3bd31d.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[윤계상과 문가영 주연의 '치열(Cheers)' 뮤직비디오! [RECONNECT 2021]]]></title>
             <link>https://www.elle.co.kr/article/62080</link>
@@ -94,22 +110,6 @@
             <pubDate>Wed, 27 Oct 2021 17:48:22 GMT</pubDate>
             <content:encoded><![CDATA[윤은혜가 소개하는 방법들로 건강하고, 긍정적인 삶을 위한 작은 습관들을 만들어볼까요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/240da27c-1a78-4ef4-af8e-17fb7a2eedda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의외의 펀치를 날리는 변칙복서들, #훅 #HOOK !]]></title>
-            <link>https://www.elle.co.kr/article/58988</link>
-            <guid>https://www.elle.co.kr/article/58988</guid>
-            <pubDate>Fri, 01 Oct 2021 17:47:16 GMT</pubDate>
-            <content:encoded><![CDATA[정통에 트렌드를 과감하게 믹스하는 7명의 훅]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/de498aaa-57fb-47e9-845f-819e4a3dc3d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이 조합 대박이겠는데?’ 리정이 그린 큰 그림. 최강조합 #YGX]]></title>
-            <link>https://www.elle.co.kr/article/58958</link>
-            <guid>https://www.elle.co.kr/article/58958</guid>
-            <pubDate>Fri, 01 Oct 2021 08:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[춤을 통해 살아 있음을 증명하고 싶은 ‘춤생춤사’ YGX와 엘르가 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/d90d8c31-b676-4262-90e1-9b4ca979df5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

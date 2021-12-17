@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 17:55:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너무 깨끗하게 씻어서 걸릴 수 있다고? 두피 건조증 해결법_선배's 어드바이스 #95]]></title>
+            <link>https://www.elle.co.kr/article/62034</link>
+            <guid>https://www.elle.co.kr/article/62034</guid>
+            <pubDate>Fri, 17 Dec 2021 17:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[너무 깨끗해서 생기기 쉬운 겨울철 두피 트러블 해결법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/421e1b63-ccd1-4ca9-8437-d8a3629c8247.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황신혜의 30년 다이어트 유지 비법 5]]></title>
             <link>https://www.elle.co.kr/article/62022</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Dec 2021 17:49:18 GMT</pubDate>
             <content:encoded><![CDATA[박스를 열면 황홀한 풍경이 눈앞에 펼쳐진다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/ba3e2671-cece-4f7e-b00b-3abc3fb4ce66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수영의 다이어트 파스타 레서피 2]]></title>
-            <link>https://www.elle.co.kr/article/61837</link>
-            <guid>https://www.elle.co.kr/article/61837</guid>
-            <pubDate>Fri, 10 Dec 2021 17:49:18 GMT</pubDate>
-            <content:encoded><![CDATA[다이어터가 된 수영이 고른 식재료는? 두부면을 이용한 다이어트 파스타 레서피를 참고해보세요....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/c9b14bad-fd99-4e48-b54b-394c9efe2540.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
