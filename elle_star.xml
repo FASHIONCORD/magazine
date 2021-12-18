@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 05:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 17:55:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신스 고 업! #쇼미더머니 10의 새로운 역사를 만나다]]></title>
+            <link>https://www.elle.co.kr/article/62165</link>
+            <guid>https://www.elle.co.kr/article/62165</guid>
+            <pubDate>Sat, 18 Dec 2021 17:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[세상에 솔직하게 외치고 싶은 게 아주 많은 신스]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/a5591c32-d508-4279-a283-8347f13428f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동갑내기 커플 김나영-마이큐, 열애 인정 전부터 난리났던 럽스타그램]]></title>
             <link>https://www.elle.co.kr/article/62185</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 16 Dec 2021 17:49:13 GMT</pubDate>
             <content:encoded><![CDATA[어머! 이건 당장 사야 해! *전액 기부*]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/a0b98fc1-695e-4902-b7e7-3accd3f45176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤계상과 문가영 주연의 '치열(Cheers)' 뮤직비디오! [RECONNECT 2021]]]></title>
-            <link>https://www.elle.co.kr/article/62080</link>
-            <guid>https://www.elle.co.kr/article/62080</guid>
-            <pubDate>Thu, 16 Dec 2021 17:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[엘르의 두 번째 뮤직프로젝트, 윤계상,문가영 주연 &amp; 코드 쿤스트, AKMU 이찬혁, 콜드,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/2be3d98d-9afc-4498-bfc6-fad44bc27ec8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

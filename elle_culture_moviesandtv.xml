@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 05:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 17:55:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #한소희 #김소연 #김서형 #이하늬 #이영애 #전지현 #심은경]]></title>
+            <link>https://www.elle.co.kr/article/62220</link>
+            <guid>https://www.elle.co.kr/article/62220</guid>
+            <pubDate>Sat, 18 Dec 2021 17:52:28 GMT</pubDate>
+            <content:encoded><![CDATA['영 블러드' 한소희와 브라운관을 지배한 김소연, 김서형, 이하늬, 이영애, 전지현, 해외 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/19/85601d5d-89d5-49d7-ba88-dadc41ee11ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['리커넥트 2021' 그날 대관령에서 있었던 일 몰아보기 [RECONNECT 2021]]]></title>
             <link>https://www.elle.co.kr/article/62198</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 09 Dec 2021 17:52:55 GMT</pubDate>
             <content:encoded><![CDATA[매 순간 진심을 다하는 뮤직비디오 감독 권오준의 세계.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/b9024bd5-447a-42e3-b5dc-0ebc88510843.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[98년 동안 남자 CEO가 다스리던 디즈니 왕국, 드디어 여자 수장이 나왔다]]></title>
-            <link>https://www.elle.co.kr/article/61909</link>
-            <guid>https://www.elle.co.kr/article/61909</guid>
-            <pubDate>Wed, 08 Dec 2021 17:52:34 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니를 '찐 IP 공룡'으로 만든 '밥 아이거 시대'의 종언.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/855176fd-f550-4afe-8c1a-c1acf93e557f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
