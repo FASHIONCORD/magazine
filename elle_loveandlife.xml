@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 17:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 05:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고기 러버 모여라! 용산구 고기 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/61981</link>
+            <guid>https://www.elle.co.kr/article/61981</guid>
+            <pubDate>Sun, 19 Dec 2021 05:48:29 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 저녁 든든하게 고기 어때요? ’먹잘알’ 스타들이 들른 용산구 고기 맛집을 모아봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/4f758611-2ea6-43f7-8cdd-4262d6968b16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스가 아니면 맛볼 수 없는 케이크가 있다? ‘부쉬 드 노엘’ 케이크]]></title>
+            <link>https://www.elle.co.kr/article/61954</link>
+            <guid>https://www.elle.co.kr/article/61954</guid>
+            <pubDate>Sun, 19 Dec 2021 05:48:29 GMT</pubDate>
+            <content:encoded><![CDATA[a.k.a 통나무 케이크]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/e7be0dfe-e386-47e7-90c9-41b05a45181e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 준비는 맥도날드]]></title>
+            <link>https://www.elle.co.kr/article/61900</link>
+            <guid>https://www.elle.co.kr/article/61900</guid>
+            <pubDate>Sun, 19 Dec 2021 05:48:29 GMT</pubDate>
+            <content:encoded><![CDATA[맥도날드에서 트러플 리치 포테이토 머쉬룸 버거 세트를 구입하면 오너먼트를 선물한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/e478b75c-602d-4f26-bc62-8762912fa8d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스마스를 특별하게 만들어줄 케이크 3]]></title>
             <link>https://www.elle.co.kr/article/61902</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 10 Dec 2021 17:54:19 GMT</pubDate>
             <content:encoded><![CDATA[빵순이들 주목! 윤승아가 고른 베이글 맛집부터 치아바타 맛집까지 낱낱이 알려줄게요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/ab880f0d-158a-49c9-88b0-c3557556717c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빵순이들 당장 주목! 감자빵에 고구마빵까지 있는 해남 카페 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/61794</link>
-            <guid>https://www.elle.co.kr/article/61794</guid>
-            <pubDate>Wed, 08 Dec 2021 05:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[울돌목과 진도대교를 바라보며 차 한 잔 즐길 수 있는 여유로운 공간도.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/19ead9b3-e8ad-47fe-9b07-be3faabb5faf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[땅과 바다와 하늘의 경계를 눈에 담을 수 있는, 땅끝마을 해남 숙소 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/61689</link>
-            <guid>https://www.elle.co.kr/article/61689</guid>
-            <pubDate>Wed, 08 Dec 2021 05:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[숲에 둘러싸인 한옥스테이도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/3ba76531-181f-4929-bfd7-5eae106c1c0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
-            <link>https://www.elle.co.kr/article/61369</link>
-            <guid>https://www.elle.co.kr/article/61369</guid>
-            <pubDate>Wed, 08 Dec 2021 05:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
