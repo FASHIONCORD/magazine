@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 05:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 17:55:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 번에 쓱 #스틱밤]]></title>
+            <link>https://www.elle.co.kr/article/62086</link>
+            <guid>https://www.elle.co.kr/article/62086</guid>
+            <pubDate>Sun, 19 Dec 2021 17:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[손대지 않고 애쓰지 않아도 예뻐지는 스틱 밤]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/f78f0a53-ba3c-44d5-8156-c276a854a437.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박소담이 갑상선 유두암 수술을 받고 회복 중이다]]></title>
             <link>https://www.elle.co.kr/article/62048</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Dec 2021 05:42:16 GMT</pubDate>
             <content:encoded><![CDATA[유산균 섭취 시 주의사항 알아두기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/8392d9c8-dc7f-48b0-8dbd-218d4864535e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이비의 겨울을 위한 데일리 메이크업]]></title>
-            <link>https://www.elle.co.kr/article/61894</link>
-            <guid>https://www.elle.co.kr/article/61894</guid>
-            <pubDate>Sun, 12 Dec 2021 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[건조하고 푸석해지기 쉬운 겨울철엔 데일리 메이크업도 달라져야 합니다. 아이비가 알려주는 팁을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/556e1ab9-8431-4eb9-b944-1ea98fb43e5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
