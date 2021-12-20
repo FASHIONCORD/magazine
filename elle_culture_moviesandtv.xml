@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 05:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 17:56:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #내가키운다 #오은영 #로지 #아뽀키 #한유아]]></title>
+            <link>https://www.elle.co.kr/article/62298</link>
+            <guid>https://www.elle.co.kr/article/62298</guid>
+            <pubDate>Mon, 20 Dec 2021 17:53:49 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 '히어로' 오은영 박사와 버추얼 인플루언서, &lt;내가 키운다&gt;의 엄마들까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/b7c6f63a-d631-484f-aa5f-61eab7c5af8c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음식 상극 부부!? 뼈해장국 좋아하는 라이머가 채식주의자 안현모와 사는 법]]></title>
+            <link>https://www.elle.co.kr/article/62274</link>
+            <guid>https://www.elle.co.kr/article/62274</guid>
+            <pubDate>Mon, 20 Dec 2021 17:53:49 GMT</pubDate>
+            <content:encoded><![CDATA[일상생활에서 가장 중요한 부분 식성.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/d69c66ba-3186-49e5-a34f-2f4901377566.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우먼 프라이드! 2021년의 여성들 #구경이 #성초이작가 #박세은]]></title>
             <link>https://www.elle.co.kr/article/62226</link>
@@ -94,22 +110,6 @@
             <pubDate>Tue, 14 Dec 2021 05:45:17 GMT</pubDate>
             <content:encoded><![CDATA[금세 눈물바다가 된 촬영장.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/44c20f0e-2dca-47be-a6c1-9161a139e44f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #윤여정 #이은지 #츄 #주현영 #장도연 #안영미]]></title>
-            <link>https://www.elle.co.kr/article/62055</link>
-            <guid>https://www.elle.co.kr/article/62055</guid>
-            <pubDate>Mon, 13 Dec 2021 17:50:56 GMT</pubDate>
-            <content:encoded><![CDATA['레이디 미나리' 윤여정과 건강한 웃음을 책임진 올해의 여성 엔터테이너들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/08601413-b015-4ef8-8073-d765fa889ed3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #스우파 #최정남PD #블랙핑크]]></title>
-            <link>https://www.elle.co.kr/article/62019</link>
-            <guid>https://www.elle.co.kr/article/62019</guid>
-            <pubDate>Sat, 11 Dec 2021 17:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;스트릿 우먼 파이터&gt;의 리더들과 최정남PD, 그리고 올해도 반짝인 블랙핑크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/12/da1a0097-ed2f-49c7-ae6a-963329e9218b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

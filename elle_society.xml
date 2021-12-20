@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 05:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 17:56:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #알고있지만 #김가람감독]]></title>
+            <link>https://www.elle.co.kr/article/62174</link>
+            <guid>https://www.elle.co.kr/article/62174</guid>
+            <pubDate>Mon, 20 Dec 2021 17:56:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021년, 당신은 어떤 콘텐츠를 보고, 어떤 인물의 활약에 가슴이 뛰었나요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/2c716e30-0e30-44bd-880d-a998280494c3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퇴직연금, 제대로 알고 있나요?_돈쓸신잡 #24]]></title>
             <link>https://www.elle.co.kr/article/62150</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 16 Dec 2021 17:54:09 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 활약의 소설가 정세랑과 황정은, 반전 매력을 뽐내는 Z세대 뮤지션들까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/d54c2784-30ff-401e-98b7-0d35cc11d284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #스우파 #최정남PD #블랙핑크]]></title>
-            <link>https://www.elle.co.kr/article/62019</link>
-            <guid>https://www.elle.co.kr/article/62019</guid>
-            <pubDate>Thu, 16 Dec 2021 17:54:09 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;스트릿 우먼 파이터&gt;의 리더들과 최정남PD, 그리고 올해도 반짝인 블랙핑크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/12/da1a0097-ed2f-49c7-ae6a-963329e9218b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
