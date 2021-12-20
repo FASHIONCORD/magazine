@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 17:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:49:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/eea32b6d-8216-46a6-8783-476772c777c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뷰티 편집숍 담당자들이 추천하는 숨은 꿀템  (feat. 레이블씨, 라페르바) (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/62109</link>
+            <guid>https://www.elle.co.kr/article/62109</guid>
+            <pubDate>Mon, 20 Dec 2021 05:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[알게 모르게 인기 많은 히든 히어로 아이템은 무엇인가요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/7ec577c9-e563-4d5b-92eb-59b2f03c6c2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한 번에 쓱 #스틱밤 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/62086</link>
             <guid>https://www.elle.co.kr/article/62086</guid>
@@ -1918,14 +1926,6 @@
             <pubDate>Mon, 13 Dec 2021 17:49:12 GMT</pubDate>
             <content:encoded><![CDATA[마이애미 해변의 아트 바젤에서 만난 숭고한 세계. 라프레리와 함께 빛과 물에서 영감 받은 웬...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/57e21475-af24-4568-9068-058dfe61576f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유산균, 이럴 땐 먹지 마세요!_몸에 좋은 잔소리 #34 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/61962</link>
-            <guid>https://www.elle.co.kr/article/61962</guid>
-            <pubDate>Mon, 13 Dec 2021 05:42:16 GMT</pubDate>
-            <content:encoded><![CDATA[유산균 섭취 시 주의사항 알아두기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/8392d9c8-dc7f-48b0-8dbd-218d4864535e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신스 고 업! #쇼미더머니 10의 새로운 역사를 만나다 (엘르 코리아 ─ 스타)]]></title>
@@ -2267,7 +2267,7 @@
             <title><![CDATA[우먼 프라이드! 2021년의 여성들 #구경이 #성초이작가 #박세은 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/62226</link>
             <guid>https://www.elle.co.kr/article/62226</guid>
-            <pubDate>Sun, 19 Dec 2021 17:53:02 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 17:52:50 GMT</pubDate>
             <content:encoded><![CDATA[2021년, 당신은 어떤 콘텐츠를 보고, 어떤 인물의 활약에 가슴이 뛰었나요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/664fd3b9-8c3e-4bb8-82d4-74764ceb4259.jpg" length="0" type="image/jpg"/>
         </item>
