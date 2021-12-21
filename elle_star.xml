@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 17:56:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 크리스마스! 한 발 빠르게! 크리스마스를 맞이하는 자세]]></title>
+            <link>https://www.elle.co.kr/article/62219</link>
+            <guid>https://www.elle.co.kr/article/62219</guid>
+            <pubDate>Tue, 21 Dec 2021 17:50:59 GMT</pubDate>
+            <content:encoded><![CDATA[엄지원, 공효진, 장윤주, 크리스탈 등 스타들의 SNS에서 포착된 크리스마스 준비 풍경.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/aa98baec-bab5-40e9-8849-9b9ecb161178.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['그 해 우리는' 김다미 VS 노정의 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/62213</link>
+            <guid>https://www.elle.co.kr/article/62213</guid>
+            <pubDate>Tue, 21 Dec 2021 17:50:59 GMT</pubDate>
+            <content:encoded><![CDATA[청춘 배우들의 상큼하고 탄탄한 케미가 돋보이는 드라마 &lt;그 해 우리는&gt;. 이를 통해 열연을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/a02454d4-5856-411c-b394-7029097893a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['리커넥트 2021' 그날 대관령에서 있었던 일 몰아보기 [RECONNECT 2021]]]></title>
             <link>https://www.elle.co.kr/article/62198</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 18 Dec 2021 05:41:27 GMT</pubDate>
             <content:encoded><![CDATA['호랑이 열정 호열이'도 곧 다시 볼 수 있을 전망.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/3a36680f-f80f-4ff5-88ec-65fec89ea557.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘터프팅' 관심 있다면 주목! 송경아가 소개하는 #인싸취미]]></title>
-            <link>https://www.elle.co.kr/article/62159</link>
-            <guid>https://www.elle.co.kr/article/62159</guid>
-            <pubDate>Sat, 18 Dec 2021 05:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[느낌 있는 인테리어 소품으로 강력 추천! 송경아와 함께 알록달록 복슬복슬한 매력의 터프팅 소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/b4607fef-76f1-4275-8c18-206ba5615726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홀리데이 분위기에 딱! 스타의 각양각색 크리스마스 트리 5]]></title>
-            <link>https://www.elle.co.kr/article/62104</link>
-            <guid>https://www.elle.co.kr/article/62104</guid>
-            <pubDate>Sat, 18 Dec 2021 05:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[코앞으로 다가온 크리스마스! 홀리데이 분위기를 느끼기 좋은 트리를 스타들은 어떻게 꾸몄을까요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/c4fc78af-7b82-4cc6-8cec-4cc306d5c735.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

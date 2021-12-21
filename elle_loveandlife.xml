@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 17:56:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘고짠고짠’ 소금빵 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/62091</link>
+            <guid>https://www.elle.co.kr/article/62091</guid>
+            <pubDate>Tue, 21 Dec 2021 17:54:35 GMT</pubDate>
+            <content:encoded><![CDATA[안 먹어 본 사람은 있어도 한 번만 먹어 본 사람은 없다는 소금빵. 버터의 풍미와 소금의 짭...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/ad53ac9e-7d1d-4de0-b3b5-1d7854fea96e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이탈리아 사람들처럼 짧고 진하게 에스프레소 한 잔? 새로 생긴 에스프레소 바 3 #신상맛집]]></title>
+            <link>https://www.elle.co.kr/article/62059</link>
+            <guid>https://www.elle.co.kr/article/62059</guid>
+            <pubDate>Tue, 21 Dec 2021 17:54:35 GMT</pubDate>
+            <content:encoded><![CDATA[바쁘다 바빠 현대 사회!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/9183c937-80e8-4f7a-b6fd-961e64d4b180.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고기 러버 모여라! 용산구 고기 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/61981</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 10 Dec 2021 17:54:19 GMT</pubDate>
             <content:encoded><![CDATA[핫플 예감 솔솔.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/37a05ec1-42a8-459d-b7dc-0cc67798adfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수영의 다이어트 파스타 레서피 2]]></title>
-            <link>https://www.elle.co.kr/article/61837</link>
-            <guid>https://www.elle.co.kr/article/61837</guid>
-            <pubDate>Fri, 10 Dec 2021 17:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[다이어터가 된 수영이 고른 식재료는? 두부면을 이용한 다이어트 파스타 레서피를 참고해보세요....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/c9b14bad-fd99-4e48-b54b-394c9efe2540.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아 픽 서울 빵집 3]]></title>
-            <link>https://www.elle.co.kr/article/61795</link>
-            <guid>https://www.elle.co.kr/article/61795</guid>
-            <pubDate>Fri, 10 Dec 2021 17:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[빵순이들 주목! 윤승아가 고른 베이글 맛집부터 치아바타 맛집까지 낱낱이 알려줄게요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/ab880f0d-158a-49c9-88b0-c3557556717c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
