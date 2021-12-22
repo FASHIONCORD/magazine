@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 17:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:48:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지속가능한 다이어트를 위해! 안소희의 건강 식단 3]]></title>
+            <link>https://www.elle.co.kr/article/62224</link>
+            <guid>https://www.elle.co.kr/article/62224</guid>
+            <pubDate>Wed, 22 Dec 2021 05:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[요리가 어렵다고요? 걱정하지 마세요. 요즘 식단 관리 중이라는 안소희가 추천하는 쉽고 건강한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/19/63125a8c-855a-4932-a55d-f559640ae4d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송혜교, 지금 뭐 먹는 중?]]></title>
+            <link>https://www.elle.co.kr/article/62046</link>
+            <guid>https://www.elle.co.kr/article/62046</guid>
+            <pubDate>Wed, 22 Dec 2021 05:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[내가 먹는 것이 곧 내가 된다. 송혜교는 콜라겐을 챙겨 마신다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/ba5917bc-832c-4f08-8681-a0e056097e14.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위드 코로나 18일부터 '잠시 멈춤'! 반드시 알아둬야 할 것들]]></title>
             <link>https://www.elle.co.kr/article/62146</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 16 Dec 2021 17:49:00 GMT</pubDate>
             <content:encoded><![CDATA[30년간 지켜온 몸매 유지 비법은? 나이를 초월해 아름다움을 간직한 황신혜의 데일리 루틴을 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/12/f74dd003-37a5-4d5a-93db-4c741fc90001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드 크리에이티브 디렉터들이 <엘르> 코리아에 보내온 특별한 시선]]></title>
-            <link>https://www.elle.co.kr/article/62010</link>
-            <guid>https://www.elle.co.kr/article/62010</guid>
-            <pubDate>Wed, 15 Dec 2021 17:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 아이덴티티를 구축하는 '키 메이커'인 크리에이티브 디렉터에게 우리가 보는 제품 형태 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/11/6f6a1862-6be8-4ae3-9e3f-c0e26df8d1c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향으로 떠나는 영국 여행, 버버리뷰티 시그니처 컬렉션]]></title>
-            <link>https://www.elle.co.kr/article/61984</link>
-            <guid>https://www.elle.co.kr/article/61984</guid>
-            <pubDate>Wed, 15 Dec 2021 17:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[버버리의 헤리티지를 고스란히 담고 있는 버버리뷰티의 향수, 시그니처 컬렉션을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/7400526b-0ab4-4178-b95f-2358379afb9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

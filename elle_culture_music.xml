@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 17:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:48:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #이영지 #제시]]></title>
+            <link>https://www.elle.co.kr/article/62336</link>
+            <guid>https://www.elle.co.kr/article/62336</guid>
+            <pubDate>Wed, 22 Dec 2021 05:45:52 GMT</pubDate>
+            <content:encoded><![CDATA['굿 걸' 제시와 '네오 걸' 이영지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/64faaf95-1743-43a4-bfe0-fdd825a9b331.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우먼 프라이드! 2021년의 여성들 #아이유 #김은선]]></title>
             <link>https://www.elle.co.kr/article/62207</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 29 Oct 2021 17:48:06 GMT</pubDate>
             <content:encoded><![CDATA[새 EP &lt;드라이브&gt;로 산뜻한 주행을 알린 김사월. 엑셀을 밟는 김사월의 마음과 호흡은 이전...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/e8a0a767-3cbf-4c6b-b668-c20c6a2d9686.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤은혜가 알려주는 ‘행복지수 올리는 법’]]></title>
-            <link>https://www.elle.co.kr/article/60664</link>
-            <guid>https://www.elle.co.kr/article/60664</guid>
-            <pubDate>Wed, 27 Oct 2021 17:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[윤은혜가 소개하는 방법들로 건강하고, 긍정적인 삶을 위한 작은 습관들을 만들어볼까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/240da27c-1a78-4ef4-af8e-17fb7a2eedda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
