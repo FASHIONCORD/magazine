@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 05:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 17:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈이 번쩍! 신 스틸러 그 자체가 된 세트 디자인 이야기 (2)]]></title>
+            <link>https://www.elle.co.kr/article/62389</link>
+            <guid>https://www.elle.co.kr/article/62389</guid>
+            <pubDate>Wed, 22 Dec 2021 17:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;오징어 게임&gt;과 &lt;듄&gt;의 프로덕션 디자인부터 런던 하늘에 초대형 버블을 올린 알렉산더 맥퀸...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/38a4b64a-961f-4baf-ac71-38c705f43a25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈이 번쩍! 신 스틸러 그 자체가 된 세트 디자인 이야기 (1)]]></title>
             <link>https://www.elle.co.kr/article/62337</link>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 29 Nov 2021 05:45:53 GMT</pubDate>
             <content:encoded><![CDATA[조각가 권진규와 사진가 목정욱의 만남.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c89c4ab5-ba2b-4e44-a4ee-b2fc97c78b80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기상천외한 초현실주의 미술의 세계를 이해하고 싶다면? 살바도르 달리 전시회로 #인싸 전시_39]]></title>
-            <link>https://www.elle.co.kr/article/61591</link>
-            <guid>https://www.elle.co.kr/article/61591</guid>
-            <pubDate>Mon, 29 Nov 2021 05:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[예술사에서 전무후무한 캐릭터, 살바도르 달리와 떠나는 초현실적 아트 월드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/01096355-9296-4abf-8250-8c5f1e181ddc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

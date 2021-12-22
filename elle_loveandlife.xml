@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 05:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 17:57:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인증샷 필수! 데이트하기 좋은 뷰 맛집 3.]]></title>
+            <link>https://www.elle.co.kr/article/62218</link>
+            <guid>https://www.elle.co.kr/article/62218</guid>
+            <pubDate>Wed, 22 Dec 2021 17:56:06 GMT</pubDate>
+            <content:encoded><![CDATA[한옥 뷰부터 숲 속 뷰까지! 인스타그래머블한 뷰 맛집을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/78b12610-ab31-4826-a529-34fc716ef086.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시골 마을 오두막과 대나무 숲에서 즐기는 커피 브레이크! 서산 카페 셋 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/62214</link>
+            <guid>https://www.elle.co.kr/article/62214</guid>
+            <pubDate>Wed, 22 Dec 2021 17:56:06 GMT</pubDate>
+            <content:encoded><![CDATA[감성 풀충전에 인생 사진까지 남길 수 있는 서산 카페들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/1ef79343-8a56-4e2b-afc4-5ca09d0738d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘고짠고짠’ 소금빵 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/62091</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 15 Dec 2021 17:55:31 GMT</pubDate>
             <content:encoded><![CDATA[조금 더 특별하게 크리스마스를 보내고 싶은 당신을 위해 준비했어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/760980da-7045-491d-ade5-64f11144b0fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상다리가 휘다 못해 부러질 것 같은 푸짐한 전라도 인심! 해남 맛집 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/61896</link>
-            <guid>https://www.elle.co.kr/article/61896</guid>
-            <pubDate>Tue, 14 Dec 2021 05:46:12 GMT</pubDate>
-            <content:encoded><![CDATA[방문한다고 무조건 먹을 수 없는 메뉴도 있으니 꼭 확인하시길.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/d5bf13e0-6750-40e9-8d5a-6a48308ae664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타코·커피·라자냐를 사랑한다면 서울숲으로! 콘셉트 확실한 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/61895</link>
-            <guid>https://www.elle.co.kr/article/61895</guid>
-            <pubDate>Fri, 10 Dec 2021 17:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[핫플 예감 솔솔.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/37a05ec1-42a8-459d-b7dc-0cc67798adfa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
