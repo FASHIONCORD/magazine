@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 05:50:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 17:55:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스타스 세레메티스의 아카이브를 한데 모은, ‘The All Mighty’ 아트북 출간]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32985966&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32985966&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 23 Dec 2021 17:47:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMTk4/MDAxNjQwMDc2NTg5NjY3.HeilVuwzJFbQeIq4k20VNvbJXrKkhNm8Gkhq0rVGVTUg.GwJ7BOjcfkJNogqUPfRtC00jm7lEJX8iMx3t4m2rcdQg.JPEG/Igi9Fb838mfBVpu2C_4oEitYAAXo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퓨추라 국내 전시 기념 발매된, BTS 협업 머치 들여다보기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32891985&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MjNfMjQy/MDAxNTkyODk2NTcxMDQ5.pO4TWd2RvofhWm13J3vD90TLBAqaQ0zLUyd57lSUokgg.s2SnHpBYeworhgJ1QPXZdhIlX3_fhkAdFm_-8R19us0g.JPEG/IBWiroRsx_t7_X9udVy9_49XODkU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄바람과 함께 조심스레 추천하는 5월의 전시 8선]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28210131&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28210131&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MDdfMjI5/MDAxNTg4ODE3OTEyMjM2.0aLRx9_OqmbLK1OMPyvPgJEqRatnxKEDC1IiPX8m3Qcg.ZviCrd4JsmKGTpQTprT6XOY6O3mdEGnr26rNSTzcyGog.JPEG/ISklvnBPiJzjZXhK8ICdmTvGzbtg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
