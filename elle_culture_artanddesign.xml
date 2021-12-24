@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 17:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈이 번쩍! 신 스틸러 그 자체가 된 세트 디자인 이야기 (4)]]></title>
+            <link>https://www.elle.co.kr/article/62488</link>
+            <guid>https://www.elle.co.kr/article/62488</guid>
+            <pubDate>Fri, 24 Dec 2021 17:52:06 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;오징어 게임&gt;과 &lt;듄&gt;의 프로덕션 디자인부터 런던 하늘에 초대형 버블을 올린 알렉산더 맥퀸...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/320a9672-d262-4ad5-9cc4-35f9e5c159be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈이 번쩍! 신 스틸러 그 자체가 된 세트 디자인 이야기 (2)]]></title>
             <link>https://www.elle.co.kr/article/62389</link>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 01 Dec 2021 05:46:22 GMT</pubDate>
             <content:encoded><![CDATA[별처럼 쏟아지는 여자들의 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/a58c6b1b-c424-409b-85ca-79beef52d555.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[근대 조각가의 영원한 정신성을 현대 사진으로 포착한 '불멸의 초상' #인싸 전시]]></title>
-            <link>https://www.elle.co.kr/article/61613</link>
-            <guid>https://www.elle.co.kr/article/61613</guid>
-            <pubDate>Mon, 29 Nov 2021 05:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[조각가 권진규와 사진가 목정욱의 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c89c4ab5-ba2b-4e44-a4ee-b2fc97c78b80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

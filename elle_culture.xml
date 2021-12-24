@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 17:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 중에 누가 떨어져야 된다고? '스걸파' 최고 명장면 등극한 아마존 VS 클루씨 탈락 배틀]]></title>
+            <link>https://www.elle.co.kr/article/62370</link>
+            <guid>https://www.elle.co.kr/article/62370</guid>
+            <pubDate>Fri, 24 Dec 2021 17:50:46 GMT</pubDate>
+            <content:encoded><![CDATA[이날 무려 네 크루가 아쉽게 탈락했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/cdcb63c7-fa9f-44b8-9d15-43247c307174.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈이 번쩍! 신 스틸러 그 자체가 된 세트 디자인 이야기 (1)]]></title>
             <link>https://www.elle.co.kr/article/62337</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 05:42:54 GMT</pubDate>
             <content:encoded><![CDATA[엄지원, 공효진, 장윤주, 크리스탈 등 스타들의 SNS에서 포착된 크리스마스 준비 풍경.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/aa98baec-bab5-40e9-8849-9b9ecb161178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인증샷 필수! 데이트하기 좋은 뷰 맛집 3.]]></title>
-            <link>https://www.elle.co.kr/article/62218</link>
-            <guid>https://www.elle.co.kr/article/62218</guid>
-            <pubDate>Mon, 20 Dec 2021 17:51:27 GMT</pubDate>
-            <content:encoded><![CDATA[한옥 뷰부터 숲 속 뷰까지! 인스타그래머블한 뷰 맛집을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/78b12610-ab31-4826-a529-34fc716ef086.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

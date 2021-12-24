@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 05:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 17:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤하늘에 펄이 펄펄]]></title>
+            <link>https://www.elle.co.kr/article/62227</link>
+            <guid>https://www.elle.co.kr/article/62227</guid>
+            <pubDate>Fri, 24 Dec 2021 17:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[비오가 부릅니다. "shining star~ 홀리데이 펄~" 글리터 가루가 선사하는 마법 같...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/87520b0d-d9dd-4ddc-82e5-70c9a2f9a9fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지속가능한 다이어트를 위해! 안소희의 건강 식단 3]]></title>
             <link>https://www.elle.co.kr/article/62224</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 17 Dec 2021 17:48:47 GMT</pubDate>
             <content:encoded><![CDATA[너무 깨끗해서 생기기 쉬운 겨울철 두피 트러블 해결법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/421e1b63-ccd1-4ca9-8437-d8a3629c8247.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황신혜의 30년 다이어트 유지 비법 5]]></title>
-            <link>https://www.elle.co.kr/article/62022</link>
-            <guid>https://www.elle.co.kr/article/62022</guid>
-            <pubDate>Thu, 16 Dec 2021 17:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[30년간 지켜온 몸매 유지 비법은? 나이를 초월해 아름다움을 간직한 황신혜의 데일리 루틴을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/12/f74dd003-37a5-4d5a-93db-4c741fc90001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
