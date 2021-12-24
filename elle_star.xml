@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 17:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 05:45:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해사한 매력을 가진 이성경의 겨울]]></title>
+            <link>https://www.elle.co.kr/article/62262</link>
+            <guid>https://www.elle.co.kr/article/62262</guid>
+            <pubDate>Fri, 24 Dec 2021 05:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[배우 이성경은 바람 앞에 꺾이지 않는 꽃처럼 유연하게 자신만의 속도로 성장하고 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/eeef6191-7a64-486c-af0d-3e8766b3cc5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트 마스터의 초간단 비건 샐러드 레서피 2]]></title>
             <link>https://www.elle.co.kr/article/62342</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Dec 2021 17:50:59 GMT</pubDate>
             <content:encoded><![CDATA[엄지원, 공효진, 장윤주, 크리스탈 등 스타들의 SNS에서 포착된 크리스마스 준비 풍경.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/aa98baec-bab5-40e9-8849-9b9ecb161178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그 해 우리는' 김다미 VS 노정의 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/62213</link>
-            <guid>https://www.elle.co.kr/article/62213</guid>
-            <pubDate>Tue, 21 Dec 2021 17:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[청춘 배우들의 상큼하고 탄탄한 케미가 돋보이는 드라마 &lt;그 해 우리는&gt;. 이를 통해 열연을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/a02454d4-5856-411c-b394-7029097893a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
