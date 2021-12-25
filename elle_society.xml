@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 17:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 05:45:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #이영지 #제시]]></title>
+            <link>https://www.elle.co.kr/article/62336</link>
+            <guid>https://www.elle.co.kr/article/62336</guid>
+            <pubDate>Sat, 25 Dec 2021 05:45:53 GMT</pubDate>
+            <content:encoded><![CDATA['굿 걸' 제시와 '네오 걸' 이영지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/64faaf95-1743-43a4-bfe0-fdd825a9b331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #내가키운다 #오은영 #로지 #아뽀키 #한유아]]></title>
+            <link>https://www.elle.co.kr/article/62298</link>
+            <guid>https://www.elle.co.kr/article/62298</guid>
+            <pubDate>Sat, 25 Dec 2021 05:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 '히어로' 오은영 박사와 버추얼 인플루언서, &lt;내가 키운다&gt;의 엄마들까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/b7c6f63a-d631-484f-aa5f-61eab7c5af8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우먼 프라이드! 2021년의 여성들 #구경이 #성초이작가 #박세은]]></title>
             <link>https://www.elle.co.kr/article/62226</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 19 Dec 2021 17:55:21 GMT</pubDate>
             <content:encoded><![CDATA[우리는 모두 늙고, 언젠간 은퇴한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/cc4f5ea6-89fb-4646-909c-eb3dcfd2e566.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위드 코로나 18일부터 '잠시 멈춤'! 반드시 알아둬야 할 것들]]></title>
-            <link>https://www.elle.co.kr/article/62146</link>
-            <guid>https://www.elle.co.kr/article/62146</guid>
-            <pubDate>Sat, 18 Dec 2021 17:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[회식, 송년회, 대면회의 멈춰!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/6fc709d0-10f2-42cc-a541-3832fcfd84a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #골때리는그녀들 #장정희작가 #김화정PD]]></title>
-            <link>https://www.elle.co.kr/article/62138</link>
-            <guid>https://www.elle.co.kr/article/62138</guid>
-            <pubDate>Sat, 18 Dec 2021 17:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[슛! 운동하는 여성에 대한 담론, &lt;골 때리는 그녀들&gt;을 만드는 여성들 장정희, 김화정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/2df55e8c-fcc4-4ff6-a89c-630131351548.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
