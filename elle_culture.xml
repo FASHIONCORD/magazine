@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 05:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 17:54:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #여성PD들 #이진주 이은규 #이승주 #오예진]]></title>
+            <link>https://www.elle.co.kr/article/62438</link>
+            <guid>https://www.elle.co.kr/article/62438</guid>
+            <pubDate>Sun, 26 Dec 2021 17:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;환승연애&gt; 이진주PD와 영 제너레이션 다큐멘터리 PD 이은규, 이승주, 오예진.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/63cdd2b2-b925-4c3e-ac5a-40b4225ac67e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우먼 프라이드! 2021년의 여성들 #김지연 #조문주 #김희원 #백미경 #알간지]]></title>
             <link>https://www.elle.co.kr/article/62390</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 05:42:54 GMT</pubDate>
             <content:encoded><![CDATA[일상생활에서 가장 중요한 부분 식성.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/d69c66ba-3186-49e5-a34f-2f4901377566.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #구경이 #성초이작가 #박세은]]></title>
-            <link>https://www.elle.co.kr/article/62226</link>
-            <guid>https://www.elle.co.kr/article/62226</guid>
-            <pubDate>Fri, 24 Dec 2021 05:42:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021년, 당신은 어떤 콘텐츠를 보고, 어떤 인물의 활약에 가슴이 뛰었나요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/664fd3b9-8c3e-4bb8-82d4-74764ceb4259.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
