@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 17:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 05:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2264,6 +2264,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/2df55e8c-fcc4-4ff6-a89c-630131351548.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[겨울엔 전시 데이트! 미리미리 준비하세요 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/62493</link>
+            <guid>https://www.elle.co.kr/article/62493</guid>
+            <pubDate>Sun, 26 Dec 2021 05:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[올겨울 놓치지 말아야 할 전시 3]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/0ccf9228-465f-4af6-88db-ecefcdd8f542.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[눈이 번쩍! 신 스틸러 그 자체가 된 세트 디자인 이야기 (4) (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/62488</link>
             <guid>https://www.elle.co.kr/article/62488</guid>
@@ -2358,14 +2366,6 @@
             <pubDate>Thu, 02 Dec 2021 17:50:18 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대, 샤이니, f(x), 엑소, 레드벨벳, NCT의 이미지를 만든 인물.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/1fdeae7d-ca2e-4cc9-b04f-6a590b83410f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자들의 여정 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/61682</link>
-            <guid>https://www.elle.co.kr/article/61682</guid>
-            <pubDate>Wed, 01 Dec 2021 05:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[별처럼 쏟아지는 여자들의 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/a58c6b1b-c424-409b-85ca-79beef52d555.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지속가능한 다이어트를 위해! 안소희의 건강 식단 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
