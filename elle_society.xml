@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 17:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 05:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #여성PD들 #이진주 이은규 #이승주 #오예진]]></title>
+            <link>https://www.elle.co.kr/article/62438</link>
+            <guid>https://www.elle.co.kr/article/62438</guid>
+            <pubDate>Mon, 27 Dec 2021 05:48:39 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;환승연애&gt; 이진주PD와 영 제너레이션 다큐멘터리 PD 이은규, 이승주, 오예진.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/63cdd2b2-b925-4c3e-ac5a-40b4225ac67e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왜 신지도 않을 운동화를 수백만원 주고 살까?_돈쓸신잡 #25]]></title>
             <link>https://www.elle.co.kr/article/62404</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Dec 2021 17:55:51 GMT</pubDate>
             <content:encoded><![CDATA[올해도 우뚝 선 아이유와 샌프란시스코오페라 최초의 여성 음악감독으로 데뷔한 김은선.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/68c0b8b7-d4e7-41eb-8ad6-10c001411783.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 세 번째 유기견 입양한 유연석이 새 가족 리타를 위해 구비한 최첨단 시스템]]></title>
-            <link>https://www.elle.co.kr/article/62192</link>
-            <guid>https://www.elle.co.kr/article/62192</guid>
-            <pubDate>Wed, 22 Dec 2021 05:48:32 GMT</pubDate>
-            <content:encoded><![CDATA['사지 말고 입양하라'는 말을 가장 잘 지키고 있는 스타 중 한 명.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/6b6d35ff-1839-4cc2-bb63-294e9d2ccdec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
