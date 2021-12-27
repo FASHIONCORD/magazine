@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 17:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어트 마스터의 초간단 비건 샐러드 레서피 2]]></title>
+            <link>https://www.elle.co.kr/article/62342</link>
+            <guid>https://www.elle.co.kr/article/62342</guid>
+            <pubDate>Mon, 27 Dec 2021 17:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트 마스터 전효성이 알려주는 초간단 비건 샐러드 레서피를 공개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/2d5e3eb7-4c71-43a7-82ed-d55f7e178be2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결혼 후 인생 최고 몸무게 찍은 NS윤지! 일주일에 5kg 빼 주는 에어리얼 후프는?]]></title>
             <link>https://www.elle.co.kr/article/62324</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Dec 2021 05:43:29 GMT</pubDate>
             <content:encoded><![CDATA[알게 모르게 인기 많은 히든 히어로 아이템은 무엇인가요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/7ec577c9-e563-4d5b-92eb-59b2f03c6c2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 번에 쓱 #스틱밤]]></title>
-            <link>https://www.elle.co.kr/article/62086</link>
-            <guid>https://www.elle.co.kr/article/62086</guid>
-            <pubDate>Sun, 19 Dec 2021 17:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[손대지 않고 애쓰지 않아도 예뻐지는 스틱 밤]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/f78f0a53-ba3c-44d5-8156-c276a854a437.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 17:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아가 온다!]]></title>
+            <link>https://www.elle.co.kr/article/62530</link>
+            <guid>https://www.elle.co.kr/article/62530</guid>
+            <pubDate>Mon, 27 Dec 2021 17:54:49 GMT</pubDate>
+            <content:encoded><![CDATA[가장 21세기적인 20세기의 혁명. 러시아 아방가르드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/9bf294d9-e99e-46ec-a89b-a32cf2d40e50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울엔 전시 데이트! 미리미리 준비하세요]]></title>
             <link>https://www.elle.co.kr/article/62493</link>
@@ -56,12 +64,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/aa98baec-bab5-40e9-8849-9b9ecb161178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인증샷 필수! 데이트하기 좋은 뷰 맛집 3.]]></title>
+            <title><![CDATA[상대에게_인정받기_만랩_데이트하기 좋은 뷰 맛집 3. (인증샷 필수!)]]></title>
             <link>https://www.elle.co.kr/article/62218</link>
             <guid>https://www.elle.co.kr/article/62218</guid>
             <pubDate>Sat, 18 Dec 2021 17:52:41 GMT</pubDate>
             <content:encoded><![CDATA[한옥 뷰부터 숲 속 뷰까지! 인스타그래머블한 뷰 맛집을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/78b12610-ab31-4826-a529-34fc716ef086.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/78b12610-ab31-4826-a529-34fc716ef086.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계 인스타그래머들이 일상에서 우연히 만난 '웨스 앤더슨스러운' 순간들 #인싸 전시_41]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 10 Dec 2021 05:45:58 GMT</pubDate>
             <content:encoded><![CDATA[까다로운 취향을 지닌 당신의 멋진 연말을 완성해 줄 17가지 기프트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/1a63a196-0fea-41f9-83f5-be7142e9edbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기]]></title>
-            <link>https://www.elle.co.kr/article/61736</link>
-            <guid>https://www.elle.co.kr/article/61736</guid>
-            <pubDate>Fri, 03 Dec 2021 05:47:19 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대, 샤이니, f(x), 엑소, 레드벨벳, NCT의 이미지를 만든 인물.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/1fdeae7d-ca2e-4cc9-b04f-6a590b83410f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

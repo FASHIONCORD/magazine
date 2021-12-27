@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 17:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호미들 인터뷰: 새로운 세대의 시작을 선포하다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33018251&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33018251&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 27 Dec 2021 17:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMjAz/MDAxNjQwNTg3NDMxMTg2.0nAjkkt63J_GWbmZh0Zxm5Wng5VACH-A874H9l-_BzYg._VFWDpiYPQY4YbNVFuPgc71tWigmgT5--_owyP7bpzEg.JPEG/IS8UxHWEsHYlh6nU6KzO_d00N7ow.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['쇼미더머니 10'에서 주목해야 할 래퍼들 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32441122&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTJfMTc0/MDAxNjE4MjExOTEyODE3.7B-cuAmra1xQ3koDMbX2Q_r3fO-ZDG2Aa48ouuE5Fh4g.Lx6TSTfGFz41uZcqxlTXtyKGsYSm-1qp2OBBKLAfsrsg.JPEG/IbuzFQwsRYHTVUOGCyai8iGRI4YQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI가 새롭게 만든 너바나, 에이미 와인하우스, 지미 헨드릭스의 음악이 공개됐다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31151215&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31151215&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDZfMTIz/MDAxNjE3Njk5NjEzNjg2.XzcGIUERYy9H0RlJE1dKTZgqGBac5q-U6dpxiRdJU6Qg.NHTW40I6MMrSyPVlF1v-dGIpjQpmZ4E9AzfPqDMO3tcg.JPEG/I_BUiYOSmiX6xqg1jWh88_7BWbe0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 17:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커피와 디저트에 문화가 녹아있는 곳! 두 가지 매력의 을지로-광흥창-한남동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/62302</link>
+            <guid>https://www.elle.co.kr/article/62302</guid>
+            <pubDate>Mon, 27 Dec 2021 17:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[을지로 사진거리에 있는 암실 콘셉트 카페부터 호주 커피문화를 접할 수 있는 카페까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/a48415c6-aeb2-4083-a148-712b129193fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지속가능한 다이어트를 위해! 안소희의 건강 식단 3]]></title>
             <link>https://www.elle.co.kr/article/62224</link>
@@ -16,12 +24,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/19/63125a8c-855a-4932-a55d-f559640ae4d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인증샷 필수! 데이트하기 좋은 뷰 맛집 3.]]></title>
+            <title><![CDATA[상대에게_인정받기_만랩_데이트하기 좋은 뷰 맛집 3. (인증샷 필수!)]]></title>
             <link>https://www.elle.co.kr/article/62218</link>
             <guid>https://www.elle.co.kr/article/62218</guid>
             <pubDate>Wed, 22 Dec 2021 17:56:06 GMT</pubDate>
             <content:encoded><![CDATA[한옥 뷰부터 숲 속 뷰까지! 인스타그래머블한 뷰 맛집을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/78b12610-ab31-4826-a529-34fc716ef086.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/78b12610-ab31-4826-a529-34fc716ef086.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시골 마을 오두막과 대나무 숲에서 즐기는 커피 브레이크! 서산 카페 셋 #소도시여행]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 19 Dec 2021 05:48:29 GMT</pubDate>
             <content:encoded><![CDATA[a.k.a 통나무 케이크]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/e7be0dfe-e386-47e7-90c9-41b05a45181e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 준비는 맥도날드]]></title>
-            <link>https://www.elle.co.kr/article/61900</link>
-            <guid>https://www.elle.co.kr/article/61900</guid>
-            <pubDate>Sun, 19 Dec 2021 05:48:29 GMT</pubDate>
-            <content:encoded><![CDATA[맥도날드에서 트러플 리치 포테이토 머쉬룸 버거 세트를 구입하면 오너먼트를 선물한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/e478b75c-602d-4f26-bc62-8762912fa8d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
