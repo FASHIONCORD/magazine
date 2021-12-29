@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 17:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:49:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김장이 이렇게 쉽다고? 진짜 쩝쩝박사 이장우의 섞박지+봄동 겉절이 레시피]]></title>
+            <link>https://www.elle.co.kr/article/62544</link>
+            <guid>https://www.elle.co.kr/article/62544</guid>
+            <pubDate>Wed, 29 Dec 2021 05:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[이제 그냥 가루장인이라는 별명으론 부족하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/097c4a9c-9d94-405c-a27d-43993da96da1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성공한 덕후는 영원히 행복할 수 있을까]]></title>
             <link>https://www.elle.co.kr/article/62532</link>
@@ -102,14 +110,6 @@
             <pubDate>Sat, 18 Dec 2021 05:42:47 GMT</pubDate>
             <content:encoded><![CDATA[2021년, 당신은 어떤 콘텐츠를 보고, 어떤 인물의 활약에 가슴이 뛰었나요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/2c716e30-0e30-44bd-880d-a998280494c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스칼렛 교환슨' 구교환이 직접 밝힌 '초현실 남친짤'의 비밀]]></title>
-            <link>https://www.elle.co.kr/article/62164</link>
-            <guid>https://www.elle.co.kr/article/62164</guid>
-            <pubDate>Sat, 18 Dec 2021 05:42:47 GMT</pubDate>
-            <content:encoded><![CDATA['호랑이 열정 호열이'도 곧 다시 볼 수 있을 전망.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/16/3a36680f-f80f-4ff5-88ec-65fec89ea557.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
