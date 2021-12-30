@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 17:54:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베네수엘라 교도소의 여성들을 기록한 라이카 선정 2021 '올해의 사진']]></title>
+            <link>https://www.elle.co.kr/article/62595</link>
+            <guid>https://www.elle.co.kr/article/62595</guid>
+            <pubDate>Thu, 30 Dec 2021 17:53:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 라이카가 선정한 '올해의 사진'. '영원한 날(Días Eternos)'의 작가 아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/31/9770c658-9efb-4696-95ab-285509ce862d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아가 온다! '칸딘스키, 말레비치 & 러시아 아방가르드: 혁명의 예술전' 소식]]></title>
             <link>https://www.elle.co.kr/article/62530</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 10 Dec 2021 05:45:58 GMT</pubDate>
             <content:encoded><![CDATA[몸과 마음을 녹이는 컬러풀한 로맨티시즘에 흠뻑 잠길 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/cb3e583c-6016-4347-8bfd-071452ace0e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반짝반짝한 당신을 위한 연말 기프트 17]]></title>
-            <link>https://www.elle.co.kr/article/61973</link>
-            <guid>https://www.elle.co.kr/article/61973</guid>
-            <pubDate>Fri, 10 Dec 2021 05:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[까다로운 취향을 지닌 당신의 멋진 연말을 완성해 줄 17가지 기프트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/1a63a196-0fea-41f9-83f5-be7142e9edbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
