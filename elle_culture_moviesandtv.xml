@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 17:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:49:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥도날드는 세계 최대 부동산 기업입니다_돈쓸신잡 #26]]></title>
+            <link>https://www.elle.co.kr/article/62589</link>
+            <guid>https://www.elle.co.kr/article/62589</guid>
+            <pubDate>Thu, 30 Dec 2021 05:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[현금 잘 버는 기업의 마지막 투자처는 결국, '이것'이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/30/0608e3ad-1531-4057-98b3-ab209f2fe427.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김장이 이렇게 쉽다고? 진짜 쩝쩝박사 이장우의 섞박지+봄동 겉절이 레시피]]></title>
             <link>https://www.elle.co.kr/article/62544</link>
@@ -102,14 +110,6 @@
             <pubDate>Sat, 18 Dec 2021 05:42:47 GMT</pubDate>
             <content:encoded><![CDATA[‘방콕’하며 새하얀 겨울을 만끽하는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/4865ac90-92bd-4a3e-bc8f-2b0ea5240e24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #알고있지만 #김가람감독]]></title>
-            <link>https://www.elle.co.kr/article/62174</link>
-            <guid>https://www.elle.co.kr/article/62174</guid>
-            <pubDate>Sat, 18 Dec 2021 05:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021년, 당신은 어떤 콘텐츠를 보고, 어떤 인물의 활약에 가슴이 뛰었나요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/2c716e30-0e30-44bd-880d-a998280494c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

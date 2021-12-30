@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 17:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 05:49:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이콘과 아이콘의 만남, 크리스틴 스튜어트의 영화 '세버그']]></title>
+            <link>https://www.elle.co.kr/article/62498</link>
+            <guid>https://www.elle.co.kr/article/62498</guid>
+            <pubDate>Thu, 30 Dec 2021 05:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[당대 최고의 배우이자 인권운동가였던 진 세버그, 그녀의 삶을 연기한 크리스틴 스튜어트의 영화...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/26/9d662c40-bee2-489c-8010-1cbea72f8e60.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[N잡러의 서재, ‘후란서가’_주간책방 #10]]></title>
             <link>https://www.elle.co.kr/article/62494</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 25 Dec 2021 05:42:07 GMT</pubDate>
             <content:encoded><![CDATA[&lt;오징어 게임&gt;과 &lt;듄&gt;의 프로덕션 디자인부터 런던 하늘에 초대형 버블을 올린 알렉산더 맥퀸...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/38a4b64a-961f-4baf-ac71-38c705f43a25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 중에 누가 떨어져야 된다고? '스걸파' 최고 명장면 등극한 아마존 VS 클루씨 탈락 배틀]]></title>
-            <link>https://www.elle.co.kr/article/62370</link>
-            <guid>https://www.elle.co.kr/article/62370</guid>
-            <pubDate>Fri, 24 Dec 2021 17:50:46 GMT</pubDate>
-            <content:encoded><![CDATA[이날 무려 네 크루가 아쉽게 탈락했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/cdcb63c7-fa9f-44b8-9d15-43247c307174.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
