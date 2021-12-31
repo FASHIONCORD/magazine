@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 05:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 17:56:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오 나의 헤르미온느_요주의 여성 #42]]></title>
+            <link>https://www.elle.co.kr/article/62520</link>
+            <guid>https://www.elle.co.kr/article/62520</guid>
+            <pubDate>Fri, 31 Dec 2021 17:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 사랑한 책 속의 소녀들과 쏙 닮은 배우, 엠마 왓슨. 2001]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/16e6cada-d026-47cd-85ea-f244cb509453.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 웃으며, 안녕! #전세라이프 #플라스틱]]></title>
             <link>https://www.elle.co.kr/article/62510</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 25 Dec 2021 17:54:24 GMT</pubDate>
             <content:encoded><![CDATA[유튜버 알간지, &lt;오징어 게임&gt; 제작사 김지연 대표, &lt;갯마을 차차차&gt;&lt;유미의 세포들&gt; 조문...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/074a0b64-06c7-423a-8da4-ff6fcc2835bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #이영지 #제시]]></title>
-            <link>https://www.elle.co.kr/article/62336</link>
-            <guid>https://www.elle.co.kr/article/62336</guid>
-            <pubDate>Sat, 25 Dec 2021 05:45:53 GMT</pubDate>
-            <content:encoded><![CDATA['굿 걸' 제시와 '네오 걸' 이영지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/64faaf95-1743-43a4-bfe0-fdd825a9b331.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
