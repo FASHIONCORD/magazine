@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 05:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 17:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이비박스는 아기를 버리는 곳일까, 살리는 곳일까]]></title>
+            <link>https://www.elle.co.kr/article/62576</link>
+            <guid>https://www.elle.co.kr/article/62576</guid>
+            <pubDate>Sat, 01 Jan 2022 17:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[사단법인 비투비(BtoB) 대표 김윤지는 위기 가정 부모 자립 플랫폼 ‘품’과 ‘옥토포수’로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/30/87b10307-97f3-43f2-81b7-93432c4e83c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오 나의 헤르미온느_요주의 여성 #42]]></title>
             <link>https://www.elle.co.kr/article/62520</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 26 Dec 2021 17:54:07 GMT</pubDate>
             <content:encoded><![CDATA[수집은 인간의 오래된 본능이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/7e1f11c6-bfb8-4cd5-b731-08b0b2aa32c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #김지연 #조문주 #김희원 #백미경 #알간지]]></title>
-            <link>https://www.elle.co.kr/article/62390</link>
-            <guid>https://www.elle.co.kr/article/62390</guid>
-            <pubDate>Sat, 25 Dec 2021 17:54:24 GMT</pubDate>
-            <content:encoded><![CDATA[유튜버 알간지, &lt;오징어 게임&gt; 제작사 김지연 대표, &lt;갯마을 차차차&gt;&lt;유미의 세포들&gt; 조문...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/074a0b64-06c7-423a-8da4-ff6fcc2835bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

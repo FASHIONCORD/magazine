@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 05:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 17:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역사가 묻어 있는 풍경 속에서 새해 맞기! 서산 명소 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/62492</link>
+            <guid>https://www.elle.co.kr/article/62492</guid>
+            <pubDate>Sat, 01 Jan 2022 17:53:52 GMT</pubDate>
+            <content:encoded><![CDATA[백종원 추천 호떡집도 꼭 들러볼 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/9d7d2608-d49d-423f-af04-1a422738c514.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트 마스터의 초간단 비건 샐러드 레서피 2]]></title>
             <link>https://www.elle.co.kr/article/62342</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Dec 2021 17:56:06 GMT</pubDate>
             <content:encoded><![CDATA[감성 풀충전에 인생 사진까지 남길 수 있는 서산 카페들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/1ef79343-8a56-4e2b-afc4-5ca09d0738d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘고짠고짠’ 소금빵 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/62091</link>
-            <guid>https://www.elle.co.kr/article/62091</guid>
-            <pubDate>Tue, 21 Dec 2021 17:54:35 GMT</pubDate>
-            <content:encoded><![CDATA[안 먹어 본 사람은 있어도 한 번만 먹어 본 사람은 없다는 소금빵. 버터의 풍미와 소금의 짭...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/15/ad53ac9e-7d1d-4de0-b3b5-1d7854fea96e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
