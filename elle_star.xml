@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 05:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 17:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김장이 이렇게 쉽다고? 진짜 쩝쩝박사 이장우의 섞박지+봄동 겉절이 레시피]]></title>
+            <link>https://www.elle.co.kr/article/62544</link>
+            <guid>https://www.elle.co.kr/article/62544</guid>
+            <pubDate>Sun, 02 Jan 2022 17:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[이제 그냥 가루장인이라는 별명으론 부족하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/097c4a9c-9d94-405c-a27d-43993da96da1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태양보다 빛나는 #신현빈]]></title>
             <link>https://www.elle.co.kr/article/62515</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Dec 2021 05:43:17 GMT</pubDate>
             <content:encoded><![CDATA[“늘 예측 불가능한 선택을 하는 쪽이다. 그때의 설렘이 더 큰 것 같다. 그 설렘을 최대한 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/9d5f4784-5d45-4949-a3b8-7bfae017bbaa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 중에 누가 떨어져야 된다고? '스걸파' 최고 명장면 등극한 아마존 VS 클루씨 탈락 배틀]]></title>
-            <link>https://www.elle.co.kr/article/62370</link>
-            <guid>https://www.elle.co.kr/article/62370</guid>
-            <pubDate>Tue, 28 Dec 2021 05:43:17 GMT</pubDate>
-            <content:encoded><![CDATA[이날 무려 네 크루가 아쉽게 탈락했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/cdcb63c7-fa9f-44b8-9d15-43247c307174.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
