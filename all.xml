@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 17:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 05:49:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/ba5917bc-832c-4f08-8681-a0e056097e14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[태양보다 빛나는 #신현빈 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/62515</link>
+            <guid>https://www.elle.co.kr/article/62515</guid>
+            <pubDate>Sun, 02 Jan 2022 05:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[힌스와 만난 신현빈. 그녀가 말하는 건강한 아름다움]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/ff373e04-5046-4931-abc4-5b50727a7197.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하루 10분, 현직 모델의 복근 운동법 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/62528</link>
             <guid>https://www.elle.co.kr/article/62528</guid>
@@ -1982,14 +1990,6 @@
             <pubDate>Thu, 23 Dec 2021 05:46:44 GMT</pubDate>
             <content:encoded><![CDATA[이날 무려 네 크루가 아쉽게 탈락했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/cdcb63c7-fa9f-44b8-9d15-43247c307174.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스에 뭐 입지? 참고하기 좋은 레드 & 그린 룩! #옷잘입는언니 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/62367</link>
-            <guid>https://www.elle.co.kr/article/62367</guid>
-            <pubDate>Sun, 26 Dec 2021 17:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[코 앞으로 다가온 크리스마스! 이번 주말 어떤 옷을 입어야할지 고민이라면 레드 &amp; 그린 룩에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/6d5a0518-7fe6-424f-90e6-aee397c57b00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SM에서 신인 걸그룹이?! 광야 콘서트로 데뷔하는 걸스온탑의 어마어마한 라인업 (엘르 코리아 ─ 컬쳐)]]></title>
