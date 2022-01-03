@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 05:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 17:57:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 샌드위치는 처음이야! 영감이 샘솟는 샌드위치 아이디어 8]]></title>
+            <link>https://www.elle.co.kr/article/62535</link>
+            <guid>https://www.elle.co.kr/article/62535</guid>
+            <pubDate>Mon, 03 Jan 2022 17:56:27 GMT</pubDate>
+            <content:encoded><![CDATA[필요한 메인 재료는 딱 두 가지뿐. 절대 어울리지 않을 것 같은 조합이 이뤄낸 궁극의 샌드위...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/0c009eb1-eedc-448d-816a-35b6ab630cac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역사가 묻어 있는 풍경 속에서 새해 맞기! 서산 명소 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/62492</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Dec 2021 17:56:06 GMT</pubDate>
             <content:encoded><![CDATA[한옥 뷰부터 숲 속 뷰까지! 인스타그래머블한 뷰 맛집을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/78b12610-ab31-4826-a529-34fc716ef086.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시골 마을 오두막과 대나무 숲에서 즐기는 커피 브레이크! 서산 카페 셋 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/62214</link>
-            <guid>https://www.elle.co.kr/article/62214</guid>
-            <pubDate>Wed, 22 Dec 2021 17:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[감성 풀충전에 인생 사진까지 남길 수 있는 서산 카페들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/18/1ef79343-8a56-4e2b-afc4-5ca09d0738d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

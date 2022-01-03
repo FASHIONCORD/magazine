@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 05:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 17:57:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1 Black Cushion]]></title>
+            <link>https://www.elle.co.kr/article/62241</link>
+            <guid>https://www.elle.co.kr/article/62241</guid>
+            <pubDate>Mon, 03 Jan 2022 17:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[헤라 NEW 블랙 쿠션이 올해의 NO.1 쿠션으로 등극한 이유는 지극히 당연하다. 얇지만 강...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/816705b7-193c-46aa-8623-a80c0843d1f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1 Eyebrow]]></title>
+            <link>https://www.elle.co.kr/article/62239</link>
+            <guid>https://www.elle.co.kr/article/62239</guid>
+            <pubDate>Mon, 03 Jan 2022 17:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[땀과 물에 지워지지 않는 워터프루프 포뮬러, 전문가가 그린 듯 똥손도 쉽게 연출할 수 있는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/734c01c2-327f-4d6a-aa51-84b114aa5386.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blooming Kiss]]></title>
             <link>https://www.elle.co.kr/article/62234</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 03 Jan 2022 05:43:24 GMT</pubDate>
             <content:encoded><![CDATA[연말엔 집에서 제대로 힐링하기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/04b5db48-1cff-4f93-b09b-954cc2d8f04b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 첫번째 쇼핑 리스트, 블랙 아이라이너]]></title>
-            <link>https://www.elle.co.kr/article/62511</link>
-            <guid>https://www.elle.co.kr/article/62511</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[내년 S/S 트렌드 키워드가 궁금하다면, 블랙 워터프루프 아이라이너부터 마련할 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/97e92250-e968-44be-a428-a9592a63f28b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입으로 숨쉬지 마!_몸에 좋은 잔소리 #35]]></title>
-            <link>https://www.elle.co.kr/article/62463</link>
-            <guid>https://www.elle.co.kr/article/62463</guid>
-            <pubDate>Thu, 30 Dec 2021 17:50:09 GMT</pubDate>
-            <content:encoded><![CDATA[건강 악화는 물론 얼굴 변형까지 일으키는 ‘구강호흡’에 대한 경고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/e648a7b4-24bf-4733-b2cc-4e26f3a46c61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
