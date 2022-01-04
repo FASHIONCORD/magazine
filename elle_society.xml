@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 17:57:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 05:48:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비자발적 독신주의자가 되기를 선언한 여자들]]></title>
+            <link>https://www.elle.co.kr/article/62578</link>
+            <guid>https://www.elle.co.kr/article/62578</guid>
+            <pubDate>Tue, 04 Jan 2022 05:48:25 GMT</pubDate>
+            <content:encoded><![CDATA['펌셀'과 한국의 비연애, 비출산 선언은 어떻게 연결돼 있을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/30/13d538b5-f92c-4c85-add0-e13ad5282334.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이비박스는 아기를 버리는 곳일까, 살리는 곳일까]]></title>
             <link>https://www.elle.co.kr/article/62576</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Dec 2021 05:48:39 GMT</pubDate>
             <content:encoded><![CDATA[&lt;환승연애&gt; 이진주PD와 영 제너레이션 다큐멘터리 PD 이은규, 이승주, 오예진.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/63cdd2b2-b925-4c3e-ac5a-40b4225ac67e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 신지도 않을 운동화를 수백만원 주고 살까?_돈쓸신잡 #25]]></title>
-            <link>https://www.elle.co.kr/article/62404</link>
-            <guid>https://www.elle.co.kr/article/62404</guid>
-            <pubDate>Sun, 26 Dec 2021 17:54:07 GMT</pubDate>
-            <content:encoded><![CDATA[수집은 인간의 오래된 본능이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/7e1f11c6-bfb8-4cd5-b731-08b0b2aa32c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
