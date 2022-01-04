@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 05:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 17:55:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 패션 월드에 어떤 일들이 생길까?(1)]]></title>
+            <link>https://www.elle.co.kr/article/62628</link>
+            <guid>https://www.elle.co.kr/article/62628</guid>
+            <pubDate>Tue, 04 Jan 2022 17:49:30 GMT</pubDate>
+            <content:encoded><![CDATA[나비가 날아들고, 따릉이가 울리며, 메타버스의 질주가 거세다. 미리 보는 2022년 패션 트...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/02/9ad08482-b109-435b-ba38-79cc25facb89.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[범이 내려온다! 패션계를 덮친 호랑이의 기운]]></title>
+            <link>https://www.elle.co.kr/article/62620</link>
+            <guid>https://www.elle.co.kr/article/62620</guid>
+            <pubDate>Tue, 04 Jan 2022 17:49:30 GMT</pubDate>
+            <content:encoded><![CDATA[임인년을 맞아 떠오른 와일드한 레어퍼드 프린트 패션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/01/acb3cd52-a76c-4842-9836-eac1a0736088.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전세계 '엘르'가 모피에 안녕을 고했다 #퍼프리]]></title>
+            <link>https://www.elle.co.kr/article/62619</link>
+            <guid>https://www.elle.co.kr/article/62619</guid>
+            <pubDate>Tue, 04 Jan 2022 17:49:30 GMT</pubDate>
+            <content:encoded><![CDATA[더 나은 미래로 나아가는 한 걸음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/01/5a7a998c-01cf-4171-a5a7-b6cbfd26f9b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 샀을까? 사복 장인 안소희가 겨울에 산 13가지 아이템]]></title>
             <link>https://www.elle.co.kr/article/62602</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 02 Jan 2022 17:47:44 GMT</pubDate>
             <content:encoded><![CDATA[한파 대비! 머플러 쇼핑 전 참고할 것! 다양한 소재와 컬러의 머플러를 활용한 스타들의 데일...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/8cc5a9dd-c907-4ca1-8c48-16aa769b09f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신비로운 설산과 어우러진 겨울 패션 판타지]]></title>
-            <link>https://www.elle.co.kr/article/62536</link>
-            <guid>https://www.elle.co.kr/article/62536</guid>
-            <pubDate>Sun, 02 Jan 2022 17:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[겨울왕국 패션!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/6dd51feb-7981-4b26-82af-3c291ee6b379.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세기말 패션 Y2K의 벽 차는 흑역사를 기억하시나요?]]></title>
-            <link>https://www.elle.co.kr/article/62518</link>
-            <guid>https://www.elle.co.kr/article/62518</guid>
-            <pubDate>Sun, 02 Jan 2022 17:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[흑역사가 트렌드가 되다. 20년 전 스타일의 귀환.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/dc83882b-c212-410c-a152-33d0e481d4a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별이 지다. 굿바이, 버질!]]></title>
-            <link>https://www.elle.co.kr/article/62517</link>
-            <guid>https://www.elle.co.kr/article/62517</guid>
-            <pubDate>Sun, 02 Jan 2022 17:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[패션을 넘어 음악과 예술, 문화에 이르기까지. 넘치는 아이디어와 남다른 감각으로 막강한 영향...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/be59987a-b046-4643-9408-01e641b715bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

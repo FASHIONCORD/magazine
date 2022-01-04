@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 05:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 17:55:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해가 가기 전에 스마트폰 클리닝]]></title>
+            <link>https://www.elle.co.kr/article/62598</link>
+            <guid>https://www.elle.co.kr/article/62598</guid>
+            <pubDate>Tue, 04 Jan 2022 17:54:58 GMT</pubDate>
+            <content:encoded><![CDATA[책상 정리보다 스마트폰 정리가 더 시급한 연말. 사진첩과 메모장, SNS에 한가득 저장된 데...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/31/819b4cb8-f184-49b5-8733-324400f2e4a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일 손에 안 잡히는 연말, 육즙 팡팡 딤섬에 핫한 치킨버거집으로? #신상맛집]]></title>
+            <link>https://www.elle.co.kr/article/62540</link>
+            <guid>https://www.elle.co.kr/article/62540</guid>
+            <pubDate>Tue, 04 Jan 2022 17:54:58 GMT</pubDate>
+            <content:encoded><![CDATA[지루한 일상을 벗어나는 가장 간단한 방법 먹부림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/2de0c3c6-76ff-45f3-890a-8bbce92b11ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 샌드위치는 처음이야! 영감이 샘솟는 샌드위치 아이디어 8]]></title>
             <link>https://www.elle.co.kr/article/62535</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 27 Dec 2021 17:55:13 GMT</pubDate>
             <content:encoded><![CDATA[을지로 사진거리에 있는 암실 콘셉트 카페부터 호주 커피문화를 접할 수 있는 카페까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/a48415c6-aeb2-4083-a148-712b129193fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속가능한 다이어트를 위해! 안소희의 건강 식단 3]]></title>
-            <link>https://www.elle.co.kr/article/62224</link>
-            <guid>https://www.elle.co.kr/article/62224</guid>
-            <pubDate>Sat, 25 Dec 2021 05:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[요리가 어렵다고요? 걱정하지 마세요. 요즘 식단 관리 중이라는 안소희가 추천하는 쉽고 건강한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/19/63125a8c-855a-4932-a55d-f559640ae4d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상대에게_인정받기_만랩_데이트하기 좋은 뷰 맛집 3. (인증샷 필수!)]]></title>
-            <link>https://www.elle.co.kr/article/62218</link>
-            <guid>https://www.elle.co.kr/article/62218</guid>
-            <pubDate>Wed, 22 Dec 2021 17:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[한옥 뷰부터 숲 속 뷰까지! 인스타그래머블한 뷰 맛집을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/78b12610-ab31-4826-a529-34fc716ef086.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

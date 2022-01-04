@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 05:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 17:55:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥도날드는 세계 최대 부동산 기업입니다_돈쓸신잡 #26]]></title>
+            <link>https://www.elle.co.kr/article/62589</link>
+            <guid>https://www.elle.co.kr/article/62589</guid>
+            <pubDate>Tue, 04 Jan 2022 17:55:39 GMT</pubDate>
+            <content:encoded><![CDATA[현금 잘 버는 기업의 마지막 투자처는 결국, '이것'이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/30/0608e3ad-1531-4057-98b3-ab209f2fe427.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비자발적 독신주의자가 되기를 선언한 여자들]]></title>
             <link>https://www.elle.co.kr/article/62578</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Dec 2021 17:54:41 GMT</pubDate>
             <content:encoded><![CDATA[멋진 여자, 멋진 로맨스, 멋진 이야기가 있는 연말 OTT 추천작.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/f12a8aa6-42aa-45c2-b4ae-f3aed458b597.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #여성PD들 #이진주 이은규 #이승주 #오예진]]></title>
-            <link>https://www.elle.co.kr/article/62438</link>
-            <guid>https://www.elle.co.kr/article/62438</guid>
-            <pubDate>Mon, 27 Dec 2021 05:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;환승연애&gt; 이진주PD와 영 제너레이션 다큐멘터리 PD 이은규, 이승주, 오예진.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/63cdd2b2-b925-4c3e-ac5a-40b4225ac67e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
