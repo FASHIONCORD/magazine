@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 17:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 05:46:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열애 인정한 롱디 연상연하 커플 효민-황의조, 은근히 티 냈던 스위스 여행 럽스타]]></title>
+            <link>https://www.elle.co.kr/article/62648</link>
+            <guid>https://www.elle.co.kr/article/62648</guid>
+            <pubDate>Wed, 05 Jan 2022 05:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[이 시국이지만 장거리 연애 스타트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/43d4a3ab-9719-44a5-bedf-da6292ab1c9f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배달앱 VVIP 인증하던 이영지를 1년 만에 속옷 화보 모델로 만든 다이어트 비결.tip]]></title>
             <link>https://www.elle.co.kr/article/62642</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 02 Jan 2022 17:50:04 GMT</pubDate>
             <content:encoded><![CDATA[이제 그냥 가루장인이라는 별명으론 부족하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/097c4a9c-9d94-405c-a27d-43993da96da1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양보다 빛나는 #신현빈]]></title>
-            <link>https://www.elle.co.kr/article/62515</link>
-            <guid>https://www.elle.co.kr/article/62515</guid>
-            <pubDate>Sun, 02 Jan 2022 05:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[힌스와 만난 신현빈. 그녀가 말하는 건강한 아름다움]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/ff373e04-5046-4931-abc4-5b50727a7197.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
