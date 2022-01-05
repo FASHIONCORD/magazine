@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 17:57:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베네수엘라 교도소의 여성들을 기록한 라이카 선정 2021 '올해의 사진']]></title>
+            <link>https://www.elle.co.kr/article/62595</link>
+            <guid>https://www.elle.co.kr/article/62595</guid>
+            <pubDate>Wed, 05 Jan 2022 17:53:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021 라이카가 선정한 '올해의 사진'. '영원한 날(Días Eternos)'의 작가 아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/31/9770c658-9efb-4696-95ab-285509ce862d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맥도날드는 세계 최대 부동산 기업입니다_돈쓸신잡 #26]]></title>
             <link>https://www.elle.co.kr/article/62589</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Dec 2021 05:46:51 GMT</pubDate>
             <content:encoded><![CDATA[광고 디자인 회사에 다니던 김대리가 서점을 차렸다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/9a4d910d-97ba-4f5f-91c1-8e99d0ad22b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울엔 전시 데이트! 미리미리 준비하세요]]></title>
-            <link>https://www.elle.co.kr/article/62493</link>
-            <guid>https://www.elle.co.kr/article/62493</guid>
-            <pubDate>Wed, 29 Dec 2021 05:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[올겨울 놓치지 말아야 할 전시 3]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/0ccf9228-465f-4af6-88db-ecefcdd8f542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

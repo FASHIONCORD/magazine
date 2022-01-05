@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 17:57:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스에서 볼 수 있는 ‘2022 골든 글로브 어워즈’ 후보작 12]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33057503&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33057503&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 05 Jan 2022 17:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfMTUy/MDAxNjQxMTk0Mjg0NTYy.UuhxxLR7bZL5tuGpIQwEX5fLMoyc7wy_HgVOOpgWUV0g.yuHIYI2wouk4Zra_Fcro-4JGKsg3saxFl_8A2cxzkRYg.JPEG/Ibc9QuYrPH066aSZ9O_PRBQG4Hfw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['진격거', '체인소 맨' 등 2022년 기대해야 할 애니메이션 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32950340&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjNfMTMg/MDAxNjE2NDg2NTQ5OTk1.oAx4ouZyJU-XXXHHXWlCBD0PytmZEhjyWg3kaChpvoUg.J0KiIhneTnYU6XAZz1eB2KRUq11832FPwk86in9_838g.JPEG/IHlVltoIgaT7_qrTKiQ5RLf8HCb0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정이삭 인터뷰 - 세계적으로 주목받는 영화 '미나리'의 감독]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30991433&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30991433&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMTlfMjgy/MDAxNjE2MTQ1ODEyNTc3.eUbIlLL7c0BhAhZr6KVMaNA3THokt7KHkl950_851Y8g.-Im6bKN4YqLhwQsP5F2ckdovMwkTYVZ2QXn5YhPUnJIg.JPEG/IYaSXQRb2iOg9lnIUQ8qAYKH_FQE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
