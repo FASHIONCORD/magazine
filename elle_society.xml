@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베네수엘라 교도소의 여성들을 기록한 라이카 선정 2021 '올해의 사진']]></title>
+            <link>https://www.elle.co.kr/article/62595</link>
+            <guid>https://www.elle.co.kr/article/62595</guid>
+            <pubDate>Thu, 06 Jan 2022 05:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021 라이카가 선정한 '올해의 사진'. '영원한 날(Días Eternos)'의 작가 아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/31/9770c658-9efb-4696-95ab-285509ce862d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맥도날드는 세계 최대 부동산 기업입니다_돈쓸신잡 #26]]></title>
             <link>https://www.elle.co.kr/article/62589</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Dec 2021 17:54:41 GMT</pubDate>
             <content:encoded><![CDATA[다사다난했던 2021년. 올해를 끝으로 작별을 고하고 싶은 기억과 감정, 추억들까지.... ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/0a222fb8-ce56-4f72-8070-75f5ab761446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스에 뭐 볼까_요주의여성 #41]]></title>
-            <link>https://www.elle.co.kr/article/62461</link>
-            <guid>https://www.elle.co.kr/article/62461</guid>
-            <pubDate>Thu, 30 Dec 2021 17:54:41 GMT</pubDate>
-            <content:encoded><![CDATA[멋진 여자, 멋진 로맨스, 멋진 이야기가 있는 연말 OTT 추천작.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/f12a8aa6-42aa-45c2-b4ae-f3aed458b597.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

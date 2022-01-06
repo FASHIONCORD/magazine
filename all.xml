@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/8cc5a9dd-c907-4ca1-8c48-16aa769b09f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하운즈투스 패턴을 입고 새롭게 출시된 디올 뷰티의 '뉴 룩 컬렉션' (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/62572</link>
+            <guid>https://www.elle.co.kr/article/62572</guid>
+            <pubDate>Thu, 06 Jan 2022 05:44:08 GMT</pubDate>
+            <content:encoded><![CDATA[크리스챤 디올의 첫 번째 컬렉션인 ‘뉴 룩 컬렉션’에서 영감 받아 디올 하우스의 시그니처 패...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/cf3ffaaa-de97-4a8d-9f91-2129c2589092.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지난 한 해 우리나라에서 가장 사랑받은 파운데이션은? #엘르뷰티어워즈2022 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/62240</link>
             <guid>https://www.elle.co.kr/article/62240</guid>
@@ -1880,20 +1888,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/816705b7-193c-46aa-8623-a80c0843d1f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지난 한 해 우리나라에서 가장 사랑받은 아이브로우는? #엘르뷰티어워즈2022 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/62239</link>
-            <guid>https://www.elle.co.kr/article/62239</guid>
-            <pubDate>Mon, 03 Jan 2022 17:50:25 GMT</pubDate>
-            <content:encoded><![CDATA[땀과 물에 지워지지 않는 워터프루프 포뮬러, 전문가가 그린 듯 똥손도 쉽게 연출할 수 있는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/734c01c2-327f-4d6a-aa51-84b114aa5386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지난 한 해 가장 사랑받은 립 컬러는? #엘르뷰티어워즈2022 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/62234</link>
             <guid>https://www.elle.co.kr/article/62234</guid>
             <pubDate>Mon, 03 Jan 2022 05:43:24 GMT</pubDate>
             <content:encoded><![CDATA[‘엘르 뷰티 어워즈 2022’ 립 컬러 부문 인터내셔널 위너로 선정된 샤넬 루쥬 코코 블룸....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/aab55635-8a50-4d15-8f6f-89c45efe4933.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지난 한 해 우리나라에서 가장 사랑받은 아이브로우는? #엘르뷰티어워즈2022 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/62239</link>
+            <guid>https://www.elle.co.kr/article/62239</guid>
+            <pubDate>Mon, 03 Jan 2022 17:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[땀과 물에 지워지지 않는 워터프루프 포뮬러, 전문가가 그린 듯 똥손도 쉽게 연출할 수 있는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/734c01c2-327f-4d6a-aa51-84b114aa5386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지난 한 해 우리나라에서 가장 사랑받은 립 리퀴드는? #엘르뷰티어워즈2022 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1920,12 +1928,28 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/30/b445b5a5-235b-40c0-88e6-eabdaab986f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하루 10분, 현직 모델의 복근 운동법 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/62528</link>
-            <guid>https://www.elle.co.kr/article/62528</guid>
-            <pubDate>Thu, 30 Dec 2021 17:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[하루에 딱 10분! 겨울이 깊어갈 수록 몸 구석구석 쌓이는 군살이 신경쓰인다면 모델 고소현이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/353fc4eb-bec7-40b5-88f7-40b60514e1dc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연애 프로 보는데 왜 눈물이 나지? '돌싱글즈' 윤남기의 뭔가 다른 설렘 모먼트 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/62679</link>
+            <guid>https://www.elle.co.kr/article/62679</guid>
+            <pubDate>Thu, 06 Jan 2022 05:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[윤남기 당신 유죄...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/82fbd9f6-709a-4b40-8165-cfecc17f4164.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감격의 오열 VS 어리둥절? 2021년 MBC·SBS·KBS 연기대상 거머쥔 배우들.zip (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/62678</link>
+            <guid>https://www.elle.co.kr/article/62678</guid>
+            <pubDate>Thu, 06 Jan 2022 05:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[감동의 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/d30f0d3a-18ca-4abe-9315-1a98cebfa7d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죽음을 앞두고 만난 세 여자, #안은진 #강예원 #박수영 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/62655</link>
+            <guid>https://www.elle.co.kr/article/62655</guid>
+            <pubDate>Thu, 06 Jan 2022 05:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[세 여자가 같이 웃음을 터뜨린 그 순간을 포착하다! #한사람만]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/77cc3da0-047e-4e0b-9cdc-4a251d989c8a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열애 인정한 롱디 연상연하 커플 효민-황의조, 은근히 티 냈던 스위스 여행 럽스타 (엘르 코리아 ─ 스타)]]></title>
@@ -1968,28 +1992,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/31/18358df5-a3e7-4ea5-b363-eac9344028b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[명징하게 빛나는 #신현빈 과 #힌스 의 찬란한 순간 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/62570</link>
-            <guid>https://www.elle.co.kr/article/62570</guid>
-            <pubDate>Mon, 03 Jan 2022 05:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[건축가 안도 다다오는 "빛은 삶을 아우른다"라고 말한다. 피부에 광채를 부여해 주는 힌스의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/30/09c32e29-0bdb-40e0-a3b0-ea6f76730199.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[감격의 오열 VS 어리둥절? 2021년 MBC·SBS·KBS 연기대상 거머쥔 배우들.zip (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/62678</link>
+            <guid>https://www.elle.co.kr/article/62678</guid>
+            <pubDate>Thu, 06 Jan 2022 05:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[감동의 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/d30f0d3a-18ca-4abe-9315-1a98cebfa7d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[변함없이 ‘쿨’하고 사랑스러운 신민아라는 소우주 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/62554</link>
-            <guid>https://www.elle.co.kr/article/62554</guid>
-            <pubDate>Tue, 04 Jan 2022 05:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[그녀가 싱긋 웃는다. 우리가 20년 넘게 알아온 얼굴로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/6c00c0de-02f9-4772-9f9b-772815d9ff18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김장이 이렇게 쉽다고? 진짜 쩝쩝박사 이장우의 섞박지+봄동 겉절이 레시피 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/62544</link>
-            <guid>https://www.elle.co.kr/article/62544</guid>
-            <pubDate>Wed, 29 Dec 2021 05:48:12 GMT</pubDate>
-            <content:encoded><![CDATA[이제 그냥 가루장인이라는 별명으론 부족하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/097c4a9c-9d94-405c-a27d-43993da96da1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["I feel ELLE" 지난 30년간 엘르가 사랑한 여성들 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/62656</link>
+            <guid>https://www.elle.co.kr/article/62656</guid>
+            <pubDate>Thu, 06 Jan 2022 05:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[지난 30년 동안 &lt;엘르&gt;가 열렬히 사랑한 30명의 여성. 그녀들이 자신을 느끼고 말한 방식...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/bd332654-d546-475f-98fe-1b2d4a4577bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베네수엘라 교도소의 여성들을 기록한 라이카 선정 2021 '올해의 사진' (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2038,22 +2054,6 @@
             <pubDate>Tue, 28 Dec 2021 05:45:36 GMT</pubDate>
             <content:encoded><![CDATA[전 세대를 아우르는 K-POP 스타들의 모임.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/a27a2564-1ab2-47b0-9208-733e0fc63b1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘과 아이콘의 만남, 크리스틴 스튜어트의 영화 '세버그' (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/62498</link>
-            <guid>https://www.elle.co.kr/article/62498</guid>
-            <pubDate>Sat, 25 Dec 2021 17:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[당대 최고의 배우이자 인권운동가였던 진 세버그, 그녀의 삶을 연기한 크리스틴 스튜어트의 영화...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/26/9d662c40-bee2-489c-8010-1cbea72f8e60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[N잡러의 서재, ‘후란서가’_주간책방 #10 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/62494</link>
-            <guid>https://www.elle.co.kr/article/62494</guid>
-            <pubDate>Wed, 29 Dec 2021 05:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[광고 디자인 회사에 다니던 김대리가 서점을 차렸다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/9a4d910d-97ba-4f5f-91c1-8e99d0ad22b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SM에서 신인 걸그룹이?! 광야 콘서트로 데뷔하는 걸스온탑의 어마어마한 라인업 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -2160,6 +2160,46 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/75ccd2d5-b32b-46f8-bdf7-6397e11067ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['스우파'·'스걸파' 후속 '스맨파', 지금까지 풀린 떡밥 총정리 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/62739</link>
+            <guid>https://www.elle.co.kr/article/62739</guid>
+            <pubDate>Thu, 06 Jan 2022 05:45:54 GMT</pubDate>
+            <content:encoded><![CDATA[방송은 올 여름 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/1eb57173-140f-4ad8-8f66-254e1aef44d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스걸파' 최종 우승은 턴즈, 시청자들과 함께 막방 달린 BTS 멤버가 있다?! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/62712</link>
+            <guid>https://www.elle.co.kr/article/62712</guid>
+            <pubDate>Thu, 06 Jan 2022 05:45:54 GMT</pubDate>
+            <content:encoded><![CDATA[2라운드에서 아쉽게 탈락한 아마존이 특별 무대도 꾸몄다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/d43bee12-02b7-453f-b67b-4faa21c9a0a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국판 ‘델마와 루이스’? 김혜수 x 한소희 투 샷에 난리 난 이유 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/62684</link>
+            <guid>https://www.elle.co.kr/article/62684</guid>
+            <pubDate>Thu, 06 Jan 2022 05:45:54 GMT</pubDate>
+            <content:encoded><![CDATA[심장 떨리는 이 조합…? 찬성합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5099e7be-5747-4065-a8d9-e636d5574153.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연애 프로 보는데 왜 눈물이 나지? '돌싱글즈' 윤남기의 뭔가 다른 설렘 모먼트 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/62679</link>
+            <guid>https://www.elle.co.kr/article/62679</guid>
+            <pubDate>Thu, 06 Jan 2022 05:45:54 GMT</pubDate>
+            <content:encoded><![CDATA[윤남기 당신 유죄...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/82fbd9f6-709a-4b40-8165-cfecc17f4164.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감격의 오열 VS 어리둥절? 2021년 MBC·SBS·KBS 연기대상 거머쥔 배우들.zip (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/62678</link>
+            <guid>https://www.elle.co.kr/article/62678</guid>
+            <pubDate>Thu, 06 Jan 2022 05:45:54 GMT</pubDate>
+            <content:encoded><![CDATA[감동의 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/d30f0d3a-18ca-4abe-9315-1a98cebfa7d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[맥도날드는 세계 최대 부동산 기업입니다_돈쓸신잡 #26 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/62589</link>
             <guid>https://www.elle.co.kr/article/62589</guid>
@@ -2222,46 +2262,6 @@
             <pubDate>Mon, 20 Dec 2021 17:53:49 GMT</pubDate>
             <content:encoded><![CDATA[요즘 '히어로' 오은영 박사와 버추얼 인플루언서, &lt;내가 키운다&gt;의 엄마들까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/b7c6f63a-d631-484f-aa5f-61eab7c5af8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음식 상극 부부!? 뼈해장국 좋아하는 라이머가 채식주의자 안현모와 사는 법 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/62274</link>
-            <guid>https://www.elle.co.kr/article/62274</guid>
-            <pubDate>Mon, 20 Dec 2021 17:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[일상생활에서 가장 중요한 부분 식성.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/d69c66ba-3186-49e5-a34f-2f4901377566.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #구경이 #성초이작가 #박세은 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/62226</link>
-            <guid>https://www.elle.co.kr/article/62226</guid>
-            <pubDate>Sun, 19 Dec 2021 17:52:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021년, 당신은 어떤 콘텐츠를 보고, 어떤 인물의 활약에 가슴이 뛰었나요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/20/664fd3b9-8c3e-4bb8-82d4-74764ceb4259.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #한소희 #김소연 #김서형 #이하늬 #이영애 #전지현 #심은경 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/62220</link>
-            <guid>https://www.elle.co.kr/article/62220</guid>
-            <pubDate>Sat, 18 Dec 2021 17:52:28 GMT</pubDate>
-            <content:encoded><![CDATA['영 블러드' 한소희와 브라운관을 지배한 김소연, 김서형, 이하늬, 이영애, 전지현, 해외 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/19/85601d5d-89d5-49d7-ba88-dadc41ee11ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['리커넥트 2021' 그날 대관령에서 있었던 일 몰아보기 [RECONNECT 2021] (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/62198</link>
-            <guid>https://www.elle.co.kr/article/62198</guid>
-            <pubDate>Fri, 17 Dec 2021 17:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[윤계상, 문가영, 코드쿤스트, 이찬혁, 콜드, 소금. 어디서도 본 적 없는 의외의 조합이 모...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/cd74cd96-8304-48e8-ad05-ed892e3bd31d.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트 크리스마스 대신 하얀 눈이 폴폴 내리는 영화 #구작초이스 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/62189</link>
-            <guid>https://www.elle.co.kr/article/62189</guid>
-            <pubDate>Sat, 18 Dec 2021 05:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘방콕’하며 새하얀 겨울을 만끽하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/17/4865ac90-92bd-4a3e-bc8f-2b0ea5240e24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베네수엘라 교도소의 여성들을 기록한 라이카 선정 2021 '올해의 사진' (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2432,6 +2432,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/fc03ebb2-8c61-489b-95ae-5057daeea39f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[베네수엘라 교도소의 여성들을 기록한 라이카 선정 2021 '올해의 사진' (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/62595</link>
+            <guid>https://www.elle.co.kr/article/62595</guid>
+            <pubDate>Thu, 30 Dec 2021 17:53:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021 라이카가 선정한 '올해의 사진'. '영원한 날(Días Eternos)'의 작가 아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/31/9770c658-9efb-4696-95ab-285509ce862d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[맥도날드는 세계 최대 부동산 기업입니다_돈쓸신잡 #26 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/62589</link>
             <guid>https://www.elle.co.kr/article/62589</guid>
@@ -2486,14 +2494,6 @@
             <pubDate>Thu, 30 Dec 2021 17:54:41 GMT</pubDate>
             <content:encoded><![CDATA[다사다난했던 2021년. 올해를 끝으로 작별을 고하고 싶은 기억과 감정, 추억들까지.... ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/0a222fb8-ce56-4f72-8070-75f5ab761446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스에 뭐 볼까_요주의여성 #41 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/62461</link>
-            <guid>https://www.elle.co.kr/article/62461</guid>
-            <pubDate>Thu, 30 Dec 2021 17:54:41 GMT</pubDate>
-            <content:encoded><![CDATA[멋진 여자, 멋진 로맨스, 멋진 이야기가 있는 연말 OTT 추천작.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/f12a8aa6-42aa-45c2-b4ae-f3aed458b597.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
