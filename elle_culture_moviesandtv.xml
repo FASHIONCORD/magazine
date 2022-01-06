@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 05:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 17:57:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['옷소매 붉은 끝동' 이준호X이세영, 시청률 공약 지킨다! '우리궁'+'진또배기' 보려면?]]></title>
+            <link>https://www.elle.co.kr/article/62748</link>
+            <guid>https://www.elle.co.kr/article/62748</guid>
+            <pubDate>Thu, 06 Jan 2022 17:54:37 GMT</pubDate>
+            <content:encoded><![CDATA[시청률 공약 이행 기준은 15%, 마지막회 시청률은 17.4%!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/30af4a6c-5e2e-44a2-82ad-699bd137321e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스우파'·'스걸파' 후속 '스맨파', 지금까지 풀린 떡밥 총정리]]></title>
             <link>https://www.elle.co.kr/article/62739</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 23 Dec 2021 05:46:44 GMT</pubDate>
             <content:encoded><![CDATA[이날 무려 네 크루가 아쉽게 탈락했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/cdcb63c7-fa9f-44b8-9d15-43247c307174.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #내가키운다 #오은영 #로지 #아뽀키 #한유아]]></title>
-            <link>https://www.elle.co.kr/article/62298</link>
-            <guid>https://www.elle.co.kr/article/62298</guid>
-            <pubDate>Mon, 20 Dec 2021 17:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 '히어로' 오은영 박사와 버추얼 인플루언서, &lt;내가 키운다&gt;의 엄마들까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/21/b7c6f63a-d631-484f-aa5f-61eab7c5af8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

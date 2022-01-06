@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 05:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 17:57:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BMW부터 애스턴마틴까지, 유명 자동차 모델들의 최초 디자인은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33057566&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33057566&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 06 Jan 2022 17:50:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfMjg3/MDAxNjQxMTk0ODY3MDM0.CorI0mMOJM2xpmc3QqYHbX2mnMMzE7985-vp3LrseIMg.MD79C8V4FbyuMpq3eYyYi3PE0QyW7lbZUk2amJGUG1Ig.JPEG/ITNXludRC27cgahH_O7iFhc_4Bm0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DRIVERS: 미스터 우 & 닷지 챌린저 R/T]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32892054&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjdfMTQ0/MDAxNjAzNzg0NjU4MjQ0.DF-k39iu99tIm10wN-hwd75W807sZ5iMtCSqi_zaIxUg.HnWsBUOs-lrLlzqTSGG1hySiQ316rwYGONRqsA0PVdIg.JPEG/I01js1EgMmVPwYx3uwSKaqa_vgVU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[각 자동차 브랜드에서 가장 비싼 몸값을 자랑하는 모델은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29601363&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29601363&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMDJfNiAg/MDAxNjAxNjE4MTg3OTE2.nq7wK-ps7yF20qV-UerzbWJ3r9yrbimSFYj54IJzTpQg.9_S8lLGMNl65FWk-xPPmDC6yNfMBvSJqgnAVmS_cItwg.JPEG/I6wHsu5qgNXy-KeirX9jfrHtLZE0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 05:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 17:57:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈터 룩의 한 끗 포인트! 스타들의 겨울 모자 패션 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/62702</link>
+            <guid>https://www.elle.co.kr/article/62702</guid>
+            <pubDate>Thu, 06 Jan 2022 17:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[보온과 스타일, 두 마리 토끼를 한 번에! 옷 잘 입기로 유명한 스타들의 겨울 모자 스타일링...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/1a9b000a-8a0e-40e7-b926-7f97f05680e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국판 ‘델마와 루이스’? 김혜수 x 한소희 투 샷에 난리 난 이유]]></title>
+            <link>https://www.elle.co.kr/article/62684</link>
+            <guid>https://www.elle.co.kr/article/62684</guid>
+            <pubDate>Thu, 06 Jan 2022 17:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[심장 떨리는 이 조합…? 찬성합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5099e7be-5747-4065-a8d9-e636d5574153.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연애 프로 보는데 왜 눈물이 나지? '돌싱글즈' 윤남기의 뭔가 다른 설렘 모먼트]]></title>
             <link>https://www.elle.co.kr/article/62679</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 04 Jan 2022 17:50:24 GMT</pubDate>
             <content:encoded><![CDATA["저는 지금 청춘을 아주 제대로 보내고 있어요." 아무렇지 않게 툭 내뱉는 말에도 기어코 드...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/d21dbfc0-5254-4438-a558-5fd7f50447e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나 어제부터 언니가 너무 좋아" 모두가 바라던 투샷! 김고은X로제]]></title>
-            <link>https://www.elle.co.kr/article/62630</link>
-            <guid>https://www.elle.co.kr/article/62630</guid>
-            <pubDate>Tue, 04 Jan 2022 17:50:24 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 힐링되는 이 조합.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/02/78183792-6541-461b-ae5d-80018f826be0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 역사를 쓰는 여자! #신스]]></title>
-            <link>https://www.elle.co.kr/article/62599</link>
-            <guid>https://www.elle.co.kr/article/62599</guid>
-            <pubDate>Tue, 04 Jan 2022 05:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[#쇼미더머니 10의 새로운 기록! 신스를 만났다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/31/18358df5-a3e7-4ea5-b363-eac9344028b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
