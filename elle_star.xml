@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 17:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 05:49:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['옷소매 붉은 끝동' 이준호X이세영, 시청률 공약 지킨다! '우리궁'+'진또배기' 보려면?]]></title>
+            <link>https://www.elle.co.kr/article/62748</link>
+            <guid>https://www.elle.co.kr/article/62748</guid>
+            <pubDate>Sat, 08 Jan 2022 05:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[시청률 공약 이행 기준은 15%, 마지막회 시청률은 17.4%!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/30af4a6c-5e2e-44a2-82ad-699bd137321e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스우파'·'스걸파' 후속 '스맨파', 지금까지 풀린 떡밥 총정리]]></title>
             <link>https://www.elle.co.kr/article/62739</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Jan 2022 05:44:19 GMT</pubDate>
             <content:encoded><![CDATA[감동의 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/d30f0d3a-18ca-4abe-9315-1a98cebfa7d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죽음을 앞두고 만난 세 여자, #안은진 #강예원 #박수영]]></title>
-            <link>https://www.elle.co.kr/article/62655</link>
-            <guid>https://www.elle.co.kr/article/62655</guid>
-            <pubDate>Thu, 06 Jan 2022 05:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[세 여자가 같이 웃음을 터뜨린 그 순간을 포착하다! #한사람만]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/77cc3da0-047e-4e0b-9cdc-4a251d989c8a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

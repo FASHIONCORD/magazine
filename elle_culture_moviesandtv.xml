@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 17:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 05:49:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좀 있으면 한국판 '오션스 8'도 나올 듯! 2022년에도 대세일 '여자 셋' 드라마 5]]></title>
+            <link>https://www.elle.co.kr/article/62784</link>
+            <guid>https://www.elle.co.kr/article/62784</guid>
+            <pubDate>Sat, 08 Jan 2022 05:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;클리닝업&gt;과 &lt;킬힐&gt;은 출연진만 봐도 오금 저리고 얼어 붙어...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/48d808ce-81d5-4f71-92d3-60072ccbac3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['옷소매 붉은 끝동' 이준호X이세영, 시청률 공약 지킨다! '우리궁'+'진또배기' 보려면?]]></title>
             <link>https://www.elle.co.kr/article/62748</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 23 Dec 2021 17:52:59 GMT</pubDate>
             <content:encoded><![CDATA[&lt;오징어 게임&gt;과 &lt;듄&gt;의 프로덕션 디자인부터 런던 하늘에 초대형 버블을 올린 알렉산더 맥퀸...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/24/eff3ed41-17eb-4906-ac9e-48724cfb7669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 중에 누가 떨어져야 된다고? '스걸파' 최고 명장면 등극한 아마존 VS 클루씨 탈락 배틀]]></title>
-            <link>https://www.elle.co.kr/article/62370</link>
-            <guid>https://www.elle.co.kr/article/62370</guid>
-            <pubDate>Thu, 23 Dec 2021 05:46:44 GMT</pubDate>
-            <content:encoded><![CDATA[이날 무려 네 크루가 아쉽게 탈락했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/cdcb63c7-fa9f-44b8-9d15-43247c307174.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
