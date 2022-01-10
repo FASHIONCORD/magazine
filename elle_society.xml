@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 17:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["I feel ELLE" 지난 30년간 엘르가 사랑한 여성들]]></title>
+            <link>https://www.elle.co.kr/article/62656</link>
+            <guid>https://www.elle.co.kr/article/62656</guid>
+            <pubDate>Mon, 10 Jan 2022 17:58:06 GMT</pubDate>
+            <content:encoded><![CDATA[지난 30년 동안 &lt;엘르&gt;가 열렬히 사랑한 30명의 여성. 그녀들이 자신을 느끼고 말한 방식...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/bd332654-d546-475f-98fe-1b2d4a4577bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['착한' 퍼로 주목받는 디자이너들 #퍼프리]]></title>
             <link>https://www.elle.co.kr/article/62629</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 31 Dec 2021 17:56:07 GMT</pubDate>
             <content:encoded><![CDATA[우리가 사랑한 책 속의 소녀들과 쏙 닮은 배우, 엠마 왓슨.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/16e6cada-d026-47cd-85ea-f244cb509453.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 웃으며, 안녕! #전세라이프 #플라스틱]]></title>
-            <link>https://www.elle.co.kr/article/62510</link>
-            <guid>https://www.elle.co.kr/article/62510</guid>
-            <pubDate>Thu, 30 Dec 2021 17:54:41 GMT</pubDate>
-            <content:encoded><![CDATA[다사다난했던 2021년. 올해를 끝으로 작별을 고하고 싶은 기억과 감정, 추억들까지.... ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/4ef69385-cfd1-4c03-b048-0d9c0d5ef54c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

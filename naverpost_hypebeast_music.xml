@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 17:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년에 주목해야 할 국내 뮤지션 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33098911&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33098911&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 10 Jan 2022 17:50:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTBfNTAg/MDAxNjQxODAyNzMwMTA5.-goCyBsY9cjQJYPA6fopDsDECLL4aEhqeUu1tZUGJj0g.NbbysHy4GaNu1D7gHWFKFTnBqUF5F1XOQ5neYvYdNNUg.JPEG/IRtQGZrmIVm5b3TM8f2JJH0dr6B0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전소미 인터뷰: 첫 솔로 앨범 ‘XOXO’로 새로운 시대를 열다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33072420&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjNfMTQ0/MDAxNjE5MTcxNTk0NTYy.QPGMtdtKpXYIkG7YPlnPw5-ZjTLOK0Nl1pWgdaD-C6kg.RnoTd-NFJ2ZZSlU0cfhVxxoNu78scjAKTdo8AiAIjpgg.JPEG/I00lBNoCGeSSabNp2-_matVXbuh8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다운 인터뷰: 지코가 선택한 유일한 아티스트]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31336690&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31336690&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjNfOTMg/MDAxNjE5MTY5OTY1NzU4.ndMngiLqTDqBU7KBlqRvY859cCfPZXauZe0WBKqpfMAg.MEdMT7jVYHP5BDXt8PyNawjhupkugLq-QO_FT1K9J8Ug.JPEG/IesjOUfRUL-6OYIOcV-y2rm0uXyE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
