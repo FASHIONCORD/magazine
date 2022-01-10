@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 17:56:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 05:47:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['착한' 퍼로 주목받는 디자이너들 #퍼프리]]></title>
+            <link>https://www.elle.co.kr/article/62629</link>
+            <guid>https://www.elle.co.kr/article/62629</guid>
+            <pubDate>Mon, 10 Jan 2022 05:47:52 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 디자인의 ‘착한’ 퍼로 주목받는 디자이너들의 현재.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/02/c5313e89-9f0b-424f-bc66-5e8ea8d32131.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전세계 '엘르'가 모피에 안녕을 고했다 #퍼프리]]></title>
             <link>https://www.elle.co.kr/article/62619</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Dec 2021 17:54:41 GMT</pubDate>
             <content:encoded><![CDATA[다사다난했던 2021년. 올해를 끝으로 작별을 고하고 싶은 기억과 감정, 추억들까지.... ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/4ef69385-cfd1-4c03-b048-0d9c0d5ef54c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 웃으며, 안녕! #온택트 #코인]]></title>
-            <link>https://www.elle.co.kr/article/62499</link>
-            <guid>https://www.elle.co.kr/article/62499</guid>
-            <pubDate>Thu, 30 Dec 2021 17:54:41 GMT</pubDate>
-            <content:encoded><![CDATA[다사다난했던 2021년. 올해를 끝으로 작별을 고하고 싶은 기억과 감정, 추억들까지.... ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/26/aadf23fb-78fd-49dd-822e-458e197af074.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
