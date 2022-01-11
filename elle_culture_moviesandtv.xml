@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 17:58:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 05:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 동안 어떻게 참았대? '돌싱글즈' 윤남기-이다은, 재혼 선언 후 작정하고 풀기 시작한 럽스타그램]]></title>
+            <link>https://www.elle.co.kr/article/62863</link>
+            <guid>https://www.elle.co.kr/article/62863</guid>
+            <pubDate>Tue, 11 Jan 2022 05:46:11 GMT</pubDate>
+            <content:encoded><![CDATA['돌싱글즈' 사상 첫 재혼 커플!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/6cf3f657-7b2b-473c-aa5c-43fc9f3491ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['깐부 할아버지' 오영수, 골든글로브 보이콧 중에도 한국 배우 최초 남우조연상 수상!]]></title>
             <link>https://www.elle.co.kr/article/62832</link>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 27 Dec 2021 17:54:09 GMT</pubDate>
             <content:encoded><![CDATA['성공한 덕후'는 영원히 행복할 수 있을까? 99년생 감독 오세연의 영화 &lt;성덕&gt;은 팬에 대...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/a71ec8f4-3abc-4e0f-bb45-1dc45602e3c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘과 아이콘의 만남, 크리스틴 스튜어트의 영화 '세버그']]></title>
-            <link>https://www.elle.co.kr/article/62498</link>
-            <guid>https://www.elle.co.kr/article/62498</guid>
-            <pubDate>Sat, 25 Dec 2021 17:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[당대 최고의 배우이자 인권운동가였던 진 세버그, 그녀의 삶을 연기한 크리스틴 스튜어트의 영화...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/26/9d662c40-bee2-489c-8010-1cbea72f8e60.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

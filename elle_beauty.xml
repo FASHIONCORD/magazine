@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 17:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 05:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난 한 해 우리나라에서 가장 사랑받은 안티에이징 크림은? #엘르뷰티어워즈2022]]></title>
+            <link>https://www.elle.co.kr/article/62246</link>
+            <guid>https://www.elle.co.kr/article/62246</guid>
+            <pubDate>Tue, 11 Jan 2022 05:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[한층 업그레이드되어 더욱 강력해진 안티에이징 크림의 대명사, 설화수 자음생크림. 6000배*...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/d233b5ee-483c-4ecb-84c7-6ab5670cc02a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난 한 해 우리나라에서 가장 사랑받은 모이스처라이저 에센스는? #엘르뷰티어워즈2022]]></title>
             <link>https://www.elle.co.kr/article/62244</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Jan 2022 05:43:12 GMT</pubDate>
             <content:encoded><![CDATA[얼굴도 중요하지만 건조한 겨울엔 보디의 보습 케어도 중요하다는 사실! 소유가 추천하는 보디케...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/a1f13a5c-d4d7-400c-ba71-70405a1baed5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추위에 놀란 피부를 위한 겨울 클렌징 가이드]]></title>
-            <link>https://www.elle.co.kr/article/62730</link>
-            <guid>https://www.elle.co.kr/article/62730</guid>
-            <pubDate>Mon, 10 Jan 2022 05:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[피부가 밑 빠진 독처럼 건조해지기 전에 미리미리 체크하자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/47b479f2-9f71-424f-8d95-e6bc9f084370.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
