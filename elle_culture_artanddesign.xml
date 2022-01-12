@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 05:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 17:55:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낯선 조우 The STRANGER]]></title>
+            <link>https://www.elle.co.kr/article/62938</link>
+            <guid>https://www.elle.co.kr/article/62938</guid>
+            <pubDate>Wed, 12 Jan 2022 17:53:04 GMT</pubDate>
+            <content:encoded><![CDATA[디올이 사랑한 작가, 모르던 아름다움을 향해 가는 연진영.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/2b752489-e25c-46cf-ad26-1c9424ae397d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베네수엘라 교도소의 여성들을 기록한 라이카 선정 2021 '올해의 사진']]></title>
             <link>https://www.elle.co.kr/article/62595</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 10 Dec 2021 17:54:07 GMT</pubDate>
             <content:encoded><![CDATA[샤넬의 디자인을 마법처럼 만들어내는 8개의 공방을 위한 공간에서의 샤넬 2021/22 공방 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/0ce01d74-e3a2-4193-816e-4bf44789f0d0.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[창문을 통해 어렴풋이 들여다 본 '캐롤'의 그 겨울, 사울 레이터 사진전 #인싸 전시_40]]></title>
-            <link>https://www.elle.co.kr/article/61978</link>
-            <guid>https://www.elle.co.kr/article/61978</guid>
-            <pubDate>Fri, 10 Dec 2021 05:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[몸과 마음을 녹이는 컬러풀한 로맨티시즘에 흠뻑 잠길 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/10/cb3e583c-6016-4347-8bfd-071452ace0e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

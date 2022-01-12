@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 05:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 17:55:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10만 원대부터, 새해 맞이 카드 지갑 추천 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33099140&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33099140&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 12 Jan 2022 17:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTBfMTcy/MDAxNjQxODA1Mzg3ODAy.ElKDf5GEKQSnk6fvtKT3VLk6g7m5MfBLx4vP--9SjFUg.j1W7Vk_NLweR47CuHzRfATjHWTXiJ6qWQSOB39kzvcUg.JPEG/IN7TOlTIOIzWpyaG8yIqVlhoT4HQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Essentials: 베르디]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33018354&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:56:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTVfODgg/MDAxNjI2MzM4NTU0ODU1.z649MjTGnBK5FV2RYv98G3bgEGlrPdt1tE0E3rlfR-Ug.LdZhSKBAYO_UKaHxLEs1QDWBRY-Go4zvFGSDb4Qty44g.JPEG/IxMD_HnbBqNi65s76D_ZKwQuD91U.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀린을 부활시킨 피비 파일로, 3년간의 공백을 깨고 패션계로 돌아온다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31959848&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31959848&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:56:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfMTc2/MDAxNjI2MTY1ODA3MDgz.3HlgTsFtkYQVLIjUfIZC0a0C6ITwVfHpXwg16PzUkc4g.j08zeLaQZwOm4YJhLJbeE_XYGFCVlspYn_RjvzYJvmog.JPEG/IWljelgVIfL77s_ywZVzoYbheA4s.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
