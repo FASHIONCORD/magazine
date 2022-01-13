@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 17:57:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오래 기다렸어요 #하우스오브구찌 #웨스트사이드스토리]]></title>
+            <link>https://www.elle.co.kr/article/62967</link>
+            <guid>https://www.elle.co.kr/article/62967</guid>
+            <pubDate>Thu, 13 Jan 2022 17:54:49 GMT</pubDate>
+            <content:encoded><![CDATA[라인업과 볼거리, 미장센, 뭐하나 빠지는 것 없는 두 편의 신작.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/14/4fb7e141-ab28-42a6-bc4c-4dcf33dfdc83.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[유재석이 이정재를 업어서 출근시켰다고? 군대 동기 두 사람이 풀어 놓은 30년 전 SSUL]]></title>
+            <link>https://www.elle.co.kr/article/62958</link>
+            <guid>https://www.elle.co.kr/article/62958</guid>
+            <pubDate>Thu, 13 Jan 2022 17:54:49 GMT</pubDate>
+            <content:encoded><![CDATA[1972년생 동갑내기인 유재석과 이정재가 '유 퀴즈 온 더 블럭'에서 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/c35ac05f-fd93-4d23-995d-06c71fa1abcf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 동안 어떻게 참았대? '돌싱글즈' 윤남기-이다은, 재혼 선언 후 작정하고 풀기 시작한 럽스타그램]]></title>
             <link>https://www.elle.co.kr/article/62863</link>
@@ -94,22 +110,6 @@
             <pubDate>Thu, 30 Dec 2021 05:46:31 GMT</pubDate>
             <content:encoded><![CDATA[현금 잘 버는 기업의 마지막 투자처는 결국, '이것'이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/30/0608e3ad-1531-4057-98b3-ab209f2fe427.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김장이 이렇게 쉽다고? 진짜 쩝쩝박사 이장우의 섞박지+봄동 겉절이 레시피]]></title>
-            <link>https://www.elle.co.kr/article/62544</link>
-            <guid>https://www.elle.co.kr/article/62544</guid>
-            <pubDate>Wed, 29 Dec 2021 05:48:12 GMT</pubDate>
-            <content:encoded><![CDATA[이제 그냥 가루장인이라는 별명으론 부족하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/097c4a9c-9d94-405c-a27d-43993da96da1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성공한 덕후는 영원히 행복할 수 있을까]]></title>
-            <link>https://www.elle.co.kr/article/62532</link>
-            <guid>https://www.elle.co.kr/article/62532</guid>
-            <pubDate>Mon, 27 Dec 2021 17:54:09 GMT</pubDate>
-            <content:encoded><![CDATA['성공한 덕후'는 영원히 행복할 수 있을까? 99년생 감독 오세연의 영화 &lt;성덕&gt;은 팬에 대...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/a71ec8f4-3abc-4e0f-bb45-1dc45602e3c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

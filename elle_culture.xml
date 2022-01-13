@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 17:57:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[故 이한열 열사 모친 별세 소식 듣고 한달음에 달려가 조문한 이 배우]]></title>
+            <link>https://www.elle.co.kr/article/62830</link>
+            <guid>https://www.elle.co.kr/article/62830</guid>
+            <pubDate>Thu, 13 Jan 2022 17:53:57 GMT</pubDate>
+            <content:encoded><![CDATA['1987' 장준환 감독과 김태리도 조문할 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/e24eb748-a91f-41ff-9371-3c9119507fe7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Talking ELLE]]></title>
+            <link>https://www.elle.co.kr/article/62812</link>
+            <guid>https://www.elle.co.kr/article/62812</guid>
+            <pubDate>Thu, 13 Jan 2022 17:53:57 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르&gt;가 세상을 향해 던진 30개의 발칙한 화두. 1990년대부터 지금까지의 시대를 관통하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/09/07fc3322-66d7-4f80-b258-98f93eb05d01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[좀 있으면 한국판 '오션스 8'도 나올 듯! 2022년에도 대세일 '여자 셋' 드라마 5]]></title>
             <link>https://www.elle.co.kr/article/62784</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 08 Jan 2022 17:50:28 GMT</pubDate>
             <content:encoded><![CDATA[심장 떨리는 이 조합…? 찬성합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5099e7be-5747-4065-a8d9-e636d5574153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 프로 보는데 왜 눈물이 나지? '돌싱글즈' 윤남기의 뭔가 다른 설렘 모먼트]]></title>
-            <link>https://www.elle.co.kr/article/62679</link>
-            <guid>https://www.elle.co.kr/article/62679</guid>
-            <pubDate>Thu, 06 Jan 2022 17:53:16 GMT</pubDate>
-            <content:encoded><![CDATA[윤남기 당신 유죄...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/82fbd9f6-709a-4b40-8165-cfecc17f4164.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감격의 오열 VS 어리둥절? 2021년 MBC·SBS·KBS 연기대상 거머쥔 배우들.zip]]></title>
-            <link>https://www.elle.co.kr/article/62678</link>
-            <guid>https://www.elle.co.kr/article/62678</guid>
-            <pubDate>Thu, 06 Jan 2022 05:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[감동의 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/d30f0d3a-18ca-4abe-9315-1a98cebfa7d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
