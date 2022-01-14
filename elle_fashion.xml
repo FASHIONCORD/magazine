@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 17:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 05:49:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['패피 국룰' 핑크 색 팬츠! 아우터 속에 이렇게 입을 것! 스타 OOTD]]></title>
+            <link>https://www.elle.co.kr/article/62803</link>
+            <guid>https://www.elle.co.kr/article/62803</guid>
+            <pubDate>Fri, 14 Jan 2022 05:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 패피들은 다 입는다는 핑크 팬츠. 스타들의 데일리 룩에도 빠지지 않는 핑크 팬츠 패션을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/08/c5fd99dc-5f7a-454f-929d-03f27c5963fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션계의 스포트라이트를 한 몸에 받는 슈퍼스타가 등장했다. 바로, 크리스토퍼 존 로저스!]]></title>
             <link>https://www.elle.co.kr/article/62726</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 07 Jan 2022 17:50:40 GMT</pubDate>
             <content:encoded><![CDATA[나비가 날아들고, 따릉이가 울리며, 메타버스의 질주가 거세다. 미리 보는 2022년 패션 트...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/e1927422-406d-432b-99fa-acb60f548ef4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['착한' 퍼로 주목받는 디자이너들 #퍼프리]]></title>
-            <link>https://www.elle.co.kr/article/62629</link>
-            <guid>https://www.elle.co.kr/article/62629</guid>
-            <pubDate>Fri, 07 Jan 2022 17:50:40 GMT</pubDate>
-            <content:encoded><![CDATA[감각적인 디자인의 ‘착한’ 퍼로 주목받는 디자이너들의 현재.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/02/c5313e89-9f0b-424f-bc66-5e8ea8d32131.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

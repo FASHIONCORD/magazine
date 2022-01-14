@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 17:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 05:49:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하루만 비건이 돼 볼까? #헬시플레저]]></title>
+            <link>https://www.elle.co.kr/article/62890</link>
+            <guid>https://www.elle.co.kr/article/62890</guid>
+            <pubDate>Fri, 14 Jan 2022 05:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트와 친환경 라이프, 더이상 스스로를 옥죄면서 해야할까? 새해 다짐을 위한 건강한 아이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/a2acc107-9692-4fca-8f7c-b6d4a39fd367.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마스크도 막을 수 없는 우리의 립스틱 사랑! #엘르뷰티어워즈2022]]></title>
+            <link>https://www.elle.co.kr/article/62889</link>
+            <guid>https://www.elle.co.kr/article/62889</guid>
+            <pubDate>Fri, 14 Jan 2022 05:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 가장 사랑받은 립 제품들을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/12/cc16515b-c0b3-43b5-aee9-10936a9ecf30.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유지어터를 위한 모델 김진경의 주 5일 아침 식단.]]></title>
             <link>https://www.elle.co.kr/article/62872</link>
@@ -21,7 +37,7 @@
             <guid>https://www.elle.co.kr/article/62856</guid>
             <pubDate>Wed, 12 Jan 2022 17:49:41 GMT</pubDate>
             <content:encoded><![CDATA[코로나 바이러스로 인한 방심과 회피가 더 큰 화를 초래한다. 유방암이 그 중 하나. 여성이라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/1401baef-419b-4120-9361-dab12c4a380f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/1401baef-419b-4120-9361-dab12c4a380f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잘 팔리는 제품에는 이유가 있다! #엘르뷰티어워즈2022]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 11 Jan 2022 05:43:28 GMT</pubDate>
             <content:encoded><![CDATA[한층 업그레이드되어 더욱 강력해진 안티에이징 크림의 대명사, 설화수 자음생크림. 6000배*...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/d233b5ee-483c-4ecb-84c7-6ab5670cc02a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 한 해 우리나라에서 가장 사랑받은 모이스처라이저 에센스는? #엘르뷰티어워즈2022]]></title>
-            <link>https://www.elle.co.kr/article/62244</link>
-            <guid>https://www.elle.co.kr/article/62244</guid>
-            <pubDate>Mon, 10 Jan 2022 17:51:49 GMT</pubDate>
-            <content:encoded><![CDATA[가볍게 닿아 피부 깊숙이 채우는 차원이 다른 수분감, &lt;엘르&gt; 코리아가 선정한 올해의 모이스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/68ebba23-310e-4c95-a41d-3e0742d57bfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 한 해 가장 우리나라에서 사랑받은 안티에이징 에센스는? #엘르뷰티어워즈2022]]></title>
-            <link>https://www.elle.co.kr/article/62245</link>
-            <guid>https://www.elle.co.kr/article/62245</guid>
-            <pubDate>Mon, 10 Jan 2022 17:51:49 GMT</pubDate>
-            <content:encoded><![CDATA[더 젊고 아름다운 피부를 원한다면 노화로 이어지기 쉬운 피부 자극으로부터 피부를 보호하고 진...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/e22d961f-7d6f-4dff-b1fb-5fb0666c2baa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
