@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 05:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 17:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내면을 밝혀라 #헬시플레저]]></title>
+            <link>https://www.elle.co.kr/article/62935</link>
+            <guid>https://www.elle.co.kr/article/62935</guid>
+            <pubDate>Fri, 14 Jan 2022 17:50:30 GMT</pubDate>
+            <content:encoded><![CDATA[더이상 스스로 괴롭히지 말 것! 자신을 사랑하는 법을 아는 당신을 위한 건강한 내면 관리 방...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/9afdbf85-9c0e-417b-b0a2-f8acab9cba9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[15분만에 뚝딱! 여배우 퀵 메이크업]]></title>
+            <link>https://www.elle.co.kr/article/62931</link>
+            <guid>https://www.elle.co.kr/article/62931</guid>
+            <pubDate>Fri, 14 Jan 2022 17:50:30 GMT</pubDate>
+            <content:encoded><![CDATA[Quick! 윤은혜가 알려주는 15분 만에 아름다워지는 메이크업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/bc17e725-9dee-4cf4-9a1f-b9d1652f82a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루만 비건이 돼 볼까? #헬시플레저]]></title>
             <link>https://www.elle.co.kr/article/62890</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 11 Jan 2022 17:52:19 GMT</pubDate>
             <content:encoded><![CDATA[우리의 겨울을 책임져줄 유자와 귤을 품은 뷰티 아이템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/17c26532-1be2-4313-b35f-fcb3d6972c21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나는 맨얼굴 프로젝트_선배's 어드바이스 #99]]></title>
-            <link>https://www.elle.co.kr/article/62837</link>
-            <guid>https://www.elle.co.kr/article/62837</guid>
-            <pubDate>Tue, 11 Jan 2022 17:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[새해엔 건강하고 아름다운 노 메이크업에 도전!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/024fce3b-78ff-4b06-aacf-3498c63ed521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 한 해 우리나라에서 가장 사랑받은 안티에이징 크림은? #엘르뷰티어워즈2022]]></title>
-            <link>https://www.elle.co.kr/article/62246</link>
-            <guid>https://www.elle.co.kr/article/62246</guid>
-            <pubDate>Tue, 11 Jan 2022 05:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[한층 업그레이드되어 더욱 강력해진 안티에이징 크림의 대명사, 설화수 자음생크림. 6000배*...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/d233b5ee-483c-4ecb-84c7-6ab5670cc02a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

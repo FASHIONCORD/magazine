@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 05:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 17:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HOW TO: 컨버스와 릭 오웬스 협업 스니커 모양 인센스 챔버 만드는 법]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33099228&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33099228&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 14 Jan 2022 17:48:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTBfMTgx/MDAxNjQxODA2MTEwNTY0.JArrjLGfNdalYo3Z5RaT45qaRnMSDwCiPCWVSlGHgSAg.UTCdm3pCaF4qnusA8gn9moTUftPL4IsT47PgqIOChYMg.JPEG/I3n3Ap5HI1t19H9Q5bO9fOUs4h1M.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스타스 세레메티스의 아카이브를 한데 모은, ‘The All Mighty’ 아트북 출간]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32985966&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjJfMjk2/MDAxNTk1Mzk3Njk5MzE2.wqTpPMHOcbi9oyBr2aclfBg0ha62U7FIlYbYLIe-LkUg.XZ4481zicpSMegemZrIorUlizsB_vAgqFtK3hsVDCqsg.JPEG/INciStApg-eBL1ZaTJSrm6i6_Y5k.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스티븐 해링턴의 첫 야외 영구 조각상이 한국에 설치됐다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28608214&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28608214&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MjNfMjQy/MDAxNTkyODk2NTcxMDQ5.pO4TWd2RvofhWm13J3vD90TLBAqaQ0zLUyd57lSUokgg.s2SnHpBYeworhgJ1QPXZdhIlX3_fhkAdFm_-8R19us0g.JPEG/IBWiroRsx_t7_X9udVy9_49XODkU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

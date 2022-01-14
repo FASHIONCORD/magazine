@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 05:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 17:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 한 해의 시작은 달콤한 디저트와 함께! 마포구에 생긴 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/62657</link>
+            <guid>https://www.elle.co.kr/article/62657</guid>
+            <pubDate>Fri, 14 Jan 2022 17:54:06 GMT</pubDate>
+            <content:encoded><![CDATA[디저트를 먹으며 한 해 계획 세워 보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/b8e4b07f-d757-4cdf-b07c-9a0f7fedb6a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울의 새로운 핫플레이스! LCDC에서 꼭 가봐야할 '이 곳']]></title>
             <link>https://www.elle.co.kr/article/62646</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 01 Jan 2022 17:53:52 GMT</pubDate>
             <content:encoded><![CDATA[백종원 추천 호떡집도 꼭 들러볼 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/9d7d2608-d49d-423f-af04-1a422738c514.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 마스터의 초간단 비건 샐러드 레서피 2]]></title>
-            <link>https://www.elle.co.kr/article/62342</link>
-            <guid>https://www.elle.co.kr/article/62342</guid>
-            <pubDate>Thu, 30 Dec 2021 17:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트 마스터 전효성이 알려주는 초간단 비건 샐러드 레서피를 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/22/2d5e3eb7-4c71-43a7-82ed-d55f7e178be2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
