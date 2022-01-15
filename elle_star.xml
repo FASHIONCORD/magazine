@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 17:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 05:48:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KCM, 이미 유부남이었다! 손편지로 직접 밝힌 9살 연하 신부와 결혼 이야기]]></title>
+            <link>https://www.elle.co.kr/article/62945</link>
+            <guid>https://www.elle.co.kr/article/62945</guid>
+            <pubDate>Sat, 15 Jan 2022 05:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[결혼식은 코로나19 시국이 끝난 후 치를 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/eaa37cd7-c478-43cb-b7da-6ebe30fffe67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[같이 밥 맛있게 먹더니 다음 생에 만나자고? 알고 보니 14년 지기 권율X조진웅 케미]]></title>
             <link>https://www.elle.co.kr/article/62929</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 12 Jan 2022 17:49:52 GMT</pubDate>
             <content:encoded><![CDATA['1987' 장준환 감독과 김태리도 조문할 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/e24eb748-a91f-41ff-9371-3c9119507fe7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괴물신인 최성은의 빛나는 성장]]></title>
-            <link>https://www.elle.co.kr/article/62822</link>
-            <guid>https://www.elle.co.kr/article/62822</guid>
-            <pubDate>Wed, 12 Jan 2022 17:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[한 번 보면 잊지 못할 얼굴. 최성은이 넷플릭스 오리지널 시리즈 &lt;안나라수마나라&gt;와 웨이브 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/37807be4-df6f-4e15-a7b0-49678dd6836a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

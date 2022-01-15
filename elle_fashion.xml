@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 17:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 05:48:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['패피'라면 깃털 하나 쯤은 있어야지. 스타들의 페더 룩 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/62818</link>
+            <guid>https://www.elle.co.kr/article/62818</guid>
+            <pubDate>Sat, 15 Jan 2022 05:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 깃털 장식 옷 하나쯤은 누구나 다 있잖아요? 로제부터 이하이까지 셀럽들은 깃털을 어떻게...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/09/919e7695-6dcf-402b-85bc-66bfcda37b77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['패피 국룰' 핑크 색 팬츠! 아우터 속에 이렇게 입을 것! 스타 OOTD]]></title>
             <link>https://www.elle.co.kr/article/62803</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 07 Jan 2022 17:50:40 GMT</pubDate>
             <content:encoded><![CDATA[국내외 패잘알 셀럽들의 SNS 사진 속 ‘잇템’은 바로 복슬복슬한 퍼 햇!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/fa97701b-724f-43e3-a6da-664c8264008d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 패션 월드에 어떤 일들이 생길까?(2)]]></title>
-            <link>https://www.elle.co.kr/article/62635</link>
-            <guid>https://www.elle.co.kr/article/62635</guid>
-            <pubDate>Fri, 07 Jan 2022 17:50:40 GMT</pubDate>
-            <content:encoded><![CDATA[나비가 날아들고, 따릉이가 울리며, 메타버스의 질주가 거세다. 미리 보는 2022년 패션 트...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/e1927422-406d-432b-99fa-acb60f548ef4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
