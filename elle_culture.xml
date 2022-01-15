@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 05:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 17:55:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 동안 어떻게 참았대? '돌싱글즈' 윤남기-이다은, 재혼 선언 후 작정하고 풀기 시작한 럽스타그램]]></title>
+            <link>https://www.elle.co.kr/article/62863</link>
+            <guid>https://www.elle.co.kr/article/62863</guid>
+            <pubDate>Sat, 15 Jan 2022 17:51:04 GMT</pubDate>
+            <content:encoded><![CDATA['돌싱글즈' 사상 첫 재혼 커플!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/6cf3f657-7b2b-473c-aa5c-43fc9f3491ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['깐부 할아버지' 오영수, 골든글로브 보이콧 중에도 한국 배우 최초 남우조연상 수상!]]></title>
+            <link>https://www.elle.co.kr/article/62832</link>
+            <guid>https://www.elle.co.kr/article/62832</guid>
+            <pubDate>Sat, 15 Jan 2022 17:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[생애 첫 남우조연상이 골든글로브...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/e051d246-2629-4fc5-bc44-d4d4eedf1a69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[故 이한열 열사 모친 별세 소식 듣고 한달음에 달려가 조문한 이 배우]]></title>
             <link>https://www.elle.co.kr/article/62830</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 10 Jan 2022 05:44:31 GMT</pubDate>
             <content:encoded><![CDATA[방송은 올 여름 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/1eb57173-140f-4ad8-8f66-254e1aef44d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스걸파' 최종 우승은 턴즈, 시청자들과 함께 막방 달린 BTS 멤버가 있다?!]]></title>
-            <link>https://www.elle.co.kr/article/62712</link>
-            <guid>https://www.elle.co.kr/article/62712</guid>
-            <pubDate>Sat, 08 Jan 2022 17:50:28 GMT</pubDate>
-            <content:encoded><![CDATA[2라운드에서 아쉽게 탈락한 아마존이 특별 무대도 꾸몄다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/05/d43bee12-02b7-453f-b67b-4faa21c9a0a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국판 ‘델마와 루이스’? 김혜수 x 한소희 투 샷에 난리 난 이유]]></title>
-            <link>https://www.elle.co.kr/article/62684</link>
-            <guid>https://www.elle.co.kr/article/62684</guid>
-            <pubDate>Sat, 08 Jan 2022 17:50:28 GMT</pubDate>
-            <content:encoded><![CDATA[심장 떨리는 이 조합…? 찬성합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5099e7be-5747-4065-a8d9-e636d5574153.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

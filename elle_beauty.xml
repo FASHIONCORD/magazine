@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 05:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 17:55:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어트 중인 빵순이들 주목! 수영의 ‘NO 밀가루’ 디저트]]></title>
+            <link>https://www.elle.co.kr/article/62963</link>
+            <guid>https://www.elle.co.kr/article/62963</guid>
+            <pubDate>Sat, 15 Jan 2022 17:50:11 GMT</pubDate>
+            <content:encoded><![CDATA[디저트를 좋아하는 자칭 빵순이 수영이 케이크 대신 만들어 먹은 밀가루 없는 디저트는 무엇?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/960a854f-c80a-4a75-8a23-44985802d1c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피부에 '착붙'는 최고의 베이스 메이크업 제품 #엘르뷰티어워즈2022]]></title>
+            <link>https://www.elle.co.kr/article/62936</link>
+            <guid>https://www.elle.co.kr/article/62936</guid>
+            <pubDate>Sat, 15 Jan 2022 17:50:11 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 가장 사랑받은 베이스 메이크업 제품들을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/8ef1fba0-e34a-431e-b639-47f53bce7229.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내면을 밝혀라 #헬시플레저]]></title>
             <link>https://www.elle.co.kr/article/62935</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 12 Jan 2022 17:49:41 GMT</pubDate>
             <content:encoded><![CDATA[코로나 바이러스로 인한 방심과 회피가 더 큰 화를 초래한다. 유방암이 그 중 하나. 여성이라...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/1401baef-419b-4120-9361-dab12c4a380f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 팔리는 제품에는 이유가 있다! #엘르뷰티어워즈2022]]></title>
-            <link>https://www.elle.co.kr/article/62854</link>
-            <guid>https://www.elle.co.kr/article/62854</guid>
-            <pubDate>Wed, 12 Jan 2022 17:49:41 GMT</pubDate>
-            <content:encoded><![CDATA[지난 한 해 가장 사랑받은 37개의 베스트 코스메틱을 공개하는 '엘르 뷰티 어워즈 2022'...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/49f70036-4f32-4cd7-8edf-1dfcdfb9f044.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬바람 불면 생각나는 이름, 달콤하고 싱그러운 유자 뷰티템]]></title>
-            <link>https://www.elle.co.kr/article/62857</link>
-            <guid>https://www.elle.co.kr/article/62857</guid>
-            <pubDate>Tue, 11 Jan 2022 17:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[우리의 겨울을 책임져줄 유자와 귤을 품은 뷰티 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/17c26532-1be2-4313-b35f-fcb3d6972c21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
