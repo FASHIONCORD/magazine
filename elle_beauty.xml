@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 17:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 05:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난 한 해 우리나라에서 가장 사랑받은 헤어스타일링 제품은? #엘르뷰티어워즈2022]]></title>
+            <link>https://www.elle.co.kr/article/62251</link>
+            <guid>https://www.elle.co.kr/article/62251</guid>
+            <pubDate>Mon, 17 Jan 2022 05:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[살롱에서 받은 케어 효과를 오랫동안 즐기고 싶다면 시세이도 프로페셔널 ‘서브리믹 원더쉴드’에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/327c3c0f-67b1-43fa-a1c9-dc2e75a327a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난 한 해 우리나라에서 가장 사랑받은 자외선차단제는? #엘르뷰티어워즈2022]]></title>
             <link>https://www.elle.co.kr/article/62265</link>
@@ -53,7 +61,7 @@
             <guid>https://www.elle.co.kr/article/62991</guid>
             <pubDate>Sun, 16 Jan 2022 17:50:32 GMT</pubDate>
             <content:encoded><![CDATA[지난해 가장 사랑받은 포인트 메이크업 제품들을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/15/1a67af32-d249-48ca-9da1-5a416901286c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/1a67af32-d249-48ca-9da1-5a416901286c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패션 디자이너의 DNA를 품은 색다른 캔들 추천]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 16 Jan 2022 17:50:33 GMT</pubDate>
             <content:encoded><![CDATA[가성비 좋은 있어빌리티 끝판왕!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/15/9cf329c8-39c9-4a2a-9fc9-8ad005b4e295.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘급찐살’에는 골든타임이 있다? ‘급찐급빠’ 다이어트_몸에 좋은 잔소리 #36]]></title>
-            <link>https://www.elle.co.kr/article/62965</link>
-            <guid>https://www.elle.co.kr/article/62965</guid>
-            <pubDate>Sun, 16 Jan 2022 17:50:33 GMT</pubDate>
-            <content:encoded><![CDATA[입이 즐거운 연말연시를 보냈다면 더 늦기 전에 서둘러 빼야 한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/e09a4849-8841-4690-b69f-0692697516a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
