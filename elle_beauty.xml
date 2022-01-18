@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 05:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 17:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누가 꽃이고 누가 사람이야? 성경이 성경한 샤넬 뷰티 화보 공개]]></title>
+            <link>https://www.elle.co.kr/article/62975</link>
+            <guid>https://www.elle.co.kr/article/62975</guid>
+            <pubDate>Tue, 18 Jan 2022 17:52:57 GMT</pubDate>
+            <content:encoded><![CDATA[하얗고 말간 이성경의 얼굴에 구현된 레드 까멜리아의 면면 그리고 N°1 DE CHANEL.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/d9d15955-8256-441b-86af-a23088480c0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자면서 예뻐지는 #나이트케어 아이템]]></title>
+            <link>https://www.elle.co.kr/article/63015</link>
+            <guid>https://www.elle.co.kr/article/63015</guid>
+            <pubDate>Tue, 18 Jan 2022 17:52:57 GMT</pubDate>
+            <content:encoded><![CDATA[길어진 밤 시간, 방전된 피부 배터리를 충전하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/684ea396-9047-4d9c-8392-056fdb0585c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난 한 해 가장 사랑받은 보디케어 제품은? #엘르뷰티어워즈2022]]></title>
             <link>https://www.elle.co.kr/article/62250</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 16 Jan 2022 17:50:32 GMT</pubDate>
             <content:encoded><![CDATA[매일 아침저녁, 이상적인 피부를 꿈꾸는 당신의 화장대 위 필수품, 스킨케어 히어로들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/200900a3-1b51-4fc3-8e6f-67c170161c03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀잠 세대의 수면 경제학! #헬시플레저]]></title>
-            <link>https://www.elle.co.kr/article/63011</link>
-            <guid>https://www.elle.co.kr/article/63011</guid>
-            <pubDate>Sun, 16 Jan 2022 17:50:32 GMT</pubDate>
-            <content:encoded><![CDATA['옥침대'와 '물침대'는 더이상 노년 세대만의 이야기가 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/4755ff9a-673a-490f-b3bb-759f06d2afad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임하듯 운동해볼까? #헬시플레저]]></title>
-            <link>https://www.elle.co.kr/article/63003</link>
-            <guid>https://www.elle.co.kr/article/63003</guid>
-            <pubDate>Sun, 16 Jan 2022 17:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[경쟁 욕구를 건강하게 자극하는 것! 건강한 자기관리 방법 중 하나다. 자신을 사랑하는 법을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/16/36c03ccc-92ea-4cbb-a532-86b427e1b81c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
