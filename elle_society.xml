@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 05:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 17:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식물과 교감하는 것 또한 자기 관리라고? #헬시플레저]]></title>
+            <link>https://www.elle.co.kr/article/62966</link>
+            <guid>https://www.elle.co.kr/article/62966</guid>
+            <pubDate>Wed, 19 Jan 2022 17:50:55 GMT</pubDate>
+            <content:encoded><![CDATA[식물 수집가가 돼볼까? 자신을 사랑하는 법을 아는 당신에게 꼭 맞는 라이프스타일 아이디어. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/14/c4431d96-bb9b-4e81-acd5-1002beb8c414.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“바보야, 문제는 경제야”_돈쓸신잡 #28]]></title>
             <link>https://www.elle.co.kr/article/62954</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Jan 2022 17:57:21 GMT</pubDate>
             <content:encoded><![CDATA[매년 계획을 세우고 실패하는 당신을 위한 두 권의 책.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/fd8cbfbd-1189-40fd-abfe-ffe31ed236dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국판 ‘델마와 루이스’? 김혜수 x 한소희 투 샷에 난리 난 이유]]></title>
-            <link>https://www.elle.co.kr/article/62684</link>
-            <guid>https://www.elle.co.kr/article/62684</guid>
-            <pubDate>Thu, 13 Jan 2022 17:57:21 GMT</pubDate>
-            <content:encoded><![CDATA[심장 떨리는 이 조합…? 찬성합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5099e7be-5747-4065-a8d9-e636d5574153.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
