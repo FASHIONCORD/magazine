@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 17:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 05:46:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[까르띠에와 함께한 <엘르> 첫 번째 ‘엘르 톡’]]></title>
+            <link>https://www.elle.co.kr/article/62644</link>
+            <guid>https://www.elle.co.kr/article/62644</guid>
+            <pubDate>Fri, 21 Jan 2022 05:46:48 GMT</pubDate>
+            <content:encoded><![CDATA[밀라노 할머니 장명숙, &lt;엘르&gt; 편집장 채은미, 패션 디자이너 유나양, 방송인 로빈 데이아나...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/417131be-3cfa-49b5-9d46-520c2ce53de2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿀잠 세대의 수면 경제학! #헬시플레저]]></title>
+            <link>https://www.elle.co.kr/article/63011</link>
+            <guid>https://www.elle.co.kr/article/63011</guid>
+            <pubDate>Fri, 21 Jan 2022 05:46:48 GMT</pubDate>
+            <content:encoded><![CDATA['옥침대'와 '물침대'는 더이상 노년 세대만의 이야기가 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/4755ff9a-673a-490f-b3bb-759f06d2afad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['클러터코어'가 돼볼까? #헬시플레저]]></title>
+            <link>https://www.elle.co.kr/article/62990</link>
+            <guid>https://www.elle.co.kr/article/62990</guid>
+            <pubDate>Fri, 21 Jan 2022 05:46:48 GMT</pubDate>
+            <content:encoded><![CDATA[자신이 좋아하는 것들만 잔뜩 모아두는 것, 건강한 자기관리 방법 중 하나가 될 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/15/5b4a6c30-7502-438a-b419-df8257a8395b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식물과 교감하는 것 또한 자기 관리라고? #헬시플레저]]></title>
             <link>https://www.elle.co.kr/article/62966</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 14 Jan 2022 17:54:47 GMT</pubDate>
             <content:encoded><![CDATA[코로나 바이러스로 인한 방심과 회피가 더 큰 화를 초래한다. 유방암이 그 중 하나. 여성이라...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/1401baef-419b-4120-9361-dab12c4a380f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[故 이한열 열사 모친 별세 소식 듣고 한달음에 달려가 조문한 이 배우]]></title>
-            <link>https://www.elle.co.kr/article/62830</link>
-            <guid>https://www.elle.co.kr/article/62830</guid>
-            <pubDate>Thu, 13 Jan 2022 17:57:21 GMT</pubDate>
-            <content:encoded><![CDATA['1987' 장준환 감독과 김태리도 조문할 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/10/e24eb748-a91f-41ff-9371-3c9119507fe7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Talking ELLE]]></title>
-            <link>https://www.elle.co.kr/article/62812</link>
-            <guid>https://www.elle.co.kr/article/62812</guid>
-            <pubDate>Thu, 13 Jan 2022 17:57:21 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르&gt;가 세상을 향해 던진 30개의 발칙한 화두. 1990년대부터 지금까지의 시대를 관통하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/09/07fc3322-66d7-4f80-b258-98f93eb05d01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투자에 단 10분도 투자 못하는 건 변명이다_돈쓸신잡 #27]]></title>
-            <link>https://www.elle.co.kr/article/62744</link>
-            <guid>https://www.elle.co.kr/article/62744</guid>
-            <pubDate>Thu, 13 Jan 2022 17:57:21 GMT</pubDate>
-            <content:encoded><![CDATA[매년 계획을 세우고 실패하는 당신을 위한 두 권의 책.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/fd8cbfbd-1189-40fd-abfe-ffe31ed236dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
