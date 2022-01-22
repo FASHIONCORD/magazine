@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 05:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 17:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실패 없을! 겨울엔 레드 립스틱]]></title>
+            <link>https://www.elle.co.kr/article/63169</link>
+            <guid>https://www.elle.co.kr/article/63169</guid>
+            <pubDate>Sat, 22 Jan 2022 17:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[왠지 겨울에 더 잘 어울리는 레드립! 하늘 아래 같은 레드립은 없다는 말처럼 각자의 매력으로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/fa3dc16f-7982-4786-b078-0a4c4c0e2da7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 피부를 부탁해! 최고의 자외선차단제 #엘르뷰티어워즈2022]]></title>
             <link>https://www.elle.co.kr/article/63139</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 17:45:16 GMT</pubDate>
             <content:encoded><![CDATA[선배's 어드바이스 100회 특집!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/e4e47e56-fb9e-4e3a-ae43-68d2d743de33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누가 꽃이고 누가 사람이야? 성경이 성경한 샤넬 뷰티 화보 공개]]></title>
-            <link>https://www.elle.co.kr/article/62975</link>
-            <guid>https://www.elle.co.kr/article/62975</guid>
-            <pubDate>Tue, 18 Jan 2022 17:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[하얗고 말간 이성경의 얼굴에 구현된 레드 까멜리아의 면면 그리고 N°1 DE CHANEL.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/d9d15955-8256-441b-86af-a23088480c0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
