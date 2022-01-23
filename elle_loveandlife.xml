@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 05:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 17:50:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽들이 들른 신상 핫 플레이스 3]]></title>
+            <link>https://www.elle.co.kr/article/63006</link>
+            <guid>https://www.elle.co.kr/article/63006</guid>
+            <pubDate>Sun, 23 Jan 2022 17:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[카페부터 막걸리 비스트로까지! ‘맛잘알’ 스타들이 발 빠르게 다녀온 신상 맛집을 소개합니다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/16/58e9a0da-d08d-4701-900f-5fc50421dc26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트 중인 빵순이들 주목! 수영의 ‘NO 밀가루’ 디저트]]></title>
             <link>https://www.elle.co.kr/article/62963</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Jan 2022 05:49:16 GMT</pubDate>
             <content:encoded><![CDATA[따끈따끈한 신상 플레이스를 소개합니다. 바로 서울 성수동에 자리한 복합문화공간 LCDC. L...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/03/ce72a637-38a5-4b39-b971-b801991de95a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙하다 힙해! SNS 핫플레이스 다 모인 무주 감성 카페 셋 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/62622</link>
-            <guid>https://www.elle.co.kr/article/62622</guid>
-            <pubDate>Sun, 09 Jan 2022 17:56:11 GMT</pubDate>
-            <content:encoded><![CDATA[뷰 맛집, 케이크 맛집부터 힙한 창고 개조 카페까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/01/5392fcea-2576-483e-b465-0bd74671d6e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

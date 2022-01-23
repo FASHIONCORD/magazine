@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 05:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 17:50:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실크처럼 매끄러운 보디 피부를 위한 솔루션 #엘르뷰티어워즈2022]]></title>
+            <link>https://www.elle.co.kr/article/63175</link>
+            <guid>https://www.elle.co.kr/article/63175</guid>
+            <pubDate>Sun, 23 Jan 2022 17:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[해를 거듭할 수록 '고관 여자'들이 늘어나고 있는 보디 &amp; 헤어 케어 카테고리. &lt;엘르&gt;가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/21/b396a539-319d-4ba2-ac1c-cae7fdc12d05.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실패 없을! 겨울엔 레드 립스틱]]></title>
             <link>https://www.elle.co.kr/article/63169</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 17:45:16 GMT</pubDate>
             <content:encoded><![CDATA[매일 아침저녁, 이상적인 피부를 꿈꾸는 당신의 화장대 위 필수품, 스킨케어 히어로들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/71f00faa-2e66-4ca7-958f-eb09666b7d4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션, 뷰티, 라이프스타일 팁.zip 선배’s 어드바이스 몰아보기 #100]]></title>
-            <link>https://www.elle.co.kr/article/63032</link>
-            <guid>https://www.elle.co.kr/article/63032</guid>
-            <pubDate>Wed, 19 Jan 2022 17:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[선배's 어드바이스 100회 특집!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/e4e47e56-fb9e-4e3a-ae43-68d2d743de33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
