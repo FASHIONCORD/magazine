@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 17:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 05:47:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2431,6 +2431,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/01/5392fcea-2576-483e-b465-0bd74671d6e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“내가 그린 그림도 혹시?” 진짜 쉬운 NFT 만들기_돈쓸신잡 #29 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/63155</link>
+            <guid>https://www.elle.co.kr/article/63155</guid>
+            <pubDate>Sun, 23 Jan 2022 05:47:44 GMT</pubDate>
+            <content:encoded><![CDATA[NFT로 돈 벌고 싶은 당신을 위한 아주 쉬운 가이드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/82bfe71c-dc08-4e6a-bbab-fbde3095caad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그냥 한살 더 먹을 뿐인데 왜 30살은 29살과 다를까? #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/63138</link>
             <guid>https://www.elle.co.kr/article/63138</guid>
@@ -2485,14 +2493,6 @@
             <pubDate>Tue, 18 Jan 2022 17:59:11 GMT</pubDate>
             <content:encoded><![CDATA[2022년에 돈 벌고 싶다면 ‘이것’만은 알아야 한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/14/4052d295-c3bb-4a2d-802d-fb9897cd2be4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내면을 밝혀라 #헬시플레저 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/62935</link>
-            <guid>https://www.elle.co.kr/article/62935</guid>
-            <pubDate>Mon, 17 Jan 2022 05:51:14 GMT</pubDate>
-            <content:encoded><![CDATA[더이상 스스로 괴롭히지 말 것! 자신을 사랑하는 법을 아는 당신을 위한 건강한 내면 관리 방...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/9afdbf85-9c0e-417b-b0a2-f8acab9cba9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
