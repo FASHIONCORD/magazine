@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 17:50:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 05:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너무 쉽게! 이사배의 ‘꾸안꾸’ 메이크업]]></title>
+            <link>https://www.elle.co.kr/article/63178</link>
+            <guid>https://www.elle.co.kr/article/63178</guid>
+            <pubDate>Mon, 24 Jan 2022 05:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[뷰린이들 주목! 뷰티 크리에이터 이사배가 특별한 테크닉이 필요 없는 초간단 메이크업을 알려드...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/21/a160a87b-4305-4ee1-b9ec-fdd3ff9d1342.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실크처럼 매끄러운 보디 피부를 위한 솔루션 #엘르뷰티어워즈2022]]></title>
             <link>https://www.elle.co.kr/article/63175</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 20 Jan 2022 17:45:27 GMT</pubDate>
             <content:encoded><![CDATA[2022년 범띠 해를 맞아 다양한 뷰티 브랜드에서 호랑이 기운을 담은 리미티드 컬렉션을 선보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/7a1771a7-9db2-4788-9bd8-3be41ef7c752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극강의 보습 끝판왕! #엘르뷰티어워즈2022]]></title>
-            <link>https://www.elle.co.kr/article/63048</link>
-            <guid>https://www.elle.co.kr/article/63048</guid>
-            <pubDate>Wed, 19 Jan 2022 17:45:16 GMT</pubDate>
-            <content:encoded><![CDATA[매일 아침저녁, 이상적인 피부를 꿈꾸는 당신의 화장대 위 필수품, 스킨케어 히어로들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/71f00faa-2e66-4ca7-958f-eb09666b7d4b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

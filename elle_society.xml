@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 17:50:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 05:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구를 위하면 지갑이 두툼해진다? #2022 #탄소중립포인트]]></title>
+            <link>https://www.elle.co.kr/article/63168</link>
+            <guid>https://www.elle.co.kr/article/63168</guid>
+            <pubDate>Mon, 24 Jan 2022 05:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[‘찐’환경을 위한 새로운 베네핏.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/e6517ede-ad52-41b8-b7b9-161a7d747c6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“내가 그린 그림도 혹시?” 진짜 쉬운 NFT 만들기_돈쓸신잡 #29]]></title>
             <link>https://www.elle.co.kr/article/63155</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jan 2022 17:50:55 GMT</pubDate>
             <content:encoded><![CDATA[식물 수집가가 돼볼까? 자신을 사랑하는 법을 아는 당신에게 꼭 맞는 라이프스타일 아이디어. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/14/c4431d96-bb9b-4e81-acd5-1002beb8c414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“바보야, 문제는 경제야”_돈쓸신잡 #28]]></title>
-            <link>https://www.elle.co.kr/article/62954</link>
-            <guid>https://www.elle.co.kr/article/62954</guid>
-            <pubDate>Tue, 18 Jan 2022 17:59:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022년에 돈 벌고 싶다면 ‘이것’만은 알아야 한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/14/4052d295-c3bb-4a2d-802d-fb9897cd2be4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
