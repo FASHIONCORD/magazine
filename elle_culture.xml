@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 05:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 17:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오래 기다렸어요 #하우스오브구찌 #웨스트사이드스토리]]></title>
+            <link>https://www.elle.co.kr/article/62967</link>
+            <guid>https://www.elle.co.kr/article/62967</guid>
+            <pubDate>Tue, 25 Jan 2022 17:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[라인업과 볼거리, 미장센, 뭐하나 빠지는 것 없는 두 편의 신작.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/14/4fb7e141-ab28-42a6-bc4c-4dcf33dfdc83.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[유재석이 이정재를 업어서 출근시켰다고? 군대 동기 두 사람이 풀어 놓은 30년 전 SSUL]]></title>
             <link>https://www.elle.co.kr/article/62958</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 12 Jan 2022 17:50:34 GMT</pubDate>
             <content:encoded><![CDATA[&lt;클리닝업&gt;과 &lt;킬힐&gt;은 출연진만 봐도 오금 저리고 얼어 붙어...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/07/48d808ce-81d5-4f71-92d3-60072ccbac3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['옷소매 붉은 끝동' 이준호X이세영, 시청률 공약 지킨다! '우리궁'+'진또배기' 보려면?]]></title>
-            <link>https://www.elle.co.kr/article/62748</link>
-            <guid>https://www.elle.co.kr/article/62748</guid>
-            <pubDate>Tue, 11 Jan 2022 05:44:22 GMT</pubDate>
-            <content:encoded><![CDATA[시청률 공약 이행 기준은 15%, 마지막회 시청률은 17.4%!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/30af4a6c-5e2e-44a2-82ad-699bd137321e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
