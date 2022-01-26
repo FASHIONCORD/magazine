@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 17:48:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 공개될 넷플릭스 한국 콘텐츠 라인업]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33180032&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33180032&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 26 Jan 2022 17:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjRfNzgg/MDAxNjQzMDE1ODUxNzE0.k-JVo_nkYjA6Zw4HfiHfRM_jwGQcyplsT9Dzi-CSR0gg.CMgbJ7zYG9GhOAK-kBnRMwxps7CX-m-hioqGSwsOKzwg.JPEG/IS_x_99leZA1Vk2xBshkE_nquoCw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호랑이 해를 맞이한 10명의 1998년생]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33099195&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MDJfMjM0/MDAxNjE3MzQ1NzIxNjc0.N0HLNBm8a2ngj53D95k6LH5l7e34MOnkc7p-A3hR42og.v8yKVFM48cXUNgqNGtPCU0jIgokGX-9vT68ToTtks8kg.JPEG/I2D6HEwDFq9Jv4mufbZpTigv3tZY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 표절 논란에 휩싸인 ‘도쿄 바빌론’ 제작진이 결국 공식 사과문을 발표했다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31073845&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31073845&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 24 Jan 2022 17:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjlfMTgw/MDAxNjE3MDA5MjI0MDg5.e30v0cXgDCZESUEd5sYr-2OpSnN3zr9l_vaj2QqfKA4g.YGCE8t1G0UhPqT_5NwswOYw9pvojOJgc3bGRlCVr0xQg.JPEG/IP3ooMFfLpOQrk7JLzBAURqIvN3M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

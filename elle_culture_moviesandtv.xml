@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 17:48:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엠마 스톤이 헤어진 지 6년 된 앤드류 가필드에게 화를 낸 이유는 납득이 된다 (feat. 스포일러)]]></title>
+            <link>https://www.elle.co.kr/article/63334</link>
+            <guid>https://www.elle.co.kr/article/63334</guid>
+            <pubDate>Wed, 26 Jan 2022 17:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[2010년대를 풍미한 패셔니스타 커플.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/6dd0c650-7c5f-4aa0-ad01-0966170c9238.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오래 기다렸어요 #하우스오브구찌 #웨스트사이드스토리]]></title>
             <link>https://www.elle.co.kr/article/62967</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 06 Jan 2022 05:45:54 GMT</pubDate>
             <content:encoded><![CDATA[감동의 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/d30f0d3a-18ca-4abe-9315-1a98cebfa7d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드는 세계 최대 부동산 기업입니다_돈쓸신잡 #26]]></title>
-            <link>https://www.elle.co.kr/article/62589</link>
-            <guid>https://www.elle.co.kr/article/62589</guid>
-            <pubDate>Thu, 30 Dec 2021 05:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[현금 잘 버는 기업의 마지막 투자처는 결국, '이것'이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/30/0608e3ad-1531-4057-98b3-ab209f2fe427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
