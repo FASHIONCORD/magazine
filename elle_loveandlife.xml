@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 17:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집에서 직접 만든 쌀국수 다이어트? 이정현의 초간단 레서피]]></title>
+            <link>https://www.elle.co.kr/article/63082</link>
+            <guid>https://www.elle.co.kr/article/63082</guid>
+            <pubDate>Thu, 27 Jan 2022 17:49:33 GMT</pubDate>
+            <content:encoded><![CDATA[쌀국수 러버 모여라! 이정현이 다이어트 팟타이 레서피를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/22d48820-dd30-413e-8859-81ddfd5e177c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닭백숙에  신선한 송어요리까지! 몸보신 가능한 청송 맛집 추천 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/63067</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 18 Jan 2022 05:46:42 GMT</pubDate>
             <content:encoded><![CDATA[알고 보니 제니도 빵순이? 제니가 들른 연희동 속 빵집을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/cee5f060-1282-4bfe-8918-e0ad0afb6e42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새콤달콤 머루 소스 탕수육에 특산물 천마 짜장면?! 현지인 추천하는 무주 맛집 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/62696</link>
-            <guid>https://www.elle.co.kr/article/62696</guid>
-            <pubDate>Sun, 16 Jan 2022 05:47:31 GMT</pubDate>
-            <content:encoded><![CDATA[그냥 탕수육과 짜장면이 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/06/a354c291-e9d4-464f-a3d7-5134c69aee7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

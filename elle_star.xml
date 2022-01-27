@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 17:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자꾸 눈길 가는 그 남자! 이학주의 흠 없는 매력]]></title>
+            <link>https://www.elle.co.kr/article/63296</link>
+            <guid>https://www.elle.co.kr/article/63296</guid>
+            <pubDate>Thu, 27 Jan 2022 17:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[그 누구도 아닌 이학주. 덤덤하고 맑은 그 본연의 얼굴을 포착했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/aae9c0f9-fcae-42b1-a837-02ed2b995750.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내일로 달리는 아이콘 #제니 #Jennie]]></title>
+            <link>https://www.elle.co.kr/article/63302</link>
+            <guid>https://www.elle.co.kr/article/63302</guid>
+            <pubDate>Thu, 27 Jan 2022 17:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[그 어느 때보다 자유롭게 반짝이는 제니. 제니는 자신을 뛰어넘어 그 다음으로 갈 준비가 돼 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/b52c793c-0675-40c0-b6b0-5e6943ad5f5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시선회피 불가능! 제니와 18초 아이컨택 하실??? feat.예쁨]]></title>
             <link>https://www.elle.co.kr/article/63290</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 26 Jan 2022 05:41:40 GMT</pubDate>
             <content:encoded><![CDATA[본업 천재로 마주한 &lt;고스트 닥터&gt; 김범과 손나은.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/a344959a-9fbd-488b-a5ec-bb2d41a722a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 촬영 중인 줄? 박신혜-최태준 웨딩 화보와 결혼식 현장 사진 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/63235</link>
-            <guid>https://www.elle.co.kr/article/63235</guid>
-            <pubDate>Wed, 26 Jan 2022 05:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[하객으로 참석한 스타들이 직접 찍은 사진들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/613f1c5b-094e-4733-9f93-318ef971b37d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미주, '엘르' 화보에서 인생 틴트 찾다]]></title>
-            <link>https://www.elle.co.kr/article/63135</link>
-            <guid>https://www.elle.co.kr/article/63135</guid>
-            <pubDate>Tue, 25 Jan 2022 05:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[예능 대세이자 지금 가장 빛나는 이미주가 &lt;엘르&gt;와 첫 뷰티 화보를 진행했다. 그녀와 비디비...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/9a05889a-ef20-4f3a-b29d-859bf9db5ae8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
