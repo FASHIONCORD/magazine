@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 17:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/16/58e9a0da-d08d-4701-900f-5fc50421dc26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[머리카락을 위한 기적의 아이템 #엘르뷰티어워즈2022 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/63205</link>
+            <guid>https://www.elle.co.kr/article/63205</guid>
+            <pubDate>Fri, 28 Jan 2022 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[해를 거듭할 수록 '고관 여자'들이 늘어나고 있는 보디 &amp; 헤어 케어 카테고리. &lt;엘르&gt;가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/22/3e14a9f2-7d26-4155-8397-9ba0b85bd8ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[럭셔리 향수의 신세계, 오트 퍼퓨머리 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/63206</link>
             <guid>https://www.elle.co.kr/article/63206</guid>
@@ -1920,12 +1928,28 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/6414dc0a-8b97-464f-baa5-a00b4ee0c515.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[집에서 직접 만든 쌀국수 다이어트? 이정현의 초간단 레서피 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/63082</link>
-            <guid>https://www.elle.co.kr/article/63082</guid>
-            <pubDate>Thu, 20 Jan 2022 17:45:27 GMT</pubDate>
-            <content:encoded><![CDATA[쌀국수 러버 모여라! 이정현이 다이어트 팟타이 레서피를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/22d48820-dd30-413e-8859-81ddfd5e177c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[강하늘의 즐거운 배우 생활 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/63359</link>
+            <guid>https://www.elle.co.kr/article/63359</guid>
+            <pubDate>Fri, 28 Jan 2022 17:44:42 GMT</pubDate>
+            <content:encoded><![CDATA["저 그렇게 착한 사람은 아니에요. 그저 스스로를 사랑하는 것일 뿐." 올곧지만 거침없고, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/e9237a03-e3ee-438d-8265-f4a3a5692b50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이미주 안테나로 소속사 옮긴 소감?! 솔로 앨범 스포부터 탐나는 유재석 파트 공개 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/63348</link>
+            <guid>https://www.elle.co.kr/article/63348</guid>
+            <pubDate>Fri, 28 Jan 2022 17:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[미주의 레전드 모먼트 총집합.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/156bcb51-b34c-4c66-b77e-54642f0e32eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엠마 스톤이 헤어진 지 6년 된 앤드류 가필드에게 화를 낸 이유는 납득이 된다 (feat. 스포일러) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/63334</link>
+            <guid>https://www.elle.co.kr/article/63334</guid>
+            <pubDate>Wed, 26 Jan 2022 17:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[2010년대를 풍미한 패셔니스타 커플.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/6dd0c650-7c5f-4aa0-ad01-0966170c9238.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자꾸 눈길 가는 그 남자! 이학주의 흠 없는 매력 (엘르 코리아 ─ 스타)]]></title>
@@ -1966,30 +1990,6 @@
             <pubDate>Wed, 26 Jan 2022 17:45:16 GMT</pubDate>
             <content:encoded><![CDATA[열애설은 30분 만에 인정하더니...!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/ea10750f-a99b-46a3-b947-e7bac0c75a81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번에는 해적이다! 배우 강하늘의 무한한 가능성 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/63243</link>
-            <guid>https://www.elle.co.kr/article/63243</guid>
-            <pubDate>Wed, 26 Jan 2022 05:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;해적: 도깨비 깃발&gt;로 돌아온 강하늘]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/b7fcfbf3-95ec-407b-9683-6459ce43459d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최태준이야, 김탄이야, 황태경이야? 박신혜 유니버스에서 충돌한 남자들 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/63251</link>
-            <guid>https://www.elle.co.kr/article/63251</guid>
-            <pubDate>Wed, 26 Jan 2022 05:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[(현)최태준 VS (구)김탄 VS (구)황태경]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/d750aa8a-fe98-421b-a84b-b06aff00d23c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 알던 고승탁, 오수정 맞나요? 김범X손나은의 반전 케미 #고스트닥터 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/63232</link>
-            <guid>https://www.elle.co.kr/article/63232</guid>
-            <pubDate>Wed, 26 Jan 2022 05:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[본업 천재로 마주한 &lt;고스트 닥터&gt; 김범과 손나은.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/a344959a-9fbd-488b-a5ec-bb2d41a722a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김연아 이후 13년 만! 차준환이 따 낸 한국 남자 피겨 첫 4대륙 선수권 금메달의 의미 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2160,6 +2160,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/75ccd2d5-b32b-46f8-bdf7-6397e11067ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이효리부터 올리비아 핫세까지! 설 연휴 5일 체크해 두면 좋은 영화·드라마·예능 추천.list (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/63437</link>
+            <guid>https://www.elle.co.kr/article/63437</guid>
+            <pubDate>Fri, 28 Jan 2022 17:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[(사실은 5일도 모자라지만)]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/506ecc89-82ac-4085-8b6d-a042f29e4457.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나인우가 또? '1박2일' 합류와 함께 KBS 구세주로 등극한 이 배우 (feat. 스태프 미담) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/63388</link>
             <guid>https://www.elle.co.kr/article/63388</guid>
@@ -2254,14 +2262,6 @@
             <pubDate>Thu, 06 Jan 2022 05:45:54 GMT</pubDate>
             <content:encoded><![CDATA[심장 떨리는 이 조합…? 찬성합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/5099e7be-5747-4065-a8d9-e636d5574153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 프로 보는데 왜 눈물이 나지? '돌싱글즈' 윤남기의 뭔가 다른 설렘 모먼트 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/62679</link>
-            <guid>https://www.elle.co.kr/article/62679</guid>
-            <pubDate>Thu, 06 Jan 2022 05:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[윤남기 당신 유죄...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/04/82fbd9f6-709a-4b40-8165-cfecc17f4164.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[90년대생 작가 6인의 지금으로 보는 '유연한 경계들' #인싸 전시_43 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2368,6 +2368,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/38a4b64a-961f-4baf-ac71-38c705f43a25.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[몸매 천재 설현이 평소에 먹는 것 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/63225</link>
+            <guid>https://www.elle.co.kr/article/63225</guid>
+            <pubDate>Fri, 28 Jan 2022 17:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[몸매 천재 설현은 평소에 무엇을 먹고 살까요? 그녀의 삼시 세끼 건강 식단을 공개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/8963a59a-b809-45f3-88e8-22e22713f475.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[집에서 직접 만든 쌀국수 다이어트? 이정현의 초간단 레서피 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/63082</link>
             <guid>https://www.elle.co.kr/article/63082</guid>
@@ -2424,12 +2432,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/8d5f68ab-d532-4984-97a4-1bb6a533c336.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[블랙핑크 제니의 연희동 빵지순례 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/62817</link>
-            <guid>https://www.elle.co.kr/article/62817</guid>
-            <pubDate>Tue, 18 Jan 2022 05:46:42 GMT</pubDate>
-            <content:encoded><![CDATA[알고 보니 제니도 빵순이? 제니가 들른 연희동 속 빵집을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/11/cee5f060-1282-4bfe-8918-e0ad0afb6e42.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[20대 엄마와 40대 엄마는 뭐가 제일 다를까? (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/63214</link>
+            <guid>https://www.elle.co.kr/article/63214</guid>
+            <pubDate>Fri, 28 Jan 2022 17:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[저마다의 지점에서 출산을 결심한 엄마들의 이야기에서 엄마가 되기 '적당한' 나이를 가늠해 보...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/86f698af-4f6e-423f-a3ef-528fe216879f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[혼자 호텔에서 보낸 시간이 내게 알려준 것 #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -2486,14 +2494,6 @@
             <pubDate>Fri, 21 Jan 2022 17:50:36 GMT</pubDate>
             <content:encoded><![CDATA[사람은 계속 자란다. 아이든, 어른이든, 엄마든 상관없이.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/edebc9b3-6ba0-4a35-9233-0e71b91da331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까르띠에와 함께한 <엘르> 첫 번째 ‘엘르 톡’ (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/62644</link>
-            <guid>https://www.elle.co.kr/article/62644</guid>
-            <pubDate>Fri, 21 Jan 2022 05:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[밀라노 할머니 장명숙, &lt;엘르&gt; 편집장 채은미, 패션 디자이너 유나양, 방송인 로빈 데이아나...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/17/417131be-3cfa-49b5-9d46-520c2ce53de2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

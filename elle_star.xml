@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 17:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강하늘의 즐거운 배우 생활]]></title>
+            <link>https://www.elle.co.kr/article/63359</link>
+            <guid>https://www.elle.co.kr/article/63359</guid>
+            <pubDate>Fri, 28 Jan 2022 17:44:42 GMT</pubDate>
+            <content:encoded><![CDATA["저 그렇게 착한 사람은 아니에요. 그저 스스로를 사랑하는 것일 뿐." 올곧지만 거침없고, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/e9237a03-e3ee-438d-8265-f4a3a5692b50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이미주 안테나로 소속사 옮긴 소감?! 솔로 앨범 스포부터 탐나는 유재석 파트 공개]]></title>
+            <link>https://www.elle.co.kr/article/63348</link>
+            <guid>https://www.elle.co.kr/article/63348</guid>
+            <pubDate>Fri, 28 Jan 2022 17:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[미주의 레전드 모먼트 총집합.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/156bcb51-b34c-4c66-b77e-54642f0e32eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엠마 스톤이 헤어진 지 6년 된 앤드류 가필드에게 화를 낸 이유는 납득이 된다 (feat. 스포일러)]]></title>
+            <link>https://www.elle.co.kr/article/63334</link>
+            <guid>https://www.elle.co.kr/article/63334</guid>
+            <pubDate>Fri, 28 Jan 2022 17:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[2010년대를 풍미한 패셔니스타 커플.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/6dd0c650-7c5f-4aa0-ad01-0966170c9238.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자꾸 눈길 가는 그 남자! 이학주의 흠 없는 매력]]></title>
             <link>https://www.elle.co.kr/article/63296</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 26 Jan 2022 17:45:16 GMT</pubDate>
             <content:encoded><![CDATA[열애설은 30분 만에 인정하더니...!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/ea10750f-a99b-46a3-b947-e7bac0c75a81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번에는 해적이다! 배우 강하늘의 무한한 가능성]]></title>
-            <link>https://www.elle.co.kr/article/63243</link>
-            <guid>https://www.elle.co.kr/article/63243</guid>
-            <pubDate>Wed, 26 Jan 2022 05:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;해적: 도깨비 깃발&gt;로 돌아온 강하늘]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/b7fcfbf3-95ec-407b-9683-6459ce43459d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최태준이야, 김탄이야, 황태경이야? 박신혜 유니버스에서 충돌한 남자들]]></title>
-            <link>https://www.elle.co.kr/article/63251</link>
-            <guid>https://www.elle.co.kr/article/63251</guid>
-            <pubDate>Wed, 26 Jan 2022 05:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[(현)최태준 VS (구)김탄 VS (구)황태경]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/d750aa8a-fe98-421b-a84b-b06aff00d23c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 알던 고승탁, 오수정 맞나요? 김범X손나은의 반전 케미 #고스트닥터]]></title>
-            <link>https://www.elle.co.kr/article/63232</link>
-            <guid>https://www.elle.co.kr/article/63232</guid>
-            <pubDate>Wed, 26 Jan 2022 05:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[본업 천재로 마주한 &lt;고스트 닥터&gt; 김범과 손나은.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/a344959a-9fbd-488b-a5ec-bb2d41a722a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
