@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 05:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 17:49:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몸매 천재 설현이 평소에 먹는 것 3]]></title>
+            <link>https://www.elle.co.kr/article/63225</link>
+            <guid>https://www.elle.co.kr/article/63225</guid>
+            <pubDate>Sun, 30 Jan 2022 17:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[몸매 천재 설현은 평소에 무엇을 먹고 살까요? 그녀의 삼시 세끼 건강 식단을 공개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/8963a59a-b809-45f3-88e8-22e22713f475.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지구를 지키는 그린 뷰티 히어로들 #엘르뷰티어워즈2022]]></title>
+            <link>https://www.elle.co.kr/article/63216</link>
+            <guid>https://www.elle.co.kr/article/63216</guid>
+            <pubDate>Sun, 30 Jan 2022 17:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[갈수록 중요해지는 뷰티 업계의 지속 가능성. 지구의 미래를 생각하면서 화장품의 본질과 기능에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/2cff8e1d-fcfe-4561-a534-f35cff918d9c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리카락을 위한 기적의 아이템 #엘르뷰티어워즈2022]]></title>
             <link>https://www.elle.co.kr/article/63205</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 21 Jan 2022 17:43:28 GMT</pubDate>
             <content:encoded><![CDATA[매일 아침저녁, 이상적인 피부를 꿈꾸는 당신의 화장대 위 필수품, 스킨케어 히어로들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/f9e8b88f-4b93-4b39-ad1d-f53df5a8574a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 시작하는 일상에 333, 세노비스 ‘트리플러스’]]></title>
-            <link>https://www.elle.co.kr/article/62952</link>
-            <guid>https://www.elle.co.kr/article/62952</guid>
-            <pubDate>Fri, 21 Jan 2022 17:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[일상 속 트리플러스가 필요한 세 가지 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/236fd151-c33d-4f71-bfdd-39f795e289df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깨끗하게, 자신있게! 넘버원 클렌저와 마스크 팩 #엘르뷰티어워즈2022]]></title>
-            <link>https://www.elle.co.kr/article/63084</link>
-            <guid>https://www.elle.co.kr/article/63084</guid>
-            <pubDate>Fri, 21 Jan 2022 05:41:32 GMT</pubDate>
-            <content:encoded><![CDATA[매일 아침저녁, 이상적인 피부를 꿈꾸는 당신의 화장대 위 필수품, 스킨케어 히어로들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/6414dc0a-8b97-464f-baa5-a00b4ee0c515.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
