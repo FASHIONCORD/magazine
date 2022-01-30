@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 05:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 05:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10만 원 이하, 센스있는 설 선물]]></title>
+            <link>https://www.elle.co.kr/article/63471</link>
+            <guid>https://www.elle.co.kr/article/63471</guid>
+            <pubDate>Sun, 30 Jan 2022 05:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[설 선물 고민 중이라면 주목! 10만 원 이하로 살 수 있는 감각적이고 실용적인 설 선물 리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/5a95bac1-3ce5-46bc-9e9e-03e41490d049.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[90년대생 작가 6인의 지금으로 보는 '유연한 경계들' #인싸 전시_43]]></title>
             <link>https://www.elle.co.kr/article/63419</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 24 Dec 2021 17:52:06 GMT</pubDate>
             <content:encoded><![CDATA[&lt;오징어 게임&gt;과 &lt;듄&gt;의 프로덕션 디자인부터 런던 하늘에 초대형 버블을 올린 알렉산더 맥퀸...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/320a9672-d262-4ad5-9cc4-35f9e5c159be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈이 번쩍! 신 스틸러 그 자체가 된 세트 디자인 이야기 (2)]]></title>
-            <link>https://www.elle.co.kr/article/62389</link>
-            <guid>https://www.elle.co.kr/article/62389</guid>
-            <pubDate>Wed, 22 Dec 2021 17:55:23 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;오징어 게임&gt;과 &lt;듄&gt;의 프로덕션 디자인부터 런던 하늘에 초대형 버블을 올린 알렉산더 맥퀸...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/23/38a4b64a-961f-4baf-ac71-38c705f43a25.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
