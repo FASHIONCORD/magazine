@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 05:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 17:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기억을 수선하는 사람, 재영 #책수선가]]></title>
+            <link>https://www.elle.co.kr/article/63501</link>
+            <guid>https://www.elle.co.kr/article/63501</guid>
+            <pubDate>Mon, 31 Jan 2022 17:47:14 GMT</pubDate>
+            <content:encoded><![CDATA[책 수선가'라는 낯설고도 고유한 이름. 재영이 &lt;어느 책 수선가의 기록&gt; 전시를 펼친 이유....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/01/984d9333-eb57-40da-a6bb-de72a23b4e59.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서로 다른 네 생명체가 완벽한 가족이 되는 법 #LoveMIX]]></title>
+            <link>https://www.elle.co.kr/article/63483</link>
+            <guid>https://www.elle.co.kr/article/63483</guid>
+            <pubDate>Mon, 31 Jan 2022 17:47:14 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지션 오지은·성진환 네 가족의 정체가 궁금해? 세상에서 가장 완벽한 사각형.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/73283ec3-6b96-4069-89d3-d987693ed795.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10만 원 이하, 센스있는 설 선물]]></title>
             <link>https://www.elle.co.kr/article/63471</link>
@@ -94,22 +110,6 @@
             <pubDate>Mon, 27 Dec 2021 17:54:49 GMT</pubDate>
             <content:encoded><![CDATA[가장 21세기적인 20세기의 혁명, 러시아 아방가르드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/28/9bf294d9-e99e-46ec-a89b-a32cf2d40e50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울엔 전시 데이트! 미리미리 준비하세요]]></title>
-            <link>https://www.elle.co.kr/article/62493</link>
-            <guid>https://www.elle.co.kr/article/62493</guid>
-            <pubDate>Sun, 26 Dec 2021 05:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[올겨울 놓치지 말아야 할 전시 3]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/0ccf9228-465f-4af6-88db-ecefcdd8f542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈이 번쩍! 신 스틸러 그 자체가 된 세트 디자인 이야기 (4)]]></title>
-            <link>https://www.elle.co.kr/article/62488</link>
-            <guid>https://www.elle.co.kr/article/62488</guid>
-            <pubDate>Fri, 24 Dec 2021 17:52:06 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;오징어 게임&gt;과 &lt;듄&gt;의 프로덕션 디자인부터 런던 하늘에 초대형 버블을 올린 알렉산더 맥퀸...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/25/320a9672-d262-4ad5-9cc4-35f9e5c159be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
