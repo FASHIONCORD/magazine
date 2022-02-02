@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 05:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 17:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["100점 만점에 110만큼 사랑해" 대표 연두부상 형제 송중기X이준호]]></title>
+            <link>https://www.elle.co.kr/article/63479</link>
+            <guid>https://www.elle.co.kr/article/63479</guid>
+            <pubDate>Wed, 02 Feb 2022 17:42:48 GMT</pubDate>
+            <content:encoded><![CDATA['출발 드림팀'이 이어준 인연.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/30/af68723f-1f11-4adf-989f-b35e1b7253d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작심삼일 금지! 운동할 맛 나는 스타들의 운동복]]></title>
             <link>https://www.elle.co.kr/article/63468</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 17:44:42 GMT</pubDate>
             <content:encoded><![CDATA["저 그렇게 착한 사람은 아니에요. 그저 스스로를 사랑하는 것일 뿐." 올곧지만 거침없고, ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/e9237a03-e3ee-438d-8265-f4a3a5692b50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미주 안테나로 소속사 옮긴 소감?! 솔로 앨범 스포부터 탐나는 유재석 파트 공개]]></title>
-            <link>https://www.elle.co.kr/article/63348</link>
-            <guid>https://www.elle.co.kr/article/63348</guid>
-            <pubDate>Fri, 28 Jan 2022 17:44:42 GMT</pubDate>
-            <content:encoded><![CDATA[미주의 레전드 모먼트 총집합.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/156bcb51-b34c-4c66-b77e-54642f0e32eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
