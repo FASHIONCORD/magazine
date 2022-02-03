@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 17:47:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10만 원 이하, 센스있는 설 선물]]></title>
+            <link>https://www.elle.co.kr/article/63471</link>
+            <guid>https://www.elle.co.kr/article/63471</guid>
+            <pubDate>Thu, 03 Feb 2022 17:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[설 선물 고민 중이라면 주목! 10만 원 이하로 살 수 있는 감각적이고 실용적인 설 선물 리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/5a95bac1-3ce5-46bc-9e9e-03e41490d049.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리부터 올리비아 핫세까지! 설 연휴 5일 체크해 두면 좋은 영화·드라마·예능 추천.list]]></title>
+            <link>https://www.elle.co.kr/article/63437</link>
+            <guid>https://www.elle.co.kr/article/63437</guid>
+            <pubDate>Thu, 03 Feb 2022 17:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[(사실은 5일도 모자라지만)]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/506ecc89-82ac-4085-8b6d-a042f29e4457.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[90년대생 작가 6인의 지금으로 보는 '유연한 경계들' #인싸 전시_43]]></title>
             <link>https://www.elle.co.kr/article/63419</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 31 Jan 2022 17:44:19 GMT</pubDate>
             <content:encoded><![CDATA[믹스 매력 못 잃어! 아티스트10인과 함께 한 NFT 기부 프로젝트! Love, Mix!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/4cb98819-3592-4c97-8796-fc4edbe016d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감싸고 두르고 묶어라! 누구든 감동할 보자기 마법 #아무튼보자기]]></title>
-            <link>https://www.elle.co.kr/article/63306</link>
-            <guid>https://www.elle.co.kr/article/63306</guid>
-            <pubDate>Mon, 31 Jan 2022 17:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[LA의 보자기 스튜디오 '노씨'가 따사로운 햇살 아래 펼쳐낸 보자기 아트워크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/044859b6-6f9b-402d-892e-c63869342730.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연아 이후 13년 만! 차준환이 따 낸 한국 남자 피겨 첫 4대륙 선수권 금메달의 의미]]></title>
-            <link>https://www.elle.co.kr/article/63285</link>
-            <guid>https://www.elle.co.kr/article/63285</guid>
-            <pubDate>Thu, 27 Jan 2022 17:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[베이징 동계 올림픽도 기대해 볼 만.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/295d9430-7009-484c-82ff-17ba817e211d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

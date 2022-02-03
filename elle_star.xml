@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 17:47:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서로 다른 네 생명체가 완벽한 가족이 되는 법 #LoveMIX]]></title>
+            <link>https://www.elle.co.kr/article/63483</link>
+            <guid>https://www.elle.co.kr/article/63483</guid>
+            <pubDate>Thu, 03 Feb 2022 17:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지션 오지은·성진환 네 가족의 정체가 궁금해? 세상에서 가장 완벽한 사각형.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/73283ec3-6b96-4069-89d3-d987693ed795.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유쾌한 운명론자들 #김범 #손나은]]></title>
+            <link>https://www.elle.co.kr/article/63484</link>
+            <guid>https://www.elle.co.kr/article/63484</guid>
+            <pubDate>Thu, 03 Feb 2022 17:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[우연한 지점에서 교차한 두 남녀. &lt;고스트 닥터&gt;의 김범과 손나은이 묘하게 맞닿은 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/e19d2b4d-44c4-4b77-8742-af45100891ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["100점 만점에 110만큼 사랑해" 대표 연두부상 형제 송중기X이준호]]></title>
             <link>https://www.elle.co.kr/article/63479</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 30 Jan 2022 17:42:40 GMT</pubDate>
             <content:encoded><![CDATA[얼굴만 훈훈한 게 아니고요...?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/2918bab3-a721-4809-9497-d9fa206ff880.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박신혜가 직접 결혼식 정보 공답을? 추가 공개된 본식 사진과 들러리 화보까지!]]></title>
-            <link>https://www.elle.co.kr/article/63369</link>
-            <guid>https://www.elle.co.kr/article/63369</guid>
-            <pubDate>Sun, 30 Jan 2022 17:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[이쯤 되면 정말 세기의 결혼식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/d2f8ee43-b3a6-45e6-ac92-fb34d6bed045.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강하늘의 즐거운 배우 생활]]></title>
-            <link>https://www.elle.co.kr/article/63359</link>
-            <guid>https://www.elle.co.kr/article/63359</guid>
-            <pubDate>Fri, 28 Jan 2022 17:44:42 GMT</pubDate>
-            <content:encoded><![CDATA["저 그렇게 착한 사람은 아니에요. 그저 스스로를 사랑하는 것일 뿐." 올곧지만 거침없고, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/e9237a03-e3ee-438d-8265-f4a3a5692b50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

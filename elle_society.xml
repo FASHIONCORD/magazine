@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 17:47:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불편한 얘기도 좀 합시다! 책 표제가 우리에게 던진 질문 #1]]></title>
+            <link>https://www.elle.co.kr/article/63223</link>
+            <guid>https://www.elle.co.kr/article/63223</guid>
+            <pubDate>Thu, 03 Feb 2022 17:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 비트코인과 부동산에 대해 말할 때. 이런 책을 만든 사람들이 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/dc46b838-1b16-472d-8ed7-cfdf376a9abe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20대 엄마와 40대 엄마는 뭐가 제일 다를까?]]></title>
             <link>https://www.elle.co.kr/article/63214</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 21 Jan 2022 17:50:36 GMT</pubDate>
             <content:encoded><![CDATA[나잇값이라는 말이 '훅' 와닿았다. 젊어서 슬픈 ADHD, #정지음 작가의 솔직한 나이고발....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/ce2cce04-bf43-43b9-8b34-2d84de2fcd2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자라는 것은 아이만이 아니다. 엄마도 자라야 한다 #엘르보이스]]></title>
-            <link>https://www.elle.co.kr/article/63083</link>
-            <guid>https://www.elle.co.kr/article/63083</guid>
-            <pubDate>Fri, 21 Jan 2022 17:50:36 GMT</pubDate>
-            <content:encoded><![CDATA[사람은 계속 자란다. 아이든, 어른이든, 엄마든 상관없이.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/edebc9b3-6ba0-4a35-9233-0e71b91da331.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
