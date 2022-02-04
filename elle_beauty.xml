@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 17:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마스크 쓰고 있으니 치아교정 해볼까?_몸에 좋은 잔소리 #37]]></title>
+            <link>https://www.elle.co.kr/article/63427</link>
+            <guid>https://www.elle.co.kr/article/63427</guid>
+            <pubDate>Fri, 04 Feb 2022 17:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[MZ 세대들이 선호하는 치아교정에 대해 알아봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/faad7d50-fc6b-4304-b784-5a6d6b572f19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[준비물은 오직 머리끈! 어렵지 않은 브레이드 헤어 룩]]></title>
             <link>https://www.elle.co.kr/article/63361</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 24 Jan 2022 05:41:14 GMT</pubDate>
             <content:encoded><![CDATA[뷰린이들 주목! 뷰티 크리에이터 이사배가 특별한 테크닉이 필요 없는 초간단 메이크업을 알려드...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/21/a160a87b-4305-4ee1-b9ec-fdd3ff9d1342.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실크처럼 매끄러운 보디 피부를 위한 솔루션 #엘르뷰티어워즈2022]]></title>
-            <link>https://www.elle.co.kr/article/63175</link>
-            <guid>https://www.elle.co.kr/article/63175</guid>
-            <pubDate>Sun, 23 Jan 2022 17:43:31 GMT</pubDate>
-            <content:encoded><![CDATA[해를 거듭할 수록 '고관 여자'들이 늘어나고 있는 보디 &amp; 헤어 케어 카테고리. &lt;엘르&gt;가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/21/b396a539-319d-4ba2-ac1c-cae7fdc12d05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

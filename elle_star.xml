@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 17:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[견고한 서사를 써내려가는 #에스쿱스 #정한 #조슈아]]></title>
+            <link>https://www.elle.co.kr/article/63507</link>
+            <guid>https://www.elle.co.kr/article/63507</guid>
+            <pubDate>Fri, 04 Feb 2022 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[나란히 걷는 게 당연한 세븐틴의 맏형 셋, 에스쿱스와 정한, 조슈아. 그들이 함께 쌓아온 놀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/01/5893dcc6-57c4-44c4-8b0c-907e33a8f711.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맛있게 먹었나요? 그렇다면 Up! Up! Up! 솔라의 10분 힙업 플랜]]></title>
+            <link>https://www.elle.co.kr/article/63487</link>
+            <guid>https://www.elle.co.kr/article/63487</guid>
+            <pubDate>Fri, 04 Feb 2022 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[입이 즐거운 설 연휴. 맛있는 명절 음식을 먹고 난 후 10분만 투자해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/5988d9b1-5e85-46b6-a64b-87de6beaa2f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서로 다른 네 생명체가 완벽한 가족이 되는 법 #LoveMIX]]></title>
             <link>https://www.elle.co.kr/article/63483</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 30 Jan 2022 17:42:40 GMT</pubDate>
             <content:encoded><![CDATA[(사실은 5일도 모자라지만)]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/506ecc89-82ac-4085-8b6d-a042f29e4457.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['첫 독립'에 이렇게? 웰컴 투 다라 하우스 #랜선집들이]]></title>
-            <link>https://www.elle.co.kr/article/63407</link>
-            <guid>https://www.elle.co.kr/article/63407</guid>
-            <pubDate>Sun, 30 Jan 2022 17:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[다라 하우스에서 무채색 아이템은 금지! 알록달록한 컬러가 기분 좋게 만드는 그녀의 집에 놀러...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/f4348884-1982-495d-84cb-107143d12e70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나인우가 또? '1박2일' 합류와 함께 KBS 구세주로 등극한 이 배우 (feat. 스태프 미담)]]></title>
-            <link>https://www.elle.co.kr/article/63388</link>
-            <guid>https://www.elle.co.kr/article/63388</guid>
-            <pubDate>Sun, 30 Jan 2022 17:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴만 훈훈한 게 아니고요...?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/2918bab3-a721-4809-9497-d9fa206ff880.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
