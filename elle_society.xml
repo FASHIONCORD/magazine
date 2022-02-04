@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 17:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 05:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[책 표제가 던진 질문 #2 죽음과 노동에 대해 말하다]]></title>
+            <link>https://www.elle.co.kr/article/63267</link>
+            <guid>https://www.elle.co.kr/article/63267</guid>
+            <pubDate>Fri, 04 Feb 2022 05:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 비트코인과 부동산에 대해 말할 때. 이런 책을 만든 사람들이 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/9adad925-8c03-4746-a192-b656a534a8c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불편한 얘기도 좀 합시다! 책 표제가 우리에게 던진 질문 #1]]></title>
             <link>https://www.elle.co.kr/article/63223</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 23 Jan 2022 05:47:44 GMT</pubDate>
             <content:encoded><![CDATA[NFT로 돈 벌고 싶은 당신을 위한 아주 쉬운 가이드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/82bfe71c-dc08-4e6a-bbab-fbde3095caad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그냥 한살 더 먹을 뿐인데 왜 30살은 29살과 다를까? #엘르보이스]]></title>
-            <link>https://www.elle.co.kr/article/63138</link>
-            <guid>https://www.elle.co.kr/article/63138</guid>
-            <pubDate>Fri, 21 Jan 2022 17:50:36 GMT</pubDate>
-            <content:encoded><![CDATA[나잇값이라는 말이 '훅' 와닿았다. 젊어서 슬픈 ADHD, #정지음 작가의 솔직한 나이고발....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/ce2cce04-bf43-43b9-8b34-2d84de2fcd2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
