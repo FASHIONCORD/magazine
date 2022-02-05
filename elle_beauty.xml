@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 05:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 17:46:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만의 오은영 쌤을 찾아서]]></title>
+            <link>https://www.elle.co.kr/article/63475</link>
+            <guid>https://www.elle.co.kr/article/63475</guid>
+            <pubDate>Sat, 05 Feb 2022 17:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[오은영 쌤, 저의 마음 건강을 챙겨주세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/30/33472d62-1d65-483b-a6e0-79a7a5164ee3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10만 원 이하, 센스있는 설 선물]]></title>
             <link>https://www.elle.co.kr/article/63471</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Jan 2022 17:44:29 GMT</pubDate>
             <content:encoded><![CDATA[해를 거듭할 수록 '고관 여자'들이 늘어나고 있는 보디 &amp; 헤어 케어 카테고리. &lt;엘르&gt;가 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/22/3e14a9f2-7d26-4155-8397-9ba0b85bd8ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럭셔리 향수의 신세계, 오트 퍼퓨머리]]></title>
-            <link>https://www.elle.co.kr/article/63206</link>
-            <guid>https://www.elle.co.kr/article/63206</guid>
-            <pubDate>Thu, 27 Jan 2022 05:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드의 핵심 정수를 럭셔리한 원료와 정교한 블렌딩으로 담아낸 향의 오트 쿠튀르 버전, '오...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/22/918cf384-0bef-4339-8c60-6820fb5fe30a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
