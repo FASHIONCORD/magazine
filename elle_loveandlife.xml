@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 17:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 05:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[없으면 왠지 섭섭한 설날 떡]]></title>
+            <link>https://www.elle.co.kr/article/63403</link>
+            <guid>https://www.elle.co.kr/article/63403</guid>
+            <pubDate>Sat, 05 Feb 2022 05:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[보름달을 보며 소원을 빌듯 먹음직스럽게 빚어낸 네 곳의 우리 떡을 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/d1417d82-44fc-494b-a928-85cd53ddde9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산멍·물멍 OK! 마이산과 데미샘에 둘러싸여 힐링할 수 있는 진안 숙소 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/63304</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 25 Jan 2022 17:49:54 GMT</pubDate>
             <content:encoded><![CDATA[연희동, 성수동, 연남동에 새로 문을 연 브런치 맛집들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/507af0ba-3aa7-49c8-9415-0d7bdca80e91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차 한 잔 어때요? SNS에서 핫한 티 카페 3.]]></title>
-            <link>https://www.elle.co.kr/article/63007</link>
-            <guid>https://www.elle.co.kr/article/63007</guid>
-            <pubDate>Tue, 25 Jan 2022 17:49:54 GMT</pubDate>
-            <content:encoded><![CDATA[예약은 기본, 웨이팅 필수! 꽁꽁 언 몸과 마음을 녹일 차 한 잔의 여유를 즐길 수 있는 티...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/16/f37b3c2b-83ac-4628-b408-ea86b285e968.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
