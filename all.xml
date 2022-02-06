@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 05:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 17:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Essentials: 제이에스 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33234476&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33234476&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Sun, 06 Feb 2022 17:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfODkg/MDAxNjQzOTUyNzM0NzMx.SkM4LkDE771UqjRsHMb_KLMZHjB_OpA_19zlLrmkM_Ig.roRbS7fyP5dKf9bMRAQi9gJXGdb-v6V0wxf6Wvcxfy0g.JPEG/IMIhrFCvs5WJHSrf9Vzo07R0xDEk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['2022 LVMH 워치 위크'에서 주목해야 할 럭셔리 워치 7 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33234330&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDZfMjcy/MDAxNjMwOTA2NjA1NTg0.TJd2Zz58FxPLpd5iQplXeFvDsgSwOvxAkiM2uXEHMsEg.FgckCShzLPauJnrBkgDhR6BMHwaDVMpfzWMzUwKauN8g.JPEG/I4ckioB0PssAYXYQO4M4_jztj4R4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기본 1억7천만 원부터, 한국에서 살 수 있는 가장 비싼 하이엔드 워치 8 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32292441&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32292441&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDJfMTI4/MDAxNjMwNTc1NzczNTg1.QImwoqlTrBkaIhofBnBklL5J0EL9mgT5m2F9o14hOAog._h9IqqsgUstjvy2hZk8qDwOcJ8Hl5kvYVm8XOziSGLog.PNG/IJyJneeHmnRBGzd_gCvIOfHUvWlM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스니커 각 부분의 명칭이 궁금하다면? 스니커 용어 사전 2.0 (네이버 포스트 ─ 하입비스트 ─ 신발)]]></title>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/2c5e0958-fa13-4489-a922-5c73b11dfceb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[맛있게 먹었나요? 그렇다면 Up! Up! Up! 솔라의 10분 힙업 플랜 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/63487</link>
+            <guid>https://www.elle.co.kr/article/63487</guid>
+            <pubDate>Fri, 04 Feb 2022 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[입이 즐거운 설 연휴. 맛있는 명절 음식을 먹고 난 후 10분만 투자해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/5988d9b1-5e85-46b6-a64b-87de6beaa2f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나만의 오은영 쌤을 찾아서 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/63475</link>
             <guid>https://www.elle.co.kr/article/63475</guid>
@@ -1920,12 +1928,44 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/2cff8e1d-fcfe-4561-a534-f35cff918d9c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[머리카락을 위한 기적의 아이템 #엘르뷰티어워즈2022 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/63205</link>
-            <guid>https://www.elle.co.kr/article/63205</guid>
-            <pubDate>Fri, 28 Jan 2022 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[해를 거듭할 수록 '고관 여자'들이 늘어나고 있는 보디 &amp; 헤어 케어 카테고리. &lt;엘르&gt;가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/22/3e14a9f2-7d26-4155-8397-9ba0b85bd8ae.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[흠 없는 마음을 가진 배우 #이학주 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/63589</link>
+            <guid>https://www.elle.co.kr/article/63589</guid>
+            <pubDate>Sun, 06 Feb 2022 17:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[자신에게 오는 관점이 어쩌면 오해일지 모른다고 말하는 이학주의 흠 없는 마음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/1cb05ae2-a22e-409f-8b5c-e79d20f86604.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현아X던, 깜짝 인스타 프러포즈! 세상에 하나 뿐인 오팔 프러포즈링은 어디서 맞췄대? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/63562</link>
+            <guid>https://www.elle.co.kr/article/63562</guid>
+            <pubDate>Sun, 06 Feb 2022 17:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[둘이 결혼하나봐...!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/af89b5cd-9950-4d03-9f7a-f044beda3b1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가장 투명하게! 미주와 비디비치의 첫 만남 #이미주 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/63554</link>
+            <guid>https://www.elle.co.kr/article/63554</guid>
+            <pubDate>Sun, 06 Feb 2022 17:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[이미주의 미소처럼, 밝고 또렷하게 빛나는 비디비치의 색들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/04/6f1632df-7751-4b0c-8fd6-cd7d336424fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 잘 추는 건데? 명절 연휴 갑자기 더티섹시의 새 지평을 연 허성태의 근본 코카인 댄스 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/63542</link>
+            <guid>https://www.elle.co.kr/article/63542</guid>
+            <pubDate>Fri, 04 Feb 2022 05:44:16 GMT</pubDate>
+            <content:encoded><![CDATA['오징어게임' 덕수 만큼 임팩트 있는 'SNL' 허카인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/8b77f01a-48ea-4290-bbd4-8a4e969eac2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시작이 좋은 백지헌 #프로미스나인 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/63520</link>
+            <guid>https://www.elle.co.kr/article/63520</guid>
+            <pubDate>Sun, 06 Feb 2022 17:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[스무 살, 데뷔 4주년 그리고 새 앨범 . 프로미스나인 백지헌의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/06/ba50467d-2e12-4282-81a0-71f9e499046b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[견고한 서사를 써내려가는 #에스쿱스 #정한 #조슈아 (엘르 코리아 ─ 스타)]]></title>
@@ -1950,46 +1990,6 @@
             <pubDate>Mon, 31 Jan 2022 17:47:14 GMT</pubDate>
             <content:encoded><![CDATA[뮤지션 오지은·성진환 네 가족의 정체가 궁금해? 세상에서 가장 완벽한 사각형.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/73283ec3-6b96-4069-89d3-d987693ed795.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유쾌한 운명론자들 #김범 #손나은 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/63484</link>
-            <guid>https://www.elle.co.kr/article/63484</guid>
-            <pubDate>Thu, 03 Feb 2022 17:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[우연한 지점에서 교차한 두 남녀. &lt;고스트 닥터&gt;의 김범과 손나은이 묘하게 맞닿은 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/e19d2b4d-44c4-4b77-8742-af45100891ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["100점 만점에 110만큼 사랑해" 대표 연두부상 형제 송중기X이준호 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/63479</link>
-            <guid>https://www.elle.co.kr/article/63479</guid>
-            <pubDate>Wed, 02 Feb 2022 17:42:48 GMT</pubDate>
-            <content:encoded><![CDATA['출발 드림팀'이 이어준 인연.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/30/af68723f-1f11-4adf-989f-b35e1b7253d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작심삼일 금지! 운동할 맛 나는 스타들의 운동복 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/63468</link>
-            <guid>https://www.elle.co.kr/article/63468</guid>
-            <pubDate>Tue, 01 Feb 2022 05:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[골프부터 필라테스, 테니스, 스키, 발레까지! 운동에 진심인 스타들의 운동복 스타일은 바로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/8e4407a6-41a3-439f-9a42-57e70449a400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기리보이의 얼굴들 #GIRIBOY (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/63462</link>
-            <guid>https://www.elle.co.kr/article/63462</guid>
-            <pubDate>Tue, 01 Feb 2022 05:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[자신만의 언어로 세상을 이해시키는 기리보이, 홍시영. 그의 시선으로 편집된 시선은 단순하지만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/feb5639d-9f69-4db8-bcb9-d279b313e820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리부터 올리비아 핫세까지! 설 연휴 5일 체크해 두면 좋은 영화·드라마·예능 추천.list (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/63437</link>
-            <guid>https://www.elle.co.kr/article/63437</guid>
-            <pubDate>Fri, 28 Jan 2022 17:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[(사실은 5일도 모자라지만)]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/506ecc89-82ac-4085-8b6d-a042f29e4457.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10만 원 이하, 센스있는 설 선물 (엘르 코리아 ─ 컬쳐)]]></title>
