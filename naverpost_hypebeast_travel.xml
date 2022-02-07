@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 17:46:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따뜻하게 몸을 녹여줄, 스파 & 노천과 함께 하는 전국 추천 숙소 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33248901&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33248901&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 07 Feb 2022 17:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDdfMjYg/MDAxNjQ0MjIyMzg2NjI3.qVCvA3bKys3Y7M9gE9S1c5R4If2uEZkm_ntCeexVBDkg.DbDV5tI5V-dLaOV3w3Gsu6OavxB1-k5_b8HSttzOemUg.JPEG/IaC0tCiX3VYhpSfJCcVpY1Z5Eslg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘음레코드’ 전우치가 추천하는 여수 가볼 만한 곳 7]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32716552&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MDFfMjI3/MDAxNTg1NzExMTU2OTE4.PH9YTMLQWLEMWfYo-lUXj5_BtNqOMxpE70QaNuo1bSQg.6iOee_friRi9UAtIXSo_4_6LHZf6CZWnMHdU1lby90Qg.JPEG/IWnr0wZmlYazveU8xKxxzkoUkhxg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울의 향기를 찾아서, 남성 추천 향수 9]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27320219&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27320219&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMjBfNTEg/MDAxNTc5NDc0OTE5ODYw.fooxbdUSV8X9XsQxbPwygPsPf5lePIePoDieIoAvbW0g.rGWEAT1Yqu9fjQWQ3L0gW8rassZ-mpixwqBTGnUAYdEg.JPEG/Ix6F8_n-BR0jS87pSBynCC2lHQh4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

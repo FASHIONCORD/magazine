@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 17:46:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[본 투 비 촉촉 립 #틴티드립밤]]></title>
+            <link>https://www.elle.co.kr/article/63586</link>
+            <guid>https://www.elle.co.kr/article/63586</guid>
+            <pubDate>Mon, 07 Feb 2022 17:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[촉촉함과 생기를 동시에 챙길 수 있는 틴티드 립밤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/08b1f701-0177-4c29-a5b2-232bf6d9d58d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20 ∙ 30 ∙ 40대 피부에 꼭 해줘야 하는 것_선배's 어드바이스 #102]]></title>
+            <link>https://www.elle.co.kr/article/63495</link>
+            <guid>https://www.elle.co.kr/article/63495</guid>
+            <pubDate>Mon, 07 Feb 2022 17:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[피부가 달라진 걸 느낄 때 놓치지 말아야 할 기본 중의 기본은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/6cedc465-95fc-43ba-8ffd-733c5ec4ee99.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛있게 먹었나요? 그렇다면 Up! Up! Up! 솔라의 10분 힙업 플랜]]></title>
             <link>https://www.elle.co.kr/article/63487</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 31 Jan 2022 05:41:29 GMT</pubDate>
             <content:encoded><![CDATA[코트 위에 따뜻한 향기 입기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/fb6ed0e9-4b7f-4c64-b1cf-960df1f56eb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몸매 천재 설현이 평소에 먹는 것 3]]></title>
-            <link>https://www.elle.co.kr/article/63225</link>
-            <guid>https://www.elle.co.kr/article/63225</guid>
-            <pubDate>Sun, 30 Jan 2022 17:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[몸매 천재 설현은 평소에 무엇을 먹고 살까요? 그녀의 삼시 세끼 건강 식단을 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/8963a59a-b809-45f3-88e8-22e22713f475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구를 지키는 그린 뷰티 히어로들 #엘르뷰티어워즈2022]]></title>
-            <link>https://www.elle.co.kr/article/63216</link>
-            <guid>https://www.elle.co.kr/article/63216</guid>
-            <pubDate>Sun, 30 Jan 2022 17:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[갈수록 중요해지는 뷰티 업계의 지속 가능성. 지구의 미래를 생각하면서 화장품의 본질과 기능에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/2cff8e1d-fcfe-4561-a534-f35cff918d9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

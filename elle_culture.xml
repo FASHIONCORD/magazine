@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 17:46:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만화를 넘어선 그래픽 노블이 궁금하다면?]]></title>
+            <link>https://www.elle.co.kr/article/63478</link>
+            <guid>https://www.elle.co.kr/article/63478</guid>
+            <pubDate>Mon, 07 Feb 2022 17:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[반짝이는 시선을 장착한 그래픽 노블계의 새 얼굴들과 소장가치 200%인 다섯 권의 그래픽 노...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/30/546eb108-76cf-4823-a6c8-28669cb9a560.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10만 원 이하, 센스있는 설 선물]]></title>
             <link>https://www.elle.co.kr/article/63471</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 31 Jan 2022 17:44:19 GMT</pubDate>
             <content:encoded><![CDATA[2010년대를 풍미한 패셔니스타 커플.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/6dd0c650-7c5f-4aa0-ad01-0966170c9238.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물을 사랑하는 10인의 아티스트와 함께하는 기부 프로젝트 #LoveMIX]]></title>
-            <link>https://www.elle.co.kr/article/63308</link>
-            <guid>https://www.elle.co.kr/article/63308</guid>
-            <pubDate>Mon, 31 Jan 2022 17:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[믹스 매력 못 잃어! 아티스트10인과 함께 한 NFT 기부 프로젝트! Love, Mix!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/4cb98819-3592-4c97-8796-fc4edbe016d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
