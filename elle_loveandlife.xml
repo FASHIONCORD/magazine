@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 05:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 17:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[책과 함께 하거나, 반려견과 함께 하거나! 인스타그램에서 핫한 진안 카페 셋 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/63465</link>
+            <guid>https://www.elle.co.kr/article/63465</guid>
+            <pubDate>Tue, 08 Feb 2022 17:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[시그니처 메뉴 맛보기는 덤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/c40eb3d1-7aad-43d8-968e-b96d0b554d2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 사랑하는 개와 고양이 #러브믹스 #LoveMIX]]></title>
+            <link>https://www.elle.co.kr/article/63463</link>
+            <guid>https://www.elle.co.kr/article/63463</guid>
+            <pubDate>Tue, 08 Feb 2022 17:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[그렇게 어느 날 우리는 가족이 됐다. 엘르 팀 가족들의 이야기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/a3e230c3-c13f-4bf5-91d4-a093358a4f41.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[없으면 왠지 섭섭한 설날 떡]]></title>
             <link>https://www.elle.co.kr/article/63403</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 27 Jan 2022 17:49:33 GMT</pubDate>
             <content:encoded><![CDATA[쌀국수 러버 모여라! 이정현이 다이어트 팟타이 레서피를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/19/22d48820-dd30-413e-8859-81ddfd5e177c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닭백숙에  신선한 송어요리까지! 몸보신 가능한 청송 맛집 추천 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/63067</link>
-            <guid>https://www.elle.co.kr/article/63067</guid>
-            <pubDate>Wed, 26 Jan 2022 05:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[달달한 청송 사과 막걸리와도 잘 어울리는 안주 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/d2f0d920-5008-483c-a540-299a8309a0a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감성 가득 공간과 식사로 따뜻한 하루를 열어 줄 서울 브런치 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/63054</link>
-            <guid>https://www.elle.co.kr/article/63054</guid>
-            <pubDate>Tue, 25 Jan 2022 17:49:54 GMT</pubDate>
-            <content:encoded><![CDATA[연희동, 성수동, 연남동에 새로 문을 연 브런치 맛집들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/18/507af0ba-3aa7-49c8-9415-0d7bdca80e91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

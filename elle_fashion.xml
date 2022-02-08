@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 05:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 17:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 봄엔 사르르 소르베 컬러]]></title>
+            <link>https://www.elle.co.kr/article/63598</link>
+            <guid>https://www.elle.co.kr/article/63598</guid>
+            <pubDate>Tue, 08 Feb 2022 17:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[겨울 동안 무채색으로 물든 옷장을 바꾸고 싶다면 가볍고 상큼한 소르베 컬러가 답.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/06/90a723be-92d8-43fc-a95e-f69e434e8356.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호랑이 해, 호랑이 패션!]]></title>
             <link>https://www.elle.co.kr/article/63593</link>
@@ -21,7 +29,7 @@
             <guid>https://www.elle.co.kr/article/63592</guid>
             <pubDate>Mon, 07 Feb 2022 17:40:49 GMT</pubDate>
             <content:encoded><![CDATA[우아하게 혹은 심플하게! 드라마 '공작도시'를 이끄는 배우 수애와 이이담의 드라마 속 패션 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/c18c38a5-9d31-46ab-a0c6-28a77ea6a84e.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/c18c38a5-9d31-46ab-a0c6-28a77ea6a84e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설 지났다! 운동 시작합시다!]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 05 Feb 2022 17:40:12 GMT</pubDate>
             <content:encoded><![CDATA[무난한 바지가 지겨운 '요즘 애들'에게, 시선을 사로잡는 화려한 프린트 팬츠의 향연.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/1d5936db-29d3-419d-9034-d9edc5766474.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 조합 찬성해]]></title>
-            <link>https://www.elle.co.kr/article/63511</link>
-            <guid>https://www.elle.co.kr/article/63511</guid>
-            <pubDate>Sat, 05 Feb 2022 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[패션계를 떠들썩하게 할 예와 뎀나의 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/02/80fdbc1f-a841-407b-b62d-22f51f3cce67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
