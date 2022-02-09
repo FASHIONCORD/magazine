@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 17:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 05:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 첫 쇼핑? 백으로 기분 전환]]></title>
+            <link>https://www.elle.co.kr/article/63602</link>
+            <guid>https://www.elle.co.kr/article/63602</guid>
+            <pubDate>Wed, 09 Feb 2022 05:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[새해 첫 쇼핑을 계획하고 있다면 주목하세요. 스타들의 데일리 룩에서 포착한 컬러플 백을 모아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/06/327bef11-92da-4382-b915-e8604c1cd17b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올 봄엔 사르르 소르베 컬러]]></title>
             <link>https://www.elle.co.kr/article/63598</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 05 Feb 2022 17:40:12 GMT</pubDate>
             <content:encoded><![CDATA[일상과 환상을 잇는 연결 고리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/41c80602-f1ae-49ea-ba54-3b0ba7c809d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 애들을 위한 세기말 감성 프린트 팬츠]]></title>
-            <link>https://www.elle.co.kr/article/63523</link>
-            <guid>https://www.elle.co.kr/article/63523</guid>
-            <pubDate>Sat, 05 Feb 2022 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[무난한 바지가 지겨운 '요즘 애들'에게, 시선을 사로잡는 화려한 프린트 팬츠의 향연.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/1d5936db-29d3-419d-9034-d9edc5766474.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
