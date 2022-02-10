@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 17:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 05:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 쿠기답게 #AOMG #GOODNIGHT]]></title>
+            <link>https://www.elle.co.kr/article/63680</link>
+            <guid>https://www.elle.co.kr/article/63680</guid>
+            <pubDate>Thu, 10 Feb 2022 05:43:47 GMT</pubDate>
+            <content:encoded><![CDATA[밤을 가로질러 점점 더 또렷하게. AOMG라는 새로운 챕터 앞에 선 지금의 쿠기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/79b43163-a457-4fab-967a-0ac6ecc8c820.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM에서 신인 걸그룹이?! 광야 콘서트로 데뷔하는 걸스온탑의 어마어마한 라인업]]></title>
             <link>https://www.elle.co.kr/article/62523</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 18 Nov 2021 17:54:04 GMT</pubDate>
             <content:encoded><![CDATA[이소라, H.O.T, S.E.S, 신화의 뮤직비디오를 4K로?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/30f1ae86-5710-4f13-84e4-1031a621087f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코드 쿤스트가 생각하는 재미난 일]]></title>
-            <link>https://www.elle.co.kr/article/60833</link>
-            <guid>https://www.elle.co.kr/article/60833</guid>
-            <pubDate>Mon, 01 Nov 2021 05:52:27 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;쇼미더머니 10&gt;의 프로듀서로, AOMG의 아티스트로, 네 개의 정규 앨범을 낸 뮤지션으로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/75ccd2d5-b32b-46f8-bdf7-6397e11067ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
