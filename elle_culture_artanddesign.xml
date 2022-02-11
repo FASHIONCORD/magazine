@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 17:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 05:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 최애는 뭐 읽지? 스타들이 고른 책 4]]></title>
+            <link>https://www.elle.co.kr/article/63753</link>
+            <guid>https://www.elle.co.kr/article/63753</guid>
+            <pubDate>Fri, 11 Feb 2022 05:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[올해 다독이 목표라면? 아직 텅텅 비어있는 북 리스트에 셀럽들이 인증한 책을 추가해 보세요....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/730adfd9-4f6f-4e6b-80be-1ae79138565c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파리가 들썩! 사진가 그라시엘라 이투르비데의 최초 대규모 개인전 소식]]></title>
             <link>https://www.elle.co.kr/article/63705</link>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 12 Jan 2022 17:53:04 GMT</pubDate>
             <content:encoded><![CDATA[디올이 사랑한 작가, 모르던 아름다움을 향해 가는 연진영.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/2b752489-e25c-46cf-ad26-1c9424ae397d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베네수엘라 교도소의 여성들을 기록한 라이카 선정 2021 '올해의 사진']]></title>
-            <link>https://www.elle.co.kr/article/62595</link>
-            <guid>https://www.elle.co.kr/article/62595</guid>
-            <pubDate>Thu, 30 Dec 2021 17:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021 라이카가 선정한 '올해의 사진'. '영원한 날(Días Eternos)'의 작가 아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/31/9770c658-9efb-4696-95ab-285509ce862d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

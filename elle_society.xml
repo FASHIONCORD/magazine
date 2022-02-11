@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 17:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 05:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“무조건 성장하는 산업” 반려동물 시장에 투자해볼까_돈쓸신잡 #30]]></title>
+            <link>https://www.elle.co.kr/article/63383</link>
+            <guid>https://www.elle.co.kr/article/63383</guid>
+            <pubDate>Fri, 11 Feb 2022 05:46:05 GMT</pubDate>
+            <content:encoded><![CDATA[사람과 더불어 살아가는 존재, 반려동물 시장이 점점 커지는 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/d9ba01c1-9d8c-4f51-89ea-9dd47f98a1d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[책 표제가 던진 질문 #2 죽음과 노동에 대해 말하다]]></title>
             <link>https://www.elle.co.kr/article/63267</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 24 Jan 2022 05:45:32 GMT</pubDate>
             <content:encoded><![CDATA[‘찐’환경을 위한 새로운 베네핏.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/e6517ede-ad52-41b8-b7b9-161a7d747c6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“내가 그린 그림도 혹시?” 진짜 쉬운 NFT 만들기_돈쓸신잡 #29]]></title>
-            <link>https://www.elle.co.kr/article/63155</link>
-            <guid>https://www.elle.co.kr/article/63155</guid>
-            <pubDate>Sun, 23 Jan 2022 05:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[NFT로 돈 벌고 싶은 당신을 위한 아주 쉬운 가이드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/20/82bfe71c-dc08-4e6a-bbab-fbde3095caad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
