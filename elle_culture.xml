@@ -4,16 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 05:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 17:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[애거사 크리스티표 클래식 '나일 강의 죽음' 속 그녀, 에마 매키]]></title>
+            <title><![CDATA[파리가 들썩! 사진가 그라시엘라 이투르비데의 최초 대규모 개인전 소식]]></title>
+            <link>https://www.elle.co.kr/article/63705</link>
+            <guid>https://www.elle.co.kr/article/63705</guid>
+            <pubDate>Fri, 11 Feb 2022 17:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[보통의 역사를 우아하게 기록하는 사진가 그라시엘라 이투르비데와 까르띠에의 환상적 팀워크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/df5772fc-a844-4cd0-aff6-3c487303fa87.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#오티스의비밀상담소 메이브, 에마 매키의 우아한 변신! #나일강의 죽음]]></title>
             <link>https://www.elle.co.kr/article/63655</link>
             <guid>https://www.elle.co.kr/article/63655</guid>
             <pubDate>Fri, 11 Feb 2022 05:41:45 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;나일 강의 죽음&gt;에서 완전히 새로운 모습을 보여줄 에마 매키.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/8632609e-7559-4deb-a0c5-4adcc9d5a3e7.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/8632609e-7559-4deb-a0c5-4adcc9d5a3e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주식에 물려 불안한 지금, 멘탈을 키울 시간이다_돈쓸신잡 #31]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 03 Feb 2022 17:43:51 GMT</pubDate>
             <content:encoded><![CDATA[설 선물 고민 중이라면 주목! 10만 원 이하로 살 수 있는 감각적이고 실용적인 설 선물 리...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/5a95bac1-3ce5-46bc-9e9e-03e41490d049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리부터 올리비아 핫세까지! 설 연휴 5일 체크해 두면 좋은 영화·드라마·예능 추천.list]]></title>
-            <link>https://www.elle.co.kr/article/63437</link>
-            <guid>https://www.elle.co.kr/article/63437</guid>
-            <pubDate>Thu, 03 Feb 2022 17:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[(사실은 5일도 모자라지만)]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/506ecc89-82ac-4085-8b6d-a042f29e4457.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
