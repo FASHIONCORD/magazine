@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 17:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 05:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진안 명물 홍삼과 흑돼지로 몸보신 한 판? 독특하게 요리한 향토식이 있는 진안 맛집 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/63518</link>
+            <guid>https://www.elle.co.kr/article/63518</guid>
+            <pubDate>Sat, 12 Feb 2022 05:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[보약이 따로 있나, 밥이 보약이지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/02/189a20a4-23e4-48b7-acc8-5ef294ece87c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언젠간 먹고 말 거야! 고든램지 버거부터 '승우아빠' 레스토랑까지 2022년 가장 핫한 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/63510</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 30 Jan 2022 05:45:03 GMT</pubDate>
             <content:encoded><![CDATA[지금이 가장 맛있다는 사실! 시즌 한정이라 더 귀하고, 보기만 해도 행복한 딸기 디저트 맛집...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/25/d2a09052-8eb8-4087-b83d-bc23da123edb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몸매 천재 설현이 평소에 먹는 것 3]]></title>
-            <link>https://www.elle.co.kr/article/63225</link>
-            <guid>https://www.elle.co.kr/article/63225</guid>
-            <pubDate>Fri, 28 Jan 2022 17:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[몸매 천재 설현은 평소에 무엇을 먹고 살까요? 그녀의 삼시 세끼 건강 식단을 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/24/8963a59a-b809-45f3-88e8-22e22713f475.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
