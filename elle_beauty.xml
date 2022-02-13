@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 17:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 05:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10년차 다이어터의 성공 식단 두 가지]]></title>
+            <link>https://www.elle.co.kr/article/63612</link>
+            <guid>https://www.elle.co.kr/article/63612</guid>
+            <pubDate>Sun, 13 Feb 2022 05:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[현재진행형 다이어터 이혜성이 알려주는 초간단 다이어트 식단을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/2e0bcebc-ffd1-43a4-9ed4-08caa5457ee8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여배우의 3단계 클렌징 팁]]></title>
+            <link>https://www.elle.co.kr/article/63603</link>
+            <guid>https://www.elle.co.kr/article/63603</guid>
+            <pubDate>Sun, 13 Feb 2022 05:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[메이크업은 하는 것보다 지우는 것이 더욱 중요하다는 사실! 배우 채정안이 건강한 피부를 위한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/520e8585-aa44-4810-9369-0d190f81b6e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해맞이 화장대 물갈이]]></title>
             <link>https://www.elle.co.kr/article/63600</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 05 Feb 2022 17:40:24 GMT</pubDate>
             <content:encoded><![CDATA[오은영 쌤, 저의 마음 건강을 챙겨주세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/30/33472d62-1d65-483b-a6e0-79a7a5164ee3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10만 원 이하, 센스있는 설 선물]]></title>
-            <link>https://www.elle.co.kr/article/63471</link>
-            <guid>https://www.elle.co.kr/article/63471</guid>
-            <pubDate>Sat, 05 Feb 2022 05:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[설 선물 고민 중이라면 주목! 10만 원 이하로 살 수 있는 감각적이고 실용적인 설 선물 리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/5a95bac1-3ce5-46bc-9e9e-03e41490d049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스크 쓰고 있으니 치아교정 해볼까?_몸에 좋은 잔소리 #37]]></title>
-            <link>https://www.elle.co.kr/article/63427</link>
-            <guid>https://www.elle.co.kr/article/63427</guid>
-            <pubDate>Fri, 04 Feb 2022 17:41:32 GMT</pubDate>
-            <content:encoded><![CDATA[MZ 세대들이 선호하는 치아교정에 대해 알아봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/faad7d50-fc6b-4304-b784-5a6d6b572f19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
