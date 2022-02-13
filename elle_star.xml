@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 05:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 17:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남자 피겨 불모지 대한민국 차준환이 올림픽 5위로 올라섰다 (feat. 이나바우어 모음)]]></title>
+            <link>https://www.elle.co.kr/article/63739</link>
+            <guid>https://www.elle.co.kr/article/63739</guid>
+            <pubDate>Sun, 13 Feb 2022 17:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[쿼드 점프를 다섯 개씩 넣은 세계적 선수들 사이에서 뽐낸 기량.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/c4f1f617-330d-4e53-853b-c825610ae1bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 쿠기답게 #AOMG #GOODNIGHT]]></title>
             <link>https://www.elle.co.kr/article/63680</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 10 Feb 2022 05:41:27 GMT</pubDate>
             <content:encoded><![CDATA[관계성 맛집 세븐틴 맏형들의 '엘르' 케미공작소에 오신 걸 환영합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/374b2ce1-ebe2-40bd-b9e7-bbfa53191218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호랑이 해, 호랑이 패션!]]></title>
-            <link>https://www.elle.co.kr/article/63593</link>
-            <guid>https://www.elle.co.kr/article/63593</guid>
-            <pubDate>Wed, 09 Feb 2022 05:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[이것만 있으면 호랑이 기운이 가득! 임인년 호랑이해를 맞아 패션 브랜드에서 선보인 호랑이 아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/e2ef54c2-c3ba-4fa9-bd0c-5354a24b0d19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
