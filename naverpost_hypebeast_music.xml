@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 05:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 17:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 힙합 뮤지션 100인의 MBTI 분포도]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33289875&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33289875&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 14 Feb 2022 17:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTRfMTY1/MDAxNjQ0ODI3Nzg4NTE1.y4N1l4X2rICRkSstegg9ufDC4DnDPHLjQScArqR9zWIg.zDLEI08xKCuSCRLa0bgC9YCa505dXx4zvBVhEvJDYpwg.JPEG/I4IQXbuIKyypE_vyBXEZY1pBlsLw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Digging for Gold: 한국 힙합 & 알앤비]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33234367&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MTNfMTcg/MDAxNjIwOTA5Njg2MjEx.qj4IF-4Tgjdyf1-ib-iljUABBq-uziyS2fkrmUbRe24g.03HzufH9uhp2DbuKEyiL95ptsgjCeBBGb5Nojx8UvxMg.JPEG/IFqC3DM26grqucWvtbGc74xHwIY8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비비 인터뷰: '인생은 나쁜X'인 이유]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31389945&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31389945&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MzBfMTAy/MDAxNjE5NzYyNzUwNTc2.Fv_yO7GCsMOLr0n5dHLYl1ZuzUcgGpldI17inI3ttrIg.tDYgrCj9TBg1Y4P0DnXSidKFsZxK1h4HEMsdLY5r1DMg.JPEG/IIi6ll2KnMdW0vXHdDnBRfGEMk_g.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
