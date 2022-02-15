@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 05:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 17:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 14 Feb 2022 17:39:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTRfMjM4/MDAxNjQ0ODI4NzUwOTkw.JyhZY4W2CWqR2zuSAnOqsESDybK9Py-eXCPvFS4rk5Qg._PgR43haVWhZeyNSKoseFr_xJvJdcFannK--RheQDwwg.JPEG/IpVD010rHNwm72pgNU_cbQ8jkcZM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스에서 만나는, '솔로지옥'보다 매운 연애 지옥들]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33289945&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33289945&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 15 Feb 2022 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTRfMjUw/MDAxNjQ0ODI4MDk1NTc3.u9mQ8_EATpSEEqgWHfTeyW3WDZFyEVTNy-YvT8cz9_kg.laCdt4B7TKhGPM1vojfBZRuzeCpfM7Yykp_pliKfhuog.JPEG/IGlwFqNDrcM0EktQ_RQE_8zBb0I0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 좀비물부터 '골든 글로브 후보작'까지, 넷플릭스 신작 추천]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MDdfODUg/MDAxNjIwMzY5NDIxMzU3.pAk-2LYRXPn5YM11o4UPvz7sYFpDgOnLtOrh3hx9f6Yg.2hYqaPtwTwNw9Gz2mW1vPSffWSn3BqV-SCwq380c-dgg.JPEG/IJK8iHHfDBLjC2qxBKN7X19iuE9w.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤여정, '미나리'로 한국인 최초 '아카데미 어워즈' 여우조연상 수상]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31348996&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31348996&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjZfMTE4/MDAxNjE5NDA0NzQ5ODQz.imRnMDOpe8FrpHevcHbU8zzQk6TsS3VbTEfxiIaeICUg.2z9EiJnFjk4p5-1y4uCD7AMXLyVsGxAL54IG4qhBk-gg.JPEG/IWmrG7agk52rtkl7vt62yRL1Mnxo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
