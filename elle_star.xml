@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 05:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 17:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4년 만의 한일전 완승한 컬링 대표팀, 신들린 경기력 뒤엔 은은한 광기가 있다?]]></title>
+            <link>https://www.elle.co.kr/article/63848</link>
+            <guid>https://www.elle.co.kr/article/63848</guid>
+            <pubDate>Wed, 16 Feb 2022 17:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[일본의 막판 기권으로 가까워진 4강행.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/d568f584-dc2b-4035-96ff-c1cbd715c37d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[확신의 조우! 이종석 그리고 임윤아, 엘르와 만나다]]></title>
+            <link>https://www.elle.co.kr/article/63837</link>
+            <guid>https://www.elle.co.kr/article/63837</guid>
+            <pubDate>Wed, 16 Feb 2022 17:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르&gt; 3월호 더블 커버의 주인공, 이종석과 임윤아! 낯선 봄밤의 공기처럼 기분 좋은 두 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/441b43b3-af8b-4c85-9fab-34372c09100b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["봐라! 전 인류" 차준환부터 형가리X동생가리까지, 베이징 올림픽 훈남 5]]></title>
             <link>https://www.elle.co.kr/article/63831</link>
@@ -53,22 +69,6 @@
             <pubDate>Tue, 15 Feb 2022 05:41:56 GMT</pubDate>
             <content:encoded><![CDATA[정말 상상도 못했던 두 사람의 결혼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/e0e271d9-9f8f-4ad8-b622-368b867e6511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["지금 사랑이 첫사랑"이라더니! 현빈X손예진이 직접 결혼 발표하며 쓴 수줍음 가득 편지 내용]]></title>
-            <link>https://www.elle.co.kr/article/63754</link>
-            <guid>https://www.elle.co.kr/article/63754</guid>
-            <pubDate>Tue, 15 Feb 2022 05:41:56 GMT</pubDate>
-            <content:encoded><![CDATA['사랑의 불시착'이 아니고 안착.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/52163da7-19fa-46cd-b9de-dcdb7c62edcd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 최애는 뭐 읽지? 스타들이 고른 책 4]]></title>
-            <link>https://www.elle.co.kr/article/63753</link>
-            <guid>https://www.elle.co.kr/article/63753</guid>
-            <pubDate>Tue, 15 Feb 2022 05:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[올해 다독이 목표라면? 아직 텅텅 비어있는 북 리스트에 셀럽들이 인증한 책을 추가해 보세요....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/730adfd9-4f6f-4e6b-80be-1ae79138565c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

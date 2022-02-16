@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 05:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 17:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돈 없어도 괜찮아, 월세 살지 말고 전세 살자_돈쓸신잡 #32]]></title>
+            <link>https://www.elle.co.kr/article/63742</link>
+            <guid>https://www.elle.co.kr/article/63742</guid>
+            <pubDate>Wed, 16 Feb 2022 17:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[월세 vs 전세 그것이 문제로다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/d9a67b0e-2af0-4059-be0b-496d7401e3a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제시카 차스테인은 지지 않아_요주의여성 #45]]></title>
             <link>https://www.elle.co.kr/article/63576</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 03 Feb 2022 17:47:15 GMT</pubDate>
             <content:encoded><![CDATA[모두가 비트코인과 부동산에 대해 말할 때. 이런 책을 만든 사람들이 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/dc46b838-1b16-472d-8ed7-cfdf376a9abe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20대 엄마와 40대 엄마는 뭐가 제일 다를까?]]></title>
-            <link>https://www.elle.co.kr/article/63214</link>
-            <guid>https://www.elle.co.kr/article/63214</guid>
-            <pubDate>Fri, 28 Jan 2022 17:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[저마다의 지점에서 출산을 결심한 엄마들의 이야기에서 엄마가 되기 '적당한' 나이를 가늠해 보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/23/86f698af-4f6e-423f-a3ef-528fe216879f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
