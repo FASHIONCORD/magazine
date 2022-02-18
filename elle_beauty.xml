@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 17:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 05:45:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장미보다 향기로운 장미를 담은 향수]]></title>
+            <link>https://www.elle.co.kr/article/63781</link>
+            <guid>https://www.elle.co.kr/article/63781</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[꽃보다 향기로워]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/12/4adaaeb8-74e3-4d60-8d70-e269b62751d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환경을 생각하는 입술 #비건립밤]]></title>
+            <link>https://www.elle.co.kr/article/63746</link>
+            <guid>https://www.elle.co.kr/article/63746</guid>
+            <pubDate>Fri, 18 Feb 2022 05:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[아름다움이 지구에 해가 되지 않도록 환경을 생각한 비건 립밤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/fb16f7ce-274b-4cc9-9f25-4296069e7133.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해의 컬러 #베리페리]]></title>
             <link>https://www.elle.co.kr/article/63688</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 08 Feb 2022 17:42:57 GMT</pubDate>
             <content:encoded><![CDATA[긴 연휴가 끝난 지금. 오늘부터 예쁜 운동복 입고 운동 시작해보는 거예요! 참고하면 좋을 스...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/515bb573-fdb5-4cdc-8209-bf88a9e00ca6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본 투 비 촉촉 립 #틴티드립밤]]></title>
-            <link>https://www.elle.co.kr/article/63586</link>
-            <guid>https://www.elle.co.kr/article/63586</guid>
-            <pubDate>Mon, 07 Feb 2022 17:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[촉촉함과 생기를 동시에 챙길 수 있는 틴티드 립밤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/08b1f701-0177-4c29-a5b2-232bf6d9d58d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20 ∙ 30 ∙ 40대 피부에 꼭 해줘야 하는 것_선배's 어드바이스 #102]]></title>
-            <link>https://www.elle.co.kr/article/63495</link>
-            <guid>https://www.elle.co.kr/article/63495</guid>
-            <pubDate>Mon, 07 Feb 2022 17:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[피부가 달라진 걸 느낄 때 놓치지 말아야 할 기본 중의 기본은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/6cedc465-95fc-43ba-8ffd-733c5ec4ee99.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
