@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 17:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 05:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온종일 쌓인 피로를 날려줄 '물멍' 타임]]></title>
+            <link>https://www.elle.co.kr/article/63794</link>
+            <guid>https://www.elle.co.kr/article/63794</guid>
+            <pubDate>Sat, 19 Feb 2022 05:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[피로를 마법처럼 날려줄 배스 타임 조력자들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/13/ca6032d1-92f0-42bf-8a30-e03cae9fab31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장미보다 향기로운 장미를 담은 향수]]></title>
             <link>https://www.elle.co.kr/article/63781</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 10 Feb 2022 17:41:38 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엘르&gt; 뷰티 에디터 3인이 새해를 맞아 화장대를 싹 갈아엎었다. 그들이 피부 고민에 맞춰 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/06/673a8b73-8e11-4a1d-a34e-c6b179edecbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 지났다! 운동 시작합시다!]]></title>
-            <link>https://www.elle.co.kr/article/63591</link>
-            <guid>https://www.elle.co.kr/article/63591</guid>
-            <pubDate>Tue, 08 Feb 2022 17:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[긴 연휴가 끝난 지금. 오늘부터 예쁜 운동복 입고 운동 시작해보는 거예요! 참고하면 좋을 스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/05/515bb573-fdb5-4cdc-8209-bf88a9e00ca6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
