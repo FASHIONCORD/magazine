@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 17:46:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫사랑부터 신랑수업 계획까지, 핑크빛으로 가득했던 이종석과의 15문 15답!]]></title>
+            <link>https://www.elle.co.kr/article/63970</link>
+            <guid>https://www.elle.co.kr/article/63970</guid>
+            <pubDate>Sun, 20 Feb 2022 17:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[오랜만에 팬들 앞에 선 이종석의 설렘 가득한 인터뷰를 만나보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/004cea2e-59c6-49e1-9ef9-bb590bae8d2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배앓이 걱정 멈춰! 출산 임박한 리하나가 보여 준 만삭 패션의 신기원.jpg]]></title>
             <link>https://www.elle.co.kr/article/63965</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 19 Feb 2022 05:41:19 GMT</pubDate>
             <content:encoded><![CDATA[서로 허공에 외치는데 대화가 되고 있어...!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/fa1e62e4-4615-401f-8bbf-a8376210be60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 발표 후 첫 공식석상! 벌써부터 애정 넘치는 손예진의 예비 남편 언급]]></title>
-            <link>https://www.elle.co.kr/article/63928</link>
-            <guid>https://www.elle.co.kr/article/63928</guid>
-            <pubDate>Sat, 19 Feb 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[언급 만으로도 행복해 보이는 모습.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/9fca6e1d-a0d9-4af9-a7ef-e88091737bac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 17:46:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보이지 않는 것을 보게 하는 이은새의 그림]]></title>
+            <link>https://www.elle.co.kr/article/63990</link>
+            <guid>https://www.elle.co.kr/article/63990</guid>
+            <pubDate>Sun, 20 Feb 2022 17:44:09 GMT</pubDate>
+            <content:encoded><![CDATA[순간을 잡다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/190838b6-aeb6-4772-814e-5d23ce6caf63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수준급!! 레드벨벳 슬기가 그린 그림, 포스터북]]></title>
+            <link>https://www.elle.co.kr/article/63986</link>
+            <guid>https://www.elle.co.kr/article/63986</guid>
+            <pubDate>Sun, 20 Feb 2022 17:44:09 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴도 예쁜데 그림도 잘 그리는 ‘사기캐’ 슬기가 자신의 드로잉 작품을 엮은 포스터 집을 발...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/20/ed0f1e48-a9fc-4bf1-92a9-5a10abccd7ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나의 최애는 뭐 읽지? 스타들이 고른 책 4]]></title>
             <link>https://www.elle.co.kr/article/63753</link>
@@ -94,22 +110,6 @@
             <pubDate>Mon, 17 Jan 2022 17:55:56 GMT</pubDate>
             <content:encoded><![CDATA[카페부터 막걸리 비스트로까지! ‘맛잘알’ 스타들이 발 빠르게 다녀온 신상 맛집을 소개합니다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/16/58e9a0da-d08d-4701-900f-5fc50421dc26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['행복의 화가' 앙리 마티스가 보여 주는 선의 예술 #인싸 전시_42]]></title>
-            <link>https://www.elle.co.kr/article/63000</link>
-            <guid>https://www.elle.co.kr/article/63000</guid>
-            <pubDate>Mon, 17 Jan 2022 17:55:56 GMT</pubDate>
-            <content:encoded><![CDATA[원작 뿐만 아니라 영상, 미디어아트, 사진 등이 곁들여진 다채로운 전시.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/15/6783aa04-838a-476c-8662-9ff893759312.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선 조우 The STRANGER]]></title>
-            <link>https://www.elle.co.kr/article/62938</link>
-            <guid>https://www.elle.co.kr/article/62938</guid>
-            <pubDate>Wed, 12 Jan 2022 17:53:04 GMT</pubDate>
-            <content:encoded><![CDATA[디올이 사랑한 작가, 모르던 아름다움을 향해 가는 연진영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/2b752489-e25c-46cf-ad26-1c9424ae397d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
