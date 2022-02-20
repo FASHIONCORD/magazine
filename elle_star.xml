@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 17:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 05:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배앓이 걱정 멈춰! 출산 임박한 리하나가 보여 준 만삭 패션의 신기원.jpg]]></title>
+            <link>https://www.elle.co.kr/article/63965</link>
+            <guid>https://www.elle.co.kr/article/63965</guid>
+            <pubDate>Sun, 20 Feb 2022 05:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[엄마가 입고 싶은 것 입는 게 최고의 태교!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/654acd7b-3fbb-4d9c-a899-24f5b3d308f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 건데 뭐 문제 있습니까? 베이징 올림픽 이후 한복 자태 공개한 스타 6]]></title>
+            <link>https://www.elle.co.kr/article/63959</link>
+            <guid>https://www.elle.co.kr/article/63959</guid>
+            <pubDate>Sun, 20 Feb 2022 05:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[#한복 #HANBOK]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/8ff5f67a-670f-49bb-a553-706a479a334a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강민경이 다녀온 맛집 3.]]></title>
             <link>https://www.elle.co.kr/article/63951</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 19 Feb 2022 05:41:19 GMT</pubDate>
             <content:encoded><![CDATA[언급 만으로도 행복해 보이는 모습.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/9fca6e1d-a0d9-4af9-a7ef-e88091737bac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘 그 자체! 투모로우바이투게더 <엘르> 스페셜 화보]]></title>
-            <link>https://www.elle.co.kr/article/63905</link>
-            <guid>https://www.elle.co.kr/article/63905</guid>
-            <pubDate>Sat, 19 Feb 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[#엘르맨 이 된 #투모로우바이투게더 수빈 연준 범규 태현 휴닝카이의 이른 봄날.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/4930c0a6-a7e3-439f-b194-125bbb464197.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스케이트 잘 타는 유튜버? 퍼스널 컬러 전도사? 곽윤기 '악마의 스타성' 12년 역사]]></title>
-            <link>https://www.elle.co.kr/article/63896</link>
-            <guid>https://www.elle.co.kr/article/63896</guid>
-            <pubDate>Sat, 19 Feb 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[근데 이제 신 들린 추월을 곁들인...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/9de5b7a4-22fd-49ed-8274-22087b711918.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

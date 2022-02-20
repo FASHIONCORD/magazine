@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 17:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 05:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤어 고민 빅 3를 해결하는 법_선배's 어드바이스 #104]]></title>
+            <link>https://www.elle.co.kr/article/63821</link>
+            <guid>https://www.elle.co.kr/article/63821</guid>
+            <pubDate>Sun, 20 Feb 2022 05:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[두피, 손상모, 스타일링 집중 관리해 두근거리는 헤어스타일 만드는 법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/25b03b52-79e4-422c-9faa-206385f46ba3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온종일 쌓인 피로를 날려줄 '물멍' 타임]]></title>
             <link>https://www.elle.co.kr/article/63794</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 13 Feb 2022 05:40:21 GMT</pubDate>
             <content:encoded><![CDATA[메이크업은 하는 것보다 지우는 것이 더욱 중요하다는 사실! 배우 채정안이 건강한 피부를 위한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/520e8585-aa44-4810-9369-0d190f81b6e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해맞이 화장대 물갈이]]></title>
-            <link>https://www.elle.co.kr/article/63600</link>
-            <guid>https://www.elle.co.kr/article/63600</guid>
-            <pubDate>Thu, 10 Feb 2022 17:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르&gt; 뷰티 에디터 3인이 새해를 맞아 화장대를 싹 갈아엎었다. 그들이 피부 고민에 맞춰 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/06/673a8b73-8e11-4a1d-a34e-c6b179edecbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
