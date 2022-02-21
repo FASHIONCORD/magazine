@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 17:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오래된 거리에서 만난 새 시즌 키 룩]]></title>
+            <link>https://www.elle.co.kr/article/63975</link>
+            <guid>https://www.elle.co.kr/article/63975</guid>
+            <pubDate>Mon, 21 Feb 2022 05:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[오래된 거리에서 만난 새 시즌 키 룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/19/6529820a-c237-4877-866d-d82fc2d91df7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건축으로 '잘 살기' (1)]]></title>
             <link>https://www.elle.co.kr/article/63976</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 18 Feb 2022 05:39:31 GMT</pubDate>
             <content:encoded><![CDATA[셀린느 오뜨 퍼퓨머리 첫번째 캠페인 영상 공개됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/46fd364f-2c61-48b3-a941-85228d965f0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세기말로 여행을 떠나는 브랜드를 만났다]]></title>
-            <link>https://www.elle.co.kr/article/63845</link>
-            <guid>https://www.elle.co.kr/article/63845</guid>
-            <pubDate>Fri, 18 Feb 2022 05:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[Y2K 감성을 불러일으키는 밀레니엄 버그에 감염된 이들이라면 주목! 혼란의 시대에 자신을 실...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/c694191f-df2c-412e-95b3-17a244fba4f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
