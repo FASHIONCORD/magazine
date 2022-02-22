@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 17:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 05:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파스타, 햄버거, 피자? 양식이 당길 때 가 보자! 분위기까지 좋은 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/63847</link>
+            <guid>https://www.elle.co.kr/article/63847</guid>
+            <pubDate>Tue, 22 Feb 2022 05:44:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/56a28a3a-c779-4f6f-b495-9de559792ab6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리가 서울에 떴다! 이효리가 픽한 '서울체크인' 핫플레이스 3]]></title>
+            <link>https://www.elle.co.kr/article/63787</link>
+            <guid>https://www.elle.co.kr/article/63787</guid>
+            <pubDate>Tue, 22 Feb 2022 05:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[이효리와 김태호 PD가 함께 손을 잡고 선보이는 예능 '서울체크인'이 화제입니다! 제주를 떠...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/12/dd78e8ea-6f3d-4e1f-bb79-2d0672244af1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[촌스러워도 괜찮아 #밸런타인데이케이크]]></title>
             <link>https://www.elle.co.kr/article/63707</link>
@@ -54,22 +69,6 @@
             <pubDate>Wed, 09 Feb 2022 17:49:36 GMT</pubDate>
             <content:encoded><![CDATA[벌써 웨이팅 지옥 개장.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/01/da174782-e856-4a1f-a958-4f336b95762b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책과 함께 하거나, 반려견과 함께 하거나! 인스타그램에서 핫한 진안 카페 셋 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/63465</link>
-            <guid>https://www.elle.co.kr/article/63465</guid>
-            <pubDate>Tue, 08 Feb 2022 17:48:55 GMT</pubDate>
-            <content:encoded><![CDATA[시그니처 메뉴 맛보기는 덤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/c40eb3d1-7aad-43d8-968e-b96d0b554d2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 사랑하는 개와 고양이 #러브믹스 #LoveMIX]]></title>
-            <link>https://www.elle.co.kr/article/63463</link>
-            <guid>https://www.elle.co.kr/article/63463</guid>
-            <pubDate>Tue, 08 Feb 2022 17:48:55 GMT</pubDate>
-            <content:encoded><![CDATA[그렇게 어느 날 우리는 가족이 됐다. 엘르 팀 가족들의 이야기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/a3e230c3-c13f-4bf5-91d4-a093358a4f41.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
