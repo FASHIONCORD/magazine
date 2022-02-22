@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 05:44:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집에서 먹는 토요일 점심, 이런게 웰에이징 식단! (모델표 파스타&샐러드)]]></title>
+            <link>https://www.elle.co.kr/article/63949</link>
+            <guid>https://www.elle.co.kr/article/63949</guid>
+            <pubDate>Tue, 22 Feb 2022 17:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[간단하게 즐기는 건강한 점심 식단! 모델 오지영 레서피를 공개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/0564cb8f-05f5-4817-9a32-d4968a7ec1e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올리브영 비건뷰티 캠페인 뮤즈 #민혁 #주헌 #리즈 와의 만남!]]></title>
+            <link>https://www.elle.co.kr/article/63807</link>
+            <guid>https://www.elle.co.kr/article/63807</guid>
+            <pubDate>Tue, 22 Feb 2022 17:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[매 순간 새로운 시도를 통해 나만의 스타일을 완성해 나가는 몬스타엑스 민혁, 주헌과 아이브 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/cf8e3a25-9be6-4f25-a712-85bb0327df20.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤어 고민 빅 3를 해결하는 법_선배's 어드바이스 #104]]></title>
             <link>https://www.elle.co.kr/article/63821</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 14 Feb 2022 05:40:42 GMT</pubDate>
             <content:encoded><![CDATA[밸런타인데이 선물을 아직도 못 정했다면? 한눈에 보는 맨즈 뷰티용품 가이드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/1039c7fd-3ba4-4616-a450-4dd9c8a6bcc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년차 다이어터의 성공 식단 두 가지]]></title>
-            <link>https://www.elle.co.kr/article/63612</link>
-            <guid>https://www.elle.co.kr/article/63612</guid>
-            <pubDate>Sun, 13 Feb 2022 05:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[현재진행형 다이어터 이혜성이 알려주는 초간단 다이어트 식단을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/2e0bcebc-ffd1-43a4-9ed4-08caa5457ee8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여배우의 3단계 클렌징 팁]]></title>
-            <link>https://www.elle.co.kr/article/63603</link>
-            <guid>https://www.elle.co.kr/article/63603</guid>
-            <pubDate>Sun, 13 Feb 2022 05:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[메이크업은 하는 것보다 지우는 것이 더욱 중요하다는 사실! 배우 채정안이 건강한 피부를 위한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/07/520e8585-aa44-4810-9369-0d190f81b6e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
