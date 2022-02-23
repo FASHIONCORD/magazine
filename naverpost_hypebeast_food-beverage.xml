@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 05:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 17:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재범 인터뷰: 최초의 최초의 최초가 만든 원소주]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33343967&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33343967&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 23 Feb 2022 17:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjNfMTcy/MDAxNjQ1NjAxMjgxMDg4.ptLFyxfFJPSshoFMMVQjAjpXByClgIpbtL0ldP2rIn4g.aiPK85XtDK-eg7aigSVeTLJ_DCavroYR1BKJcSFF-7Ig.JPEG/IWE9Zt680b9uYB5NWykq9VVEx4Eo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<하입비스트> 포착, 아시아 최초 ‘고든 램지 버거’ 국내 1호점 들여다보기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33057421&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjlfMjk0/MDAxNjE3MDA3NjgwNjYy.KP0qWBobtHteoL9K-kBvhlYJZWcp607lvVCWi-vX6xAg.FKWgh0LN4I372m3c2H8YhrJ9-VkEalbiqTJZUqdapoAg.JPEG/IXCihlhPRzpqdNpk4gX7Uiy65WU0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인이 가장 많이 돈을 쓰는 커피 브랜드 TOP 7은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31038758&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31038758&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjVfMjE3/MDAxNjE2NjYwOTYzODg5.g2lkaa9CncysHD2R77AqLn9pXvNvk5wRUKbPKy52gG8g.2c-NXrtSZ5iUzPhmuXtE2pHVxjwmpWiM-tPOTN9NK0Ag.JPEG/IBTSMyAND6btVyIKeWzN2OVRswQo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

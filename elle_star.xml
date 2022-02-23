@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 05:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 17:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬란하게 빛나는 세븐틴 디노의 얼굴]]></title>
+            <link>https://www.elle.co.kr/article/63936</link>
+            <guid>https://www.elle.co.kr/article/63936</guid>
+            <pubDate>Wed, 23 Feb 2022 17:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴의 막내, 디노가 &lt;엘르&gt;와 함께 진행한 첫 뷰티 화보]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/22/30b2972d-c793-4030-8cce-a4ff877d07db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤아의 '짤'을 둘러싼 모든 것! ‘빅마우스’ 비주얼 커플 탄생 역사가 궁금해?]]></title>
+            <link>https://www.elle.co.kr/article/64036</link>
+            <guid>https://www.elle.co.kr/article/64036</guid>
+            <pubDate>Wed, 23 Feb 2022 17:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[윤아의 레전드 '짤' 비하인드 스토리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/22/f46660b4-5ce0-4e51-a19d-3a4f58d5bc9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우에 도전하는 故 최진실 딸 최준희, 무려 42kg를 뺀 비법 '클린 식단'은?]]></title>
             <link>https://www.elle.co.kr/article/64008</link>
@@ -53,22 +69,6 @@
             <pubDate>Mon, 21 Feb 2022 17:43:06 GMT</pubDate>
             <content:encoded><![CDATA[집에서도 스타일리시한 셀러브리티의 홈웨어를 모아봤어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/19/e077416c-f588-4117-90de-b815c05e069b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취미로 등산 어때요? #산꾼도시여자들]]></title>
-            <link>https://www.elle.co.kr/article/63977</link>
-            <guid>https://www.elle.co.kr/article/63977</guid>
-            <pubDate>Mon, 21 Feb 2022 17:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘술꾼도시여자들’에서 환상의 케미를 보여준 정은지, 이선빈, 한선화가 산에서 다시 뭉쳤습니다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/19/2ff84c55-6d96-4c3b-bbe9-f2ab6db9d761.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫사랑부터 신랑수업 계획까지, 핑크빛으로 가득했던 이종석과의 15문 15답!]]></title>
-            <link>https://www.elle.co.kr/article/63970</link>
-            <guid>https://www.elle.co.kr/article/63970</guid>
-            <pubDate>Sun, 20 Feb 2022 17:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[오랜만에 팬들 앞에 선 이종석의 설렘 가득한 인터뷰를 만나보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/22/004cea2e-59c6-49e1-9ef9-bb590bae8d2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
