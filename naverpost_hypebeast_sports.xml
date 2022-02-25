@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 05:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 17:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사상 첫 서울 개최, 전기차 모터스포츠 '포뮬러 E' 관전 포인트 8]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33338064&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33338064&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 25 Feb 2022 17:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjJfMTUg/MDAxNjQ1NTIzNjg2ODE5.3xANIDycc8TD-_f29_p2ZgHztyolnWAhJk6F7gRbLoEg.cSbdHxBwwjnS4hjdNE5tDku5xInBOlrOZkZFrREOiqkg.JPEG/IX_dyZ6WJIwd6qDQFnjxND4UrLro.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골프 입문자라면 꼭 알아둬야 할 '골프 가이드' A to Z]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32419043&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxODA5MDVfMTE2/MDAxNTM2MTM4MTkyNjI3.GceqPXCFYBZmALtXY2AyHPogzriuchU7L3q36gE5py8g.VYHTlpA2pbwoaFoj_PdsdBrjk4WFbhTll0LPUB2JkLcg.JPEG/Ij6XDapn0nDnjQqPUJhrmkcHYaME.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초대 금메달이 걸린 한국과 중국의 2018 아시안게임 <롤> 결승]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=16598494&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=16598494&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxODA4MjlfMTMy/MDAxNTM1NTE1MjM0NjE3.D8P_tunyIIb2sMCnxpv4fJu8ucqLAjA2VClm0fp54N4g.v5VcWe-jc-Pd2QUfPnwAOMNPT4B_MFqMjpfbxcog-6Ug.JPEG/IN2zyhzSm_jpfvQe8hV_k0E7_AKY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
