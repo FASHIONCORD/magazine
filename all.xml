@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 17:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 05:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2429,6 +2429,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/02/189a20a4-23e4-48b7-acc8-5ef294ece87c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스걸파 소녀들이 우리에게 남긴 것 #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/63906</link>
+            <guid>https://www.elle.co.kr/article/63906</guid>
+            <pubDate>Sat, 26 Feb 2022 05:47:38 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 소녀는 어떤 모습인가요? 이렇게 멋지게 살아가고 있는 소녀들이 있다는 사실이 용기가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/0cb4c81e-e12e-47c7-9e27-5c3886ebdbb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내 생일 내가 챙기면 왜 안돼? #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/63875</link>
             <guid>https://www.elle.co.kr/article/63875</guid>
@@ -2483,14 +2491,6 @@
             <pubDate>Fri, 11 Feb 2022 05:41:45 GMT</pubDate>
             <content:encoded><![CDATA[주가 폭락에 흔들린 멘탈을 잡아줄 명언 모음.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/9335859e-7202-4fa6-a357-bb3f1d6307d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 사랑하는 개와 고양이 #러브믹스 #LoveMIX (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/63463</link>
-            <guid>https://www.elle.co.kr/article/63463</guid>
-            <pubDate>Tue, 08 Feb 2022 17:48:55 GMT</pubDate>
-            <content:encoded><![CDATA[그렇게 어느 날 우리는 가족이 됐다. 엘르 팀 가족들의 이야기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/a3e230c3-c13f-4bf5-91d4-a093358a4f41.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
