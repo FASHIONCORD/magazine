@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 17:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 05:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공개 임박! 이민진 작가에게 직접 물은 #파친코 의 매력]]></title>
+            <link>https://www.elle.co.kr/article/64207</link>
+            <guid>https://www.elle.co.kr/article/64207</guid>
+            <pubDate>Mon, 28 Feb 2022 05:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[5년 전 출간된 소설 &lt;파친코&gt;가 동명의 애플TV플러스 오리지널 시리즈로 돌아온다. 타고난 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/a65b3c20-e624-4a16-bd47-1418c186a18a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주말 저녁, 아쉬움을 달래 줄 초간단 안주 3]]></title>
+            <link>https://www.elle.co.kr/article/64204</link>
+            <guid>https://www.elle.co.kr/article/64204</guid>
+            <pubDate>Mon, 28 Feb 2022 05:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[시간 순삭, 연휴의 막바지. 오늘은 성시경이 알려주는 안주와 함께 술 한 잔 어때요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/26/43de7fe1-47d5-4006-b13c-0aa3dfc99f9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포멀? 캐주얼? '고스트닥터' 유이 VS 손나은 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/64203</link>
@@ -53,22 +69,6 @@
             <pubDate>Sat, 26 Feb 2022 17:41:45 GMT</pubDate>
             <content:encoded><![CDATA[사랑하면 서로 닮아가는 법! 셀러브리티와 귀염뽀짝 반려견의 커플룩을 모아봤어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/25/48336ab4-584f-4efd-8b23-5482904359f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연아부터 차준환까지, 은반 위 가벼운 몸을 위한 피겨 선수들의 식단]]></title>
-            <link>https://www.elle.co.kr/article/64149</link>
-            <guid>https://www.elle.co.kr/article/64149</guid>
-            <pubDate>Sat, 26 Feb 2022 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[일반인들은 단기간 시도해 볼 만 한 식단.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/d48f0d2d-d10f-41d1-ae1d-a5356934031d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사복 센스의 끝판왕! 양말 이렇게 신어요]]></title>
-            <link>https://www.elle.co.kr/article/64139</link>
-            <guid>https://www.elle.co.kr/article/64139</guid>
-            <pubDate>Sat, 26 Feb 2022 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[옷 잘 입는 사람은 아무 양말이나 신지 않는다구요~ 차정원, 김나영, 윤승아 등 사복 패션 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/7f10a3a7-647e-4d0a-9370-24c1782cc2f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
