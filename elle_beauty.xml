@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 05:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 17:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬란하고 투명한, 세븐틴 디노와 바이오더마의 만남]]></title>
+            <link>https://www.elle.co.kr/article/64070</link>
+            <guid>https://www.elle.co.kr/article/64070</guid>
+            <pubDate>Mon, 28 Feb 2022 17:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[강인함과 장난스러움, 순수함이 모두 공존하는 디노의 얼굴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/d88ab247-61a0-49cc-aada-bf89bb0a4852.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반짝반짝 맑게! 이하이 꿀 피부 비법!]]></title>
             <link>https://www.elle.co.kr/article/64138</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 23 Feb 2022 05:41:23 GMT</pubDate>
             <content:encoded><![CDATA[1990년대 무드의 찰랑거리는 헤어 스타일이 올시즌 트렌드! 제시카가 쉽고 빠르게 완성하는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/05c98184-d1e6-42cd-93e5-d9630c929657.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 먹는 토요일 점심, 이런게 웰에이징 식단! (모델표 파스타&샐러드)]]></title>
-            <link>https://www.elle.co.kr/article/63949</link>
-            <guid>https://www.elle.co.kr/article/63949</guid>
-            <pubDate>Tue, 22 Feb 2022 17:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[간단하게 즐기는 건강한 점심 식단! 모델 오지영 레서피를 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/0564cb8f-05f5-4817-9a32-d4968a7ec1e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 05:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 17:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭔데 이렇게 재미있어? 조회수 빵 터지는 아이돌 예능 #고잉세븐틴]]></title>
+            <link>https://www.elle.co.kr/article/64243</link>
+            <guid>https://www.elle.co.kr/article/64243</guid>
+            <pubDate>Mon, 28 Feb 2022 17:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 아이돌 예능의 결정체! ‘고잉 세븐틴’의 레전드 에피소드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/bb495f6e-d5c8-442e-a95f-e3dc663416a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 쿠기답게 #AOMG #GOODNIGHT]]></title>
             <link>https://www.elle.co.kr/article/63680</link>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 23 Nov 2021 17:50:17 GMT</pubDate>
             <content:encoded><![CDATA[이제 다음은 그래미?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/7752c3fa-df21-49f2-9bd3-985905d4fcf1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옛날 뮤직비디오 다들 그리웠지? 리마스터링이 뜬다! #리마스터링프로젝트 #케이팝]]></title>
-            <link>https://www.elle.co.kr/article/61302</link>
-            <guid>https://www.elle.co.kr/article/61302</guid>
-            <pubDate>Thu, 18 Nov 2021 17:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[이소라, H.O.T, S.E.S, 신화의 뮤직비디오를 4K로?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/27/30f1ae86-5710-4f13-84e4-1031a621087f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

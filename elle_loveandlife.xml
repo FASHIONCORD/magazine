@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 05:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 17:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어트 중이라면 샐러드 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/64081</link>
+            <guid>https://www.elle.co.kr/article/64081</guid>
+            <pubDate>Mon, 28 Feb 2022 17:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[배불러도 죄책감 제로. 프로 다이어터 이혜성이 소개하는 샐러드 맛집을 모아봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/22/957785d5-4b71-49ca-af09-afcaff1c595a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와인 한 잔과 가장 잘 어울리는 요리를 찾는다면? 건대·목동·상암에 생긴 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/64040</link>
+            <guid>https://www.elle.co.kr/article/64040</guid>
+            <pubDate>Mon, 28 Feb 2022 17:46:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/22/d6dee999-c517-4410-ae82-46f9ac218690.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["차 한 잔?" 따라하고 싶은 엄정화의 티 래서피]]></title>
             <link>https://www.elle.co.kr/article/63987</link>
@@ -53,22 +68,6 @@
             <pubDate>Tue, 22 Feb 2022 05:44:21 GMT</pubDate>
             <content:encoded><![CDATA[이효리와 김태호 PD가 함께 손을 잡고 선보이는 예능 '서울체크인'이 화제입니다! 제주를 떠...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/12/dd78e8ea-6f3d-4e1f-bb79-2d0672244af1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[촌스러워도 괜찮아 #밸런타인데이케이크]]></title>
-            <link>https://www.elle.co.kr/article/63707</link>
-            <guid>https://www.elle.co.kr/article/63707</guid>
-            <pubDate>Fri, 18 Feb 2022 05:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[이왕이면 눅진하고 꾸덕하게, 매끈한 것보단 크림을 풍족하게 올린 것으로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/b4dcdf92-3d2c-4190-846e-127b29c3d6aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤하고 행복한 밸런타인데이를 위해! 초콜릿 선물은 '여기']]></title>
-            <link>https://www.elle.co.kr/article/63662</link>
-            <guid>https://www.elle.co.kr/article/63662</guid>
-            <pubDate>Fri, 18 Feb 2022 05:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[발렌타인데이를 앞두고 마음을 전할 계획이라면? 달콤한 초콜릿이 빠질 수 없겠죠. 고백의 순간...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/43db5eba-bc13-41ff-ad9e-e12fbf068877.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
