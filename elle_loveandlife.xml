@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 17:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:46:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말 저녁, 아쉬움을 달래 줄 초간단 안주 3]]></title>
+            <link>https://www.elle.co.kr/article/64204</link>
+            <guid>https://www.elle.co.kr/article/64204</guid>
+            <pubDate>Wed, 02 Mar 2022 05:45:03 GMT</pubDate>
+            <content:encoded><![CDATA[시간 순삭, 연휴의 막바지. 오늘은 성시경이 알려주는 안주와 함께 술 한 잔 어때요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/26/43de7fe1-47d5-4006-b13c-0aa3dfc99f9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이보다 더 완벽한 주말은 없다! 프렌치토스트 맛집]]></title>
+            <link>https://www.elle.co.kr/article/64202</link>
+            <guid>https://www.elle.co.kr/article/64202</guid>
+            <pubDate>Wed, 02 Mar 2022 05:45:03 GMT</pubDate>
+            <content:encoded><![CDATA[여유로운 주말 아침! 늦잠 자고 일어난 주말 아침에 달콤하고 부드러운 프렌치토스트로 산책을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/30b07e6c-c490-4da1-a4a3-44414be42c67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트 중이라면 샐러드 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/64081</link>
@@ -53,21 +69,6 @@
             <pubDate>Tue, 22 Feb 2022 17:47:47 GMT</pubDate>
             <content:encoded><![CDATA[전통의 몸보신 요리 장어구이부터 독특한 '파육칼'까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/74c7fedf-f986-4a84-adf8-cfd8c6481f3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파스타, 햄버거, 피자? 양식이 당길 때 가 보자! 분위기까지 좋은 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/63847</link>
-            <guid>https://www.elle.co.kr/article/63847</guid>
-            <pubDate>Tue, 22 Feb 2022 05:44:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/56a28a3a-c779-4f6f-b495-9de559792ab6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리가 서울에 떴다! 이효리가 픽한 '서울체크인' 핫플레이스 3]]></title>
-            <link>https://www.elle.co.kr/article/63787</link>
-            <guid>https://www.elle.co.kr/article/63787</guid>
-            <pubDate>Tue, 22 Feb 2022 05:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[이효리와 김태호 PD가 함께 손을 잡고 선보이는 예능 '서울체크인'이 화제입니다! 제주를 떠...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/12/dd78e8ea-6f3d-4e1f-bb79-2d0672244af1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
