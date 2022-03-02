@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 17:49:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돈 모으려면 하루라도 빨리 깨달아야 하는 것들_돈쓸신잡 #33]]></title>
+            <link>https://www.elle.co.kr/article/63947</link>
+            <guid>https://www.elle.co.kr/article/63947</guid>
+            <pubDate>Wed, 02 Mar 2022 17:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[자본주의 게임에서 승리하는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/23d5901f-c7ee-49e9-86e2-5834f9943e49.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜버 겨울서점이 밤 12시에 읽고 싶었던 책? #엘르보이스]]></title>
+            <link>https://www.elle.co.kr/article/63944</link>
+            <guid>https://www.elle.co.kr/article/63944</guid>
+            <pubDate>Wed, 02 Mar 2022 17:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[밤 12시, 자기혐오가 찾아올 때마다 읽은 책. 그 혼돈 속에서 찾은 행복의 기준]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/ea90f8ef-5080-47c4-8bcd-cbc4df4caf1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스걸파 소녀들이 우리에게 남긴 것 #엘르보이스]]></title>
             <link>https://www.elle.co.kr/article/63906</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 16 Feb 2022 17:46:57 GMT</pubDate>
             <content:encoded><![CDATA[월세 vs 전세 그것이 문제로다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/d9a67b0e-2af0-4059-be0b-496d7401e3a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제시카 차스테인은 지지 않아_요주의여성 #45]]></title>
-            <link>https://www.elle.co.kr/article/63576</link>
-            <guid>https://www.elle.co.kr/article/63576</guid>
-            <pubDate>Tue, 15 Feb 2022 17:48:11 GMT</pubDate>
-            <content:encoded><![CDATA[끝장나게 멋있는 여자. 영화 &lt;355&gt;로 돌아온 배우 제시카 차스테인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/08/a0b8d9bc-97a0-4325-8751-e9f477938aba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주식에 물려 불안한 지금, 멘탈을 키울 시간이다_돈쓸신잡 #31]]></title>
-            <link>https://www.elle.co.kr/article/63549</link>
-            <guid>https://www.elle.co.kr/article/63549</guid>
-            <pubDate>Tue, 15 Feb 2022 17:48:11 GMT</pubDate>
-            <content:encoded><![CDATA[주가 폭락에 흔들린 멘탈을 잡아줄 명언 모음.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/9335859e-7202-4fa6-a357-bb3f1d6307d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
