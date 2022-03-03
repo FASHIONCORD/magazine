@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 17:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 05:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 씬스틸러! 기묘한 얼굴의 #배해선]]></title>
+            <link>https://www.elle.co.kr/article/64282</link>
+            <guid>https://www.elle.co.kr/article/64282</guid>
+            <pubDate>Thu, 03 Mar 2022 05:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[연기에 대한 구도자적 집념으로 카메라를 응시하는 배우 배해선]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/01/d56fdf44-5654-40ae-a31c-0587ee65b671.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAG 남녀연기상까지 받아 버린 '오겜' 이정재X정호연의 뭉클한 수상 소감(feat. 루이 비통 댕기)]]></title>
+            <link>https://www.elle.co.kr/article/64249</link>
+            <guid>https://www.elle.co.kr/article/64249</guid>
+            <pubDate>Thu, 03 Mar 2022 05:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[비영어권 드라마 배우가 탄 최초의 SAG 연기상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/1c9d1106-ed0e-45dc-a913-94e5a7402ef0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭔데 이렇게 재미있어? 조회수 빵 터지는 아이돌 예능 #고잉세븐틴]]></title>
             <link>https://www.elle.co.kr/article/64243</link>
@@ -53,22 +69,6 @@
             <pubDate>Mon, 28 Feb 2022 17:43:16 GMT</pubDate>
             <content:encoded><![CDATA[힙한 Y2K 패션에 빠질 수 없는 나비 모티프. 스타들은 이미 나비와 사랑에 빠졌다는 사실!...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/27/63cfff84-fb91-40b1-ad85-4187f7008f8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공개 임박! 이민진 작가에게 직접 물은 #파친코 의 매력]]></title>
-            <link>https://www.elle.co.kr/article/64207</link>
-            <guid>https://www.elle.co.kr/article/64207</guid>
-            <pubDate>Mon, 28 Feb 2022 05:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[5년 전 출간된 소설 &lt;파친코&gt;가 동명의 애플TV플러스 오리지널 시리즈로 돌아온다. 타고난 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/a65b3c20-e624-4a16-bd47-1418c186a18a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말 저녁, 아쉬움을 달래 줄 초간단 안주 3]]></title>
-            <link>https://www.elle.co.kr/article/64204</link>
-            <guid>https://www.elle.co.kr/article/64204</guid>
-            <pubDate>Mon, 28 Feb 2022 05:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[시간 순삭, 연휴의 막바지. 오늘은 성시경이 알려주는 안주와 함께 술 한 잔 어때요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/26/43de7fe1-47d5-4006-b13c-0aa3dfc99f9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
