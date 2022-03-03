@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 17:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타들이 고른 건 뭐? 이렇게 귀여운 #헤어클립]]></title>
+            <link>https://www.elle.co.kr/article/64215</link>
+            <guid>https://www.elle.co.kr/article/64215</guid>
+            <pubDate>Thu, 03 Mar 2022 17:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[밋밋하고 단조로운 헤어스타일을 구원해 줄 헤어클립 스타일. 게다가 어려 보이기까지 한다구요~...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/5e5fbbcd-59c4-4e78-b2f6-cd6ca9c59ffd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웜톤 ‘드루와!’ 유빈 추천 웜톤 립 7.]]></title>
+            <link>https://www.elle.co.kr/article/64210</link>
+            <guid>https://www.elle.co.kr/article/64210</guid>
+            <pubDate>Thu, 03 Mar 2022 17:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[봄맞이 립스틱 쇼핑에 힌트가 되어 줄 유빈의 웜톤 찰떡 립스틱 대방출 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/27/303caaa2-8615-4fb6-80db-865d6b7e7335.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건조해서 미치겠어!_몸에 좋은 잔소리 #38]]></title>
             <link>https://www.elle.co.kr/article/64190</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 25 Feb 2022 17:43:09 GMT</pubDate>
             <content:encoded><![CDATA[‘가장 개인적인 것이 가장 창의적인 것이다’라는 말은, 오르메(ORMAIE)에도 적용된다. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/56aa4cc1-a872-44cb-a305-b86f4d6964fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["차 한 잔?" 따라하고 싶은 엄정화의 티 래서피]]></title>
-            <link>https://www.elle.co.kr/article/63987</link>
-            <guid>https://www.elle.co.kr/article/63987</guid>
-            <pubDate>Fri, 25 Feb 2022 05:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[건조한 겨울, 목 관리를 위해 엄정화가 즐겨 마시는 차를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/20/ccd22ad4-e023-4ba2-9fdd-c0c427ac1145.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취미로 등산 어때요? #산꾼도시여자들]]></title>
-            <link>https://www.elle.co.kr/article/63977</link>
-            <guid>https://www.elle.co.kr/article/63977</guid>
-            <pubDate>Thu, 24 Feb 2022 05:41:15 GMT</pubDate>
-            <content:encoded><![CDATA[‘술꾼도시여자들’에서 환상의 케미를 보여준 정은지, 이선빈, 한선화가 산에서 다시 뭉쳤습니다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/19/2ff84c55-6d96-4c3b-bbe9-f2ab6db9d761.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

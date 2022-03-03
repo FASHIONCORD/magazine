@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 17:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빵순이 다이어터를 위한 베이킹 2]]></title>
+            <link>https://www.elle.co.kr/article/64284</link>
+            <guid>https://www.elle.co.kr/article/64284</guid>
+            <pubDate>Thu, 03 Mar 2022 17:47:20 GMT</pubDate>
+            <content:encoded><![CDATA[엄정화의 키토 아몬드 케이크 레서피부터 오하영의 무지방 와플 레서피까지! 다이어터도 마음 편...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/5deea654-731c-423f-aa86-3e149b9e8108.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주도 냄새 나는 돌담부터 연예인 맛집까지? 광양 감성 카페 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/64206</link>
+            <guid>https://www.elle.co.kr/article/64206</guid>
+            <pubDate>Thu, 03 Mar 2022 17:47:20 GMT</pubDate>
+            <content:encoded><![CDATA[분위기 맛집 총집합! 시그니처 메뉴 맛보기도 필수.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/26/fe7be977-ba6c-47db-a40b-c173d1c1dfa8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주말 저녁, 아쉬움을 달래 줄 초간단 안주 3]]></title>
             <link>https://www.elle.co.kr/article/64204</link>
@@ -53,22 +69,6 @@
             <pubDate>Sun, 27 Feb 2022 05:46:16 GMT</pubDate>
             <content:encoded><![CDATA[고급스러운 오마카세부터 막국수까지, 강민경의 히든 플레이스!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/dadde92f-c106-441a-b2f9-baa30c336a7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 먹는 토요일 점심, 이런게 웰에이징 식단! (모델표 파스타&샐러드)]]></title>
-            <link>https://www.elle.co.kr/article/63949</link>
-            <guid>https://www.elle.co.kr/article/63949</guid>
-            <pubDate>Sun, 27 Feb 2022 05:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[간단하게 즐기는 건강한 점심 식단! 모델 오지영 레서피를 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/0564cb8f-05f5-4817-9a32-d4968a7ec1e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백종원도 인정한 맛! 얼큰하게 몸보신하기 좋은 양평 대표 맛집 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/63879</link>
-            <guid>https://www.elle.co.kr/article/63879</guid>
-            <pubDate>Tue, 22 Feb 2022 17:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[전통의 몸보신 요리 장어구이부터 독특한 '파육칼'까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/74c7fedf-f986-4a84-adf8-cfd8c6481f3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
