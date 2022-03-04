@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 17:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 05:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수준급!! 레드벨벳 슬기가 그린 그림, 포스터북]]></title>
+            <link>https://www.elle.co.kr/article/63986</link>
+            <guid>https://www.elle.co.kr/article/63986</guid>
+            <pubDate>Fri, 04 Mar 2022 05:42:12 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴도 예쁜데 그림도 잘 그리는 ‘사기캐’ 슬기가 자신의 드로잉 작품을 엮은 포스터 집을 발...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/20/ed0f1e48-a9fc-4bf1-92a9-5a10abccd7ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스케이트 잘 타는 유튜버? 퍼스널 컬러 전도사? 곽윤기 '악마의 스타성' 12년 역사]]></title>
             <link>https://www.elle.co.kr/article/63896</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/63797</guid>
             <pubDate>Wed, 16 Feb 2022 17:43:34 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/13/dd38a29f-3a93-43c2-8655-7ccc067e2029.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엔칸토>의 마법_요주의여성 #46]]></title>
-            <link>https://www.elle.co.kr/article/63777</link>
-            <guid>https://www.elle.co.kr/article/63777</guid>
-            <pubDate>Tue, 15 Feb 2022 17:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[역주행 인기! &lt;엔칸토: 마법의 세계&gt;는 뭐가 달랐나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/ccd6e74e-343c-4810-af31-f559da7ea71e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
