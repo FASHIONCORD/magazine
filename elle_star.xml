@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 05:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 17:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더의 바로 지금 (2) #범규 #태현 #ELLEman]]></title>
+            <link>https://www.elle.co.kr/article/64327</link>
+            <guid>https://www.elle.co.kr/article/64327</guid>
+            <pubDate>Fri, 04 Mar 2022 17:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[비정형과 정형을 오가며 자신들이 달리고 싶은 방향으로 달리는 투모로우바이투게더]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/8319441c-743b-45fb-a9f5-85cf3b59ff2d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코미디언 출신 초보 대통령 VS 구국의 영웅? 우크라이나 젤렌스키 대통령에 대하여]]></title>
             <link>https://www.elle.co.kr/article/64313</link>
@@ -61,13 +69,6 @@
             <pubDate>Wed, 02 Mar 2022 05:41:24 GMT</pubDate>
             <content:encoded><![CDATA[요즘 아이돌 예능의 결정체! ‘고잉 세븐틴’의 레전드 에피소드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/bb495f6e-d5c8-442e-a95f-e3dc663416a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["전하기 힘든 이야기" 김현중이 콘서트 도중 결혼을 발표했다]]></title>
-            <link>https://www.elle.co.kr/article/64232</link>
-            <guid>https://www.elle.co.kr/article/64232</guid>
-            <pubDate>Wed, 02 Mar 2022 05:41:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/66b70c0c-0b98-4110-8bd1-43cc482f17f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

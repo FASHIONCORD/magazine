@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 05:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 17:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보이지 않는 것을 보게 하는 이은새의 그림]]></title>
+            <link>https://www.elle.co.kr/article/63990</link>
+            <guid>https://www.elle.co.kr/article/63990</guid>
+            <pubDate>Fri, 04 Mar 2022 17:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[순간을 잡다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/21/190838b6-aeb6-4772-814e-5d23ce6caf63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수준급!! 레드벨벳 슬기가 그린 그림, 포스터북]]></title>
             <link>https://www.elle.co.kr/article/63986</link>
@@ -62,13 +70,6 @@
             <pubDate>Wed, 16 Feb 2022 17:43:34 GMT</pubDate>
             <content:encoded><![CDATA[국경 없는 우정, 진짜 올림픽 정신!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/967bb619-73c2-4f37-8ebf-b32369576db8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동계올림픽 동반 출전만 벌써 세 번째! 쇼트트랙 국가 대표 곽윤기X김아랑의 찐남매 케미]]></title>
-            <link>https://www.elle.co.kr/article/63797</link>
-            <guid>https://www.elle.co.kr/article/63797</guid>
-            <pubDate>Wed, 16 Feb 2022 17:43:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/13/dd38a29f-3a93-43c2-8655-7ccc067e2029.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

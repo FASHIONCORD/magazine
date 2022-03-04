@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 05:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 17:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 F/W 멘즈 컬렉션에서 생긴 일]]></title>
+            <link>https://www.elle.co.kr/article/64405</link>
+            <guid>https://www.elle.co.kr/article/64405</guid>
+            <pubDate>Fri, 04 Mar 2022 17:47:14 GMT</pubDate>
+            <content:encoded><![CDATA[버질 아블로가 떠난 루이 비통, 겐조로 돌아온 니고, 영화를 방불케 했던 프라다 쇼 등 멘즈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/05/41be7648-832b-4738-b553-f0a32d5ba2d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이보다 더 완벽한 주말은 없다! 프렌치토스트 맛집]]></title>
             <link>https://www.elle.co.kr/article/64202</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 28 Jan 2022 05:44:40 GMT</pubDate>
             <content:encoded><![CDATA[믹스 매력 못 잃어! 아티스트10인과 함께 한 NFT 기부 프로젝트! Love, Mix!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/4cb98819-3592-4c97-8796-fc4edbe016d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감싸고 두르고 묶어라! 누구든 감동할 보자기 마법 #아무튼보자기]]></title>
-            <link>https://www.elle.co.kr/article/63306</link>
-            <guid>https://www.elle.co.kr/article/63306</guid>
-            <pubDate>Wed, 26 Jan 2022 17:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[LA의 보자기 스튜디오 '노씨'가 따사로운 햇살 아래 펼쳐낸 보자기 아트워크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/044859b6-6f9b-402d-892e-c63869342730.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
