@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 17:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 05:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘New 캣우먼’ 조 크라비츠_요주의여성 #48]]></title>
+            <link>https://www.elle.co.kr/article/64181</link>
+            <guid>https://www.elle.co.kr/article/64181</guid>
+            <pubDate>Sat, 05 Mar 2022 05:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 캣우먼이 온다. &lt;더 배트맨&gt;의 조 크라비츠.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/25/973f9104-1ef3-4a64-9ee0-22936625a190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 직업은 AI에게 안 뺏길 것 같나요?_돈쓸신잡 #34]]></title>
+            <link>https://www.elle.co.kr/article/64141</link>
+            <guid>https://www.elle.co.kr/article/64141</guid>
+            <pubDate>Sat, 05 Mar 2022 05:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[AI는 내게 독일까? 기회일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/af4a6f47-dd26-4150-8d81-eb33f6ec61fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['애나 만들기'의 줄리아 가너_요주의여성 #47]]></title>
+            <link>https://www.elle.co.kr/article/63964</link>
+            <guid>https://www.elle.co.kr/article/63964</guid>
+            <pubDate>Sat, 05 Mar 2022 05:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[문제적 인물 ‘애나 델피’를 연기한 주목할 배우, 줄리아 가너.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/25/a1e8a0d3-d1cb-44a6-aeb4-34000a3af908.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돈 모으려면 하루라도 빨리 깨달아야 하는 것들_돈쓸신잡 #33]]></title>
             <link>https://www.elle.co.kr/article/63947</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 18 Feb 2022 17:47:48 GMT</pubDate>
             <content:encoded><![CDATA[2022년, 올해도 재미있는 페미니즘 이야기를 하고 싶은 한 출판사 대표의 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/c7672496-0382-4a5f-b4e8-e1f287a96ab4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글 잘쓰는 사람이 되세요 #업무글쓰기]]></title>
-            <link>https://www.elle.co.kr/article/63793</link>
-            <guid>https://www.elle.co.kr/article/63793</guid>
-            <pubDate>Fri, 18 Feb 2022 17:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[비대면 어필'의 시대. SNS부터 메신저, 이메일까지 짧고 강력한 글로 명확하게 아이디어를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/13/d5bcfeff-e4d2-492a-b50d-fe1c66206ebe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엔칸토>의 마법_요주의여성 #46]]></title>
-            <link>https://www.elle.co.kr/article/63777</link>
-            <guid>https://www.elle.co.kr/article/63777</guid>
-            <pubDate>Fri, 18 Feb 2022 17:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[역주행 인기! &lt;엔칸토: 마법의 세계&gt;는 뭐가 달랐나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/ccd6e74e-343c-4810-af31-f559da7ea71e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돈 없어도 괜찮아, 월세 살지 말고 전세 살자_돈쓸신잡 #32]]></title>
-            <link>https://www.elle.co.kr/article/63742</link>
-            <guid>https://www.elle.co.kr/article/63742</guid>
-            <pubDate>Wed, 16 Feb 2022 17:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[월세 vs 전세 그것이 문제로다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/d9a67b0e-2af0-4059-be0b-496d7401e3a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
