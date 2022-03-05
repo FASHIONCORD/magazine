@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 05:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 17:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세럼 하나로 해결하는 환절기 트러블_선배's 어드바이스 #106]]></title>
+            <link>https://www.elle.co.kr/article/64223</link>
+            <guid>https://www.elle.co.kr/article/64223</guid>
+            <pubDate>Sat, 05 Mar 2022 17:41:55 GMT</pubDate>
+            <content:encoded><![CDATA[기능별 세럼으로 봄에도 쭉 꿀 피부로 지내는 법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/f4596fb7-e01b-4b9f-9a02-a9cfe31aa05b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타들이 고른 건 뭐? 이렇게 귀여운 #헤어클립]]></title>
             <link>https://www.elle.co.kr/article/64215</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 27 Feb 2022 05:41:48 GMT</pubDate>
             <content:encoded><![CDATA[배불러도 죄책감 제로. 프로 다이어터 이혜성이 소개하는 샐러드 맛집을 모아봤어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/22/957785d5-4b71-49ca-af09-afcaff1c595a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향에 담긴 추억과 감성, 오르메 ORMAIE]]></title>
-            <link>https://www.elle.co.kr/article/64077</link>
-            <guid>https://www.elle.co.kr/article/64077</guid>
-            <pubDate>Fri, 25 Feb 2022 17:43:09 GMT</pubDate>
-            <content:encoded><![CDATA[‘가장 개인적인 것이 가장 창의적인 것이다’라는 말은, 오르메(ORMAIE)에도 적용된다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/56aa4cc1-a872-44cb-a305-b86f4d6964fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

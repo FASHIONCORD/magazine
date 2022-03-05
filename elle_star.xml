@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 05:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 17:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“어떤 노래 들어요?” AOMG 쿠기의 플레이리스트]]></title>
+            <link>https://www.elle.co.kr/article/64363</link>
+            <guid>https://www.elle.co.kr/article/64363</guid>
+            <pubDate>Sat, 05 Mar 2022 17:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[쿠기 피셜 산책 &amp; 운동할 때 듣기 좋은 음악 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/e110219d-c84c-4379-97ce-87355e5095d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투모로우바이투게더의 바로 지금 (2) #범규 #태현 #ELLEman]]></title>
             <link>https://www.elle.co.kr/article/64327</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 03 Mar 2022 05:41:33 GMT</pubDate>
             <content:encoded><![CDATA[비영어권 드라마 배우가 탄 최초의 SAG 연기상!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/1c9d1106-ed0e-45dc-a913-94e5a7402ef0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭔데 이렇게 재미있어? 조회수 빵 터지는 아이돌 예능 #고잉세븐틴]]></title>
-            <link>https://www.elle.co.kr/article/64243</link>
-            <guid>https://www.elle.co.kr/article/64243</guid>
-            <pubDate>Wed, 02 Mar 2022 05:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 아이돌 예능의 결정체! ‘고잉 세븐틴’의 레전드 에피소드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/bb495f6e-d5c8-442e-a95f-e3dc663416a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
