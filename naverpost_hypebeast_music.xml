@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 17:49:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독 인터뷰 포함, 뷰티플노이즈의 단편 영화 MV <SLEEP EXHIBITION> 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33407702&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33407702&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 07 Mar 2022 17:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDdfMjM1/MDAxNjQ2NjMzMDI0MjMz.VWcY0M4TCZvRK7mmnvjyoT1CTeBnt03qhxagyabc0UUg._N5w7fIvi7XKkcJuCc44JJ5L_lbMT--Xj3QOT5ooT2Yg.JPEG/IA4G4u2ayC_l3b9EDy2hxtJmW6bg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장기하 인터뷰: 솔로 가수 장기하의 새로운 자기소개서]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33380905&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjRfODAg/MDAxNjIxODQxNzgzNzI3.U3kwCUNstu3JLkY198t77BD9reEjS9FmcG1dADxqyuwg.KZw5WF75o9daeazGHDCAhZqqfwoJ6NIlolEJg1l00n8g.JPEG/I0kJQ63gVwbJo-eXoC1gZOJ68bC4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이비 인터뷰 - 갓세븐에서, 하이어뮤직의 제이비로]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31517571&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31517571&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MTdfMTc2/MDAxNjIxMjQwNzcyMDY4.PlymfNWRZoYTRdwEPZfWxKBWvar6bWSjHTvcn8ttkF4g.KKzkrKKuIw0tpxcO1PPIW2_hncwCAZH8ZiyDZ8EAhwkg.PNG/IFLRwbyjNTTtwoMNpsBWg22dAsOU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

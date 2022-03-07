@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 17:49:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화이트데이의 샹스를 놓치지 말 것]]></title>
+            <link>https://www.elle.co.kr/article/64299</link>
+            <guid>https://www.elle.co.kr/article/64299</guid>
+            <pubDate>Mon, 07 Mar 2022 17:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[기회의 의미를 담은 샤넬의 4가지 향수, 샹스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/4d932ce8-abd1-49e9-bbdc-8aa151d175f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빵순이 다이어터를 위한 베이킹 2]]></title>
+            <link>https://www.elle.co.kr/article/64284</link>
+            <guid>https://www.elle.co.kr/article/64284</guid>
+            <pubDate>Mon, 07 Mar 2022 17:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[엄정화의 키토 아몬드 케이크 레서피부터 오하영의 무지방 와플 레서피까지! 다이어터도 마음 편...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/5deea654-731c-423f-aa86-3e149b9e8108.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세럼 하나로 해결하는 환절기 트러블_선배's 어드바이스 #106]]></title>
             <link>https://www.elle.co.kr/article/64223</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 28 Feb 2022 05:41:07 GMT</pubDate>
             <content:encoded><![CDATA[피부 진짜 좋은 이하이가 매일 하는 스킨 케어 루틴. 직접 써보고 좋았던 것들로만 모은 ‘정...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/ff6fd550-9176-4547-9a75-4a4e029ba40e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['삶의 질 수직 상승' 톱모델 송경아의 내돈내산 찐-템]]></title>
-            <link>https://www.elle.co.kr/article/64086</link>
-            <guid>https://www.elle.co.kr/article/64086</guid>
-            <pubDate>Mon, 28 Feb 2022 05:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[송경아가 찐으로 애정하는 관리템부터 취미를 위한 제품까지 소개했어요. 그녀의 일상을 엿볼 수...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/23/7e266c99-a920-4aa6-bce3-4e878bc59710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 중이라면 샐러드 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/64081</link>
-            <guid>https://www.elle.co.kr/article/64081</guid>
-            <pubDate>Sun, 27 Feb 2022 05:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[배불러도 죄책감 제로. 프로 다이어터 이혜성이 소개하는 샐러드 맛집을 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/22/957785d5-4b71-49ca-af09-afcaff1c595a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
