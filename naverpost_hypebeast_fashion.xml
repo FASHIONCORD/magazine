@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 17:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스투시, 메종 마르지엘라, 아워 레가시 등, 봄맞이 셔츠 추천 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33407865&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33407865&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 08 Mar 2022 17:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDdfODMg/MDAxNjQ2NjM0ODYzNDA5.0JYmbv28vqEQHbWZPP6MMcSRMGxc2jagvG3ho5AcN7cg.B6IrJXS27ihM44UI3hCRg87U3H7sS5UbRpksTVuh2fsg.JPEG/Iuhf3gs9rogEPbNHC9amamGTeRqA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남녀 모두의 로맨틱 밸런타인데이를 위한 추천 아이템 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33249268&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Oct 2021 05:38:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMjg2/MDAxNjMzNTg0NDgwMTEx.DfFGIfKdUFDYzhwBgzLSbMAoSHI0HMqfpZbw2Gbsb7sg.aGGJ_eXJIZjLd0gFHdFq_gPPtGQ5ppJ7u4C3bqalDkwg.JPEG/IPdZhvqs9ZrUk-EcRjg7c72vfiXw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 편집숍 6곳이 추천하는 2021년 가을 패션 트렌드]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32419179&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32419179&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:56:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjNfMTEz/MDAxNjMyMzgzMzc5NDk3.NX73c1U1md_jRo3fnbQazI54wJ75aLjoSBq2QpBLzDQg.nhiTEaWyVHrmS4NVV4tm05Egj31PpDPTg-PFCzNWzKwg.JPEG/IwikcK_7CX_79Jzq7eHSH89CkFfE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
