@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 17:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 05:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘도 입술 맑음, 샤넬 루쥬 코코 밤]]></title>
+            <link>https://www.elle.co.kr/article/64224</link>
+            <guid>https://www.elle.co.kr/article/64224</guid>
+            <pubDate>Tue, 08 Mar 2022 05:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 루쥬 코코 밤으로 말갛게 물들이는 입술.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/c908a5ba-b6ae-4514-bf3b-a5a85a2ea7a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화이트데이의 샹스를 놓치지 말 것]]></title>
             <link>https://www.elle.co.kr/article/64299</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 28 Feb 2022 17:42:34 GMT</pubDate>
             <content:encoded><![CDATA[강인함과 장난스러움, 순수함이 모두 공존하는 디노의 얼굴.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/d88ab247-61a0-49cc-aada-bf89bb0a4852.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반짝반짝 맑게! 이하이 꿀 피부 비법!]]></title>
-            <link>https://www.elle.co.kr/article/64138</link>
-            <guid>https://www.elle.co.kr/article/64138</guid>
-            <pubDate>Mon, 28 Feb 2022 05:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[피부 진짜 좋은 이하이가 매일 하는 스킨 케어 루틴. 직접 써보고 좋았던 것들로만 모은 ‘정...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/ff6fd550-9176-4547-9a75-4a4e029ba40e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 17:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 05:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/784135be-3b44-453c-8dc9-2e80d7c25658.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오늘도 입술 맑음, 샤넬 루쥬 코코 밤 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/64224</link>
+            <guid>https://www.elle.co.kr/article/64224</guid>
+            <pubDate>Tue, 08 Mar 2022 05:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 루쥬 코코 밤으로 말갛게 물들이는 입술.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/c908a5ba-b6ae-4514-bf3b-a5a85a2ea7a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화이트데이의 샹스를 놓치지 말 것 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/64299</link>
             <guid>https://www.elle.co.kr/article/64299</guid>
@@ -1918,14 +1926,6 @@
             <pubDate>Mon, 28 Feb 2022 17:42:34 GMT</pubDate>
             <content:encoded><![CDATA[강인함과 장난스러움, 순수함이 모두 공존하는 디노의 얼굴.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/d88ab247-61a0-49cc-aada-bf89bb0a4852.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반짝반짝 맑게! 이하이 꿀 피부 비법! (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/64138</link>
-            <guid>https://www.elle.co.kr/article/64138</guid>
-            <pubDate>Mon, 28 Feb 2022 05:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[피부 진짜 좋은 이하이가 매일 하는 스킨 케어 루틴. 직접 써보고 좋았던 것들로만 모은 ‘정...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/ff6fd550-9176-4547-9a75-4a4e029ba40e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작으면 작을 수록 패셔니스타! #마이크로백 #쇼핑리스트 (엘르 코리아 ─ 스타)]]></title>
@@ -2367,6 +2367,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/4cb98819-3592-4c97-8796-fc4edbe016d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[맛있는 아인슈페너 맛보고 싶다면 ‘여기’! #아인슈페너맛집 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/64285</link>
+            <guid>https://www.elle.co.kr/article/64285</guid>
+            <pubDate>Tue, 08 Mar 2022 05:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[비엔나 커피로도 불리는 아인슈페너의 진정한 맛을 느껴보지 못했다면 ‘여기’부터 들러보세요! ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/01/366849e3-4205-43af-bee8-78c45072eafb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빵순이 다이어터를 위한 베이킹 2 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/64284</link>
             <guid>https://www.elle.co.kr/article/64284</guid>
@@ -2422,12 +2430,27 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/20/ccd22ad4-e023-4ba2-9fdd-c0c427ac1145.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강민경이 다녀온 맛집 3. (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/63951</link>
-            <guid>https://www.elle.co.kr/article/63951</guid>
-            <pubDate>Sun, 27 Feb 2022 05:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[고급스러운 오마카세부터 막국수까지, 강민경의 히든 플레이스!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/dadde92f-c106-441a-b2f9-baa30c336a7b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[기프티콘 재테크? 200원, 300원 아껴서 부자가 될 순 없겠지만_돈쓸신잡 #35 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/64362</link>
+            <guid>https://www.elle.co.kr/article/64362</guid>
+            <pubDate>Tue, 08 Mar 2022 05:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[소소한 재테크가 가능한 기프티콘 애플리케이션으로 돈 벌기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/9d4bbd5a-bb3c-4572-846b-35cac2886d67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기성세대의 자기계발과는 달라, Z세대의 '갓생' #젠Z식노트_1 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/64322</link>
+            <guid>https://www.elle.co.kr/article/64322</guid>
+            <pubDate>Tue, 08 Mar 2022 05:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 라이프 스타일이라는 '갓생'은 대체 뭘까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/c18f43bb-676b-45aa-bc40-591018e0bf73.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코미디언 출신 초보 대통령 VS 구국의 영웅? 우크라이나 젤렌스키 대통령에 대하여 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/64313</link>
+            <guid>https://www.elle.co.kr/article/64313</guid>
+            <pubDate>Thu, 03 Mar 2022 17:44:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/bfee0905-0e36-4227-ab11-539e11581770.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘New 캣우먼’ 조 크라비츠_요주의여성 #48 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -2467,31 +2490,7 @@
             <guid>https://www.elle.co.kr/article/63944</guid>
             <pubDate>Wed, 02 Mar 2022 17:49:47 GMT</pubDate>
             <content:encoded><![CDATA[밤 12시, 자기혐오가 찾아올 때마다 읽은 책. 그 혼돈 속에서 찾은 행복의 기준]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/ea90f8ef-5080-47c4-8bcd-cbc4df4caf1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스걸파 소녀들이 우리에게 남긴 것 #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/63906</link>
-            <guid>https://www.elle.co.kr/article/63906</guid>
-            <pubDate>Sat, 26 Feb 2022 05:47:38 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 소녀는 어떤 모습인가요? 이렇게 멋지게 살아가고 있는 소녀들이 있다는 사실이 용기가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/0cb4c81e-e12e-47c7-9e27-5c3886ebdbb9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 생일 내가 챙기면 왜 안돼? #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/63875</link>
-            <guid>https://www.elle.co.kr/article/63875</guid>
-            <pubDate>Thu, 24 Feb 2022 05:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[내 생일인데, 우리 만날까? #비혼세 곽민지가 자기 생일에 진심인 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/32f9c505-8608-4dea-8035-f0430cef5106.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백래시의 시대, 페미니즘 출판사로서 살아남는 법 #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/63843</link>
-            <guid>https://www.elle.co.kr/article/63843</guid>
-            <pubDate>Fri, 18 Feb 2022 17:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022년, 올해도 재미있는 페미니즘 이야기를 하고 싶은 한 출판사 대표의 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/c7672496-0382-4a5f-b4e8-e1f287a96ab4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/ea90f8ef-5080-47c4-8bcd-cbc4df4caf1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 17:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 05:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맛있는 아인슈페너 맛보고 싶다면 ‘여기’! #아인슈페너맛집]]></title>
+            <link>https://www.elle.co.kr/article/64285</link>
+            <guid>https://www.elle.co.kr/article/64285</guid>
+            <pubDate>Tue, 08 Mar 2022 05:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[비엔나 커피로도 불리는 아인슈페너의 진정한 맛을 느껴보지 못했다면 ‘여기’부터 들러보세요! ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/01/366849e3-4205-43af-bee8-78c45072eafb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빵순이 다이어터를 위한 베이킹 2]]></title>
             <link>https://www.elle.co.kr/article/64284</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 27 Feb 2022 05:46:16 GMT</pubDate>
             <content:encoded><![CDATA[건조한 겨울, 목 관리를 위해 엄정화가 즐겨 마시는 차를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/20/ccd22ad4-e023-4ba2-9fdd-c0c427ac1145.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강민경이 다녀온 맛집 3.]]></title>
-            <link>https://www.elle.co.kr/article/63951</link>
-            <guid>https://www.elle.co.kr/article/63951</guid>
-            <pubDate>Sun, 27 Feb 2022 05:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[고급스러운 오마카세부터 막국수까지, 강민경의 히든 플레이스!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/dadde92f-c106-441a-b2f9-baa30c336a7b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
