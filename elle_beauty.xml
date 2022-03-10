@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 05:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 17:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무쌍러주목! 안소희의 데일리 메이크업 하우투]]></title>
+            <link>https://www.elle.co.kr/article/64410</link>
+            <guid>https://www.elle.co.kr/article/64410</guid>
+            <pubDate>Thu, 10 Mar 2022 17:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[쉽게 번지고 뭉치는 메이크업은 그만! 안소희가 무쌍러들을 위한 메이크업을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/05/b8ae4d42-1e3f-459d-8bde-00da32f72b23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스칼렛 요한슨도 만들었다! 해외 셀럽들의 뷰티 브랜드 총정리.zip]]></title>
+            <link>https://www.elle.co.kr/article/64369</link>
+            <guid>https://www.elle.co.kr/article/64369</guid>
+            <pubDate>Thu, 10 Mar 2022 17:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[스칼렛 요한슨의 스킨케어 라인 론칭(UPDATE!)]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/0ac89d62-8153-4593-af55-79431e59b196.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘도 입술 맑음, 샤넬 루쥬 코코 밤]]></title>
             <link>https://www.elle.co.kr/article/64224</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 03 Mar 2022 17:44:03 GMT</pubDate>
             <content:encoded><![CDATA[봄맞이 립스틱 쇼핑에 힌트가 되어 줄 유빈의 웜톤 찰떡 립스틱 대방출 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/27/303caaa2-8615-4fb6-80db-865d6b7e7335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건조해서 미치겠어!_몸에 좋은 잔소리 #38]]></title>
-            <link>https://www.elle.co.kr/article/64190</link>
-            <guid>https://www.elle.co.kr/article/64190</guid>
-            <pubDate>Thu, 03 Mar 2022 05:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[극도로 건조한 계절, ‘가습’으로 건강 챙기기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/25/55a7dcb1-a86f-4386-ae8a-7f673d89ebaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬란하고 투명한, 세븐틴 디노와 바이오더마의 만남]]></title>
-            <link>https://www.elle.co.kr/article/64070</link>
-            <guid>https://www.elle.co.kr/article/64070</guid>
-            <pubDate>Mon, 28 Feb 2022 17:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[강인함과 장난스러움, 순수함이 모두 공존하는 디노의 얼굴.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/24/d88ab247-61a0-49cc-aada-bf89bb0a4852.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
