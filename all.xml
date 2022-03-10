@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 17:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 05:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2430,6 +2430,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/20/ccd22ad4-e023-4ba2-9fdd-c0c427ac1145.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제20대 대통령은? 이재명 VS 윤석열 여성 공약, 최종_진짜 최종_최종의 요약.list ② (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/64397</link>
+            <guid>https://www.elle.co.kr/article/64397</guid>
+            <pubDate>Thu, 10 Mar 2022 05:47:07 GMT</pubDate>
+            <content:encoded><![CDATA[4일부터 사전투표 시작.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/2ba981bd-4e76-4e53-926d-8afb5e2fe07d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제20대 대통령은? 이재명 VS 윤석열 여성 공약, 최종_진짜 최종_최종의 요약.list ① (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/64396</link>
+            <guid>https://www.elle.co.kr/article/64396</guid>
+            <pubDate>Thu, 10 Mar 2022 05:47:07 GMT</pubDate>
+            <content:encoded><![CDATA[4일부터 사전투표 시작.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/2ba981bd-4e76-4e53-926d-8afb5e2fe07d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기프티콘 재테크? 200원, 300원 아껴서 부자가 될 순 없겠지만_돈쓸신잡 #35 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/64362</link>
             <guid>https://www.elle.co.kr/article/64362</guid>
@@ -2475,22 +2491,6 @@
             <pubDate>Sat, 05 Mar 2022 05:46:00 GMT</pubDate>
             <content:encoded><![CDATA[문제적 인물 ‘애나 델피’를 연기한 주목할 배우, 줄리아 가너.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/25/a1e8a0d3-d1cb-44a6-aeb4-34000a3af908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돈 모으려면 하루라도 빨리 깨달아야 하는 것들_돈쓸신잡 #33 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/63947</link>
-            <guid>https://www.elle.co.kr/article/63947</guid>
-            <pubDate>Wed, 02 Mar 2022 17:49:47 GMT</pubDate>
-            <content:encoded><![CDATA[자본주의 게임에서 승리하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/18/23d5901f-c7ee-49e9-86e2-5834f9943e49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜버 겨울서점이 밤 12시에 읽고 싶었던 책? #엘르보이스 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/63944</link>
-            <guid>https://www.elle.co.kr/article/63944</guid>
-            <pubDate>Wed, 02 Mar 2022 17:49:47 GMT</pubDate>
-            <content:encoded><![CDATA[밤 12시, 자기혐오가 찾아올 때마다 읽은 책. 그 혼돈 속에서 찾은 행복의 기준]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/ea90f8ef-5080-47c4-8bcd-cbc4df4caf1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
