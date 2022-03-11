@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 17:49:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화이트 데이 선물로 제격! 봄의 요정같은 플로럴 향수 7 _선배's 어드바이스 #107]]></title>
+            <link>https://www.elle.co.kr/article/64445</link>
+            <guid>https://www.elle.co.kr/article/64445</guid>
+            <pubDate>Fri, 11 Mar 2022 17:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[봄 하면 떠오르는 클래식부터 신제품까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/9f67ca12-0b12-43d6-8485-5d637737bc20.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무쌍러주목! 안소희의 데일리 메이크업 하우투]]></title>
             <link>https://www.elle.co.kr/article/64410</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 03 Mar 2022 17:44:03 GMT</pubDate>
             <content:encoded><![CDATA[밋밋하고 단조로운 헤어스타일을 구원해 줄 헤어클립 스타일. 게다가 어려 보이기까지 한다구요~...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/5e5fbbcd-59c4-4e78-b2f6-cd6ca9c59ffd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웜톤 ‘드루와!’ 유빈 추천 웜톤 립 7.]]></title>
-            <link>https://www.elle.co.kr/article/64210</link>
-            <guid>https://www.elle.co.kr/article/64210</guid>
-            <pubDate>Thu, 03 Mar 2022 17:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[봄맞이 립스틱 쇼핑에 힌트가 되어 줄 유빈의 웜톤 찰떡 립스틱 대방출 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/27/303caaa2-8615-4fb6-80db-865d6b7e7335.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

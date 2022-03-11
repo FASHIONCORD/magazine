@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 17:49:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭔데 이렇게 재미있어? 조회수 빵 터지는 아이돌 예능 #고잉세븐틴]]></title>
+            <link>https://www.elle.co.kr/article/64243</link>
+            <guid>https://www.elle.co.kr/article/64243</guid>
+            <pubDate>Fri, 11 Mar 2022 17:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 아이돌 예능의 결정체! ‘고잉 세븐틴’의 레전드 에피소드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/bb495f6e-d5c8-442e-a95f-e3dc663416a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이보다 더 완벽한 주말은 없다! 프렌치토스트 맛집]]></title>
             <link>https://www.elle.co.kr/article/64202</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 20 Feb 2022 17:42:39 GMT</pubDate>
             <content:encoded><![CDATA[일본의 막판 기권으로 가까워진 4강행.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/d568f584-dc2b-4035-96ff-c1cbd715c37d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["봐라! 전 인류" 차준환부터 형가리X동생가리까지, 베이징 올림픽 훈남 5]]></title>
-            <link>https://www.elle.co.kr/article/63831</link>
-            <guid>https://www.elle.co.kr/article/63831</guid>
-            <pubDate>Sun, 20 Feb 2022 17:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[세계인을 주접의 늪으로 빠트린 각국의 대표 훈남 선수들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/14/2a3d1267-c7b8-4694-ac64-9a29880d8660.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
