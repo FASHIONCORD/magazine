@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 06:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 17:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<엘르> 4월호 커버 스타에 등극한 정호연!]]></title>
+            <link>https://www.elle.co.kr/article/64557</link>
+            <guid>https://www.elle.co.kr/article/64557</guid>
+            <pubDate>Mon, 14 Mar 2022 17:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 배우 비주얼! 정호연 &lt;엘르&gt; 4월호 커버 장식]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/dbcf3024-8249-4133-93de-33655d8dafa2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀 피부 각! 톱 모델의 나이트 루틴]]></title>
             <link>https://www.elle.co.kr/article/64530</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 11 Mar 2022 05:41:42 GMT</pubDate>
             <content:encoded><![CDATA[이미 한국에선 부부가 된 두 사람.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/6f83830b-23cd-462b-9213-a2773bc75a36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수어는 제 고유의 언어입니다 #나는내가말해요 #하개월]]></title>
-            <link>https://www.elle.co.kr/article/64464</link>
-            <guid>https://www.elle.co.kr/article/64464</guid>
-            <pubDate>Fri, 11 Mar 2022 05:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[더없이 나답게, 나만의 목소리로, 나만 할 수 있는 이야기들을 유쾌한 콘텐츠로 세상에 건네는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/e4dae6d5-e29d-49f9-8f91-a18fa62994d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

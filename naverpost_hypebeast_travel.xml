@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 06:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 17:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Essentials: 김지훈]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33447518&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33447518&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 14 Mar 2022 17:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTRfNDAg/MDAxNjQ3MjQ4MDM0NjY2.sKhfWzwwcERw6OFRqkxhriuRMkB63KeuYJfstuvb-9og.-enhu_8XhVkOfE3q3YY4TfnbqSmlhLA8yt2LtkjAXO4g.JPEG/IKJ4sDO82P2CPw2d99WS_kZ082ZQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Essentials: 지승욱]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33380992&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MjBfMTEx/MDAxNTg5OTY5NjAxODQ4.nUv-ZFmaFu6G7C_sfCO9-s6QHDRgG8Zc4nxNB5dSlQMg.122LkgfNoN9RqDvOIINRQsPsYjM-___xwQSHuZ4sw0kg.JPEG/IwkvKspdYYDUttkuyQnTLZ34TrNk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19, 향수 대신 추천하는 디퓨저, 룸 스프레이, 캔들]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27950993&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27950993&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MDlfNzkg/MDAxNTg2NDE5OTMzNjgx.82lgm22RNSr0eHhwGD2x2ZckXadQkCqDW1_EnGM60nYg.gH5zY265tM_PKjEo5hcw-NtM0gfLjy6u1PxmOdLy8xIg.JPEG/IBQ3Ep28AjPgf9Er-7AOT20xi_X8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
