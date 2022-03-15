@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 05:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 17:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“어떤 노래 들어요?” AOMG 쿠기의 플레이리스트]]></title>
+            <link>https://www.elle.co.kr/article/64363</link>
+            <guid>https://www.elle.co.kr/article/64363</guid>
+            <pubDate>Tue, 15 Mar 2022 17:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[쿠기 피셜 산책 &amp; 운동할 때 듣기 좋은 음악 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/e110219d-c84c-4379-97ce-87355e5095d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAG 남녀연기상까지 받아 버린 '오겜' 이정재X정호연의 뭉클한 수상 소감(feat. 루이 비통 댕기)]]></title>
+            <link>https://www.elle.co.kr/article/64249</link>
+            <guid>https://www.elle.co.kr/article/64249</guid>
+            <pubDate>Tue, 15 Mar 2022 17:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[비영어권 드라마 배우가 탄 최초의 SAG 연기상!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/1c9d1106-ed0e-45dc-a913-94e5a7402ef0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭔데 이렇게 재미있어? 조회수 빵 터지는 아이돌 예능 #고잉세븐틴]]></title>
             <link>https://www.elle.co.kr/article/64243</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 28 Feb 2022 17:43:59 GMT</pubDate>
             <content:encoded><![CDATA[곽윤기의 라스트 댄스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/923d8cbd-cbfe-4a3a-b381-388ad57e7578.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여왕님 가라사대' 김연아가 러시아 발리예바 도핑 의혹에 날린 일침의 무게]]></title>
-            <link>https://www.elle.co.kr/article/63867</link>
-            <guid>https://www.elle.co.kr/article/63867</guid>
-            <pubDate>Mon, 28 Feb 2022 05:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[많은 선수들이 같은 목소리를 내고 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/917c19e6-7d82-48bc-950f-0001e0ec3148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만의 한일전 완승한 컬링 대표팀, 신들린 경기력 뒤엔 은은한 광기가 있다?]]></title>
-            <link>https://www.elle.co.kr/article/63848</link>
-            <guid>https://www.elle.co.kr/article/63848</guid>
-            <pubDate>Sun, 20 Feb 2022 17:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[일본의 막판 기권으로 가까워진 4강행.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/15/d568f584-dc2b-4035-96ff-c1cbd715c37d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

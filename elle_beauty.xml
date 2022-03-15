@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 05:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 17:48:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최신 아이크림 업데이트 #아이크림]]></title>
+            <link>https://www.elle.co.kr/article/64338</link>
+            <guid>https://www.elle.co.kr/article/64338</guid>
+            <pubDate>Tue, 15 Mar 2022 17:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[아이크림, 아직도 안 바르나요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/201f8c37-dec2-460f-aa35-0e8a92df7dfe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화이트 데이 선물로 제격! 봄의 요정같은 플로럴 향수 7 _선배's 어드바이스 #107]]></title>
             <link>https://www.elle.co.kr/article/64445</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 05 Mar 2022 17:41:55 GMT</pubDate>
             <content:encoded><![CDATA[기능별 세럼으로 봄에도 쭉 꿀 피부로 지내는 법]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/f4596fb7-e01b-4b9f-9a02-a9cfe31aa05b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들이 고른 건 뭐? 이렇게 귀여운 #헤어클립]]></title>
-            <link>https://www.elle.co.kr/article/64215</link>
-            <guid>https://www.elle.co.kr/article/64215</guid>
-            <pubDate>Thu, 03 Mar 2022 17:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[밋밋하고 단조로운 헤어스타일을 구원해 줄 헤어클립 스타일. 게다가 어려 보이기까지 한다구요~...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/5e5fbbcd-59c4-4e78-b2f6-cd6ca9c59ffd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
