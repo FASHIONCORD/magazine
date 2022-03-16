@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 17:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀 피부 각! 톱 모델의 나이트 루틴]]></title>
+            <link>https://www.elle.co.kr/article/64530</link>
+            <guid>https://www.elle.co.kr/article/64530</guid>
+            <pubDate>Wed, 16 Mar 2022 17:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[자연스러운 민낯까지 아름다운 모델 곽지영이 촬영 후 집에 돌아와서 하는 스킨 케어 루틴. 이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/f995f2f4-1fcd-4731-996f-b3bae8da0feb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딱 일주일만! No 화이트 푸드  다이어트 식단]]></title>
+            <link>https://www.elle.co.kr/article/64526</link>
+            <guid>https://www.elle.co.kr/article/64526</guid>
+            <pubDate>Wed, 16 Mar 2022 17:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 몸을 위한 방송인 최은경의 초간단 다이어트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/87269123-00fb-4424-acfb-7c5e2f78d3c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘도 자가진단했니?_몸에 좋은 잔소리 #39]]></title>
             <link>https://www.elle.co.kr/article/64473</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 08 Mar 2022 05:40:22 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 루쥬 코코 밤으로 말갛게 물들이는 입술.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/c908a5ba-b6ae-4514-bf3b-a5a85a2ea7a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트데이의 샹스를 놓치지 말 것]]></title>
-            <link>https://www.elle.co.kr/article/64299</link>
-            <guid>https://www.elle.co.kr/article/64299</guid>
-            <pubDate>Mon, 07 Mar 2022 17:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[기회의 의미를 담은 샤넬의 4가지 향수, 샹스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/4d932ce8-abd1-49e9-bbdc-8aa151d175f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빵순이 다이어터를 위한 베이킹 2]]></title>
-            <link>https://www.elle.co.kr/article/64284</link>
-            <guid>https://www.elle.co.kr/article/64284</guid>
-            <pubDate>Mon, 07 Mar 2022 17:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[엄정화의 키토 아몬드 케이크 레서피부터 오하영의 무지방 와플 레서피까지! 다이어터도 마음 편...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/5deea654-731c-423f-aa86-3e149b9e8108.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
