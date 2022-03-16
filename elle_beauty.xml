@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 17:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:48:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘도 자가진단했니?_몸에 좋은 잔소리 #39]]></title>
+            <link>https://www.elle.co.kr/article/64473</link>
+            <guid>https://www.elle.co.kr/article/64473</guid>
+            <pubDate>Wed, 16 Mar 2022 05:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[코시국의 흔한 일상이 되어버린 ‘자가 검사’에 대한 궁금증들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/921395ff-cd6e-4814-9616-ef7f94370979.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최신 아이크림 업데이트 #아이크림]]></title>
             <link>https://www.elle.co.kr/article/64338</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 07 Mar 2022 17:43:21 GMT</pubDate>
             <content:encoded><![CDATA[엄정화의 키토 아몬드 케이크 레서피부터 오하영의 무지방 와플 레서피까지! 다이어터도 마음 편...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/5deea654-731c-423f-aa86-3e149b9e8108.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세럼 하나로 해결하는 환절기 트러블_선배's 어드바이스 #106]]></title>
-            <link>https://www.elle.co.kr/article/64223</link>
-            <guid>https://www.elle.co.kr/article/64223</guid>
-            <pubDate>Sat, 05 Mar 2022 17:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[기능별 세럼으로 봄에도 쭉 꿀 피부로 지내는 법]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/f4596fb7-e01b-4b9f-9a02-a9cfe31aa05b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
