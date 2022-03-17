@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 17:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 05:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구찌, 아키타이프, 꿈, 미래에 대한 미켈레와의 대담]]></title>
+            <link>https://www.elle.co.kr/article/64679</link>
+            <guid>https://www.elle.co.kr/article/64679</guid>
+            <pubDate>Thu, 17 Mar 2022 05:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[전시 &lt;구찌 가든 아키타이프: 절대적 전형&gt; 개최와 더불어 구찌 크리에이티브 디렉터 알레산드...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/4c9d3edf-8825-444b-9172-1356275bb0e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 F/W 멘즈 컬렉션에서 생긴 일]]></title>
             <link>https://www.elle.co.kr/article/64405</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 28 Jan 2022 05:44:40 GMT</pubDate>
             <content:encoded><![CDATA[반려동물에 진심인 엘르와 아티스트 10인의 기부 프로젝트. 당신의 그림을 소장하세요]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/1f95cc6a-d11a-4af5-b51c-67f41c9e26a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물을 사랑하는 10인의 아티스트와 함께하는 기부 프로젝트 #LoveMIX]]></title>
-            <link>https://www.elle.co.kr/article/63308</link>
-            <guid>https://www.elle.co.kr/article/63308</guid>
-            <pubDate>Fri, 28 Jan 2022 05:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[믹스 매력 못 잃어! 아티스트10인과 함께 한 NFT 기부 프로젝트! Love, Mix!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/4cb98819-3592-4c97-8796-fc4edbe016d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

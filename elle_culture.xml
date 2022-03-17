@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 17:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 05:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 F/W 멘즈 컬렉션에서 생긴 일]]></title>
+            <link>https://www.elle.co.kr/article/64405</link>
+            <guid>https://www.elle.co.kr/article/64405</guid>
+            <pubDate>Thu, 17 Mar 2022 05:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[버질 아블로가 떠난 루이 비통, 겐조로 돌아온 니고, 영화를 방불케 했던 프라다 쇼 등 멘즈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/05/41be7648-832b-4738-b553-f0a32d5ba2d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“어떤 노래 들어요?” AOMG 쿠기의 플레이리스트]]></title>
             <link>https://www.elle.co.kr/article/64363</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 28 Feb 2022 17:43:59 GMT</pubDate>
             <content:encoded><![CDATA[근데 이제 신 들린 추월을 곁들인...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/17/9de5b7a4-22fd-49ed-8274-22087b711918.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠시 유쾌함 내려 놓은 곽윤기의 '마지막 올림픽' 선언이 동년배를 울리는 이유]]></title>
-            <link>https://www.elle.co.kr/article/63884</link>
-            <guid>https://www.elle.co.kr/article/63884</guid>
-            <pubDate>Mon, 28 Feb 2022 17:43:59 GMT</pubDate>
-            <content:encoded><![CDATA[곽윤기의 라스트 댄스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/16/923d8cbd-cbfe-4a3a-b381-388ad57e7578.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

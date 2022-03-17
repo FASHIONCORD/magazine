@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 17:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 05:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나 왜 울어? '여우주연상 7관왕' 나문희의 생애 첫 노래 무대가 던진 메시지]]></title>
+            <link>https://www.elle.co.kr/article/64638</link>
+            <guid>https://www.elle.co.kr/article/64638</guid>
+            <pubDate>Thu, 17 Mar 2022 05:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[82세에 느낀 첫 무대의 설렘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/8ee44b21-8ebf-4329-b2bb-ab9145caf323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[픽유어픽! 화이트데이와 가장 잘 어울리는 스타화보를 픽해주세요.]]></title>
+            <link>https://www.elle.co.kr/article/64566</link>
+            <guid>https://www.elle.co.kr/article/64566</guid>
+            <pubDate>Thu, 17 Mar 2022 05:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[블랙핑크 제니, 김태리, 신민아, 손나은, 프로미스나인 백지헌 중 당신의 픽은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/fa541635-4a0a-45ff-a032-aa166f2d9169.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[봄 쇼핑 참고각! 스니커즈 10]]></title>
             <link>https://www.elle.co.kr/article/64594</link>
@@ -53,21 +69,6 @@
             <pubDate>Sun, 13 Mar 2022 05:56:04 GMT</pubDate>
             <content:encoded><![CDATA[자연스러운 민낯까지 아름다운 모델 곽지영이 촬영 후 집에 돌아와서 하는 스킨 케어 루틴. 이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/f995f2f4-1fcd-4731-996f-b3bae8da0feb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필사적인 힙합 비둘기? 누구 찍었는지 절대 알 수 없는 스타 대선 투표 인증샷 유형 3]]></title>
-            <link>https://www.elle.co.kr/article/64524</link>
-            <guid>https://www.elle.co.kr/article/64524</guid>
-            <pubDate>Sun, 13 Mar 2022 05:56:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/ac8be8a6-377b-4ee9-80e2-b84fdcc3788c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나도 없는 한국사 1급이 있다고?! 법적으로 한국 사랑 인정받은 스타들 4]]></title>
-            <link>https://www.elle.co.kr/article/64515</link>
-            <guid>https://www.elle.co.kr/article/64515</guid>
-            <pubDate>Sun, 13 Mar 2022 05:56:04 GMT</pubDate>
-            <content:encoded><![CDATA[귀화 했거나, 귀화 선언을 했거나, 영주권을 취득한 외국 출신 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/ea5b96ad-a225-4912-81bb-1fba43474947.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
