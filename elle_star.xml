@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 17:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수영 추천, 다이어트 한 그릇 레서피 2.]]></title>
+            <link>https://www.elle.co.kr/article/64673</link>
+            <guid>https://www.elle.co.kr/article/64673</guid>
+            <pubDate>Thu, 17 Mar 2022 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[다이어트의 적, 배달음식 대신 간단하게 만들 수 있는 한 그릇 레서피로 다이어트에 도전해 보...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/9ac84068-3b91-4e75-ba5c-3eb108b66a87.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사복장인 스타들이 선택한 봄 아우터 스타일링 7 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/64668</link>
+            <guid>https://www.elle.co.kr/article/64668</guid>
+            <pubDate>Thu, 17 Mar 2022 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[봄기운이 완연해진 요즘! 두터운 겨울 외투를 벗고 어떤 봄 아우터를 입어야 할지 고민이라면?...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/9c9c1b69-a98b-4db2-9d4c-1c8d2133ffaf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나 왜 울어? '여우주연상 7관왕' 나문희의 생애 첫 노래 무대가 던진 메시지]]></title>
             <link>https://www.elle.co.kr/article/64638</link>
@@ -53,22 +69,6 @@
             <pubDate>Wed, 16 Mar 2022 17:44:09 GMT</pubDate>
             <content:encoded><![CDATA['시맨틱 에러' 마지막화 공개 직후 입대.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/7e51db30-fa67-4d4e-aad1-c15baf25b1f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘르> 4월호 커버 스타에 등극한 정호연!]]></title>
-            <link>https://www.elle.co.kr/article/64557</link>
-            <guid>https://www.elle.co.kr/article/64557</guid>
-            <pubDate>Mon, 14 Mar 2022 17:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 배우 비주얼! 정호연 &lt;엘르&gt; 4월호 커버 장식]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/dbcf3024-8249-4133-93de-33655d8dafa2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀 피부 각! 톱 모델의 나이트 루틴]]></title>
-            <link>https://www.elle.co.kr/article/64530</link>
-            <guid>https://www.elle.co.kr/article/64530</guid>
-            <pubDate>Sun, 13 Mar 2022 05:56:04 GMT</pubDate>
-            <content:encoded><![CDATA[자연스러운 민낯까지 아름다운 모델 곽지영이 촬영 후 집에 돌아와서 하는 스킨 케어 루틴. 이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/f995f2f4-1fcd-4731-996f-b3bae8da0feb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
