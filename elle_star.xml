@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 17:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 05:47:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번엔 아시아 배우 최초! 이정재 크리틱스초이스 수상, 또 기대해 볼 만한 시상식은?]]></title>
+            <link>https://www.elle.co.kr/article/64687</link>
+            <guid>https://www.elle.co.kr/article/64687</guid>
+            <pubDate>Fri, 18 Mar 2022 05:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[연일 최초 기록을 올리고 있는 중.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/e28cc2f5-e1e2-47c6-b934-32d92e06e04f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수영 추천, 다이어트 한 그릇 레서피 2.]]></title>
             <link>https://www.elle.co.kr/article/64673</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 16 Mar 2022 17:44:09 GMT</pubDate>
             <content:encoded><![CDATA[부암동부터 한남동까지! 스타들이 다녀간 핫한 카페를 모아봤어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/13/a6d804c0-e533-49de-8f64-dffaa84f1ea5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴 알리자마자 당분간 못 본다고? 역주행 아이콘 '시맨틱 에러' 박서함이 입대 전 남긴 말]]></title>
-            <link>https://www.elle.co.kr/article/64567</link>
-            <guid>https://www.elle.co.kr/article/64567</guid>
-            <pubDate>Wed, 16 Mar 2022 17:44:09 GMT</pubDate>
-            <content:encoded><![CDATA['시맨틱 에러' 마지막화 공개 직후 입대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/7e51db30-fa67-4d4e-aad1-c15baf25b1f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
