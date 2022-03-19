@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 05:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 17:47:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/9c9c1b69-a98b-4db2-9d4c-1c8d2133ffaf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[칙칙한 얼굴에 생기 한 스푼, 봄날의 블러셔 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/64346</link>
+            <guid>https://www.elle.co.kr/article/64346</guid>
+            <pubDate>Sat, 19 Mar 2022 17:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[꽃잎에 물든 두 뺨.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/9526f5db-4acb-4f0e-9be9-c17700e776b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한 올 한 올 결을 살린 '브로 라미네이션' 간증 후기 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/64342</link>
             <guid>https://www.elle.co.kr/article/64342</guid>
@@ -1920,12 +1928,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/05/b8ae4d42-1e3f-459d-8bde-00da32f72b23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스칼렛 요한슨도 만들었다! 해외 셀럽들의 뷰티 브랜드 총정리.zip (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/64369</link>
-            <guid>https://www.elle.co.kr/article/64369</guid>
-            <pubDate>Thu, 10 Mar 2022 17:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[스칼렛 요한슨의 스킨케어 라인 론칭(UPDATE!)]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/0ac89d62-8153-4593-af55-79431e59b196.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[케미 인정! 김동욱, 김성규, 채정안의 <돼지의 왕> (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/64688</link>
+            <guid>https://www.elle.co.kr/article/64688</guid>
+            <pubDate>Sat, 19 Mar 2022 17:42:46 GMT</pubDate>
+            <content:encoded><![CDATA[3월 최고 기대작! #돼지의왕 의 삼인방이 뭉쳤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/db096f56-0274-4aa6-843c-9e1a63c116ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김나영이 추천하는 스니커즈 9 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/64701</link>
+            <guid>https://www.elle.co.kr/article/64701</guid>
+            <pubDate>Sat, 19 Mar 2022 05:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[봄맞이 스니커즈 쇼핑을 계획 중이라면 김나영이 강력 추천하는 클래식 스니커즈를 놓치지 마세요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/2f36043f-20fb-484d-8b95-2cfbb1fa5d89.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이번엔 아시아 배우 최초! 이정재 크리틱스초이스 수상, 또 기대해 볼 만한 시상식은? (엘르 코리아 ─ 스타)]]></title>
@@ -1974,21 +1990,6 @@
             <pubDate>Wed, 16 Mar 2022 17:44:09 GMT</pubDate>
             <content:encoded><![CDATA[발이 생명인 발레리나 윤혜진이 찐으로 애정 하는 스니커즈를 모아봤어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/13/af3f2cdf-9144-4399-a24c-6872fa7e7b71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["네 덕분에 모두가 더 꿈꿀 수 있게 됐어" 공통점 많은 동갑내기 절친 정호연X혜리 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/64593</link>
-            <guid>https://www.elle.co.kr/article/64593</guid>
-            <pubDate>Wed, 16 Mar 2022 17:44:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/13/5e8fbd78-7dc1-49b2-8695-c5e72b6f9078.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부암동 to 한남동! 셀럽이 다녀간 ‘힙’한 카페는 어디? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/64591</link>
-            <guid>https://www.elle.co.kr/article/64591</guid>
-            <pubDate>Wed, 16 Mar 2022 17:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[부암동부터 한남동까지! 스타들이 다녀간 핫한 카페를 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/13/a6d804c0-e533-49de-8f64-dffaa84f1ea5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 F/W 멘즈 컬렉션에서 생긴 일 (엘르 코리아 ─ 컬쳐)]]></title>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 05:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 17:47:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칙칙한 얼굴에 생기 한 스푼, 봄날의 블러셔]]></title>
+            <link>https://www.elle.co.kr/article/64346</link>
+            <guid>https://www.elle.co.kr/article/64346</guid>
+            <pubDate>Sat, 19 Mar 2022 17:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[꽃잎에 물든 두 뺨.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/9526f5db-4acb-4f0e-9be9-c17700e776b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 올 한 올 결을 살린 '브로 라미네이션' 간증 후기]]></title>
             <link>https://www.elle.co.kr/article/64342</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 10 Mar 2022 17:43:20 GMT</pubDate>
             <content:encoded><![CDATA[쉽게 번지고 뭉치는 메이크업은 그만! 안소희가 무쌍러들을 위한 메이크업을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/05/b8ae4d42-1e3f-459d-8bde-00da32f72b23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스칼렛 요한슨도 만들었다! 해외 셀럽들의 뷰티 브랜드 총정리.zip]]></title>
-            <link>https://www.elle.co.kr/article/64369</link>
-            <guid>https://www.elle.co.kr/article/64369</guid>
-            <pubDate>Thu, 10 Mar 2022 17:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[스칼렛 요한슨의 스킨케어 라인 론칭(UPDATE!)]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/0ac89d62-8153-4593-af55-79431e59b196.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
