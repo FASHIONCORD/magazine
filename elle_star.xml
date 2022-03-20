@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 17:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 05:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임신 후 더 사랑 뿜뿜? 원래부터 애정 넘치는 사랑꾼 부부들의 럽스타그램 4]]></title>
+            <link>https://www.elle.co.kr/article/64720</link>
+            <guid>https://www.elle.co.kr/article/64720</guid>
+            <pubDate>Sun, 20 Mar 2022 05:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[언제나 한결 같은 럽스타그래머들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/4199ef67-b1ad-46e5-9323-8114cf36bc11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케미 인정! 김동욱, 김성규, 채정안의 <돼지의 왕>]]></title>
             <link>https://www.elle.co.kr/article/64688</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 17 Mar 2022 05:41:39 GMT</pubDate>
             <content:encoded><![CDATA[블랙핑크 제니, 김태리, 신민아, 손나은, 프로미스나인 백지헌 중 당신의 픽은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/fa541635-4a0a-45ff-a032-aa166f2d9169.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 쇼핑 참고각! 스니커즈 10]]></title>
-            <link>https://www.elle.co.kr/article/64594</link>
-            <guid>https://www.elle.co.kr/article/64594</guid>
-            <pubDate>Wed, 16 Mar 2022 17:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[발이 생명인 발레리나 윤혜진이 찐으로 애정 하는 스니커즈를 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/13/af3f2cdf-9144-4399-a24c-6872fa7e7b71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
