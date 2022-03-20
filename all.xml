@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 05:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 17:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2368,6 +2368,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/1f95cc6a-d11a-4af5-b51c-67f41c9e26a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[눈 돌아가는 비주얼, 혀가 즐거운 달달함! 디저트 덕후들 소환하는 베이커리 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/64639</link>
+            <guid>https://www.elle.co.kr/article/64639</guid>
+            <pubDate>Sun, 20 Mar 2022 17:46:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/25ad6a6d-cc3c-4a8b-a979-0e9d47c34864.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부암동 to 한남동! 셀럽이 다녀간 ‘힙’한 카페는 어디? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/64591</link>
             <guid>https://www.elle.co.kr/article/64591</guid>
@@ -2420,14 +2427,6 @@
             <guid>https://www.elle.co.kr/article/64296</guid>
             <pubDate>Sun, 13 Mar 2022 05:58:43 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/02/73a5c728-345c-4288-98c2-01c1542952d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛있는 아인슈페너 맛보고 싶다면 ‘여기’! #아인슈페너맛집 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/64285</link>
-            <guid>https://www.elle.co.kr/article/64285</guid>
-            <pubDate>Tue, 08 Mar 2022 05:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[비엔나 커피로도 불리는 아인슈페너의 진정한 맛을 느껴보지 못했다면 ‘여기’부터 들러보세요! ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/01/366849e3-4205-43af-bee8-78c45072eafb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#엘르보이스 드라마 #서른아홉 이야기처럼, 40대의 우정은 또 다를까? 우정의 생애주기 (엘르 코리아 ─ 소사이어티)]]></title>
