@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 05:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 17:50:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공예가 윤여동의 #사적인취향]]></title>
+            <link>https://www.elle.co.kr/article/64352</link>
+            <guid>https://www.elle.co.kr/article/64352</guid>
+            <pubDate>Mon, 21 Mar 2022 17:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[호기심 어린 눈과 마음으로 세상을 바라보는 공예가 윤여동의 취향.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/05237e54-af07-4a6b-bb9e-a8b3fe979908.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구찌, 아키타이프, 꿈, 미래에 대한 미켈레와의 대담]]></title>
             <link>https://www.elle.co.kr/article/64679</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 28 Jan 2022 05:44:40 GMT</pubDate>
             <content:encoded><![CDATA[다라 하우스에서 무채색 아이템은 금지! 알록달록한 컬러가 기분 좋게 만드는 그녀의 집에 놀러...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/f4348884-1982-495d-84cb-107143d12e70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 아트 소장에 기부까지? 이건 못 참지! #러브믹스 #LoveMIX]]></title>
-            <link>https://www.elle.co.kr/article/63360</link>
-            <guid>https://www.elle.co.kr/article/63360</guid>
-            <pubDate>Fri, 28 Jan 2022 05:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[반려동물에 진심인 엘르와 아티스트 10인의 기부 프로젝트. 당신의 그림을 소장하세요]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/1f95cc6a-d11a-4af5-b51c-67f41c9e26a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
