@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 05:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 17:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정호연의 새 취미, 인터뷰? 팬 질문18's Q&A, Ask Me Anything]]></title>
+            <link>https://www.elle.co.kr/article/64811</link>
+            <guid>https://www.elle.co.kr/article/64811</guid>
+            <pubDate>Tue, 22 Mar 2022 17:48:20 GMT</pubDate>
+            <content:encoded><![CDATA['오징어게임' 정호연님이 새로운 취미 활동을 추가했습니다(+1) 18's Q&amp;A]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/8d97e2a0-483f-43a1-a883-1192c1bc7cde.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나 왜 울어? '여우주연상 7관왕' 나문희의 생애 첫 노래 무대가 던진 메시지]]></title>
             <link>https://www.elle.co.kr/article/64638</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 13 Jan 2022 17:54:49 GMT</pubDate>
             <content:encoded><![CDATA[라인업과 볼거리, 미장센, 뭐하나 빠지는 것 없는 두 편의 신작.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/14/4fb7e141-ab28-42a6-bc4c-4dcf33dfdc83.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[유재석이 이정재를 업어서 출근시켰다고? 군대 동기 두 사람이 풀어 놓은 30년 전 SSUL]]></title>
-            <link>https://www.elle.co.kr/article/62958</link>
-            <guid>https://www.elle.co.kr/article/62958</guid>
-            <pubDate>Thu, 13 Jan 2022 17:54:49 GMT</pubDate>
-            <content:encoded><![CDATA[1972년생 동갑내기인 유재석과 이정재가 '유 퀴즈 온 더 블럭'에서 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/13/c35ac05f-fd93-4d23-995d-06c71fa1abcf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

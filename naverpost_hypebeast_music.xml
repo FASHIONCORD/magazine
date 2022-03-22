@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 05:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 17:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서리가 직접 이야기하는 새 싱글 'Can't Stop This Party']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33494716&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33494716&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 22 Mar 2022 17:44:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjJfMjgz/MDAxNjQ3OTM0NTYzNTUw.zVXALhWiwQoYt1sYYfDQMeNRXWy45K-Xv3qQnFScWeAg.Bsw1hVicUSzzJci84MLWLHEFFWmiKi-QNy7I7ADoOiog.JPEG/I00rI44YmYiSIfJoANWOPI_28M3g.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘뽕’을 찾아낸 250이 알려주는 동묘 즐기는 법]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33488216&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MDJfMTM0/MDAxNjIyNjE4MjMyMzQ2.fFfuqWTNp8wOAbPyIOMCzEYnp57AN9SXh9fKgArfUFog.XHkNAr3_4zlPhy-ecMFRge9ZIgsvbOPu832M0EpTehEg.PNG/IhKKqkkcEWi3w-FP4324nmyI0OBE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울, 이태원 클럽 '소프 서울'이 잠시 문을 닫는다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31579762&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31579762&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjVfOTgg/MDAxNjIxOTMzNTMxOTM0.4uTl20qpX9WPlG0A8Fua4bYFNK6_70GOev40vo75kTcg.ukdLa9d3qreGJm3jkk9IP8XDBGP3FSIQmsBPZf0EGBQg.PNG/IcZfQTXVmuzl_7goE2pvNgJWDgq4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
