@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 17:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 05:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리 패션위크에서 찾은 특이한 뷰티 룩 5]]></title>
+            <link>https://www.elle.co.kr/article/64691</link>
+            <guid>https://www.elle.co.kr/article/64691</guid>
+            <pubDate>Wed, 23 Mar 2022 05:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[무언가를 그리고 칠한다는 관념을 깨버린 페이크 피어싱, 그리고 스티커 아이라이너!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/926f0f26-4681-4d17-9c31-ebdfb0d6668f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수영 추천, 다이어트 한 그릇 레서피 2.]]></title>
             <link>https://www.elle.co.kr/article/64673</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 15 Mar 2022 17:43:10 GMT</pubDate>
             <content:encoded><![CDATA[아이크림, 아직도 안 바르나요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/201f8c37-dec2-460f-aa35-0e8a92df7dfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트 데이 선물로 제격! 봄의 요정같은 플로럴 향수 7 _선배's 어드바이스 #107]]></title>
-            <link>https://www.elle.co.kr/article/64445</link>
-            <guid>https://www.elle.co.kr/article/64445</guid>
-            <pubDate>Fri, 11 Mar 2022 17:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[봄 하면 떠오르는 클래식부터 신제품까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/07/9f67ca12-0b12-43d6-8485-5d637737bc20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
