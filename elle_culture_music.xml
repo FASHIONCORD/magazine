@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 05:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 17:59:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4인조 빅뱅, 컴백 날짜 확정! YG 그만 둔다는 탑의 행보는?]]></title>
+            <link>https://www.elle.co.kr/article/64944</link>
+            <guid>https://www.elle.co.kr/article/64944</guid>
+            <pubDate>Thu, 24 Mar 2022 17:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[4인조로 하는 사실상 첫 활동.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/b3de5ec1-eac5-4e5b-b2fa-463c592bfe35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“어떤 노래 들어요?” AOMG 쿠기의 플레이리스트]]></title>
             <link>https://www.elle.co.kr/article/64363</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 03 Dec 2021 17:52:20 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대, 샤이니, f(x), 엑소, 레드벨벳, NCT의 이미지를 만든 인물.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/1fdeae7d-ca2e-4cc9-b04f-6a590b83410f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단이 디자이너 버질 아블로 사망에 각별한 애도를 전한 까닭]]></title>
-            <link>https://www.elle.co.kr/article/61623</link>
-            <guid>https://www.elle.co.kr/article/61623</guid>
-            <pubDate>Tue, 30 Nov 2021 17:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[생전 고인과 인연이 있던 방탄소년단.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/bbf449b2-d6c4-4de2-8cb3-a4fade90de82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
