@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 17:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정호연 그리고 캘빈클라인 진]]></title>
+            <link>https://www.elle.co.kr/article/64671</link>
+            <guid>https://www.elle.co.kr/article/64671</guid>
+            <pubDate>Thu, 24 Mar 2022 05:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[수식어는 따로 필요 없다. 전 세계가 주목하는 정호연과 변함없는 아름다움의 캘빈클라인 진이 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/3a7ecf41-5b44-4215-9f5d-dd00e36309ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손이가요 손이가 봄이되면 찾게되는 #블레이저 향연]]></title>
+            <link>https://www.elle.co.kr/article/64351</link>
+            <guid>https://www.elle.co.kr/article/64351</guid>
+            <pubDate>Thu, 24 Mar 2022 05:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[꾸민 듯 안꾸민 듯 '쿨'하게 걸치는 봄날의 블레이저.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/eb8cd028-2bd7-4a2f-9eeb-f4651517d1ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밑줄 쫙! 봄 날의 하이라이터]]></title>
+            <link>https://www.elle.co.kr/article/64779</link>
+            <guid>https://www.elle.co.kr/article/64779</guid>
+            <pubDate>Thu, 24 Mar 2022 05:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[에너지 드링크처럼 파워풀한 활력을 불어넣을 형광펜 컬러를 주목해야할 때.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/20/2976bcfe-b662-4f59-9dea-0d8b37c6c482.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄맞이 가방 대전]]></title>
             <link>https://www.elle.co.kr/article/64350</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 22 Mar 2022 17:44:58 GMT</pubDate>
             <content:encoded><![CDATA[알록달록하고 반짝거리는 장난감 같은 반지를 주렁주렁 레이어드하는 것이 유행!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/7f41d681-4de7-472d-91cd-9d281a7b38ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알렉산더 맥퀸 2022 A/W 컬렉션 공개!]]></title>
-            <link>https://www.elle.co.kr/article/64703</link>
-            <guid>https://www.elle.co.kr/article/64703</guid>
-            <pubDate>Tue, 22 Mar 2022 17:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[공동체로 강인하고 다채롭게 피어 난 알렉산더 맥퀸 2022 A/W 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/76021a6e-32dc-49df-adec-0fa648299d6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌드는 정말 가볍기만할까? 생활관측변화연구소와 캐릿이 말하다!]]></title>
-            <link>https://www.elle.co.kr/article/64735</link>
-            <guid>https://www.elle.co.kr/article/64735</guid>
-            <pubDate>Sat, 19 Mar 2022 05:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[MZ, 메타버스에 지친 당신을 위해 말한다. 진짜 전문가들이 말하는 지금 트렌드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/7118346b-11cc-4193-886a-ff6bdd0f1186.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두가 꿈꿔온 가장 보통의 학교를 찾아서 #지금우리학교는]]></title>
-            <link>https://www.elle.co.kr/article/64348</link>
-            <guid>https://www.elle.co.kr/article/64348</guid>
-            <pubDate>Sat, 19 Mar 2022 05:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[학교가 더 나은 사회적 장소일 때, 학생들은 더 큰 배움을 얻을 수 있을 것이다. 시끌벅적한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/aca6c5e9-e97a-4b13-af36-f0a2c50e2d59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
