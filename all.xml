@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 05:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 17:50:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1992,6 +1992,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/4e819ec1-6521-4d79-8cfa-34078ab81c48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공예가 윤여동의 #사적인취향 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/64352</link>
+            <guid>https://www.elle.co.kr/article/64352</guid>
+            <pubDate>Mon, 21 Mar 2022 17:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[호기심 어린 눈과 마음으로 세상을 바라보는 공예가 윤여동의 취향.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/05237e54-af07-4a6b-bb9e-a8b3fe979908.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정호연의 새 취미, 인터뷰? 팬 질문18's Q&A, Ask Me Anything (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/64811</link>
             <guid>https://www.elle.co.kr/article/64811</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 04 Mar 2022 17:47:14 GMT</pubDate>
             <content:encoded><![CDATA[버질 아블로가 떠난 루이 비통, 겐조로 돌아온 니고, 영화를 방불케 했던 프라다 쇼 등 멘즈...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/05/41be7648-832b-4738-b553-f0a32d5ba2d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“어떤 노래 들어요?” AOMG 쿠기의 플레이리스트 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/64363</link>
-            <guid>https://www.elle.co.kr/article/64363</guid>
-            <pubDate>Fri, 04 Mar 2022 05:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[쿠기 피셜 산책 &amp; 운동할 때 듣기 좋은 음악 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/03/e110219d-c84c-4379-97ce-87355e5095d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4인조 빅뱅, 컴백 날짜 확정! YG 그만 둔다는 탑의 행보는? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -2163,7 +2163,7 @@
             <title><![CDATA[벌써 반응 난리 난 애플TV+ '파친코', 보기 전에 알아야 할 '자이니치'의 역사 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/64938</link>
             <guid>https://www.elle.co.kr/article/64938</guid>
-            <pubDate>Fri, 25 Mar 2022 05:44:10 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 05:42:37 GMT</pubDate>
             <content:encoded><![CDATA[애플TV+에 반등의 기회가 될까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/fb7b84d8-6d38-4801-a599-fd334b244592.jpg" length="0" type="image/jpg"/>
         </item>
@@ -2264,6 +2264,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/6dd0c650-7c5f-4aa0-ad01-0966170c9238.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사랑에 대한 이야기가 담긴 전시 '어쨌든, 사랑' (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/64991</link>
+            <guid>https://www.elle.co.kr/article/64991</guid>
+            <pubDate>Fri, 25 Mar 2022 17:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[23명의 글로벌 아티스트가 담은 사랑에 대한 이야기가 갤러리 페로탕 서울에서 펼쳐진다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/26/e5e0c03e-9367-4f4b-9aa3-f6e77e9991b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 크리에이터 그룹 '미지'의 세상 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/64942</link>
+            <guid>https://www.elle.co.kr/article/64942</guid>
+            <pubDate>Fri, 25 Mar 2022 17:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[픽셀 아트와 모노크롬 컴퓨터그래픽을 기반으로 다채로운 콘텐츠를 만들어내는 그룹 미지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/648d3272-3135-41e3-87dc-62a63e532584.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[작가 정그림이 그린 순간 #보테가베네타PICK (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/64855</link>
             <guid>https://www.elle.co.kr/article/64855</guid>
@@ -2350,22 +2366,6 @@
             <pubDate>Mon, 31 Jan 2022 17:47:14 GMT</pubDate>
             <content:encoded><![CDATA[뮤지션 오지은·성진환 네 가족의 정체가 궁금해? 세상에서 가장 완벽한 사각형.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/73283ec3-6b96-4069-89d3-d987693ed795.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10만 원 이하, 센스있는 설 선물 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/63471</link>
-            <guid>https://www.elle.co.kr/article/63471</guid>
-            <pubDate>Sun, 30 Jan 2022 05:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[설 선물 고민 중이라면 주목! 10만 원 이하로 살 수 있는 감각적이고 실용적인 설 선물 리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/29/5a95bac1-3ce5-46bc-9e9e-03e41490d049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90년대생 작가 6인의 지금으로 보는 '유연한 경계들' #인싸 전시_43 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/63419</link>
-            <guid>https://www.elle.co.kr/article/63419</guid>
-            <pubDate>Fri, 28 Jan 2022 05:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[가장 뜨거운 젊은 작가들의 작품 세계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/28/c6241aff-d51a-4c6a-a311-9996ba50d8b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호로록! 찰진 면발이 땡길 때. 스타들이 다녀간 누들 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
