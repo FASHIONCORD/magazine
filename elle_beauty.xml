@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 17:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:46:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떻게 다를까? ‘사내맞선’ 김세정의 신하리 VS 신금희 메이크업]]></title>
+            <link>https://www.elle.co.kr/article/64749</link>
+            <guid>https://www.elle.co.kr/article/64749</guid>
+            <pubDate>Fri, 25 Mar 2022 05:41:55 GMT</pubDate>
+            <content:encoded><![CDATA[김세정 담당 메이크업 아티스트에게 직접 물어봄!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/6df81f96-7c8f-47c0-8fed-f3a9d6d868f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핸드크림 필요하죠? 이중에 골라봐]]></title>
             <link>https://www.elle.co.kr/article/64347</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 16 Mar 2022 17:43:57 GMT</pubDate>
             <content:encoded><![CDATA[건강한 몸을 위한 방송인 최은경의 초간단 다이어트!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/87269123-00fb-4424-acfb-7c5e2f78d3c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘도 자가진단했니?_몸에 좋은 잔소리 #39]]></title>
-            <link>https://www.elle.co.kr/article/64473</link>
-            <guid>https://www.elle.co.kr/article/64473</guid>
-            <pubDate>Wed, 16 Mar 2022 05:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[코시국의 흔한 일상이 되어버린 ‘자가 검사’에 대한 궁금증들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/08/921395ff-cd6e-4814-9616-ef7f94370979.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
