@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 17:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 05:43:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퇴근하고 하이볼 한잔!]]></title>
+            <link>https://www.elle.co.kr/article/64819</link>
+            <guid>https://www.elle.co.kr/article/64819</guid>
+            <pubDate>Sat, 26 Mar 2022 05:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[하루의 피로를 날려줄 술 한잔이 필요하다면 하이볼 어때요? ‘술알못’도 위스키를 가볍게 즐길...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/85f34a02-bfde-4e6c-81b0-941b6cf65b2f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호로록! 찰진 면발이 땡길 때. 스타들이 다녀간 누들 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/64800</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/64639</guid>
             <pubDate>Sun, 20 Mar 2022 17:46:47 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/25ad6a6d-cc3c-4a8b-a979-0e9d47c34864.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부암동 to 한남동! 셀럽이 다녀간 ‘힙’한 카페는 어디?]]></title>
-            <link>https://www.elle.co.kr/article/64591</link>
-            <guid>https://www.elle.co.kr/article/64591</guid>
-            <pubDate>Sat, 19 Mar 2022 05:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[부암동부터 한남동까지! 스타들이 다녀간 핫한 카페를 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/13/a6d804c0-e533-49de-8f64-dffaa84f1ea5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
