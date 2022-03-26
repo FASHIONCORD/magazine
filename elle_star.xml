@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 05:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 17:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비스포크 파라다이스를 찾은 아이키]]></title>
+            <link>https://www.elle.co.kr/article/64721</link>
+            <guid>https://www.elle.co.kr/article/64721</guid>
+            <pubDate>Sat, 26 Mar 2022 17:42:55 GMT</pubDate>
+            <content:encoded><![CDATA["지금 인생이 몰래카메라에 찍히는 기분이에요"라고 말하는 아이키의 지금과 미래, 로망 가전에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/8756e94e-dd7c-47bb-9770-b9bc7ada2f39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이토록 다른 인프피들? 세라믹 브랜드 대표와 워킹맘 에디터! #타인의 삶 #INFP]]></title>
+            <link>https://www.elle.co.kr/article/64947</link>
+            <guid>https://www.elle.co.kr/article/64947</guid>
+            <pubDate>Sat, 26 Mar 2022 17:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[엘르 에디터 이경진과 세라믹 브랜드 '이악'의 대표 전현지가 서로에게 궁금한 것을 물었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/cac087da-a51f-4ab4-a973-083971f927a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일 새로운 기록을 세우는 그녀, 정호연]]></title>
             <link>https://www.elle.co.kr/article/64948</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 24 Mar 2022 17:53:45 GMT</pubDate>
             <content:encoded><![CDATA[영화로 만들면 무조건 대박 날 스토리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/80ef33e1-a586-4468-b740-d5eab08b549d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풋풋한 청춘 케미! '스물다섯 스물하나' 김태리 VS 보나 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/64885</link>
-            <guid>https://www.elle.co.kr/article/64885</guid>
-            <pubDate>Thu, 24 Mar 2022 17:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[설렘 폭발! 청춘들의 청량 로맨스 드라마 '스물다섯 스물하나'를 이끄는 김태리와 보나의 드라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/8a0f060e-7da2-46e5-95dd-0288e3cf6dae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[91년생 CEO와 91년생 에디터, 우리의 공통점은? #타인의삶]]></title>
-            <link>https://www.elle.co.kr/article/64353</link>
-            <guid>https://www.elle.co.kr/article/64353</guid>
-            <pubDate>Thu, 24 Mar 2022 17:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[91년생 엘르 에디터 전혜진과 춘천 감자빵을 탄생시킨 CEO 이미소가 서로에 관해 물었다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/a1f1fb6f-d1e7-4338-ac56-71882977e51d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
