@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 05:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 17:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 뷰티 트렌드]]></title>
+            <link>https://www.elle.co.kr/article/64841</link>
+            <guid>https://www.elle.co.kr/article/64841</guid>
+            <pubDate>Sun, 27 Mar 2022 17:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[뷰티 업계 전문가들과 네타포르테(NET-A-PORTER)가 전망한 올해의 뷰티 트렌드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/4792c42b-5fda-49dc-84c4-65871339e68c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모델 루틴? 나이트 케어 꿀팁 방출]]></title>
+            <link>https://www.elle.co.kr/article/64778</link>
+            <guid>https://www.elle.co.kr/article/64778</guid>
+            <pubDate>Sun, 27 Mar 2022 17:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[모델의 피부 관리법이 궁금하다면? 곽지영이 알려주는 스킨케어 루틴을 살펴 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/19/831f63c3-1510-4e79-b40a-d09b08c3e429.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어떻게 다를까? ‘사내맞선’ 김세정의 신하리 VS 신금희 메이크업]]></title>
             <link>https://www.elle.co.kr/article/64749</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 18 Mar 2022 05:41:27 GMT</pubDate>
             <content:encoded><![CDATA[눈썹펌을 이제 집에서 할 수 있다고? SNS에서 핫한 브로라미네이션 제품을 에디터가 직접 체...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/dc61a1f8-fde7-4729-9fc9-e6ef5464d154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀 피부 각! 톱 모델의 나이트 루틴]]></title>
-            <link>https://www.elle.co.kr/article/64530</link>
-            <guid>https://www.elle.co.kr/article/64530</guid>
-            <pubDate>Wed, 16 Mar 2022 17:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[자연스러운 민낯까지 아름다운 모델 곽지영이 촬영 후 집에 돌아와서 하는 스킨 케어 루틴. 이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/f995f2f4-1fcd-4731-996f-b3bae8da0feb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딱 일주일만! No 화이트 푸드  다이어트 식단]]></title>
-            <link>https://www.elle.co.kr/article/64526</link>
-            <guid>https://www.elle.co.kr/article/64526</guid>
-            <pubDate>Wed, 16 Mar 2022 17:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 몸을 위한 방송인 최은경의 초간단 다이어트!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/87269123-00fb-4424-acfb-7c5e2f78d3c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

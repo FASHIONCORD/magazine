@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 05:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 17:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이코닉한 라운지 체어와 패션의 기이한 만남]]></title>
+            <link>https://www.elle.co.kr/article/64982</link>
+            <guid>https://www.elle.co.kr/article/64982</guid>
+            <pubDate>Sun, 27 Mar 2022 17:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[제각기 다른 생김새의 시대를 대표하는 체어들과 닮은 패션 아이템들이 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/6b075973-cc41-4744-ae8f-aaa25ecf4686.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간을 초월한 가치]]></title>
+            <link>https://www.elle.co.kr/article/64797</link>
+            <guid>https://www.elle.co.kr/article/64797</guid>
+            <pubDate>Sun, 27 Mar 2022 17:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 꿈꾸는 궁극의 클래식. 몽블랑의 마이스터스튁 레더 컬렉션과 함께하는 새로운 시대의 클...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/cfef8e1f-6377-4430-89e7-59266520bf10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄이 오면 크롭트 톱을 입겠어요]]></title>
+            <link>https://www.elle.co.kr/article/64354</link>
+            <guid>https://www.elle.co.kr/article/64354</guid>
+            <pubDate>Sun, 27 Mar 2022 17:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[크롭트 톱에 주목할 때! 소매 길이도 디자인도 각기 다른 크롭트 톱들을 만나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/44dce6ca-8382-4263-8a96-7cf31d801b8a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풋풋한 청춘 케미! '스물다섯 스물하나' 김태리 VS 보나 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/64885</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 24 Mar 2022 05:40:20 GMT</pubDate>
             <content:encoded><![CDATA[꾸민 듯 안꾸민 듯 '쿨'하게 걸치는 봄날의 블레이저.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/eb8cd028-2bd7-4a2f-9eeb-f4651517d1ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밑줄 쫙! 봄 날의 하이라이터]]></title>
-            <link>https://www.elle.co.kr/article/64779</link>
-            <guid>https://www.elle.co.kr/article/64779</guid>
-            <pubDate>Thu, 24 Mar 2022 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[에너지 드링크처럼 파워풀한 활력을 불어넣을 형광펜 컬러를 주목해야할 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/20/2976bcfe-b662-4f59-9dea-0d8b37c6c482.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄맞이 가방 대전]]></title>
-            <link>https://www.elle.co.kr/article/64350</link>
-            <guid>https://www.elle.co.kr/article/64350</guid>
-            <pubDate>Tue, 22 Mar 2022 17:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[클래식부터 캐주얼까지. 뉴 시즌의 머스트 해브 백.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/20/17f3bc91-41d1-4d43-80fb-5b180105a2da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 가을겨울 컬렉션 미리보기! #파리]]></title>
-            <link>https://www.elle.co.kr/article/64774</link>
-            <guid>https://www.elle.co.kr/article/64774</guid>
-            <pubDate>Tue, 22 Mar 2022 17:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[파리 컬렉션으로 미리 들여다보는 2022 가을&amp;겨울 트렌드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/19/8c1e9ad4-1d64-412b-b98c-8dcdc9c0b4b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

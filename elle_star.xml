@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 05:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 17:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 3남매 같은 훈훈한 케미! #이민기 #김지원 #이엘]]></title>
+            <link>https://www.elle.co.kr/article/64939</link>
+            <guid>https://www.elle.co.kr/article/64939</guid>
+            <pubDate>Sun, 27 Mar 2022 17:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[인생작 메이커들이 뭉친 기대작! 드라마 &lt;나의 해방일지&gt; 속 세 배우 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/51095676-102f-4b48-a4bf-fa5dcd5eaa85.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비스포크 파라다이스를 찾은 아이키]]></title>
             <link>https://www.elle.co.kr/article/64721</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 24 Mar 2022 17:53:45 GMT</pubDate>
             <content:encoded><![CDATA[아직도 세계를 논쟁하게 하는 무거운 주제.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/30e35c92-d7ed-413f-93d2-ec0d360f7def.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 국민 사위 된 구준엽, 연애부터 결혼까지 20년 동안의 우여곡절 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/64890</link>
-            <guid>https://www.elle.co.kr/article/64890</guid>
-            <pubDate>Thu, 24 Mar 2022 17:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[영화로 만들면 무조건 대박 날 스토리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/80ef33e1-a586-4468-b740-d5eab08b549d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
