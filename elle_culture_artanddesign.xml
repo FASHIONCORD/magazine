@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 17:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[elle acc_COVER STORY]]></title>
+            <link>https://www.elle.co.kr/article/65081</link>
+            <guid>https://www.elle.co.kr/article/65081</guid>
+            <pubDate>Tue, 29 Mar 2022 17:48:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/528e5b3f-ef04-4883-ad77-fde8685b7eb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑에 대한 이야기가 담긴 전시 '어쨌든, 사랑']]></title>
             <link>https://www.elle.co.kr/article/64991</link>
@@ -102,14 +109,6 @@
             <pubDate>Mon, 31 Jan 2022 17:47:14 GMT</pubDate>
             <content:encoded><![CDATA[책 수선가'라는 낯설고도 고유한 이름. 재영이 &lt;어느 책 수선가의 기록&gt; 전시를 펼친 이유....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/01/984d9333-eb57-40da-a6bb-de72a23b4e59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서로 다른 네 생명체가 완벽한 가족이 되는 법 #LoveMIX]]></title>
-            <link>https://www.elle.co.kr/article/63483</link>
-            <guid>https://www.elle.co.kr/article/63483</guid>
-            <pubDate>Mon, 31 Jan 2022 17:47:14 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지션 오지은·성진환 네 가족의 정체가 궁금해? 세상에서 가장 완벽한 사각형.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/31/73283ec3-6b96-4069-89d3-d987693ed795.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
