@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 05:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 17:49:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공통점 많은 '95즈' 블랙핑크 지수X우주소녀 보나, 서로를 '쌈지'라 부르는 이유는?]]></title>
+            <link>https://www.elle.co.kr/article/65007</link>
+            <guid>https://www.elle.co.kr/article/65007</guid>
+            <pubDate>Wed, 30 Mar 2022 17:44:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/27/ed07c106-9b7f-4b06-8a2a-8206710004cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅히트 뮤직 최초의 여성 프로듀서가 싱어송라이터로 변신한 이유]]></title>
+            <link>https://www.elle.co.kr/article/65004</link>
+            <guid>https://www.elle.co.kr/article/65004</guid>
+            <pubDate>Wed, 30 Mar 2022 17:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[두 번째 디지털 싱글로 컴백한 아도라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/27/503745cd-f76c-4fba-9879-67a33bb2939c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#2521 그들이 소환한 90년대 패션 아이템]]></title>
             <link>https://www.elle.co.kr/article/64999</link>
@@ -53,22 +68,6 @@
             <pubDate>Sat, 26 Mar 2022 17:42:55 GMT</pubDate>
             <content:encoded><![CDATA[엘르 에디터 이경진과 세라믹 브랜드 '이악'의 대표 전현지가 서로에게 궁금한 것을 물었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/cac087da-a51f-4ab4-a973-083971f927a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일 새로운 기록을 세우는 그녀, 정호연]]></title>
-            <link>https://www.elle.co.kr/article/64948</link>
-            <guid>https://www.elle.co.kr/article/64948</guid>
-            <pubDate>Sat, 26 Mar 2022 05:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[LA로 떠나기 전에 만난 정호연은 미국에 가면 ‘인앤아웃 버거’를 먹고 싶다 했다. 몇 주 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/97044675-f97d-4ff4-8415-6f03a14b8209.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4인조 빅뱅, 컴백 날짜 확정! YG 그만 둔다는 탑의 행보는?]]></title>
-            <link>https://www.elle.co.kr/article/64944</link>
-            <guid>https://www.elle.co.kr/article/64944</guid>
-            <pubDate>Sat, 26 Mar 2022 05:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[4인조로 하는 사실상 첫 활동.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/b3de5ec1-eac5-4e5b-b2fa-463c592bfe35.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
