@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 17:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 05:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비스포크 파라다이스를 찾은 아이키]]></title>
+            <link>https://www.elle.co.kr/article/64721</link>
+            <guid>https://www.elle.co.kr/article/64721</guid>
+            <pubDate>Wed, 30 Mar 2022 05:48:07 GMT</pubDate>
+            <content:encoded><![CDATA["지금 인생이 몰래카메라에 찍히는 기분이에요"라고 말하는 아이키의 지금과 미래, 로망 가전에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/8756e94e-dd7c-47bb-9770-b9bc7ada2f39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤승아가 다이어트 할 때 직접 사먹은 것들]]></title>
             <link>https://www.elle.co.kr/article/64856</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 23 Mar 2022 05:46:07 GMT</pubDate>
             <content:encoded><![CDATA[폭스바겐 역사상 가장 아름다운 세단, 아테온과 두 무용수의 만남.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/d1d23d2d-4368-4f27-8181-347738932f4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수영 추천, 다이어트 한 그릇 레서피 2.]]></title>
-            <link>https://www.elle.co.kr/article/64673</link>
-            <guid>https://www.elle.co.kr/article/64673</guid>
-            <pubDate>Wed, 23 Mar 2022 05:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트의 적, 배달음식 대신 간단하게 만들 수 있는 한 그릇 레서피로 다이어트에 도전해 보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/9ac84068-3b91-4e75-ba5c-3eb108b66a87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
