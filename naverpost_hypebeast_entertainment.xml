@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 05:47:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 17:50:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['집콕'하면서 몰아보기 좋은, 넷플릭스 신작 추천 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33535161&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33535161&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 31 Mar 2022 17:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjlfODEg/MDAxNjQ4NTQzMTA0NDAz.sDwESDZUJEdfbziUfJERh6f-R4ybWESPU09UlgSfaYQg.Bnbz1Ol4QcWR6PTA9MdS_ZOSyfOn5SzVCDb1NrC-Tb8g.JPEG/I4INp1syP73UcdprSYvJTAjaar9s.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘파친코’ 인터뷰: 애플이 그려낸 한국 역사와 가족의 연대기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33535050&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 10 Nov 2021 05:48:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfODIg/MDAxNjM2NDMwMDUyNDI4.Zfu4ERo5GaeuvIuLDdBJ5jNHaiR1VESYHbzwSb02ON8g.un98RYeF9JuO2EsWUYgW6tVb1VBZv71kiitGFpMSJ0kg.JPEG/Idj-NU685jyPH3ATbcKOto5Y1C5k.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<귀멸의 칼날>만 기다리지 말고 봐야 할 애니메이션 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32673635&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32673635&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 03 Nov 2021 05:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDJfMTAz/MDAxNjM1ODQzNjcyOTk3.zNsyMokPzfs3ZRLMYBIAzFYL6WnIacXPMqblRptd36Qg.4cQMXt3obV39TzMRfMdoBK7zluj9SN-7RV4y8M4CQMcg.JPEG/I3gciTL0-2SH6YYduUW-p5jKV8-Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
