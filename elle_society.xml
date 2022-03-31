@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 17:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 05:47:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세계 최고 미남' 알랭 들롱이 안락사를 결정했다]]></title>
+            <link>https://www.elle.co.kr/article/64893</link>
+            <guid>https://www.elle.co.kr/article/64893</guid>
+            <pubDate>Thu, 31 Mar 2022 05:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[아직도 세계를 논쟁하게 하는 무거운 주제.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/30e35c92-d7ed-413f-93d2-ec0d360f7def.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 먹고 잘사는 여자, 170만 요리 크리에이터 최은서 #젠Z식노트_2]]></title>
+            <link>https://www.elle.co.kr/article/64766</link>
+            <guid>https://www.elle.co.kr/article/64766</guid>
+            <pubDate>Thu, 31 Mar 2022 05:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[요리하고, 먹고, 이야기할 때 더 빛나는 사람. '두비두밥' 최은서가 좋아하는 일로 잘 먹고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/23549fd0-14ce-4c4b-b646-11c1980c915e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판다가 되어도 괜찮아_요주의여성 #51]]></title>
             <link>https://www.elle.co.kr/article/64764</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 18 Mar 2022 17:50:27 GMT</pubDate>
             <content:encoded><![CDATA[요즘 서류에 MBTI 유형 물어보는 회사도 있다던데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/29eee3d1-9f72-4894-a6c1-67e7956fbdf0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#엘르보이스 내가 나의 팬이 되어주기!! #정지음 작가가 유튜브를 시작하며 깨달은 것]]></title>
-            <link>https://www.elle.co.kr/article/64579</link>
-            <guid>https://www.elle.co.kr/article/64579</guid>
-            <pubDate>Thu, 17 Mar 2022 17:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[원래 내 얼굴 보는 게 제일 재밌지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/6db9c6bd-81a3-4095-be35-26e15072139b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁의 한복판에서, 그가 잡지를 만드는 이유: ELLE 우크라이나 편집장의 편지]]></title>
-            <link>https://www.elle.co.kr/article/64577</link>
-            <guid>https://www.elle.co.kr/article/64577</guid>
-            <pubDate>Wed, 16 Mar 2022 17:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[우리 삶에 필요치 않았던 단어들이 일상 속으로 들어 오고야 마는 끔찍한 경험들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/518b8441-a02d-4106-91f9-a8d9ff93a16e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

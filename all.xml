@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 17:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 05:47:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/8a0f060e-7da2-46e5-95dd-0288e3cf6dae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오락가락 봄날에도 철벽, 들뜨지 않는 메이크업 꿀팁_선배's 어드바이스 #110 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/65021</link>
+            <guid>https://www.elle.co.kr/article/65021</guid>
+            <pubDate>Thu, 31 Mar 2022 05:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[피지와 각질로 무너지기 쉬운 봄 베이스 메이크업 사수하기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/28/b321b489-4572-4620-bd02-962744fb3dc1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[눈가에 흩뿌린 팝 컬러 플레이 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/65009</link>
             <guid>https://www.elle.co.kr/article/65009</guid>
@@ -1918,14 +1926,6 @@
             <pubDate>Sun, 27 Mar 2022 17:42:16 GMT</pubDate>
             <content:encoded><![CDATA[모델의 피부 관리법이 궁금하다면? 곽지영이 알려주는 스킨케어 루틴을 살펴 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/19/831f63c3-1510-4e79-b40a-d09b08c3e429.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떻게 다를까? ‘사내맞선’ 김세정의 신하리 VS 신금희 메이크업 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/64749</link>
-            <guid>https://www.elle.co.kr/article/64749</guid>
-            <pubDate>Fri, 25 Mar 2022 05:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[김세정 담당 메이크업 아티스트에게 직접 물어봄!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/18/6df81f96-7c8f-47c0-8fed-f3a9d6d868f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공통점 많은 '95즈' 블랙핑크 지수X우주소녀 보나, 서로를 '쌈지'라 부르는 이유는? (엘르 코리아 ─ 스타)]]></title>
@@ -2429,6 +2429,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/d1d23d2d-4368-4f27-8181-347738932f4c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['세계 최고 미남' 알랭 들롱이 안락사를 결정했다 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/64893</link>
+            <guid>https://www.elle.co.kr/article/64893</guid>
+            <pubDate>Thu, 31 Mar 2022 05:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[아직도 세계를 논쟁하게 하는 무거운 주제.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/30e35c92-d7ed-413f-93d2-ec0d360f7def.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 먹고 잘사는 여자, 170만 요리 크리에이터 최은서 #젠Z식노트_2 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/64766</link>
+            <guid>https://www.elle.co.kr/article/64766</guid>
+            <pubDate>Tue, 22 Mar 2022 05:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[요리하고, 먹고, 이야기할 때 더 빛나는 사람. '두비두밥' 최은서가 좋아하는 일로 잘 먹고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/23549fd0-14ce-4c4b-b646-11c1980c915e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[판다가 되어도 괜찮아_요주의여성 #51 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/64764</link>
             <guid>https://www.elle.co.kr/article/64764</guid>
@@ -2475,22 +2491,6 @@
             <pubDate>Fri, 18 Mar 2022 17:50:27 GMT</pubDate>
             <content:encoded><![CDATA[요즘 서류에 MBTI 유형 물어보는 회사도 있다던데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/29eee3d1-9f72-4894-a6c1-67e7956fbdf0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#엘르보이스 내가 나의 팬이 되어주기!! #정지음 작가가 유튜브를 시작하며 깨달은 것 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/64579</link>
-            <guid>https://www.elle.co.kr/article/64579</guid>
-            <pubDate>Thu, 17 Mar 2022 17:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[원래 내 얼굴 보는 게 제일 재밌지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/6db9c6bd-81a3-4095-be35-26e15072139b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁의 한복판에서, 그가 잡지를 만드는 이유: ELLE 우크라이나 편집장의 편지 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/64577</link>
-            <guid>https://www.elle.co.kr/article/64577</guid>
-            <pubDate>Wed, 16 Mar 2022 17:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[우리 삶에 필요치 않았던 단어들이 일상 속으로 들어 오고야 마는 끔찍한 경험들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/518b8441-a02d-4106-91f9-a8d9ff93a16e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
