@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 17:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 05:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘군검사 도베르만’ 시청률의 비밀]]></title>
+            <link>https://www.elle.co.kr/article/65198</link>
+            <guid>https://www.elle.co.kr/article/65198</guid>
+            <pubDate>Sat, 02 Apr 2022 05:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[최고&nbsp;시청률을 10.6%&nbsp;경신한 드라마 ‘군검사 도베르만’의 킬링 포인트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/ec44bc77-09be-406f-a175-d2479cae8ca5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벌써 반응 난리 난 애플TV+ '파친코', 보기 전에 알아야 할 '자이니치'의 역사]]></title>
             <link>https://www.elle.co.kr/article/64938</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 27 Jan 2022 17:48:15 GMT</pubDate>
             <content:encoded><![CDATA[얼굴만 훈훈한 게 아니고요...?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/27/2918bab3-a721-4809-9497-d9fa206ff880.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엠마 스톤이 헤어진 지 6년 된 앤드류 가필드에게 화를 낸 이유는 납득이 된다 (feat. 스포일러)]]></title>
-            <link>https://www.elle.co.kr/article/63334</link>
-            <guid>https://www.elle.co.kr/article/63334</guid>
-            <pubDate>Wed, 26 Jan 2022 17:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[2010년대를 풍미한 패셔니스타 커플.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202201/26/6dd0c650-7c5f-4aa0-ad01-0966170c9238.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
