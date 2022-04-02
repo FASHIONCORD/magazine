@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 17:48:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다 큰 어른들이 포켓몬 스티커에 왜 그렇게 열광하지?_돈쓸신잡 #38]]></title>
+            <link>https://www.elle.co.kr/article/64922</link>
+            <guid>https://www.elle.co.kr/article/64922</guid>
+            <pubDate>Sat, 02 Apr 2022 17:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[유년 시절에 포켓몬 스티커를 모은 추억이 없는 Z세대 역시 이 신드롬에 합류했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/7f9403b6-5bf0-4a88-9ff5-0e5042909175.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['희녹(hinok)'을 만든 사람]]></title>
+            <link>https://www.elle.co.kr/article/64911</link>
+            <guid>https://www.elle.co.kr/article/64911</guid>
+            <pubDate>Sat, 02 Apr 2022 17:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[환경과 아름다움의 밸런스, 거기에 현실적인 노력이 더해져야 진정한 지속가능성이라 생각한다는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/f807dcd1-237b-471f-8451-a8e0f4282038.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세계 최고 미남' 알랭 들롱이 안락사를 결정했다]]></title>
             <link>https://www.elle.co.kr/article/64893</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 24 Mar 2022 05:46:46 GMT</pubDate>
             <content:encoded><![CDATA[절망하지 말아요. 멈추지 말아요. 보란 듯이 펄펄하게 존재하는 ‘제이로’처럼]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/14/ac1267ab-184c-42f6-98ee-ad167efabb86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#엘르보이스 드라마 #서른아홉 이야기처럼, 40대의 우정은 또 다를까? 우정의 생애주기]]></title>
-            <link>https://www.elle.co.kr/article/64595</link>
-            <guid>https://www.elle.co.kr/article/64595</guid>
-            <pubDate>Fri, 18 Mar 2022 17:50:27 GMT</pubDate>
-            <content:encoded><![CDATA[여자들의 우정, 그 생명력에 대하여]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/4340a860-de4b-4d6d-a900-c1dc6c27749c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#엘르보이스 일 잘하는 MBTI 유형이 따로 있다? 그래서 ENFP 는 어때]]></title>
-            <link>https://www.elle.co.kr/article/64343</link>
-            <guid>https://www.elle.co.kr/article/64343</guid>
-            <pubDate>Fri, 18 Mar 2022 17:50:27 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 서류에 MBTI 유형 물어보는 회사도 있다던데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/29eee3d1-9f72-4894-a6c1-67e7956fbdf0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
