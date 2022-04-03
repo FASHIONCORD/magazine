@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 05:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 17:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1991,6 +1991,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/993daf91-a231-433f-8ab3-09f6eb1f4021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[작가 정그림이 그린 순간 #보테가베네타PICK (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/64855</link>
+            <guid>https://www.elle.co.kr/article/64855</guid>
+            <pubDate>Tue, 22 Mar 2022 17:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[유연하고 강인한 고무 튜브로 공간에 그림을 그린다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/d1588b89-fb0e-4d34-b5dc-028ff83d3d11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[공예가 윤여동의 #사적인취향 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/64352</link>
             <guid>https://www.elle.co.kr/article/64352</guid>
@@ -2045,14 +2053,6 @@
             <pubDate>Wed, 09 Mar 2022 05:43:38 GMT</pubDate>
             <content:encoded><![CDATA[배우 배해선은 자신을 알아가는 시간 끝에 진짜 '나'를 마주했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/8c47c28f-44df-4c2b-b260-bf9f3a4edad1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 F/W 멘즈 컬렉션에서 생긴 일 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/64405</link>
-            <guid>https://www.elle.co.kr/article/64405</guid>
-            <pubDate>Fri, 04 Mar 2022 17:47:14 GMT</pubDate>
-            <content:encoded><![CDATA[버질 아블로가 떠난 루이 비통, 겐조로 돌아온 니고, 영화를 방불케 했던 프라다 쇼 등 멘즈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/05/41be7648-832b-4738-b553-f0a32d5ba2d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4인조 빅뱅, 컴백 날짜 확정! YG 그만 둔다는 탑의 행보는? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
