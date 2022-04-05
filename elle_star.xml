@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 17:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 05:48:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존재 자체로 COOL ENOUGH! 크리스탈 패션 필름 #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/65218</link>
+            <guid>https://www.elle.co.kr/article/65218</guid>
+            <pubDate>Tue, 05 Apr 2022 05:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[닮고 싶은 패션 아이콘, 크리스탈의 찰스앤키스 백&amp;슈즈 스타일]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/c23aca85-cce1-473a-919c-bce15c63342e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NEWS! 소셜 오디언스를 위하여! 보다 즐겁고 가깝게! 엘르 <D EDITION> #ELLE_D에디션]]></title>
             <link>https://www.elle.co.kr/article/65217</link>
@@ -61,14 +69,6 @@
             <pubDate>Sat, 02 Apr 2022 05:41:13 GMT</pubDate>
             <content:encoded><![CDATA[최고&nbsp;시청률을 10.6%&nbsp;경신한 드라마 ‘군검사 도베르만’의 킬링 포인트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/ec44bc77-09be-406f-a175-d2479cae8ca5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스물다섯 스물하나'의 담대한 청춘, 보나]]></title>
-            <link>https://www.elle.co.kr/article/65184</link>
-            <guid>https://www.elle.co.kr/article/65184</guid>
-            <pubDate>Fri, 01 Apr 2022 17:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[고유림의 펜싱처럼 강인하고 담대하게 나아가는 보나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/47260ea1-c5b0-4132-a372-43d670b00795.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

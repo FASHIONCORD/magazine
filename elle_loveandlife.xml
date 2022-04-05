@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 17:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 05:48:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[석촌호수에서 벚꽃 구경 & 와인 한잔]]></title>
+            <link>https://www.elle.co.kr/article/64964</link>
+            <guid>https://www.elle.co.kr/article/64964</guid>
+            <pubDate>Tue, 05 Apr 2022 05:46:33 GMT</pubDate>
+            <content:encoded><![CDATA[3년 만에 열리는 석촌호수 벚꽃 축제 즐기고 와인 한잔, 어때요? /칙챗, 스웨덴 피크닉, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/4f3ec749-4235-4d54-aa27-9aa6c310d8b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비스포크 파라다이스를 찾은 아이키]]></title>
             <link>https://www.elle.co.kr/article/64721</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 23 Mar 2022 05:46:07 GMT</pubDate>
             <content:encoded><![CDATA[요리하고, 먹고, 이야기할 때 더 빛나는 사람. '두비두밥' 최은서가 좋아하는 일로 잘 먹고...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/23549fd0-14ce-4c4b-b646-11c1980c915e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로워진 모습으로 돌아온 폭스바겐 아테온]]></title>
-            <link>https://www.elle.co.kr/article/64681</link>
-            <guid>https://www.elle.co.kr/article/64681</guid>
-            <pubDate>Wed, 23 Mar 2022 05:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[폭스바겐 역사상 가장 아름다운 세단, 아테온과 두 무용수의 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/d1d23d2d-4368-4f27-8181-347738932f4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
