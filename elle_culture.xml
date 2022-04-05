@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 05:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 17:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지털 크리에이터 그룹 '미지'의 세상]]></title>
+            <link>https://www.elle.co.kr/article/64942</link>
+            <guid>https://www.elle.co.kr/article/64942</guid>
+            <pubDate>Tue, 05 Apr 2022 17:48:03 GMT</pubDate>
+            <content:encoded><![CDATA[픽셀 아트와 모노크롬 컴퓨터그래픽을 기반으로 다채로운 콘텐츠를 만들어내는 그룹 미지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/648d3272-3135-41e3-87dc-62a63e532584.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벌써 반응 난리 난 애플TV+ '파친코', 보기 전에 알아야 할 '자이니치'의 역사]]></title>
             <link>https://www.elle.co.kr/article/64938</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 23 Mar 2022 17:45:49 GMT</pubDate>
             <content:encoded><![CDATA[괴상하지만 똑똑한 여자들의 이야기가 출판사 은행나무와 휴머니스트를 통해 우르르 쏟아진다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/02b93bca-c7e5-416d-8a7e-88a7330e01c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴 알리자마자 당분간 못 본다고? 역주행 아이콘 '시맨틱 에러' 박서함이 입대 전 남긴 말]]></title>
-            <link>https://www.elle.co.kr/article/64567</link>
-            <guid>https://www.elle.co.kr/article/64567</guid>
-            <pubDate>Mon, 21 Mar 2022 17:45:52 GMT</pubDate>
-            <content:encoded><![CDATA['시맨틱 에러' 마지막화 공개 직후 입대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/7e51db30-fa67-4d4e-aad1-c15baf25b1f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
