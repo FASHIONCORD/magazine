@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 17:50:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커피 한 잔 하고 승마까지 할 수 있다?! 핫할 수밖에 없는 익산 카페 3  #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/64995</link>
+            <guid>https://www.elle.co.kr/article/64995</guid>
+            <pubDate>Wed, 06 Apr 2022 17:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[익산 특산물로 만든 시그니처 메뉴 맛보기도 필수.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/26/c19bb7e6-48d8-4269-a909-72a8af3e40ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[석촌호수에서 벚꽃 구경 & 와인 한잔]]></title>
             <link>https://www.elle.co.kr/article/64964</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 25 Mar 2022 05:46:32 GMT</pubDate>
             <content:encoded><![CDATA[갈수록 예리해지는 그로서리 숍의 취향과 안목. 지금 가장 뜨거운 11곳의 마켓에서 제일 먼저...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/f35d932e-69b6-48e6-820a-1ff52bf2560e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 먹고 잘사는 여자, 170만 요리 크리에이터 최은서 #젠Z식노트_2]]></title>
-            <link>https://www.elle.co.kr/article/64766</link>
-            <guid>https://www.elle.co.kr/article/64766</guid>
-            <pubDate>Wed, 23 Mar 2022 05:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[요리하고, 먹고, 이야기할 때 더 빛나는 사람. '두비두밥' 최은서가 좋아하는 일로 잘 먹고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/23549fd0-14ce-4c4b-b646-11c1980c915e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
