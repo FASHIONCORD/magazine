@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 17:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 05:49:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2430,6 +2430,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/23549fd0-14ce-4c4b-b646-11c1980c915e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소비계 큰 손 된 젠Z, 기업들은 '가치'와 '습관'에 집중한다고? #젠Z식노트_3 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/65135</link>
+            <guid>https://www.elle.co.kr/article/65135</guid>
+            <pubDate>Wed, 06 Apr 2022 05:49:32 GMT</pubDate>
+            <content:encoded><![CDATA[그 어느 세대보다 공략하기 어려운 젠Z 공략에 도전하는 기업들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/c22e8e9c-cd3c-408f-af27-12ec087c7049.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[절망과 희망의 다이애나_요주의여성 #52 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/64969</link>
             <guid>https://www.elle.co.kr/article/64969</guid>
@@ -2484,14 +2492,6 @@
             <pubDate>Thu, 24 Mar 2022 05:46:46 GMT</pubDate>
             <content:encoded><![CDATA[들어온 돈 꽉 잡아주는 절약 습관의 정석.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/17/047289da-5cd8-4bb3-a9db-66aa6f10bcd7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 '국가 부도의 날' 임박! 이 와중에 푸틴에게 개인 제재 받은 바이든, 코웃음 치며 한 말은? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/64682</link>
-            <guid>https://www.elle.co.kr/article/64682</guid>
-            <pubDate>Thu, 24 Mar 2022 05:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[달러가 없어 국채 이자를 루블화로 내겠다는 러시아의 디폴트 선언 임박.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/16/7405a642-9da5-41ae-94b2-67ba3b98b16c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
