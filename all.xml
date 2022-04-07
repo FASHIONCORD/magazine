@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 17:50:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 05:47:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/02/cf86f37a-f7e3-4fd2-9201-316329607312.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내가 제일 잘나가 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/65090</link>
+            <guid>https://www.elle.co.kr/article/65090</guid>
+            <pubDate>Thu, 07 Apr 2022 05:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[레트로 헤어스타일부터 뮤직비디오, 텔레비전, SNS의 리얼 웨이 헤어 트렌드까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/c6cf8814-c879-48d3-8ccb-5293fb9dab62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 힙하게 포인트! 스타들의 봄 네일 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/65086</link>
             <guid>https://www.elle.co.kr/article/65086</guid>
@@ -1920,12 +1928,36 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/ea160a56-320f-4ea5-b69a-de7753d37954.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['희녹(hinok)'을 만든 사람 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/64911</link>
-            <guid>https://www.elle.co.kr/article/64911</guid>
-            <pubDate>Tue, 29 Mar 2022 17:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[환경과 아름다움의 밸런스, 거기에 현실적인 노력이 더해져야 진정한 지속가능성이라 생각한다는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/f807dcd1-237b-471f-8451-a8e0f4282038.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[데일리 룩 요정, 크리스탈의 '찐' 애정템 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/65241</link>
+            <guid>https://www.elle.co.kr/article/65241</guid>
+            <pubDate>Thu, 07 Apr 2022 05:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[어디서도 공개한 적 없는 크리스탈, 정수정이 진짜 애정하는 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/28f44990-cc62-415f-84d9-e1a872fe0cfc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷔가 생방송 중 올리비아 로드리고에게 귓속말 한 이유는? BTS의 그래미 슈퍼스타 모먼트 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/65240</link>
+            <guid>https://www.elle.co.kr/article/65240</guid>
+            <pubDate>Thu, 07 Apr 2022 05:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[아쉽게도 그라모폰을 손에 넣지는 못했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/68775596-7816-43c9-9747-610e451f462a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['돼지의왕' 트리오의 케미 폭발 인터뷰 대공개! (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/65237</link>
+            <guid>https://www.elle.co.kr/article/65237</guid>
+            <pubDate>Mon, 04 Apr 2022 17:49:36 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 속 관계성에 혼란이 온다고요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/5b0e9ee2-c57d-40f5-931a-a055b65263fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['사내맞선'이 유독 재밌는 이유, 김세정X설인아 '라면즈' 케미 덕분? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/65223</link>
+            <guid>https://www.elle.co.kr/article/65223</guid>
+            <pubDate>Thu, 07 Apr 2022 05:41:40 GMT</pubDate>
+            <content:encoded><![CDATA['사내맞선'이 첫 만남이 아닙니다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/03/0012d144-1939-4bf0-a4ec-39bb233ab979.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존재 자체로 COOL ENOUGH! 크리스탈 패션 필름 #ELLE_D에디션 (엘르 코리아 ─ 스타)]]></title>
@@ -1952,43 +1984,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/364ae802-a77d-4a2f-8981-080338a6fcce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[궁금하지 않아요? 환경 전문가로 컴백한 곽재식 작가 (엘르 코리아 ─ 스타)]]></title>
+            <title><![CDATA[궁금하지 않아요? 환경 전문가로 컴백한 곽재식 작가 #ELLE그린 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/65211</link>
             <guid>https://www.elle.co.kr/article/65211</guid>
             <pubDate>Mon, 04 Apr 2022 17:47:04 GMT</pubDate>
             <content:encoded><![CDATA["진짜 현실적인 환경 이야기를 해보자고요." 호기심과 상상력으로 가득한 곽재식 작가가 신간 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/02/55a51f1a-d4d6-4ace-81af-46afcdc11927.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/c8f92aa7-251b-4d9e-914b-e8a2186ea162.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[손예진 부케 받은 공효진, 케빈 오와 열애 인정! 다시 보니 알 것 같은 럽스타그램 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/65207</link>
-            <guid>https://www.elle.co.kr/article/65207</guid>
-            <pubDate>Mon, 04 Apr 2022 17:47:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/02/3782e99e-70f6-4539-9c86-dba71983d2c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 예쁜 크리스탈, 청량한 엘르 D에디션 커버 공개 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/65204</link>
-            <guid>https://www.elle.co.kr/article/65204</guid>
-            <pubDate>Sat, 02 Apr 2022 05:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[엘르의 디지털 프로젝트 'D에디션'의 첫 주인공이 된 크리스탈, 배우 정수정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/53540923-f400-4fc4-a40f-9f99faec888f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오은영 박사가 밝힌 ADHD의 원인, 80%는 이것 때문? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/65202</link>
-            <guid>https://www.elle.co.kr/article/65202</guid>
-            <pubDate>Sat, 02 Apr 2022 05:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[산만하다고 무조건 ADHD는 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/1fc5ab56-2cf8-43be-8d7d-126a3acc4e4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘군검사 도베르만’ 시청률의 비밀 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/65198</link>
-            <guid>https://www.elle.co.kr/article/65198</guid>
-            <pubDate>Sat, 02 Apr 2022 05:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[최고&nbsp;시청률을 10.6%&nbsp;경신한 드라마 ‘군검사 도베르만’의 킬링 포인트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/ec44bc77-09be-406f-a175-d2479cae8ca5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[4인조 빅뱅, 컴백 날짜 확정! YG 그만 둔다는 탑의 행보는? (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/64944</link>
+            <guid>https://www.elle.co.kr/article/64944</guid>
+            <pubDate>Thu, 24 Mar 2022 17:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[4인조로 하는 사실상 첫 활동.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/b3de5ec1-eac5-4e5b-b2fa-463c592bfe35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 크리에이터 그룹 '미지'의 세상 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2045,14 +2054,6 @@
             <pubDate>Wed, 16 Mar 2022 17:46:43 GMT</pubDate>
             <content:encoded><![CDATA[82세에 느낀 첫 무대의 설렘.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/8ee44b21-8ebf-4329-b2bb-ab9145caf323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자에 의한, 모두를 위한 새로운 세계문학전집 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/64345</link>
-            <guid>https://www.elle.co.kr/article/64345</guid>
-            <pubDate>Wed, 23 Mar 2022 17:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[괴상하지만 똑똑한 여자들의 이야기가 출판사 은행나무와 휴머니스트를 통해 우르르 쏟아진다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/02b93bca-c7e5-416d-8a7e-88a7330e01c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4인조 빅뱅, 컴백 날짜 확정! YG 그만 둔다는 탑의 행보는? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
