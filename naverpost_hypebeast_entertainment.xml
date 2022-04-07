@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 05:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 17:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꼭 봐야 할 브루스 윌리스의 영화 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33583800&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33583800&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 07 Apr 2022 17:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDZfOTgg/MDAxNjQ5MjM3MDcyOTUx.d0TPs7WTJswe7E5L2g9Q_i0hIiiEfoxXy8IPfKBcImAg.ZN_e7rhLK-Lm9QuZQy1OQm97PfjZPBiTS5woaECL80gg.JPEG/I9uSJGVlIG3hy3APInHxRX8e64p8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['집콕'하면서 몰아보기 좋은, 넷플릭스 신작 추천 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33535161&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 13 Nov 2021 17:49:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfMTYw/MDAxNjM2NDM1MDA2MjMw.8biodKmQ_J2P7n8OvgW2kPDkzdZ0oVreCT13SUnLRBMg.VL37zt6Nf0Pwa9WAWZ4C9QIyu87-RFkhIMej7DtidJEg.JPEG/IoK4UjhKMiA8aocaaKi_BdRUCNvU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라치카 인터뷰: 다섯 명이 주는 '긍정의 에너지']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32715896&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32715896&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 10 Nov 2021 05:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfODIg/MDAxNjM2NDMwMDUyNDI4.Zfu4ERo5GaeuvIuLDdBJ5jNHaiR1VESYHbzwSb02ON8g.un98RYeF9JuO2EsWUYgW6tVb1VBZv71kiitGFpMSJ0kg.JPEG/Idj-NU685jyPH3ATbcKOto5Y1C5k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
