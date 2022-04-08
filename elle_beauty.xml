@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 17:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 05:49:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두피가 미래다]]></title>
+            <link>https://www.elle.co.kr/article/65181</link>
+            <guid>https://www.elle.co.kr/article/65181</guid>
+            <pubDate>Fri, 08 Apr 2022 05:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[두피와 모발을 피부처럼 관리하는 '스키니피케이션(Skinification)'이 화두!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/dea464f6-723d-480f-951e-b6f9b5395d05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세월이 드러난다는 목 주름 관리, 여배우 꿀팁]]></title>
+            <link>https://www.elle.co.kr/article/65127</link>
+            <guid>https://www.elle.co.kr/article/65127</guid>
+            <pubDate>Fri, 08 Apr 2022 05:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[목은 세월의 흐름이 적나라하게 드러나는 부위죠. 생활 습관에 따라 쉽게 깊어지는 목 주름을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/44d234dc-d1a4-41be-a85d-62d055604ae2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 제일 잘나가]]></title>
             <link>https://www.elle.co.kr/article/65090</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 29 Mar 2022 17:44:21 GMT</pubDate>
             <content:encoded><![CDATA[비비드 컬러 아이섀도 7.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/28/1a48eb2d-d5ce-49cb-bcbd-387edfcb68cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[22 S/S 헤어 트렌드]]></title>
-            <link>https://www.elle.co.kr/article/64987</link>
-            <guid>https://www.elle.co.kr/article/64987</guid>
-            <pubDate>Tue, 29 Mar 2022 17:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[이번 시즌 런웨이를 수놓은 헤어 트렌드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/28/2c51691b-4137-4e04-a449-8f8b29058833.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌의 컴백 전 다이어트 비법]]></title>
-            <link>https://www.elle.co.kr/article/64965</link>
-            <guid>https://www.elle.co.kr/article/64965</guid>
-            <pubDate>Tue, 29 Mar 2022 17:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트 초고수 여자 아이돌의 컴백 전 다이어트 비법은 무엇?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/ea160a56-320f-4ea5-b69a-de7753d37954.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
