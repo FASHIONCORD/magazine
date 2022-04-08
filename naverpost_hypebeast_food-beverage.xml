@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 05:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 17:55:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구찌, 에르메스, 루이 비통 등 브랜드가 선보인 카페 및 레스토랑 9]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33583826&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33583826&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 08 Apr 2022 17:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDZfMjE3/MDAxNjQ5MjM3NDk5NTky.Zx0Id-uAw0abNh5LD2WWNqpScs4bI7QewUSALtxNdbMg.nkZ98xwPKyfTMd4RHnrFSGRmZ38O-yV1YIpZyys9D6og.JPEG/ILOG2py4qHApeSVcprEqlMIkupGI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HOW TO: 하입빈즈의 특별한 한라봉 시즈널 메뉴 만드는 법]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33535118&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MDdfNjIg/MDAxNjIwMzY5OTMxMzEx.sGUugNC1w8Y-dsc9izvNzgFqvPP5qZ4ClZzRpCkaYzgg.B7q4uIEQqFIeHVaqN3MteZaOoJOA1EzZDlLE2Akm-4wg.JPEG/I1cJ_abff5io2JHrVI-ljoiFc_u4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오비맥주 카스, 배우 윤여정과 함께한 '진짜가 되는 시간' 캠페인 공개]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31335994&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31335994&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjNfMTkw/MDAxNjE5MTY2Mzk3NzAx.K6YXHFCb2t1zuift_E4X7i6kqNcycnInzNlYVjIM2Bwg.cixObKZixH94unPvuJB0YMbUGSE3_iMyvo_Y-bpm910g.JPEG/IJpDuY_tMggzSe8TkzYx2ylcyQBY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
