@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 05:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 17:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이탈리아 맛집 in 서울]]></title>
+            <link>https://www.elle.co.kr/article/65061</link>
+            <guid>https://www.elle.co.kr/article/65061</guid>
+            <pubDate>Sat, 09 Apr 2022 17:48:02 GMT</pubDate>
+            <content:encoded><![CDATA[여행의 정취가 사무치게 그립다면? 피렌체 스타일의 티본 스테이크부터 이탈리안의 소울 푸드 에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/6be0cf3f-cfe6-456c-962d-055af241361e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갈 때마다 늘 새로워, 짜릿해! 성수동과 서울숲 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/65050</link>
@@ -60,14 +68,6 @@
             <pubDate>Sat, 26 Mar 2022 05:43:34 GMT</pubDate>
             <content:encoded><![CDATA[하루의 피로를 날려줄 술 한잔이 필요하다면 하이볼 어때요? ‘술알못’도 위스키를 가볍게 즐길...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/22/85f34a02-bfde-4e6c-81b0-941b6cf65b2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호로록! 찰진 면발이 땡길 때. 스타들이 다녀간 누들 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/64800</link>
-            <guid>https://www.elle.co.kr/article/64800</guid>
-            <pubDate>Fri, 25 Mar 2022 05:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[호로록 찰진 면발이 당기는 날엔? 먹잘알 스타들의 SNS 에서 포착한 면 맛집을 방문해 보세...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/21/82384df2-a43d-424d-bb07-d3d2f04cda73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
