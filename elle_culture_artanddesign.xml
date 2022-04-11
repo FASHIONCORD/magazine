@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 17:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄을 만끽해! 이번 주 갈만한 전시 3.]]></title>
+            <link>https://www.elle.co.kr/article/65434</link>
+            <guid>https://www.elle.co.kr/article/65434</guid>
+            <pubDate>Mon, 11 Apr 2022 17:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[짧은 봄을 마음껏 즐기기에는 ‘이런’ 전시가 제격! 화사한 기운이 가득한 전시장으로의 소풍!...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/65e1f587-507c-413d-98c8-32fcb4e51c81.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찐 내돈내산! 혜리의 슬기로운 독립생활]]></title>
+            <link>https://www.elle.co.kr/article/65432</link>
+            <guid>https://www.elle.co.kr/article/65432</guid>
+            <pubDate>Mon, 11 Apr 2022 17:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[인생 첫 자취를 시작한 혜리가 새로운 보금자리를 꾸미기 위해 구매한 아이템은? 찐 내돈내산 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8d02adc7-5e8b-4991-9cb6-4db8daac98e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 아트 신의 신인류, '영 컬렉터'의 흐름]]></title>
             <link>https://www.elle.co.kr/article/65334</link>
@@ -94,22 +110,6 @@
             <pubDate>Fri, 11 Feb 2022 05:44:16 GMT</pubDate>
             <content:encoded><![CDATA[올해 다독이 목표라면? 아직 텅텅 비어있는 북 리스트에 셀럽들이 인증한 책을 추가해 보세요....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/730adfd9-4f6f-4e6b-80be-1ae79138565c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리가 들썩! 사진가 그라시엘라 이투르비데의 최초 대규모 개인전 소식]]></title>
-            <link>https://www.elle.co.kr/article/63705</link>
-            <guid>https://www.elle.co.kr/article/63705</guid>
-            <pubDate>Wed, 09 Feb 2022 17:48:56 GMT</pubDate>
-            <content:encoded><![CDATA[보통의 역사를 우아하게 기록하는 사진가 그라시엘라 이투르비데와 까르띠에의 환상적 팀워크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/10/df5772fc-a844-4cd0-aff6-3c487303fa87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기억을 수선하는 사람, 재영 #책수선가]]></title>
-            <link>https://www.elle.co.kr/article/63501</link>
-            <guid>https://www.elle.co.kr/article/63501</guid>
-            <pubDate>Mon, 31 Jan 2022 17:47:14 GMT</pubDate>
-            <content:encoded><![CDATA[책 수선가'라는 낯설고도 고유한 이름. 재영이 &lt;어느 책 수선가의 기록&gt; 전시를 펼친 이유....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/01/984d9333-eb57-40da-a6bb-de72a23b4e59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

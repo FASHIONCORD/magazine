@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 17:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단독: 국내 최대 규모 ‘애플 명동 스토어’ 최초 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33608723&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33608723&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 11 Apr 2022 17:44:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTFfMTYx/MDAxNjQ5NjU5NTA3NTEz._smg0Ihii_6o5_xVR_Sj6RZYbODansjVNMjDdJ2ubAsg.g8iPcEbaufpp_n0WQrywESuJ44xX2xM2bFpi6o90VL8g.JPEG/IvWDmwopFLXg54DmFfHpfOrF9Mlk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램 포스팅에서 사진 따로 골라 삭제 가능해진다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32811104&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjZfMTM2/MDAxNjAzNjg0NzQ5OTIz.WC30vksxrLlAHAvFvnjDelaFPuXvF0yqFVe0oCGbxsAg.7fFtlpEyL21tl2m8VslsNmz3KVftofbuwlqALD9OW7Ag.JPEG/Ild54pIFXOiWlT279jydBntmZr40.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘하입비스트’가 포착한 애플 아이폰 12 시리즈의 실물은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29770925&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29770925&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjJfMjM2/MDAxNjAzMzUxMDUzMDE1.V2CPC5pw4vrKdib84Q8mhMhBfgGRL2b3cTLuCaU80c4g.rhfkM4HkM-0ig-eQ9mrG-gQ6t6I5C4_XFPfDcXmn0rcg.JPEG/I4HBFXIK4WbCXoaJRB5kkavTVzXg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

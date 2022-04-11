@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 17:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식빵언니표 홈트 매운맛 ver.]]></title>
+            <link>https://www.elle.co.kr/article/65252</link>
+            <guid>https://www.elle.co.kr/article/65252</guid>
+            <pubDate>Mon, 11 Apr 2022 17:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[누워서 보고 있는 사람, 모두 스탠드 업! 월드 클래스 김연경이 소개하는 홈 트레이닝으로 다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/ca8129c9-b5c6-4798-b3f9-cab584268152.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄 립 신제품 한 번에 보기.zip_선배's 어드바이스 #111]]></title>
+            <link>https://www.elle.co.kr/article/65239</link>
+            <guid>https://www.elle.co.kr/article/65239</guid>
+            <pubDate>Mon, 11 Apr 2022 17:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[따끈한 리미티드 에디션부터 웜 톤, 쿨 톤별 추천까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/e5f981f3-81fa-496c-9447-55c9f5eda026.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두피가 미래다]]></title>
             <link>https://www.elle.co.kr/article/65181</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 31 Mar 2022 17:45:31 GMT</pubDate>
             <content:encoded><![CDATA[‘남의 일’이라고 생각했던 코로나가 ‘나의 일’이 된 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/28/691042a8-9742-4c83-b578-bc61df223f5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오락가락 봄날에도 철벽, 들뜨지 않는 메이크업 꿀팁_선배's 어드바이스 #110]]></title>
-            <link>https://www.elle.co.kr/article/65021</link>
-            <guid>https://www.elle.co.kr/article/65021</guid>
-            <pubDate>Thu, 31 Mar 2022 05:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[피지와 각질로 무너지기 쉬운 봄 베이스 메이크업 사수하기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/28/b321b489-4572-4620-bd02-962744fb3dc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈가에 흩뿌린 팝 컬러 플레이]]></title>
-            <link>https://www.elle.co.kr/article/65009</link>
-            <guid>https://www.elle.co.kr/article/65009</guid>
-            <pubDate>Tue, 29 Mar 2022 17:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[비비드 컬러 아이섀도 7.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/28/1a48eb2d-d5ce-49cb-bcbd-387edfcb68cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
