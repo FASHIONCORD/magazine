@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 17:54:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 군대가 우크라이나 소도시에서 민간인들을 참혹하게 죽였다]]></title>
+            <link>https://www.elle.co.kr/article/65309</link>
+            <guid>https://www.elle.co.kr/article/65309</guid>
+            <pubDate>Tue, 12 Apr 2022 17:54:15 GMT</pubDate>
+            <content:encoded><![CDATA[키이우 주변 부차-보로댠카-모티진에서 일어나고 있는 전쟁 범죄.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/c0a07f76-2aff-4712-8ce1-7135ff4f1fe9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['브리저튼 2'는 뭐가 달랐나_요주의여성 #53]]></title>
             <link>https://www.elle.co.kr/article/65236</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Apr 2022 17:48:47 GMT</pubDate>
             <content:encoded><![CDATA[유년 시절에 포켓몬 스티커를 모은 추억이 없는 Z세대 역시 이 신드롬에 합류했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/7f9403b6-5bf0-4a88-9ff5-0e5042909175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['희녹(hinok)'을 만든 사람]]></title>
-            <link>https://www.elle.co.kr/article/64911</link>
-            <guid>https://www.elle.co.kr/article/64911</guid>
-            <pubDate>Sat, 02 Apr 2022 17:48:47 GMT</pubDate>
-            <content:encoded><![CDATA[환경과 아름다움의 밸런스, 거기에 현실적인 노력이 더해져야 진정한 지속가능성이라 생각한다는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/f807dcd1-237b-471f-8451-a8e0f4282038.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
