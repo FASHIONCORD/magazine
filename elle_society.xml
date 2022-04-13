@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 17:51:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환경보호 그 자체가 놀이이자 예술이 된다고? #ELLE그린]]></title>
+            <link>https://www.elle.co.kr/article/65390</link>
+            <guid>https://www.elle.co.kr/article/65390</guid>
+            <pubDate>Wed, 13 Apr 2022 17:51:46 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계의 ‘그린 제너레이션’이 전해온 내 몸과 지구를 동시에 지키는 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8be2aa10-4761-4789-be86-6b61284ced69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무해한 밥상을 위한 나의 비건 책 #ELLE그린]]></title>
             <link>https://www.elle.co.kr/article/65381</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 10 Apr 2022 05:50:15 GMT</pubDate>
             <content:encoded><![CDATA[결국 우리는 블랙홀에서 탈출할 수 있었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/8d0ddde1-2732-459b-9dd7-c2c5addb3e81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소비계 큰 손 된 젠Z, 기업들은 '가치'와 '습관'에 집중한다고? #젠Z식노트_3]]></title>
-            <link>https://www.elle.co.kr/article/65135</link>
-            <guid>https://www.elle.co.kr/article/65135</guid>
-            <pubDate>Wed, 06 Apr 2022 05:49:32 GMT</pubDate>
-            <content:encoded><![CDATA[그 어느 세대보다 공략하기 어려운 젠Z 공략에 도전하는 기업들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/c22e8e9c-cd3c-408f-af27-12ec087c7049.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

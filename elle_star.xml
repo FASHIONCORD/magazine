@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 17:51:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 고화질 사진 뜬 현빈♥손예진 결혼식! 시간차 출국하며 찾은 신혼여행지는 어디?]]></title>
+            <link>https://www.elle.co.kr/article/65449</link>
+            <guid>https://www.elle.co.kr/article/65449</guid>
+            <pubDate>Wed, 13 Apr 2022 17:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[현지 공항도 야단법석.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/235e167b-c166-46aa-99b4-a149a764669f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여친짤의 정석! 이주명의 사적인 순간]]></title>
             <link>https://www.elle.co.kr/article/65439</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Apr 2022 17:46:59 GMT</pubDate>
             <content:encoded><![CDATA[대체 어디까지 잘 나갈 건지 궁금해지는 정호연.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/b3cabaf0-8f22-45d3-bc4f-005d0accae14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임'보다 더 폭력적이라고?! 황동혁 감독이 직접 밝힌 차기작 정보]]></title>
-            <link>https://www.elle.co.kr/article/65374</link>
-            <guid>https://www.elle.co.kr/article/65374</guid>
-            <pubDate>Mon, 11 Apr 2022 17:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[제목부터 오금이 저린다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/3da862f0-343b-4c8c-893c-67aaae40ac3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
