@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 17:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디올이 야심차게 선보인 혁신적인 뉴 룩과 다시 돌아온 미우 미우의 남성복까지. #22FW파리]]></title>
+            <link>https://www.elle.co.kr/article/65298</link>
+            <guid>https://www.elle.co.kr/article/65298</guid>
+            <pubDate>Wed, 13 Apr 2022 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[디올이 야심차게 선보인 혁신적인 뉴 룩과 다시 돌아온 미우 미우의 남성복까지. 2022 F/...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/78cf073f-751a-475f-b8e5-3b3ad62e6d42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찐 내돈내산! 혜리의 슬기로운 독립생활]]></title>
+            <link>https://www.elle.co.kr/article/65432</link>
+            <guid>https://www.elle.co.kr/article/65432</guid>
+            <pubDate>Wed, 13 Apr 2022 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[인생 첫 자취를 시작한 혜리가 새로운 보금자리를 꾸미기 위해 구매한 아이템은? 찐 내돈내산 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8d02adc7-5e8b-4991-9cb6-4db8daac98e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘르와 앨리스마샤의 백 컬래버레이션!]]></title>
             <link>https://www.elle.co.kr/article/65330</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 12 Apr 2022 17:46:49 GMT</pubDate>
             <content:encoded><![CDATA[2022 F/W 밀란 패션위크에서 생긴 일.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/d5c6b97e-ec0c-4b02-a8ff-f1df4d6994f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니부터 두아 리파까지! 지금 트렌드는 #카고팬츠]]></title>
-            <link>https://www.elle.co.kr/article/65352</link>
-            <guid>https://www.elle.co.kr/article/65352</guid>
-            <pubDate>Tue, 12 Apr 2022 17:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[다시 돌아온 카고 팬츠 스타일 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/81ae8d41-8c3f-466c-83f2-28f5a2c87f1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테이블웨어 명가와 핫한 패션 브랜드와의 만남 #오프화이트 #지노리1735]]></title>
-            <link>https://www.elle.co.kr/article/65348</link>
-            <guid>https://www.elle.co.kr/article/65348</guid>
-            <pubDate>Tue, 12 Apr 2022 17:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[아이코닉한 쉐입의 테이블웨어에 오프화이트의 그래피티를 덧댄 컬래버레이션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/d1289a79-7001-4191-9778-922879e362bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

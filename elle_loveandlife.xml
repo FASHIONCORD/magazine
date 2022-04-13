@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 17:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타들이 사진 찍고 간 카페 투어 3.]]></title>
+            <link>https://www.elle.co.kr/article/65357</link>
+            <guid>https://www.elle.co.kr/article/65357</guid>
+            <pubDate>Wed, 13 Apr 2022 05:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[취향 찾아 떠나는 카페 로드! 셀러브리티의 SNS에서 포착한 개성 넘치는 카페를 모아봤어요....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/ea14ea85-d4c0-445b-b595-1d7eef048b9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입으로 맛보는 달콤한 벚꽃! 올봄 놓치지 말아야 할 벚꽃 디저트]]></title>
+            <link>https://www.elle.co.kr/article/65313</link>
+            <guid>https://www.elle.co.kr/article/65313</guid>
+            <pubDate>Wed, 13 Apr 2022 05:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[몽블랑부터 푸딩, 빙수, 케이크까지! 봄에만 맛볼 수 있어 더욱 특별해요. 벚꽃으로 물든 디...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/31d1b590-1157-4a61-a73c-0d4f4d6d6195.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용산서 봄 꽃 구경하다 잠깐 쉬기 좋은 삼각지역/숙대입구역 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/65265</link>
@@ -51,22 +67,6 @@
             <pubDate>Tue, 05 Apr 2022 05:46:33 GMT</pubDate>
             <content:encoded><![CDATA[3년 만에 열리는 석촌호수 벚꽃 축제 즐기고 와인 한잔, 어때요? /칙챗, 스웨덴 피크닉, ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/4f3ec749-4235-4d54-aa27-9aa6c310d8b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비스포크 파라다이스를 찾은 아이키]]></title>
-            <link>https://www.elle.co.kr/article/64721</link>
-            <guid>https://www.elle.co.kr/article/64721</guid>
-            <pubDate>Wed, 30 Mar 2022 05:48:07 GMT</pubDate>
-            <content:encoded><![CDATA["지금 인생이 몰래카메라에 찍히는 기분이에요"라고 말하는 아이키의 지금과 미래, 로망 가전에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/8756e94e-dd7c-47bb-9770-b9bc7ada2f39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아가 다이어트 할 때 직접 사먹은 것들]]></title>
-            <link>https://www.elle.co.kr/article/64856</link>
-            <guid>https://www.elle.co.kr/article/64856</guid>
-            <pubDate>Tue, 29 Mar 2022 05:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[무작정 굶는 다이어트는 No! 건강한 식단을 위해 윤승아가 고른 식료품을 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/07398c27-9fbc-4fa4-9c1f-ef91f7ae0e4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 17:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무해한 밥상을 위한 나의 비건 책 #ELLE그린]]></title>
+            <link>https://www.elle.co.kr/article/65381</link>
+            <guid>https://www.elle.co.kr/article/65381</guid>
+            <pubDate>Wed, 13 Apr 2022 05:48:13 GMT</pubDate>
+            <content:encoded><![CDATA[비거니즘을 살포시 응원하는 책 5.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/09/3fc7bee1-3a60-4df2-86ac-5830840f8c8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“나를 체포하라” 80세 넘은 배우의 신념_돈쓸신잡 #40 #ELLE그린]]></title>
+            <link>https://www.elle.co.kr/article/65343</link>
+            <guid>https://www.elle.co.kr/article/65343</guid>
+            <pubDate>Wed, 13 Apr 2022 05:48:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/ccda0313-6b68-4262-9cd6-f4352c69623b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 군대가 우크라이나 소도시에서 민간인들을 참혹하게 죽였다]]></title>
             <link>https://www.elle.co.kr/article/65309</link>
@@ -54,22 +69,6 @@
             <pubDate>Wed, 06 Apr 2022 05:49:32 GMT</pubDate>
             <content:encoded><![CDATA[그 어느 세대보다 공략하기 어려운 젠Z 공략에 도전하는 기업들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/31/c22e8e9c-cd3c-408f-af27-12ec087c7049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절망과 희망의 다이애나_요주의여성 #52]]></title>
-            <link>https://www.elle.co.kr/article/64969</link>
-            <guid>https://www.elle.co.kr/article/64969</guid>
-            <pubDate>Mon, 04 Apr 2022 05:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[내 것처럼 파고드는 그녀의 고통. 영화 &lt;스펜서&gt;의 다이애나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/25/f280d31c-8e6d-40be-9aea-1b530c465b29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다 큰 어른들이 포켓몬 스티커에 왜 그렇게 열광하지?_돈쓸신잡 #38]]></title>
-            <link>https://www.elle.co.kr/article/64922</link>
-            <guid>https://www.elle.co.kr/article/64922</guid>
-            <pubDate>Sat, 02 Apr 2022 17:48:47 GMT</pubDate>
-            <content:encoded><![CDATA[유년 시절에 포켓몬 스티커를 모은 추억이 없는 Z세대 역시 이 신드롬에 합류했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/7f9403b6-5bf0-4a88-9ff5-0e5042909175.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
