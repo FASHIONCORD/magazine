@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 17:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 05:47:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 아트 신의 신인류, '영 컬렉터'의 흐름]]></title>
+            <link>https://www.elle.co.kr/article/65334</link>
+            <guid>https://www.elle.co.kr/article/65334</guid>
+            <pubDate>Thu, 14 Apr 2022 05:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/74b00fa9-198b-42ed-b9c9-7039f41d8081.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아는 맛이라 더 무서운 '사내맞선', 김세정X안효섭 시청률 공약부터 파격 베드신까지]]></title>
             <link>https://www.elle.co.kr/article/65272</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Apr 2022 05:44:12 GMT</pubDate>
             <content:encoded><![CDATA[애플TV+에 반등의 기회가 될까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/fb7b84d8-6d38-4801-a599-fd334b244592.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작가 정그림이 그린 순간 #보테가베네타PICK]]></title>
-            <link>https://www.elle.co.kr/article/64855</link>
-            <guid>https://www.elle.co.kr/article/64855</guid>
-            <pubDate>Sun, 03 Apr 2022 17:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[유연하고 강인한 고무 튜브로 공간에 그림을 그린다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/23/d1588b89-fb0e-4d34-b5dc-028ff83d3d11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

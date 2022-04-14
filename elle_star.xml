@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 17:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 05:47:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존박, 1년 열애 끝 결혼 소식! 아무도 몰랐던 예비신부는?]]></title>
+            <link>https://www.elle.co.kr/article/65457</link>
+            <guid>https://www.elle.co.kr/article/65457</guid>
+            <pubDate>Thu, 14 Apr 2022 05:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[항상 연애 중이거나 헤어지는 중이라던 존박.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/fa47694b-30e2-47c7-b25d-10b1605ae57e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 고화질 사진 뜬 현빈♥손예진 결혼식! 시간차 출국하며 찾은 신혼여행지는 어디?]]></title>
             <link>https://www.elle.co.kr/article/65449</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Apr 2022 17:46:59 GMT</pubDate>
             <content:encoded><![CDATA[인생에서 해방을 꿈꾸는 세 남녀. &lt;나의 해방일지&gt; 속 달라도 너무 다른 3남매가 된 이민기...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/09/a52e66f4-5dcd-4f6e-826b-215dd1567afb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 완전 글로벌 셀럽 정호연, 위켄드 신곡 MV 주인공에 조니 뎁 딸과 영화 촬영까지!]]></title>
-            <link>https://www.elle.co.kr/article/65379</link>
-            <guid>https://www.elle.co.kr/article/65379</guid>
-            <pubDate>Mon, 11 Apr 2022 17:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[대체 어디까지 잘 나갈 건지 궁금해지는 정호연.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/b3cabaf0-8f22-45d3-bc4f-005d0accae14.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 17:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 05:47:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['슈트발' 세워 줄 팬츠 슈트 데일리룩. zip]]></title>
+            <link>https://www.elle.co.kr/article/65466</link>
+            <guid>https://www.elle.co.kr/article/65466</guid>
+            <pubDate>Thu, 14 Apr 2022 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[원 마일 웨어 대신 말끔하게 차려입은 슈트로 드레스업하기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/936eacaf-a128-4d99-88ca-0e935f528860.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여친짤의 정석! 이주명의 사적인 순간]]></title>
+            <link>https://www.elle.co.kr/article/65439</link>
+            <guid>https://www.elle.co.kr/article/65439</guid>
+            <pubDate>Thu, 14 Apr 2022 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[‘스물다섯 스물하나’ 속 쿨내 나는 반장, 이주명의 매력 파헤치기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/ed9bcf4c-8bbe-4ff5-81c9-941f278fec7e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디올이 야심차게 선보인 혁신적인 뉴 룩과 다시 돌아온 미우 미우의 남성복까지. #22FW파리]]></title>
             <link>https://www.elle.co.kr/article/65298</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 12 Apr 2022 17:46:49 GMT</pubDate>
             <content:encoded><![CDATA[전 세계의 ‘그린 제너레이션’이 전해온 내 몸과 지구를 동시에 지키는 방법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8be2aa10-4761-4789-be86-6b61284ced69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식탁 위에서 만나는 에르메스]]></title>
-            <link>https://www.elle.co.kr/article/65385</link>
-            <guid>https://www.elle.co.kr/article/65385</guid>
-            <pubDate>Tue, 12 Apr 2022 17:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[에르메스의 테이블웨어 '히포모빌'에 대해 크리에이티브 디렉터 베누아-피에르 에머리 그리고 아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/fc98568f-4cbb-4a1b-8340-8b04227f53a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구찌와 아디다스의 역대급 '콜라보'부터 디젤의 첫 런웨이 컬렉션까지. #22FW밀란]]></title>
-            <link>https://www.elle.co.kr/article/65358</link>
-            <guid>https://www.elle.co.kr/article/65358</guid>
-            <pubDate>Tue, 12 Apr 2022 17:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022 F/W 밀란 패션위크에서 생긴 일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/d5c6b97e-ec0c-4b02-a8ff-f1df4d6994f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
