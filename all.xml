@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실용성 최고, 20만 원 이하 미니백/샤코슈 추천 10 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33609947&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33609947&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 14 Apr 2022 17:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTFfMTUw/MDAxNjQ5NjY4MTAzOTQ0.T8u0L1nOx-0XdOr79jfZYPM1JkurMolHehBu_KCKzeEg.fQcpfwV46i5zdKKfsmfXB9lAzktDyQlK3IP4Vn7rlAwg.JPEG/IqJOMXcms1zK7DXPfb14iKDJb__k.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더블탭스, 스투시, 살로몬 등에서 고른 간절기 추천 라이트 재킷 10 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33425944&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Oct 2021 17:50:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMTM2/MDAxNjM0MjAwOTcyODU3.E0Oi7RV_uG8KZeMgKYRNBn_LMNibDRVW7vEcZK7he0Ug.FzTH7aYGAYZXEl8EKdqFkDFF-xNszpoThv4BqjU-Ziog.JPEG/IqNhRa-UyhiW-_IB04QphagrCyf8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 모델들을 소개하는 빈티지 롤렉스 입문 가이드, 파트 1 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32510043&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32510043&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 08 Oct 2021 17:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMjgx/MDAxNjMzNTk0NjQ1MTcw.q8hv7DRqJVgNUPwDat4IQH2rjq06f6C2lQaSRVMa9K0g.ZBLv7TyIBF8r6salfVPj5L4i0az-GJn06RrNnMTTD1gg.JPEG/Ipv8-Byl0K6jfim8oia_iMClFWVA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스니커의 제왕, ‘에어 포스 1’의 역사는 어떻게 시작됐을까? (네이버 포스트 ─ 하입비스트 ─ 신발)]]></title>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8be2aa10-4761-4789-be86-6b61284ced69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제시카가 사용하는 아홉 가지 뷰티템 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/65321</link>
+            <guid>https://www.elle.co.kr/article/65321</guid>
+            <pubDate>Thu, 14 Apr 2022 17:46:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘뷰잘알’ 제시카가 고른 제품은 무엇? 그녀가 찐으로 애정하는 뷰티템을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/632967f0-c185-467f-8f58-180250eafeae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[식빵언니표 홈트 매운맛 ver. (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/65252</link>
             <guid>https://www.elle.co.kr/article/65252</guid>
@@ -1920,12 +1928,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/94105565-cf7e-499e-8ec7-a14dcf442951.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나의 코로나 확진기_몸에 좋은 잔소리 #40 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/65040</link>
-            <guid>https://www.elle.co.kr/article/65040</guid>
-            <pubDate>Thu, 31 Mar 2022 17:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘남의 일’이라고 생각했던 코로나가 ‘나의 일’이 된 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/28/691042a8-9742-4c83-b578-bc61df223f5f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['슈트발' 세워 줄 팬츠 슈트 데일리룩. zip (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/65466</link>
+            <guid>https://www.elle.co.kr/article/65466</guid>
+            <pubDate>Thu, 14 Apr 2022 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[원 마일 웨어 대신 말끔하게 차려입은 슈트로 드레스업하기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/936eacaf-a128-4d99-88ca-0e935f528860.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존박, 1년 열애 끝 결혼 소식! 아무도 몰랐던 예비신부는? (엘르 코리아 ─ 스타)]]></title>
@@ -1982,14 +1990,6 @@
             <pubDate>Wed, 13 Apr 2022 05:42:57 GMT</pubDate>
             <content:encoded><![CDATA[박지빈이 이찬혁으로 오해 받은 사연도.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/10/7ec517d1-51e7-4913-ae99-42393bb9ff19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 해방일지 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/65291</link>
-            <guid>https://www.elle.co.kr/article/65291</guid>
-            <pubDate>Mon, 11 Apr 2022 17:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[인생에서 해방을 꿈꾸는 세 남녀. &lt;나의 해방일지&gt; 속 달라도 너무 다른 3남매가 된 이민기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/09/a52e66f4-5dcd-4f6e-826b-215dd1567afb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 아트 신의 신인류, '영 컬렉터'의 흐름 (엘르 코리아 ─ 컬쳐)]]></title>

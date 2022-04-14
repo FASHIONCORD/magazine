@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['슈트발' 세워 줄 팬츠 슈트 데일리룩. zip]]></title>
+            <link>https://www.elle.co.kr/article/65466</link>
+            <guid>https://www.elle.co.kr/article/65466</guid>
+            <pubDate>Thu, 14 Apr 2022 17:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[원 마일 웨어 대신 말끔하게 차려입은 슈트로 드레스업하기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/936eacaf-a128-4d99-88ca-0e935f528860.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[존박, 1년 열애 끝 결혼 소식! 아무도 몰랐던 예비신부는?]]></title>
             <link>https://www.elle.co.kr/article/65457</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Apr 2022 05:42:57 GMT</pubDate>
             <content:encoded><![CDATA[박지빈이 이찬혁으로 오해 받은 사연도.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/10/7ec517d1-51e7-4913-ae99-42393bb9ff19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 해방일지]]></title>
-            <link>https://www.elle.co.kr/article/65291</link>
-            <guid>https://www.elle.co.kr/article/65291</guid>
-            <pubDate>Mon, 11 Apr 2022 17:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[인생에서 해방을 꿈꾸는 세 남녀. &lt;나의 해방일지&gt; 속 달라도 너무 다른 3남매가 된 이민기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/09/a52e66f4-5dcd-4f6e-826b-215dd1567afb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

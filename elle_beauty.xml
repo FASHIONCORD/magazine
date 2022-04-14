@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제시카가 사용하는 아홉 가지 뷰티템]]></title>
+            <link>https://www.elle.co.kr/article/65321</link>
+            <guid>https://www.elle.co.kr/article/65321</guid>
+            <pubDate>Thu, 14 Apr 2022 17:46:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘뷰잘알’ 제시카가 고른 제품은 무엇? 그녀가 찐으로 애정하는 뷰티템을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/632967f0-c185-467f-8f58-180250eafeae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식빵언니표 홈트 매운맛 ver.]]></title>
             <link>https://www.elle.co.kr/article/65252</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Apr 2022 17:46:21 GMT</pubDate>
             <content:encoded><![CDATA[비건, 클린, 크루얼티-프리! 매일 바르는 자외선차단제인 만큼 좀 더 꼼꼼하게.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/94105565-cf7e-499e-8ec7-a14dcf442951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 코로나 확진기_몸에 좋은 잔소리 #40]]></title>
-            <link>https://www.elle.co.kr/article/65040</link>
-            <guid>https://www.elle.co.kr/article/65040</guid>
-            <pubDate>Thu, 31 Mar 2022 17:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[‘남의 일’이라고 생각했던 코로나가 ‘나의 일’이 된 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/28/691042a8-9742-4c83-b578-bc61df223f5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
