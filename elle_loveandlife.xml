@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 05:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 17:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찐 내돈내산! 혜리의 슬기로운 독립생활]]></title>
+            <link>https://www.elle.co.kr/article/65432</link>
+            <guid>https://www.elle.co.kr/article/65432</guid>
+            <pubDate>Sat, 16 Apr 2022 17:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[인생 첫 자취를 시작한 혜리가 새로운 보금자리를 꾸미기 위해 구매한 아이템은? 찐 내돈내산 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8d02adc7-5e8b-4991-9cb6-4db8daac98e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김천 특산물 자두-호두-딸기로 만든 음료와 디저트가 가득! 사시사철 신선한 김천 카페 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/65393</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/65050</guid>
             <pubDate>Fri, 08 Apr 2022 05:48:06 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/615ede27-d29e-45cb-8292-4404cd1f23d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커피 한 잔 하고 승마까지 할 수 있다?! 핫할 수밖에 없는 익산 카페 3  #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/64995</link>
-            <guid>https://www.elle.co.kr/article/64995</guid>
-            <pubDate>Wed, 06 Apr 2022 17:49:48 GMT</pubDate>
-            <content:encoded><![CDATA[익산 특산물로 만든 시그니처 메뉴 맛보기도 필수.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/26/c19bb7e6-48d8-4269-a909-72a8af3e40ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

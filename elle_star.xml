@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 05:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 17:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케미 맛집의 OOTD! '사내맞선' 김세정 VS 설인아 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/65471</link>
+            <guid>https://www.elle.co.kr/article/65471</guid>
+            <pubDate>Sat, 16 Apr 2022 17:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[올봄 K-로코의 저력을 다시 한 번 입증한 드라마 '사내 맞선'. 드라마의 인기를 견인한 김...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/8c2bc8db-c3a0-4f58-998a-0da7e50dbe6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 가장 '힙-템' 체인 벨트 HOW TO!]]></title>
+            <link>https://www.elle.co.kr/article/65467</link>
+            <guid>https://www.elle.co.kr/article/65467</guid>
+            <pubDate>Sat, 16 Apr 2022 17:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 데일리 룩도 체인 벨트 하나면 힙하게 변신 가능!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/479c6444-e05d-40c0-a4de-55915c149908.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['슈트발' 세워 줄 팬츠 슈트 데일리룩. zip]]></title>
             <link>https://www.elle.co.kr/article/65466</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 13 Apr 2022 05:42:57 GMT</pubDate>
             <content:encoded><![CDATA[인생 첫 자취를 시작한 혜리가 새로운 보금자리를 꾸미기 위해 구매한 아이템은? 찐 내돈내산 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8d02adc7-5e8b-4991-9cb6-4db8daac98e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경적인 것은 덜 아름답고, 덜 맛있고, 덜 기능적일까? #ELLE그린]]></title>
-            <link>https://www.elle.co.kr/article/65293</link>
-            <guid>https://www.elle.co.kr/article/65293</guid>
-            <pubDate>Wed, 13 Apr 2022 05:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[여기 지속 가능한 미래를 위해 창의적인 방식으로 자신의 영역에서 끊임없이 개발하고 보완해 나...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/bb039b8a-dab0-4b41-b8c8-1b863e35f04b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[둘이 노래방 같이 다니는 사이! AKMU 이수현X박지빈, 의외의 6년 찐친]]></title>
-            <link>https://www.elle.co.kr/article/65400</link>
-            <guid>https://www.elle.co.kr/article/65400</guid>
-            <pubDate>Wed, 13 Apr 2022 05:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[박지빈이 이찬혁으로 오해 받은 사연도.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/10/7ec517d1-51e7-4913-ae99-42393bb9ff19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
