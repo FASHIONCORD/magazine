@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 05:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 17:50:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[줄 서기 전에 빨리 가 볼 것! 연트럴파크 걷다가 들르기 딱 좋은 연남동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/65441</link>
+            <guid>https://www.elle.co.kr/article/65441</guid>
+            <pubDate>Sun, 17 Apr 2022 17:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[이미 줄 서야 하는 곳도...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/12882d7b-65a7-4abe-b827-88a206a175eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤혜진이 엄정화에게 전수한 명란 리조또, 케비지 롤! 다이어트 레서피]]></title>
+            <link>https://www.elle.co.kr/article/65433</link>
+            <guid>https://www.elle.co.kr/article/65433</guid>
+            <pubDate>Sun, 17 Apr 2022 17:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[식단 관리가 몸에 밴 발레리나의 다이어트 레서피는? 윤혜진표 식단을 참고해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/2dfb85af-8f2f-4062-8ef6-2995ec8d46ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찐 내돈내산! 혜리의 슬기로운 독립생활]]></title>
             <link>https://www.elle.co.kr/article/65432</link>
@@ -52,21 +68,6 @@
             <guid>https://www.elle.co.kr/article/65091</guid>
             <pubDate>Mon, 11 Apr 2022 17:49:56 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/2647b283-f5e9-41e1-906f-da89b0d757a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이탈리아 맛집 in 서울]]></title>
-            <link>https://www.elle.co.kr/article/65061</link>
-            <guid>https://www.elle.co.kr/article/65061</guid>
-            <pubDate>Sat, 09 Apr 2022 17:48:02 GMT</pubDate>
-            <content:encoded><![CDATA[여행의 정취가 사무치게 그립다면? 피렌체 스타일의 티본 스테이크부터 이탈리안의 소울 푸드 에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/6be0cf3f-cfe6-456c-962d-055af241361e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갈 때마다 늘 새로워, 짜릿해! 성수동과 서울숲 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/65050</link>
-            <guid>https://www.elle.co.kr/article/65050</guid>
-            <pubDate>Fri, 08 Apr 2022 05:48:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/615ede27-d29e-45cb-8292-4404cd1f23d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
