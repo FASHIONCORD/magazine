@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 17:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 05:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄, 세븐틴 민규의 설레는 시작]]></title>
+            <link>https://www.elle.co.kr/article/65136</link>
+            <guid>https://www.elle.co.kr/article/65136</guid>
+            <pubDate>Sun, 17 Apr 2022 05:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[민규의 조각 같은 완벽한 얼굴에 랑콤 클라리피끄 듀얼 에센스로 맑고 투명한 빛을 더하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/bb3640d4-1c13-461b-a3e8-110fbdc6cac2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제시카가 사용하는 아홉 가지 뷰티템]]></title>
             <link>https://www.elle.co.kr/article/65321</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Apr 2022 17:46:21 GMT</pubDate>
             <content:encoded><![CDATA[현아, 리사, 전소미까지! 봄을 맞이한 스타들의 네일아트 모음]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/f4a154bc-9bf4-48a7-ad86-5b33046379ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일 바르는 자외선차단제 쇼핑 리스트]]></title>
-            <link>https://www.elle.co.kr/article/65048</link>
-            <guid>https://www.elle.co.kr/article/65048</guid>
-            <pubDate>Mon, 04 Apr 2022 17:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[비건, 클린, 크루얼티-프리! 매일 바르는 자외선차단제인 만큼 좀 더 꼼꼼하게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/29/94105565-cf7e-499e-8ec7-a14dcf442951.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
