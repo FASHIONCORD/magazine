@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 17:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤혜진이 엄정화에게 전수한 명란 리조또, 케비지 롤! 다이어트 레서피]]></title>
+            <link>https://www.elle.co.kr/article/65433</link>
+            <guid>https://www.elle.co.kr/article/65433</guid>
+            <pubDate>Mon, 18 Apr 2022 05:43:35 GMT</pubDate>
+            <content:encoded><![CDATA[식단 관리가 몸에 밴 발레리나의 다이어트 레서피는? 윤혜진표 식단을 참고해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/2dfb85af-8f2f-4062-8ef6-2995ec8d46ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 NEW! 자외선 차단제 선택하는 법_선배's 어드바이스 #112]]></title>
             <link>https://www.elle.co.kr/article/65429</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Apr 2022 05:42:15 GMT</pubDate>
             <content:encoded><![CDATA[두피와 모발을 피부처럼 관리하는 '스키니피케이션(Skinification)'이 화두!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/dea464f6-723d-480f-951e-b6f9b5395d05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세월이 드러난다는 목 주름 관리, 여배우 꿀팁]]></title>
-            <link>https://www.elle.co.kr/article/65127</link>
-            <guid>https://www.elle.co.kr/article/65127</guid>
-            <pubDate>Fri, 08 Apr 2022 05:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[목은 세월의 흐름이 적나라하게 드러나는 부위죠. 생활 습관에 따라 쉽게 깊어지는 목 주름을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/44d234dc-d1a4-41be-a85d-62d055604ae2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
