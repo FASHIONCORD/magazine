@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 17:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DRIVERS: 이광호 & 1992 포르쉐 964 카레라 2]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33648286&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33648286&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 18 Apr 2022 17:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MThfMTI3/MDAxNjUwMjc0NzI5ODEw.c3eXVnvbhgC3QtCwzo9uthRfcJF1g2pIAiL7Ee9YtjQg.6dC0byjY3rbuJTKIuMs0juBExRQ03nVbLaQ6E89M2Vwg.JPEG/IrpIP7iiBRcLhQb6VS3A43mhZLWE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DRIVERS: 리안 & 2022 BMW 420i]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33488269&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMjJfMjI4/MDAxNjA4NjE5MjE0NTIx.3LGuGhVZPbOdaLNfaZ13VK4My546lwyCSeo-UTfIvTIg.8IHWrhhNUvGd6q2ZrGo9Ssdu7elfgEL0CSDHS_oTcr8g.JPEG/II2KJoPTBD7pwzxx5qf8uTT29Prs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[F1 드라이버 로만 그로장이 추돌사고로 폭발한 차에서 극적으로 탈출했다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30116774&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30116774&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMDFfNjAg/MDAxNjA2ODA3ODUyMzM5.epJI_3UTx8VzSsia89QVwQEj1hj2I2ZAmslnYL7X8Nwg.85qiVG1QQSMX70N3Wk-1ano2bUKW7wxdNeBLRUF_HL4g.JPEG/Iky76to0O8O0qLj0rfc8S7x0Yy1s.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 17:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니, 켄달 제너, 한예슬의 공통점은? 오렌지 헤어 유행각!]]></title>
+            <link>https://www.elle.co.kr/article/65546</link>
+            <guid>https://www.elle.co.kr/article/65546</guid>
+            <pubDate>Mon, 18 Apr 2022 17:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[봄 여름을 위한 헤어 컬러 제안! 스타들이 예고한 오렌지 헤어 유행에 동참해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/0742d684-ce1f-4cee-b7f6-c4fa3d54adaa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피부가 민감하다면]]></title>
+            <link>https://www.elle.co.kr/article/65518</link>
+            <guid>https://www.elle.co.kr/article/65518</guid>
+            <pubDate>Mon, 18 Apr 2022 17:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[민감성 피부를 가진 이들에게 4월은 결코 반갑지 않은 달. 의외로 당신의 스킨케어 습관에 함...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/ae13b0d9-1c8e-4205-a476-2be3f06294e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤혜진이 엄정화에게 전수한 명란 리조또, 케비지 롤! 다이어트 레서피]]></title>
             <link>https://www.elle.co.kr/article/65433</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 11 Apr 2022 17:46:17 GMT</pubDate>
             <content:encoded><![CDATA[누워서 보고 있는 사람, 모두 스탠드 업! 월드 클래스 김연경이 소개하는 홈 트레이닝으로 다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/ca8129c9-b5c6-4798-b3f9-cab584268152.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 립 신제품 한 번에 보기.zip_선배's 어드바이스 #111]]></title>
-            <link>https://www.elle.co.kr/article/65239</link>
-            <guid>https://www.elle.co.kr/article/65239</guid>
-            <pubDate>Mon, 11 Apr 2022 17:46:17 GMT</pubDate>
-            <content:encoded><![CDATA[따끈한 리미티드 에디션부터 웜 톤, 쿨 톤별 추천까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/e5f981f3-81fa-496c-9447-55c9f5eda026.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두피가 미래다]]></title>
-            <link>https://www.elle.co.kr/article/65181</link>
-            <guid>https://www.elle.co.kr/article/65181</guid>
-            <pubDate>Fri, 08 Apr 2022 05:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[두피와 모발을 피부처럼 관리하는 '스키니피케이션(Skinification)'이 화두!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/dea464f6-723d-480f-951e-b6f9b5395d05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

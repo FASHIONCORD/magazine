@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 17:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니, 켄달 제너, 한예슬의 공통점은? 오렌지 헤어 유행각!]]></title>
+            <link>https://www.elle.co.kr/article/65546</link>
+            <guid>https://www.elle.co.kr/article/65546</guid>
+            <pubDate>Mon, 18 Apr 2022 17:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[봄 여름을 위한 헤어 컬러 제안! 스타들이 예고한 오렌지 헤어 유행에 동참해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/0742d684-ce1f-4cee-b7f6-c4fa3d54adaa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벌써 네 번째 칸 진출! 박찬욱 22년 만의 15세 관람가 멜로 드라마 '헤어질 결심' 내용은?]]></title>
             <link>https://www.elle.co.kr/article/65536</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 16 Apr 2022 17:45:35 GMT</pubDate>
             <content:encoded><![CDATA[평범한 데일리 룩도 체인 벨트 하나면 힙하게 변신 가능!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/479c6444-e05d-40c0-a4de-55915c149908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['슈트발' 세워 줄 팬츠 슈트 데일리룩. zip]]></title>
-            <link>https://www.elle.co.kr/article/65466</link>
-            <guid>https://www.elle.co.kr/article/65466</guid>
-            <pubDate>Thu, 14 Apr 2022 17:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[원 마일 웨어 대신 말끔하게 차려입은 슈트로 드레스업하기!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/936eacaf-a128-4d99-88ca-0e935f528860.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
