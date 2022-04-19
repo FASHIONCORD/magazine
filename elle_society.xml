@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 05:53:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 17:53:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 그래서 기상청에서 무슨 일이 생긴 거래? 드라마 기상청사람들 로 본 철학]]></title>
+            <link>https://www.elle.co.kr/article/65299</link>
+            <guid>https://www.elle.co.kr/article/65299</guid>
+            <pubDate>Tue, 19 Apr 2022 17:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[날씨와 인간은 따로 살 수 없다고! 이원진 박사가 말하는 기상청사람들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/9e983ed1-1dc7-4cbf-bfac-c647801faf0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그레타 툰베리는 절박하다_요주의여성 #54 #ELLE그린]]></title>
             <link>https://www.elle.co.kr/article/65478</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/65343</guid>
             <pubDate>Wed, 13 Apr 2022 05:48:13 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/ccda0313-6b68-4262-9cd6-f4352c69623b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 군대가 우크라이나 소도시에서 민간인들을 참혹하게 죽였다]]></title>
-            <link>https://www.elle.co.kr/article/65309</link>
-            <guid>https://www.elle.co.kr/article/65309</guid>
-            <pubDate>Tue, 12 Apr 2022 17:54:15 GMT</pubDate>
-            <content:encoded><![CDATA[키이우 주변 부차-보로댠카-모티진에서 일어나고 있는 전쟁 범죄.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/c0a07f76-2aff-4712-8ce1-7135ff4f1fe9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

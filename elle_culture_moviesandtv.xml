@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 05:53:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 17:53:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 X BIFF 아시아영화아카데미]]></title>
+            <link>https://www.elle.co.kr/article/65590</link>
+            <guid>https://www.elle.co.kr/article/65590</guid>
+            <pubDate>Tue, 19 Apr 2022 17:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬이 부산국제영화제 아시아영화아카데미를 지원한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/cfa5ca99-904b-4c50-883c-ac36f87baeed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환불원정대 아닌가요? 38kg 뺀 유지어터 김신영이 진행하는 '빼고파' 출연진 라인업]]></title>
+            <link>https://www.elle.co.kr/article/65608</link>
+            <guid>https://www.elle.co.kr/article/65608</guid>
+            <pubDate>Tue, 19 Apr 2022 17:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[초점은 '마르는 것'이 아닌 '건강한 체중 감량'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/799f9ba5-e01c-4ae7-92ad-3bd1d6a4e5d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진짜 남친 김우빈과 한 드라마 나오는 신민아, 노희경 작가가 양해 구한 이유]]></title>
             <link>https://www.elle.co.kr/article/65349</link>
@@ -94,22 +110,6 @@
             <pubDate>Fri, 11 Feb 2022 17:44:45 GMT</pubDate>
             <content:encoded><![CDATA[역주행 인기! &lt;엔칸토: 마법의 세계&gt;는 뭐가 달랐나.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/ccd6e74e-343c-4810-af31-f559da7ea71e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#오티스의비밀상담소 메이브, 에마 매키의 우아한 변신! #나일강의 죽음]]></title>
-            <link>https://www.elle.co.kr/article/63655</link>
-            <guid>https://www.elle.co.kr/article/63655</guid>
-            <pubDate>Mon, 07 Feb 2022 17:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;나일 강의 죽음&gt;에서 완전히 새로운 모습을 보여줄 에마 매키.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/11/8632609e-7559-4deb-a0c5-4adcc9d5a3e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 잘 추는 건데? 명절 연휴 갑자기 더티섹시의 새 지평을 연 허성태의 근본 코카인 댄스]]></title>
-            <link>https://www.elle.co.kr/article/63542</link>
-            <guid>https://www.elle.co.kr/article/63542</guid>
-            <pubDate>Fri, 04 Feb 2022 05:44:16 GMT</pubDate>
-            <content:encoded><![CDATA['오징어게임' 덕수 만큼 임팩트 있는 'SNL' 허카인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/03/8b77f01a-48ea-4290-bbd4-8a4e969eac2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

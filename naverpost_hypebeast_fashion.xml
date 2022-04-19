@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 05:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 17:53:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6만 원부터 시작, 봄 시즌 추천 스웨트셔츠 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33648313&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33648313&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 19 Apr 2022 17:46:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MThfMjA5/MDAxNjUwMjc1MTA1MTYy.hDpW--GIZgdvh9ICg06aKw36oTZLw43R_CYiqF6LBVQg.y3dmrCrLwF7vLwx_eLmBAee1AKRNvvKH0AwkcZeIUwQg.JPEG/ImxfjY7RM3Jc1D0NxAYuclGe3JAg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실용성 최고, 20만 원 이하 미니백/샤코슈 추천 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33609947&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 16 Oct 2021 05:38:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMjQ3/MDAxNjM0MjAyMTI4NzYw.h9jKOOOG3Jf_NVcYQ6i04AlYvXT_1jHkj6Z8DuDddjAg.ppN-q9VP1t2jd6b7VmUTiyEKUmQtGcRGkAhn9SzuS-Ug.JPEG/IM3xbAWQLOLjkjwgunANNGVtLdqM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메종 키츠네, 아미, 톰 브라운 등에서 고른 추천 카디건 10]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32551916&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32551916&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 14 Oct 2021 17:50:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMTM2/MDAxNjM0MjAwOTcyODU3.E0Oi7RV_uG8KZeMgKYRNBn_LMNibDRVW7vEcZK7he0Ug.FzTH7aYGAYZXEl8EKdqFkDFF-xNszpoThv4BqjU-Ziog.JPEG/IqNhRa-UyhiW-_IB04QphagrCyf8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
