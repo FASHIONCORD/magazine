@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 17:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 05:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 남친 김우빈과 한 드라마 나오는 신민아, 노희경 작가가 양해 구한 이유]]></title>
+            <link>https://www.elle.co.kr/article/65349</link>
+            <guid>https://www.elle.co.kr/article/65349</guid>
+            <pubDate>Tue, 19 Apr 2022 05:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[극 중 남친은 다른 사람?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/2aaa79eb-1b01-4bd8-bf31-de2c890d5150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 아트 신의 신인류, '영 컬렉터'의 흐름]]></title>
             <link>https://www.elle.co.kr/article/65334</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Apr 2022 17:48:03 GMT</pubDate>
             <content:encoded><![CDATA[픽셀 아트와 모노크롬 컴퓨터그래픽을 기반으로 다채로운 콘텐츠를 만들어내는 그룹 미지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/648d3272-3135-41e3-87dc-62a63e532584.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 반응 난리 난 애플TV+ '파친코', 보기 전에 알아야 할 '자이니치'의 역사]]></title>
-            <link>https://www.elle.co.kr/article/64938</link>
-            <guid>https://www.elle.co.kr/article/64938</guid>
-            <pubDate>Mon, 04 Apr 2022 05:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[애플TV+에 반등의 기회가 될까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/fb7b84d8-6d38-4801-a599-fd334b244592.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

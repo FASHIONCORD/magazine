@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 17:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 05:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꾸덕꾸덕한 그릭요거트 맛집 3.]]></title>
+            <link>https://www.elle.co.kr/article/65541</link>
+            <guid>https://www.elle.co.kr/article/65541</guid>
+            <pubDate>Tue, 19 Apr 2022 05:51:28 GMT</pubDate>
+            <content:encoded><![CDATA[가벼운 한 끼로 그릭요거트 어때요? 피크닉 메뉴로도 좋은 그릭요거트 맛집을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/16/93df8ee6-0b13-47c9-8a7e-918defe9e3ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백종원 픽 양념불고기와 자꾸 손이 가는 마약김밥이 있는 김천 로컬 맛집 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/65468</link>
@@ -61,13 +69,6 @@
             <pubDate>Wed, 13 Apr 2022 05:47:30 GMT</pubDate>
             <content:encoded><![CDATA[몽블랑부터 푸딩, 빙수, 케이크까지! 봄에만 맛볼 수 있어 더욱 특별해요. 벚꽃으로 물든 디...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/06/31d1b590-1157-4a61-a73c-0d4f4d6d6195.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용산서 봄 꽃 구경하다 잠깐 쉬기 좋은 삼각지역/숙대입구역 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/65265</link>
-            <guid>https://www.elle.co.kr/article/65265</guid>
-            <pubDate>Mon, 11 Apr 2022 17:49:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/05/ef691126-5705-423d-9320-b5b601a3b2b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
