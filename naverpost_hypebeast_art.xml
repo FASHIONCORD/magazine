@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 06:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:54:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상에 재미와 영감을, 하입빈즈와 주재범의 ‘아티스트 쇼케이스’ 전시]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33661704&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33661704&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 20 Apr 2022 17:48:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjBfMjE1/MDAxNjUwNDQ3MDYyMzIy.suZW8dJ846lJcReOntcuEm8Bxk8NC4q6KuOuMn3R3Fog.YcguxEOa-Icsx48w90-QvUG54ZbTFSGGkGdIC_Nr_Rgg.JPEG/IwdCscQL2EGgCIyosADga9p6VoS0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HOW TO: 컨버스와 릭 오웬스 협업 스니커 모양 인센스 챔버 만드는 법]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33099228&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjNfNjgg/MDAxNTk1NDg5NTA4NDg4.yGoJzy8cDTBwp1SxOv-fuOLPOqvkDwaFQGAl2lu2ro0g.rywdB1KvaGFV3zh_3KSORNKjZZoKC_RaJz7OJCIoioEg.JPEG/I90zPLi1b3eyaLDXM9c59IN5Frug.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그래피티 아티스트 조대와 친구들이 함께 만든 전시, 'Keep in Step']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28858061&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28858061&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjJfMjk2/MDAxNTk1Mzk3Njk5MzE2.wqTpPMHOcbi9oyBr2aclfBg0ha62U7FIlYbYLIe-LkUg.XZ4481zicpSMegemZrIorUlizsB_vAgqFtK3hsVDCqsg.JPEG/INciStApg-eBL1ZaTJSrm6i6_Y5k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 06:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:54:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Essentials: ‘KB’ 이규범]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33648351&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33648351&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 20 Apr 2022 17:49:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MThfMTA4/MDAxNjUwMjc1NDExODYw.8GLm7eCoc_wr3_N6LD3fu6fRu0AU6j0DSANwaI5idA4g.9SHKL3ZllzjuoNuNzwq2E0BC9z6WLnKGFxVVa4zp_Jgg.JPEG/II2D_8MayYOOEfjeZMhA5txjcHaE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 안 인터뷰: 라이카로 포착한 ‘아름다운 일상’에 대하여]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33583848&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MTBfNTEg/MDAxNTkxNzk3MjUyMTY3.dURbhfXG_7uz5JIitHiWBHpecsSZlMF6A7dD5C8SlPQg.kv2lEi0u45tF71r3PjRHL1wgXD7H20BtFPTSD54IvNog.JPEG/IVPeBEyE2USzF6iPhhrUkeggKOdQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이름부터 달달한 보름달 ‘스트로베리 문’, 6월 6일에 뜬다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28441100&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28441100&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MDNfMTcz/MDAxNTkxMTY3NTE1NjA3.TyAajpc4RLNGu8f5uio-O7Lo-5K-TiDPTZm7imQnz2Mg.j4L4du7lRS7vdwxwrQqepX2h3Vymn926VFJZpBg2gMkg.JPEG/IqKABWbQFaK-nqji3OsbF1lHR1xw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
