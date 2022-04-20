@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 17:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 06:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄을 만끽해! 이번 주 갈만한 전시 3.]]></title>
+            <link>https://www.elle.co.kr/article/65434</link>
+            <guid>https://www.elle.co.kr/article/65434</guid>
+            <pubDate>Wed, 20 Apr 2022 05:58:47 GMT</pubDate>
+            <content:encoded><![CDATA[짧은 봄을 마음껏 즐기기에는 ‘이런’ 전시가 제격! 화사한 기운이 가득한 전시장으로의 소풍!...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/65e1f587-507c-413d-98c8-32fcb4e51c81.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찐 내돈내산! 혜리의 슬기로운 독립생활]]></title>
+            <link>https://www.elle.co.kr/article/65432</link>
+            <guid>https://www.elle.co.kr/article/65432</guid>
+            <pubDate>Wed, 20 Apr 2022 05:58:47 GMT</pubDate>
+            <content:encoded><![CDATA[인생 첫 자취를 시작한 혜리가 새로운 보금자리를 꾸미기 위해 구매한 아이템은? 찐 내돈내산 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8d02adc7-5e8b-4991-9cb6-4db8daac98e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무해한 밥상을 위한 나의 비건 책 #ELLE그린]]></title>
+            <link>https://www.elle.co.kr/article/65381</link>
+            <guid>https://www.elle.co.kr/article/65381</guid>
+            <pubDate>Wed, 20 Apr 2022 05:58:47 GMT</pubDate>
+            <content:encoded><![CDATA[비거니즘을 살포시 응원하는 책 5.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/09/3fc7bee1-3a60-4df2-86ac-5830840f8c8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진짜 남친 김우빈과 한 드라마 나오는 신민아, 노희경 작가가 양해 구한 이유]]></title>
             <link>https://www.elle.co.kr/article/65349</link>
@@ -46,30 +70,6 @@
             <pubDate>Sat, 09 Apr 2022 17:44:50 GMT</pubDate>
             <content:encoded><![CDATA[최고&nbsp;시청률을 10.6%&nbsp;경신한 드라마 ‘군검사 도베르만’의 킬링 포인트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/ec44bc77-09be-406f-a175-d2479cae8ca5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑하는 얼굴들에 대한 두 편의 전시]]></title>
-            <link>https://www.elle.co.kr/article/64991</link>
-            <guid>https://www.elle.co.kr/article/64991</guid>
-            <pubDate>Sat, 09 Apr 2022 17:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[캘리 비맨의 그림 속 오묘한 얼굴들. 그리고 23인의 글로벌 아티스트가 담은 사랑에 대하여]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/30/e5e0c03e-9367-4f4b-9aa3-f6e77e9991b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4인조 빅뱅, 컴백 날짜 확정! YG 그만 둔다는 탑의 행보는?]]></title>
-            <link>https://www.elle.co.kr/article/64944</link>
-            <guid>https://www.elle.co.kr/article/64944</guid>
-            <pubDate>Thu, 07 Apr 2022 05:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[4인조로 하는 사실상 첫 활동.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/b3de5ec1-eac5-4e5b-b2fa-463c592bfe35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 크리에이터 그룹 '미지'의 세상]]></title>
-            <link>https://www.elle.co.kr/article/64942</link>
-            <guid>https://www.elle.co.kr/article/64942</guid>
-            <pubDate>Tue, 05 Apr 2022 17:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[픽셀 아트와 모노크롬 컴퓨터그래픽을 기반으로 다채로운 콘텐츠를 만들어내는 그룹 미지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/24/648d3272-3135-41e3-87dc-62a63e532584.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

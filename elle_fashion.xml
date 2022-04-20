@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 17:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 06:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작은 주얼리에 함축적으로 담아낸 패션 하우스의 DNA, 로고!]]></title>
+            <link>https://www.elle.co.kr/article/65585</link>
+            <guid>https://www.elle.co.kr/article/65585</guid>
+            <pubDate>Wed, 20 Apr 2022 05:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[로고 임팩트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/46bcb799-a7b3-4264-bd8e-c6cfcfb03330.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니, 켄달 제너, 한예슬의 공통점은? 오렌지 헤어 유행각!]]></title>
+            <link>https://www.elle.co.kr/article/65546</link>
+            <guid>https://www.elle.co.kr/article/65546</guid>
+            <pubDate>Wed, 20 Apr 2022 05:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[봄 여름을 위한 헤어 컬러 제안! 스타들이 예고한 오렌지 헤어 유행에 동참해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/0742d684-ce1f-4cee-b7f6-c4fa3d54adaa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먹지 마세요. 패션에 양보하세요.]]></title>
+            <link>https://www.elle.co.kr/article/65545</link>
+            <guid>https://www.elle.co.kr/article/65545</guid>
+            <pubDate>Wed, 20 Apr 2022 05:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[지속 가능한 패션을 위해 포도, 옥수수, 파인애플 등 과일과 채소의 성분으로 만든 아이템들....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/673c46b4-f711-4b22-9a0f-0510a60f395c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬기로운 패치생활]]></title>
             <link>https://www.elle.co.kr/article/65301</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 17:47:42 GMT</pubDate>
             <content:encoded><![CDATA[사랑스러움 치사량 초과! 셀러브리티의 사복 패션에서 발견한 메리제인 슈즈 신는 법!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/5de39d34-a5a1-4727-b57e-b42728a763f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평화를 지지하는 발렌시아가의 쇼 부터 오르세 미술관에서 열린 루이 비통의 쇼까지. #22FW파리]]></title>
-            <link>https://www.elle.co.kr/article/65494</link>
-            <guid>https://www.elle.co.kr/article/65494</guid>
-            <pubDate>Fri, 15 Apr 2022 17:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022 F/W 파리 패션 위크에서 생긴 일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/7e971bc8-c1a6-4525-a2bb-4b1abe8e53b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케미 맛집의 OOTD! '사내맞선' 김세정 VS 설인아 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/65471</link>
-            <guid>https://www.elle.co.kr/article/65471</guid>
-            <pubDate>Fri, 15 Apr 2022 17:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[올봄 K-로코의 저력을 다시 한 번 입증한 드라마 '사내 맞선'. 드라마의 인기를 견인한 김...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/8c2bc8db-c3a0-4f58-998a-0da7e50dbe6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어팟 말고 색다른 짝꿍!]]></title>
-            <link>https://www.elle.co.kr/article/65470</link>
-            <guid>https://www.elle.co.kr/article/65470</guid>
-            <pubDate>Fri, 15 Apr 2022 17:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[내 귀에 새로운 선물을 전할 시간. 이색적인 두 이어폰을 추천한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/ce898dbb-01ad-4032-afc1-ac4cf86e6446.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
