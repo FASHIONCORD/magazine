@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 06:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 17:58:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세계 3대 음악 경연' 차이콥스키 콩쿠르가 국제 무대에서 퇴출 당할 수밖에 없는 이유]]></title>
+            <link>https://www.elle.co.kr/article/65682</link>
+            <guid>https://www.elle.co.kr/article/65682</guid>
+            <pubDate>Thu, 21 Apr 2022 17:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 자존심과도 같던 차이콥스키 콩쿠르가 보이콧을 당하고 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/202d22ec-97d6-4eeb-bb18-95f9e274fe46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4인조 빅뱅, 컴백 날짜 확정! YG 그만 둔다는 탑의 행보는?]]></title>
             <link>https://www.elle.co.kr/article/64944</link>
@@ -102,14 +110,6 @@
             <pubDate>Sun, 12 Dec 2021 05:43:39 GMT</pubDate>
             <content:encoded><![CDATA[&lt;스트릿 우먼 파이터&gt;의 리더들과 최정남PD, 그리고 올해도 반짝인 블랙핑크.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/12/da1a0097-ed2f-49c7-ae6a-963329e9218b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['평사원→임원 신화' 민희진 하이브 CBO가 처음 전한 자신의 이야기]]></title>
-            <link>https://www.elle.co.kr/article/61736</link>
-            <guid>https://www.elle.co.kr/article/61736</guid>
-            <pubDate>Fri, 03 Dec 2021 17:52:20 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대, 샤이니, f(x), 엑소, 레드벨벳, NCT의 이미지를 만든 인물.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/1fdeae7d-ca2e-4cc9-b04f-6a590b83410f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

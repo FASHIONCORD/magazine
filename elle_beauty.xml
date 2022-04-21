@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 06:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 17:58:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몰튼 브라운과 비건 레스토랑 몽크스부처의 만남]]></title>
+            <link>https://www.elle.co.kr/article/65422</link>
+            <guid>https://www.elle.co.kr/article/65422</guid>
+            <pubDate>Thu, 21 Apr 2022 17:52:27 GMT</pubDate>
+            <content:encoded><![CDATA[지구의 달을 맞아 글로벌 친환경 브랜드 몰튼 브라운과 비건 레스토랑 몽크스부처가 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/e214be67-11e7-48e8-9b99-39c3940bcc34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[40kg 초반 몸무게, 이혜성이 즐기는 다이어트 간식 Top 5.]]></title>
             <link>https://www.elle.co.kr/article/65552</link>
@@ -53,7 +61,7 @@
             <guid>https://www.elle.co.kr/article/65429</guid>
             <pubDate>Sun, 17 Apr 2022 17:44:58 GMT</pubDate>
             <content:encoded><![CDATA[자극은 없애고 스킨케어 효과와 해양 환경 보호까지, 또다시 진화한 자차들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/f8a9923d-e621-4b1c-9b8f-055009c250c9.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/f8a9923d-e621-4b1c-9b8f-055009c250c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빛과 물로 탄생한 광채의 순간]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 17 Apr 2022 17:44:58 GMT</pubDate>
             <content:encoded><![CDATA[빛나는 광채로 아름다운 피부를 선사하는 라프레리의 신제품 '화이트 캐비아 에센스 엑스트라오 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/3cc75619-1137-4449-853d-ea18384eaa35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄, 세븐틴 민규의 설레는 시작]]></title>
-            <link>https://www.elle.co.kr/article/65136</link>
-            <guid>https://www.elle.co.kr/article/65136</guid>
-            <pubDate>Sun, 17 Apr 2022 05:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[민규의 조각 같은 완벽한 얼굴에 랑콤 클라리피끄 듀얼 에센스로 맑고 투명한 빛을 더하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/bb3640d4-1c13-461b-a3e8-110fbdc6cac2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
