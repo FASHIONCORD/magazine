@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 17:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 06:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃 구경 인증샷을 위한 스타일링 7.]]></title>
+            <link>https://www.elle.co.kr/article/65612</link>
+            <guid>https://www.elle.co.kr/article/65612</guid>
+            <pubDate>Thu, 21 Apr 2022 05:57:15 GMT</pubDate>
+            <content:encoded><![CDATA[만개한 꽃과 함께 즐거운 시간을 보낸 그들 처럼 시간이 없기에 더 찬란한 봄을 만끽해보세요!...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/4b0baffe-51cf-4f1a-9939-30bd48194e4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작은 주얼리에 함축적으로 담아낸 패션 하우스의 DNA, 로고!]]></title>
             <link>https://www.elle.co.kr/article/65585</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 17:47:42 GMT</pubDate>
             <content:encoded><![CDATA[보일 듯 말 듯 아찔한 시스루 소재가 돌아왔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/f5818b19-3555-49ef-82bf-9b183e54b4bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시즌 저격! 메리제인 슈즈 스타일링 5.]]></title>
-            <link>https://www.elle.co.kr/article/65495</link>
-            <guid>https://www.elle.co.kr/article/65495</guid>
-            <pubDate>Tue, 19 Apr 2022 17:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[사랑스러움 치사량 초과! 셀러브리티의 사복 패션에서 발견한 메리제인 슈즈 신는 법!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/5de39d34-a5a1-4727-b57e-b42728a763f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

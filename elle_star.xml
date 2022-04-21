@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 17:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 06:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘사내맞선’ 김민규, 비서 수트 벗고 다채로운 매력 발산]]></title>
+            <link>https://www.elle.co.kr/article/65607</link>
+            <guid>https://www.elle.co.kr/article/65607</guid>
+            <pubDate>Thu, 21 Apr 2022 05:58:09 GMT</pubDate>
+            <content:encoded><![CDATA[‘로코장인’ 김민규, 화보 장인으로 거듭난 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/7fd36a01-6e0e-4acb-bbba-e5c4eee42a68.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃 구경 인증샷을 위한 스타일링 7.]]></title>
             <link>https://www.elle.co.kr/article/65612</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 17:48:34 GMT</pubDate>
             <content:encoded><![CDATA[DKZ 재찬의 첫 &lt;엘르&gt; 단독 화보 공개]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/1c06947c-bbdd-47e2-9e8d-46048af086c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40kg 초반 몸무게, 이혜성이 즐기는 다이어트 간식 Top 5.]]></title>
-            <link>https://www.elle.co.kr/article/65552</link>
-            <guid>https://www.elle.co.kr/article/65552</guid>
-            <pubDate>Tue, 19 Apr 2022 05:48:04 GMT</pubDate>
-            <content:encoded><![CDATA[간식, 이렇게만 바꾸면 살 빠져요! 다이어트 중 공복감을 줄여 폭식을 막는 간식템을 이혜성이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/b2a85bbe-6361-4619-bf9e-0046e9e142bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
