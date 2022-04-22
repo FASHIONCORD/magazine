@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 17:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 06:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플을 씹어먹으려던 기업이 있었다_돈쓸신잡 #41]]></title>
+            <link>https://www.elle.co.kr/article/65537</link>
+            <guid>https://www.elle.co.kr/article/65537</guid>
+            <pubDate>Fri, 22 Apr 2022 06:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[영원한 관계가 없듯 영원한 기업도 없다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/58be338f-96b4-49a6-acb5-c5abc7ac81b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2년 만에 드디어 끝난 사회적 거리두기, 이제 마스크 벗어도 되나요?]]></title>
+            <link>https://www.elle.co.kr/article/65534</link>
+            <guid>https://www.elle.co.kr/article/65534</guid>
+            <pubDate>Fri, 22 Apr 2022 06:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 본격적으로 일상 회복에 돌입하는 한국.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/da46b8f5-6bb4-4ab5-b69b-7758a44cd678.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OTT, 음원 스트리밍 이용료 줄줄이 오르는 이유? 구글 인앱결제 의무화 논란의 모든 것]]></title>
+            <link>https://www.elle.co.kr/article/65507</link>
+            <guid>https://www.elle.co.kr/article/65507</guid>
+            <pubDate>Fri, 22 Apr 2022 06:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[이미 애플 사용자들은 겪고 있던 가격 문제.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/7701fb71-6630-4948-b736-9de46fa0586e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 그래서 기상청에서 무슨 일이 생긴 거래? 드라마 기상청사람들 로 본 철학]]></title>
             <link>https://www.elle.co.kr/article/65299</link>
@@ -46,29 +70,6 @@
             <pubDate>Fri, 15 Apr 2022 17:54:10 GMT</pubDate>
             <content:encoded><![CDATA[보이지 않아도 괜찮아요. 보려고 하는 마음이 있으니까.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/10/ded7fb2e-5f17-4dde-8a2e-4dd8e44cee42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환경보호 그 자체가 놀이이자 예술이 된다고? #ELLE그린]]></title>
-            <link>https://www.elle.co.kr/article/65390</link>
-            <guid>https://www.elle.co.kr/article/65390</guid>
-            <pubDate>Wed, 13 Apr 2022 17:51:46 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계의 ‘그린 제너레이션’이 전해온 내 몸과 지구를 동시에 지키는 방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8be2aa10-4761-4789-be86-6b61284ced69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무해한 밥상을 위한 나의 비건 책 #ELLE그린]]></title>
-            <link>https://www.elle.co.kr/article/65381</link>
-            <guid>https://www.elle.co.kr/article/65381</guid>
-            <pubDate>Wed, 13 Apr 2022 05:48:13 GMT</pubDate>
-            <content:encoded><![CDATA[비거니즘을 살포시 응원하는 책 5.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/09/3fc7bee1-3a60-4df2-86ac-5830840f8c8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“나를 체포하라” 80세 넘은 배우의 신념_돈쓸신잡 #40 #ELLE그린]]></title>
-            <link>https://www.elle.co.kr/article/65343</link>
-            <guid>https://www.elle.co.kr/article/65343</guid>
-            <pubDate>Wed, 13 Apr 2022 05:48:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/ccda0313-6b68-4262-9cd6-f4352c69623b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

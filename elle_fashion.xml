@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 17:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 06:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌처럼 머리하고 싶다면? '힙'한 헤어스타일링 팁]]></title>
+            <link>https://www.elle.co.kr/article/65616</link>
+            <guid>https://www.elle.co.kr/article/65616</guid>
+            <pubDate>Fri, 22 Apr 2022 05:56:14 GMT</pubDate>
+            <content:encoded><![CDATA[개성있는 패션 센스로 주목받는 Kard의 소민이 ‘힙’한 헤어 스타일링의 비법을 공개합니다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/95607713-1c7c-4dc3-8c3b-b2f295a8468a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곡선이 매력적인 호보백]]></title>
+            <link>https://www.elle.co.kr/article/65306</link>
+            <guid>https://www.elle.co.kr/article/65306</guid>
+            <pubDate>Fri, 22 Apr 2022 05:56:14 GMT</pubDate>
+            <content:encoded><![CDATA[유연한 실루엣이 대세, 지금은 호보백 시대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/f7dbaf66-1b11-4bde-bff0-226790d6ed8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃 구경 인증샷을 위한 스타일링 7.]]></title>
             <link>https://www.elle.co.kr/article/65612</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 17:47:42 GMT</pubDate>
             <content:encoded><![CDATA[미도의 브랜드 앰버서더로 나선 김수현. 그 안에서 빛나는 다양한 컬렉션들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/58a77573-6fa8-43c5-933e-8d64a4b123e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이트 룩에 제격, 화이트 원피스 추천 (8만 원대부터 1백만 원대까지)]]></title>
-            <link>https://www.elle.co.kr/article/65520</link>
-            <guid>https://www.elle.co.kr/article/65520</guid>
-            <pubDate>Tue, 19 Apr 2022 17:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[원피스 입으려고 봄 기다린 사람 손! 입는 순간 조명을 비춘 듯 환해지는 화이트 컬러의 봄 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/7678c38b-810a-4cf5-8569-1ca22e0c1439.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보일 듯 말 듯! 시스루의 계절]]></title>
-            <link>https://www.elle.co.kr/article/65300</link>
-            <guid>https://www.elle.co.kr/article/65300</guid>
-            <pubDate>Tue, 19 Apr 2022 17:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[보일 듯 말 듯 아찔한 시스루 소재가 돌아왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/f5818b19-3555-49ef-82bf-9b183e54b4bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

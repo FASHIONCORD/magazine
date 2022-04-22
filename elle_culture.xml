@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 17:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 06:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘르는 여자들 이야기에 진심입니다. 이걸 다 이 사람들이 썼다고?]]></title>
+            <link>https://www.elle.co.kr/article/65463</link>
+            <guid>https://www.elle.co.kr/article/65463</guid>
+            <pubDate>Fri, 22 Apr 2022 05:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[삶에 레퍼런스가 필요한 당신을 위한 엘르보이스 언니들이 쓴 여섯 권의 책]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/ba5e871e-00e8-4cc2-9ed7-14f5e2d7be67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄을 만끽해! 이번 주 갈만한 전시 3.]]></title>
             <link>https://www.elle.co.kr/article/65434</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Apr 2022 05:44:17 GMT</pubDate>
             <content:encoded><![CDATA[드라마 속 관계성에 혼란이 온다고요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/5b0e9ee2-c57d-40f5-931a-a055b65263fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘군검사 도베르만’ 시청률의 비밀]]></title>
-            <link>https://www.elle.co.kr/article/65198</link>
-            <guid>https://www.elle.co.kr/article/65198</guid>
-            <pubDate>Sat, 09 Apr 2022 17:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[최고&nbsp;시청률을 10.6%&nbsp;경신한 드라마 ‘군검사 도베르만’의 킬링 포인트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/01/ec44bc77-09be-406f-a175-d2479cae8ca5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
