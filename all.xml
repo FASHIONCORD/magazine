@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 06:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 17:57:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1992,6 +1992,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/1c06947c-bbdd-47e2-9e8d-46048af086c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지금 모두 운동장으로! 끝없이 서로의 가능성을 믿는 나이키 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/65568</link>
+            <guid>https://www.elle.co.kr/article/65568</guid>
+            <pubDate>Fri, 22 Apr 2022 17:51:53 GMT</pubDate>
+            <content:encoded><![CDATA[모든 이들이 스포츠의 즐거움을 동등하게 누릴 수 있는 모두의 운동장을 위하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/f2ff9b50-8321-4061-ad37-cda3de43eef3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엘르는 여자들 이야기에 진심입니다. 이걸 다 이 사람들이 썼다고? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/65463</link>
             <guid>https://www.elle.co.kr/article/65463</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 05 Apr 2022 17:49:23 GMT</pubDate>
             <content:encoded><![CDATA[진짜 12회로 끝인가요...?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/0d708c0e-7432-4f3d-b252-2e131842fbd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['돼지의왕' 트리오의 케미 폭발 인터뷰 대공개! (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/65237</link>
-            <guid>https://www.elle.co.kr/article/65237</guid>
-            <pubDate>Mon, 04 Apr 2022 17:49:36 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 속 관계성에 혼란이 온다고요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/04/5b0e9ee2-c57d-40f5-931a-a055b65263fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['세계 3대 음악 경연' 차이콥스키 콩쿠르가 국제 무대에서 퇴출 당할 수밖에 없는 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
