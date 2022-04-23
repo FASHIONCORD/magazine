@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 05:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 17:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환불원정대 아닌가요? 38kg 뺀 유지어터 김신영이 진행하는 '빼고파' 출연진 라인업]]></title>
+            <link>https://www.elle.co.kr/article/65608</link>
+            <guid>https://www.elle.co.kr/article/65608</guid>
+            <pubDate>Sat, 23 Apr 2022 17:46:29 GMT</pubDate>
+            <content:encoded><![CDATA[초점은 '마르는 것'이 아닌 '건강한 체중 감량'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/799f9ba5-e01c-4ae7-92ad-3bd1d6a4e5d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 모두 운동장으로! 끝없이 서로의 가능성을 믿는 나이키]]></title>
             <link>https://www.elle.co.kr/article/65568</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Apr 2022 05:43:09 GMT</pubDate>
             <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/74b00fa9-198b-42ed-b9c9-7039f41d8081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아는 맛이라 더 무서운 '사내맞선', 김세정X안효섭 시청률 공약부터 파격 베드신까지]]></title>
-            <link>https://www.elle.co.kr/article/65272</link>
-            <guid>https://www.elle.co.kr/article/65272</guid>
-            <pubDate>Tue, 12 Apr 2022 05:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 12회로 끝인가요...?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/0d708c0e-7432-4f3d-b252-2e131842fbd1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

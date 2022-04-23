@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 05:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 17:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1928,6 +1928,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/08/3cc75619-1137-4449-853d-ea18384eaa35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[톰보이와 미연 그 사이 어딘가, 미연 단독 화보 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/65673</link>
+            <guid>https://www.elle.co.kr/article/65673</guid>
+            <pubDate>Sat, 23 Apr 2022 17:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴 천재 (여자) 아이들 미연, &lt;엘르&gt; 화보 촬영.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/69562125-cc83-4f6c-90fa-0f842be9c36b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동물과 흙을 사랑하는 91세의 아티스트 #ELLE그린 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/65691</link>
+            <guid>https://www.elle.co.kr/article/65691</guid>
+            <pubDate>Sat, 23 Apr 2022 17:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[동물을 떠올리며 흙을 주무를 때 가장 행복한 스웨덴 세라믹 아티스트 리사 라르손. 아르켓, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/7b4f40c0-2181-4d73-acb4-b62a8398442e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이런 텐션 처음이야(?) 토크좌 vs 방패좌 '앵커' 천우희, 신하균 환상의 티키타카 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/65688</link>
             <guid>https://www.elle.co.kr/article/65688</guid>
@@ -1976,20 +1992,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/f9429948-227d-4fcb-a669-af346ae972a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['주당+면쟁이' 소이현이 일상에서 꾸준히 실천하는 현실 다이어트 꿀팁 5 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/65624</link>
-            <guid>https://www.elle.co.kr/article/65624</guid>
-            <pubDate>Sat, 23 Apr 2022 05:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[앞서 먹덧으로 찐 25kg을 한 달 만에 뺀 비법을 공개했던 소이현.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/88f18063-c8d6-4e3a-89a8-e540be1ff388.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘사내맞선’ 김민규, 비서 수트 벗고 다채로운 매력 발산 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/65607</link>
-            <guid>https://www.elle.co.kr/article/65607</guid>
-            <pubDate>Thu, 21 Apr 2022 05:58:09 GMT</pubDate>
-            <content:encoded><![CDATA[‘로코장인’ 김민규, 화보 장인으로 거듭난 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/7fd36a01-6e0e-4acb-bbba-e5c4eee42a68.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[환불원정대 아닌가요? 38kg 뺀 유지어터 김신영이 진행하는 '빼고파' 출연진 라인업 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/65608</link>
+            <guid>https://www.elle.co.kr/article/65608</guid>
+            <pubDate>Tue, 19 Apr 2022 17:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[초점은 '마르는 것'이 아닌 '건강한 체중 감량'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/799f9ba5-e01c-4ae7-92ad-3bd1d6a4e5d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 모두 운동장으로! 끝없이 서로의 가능성을 믿는 나이키 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2046,14 +2054,6 @@
             <pubDate>Sat, 09 Apr 2022 05:45:05 GMT</pubDate>
             <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/74b00fa9-198b-42ed-b9c9-7039f41d8081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아는 맛이라 더 무서운 '사내맞선', 김세정X안효섭 시청률 공약부터 파격 베드신까지 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/65272</link>
-            <guid>https://www.elle.co.kr/article/65272</guid>
-            <pubDate>Tue, 05 Apr 2022 17:49:23 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 12회로 끝인가요...?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/0d708c0e-7432-4f3d-b252-2e131842fbd1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['세계 3대 음악 경연' 차이콥스키 콩쿠르가 국제 무대에서 퇴출 당할 수밖에 없는 이유 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>

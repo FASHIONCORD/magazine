@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 05:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 17:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰보이와 미연 그 사이 어딘가, 미연 단독 화보]]></title>
+            <link>https://www.elle.co.kr/article/65673</link>
+            <guid>https://www.elle.co.kr/article/65673</guid>
+            <pubDate>Sat, 23 Apr 2022 17:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴 천재 (여자) 아이들 미연, &lt;엘르&gt; 화보 촬영.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/69562125-cc83-4f6c-90fa-0f842be9c36b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동물과 흙을 사랑하는 91세의 아티스트 #ELLE그린]]></title>
+            <link>https://www.elle.co.kr/article/65691</link>
+            <guid>https://www.elle.co.kr/article/65691</guid>
+            <pubDate>Sat, 23 Apr 2022 17:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[동물을 떠올리며 흙을 주무를 때 가장 행복한 스웨덴 세라믹 아티스트 리사 라르손. 아르켓, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/7b4f40c0-2181-4d73-acb4-b62a8398442e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 텐션 처음이야(?) 토크좌 vs 방패좌 '앵커' 천우희, 신하균 환상의 티키타카]]></title>
             <link>https://www.elle.co.kr/article/65688</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 23 Apr 2022 05:42:07 GMT</pubDate>
             <content:encoded><![CDATA[스타일리시한 오피스 룩이란 이런 것! 홈쇼핑 회사를 배경으로 펼쳐진 드라마 '킬힐' 속 김하...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/f9429948-227d-4fcb-a669-af346ae972a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['주당+면쟁이' 소이현이 일상에서 꾸준히 실천하는 현실 다이어트 꿀팁 5]]></title>
-            <link>https://www.elle.co.kr/article/65624</link>
-            <guid>https://www.elle.co.kr/article/65624</guid>
-            <pubDate>Sat, 23 Apr 2022 05:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[앞서 먹덧으로 찐 25kg을 한 달 만에 뺀 비법을 공개했던 소이현.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/88f18063-c8d6-4e3a-89a8-e540be1ff388.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘사내맞선’ 김민규, 비서 수트 벗고 다채로운 매력 발산]]></title>
-            <link>https://www.elle.co.kr/article/65607</link>
-            <guid>https://www.elle.co.kr/article/65607</guid>
-            <pubDate>Thu, 21 Apr 2022 05:58:09 GMT</pubDate>
-            <content:encoded><![CDATA[‘로코장인’ 김민규, 화보 장인으로 거듭난 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/7fd36a01-6e0e-4acb-bbba-e5c4eee42a68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
