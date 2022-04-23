@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 17:57:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 05:46:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 어느날 화분을 주웠다. 꽃이 피지 않았다. 내 꽃은 어디에 있는 걸까]]></title>
+            <link>https://www.elle.co.kr/article/65539</link>
+            <guid>https://www.elle.co.kr/article/65539</guid>
+            <pubDate>Sat, 23 Apr 2022 05:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지션 김사월이 동백나무 화분에게 배운 것]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/16/034e36dc-7e2a-436c-88e2-3ffee638e978.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플을 씹어먹으려던 기업이 있었다_돈쓸신잡 #41]]></title>
             <link>https://www.elle.co.kr/article/65537</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Apr 2022 17:54:10 GMT</pubDate>
             <content:encoded><![CDATA[각개전투 말고 같이 살면 안되는 걸까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/e88a79aa-adb2-4e82-a249-7ead6370e7d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 할아버지는 내 얼굴을 볼 수 없어? 이 사실을 알게 된 여섯살 아이의 반응]]></title>
-            <link>https://www.elle.co.kr/article/65396</link>
-            <guid>https://www.elle.co.kr/article/65396</guid>
-            <pubDate>Fri, 15 Apr 2022 17:54:10 GMT</pubDate>
-            <content:encoded><![CDATA[보이지 않아도 괜찮아요. 보려고 하는 마음이 있으니까.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/10/ded7fb2e-5f17-4dde-8a2e-4dd8e44cee42.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
