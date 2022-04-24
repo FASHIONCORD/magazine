@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 05:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 17:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3인 3색 출근룩 맛집! '킬힐' 김하늘 VS 김성령 VS 이혜영 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/65632</link>
+            <guid>https://www.elle.co.kr/article/65632</guid>
+            <pubDate>Sun, 24 Apr 2022 17:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[스타일리시한 오피스 룩이란 이런 것! 홈쇼핑 회사를 배경으로 펼쳐진 드라마 '킬힐' 속 김하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/f9429948-227d-4fcb-a669-af346ae972a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필드 위에서도 자신 있게! 배우 임수향의 피레티 골프웨어.]]></title>
+            <link>https://www.elle.co.kr/article/65588</link>
+            <guid>https://www.elle.co.kr/article/65588</guid>
+            <pubDate>Sun, 24 Apr 2022 17:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[프레스티지 골프웨어 피레티로 완성한 임수향의 싱그러운 라운딩 룩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/931010ff-6349-4401-bf85-2460fc8934f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이돌처럼 머리하고 싶다면? '힙'한 헤어스타일링 팁]]></title>
             <link>https://www.elle.co.kr/article/65616</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 20 Apr 2022 05:55:51 GMT</pubDate>
             <content:encoded><![CDATA[지속 가능한 패션을 위해 포도, 옥수수, 파인애플 등 과일과 채소의 성분으로 만든 아이템들....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/673c46b4-f711-4b22-9a0f-0510a60f395c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬기로운 패치생활]]></title>
-            <link>https://www.elle.co.kr/article/65301</link>
-            <guid>https://www.elle.co.kr/article/65301</guid>
-            <pubDate>Tue, 19 Apr 2022 17:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[골린이' '테린이' 라면 꼭 알아야할 자외선 패치.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/16/d6db64da-979b-4620-87ce-784acb142cb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대체 불가의 아이콘, 김수현과 미도의 드라마틱한 만남]]></title>
-            <link>https://www.elle.co.kr/article/65274</link>
-            <guid>https://www.elle.co.kr/article/65274</guid>
-            <pubDate>Tue, 19 Apr 2022 17:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[미도의 브랜드 앰버서더로 나선 김수현. 그 안에서 빛나는 다양한 컬렉션들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/58a77573-6fa8-43c5-933e-8d64a4b123e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 05:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 17:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이효리가 다녀온 맛집 3.]]></title>
+            <link>https://www.elle.co.kr/article/65703</link>
+            <guid>https://www.elle.co.kr/article/65703</guid>
+            <pubDate>Sun, 24 Apr 2022 17:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[서울 체크인한 이효리가 들른 브런치 맛집부터 힙한 칵테일 바까지! 언제나 따라하고 싶은 효리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/a32bfabf-12f7-4d39-a07a-e3878f260a0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톰보이와 미연 그 사이 어딘가, 미연 단독 화보]]></title>
             <link>https://www.elle.co.kr/article/65673</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 23 Apr 2022 05:42:07 GMT</pubDate>
             <content:encoded><![CDATA[유재석, 전지현, 장동건-고소영 부부들이 선택한 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/bba8a435-b0a2-464a-8a1d-2339c8f692c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3인 3색 출근룩 맛집! '킬힐' 김하늘 VS 김성령 VS 이혜영 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/65632</link>
-            <guid>https://www.elle.co.kr/article/65632</guid>
-            <pubDate>Sat, 23 Apr 2022 05:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[스타일리시한 오피스 룩이란 이런 것! 홈쇼핑 회사를 배경으로 펼쳐진 드라마 '킬힐' 속 김하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/f9429948-227d-4fcb-a669-af346ae972a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
