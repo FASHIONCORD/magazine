@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 17:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 05:47:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 모두 운동장으로! 끝없이 서로의 가능성을 믿는 나이키]]></title>
+            <link>https://www.elle.co.kr/article/65568</link>
+            <guid>https://www.elle.co.kr/article/65568</guid>
+            <pubDate>Sun, 24 Apr 2022 05:47:54 GMT</pubDate>
+            <content:encoded><![CDATA[모든 이들이 스포츠의 즐거움을 동등하게 누릴 수 있는 모두의 운동장을 위하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/f2ff9b50-8321-4061-ad37-cda3de43eef3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 어느날 화분을 주웠다. 꽃이 피지 않았다. 내 꽃은 어디에 있는 걸까]]></title>
             <link>https://www.elle.co.kr/article/65539</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Apr 2022 17:54:10 GMT</pubDate>
             <content:encoded><![CDATA[지금까지는 나이 세는 법만 세 가지였다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/756ce3d3-97a5-4c85-8e56-cd0efcd61a58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 혐오발언과 편가르기 속에서도 우리가 계속 다정한 미래를 꿈꿔야 하는 이유]]></title>
-            <link>https://www.elle.co.kr/article/65436</link>
-            <guid>https://www.elle.co.kr/article/65436</guid>
-            <pubDate>Fri, 15 Apr 2022 17:54:10 GMT</pubDate>
-            <content:encoded><![CDATA[각개전투 말고 같이 살면 안되는 걸까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/e88a79aa-adb2-4e82-a249-7ead6370e7d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
