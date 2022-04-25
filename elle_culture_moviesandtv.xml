@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 17:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 05:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안 마주치는 줄 알았더니! 김우빈, '우리들의 블루스'에서 바다에 뛰어든 신민아 구조?]]></title>
+            <link>https://www.elle.co.kr/article/65759</link>
+            <guid>https://www.elle.co.kr/article/65759</guid>
+            <pubDate>Mon, 25 Apr 2022 05:46:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/024f2287-29db-4652-ad95-a255142db7a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사회적 거리두기 끝, 마블 히어로 출격! 3개월 동안 공개되는 MCU 영화와 드라마 3]]></title>
             <link>https://www.elle.co.kr/article/65715</link>
@@ -102,14 +109,6 @@
             <pubDate>Wed, 09 Mar 2022 05:43:38 GMT</pubDate>
             <content:encoded><![CDATA[배우 배해선은 자신을 알아가는 시간 끝에 진짜 '나'를 마주했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/8c47c28f-44df-4c2b-b260-bf9f3a4edad1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SAG 남녀연기상까지 받아 버린 '오겜' 이정재X정호연의 뭉클한 수상 소감(feat. 루이 비통 댕기)]]></title>
-            <link>https://www.elle.co.kr/article/64249</link>
-            <guid>https://www.elle.co.kr/article/64249</guid>
-            <pubDate>Mon, 28 Feb 2022 17:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[비영어권 드라마 배우가 탄 최초의 SAG 연기상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202202/28/1c9d1106-ed0e-45dc-a913-94e5a7402ef0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
