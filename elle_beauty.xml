@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 17:53:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민감해진 피부를 더 민감하게 하는 습관 TOP 3]]></title>
+            <link>https://www.elle.co.kr/article/65575</link>
+            <guid>https://www.elle.co.kr/article/65575</guid>
+            <pubDate>Mon, 25 Apr 2022 17:47:35 GMT</pubDate>
+            <content:encoded><![CDATA[무심코 했던 이 행동들. 피부를 더 민감하게 한다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/f1de0252-cc2d-4e8f-95b1-eb5f2fd912b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수부지 피부의 스킨케어 레시피_선배's 어드바이스 #113]]></title>
             <link>https://www.elle.co.kr/article/65573</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Apr 2022 05:43:35 GMT</pubDate>
             <content:encoded><![CDATA[식단 관리가 몸에 밴 발레리나의 다이어트 레서피는? 윤혜진표 식단을 참고해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/2dfb85af-8f2f-4062-8ef6-2995ec8d46ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 NEW! 자외선 차단제 선택하는 법_선배's 어드바이스 #112]]></title>
-            <link>https://www.elle.co.kr/article/65429</link>
-            <guid>https://www.elle.co.kr/article/65429</guid>
-            <pubDate>Sun, 17 Apr 2022 17:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[자극은 없애고 스킨케어 효과와 해양 환경 보호까지, 또다시 진화한 자차들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/f8a9923d-e621-4b1c-9b8f-055009c250c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

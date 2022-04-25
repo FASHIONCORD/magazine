@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 17:53:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 X BIFF 아시아영화아카데미]]></title>
+            <link>https://www.elle.co.kr/article/65590</link>
+            <guid>https://www.elle.co.kr/article/65590</guid>
+            <pubDate>Mon, 25 Apr 2022 17:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬이 부산국제영화제 아시아영화아카데미를 지원한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/cfa5ca99-904b-4c50-883c-ac36f87baeed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환불원정대 아닌가요? 38kg 뺀 유지어터 김신영이 진행하는 '빼고파' 출연진 라인업]]></title>
             <link>https://www.elle.co.kr/article/65608</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 05:48:45 GMT</pubDate>
             <content:encoded><![CDATA[극 중 남친은 다른 사람?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/2aaa79eb-1b01-4bd8-bf31-de2c890d5150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 아트 신의 신인류, '영 컬렉터'의 흐름]]></title>
-            <link>https://www.elle.co.kr/article/65334</link>
-            <guid>https://www.elle.co.kr/article/65334</guid>
-            <pubDate>Thu, 14 Apr 2022 05:43:09 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/74b00fa9-198b-42ed-b9c9-7039f41d8081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
