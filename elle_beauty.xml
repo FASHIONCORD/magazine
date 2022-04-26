@@ -4,14 +4,22 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 17:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 05:49:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약국 약과 편의점 약은 다르다!?_몸에 좋은 잔소리 #41]]></title>
+            <link>https://www.elle.co.kr/article/65589</link>
+            <guid>https://www.elle.co.kr/article/65589</guid>
+            <pubDate>Tue, 26 Apr 2022 05:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[편의점 약, 뭐가 다를까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/aaa67b18-9a9e-4975-88b1-c8456fcfe3d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민감해진 피부를 더 민감하게 하는 습관 TOP 3]]></title>
             <link>https://www.elle.co.kr/article/65575</link>
             <guid>https://www.elle.co.kr/article/65575</guid>
-            <pubDate>Mon, 25 Apr 2022 17:47:35 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2022 05:43:08 GMT</pubDate>
             <content:encoded><![CDATA[무심코 했던 이 행동들. 피부를 더 민감하게 한다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/f1de0252-cc2d-4e8f-95b1-eb5f2fd912b4.jpg" length="0" type="image/jpg"/>
         </item>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Apr 2022 17:46:51 GMT</pubDate>
             <content:encoded><![CDATA[민감성 피부를 가진 이들에게 4월은 결코 반갑지 않은 달. 의외로 당신의 스킨케어 습관에 함...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/ae13b0d9-1c8e-4205-a476-2be3f06294e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤혜진이 엄정화에게 전수한 명란 리조또, 케비지 롤! 다이어트 레서피]]></title>
-            <link>https://www.elle.co.kr/article/65433</link>
-            <guid>https://www.elle.co.kr/article/65433</guid>
-            <pubDate>Mon, 18 Apr 2022 05:43:35 GMT</pubDate>
-            <content:encoded><![CDATA[식단 관리가 몸에 밴 발레리나의 다이어트 레서피는? 윤혜진표 식단을 참고해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/2dfb85af-8f2f-4062-8ef6-2995ec8d46ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
