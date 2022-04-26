@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 05:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 17:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스에서 볼 수 있는 종목별 '스포츠 애니메이션' 추천 6]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33693794&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33693794&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 26 Apr 2022 17:46:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjZfOTkg/MDAxNjUwOTYwOTk0NDA0.9mJ5o56h8vqoaVGtjK4hSt4yVedR760gmgK77oldn1Yg.9SpvRc2PnUyedF5aUnz75fPi0IWrhXChPP32vshWEi0g.JPEG/IO9NRv3c5BbhzphJUsXQu2crx0gI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['귀멸의 칼날' 3기 '대장장이 마을편' 첫 예고편 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33645258&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Nov 2021 17:46:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfMjMx/MDAxNjM3NjU4MzI4MTk3.7Nwvfn19SNbQkx6yJodyXmvXEfNKf8R1Cs862ftg1SYg.JBfRq6aIU_74RAbGy9uOHQn9MZZhq-EmQavcoev9KuYg.JPEG/IjZAHEqsIRCsTBK0V52t3WnFkM2Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키아누 리브스, MCU 합류설에 대해 직접 입장 밝히다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32811049&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32811049&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 23 Nov 2021 17:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfMTI0/MDAxNjM3NjU2NjkyNDI1._XScJgLsmJ4orOjoO6EU5lJUAvN2gi7detHX218aasog.WYHHE3c6diFajrPo4ZKk2ML8ZvBYBx5acznkZnEzOKcg.JPEG/IKsNHutx7tonSAYyJqOe6936Cke8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

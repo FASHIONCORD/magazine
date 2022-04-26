@@ -4,9 +4,32 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 05:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 17:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짧을수록 힙한 크롭트 톱 트렌드]]></title>
+            <link>https://www.elle.co.kr/article/65787</link>
+            <guid>https://www.elle.co.kr/article/65787</guid>
+            <pubDate>Tue, 26 Apr 2022 17:48:35 GMT</pubDate>
+            <content:encoded><![CDATA[복근 준비 단단히 할 것! 스타들도 푹 빠진 극단적으로 짧은 크롭트 톱 트렌드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/0f495c49-5bae-42f4-986c-c5038dcd349d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄 만끽하기 좋은 스타들의 피크닉 룩 5.]]></title>
+            <link>https://www.elle.co.kr/article/65779</link>
+            <guid>https://www.elle.co.kr/article/65779</guid>
+            <pubDate>Tue, 26 Apr 2022 17:48:35 GMT</pubDate>
+            <content:encoded><![CDATA[집에만 있기 아쉬운 날씨! 이번 주말엔 어디든 밖으로 나가보는 건 어때요? 패잘알 스타들의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/63cda478-0280-42bb-a4c2-0a10b3c44dee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안 마주치는 줄 알았더니! 김우빈, '우리들의 블루스'에서 바다에 뛰어든 신민아 구조?]]></title>
+            <link>https://www.elle.co.kr/article/65759</link>
+            <guid>https://www.elle.co.kr/article/65759</guid>
+            <pubDate>Tue, 26 Apr 2022 17:48:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/024f2287-29db-4652-ad95-a255142db7a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김연아와 디올 뷰티, 그 찬란한 만남]]></title>
             <link>https://www.elle.co.kr/article/65717</link>
@@ -46,30 +69,6 @@
             <pubDate>Mon, 25 Apr 2022 05:43:31 GMT</pubDate>
             <content:encoded><![CDATA[엘르 5월호 커버 모델, 리사의 귀염뽀작 모먼트!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/23/1457fa5c-8458-4f41-ac26-d3350550f46e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사회적 거리두기 끝, 마블 히어로 출격! 3개월 동안 공개되는 MCU 영화와 드라마 3]]></title>
-            <link>https://www.elle.co.kr/article/65715</link>
-            <guid>https://www.elle.co.kr/article/65715</guid>
-            <pubDate>Mon, 25 Apr 2022 05:43:31 GMT</pubDate>
-            <content:encoded><![CDATA[토르, 닥터 스트레인지, 미즈 마블까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/89979ecc-29ac-4fec-9198-ef5073f85604.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리가 다녀온 맛집 3.]]></title>
-            <link>https://www.elle.co.kr/article/65703</link>
-            <guid>https://www.elle.co.kr/article/65703</guid>
-            <pubDate>Sun, 24 Apr 2022 17:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[서울 체크인한 이효리가 들른 브런치 맛집부터 힙한 칵테일 바까지! 언제나 따라하고 싶은 효리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/a32bfabf-12f7-4d39-a07a-e3878f260a0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰보이와 미연 그 사이 어딘가, 미연 단독 화보]]></title>
-            <link>https://www.elle.co.kr/article/65673</link>
-            <guid>https://www.elle.co.kr/article/65673</guid>
-            <pubDate>Sat, 23 Apr 2022 17:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴 천재 (여자) 아이들 미연, &lt;엘르&gt; 화보 촬영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/69562125-cc83-4f6c-90fa-0f842be9c36b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
