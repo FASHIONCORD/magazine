@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 17:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 05:55:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 만끽하기 좋은 스타들의 피크닉 룩 5.]]></title>
+            <link>https://www.elle.co.kr/article/65779</link>
+            <guid>https://www.elle.co.kr/article/65779</guid>
+            <pubDate>Wed, 27 Apr 2022 05:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[집에만 있기 아쉬운 날씨! 이번 주말엔 어디든 밖으로 나가보는 건 어때요? 패잘알 스타들의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/63cda478-0280-42bb-a4c2-0a10b3c44dee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일기장-물병-압박 스타킹? 모델 픽! 관리 제품 5.]]></title>
+            <link>https://www.elle.co.kr/article/65778</link>
+            <guid>https://www.elle.co.kr/article/65778</guid>
+            <pubDate>Wed, 27 Apr 2022 05:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[삶의 질 수직 상승! 모델 이승미가 몸과 마음을 챙기는 습관들을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/cab3b3a6-8c4d-47e7-8101-6cbc119fcf09.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로제부터 선미까지! 스타들의 미니스커트 패션 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/65739</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 24 Apr 2022 17:43:50 GMT</pubDate>
             <content:encoded><![CDATA[스타일리시한 오피스 룩이란 이런 것! 홈쇼핑 회사를 배경으로 펼쳐진 드라마 '킬힐' 속 김하...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/f9429948-227d-4fcb-a669-af346ae972a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필드 위에서도 자신 있게! 배우 임수향의 피레티 골프웨어.]]></title>
-            <link>https://www.elle.co.kr/article/65588</link>
-            <guid>https://www.elle.co.kr/article/65588</guid>
-            <pubDate>Sun, 24 Apr 2022 17:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[프레스티지 골프웨어 피레티로 완성한 임수향의 싱그러운 라운딩 룩.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/931010ff-6349-4401-bf85-2460fc8934f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌처럼 머리하고 싶다면? '힙'한 헤어스타일링 팁]]></title>
-            <link>https://www.elle.co.kr/article/65616</link>
-            <guid>https://www.elle.co.kr/article/65616</guid>
-            <pubDate>Fri, 22 Apr 2022 05:56:14 GMT</pubDate>
-            <content:encoded><![CDATA[개성있는 패션 센스로 주목받는 Kard의 소민이 ‘힙’한 헤어 스타일링의 비법을 공개합니다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/95607713-1c7c-4dc3-8c3b-b2f295a8468a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
