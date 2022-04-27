@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 05:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 17:57:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한민국 상위 1%는 어떤 사람들인가_돈쓸신잡 #42]]></title>
+            <link>https://www.elle.co.kr/article/65680</link>
+            <guid>https://www.elle.co.kr/article/65680</guid>
+            <pubDate>Wed, 27 Apr 2022 17:57:34 GMT</pubDate>
+            <content:encoded><![CDATA[부자를 보며 분노하는 사람과 부자를 공부하는 사람 중 누가 더 잘될 가능성이 높을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/e81e0a0c-b25d-4c7f-9fae-e03fb28535de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 모두 운동장으로! 끝없이 서로의 가능성을 믿는 나이키]]></title>
             <link>https://www.elle.co.kr/article/65568</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Apr 2022 17:54:10 GMT</pubDate>
             <content:encoded><![CDATA[이제 누구나 그레타 툰베리를 안다. 그런데 세상은 아직도, 왜?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/780382e4-3e6b-4ec9-a241-622783ccf5e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공식적으로 최소 한 살 어려진다고? 한국만 쓰던 '세는 나이', '만 나이'로 계산법 통일]]></title>
-            <link>https://www.elle.co.kr/article/65477</link>
-            <guid>https://www.elle.co.kr/article/65477</guid>
-            <pubDate>Fri, 15 Apr 2022 17:54:10 GMT</pubDate>
-            <content:encoded><![CDATA[지금까지는 나이 세는 법만 세 가지였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/756ce3d3-97a5-4c85-8e56-cd0efcd61a58.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 05:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 17:57:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 모습 처음! 어느 수상한 밤의 이광수]]></title>
+            <link>https://www.elle.co.kr/article/65791</link>
+            <guid>https://www.elle.co.kr/article/65791</guid>
+            <pubDate>Wed, 27 Apr 2022 17:51:37 GMT</pubDate>
+            <content:encoded><![CDATA["어떤 코미디를 만나든, 조금씩 다른 유쾌함을 보여주고 싶어요" 코믹수사물 &lt;살인자의 쇼핑목...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/6872f8ef-e4d9-4deb-9ad0-113928778470.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['파친코' 경희의 변신! 천상계 미모 정은채의 하루]]></title>
+            <link>https://www.elle.co.kr/article/65684</link>
+            <guid>https://www.elle.co.kr/article/65684</guid>
+            <pubDate>Wed, 27 Apr 2022 17:51:37 GMT</pubDate>
+            <content:encoded><![CDATA[빛나는 햇살과 맑은 물 한 잔, 그리고 끌레드뽀 보떼 키 래디언스 케어와 함께 시작하는 정은...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/11f95577-95f5-4608-a8f3-42430f1654d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[짧을수록 힙한 크롭트 톱 트렌드]]></title>
             <link>https://www.elle.co.kr/article/65787</link>
@@ -53,22 +69,6 @@
             <pubDate>Tue, 26 Apr 2022 05:43:21 GMT</pubDate>
             <content:encoded><![CDATA[일민미술관의 새 전시 &lt;언커머셜&gt;. 현대 한국 상업 사진가 29인의 사진과 이야기가 한데 모...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/23/74a7b907-d6dc-4a5b-b8d0-0898e69cc02e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나래미식회 부럽지 않은 파인다이닝 코스요리 맛집]]></title>
-            <link>https://www.elle.co.kr/article/65733</link>
-            <guid>https://www.elle.co.kr/article/65733</guid>
-            <pubDate>Tue, 26 Apr 2022 05:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[‘대식좌'든 ‘소식좌’든 모두 모여라! 눈과 입을 모두 사로잡는 파인다이닝 코스요리 맛집 리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/23/f5c597d7-5e4f-43e1-bfa6-6fa6842a8987.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광대 우주 발사되는 블랙핑크 리사의 이모지 인터뷰💚]]></title>
-            <link>https://www.elle.co.kr/article/65732</link>
-            <guid>https://www.elle.co.kr/article/65732</guid>
-            <pubDate>Mon, 25 Apr 2022 05:43:31 GMT</pubDate>
-            <content:encoded><![CDATA[엘르 5월호 커버 모델, 리사의 귀염뽀작 모먼트!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/23/1457fa5c-8458-4f41-ac26-d3350550f46e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
