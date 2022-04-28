@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 17:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 06:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상을 빼앗긴 우크라이나를 향한 지지와 평화의 메세지]]></title>
+            <link>https://www.elle.co.kr/article/65785</link>
+            <guid>https://www.elle.co.kr/article/65785</guid>
+            <pubDate>Thu, 28 Apr 2022 05:57:38 GMT</pubDate>
+            <content:encoded><![CDATA["쇼를 취소하는 것도 고민했지만 악에 굴복할 수 없다고 생각했죠. 더 이상 제 일부를 전쟁에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/3809bdff-7aca-4860-9357-b07a244f8e2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 만끽하기 좋은 스타들의 피크닉 룩 5.]]></title>
             <link>https://www.elle.co.kr/article/65779</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Apr 2022 05:42:52 GMT</pubDate>
             <content:encoded><![CDATA[끝내주는 '장비빨'.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/a270e501-1a88-43c3-9b25-1aa0178cf8fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3인 3색 출근룩 맛집! '킬힐' 김하늘 VS 김성령 VS 이혜영 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/65632</link>
-            <guid>https://www.elle.co.kr/article/65632</guid>
-            <pubDate>Sun, 24 Apr 2022 17:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[스타일리시한 오피스 룩이란 이런 것! 홈쇼핑 회사를 배경으로 펼쳐진 드라마 '킬힐' 속 김하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/f9429948-227d-4fcb-a669-af346ae972a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
