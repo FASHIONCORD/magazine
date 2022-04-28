@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 17:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세라미스트 김지은의 사적인 취향]]></title>
+            <link>https://www.elle.co.kr/article/65738</link>
+            <guid>https://www.elle.co.kr/article/65738</guid>
+            <pubDate>Thu, 28 Apr 2022 17:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[슬로렌스'를 통해 유용하고 아름다운 오브제를 선보이는 세라미스트 김지은의 취향.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/24/0f079343-2ab6-4d37-8a02-90574f1dca75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사회적 거리두기 끝, 마블 히어로 출격! 3개월 동안 공개되는 MCU 영화와 드라마 3]]></title>
+            <link>https://www.elle.co.kr/article/65715</link>
+            <guid>https://www.elle.co.kr/article/65715</guid>
+            <pubDate>Thu, 28 Apr 2022 17:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[토르, 닥터 스트레인지, 미즈 마블까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/89979ecc-29ac-4fec-9198-ef5073f85604.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['세계 3대 음악 경연' 차이콥스키 콩쿠르가 국제 무대에서 퇴출 당할 수밖에 없는 이유]]></title>
+            <link>https://www.elle.co.kr/article/65682</link>
+            <guid>https://www.elle.co.kr/article/65682</guid>
+            <pubDate>Thu, 28 Apr 2022 17:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 자존심과도 같던 차이콥스키 콩쿠르가 보이콧을 당하고 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/202d22ec-97d6-4eeb-bb18-95f9e274fe46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WE MISSED U]]></title>
             <link>https://www.elle.co.kr/article/65614</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 22 Apr 2022 05:58:46 GMT</pubDate>
             <content:encoded><![CDATA[삶에 레퍼런스가 필요한 당신을 위한 엘르보이스 언니들이 쓴 여섯 권의 책]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/ba5e871e-00e8-4cc2-9ed7-14f5e2d7be67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄을 만끽해! 이번 주 갈만한 전시 3.]]></title>
-            <link>https://www.elle.co.kr/article/65434</link>
-            <guid>https://www.elle.co.kr/article/65434</guid>
-            <pubDate>Wed, 20 Apr 2022 05:58:47 GMT</pubDate>
-            <content:encoded><![CDATA[짧은 봄을 마음껏 즐기기에는 ‘이런’ 전시가 제격! 화사한 기운이 가득한 전시장으로의 소풍!...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/65e1f587-507c-413d-98c8-32fcb4e51c81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찐 내돈내산! 혜리의 슬기로운 독립생활]]></title>
-            <link>https://www.elle.co.kr/article/65432</link>
-            <guid>https://www.elle.co.kr/article/65432</guid>
-            <pubDate>Wed, 20 Apr 2022 05:58:47 GMT</pubDate>
-            <content:encoded><![CDATA[인생 첫 자취를 시작한 혜리가 새로운 보금자리를 꾸미기 위해 구매한 아이템은? 찐 내돈내산 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/8d02adc7-5e8b-4991-9cb6-4db8daac98e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무해한 밥상을 위한 나의 비건 책 #ELLE그린]]></title>
-            <link>https://www.elle.co.kr/article/65381</link>
-            <guid>https://www.elle.co.kr/article/65381</guid>
-            <pubDate>Wed, 20 Apr 2022 05:58:47 GMT</pubDate>
-            <content:encoded><![CDATA[비거니즘을 살포시 응원하는 책 5.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/09/3fc7bee1-3a60-4df2-86ac-5830840f8c8b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

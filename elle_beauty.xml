@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 17:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌처럼 머리하고 싶다면? '힙'한 헤어스타일링 팁]]></title>
+            <link>https://www.elle.co.kr/article/65616</link>
+            <guid>https://www.elle.co.kr/article/65616</guid>
+            <pubDate>Thu, 28 Apr 2022 17:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[개성있는 패션 센스로 주목받는 Kard의 소민이 ‘힙’한 헤어 스타일링의 비법을 공개합니다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/95607713-1c7c-4dc3-8c3b-b2f295a8468a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[약국 약과 편의점 약은 다르다!?_몸에 좋은 잔소리 #41]]></title>
             <link>https://www.elle.co.kr/article/65589</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Apr 2022 17:46:51 GMT</pubDate>
             <content:encoded><![CDATA[봄 여름을 위한 헤어 컬러 제안! 스타들이 예고한 오렌지 헤어 유행에 동참해보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/0742d684-ce1f-4cee-b7f6-c4fa3d54adaa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부가 민감하다면]]></title>
-            <link>https://www.elle.co.kr/article/65518</link>
-            <guid>https://www.elle.co.kr/article/65518</guid>
-            <pubDate>Mon, 18 Apr 2022 17:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[민감성 피부를 가진 이들에게 4월은 결코 반갑지 않은 달. 의외로 당신의 스킨케어 습관에 함...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/ae13b0d9-1c8e-4205-a476-2be3f06294e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

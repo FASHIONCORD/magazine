@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 17:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낭만을 노래해 <엘르 스테이지> 콘서트 1분 컷 매진! 대체 뭐길래?]]></title>
+            <link>https://www.elle.co.kr/article/65919</link>
+            <guid>https://www.elle.co.kr/article/65919</guid>
+            <pubDate>Thu, 28 Apr 2022 17:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[키워드는 한강 노을섬, 해질녘, 초여름 바람, 그리고 뮤지션 10CM, 죠지(george),...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/0319a3f8-eae7-43ad-b3bf-9f0bf140b682.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["어우, 어쩌다 보니 하고 있다 얘" 전속 매니저 이서진과 재회한 윤여정, 폭발한 휴먼여정체]]></title>
+            <link>https://www.elle.co.kr/article/65907</link>
+            <guid>https://www.elle.co.kr/article/65907</guid>
+            <pubDate>Thu, 28 Apr 2022 17:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[새 예능 '뜻밖의 여정'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/edca37e7-36a7-4725-93a6-8db6bc2b0103.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안 마주치는 줄 알았더니! 김우빈, '우리들의 블루스'에서 바다에 뛰어든 신민아 구조?]]></title>
             <link>https://www.elle.co.kr/article/65759</link>
@@ -93,22 +109,6 @@
             <pubDate>Wed, 16 Mar 2022 17:46:43 GMT</pubDate>
             <content:encoded><![CDATA[82세에 느낀 첫 무대의 설렘.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/15/8ee44b21-8ebf-4329-b2bb-ab9145caf323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴 알리자마자 당분간 못 본다고? 역주행 아이콘 '시맨틱 에러' 박서함이 입대 전 남긴 말]]></title>
-            <link>https://www.elle.co.kr/article/64567</link>
-            <guid>https://www.elle.co.kr/article/64567</guid>
-            <pubDate>Sat, 12 Mar 2022 17:46:02 GMT</pubDate>
-            <content:encoded><![CDATA['시맨틱 에러' 마지막화 공개 직후 입대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/11/7e51db30-fa67-4d4e-aad1-c15baf25b1f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["괜찮을 거야"라는 말이 덧없이 느껴질 때 배우 배해선이 건네는 위로ㅣ사적대화]]></title>
-            <link>https://www.elle.co.kr/article/64486</link>
-            <guid>https://www.elle.co.kr/article/64486</guid>
-            <pubDate>Wed, 09 Mar 2022 05:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[배우 배해선은 자신을 알아가는 시간 끝에 진짜 '나'를 마주했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202203/10/8c47c28f-44df-4c2b-b260-bf9f3a4edad1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
