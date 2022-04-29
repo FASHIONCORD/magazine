@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 05:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 17:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[본래 내 피부인 듯 자연스럽게! New 베이스 가이드]]></title>
+            <link>https://www.elle.co.kr/article/65692</link>
+            <guid>https://www.elle.co.kr/article/65692</guid>
+            <pubDate>Fri, 29 Apr 2022 17:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[자연스러운 글로 스킨을 위한 든든한 조력자들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/72176376-e288-4707-9c0e-7d3c5bc8e0d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이돌처럼 머리하고 싶다면? '힙'한 헤어스타일링 팁]]></title>
             <link>https://www.elle.co.kr/article/65616</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 05:47:51 GMT</pubDate>
             <content:encoded><![CDATA[다채로운 헤어스타일에서 발견한 조형적 아름다움.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/277705f4-0616-4c6f-bcfb-6b4545ec9624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니, 켄달 제너, 한예슬의 공통점은? 오렌지 헤어 유행각!]]></title>
-            <link>https://www.elle.co.kr/article/65546</link>
-            <guid>https://www.elle.co.kr/article/65546</guid>
-            <pubDate>Mon, 18 Apr 2022 17:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[봄 여름을 위한 헤어 컬러 제안! 스타들이 예고한 오렌지 헤어 유행에 동참해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/0742d684-ce1f-4cee-b7f6-c4fa3d54adaa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
