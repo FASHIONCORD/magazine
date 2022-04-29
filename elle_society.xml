@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 17:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 05:49:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국에서 버린 페트병이 재활용 안되는 이유 #ELLE그린]]></title>
+            <link>https://www.elle.co.kr/article/65687</link>
+            <guid>https://www.elle.co.kr/article/65687</guid>
+            <pubDate>Fri, 29 Apr 2022 05:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[플라스틱 야무지게 분리수거하는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/0cd58f8a-c456-4c67-bedc-9297298d258f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세계 3대 음악 경연' 차이콥스키 콩쿠르가 국제 무대에서 퇴출 당할 수밖에 없는 이유]]></title>
             <link>https://www.elle.co.kr/article/65682</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Apr 2022 06:01:39 GMT</pubDate>
             <content:encoded><![CDATA[이미 애플 사용자들은 겪고 있던 가격 문제.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/7701fb71-6630-4948-b736-9de46fa0586e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 그래서 기상청에서 무슨 일이 생긴 거래? 드라마 기상청사람들 로 본 철학]]></title>
-            <link>https://www.elle.co.kr/article/65299</link>
-            <guid>https://www.elle.co.kr/article/65299</guid>
-            <pubDate>Tue, 19 Apr 2022 17:53:36 GMT</pubDate>
-            <content:encoded><![CDATA[날씨와 인간은 따로 살 수 없다고! 이원진 박사가 말하는 기상청사람들]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/9e983ed1-1dc7-4cbf-bfac-c647801faf0f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
