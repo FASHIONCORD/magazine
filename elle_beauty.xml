@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 05:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 17:52:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잡티, 칙칙함을 피하는 방법, 스킨케어 브라이트닝!_선배's 어드바이스 #114]]></title>
+            <link>https://www.elle.co.kr/article/65760</link>
+            <guid>https://www.elle.co.kr/article/65760</guid>
+            <pubDate>Sat, 30 Apr 2022 17:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[자외선 지수 위험 수치! 브라이트닝에 신경 쓸 때]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/c7129a09-4b09-4717-992e-91ffebe8387e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[본래 내 피부인 듯 자연스럽게! New 베이스 가이드]]></title>
             <link>https://www.elle.co.kr/article/65692</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Apr 2022 17:51:07 GMT</pubDate>
             <content:encoded><![CDATA[간식, 이렇게만 바꾸면 살 빠져요! 다이어트 중 공복감을 줄여 폭식을 막는 간식템을 이혜성이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/b2a85bbe-6361-4619-bf9e-0046e9e142bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트다 아트, 헤어 아트]]></title>
-            <link>https://www.elle.co.kr/article/65303</link>
-            <guid>https://www.elle.co.kr/article/65303</guid>
-            <pubDate>Tue, 19 Apr 2022 05:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[다채로운 헤어스타일에서 발견한 조형적 아름다움.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/277705f4-0616-4c6f-bcfb-6b4545ec9624.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
