@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 17:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 05:50:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안 마주치는 줄 알았더니! 김우빈, '우리들의 블루스'에서 바다에 뛰어든 신민아 구조?]]></title>
+            <link>https://www.elle.co.kr/article/65759</link>
+            <guid>https://www.elle.co.kr/article/65759</guid>
+            <pubDate>Sat, 30 Apr 2022 05:46:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/024f2287-29db-4652-ad95-a255142db7a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세라미스트 김지은의 사적인 취향]]></title>
             <link>https://www.elle.co.kr/article/65738</link>
@@ -62,14 +69,6 @@
             <pubDate>Fri, 22 Apr 2022 17:51:53 GMT</pubDate>
             <content:encoded><![CDATA[모든 이들이 스포츠의 즐거움을 동등하게 누릴 수 있는 모두의 운동장을 위하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/f2ff9b50-8321-4061-ad37-cda3de43eef3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘르는 여자들 이야기에 진심입니다. 이걸 다 이 사람들이 썼다고?]]></title>
-            <link>https://www.elle.co.kr/article/65463</link>
-            <guid>https://www.elle.co.kr/article/65463</guid>
-            <pubDate>Fri, 22 Apr 2022 05:58:46 GMT</pubDate>
-            <content:encoded><![CDATA[삶에 레퍼런스가 필요한 당신을 위한 엘르보이스 언니들이 쓴 여섯 권의 책]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/ba5e871e-00e8-4cc2-9ed7-14f5e2d7be67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
