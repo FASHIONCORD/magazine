@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 05:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 17:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와인 공부하다가 10kg 살크업한 소믈리에 한해의 상황별 추천 와인 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/65956</link>
+            <guid>https://www.elle.co.kr/article/65956</guid>
+            <pubDate>Sun, 01 May 2022 17:46:58 GMT</pubDate>
+            <content:encoded><![CDATA[마시면서 공부했으니 이 추천 리스트는 '찐'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/9b348d9c-6fa4-4c44-a6b1-5e00f201d813.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스스로를 구하는 밝은 빛, 리사]]></title>
             <link>https://www.elle.co.kr/article/65869</link>
@@ -62,13 +70,6 @@
             <pubDate>Fri, 29 Apr 2022 05:45:56 GMT</pubDate>
             <content:encoded><![CDATA["누군가는 저를 한순간에 올라온 사람으로 볼 수도 있잖아요." 그의 말과 달리 박재찬은 항상...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/4fb769a0-fdfe-4a4f-9af1-8f5df8b91508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최소 n번 검사에, 검사비만 100만원? 해외여행을 위한 코로나19 검사 횟수와 비용 정보.zip]]></title>
-            <link>https://www.elle.co.kr/article/65863</link>
-            <guid>https://www.elle.co.kr/article/65863</guid>
-            <pubDate>Fri, 29 Apr 2022 05:45:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/27/71c70692-5d9e-4f4c-9ccc-df2c2e027762.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
