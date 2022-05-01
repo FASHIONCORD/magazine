@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 17:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 05:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선자를 위하여_요주의여성 #55]]></title>
+            <link>https://www.elle.co.kr/article/65708</link>
+            <guid>https://www.elle.co.kr/article/65708</guid>
+            <pubDate>Sun, 01 May 2022 05:52:47 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;파친코&gt;를 통해 역사의 주인공으로 소환된 수많은 선자들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/22/c143ab91-f8a8-49de-b92c-b5b58a15d0d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국에서 버린 페트병이 재활용 안되는 이유 #ELLE그린]]></title>
             <link>https://www.elle.co.kr/article/65687</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Apr 2022 06:01:39 GMT</pubDate>
             <content:encoded><![CDATA[진짜 본격적으로 일상 회복에 돌입하는 한국.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/da46b8f5-6bb4-4ab5-b69b-7758a44cd678.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OTT, 음원 스트리밍 이용료 줄줄이 오르는 이유? 구글 인앱결제 의무화 논란의 모든 것]]></title>
-            <link>https://www.elle.co.kr/article/65507</link>
-            <guid>https://www.elle.co.kr/article/65507</guid>
-            <pubDate>Fri, 22 Apr 2022 06:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[이미 애플 사용자들은 겪고 있던 가격 문제.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/7701fb71-6630-4948-b736-9de46fa0586e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
