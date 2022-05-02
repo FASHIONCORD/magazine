@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 17:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:56:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박보검 이제 사회 복귀! 모두가 기다리던 전역 후 첫 스케줄은?]]></title>
+            <link>https://www.elle.co.kr/article/65960</link>
+            <guid>https://www.elle.co.kr/article/65960</guid>
+            <pubDate>Mon, 02 May 2022 05:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[괜히 길게 느껴진 군백기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/7ba418eb-b285-4cd3-999e-792068439836.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와인 공부하다가 10kg 살크업한 소믈리에 한해의 상황별 추천 와인 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/65956</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Apr 2022 05:45:56 GMT</pubDate>
             <content:encoded><![CDATA[살을 빼는 것만큼 몸에 근육을 붙이는 것도 쉽지 않다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/c9b32da9-a15d-4c0e-b61c-5b53ce86fc88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박재찬이라는 신인류]]></title>
-            <link>https://www.elle.co.kr/article/65879</link>
-            <guid>https://www.elle.co.kr/article/65879</guid>
-            <pubDate>Fri, 29 Apr 2022 05:45:56 GMT</pubDate>
-            <content:encoded><![CDATA["누군가는 저를 한순간에 올라온 사람으로 볼 수도 있잖아요." 그의 말과 달리 박재찬은 항상...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/4fb769a0-fdfe-4a4f-9af1-8f5df8b91508.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

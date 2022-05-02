@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 17:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:56:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[득템하는 사회]]></title>
+            <link>https://www.elle.co.kr/article/65737</link>
+            <guid>https://www.elle.co.kr/article/65737</guid>
+            <pubDate>Mon, 02 May 2022 05:55:59 GMT</pubDate>
+            <content:encoded><![CDATA[오픈 런, 좀비 런, 노숙 런까지…. 고단한 기다림도 기꺼이 감내하는 이 시대 ‘득템’ 열풍...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/24/8a2490c7-fade-49a6-b280-9d45e74dca22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선자를 위하여_요주의여성 #55]]></title>
             <link>https://www.elle.co.kr/article/65708</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Apr 2022 06:01:39 GMT</pubDate>
             <content:encoded><![CDATA[영원한 관계가 없듯 영원한 기업도 없다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/15/58be338f-96b4-49a6-acb5-c5abc7ac81b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2년 만에 드디어 끝난 사회적 거리두기, 이제 마스크 벗어도 되나요?]]></title>
-            <link>https://www.elle.co.kr/article/65534</link>
-            <guid>https://www.elle.co.kr/article/65534</guid>
-            <pubDate>Fri, 22 Apr 2022 06:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 본격적으로 일상 회복에 돌입하는 한국.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/18/da46b8f5-6bb4-4ab5-b69b-7758a44cd678.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
