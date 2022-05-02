@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 신발</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 05:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 17:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이키 에어 조던 1 하이 OG '스테이지 헤이즈' 출시 정보]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33729787&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33729787&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 02 May 2022 17:46:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDJfNzgg/MDAxNjUxNDg0NDg2MzQz.5AE5Xg5c90G6l2KNN0M9bl3VeGsW_rr8Qk3k_V_OSnog.odeSZ0u55AclSBNXAts3VVBTtDS4bCg_soUuv8QV4psg.JPEG/I7TBignvwOmCB4uXEv6DhnEeJJGk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스니커의 제왕, ‘에어 포스 1’의 역사는 어떻게 시작됐을까?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33535214&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMThfMjIy/MDAxNjE2MDU5MzgyMjM3.eqEzuhhrsHZ1DeodwB9Hq8DTJYkAEPQMBorGWXbieIkg.Adfw8dfQgDcTTHnYgmYFXXcDbqqEaxKrbwchs2WVGMMg.JPEG/IOyVLicFJojxTlU988UpPDLyqKg8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범한 스니커를 ‘마르지엘라 맛’ 타비 슈즈로 만드는 방법]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30843666&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30843666&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMDJfMjYz/MDAxNjE0NjgxNjA2MjQ2.fQrU6y5YwdRr5dsxFcnb-OS5apqLcyIE44C3AcJQ5zwg.qcDg3V0Mhv50MgbS2x-F6IMMMveyzQsbOXJx3XrxWBog.JPEG/Io9KZLhwDMlUVds2AwpbTbkuotq8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
