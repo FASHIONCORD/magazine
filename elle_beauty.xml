@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 17:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 05:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마 <별똥별> 속 배우 이성경의 메이크업 제품은?]]></title>
+            <link>https://www.elle.co.kr/article/65937</link>
+            <guid>https://www.elle.co.kr/article/65937</guid>
+            <pubDate>Tue, 03 May 2022 05:45:51 GMT</pubDate>
+            <content:encoded><![CDATA[확신의 이성경 시크릿 뷰티템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/e6d5ec6c-386b-4534-a900-3e8dfbbea251.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[色다른 김연아 (feat.디올 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/65963</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 01 May 2022 17:46:17 GMT</pubDate>
             <content:encoded><![CDATA[삶의 질 수직 상승! 모델 이승미가 몸과 마음을 챙기는 습관들을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/cab3b3a6-8c4d-47e7-8101-6cbc119fcf09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잡티, 칙칙함을 피하는 방법, 스킨케어 브라이트닝!_선배's 어드바이스 #114]]></title>
-            <link>https://www.elle.co.kr/article/65760</link>
-            <guid>https://www.elle.co.kr/article/65760</guid>
-            <pubDate>Sat, 30 Apr 2022 17:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[자외선 지수 위험 수치! 브라이트닝에 신경 쓸 때]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/c7129a09-4b09-4717-992e-91ffebe8387e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
