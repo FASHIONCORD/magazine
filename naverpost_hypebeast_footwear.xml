@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 신발</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 17:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이키 에어 프레스토 ‘헬로키티’ & 의류 컬렉션 국내 발매 정보]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33736282&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33736282&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 03 May 2022 17:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDNfMjE1/MDAxNjUxNTYwMzI0MDI5.E1XESOpJqquafDeXXxLWMLMM-AHxx5gln_4Ow_KDyx4g.A79zdm5pH1iyxqu3DwkB6QkYgaeKQMRfP3Z_xYyCO38g.JPEG/IAFXMgxK3hYgq6A1aP0Q_mRqOTRo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이키 에어 조던 1 하이 OG '스테이지 헤이즈' 출시 정보]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33729787&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMjNfOTYg/MDAxNjE2NDg3MDI2NDE5._wSeO79d43RLO9j-U7vBp3XReTnmRCP9PYrZWBsGeaIg.9qmX4CPzb_3VctpFgYkUTqYm8HigZcm-Ayh1Vb7gCzIg.JPEG/IefgMQBqEBrbUrnjtwggIlSDbm4I.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단돈 1만4천 원짜리 구찌 스니커가 출시된다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30981206&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30981206&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMThfMjIy/MDAxNjE2MDU5MzgyMjM3.eqEzuhhrsHZ1DeodwB9Hq8DTJYkAEPQMBorGWXbieIkg.Adfw8dfQgDcTTHnYgmYFXXcDbqqEaxKrbwchs2WVGMMg.JPEG/IOyVLicFJojxTlU988UpPDLyqKg8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

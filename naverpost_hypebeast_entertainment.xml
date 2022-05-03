@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 17:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘타짜’, ‘도둑들’ 최동훈 감독의 신작, ‘외계+인’ 1부 포스터 및 예고편 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33737864&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33737864&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 03 May 2022 17:50:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDNfMTc1/MDAxNjUxNTcxNTkxMDM3.hs7Vj6KQ4AooIk77cpAgQpXvl8lt2fHdNfWpAiZb4Ucg.i7pftpqL0_l-yayFlPL0eiPQFUIcyrom0tVP8QLnMOAg.JPEG/IAzZOmtVLPbHF2AosHr7y-oLbzM4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베네딕트 컴버배치, "인터넷의 '닥터 스트레인지' 루머, 100% 진실이다"]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33729395&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Jan 2022 17:49:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfMTUy/MDAxNjQxMTk0Mjg0NTYy.UuhxxLR7bZL5tuGpIQwEX5fLMoyc7wy_HgVOOpgWUV0g.yuHIYI2wouk4Zra_Fcro-4JGKsg3saxFl_8A2cxzkRYg.JPEG/Ibc9QuYrPH066aSZ9O_PRBQG4Hfw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['진격거', '체인소 맨' 등 2022년 기대해야 할 애니메이션 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32950340&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32950340&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 15 Dec 2021 17:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTVfNCAg/MDAxNjM5NTUzMDk2NDUx.3aIg-_7ZIxGnLuStDKxGpbG4q6a6fXbZyFFYnxuDj5Ag.jCTZnOYF4ahYhi2NbKm6ldcBXs1BifyQZE5BA86SFDYg.JPEG/Il2ww0on8wyLGdE61kxMPVcmoPy4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
