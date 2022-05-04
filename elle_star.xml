@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 17:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 05:50:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰티 척척 박사가 되고 싶어, (여자)아이들 미연의 뷰티 '찐' 애장품]]></title>
+            <link>https://www.elle.co.kr/article/66044</link>
+            <guid>https://www.elle.co.kr/article/66044</guid>
+            <pubDate>Wed, 04 May 2022 05:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[힛팬 블러셔, 괄사, 향수까지? 뷰티 아이콘 미연의 데일리 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/17172568-bd74-46e2-9234-0cdcfb0eebfd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라마 <별똥별> 속 배우 이성경의 메이크업 제품은?]]></title>
+            <link>https://www.elle.co.kr/article/65937</link>
+            <guid>https://www.elle.co.kr/article/65937</guid>
+            <pubDate>Wed, 04 May 2022 05:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[확신의 이성경 시크릿 뷰티템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/e6d5ec6c-386b-4534-a900-3e8dfbbea251.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MY MY MY! (여자)아이들 미연의 행보에 붙은 기분좋은 감탄사]]></title>
             <link>https://www.elle.co.kr/article/65965</link>
@@ -53,22 +69,6 @@
             <pubDate>Sun, 01 May 2022 17:46:58 GMT</pubDate>
             <content:encoded><![CDATA[마시면서 공부했으니 이 추천 리스트는 '찐'.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/9b348d9c-6fa4-4c44-a6b1-5e00f201d813.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스스로를 구하는 밝은 빛, 리사]]></title>
-            <link>https://www.elle.co.kr/article/65869</link>
-            <guid>https://www.elle.co.kr/article/65869</guid>
-            <pubDate>Sun, 01 May 2022 05:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[리사가 가진 아주 명료한 힘]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/9cf766d7-c595-4287-993d-e972709c4941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낭만을 노래해 <엘르 스테이지> 콘서트 1분 컷 매진! 대체 뭐길래?]]></title>
-            <link>https://www.elle.co.kr/article/65919</link>
-            <guid>https://www.elle.co.kr/article/65919</guid>
-            <pubDate>Sun, 01 May 2022 05:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[키워드는 한강 노을섬, 해질녘, 초여름 바람, 그리고 뮤지션 10CM, 죠지(george),...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/0319a3f8-eae7-43ad-b3bf-9f0bf140b682.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
