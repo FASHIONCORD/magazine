@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 05:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 17:57:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 비건들의 핫플레이스, 취향 저격 비건 맛집 #1 #ELLE그린]]></title>
+            <link>https://www.elle.co.kr/article/65918</link>
+            <guid>https://www.elle.co.kr/article/65918</guid>
+            <pubDate>Wed, 04 May 2022 17:56:23 GMT</pubDate>
+            <content:encoded><![CDATA[‘맛잘알’ 비건들의 개성 넘치는 최애 맛집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/cb93e701-c6dc-4276-a02c-b264740984ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[면도의 새로운 혁신, 브라운]]></title>
             <link>https://www.elle.co.kr/article/65846</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 29 Apr 2022 05:49:34 GMT</pubDate>
             <content:encoded><![CDATA[‘대식좌'든 ‘소식좌’든 모두 모여라! 눈과 입을 모두 사로잡는 파인다이닝 코스요리 맛집 리...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/23/f5c597d7-5e4f-43e1-bfa6-6fa6842a8987.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심상치 않은 비주얼 메뉴! 빈 손으로 가도 피크닉 즐길 수 있는 삼척 카페 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/65729</link>
-            <guid>https://www.elle.co.kr/article/65729</guid>
-            <pubDate>Fri, 29 Apr 2022 05:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[반려견을 위한 퍼푸치노도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/23/20d245cd-e15b-40a4-8695-6123dd834468.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
