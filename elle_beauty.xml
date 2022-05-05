@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 17:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 05:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고기능성 안티에이징 세럼, 아이오페 레티놀 엑스퍼트 0.1%]]></title>
+            <link>https://www.elle.co.kr/article/65865</link>
+            <guid>https://www.elle.co.kr/article/65865</guid>
+            <pubDate>Thu, 05 May 2022 05:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[어버이날 최고의 선물이 되어줄 안티에이징 주름 세럼! 아이오페 레티놀 엑스퍼트 0.1%]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/e5aadcbd-217a-43b6-85c5-0cf75ab0fb95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷰티 척척 박사가 되고 싶어, (여자)아이들 미연의 뷰티 '찐' 애장품]]></title>
             <link>https://www.elle.co.kr/article/66044</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 May 2022 05:51:33 GMT</pubDate>
             <content:encoded><![CDATA[아이돌이 사용하는 뷰티 제품은 무엇? 부기 관리부터 클렌징까지, 휘인이 사용하는 뷰티템을 모...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/59d66176-f729-4066-830a-835a86be9f2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족의 이야기가 담긴 향수들]]></title>
-            <link>https://www.elle.co.kr/article/66009</link>
-            <guid>https://www.elle.co.kr/article/66009</guid>
-            <pubDate>Mon, 02 May 2022 05:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[가장 가까운 곳에서 오랜 시간 동안 영감이 돼주는 가족 이야기가 담긴 향수를 모았다. 언어가...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/bcf7a938-b3e3-4e34-abfc-60bea694e915.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
