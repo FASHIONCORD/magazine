@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 05:48:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 17:55:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[wavy의 뉴페이스, 밀레나가 들려주는 '우리들' #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/66176</link>
+            <guid>https://www.elle.co.kr/article/66176</guid>
+            <pubDate>Fri, 06 May 2022 17:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[경계를 넘나드는 무드의 싱어송라이터]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/8514121c-292f-4073-99a2-6f68a0a345a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낭만을 노래해 <엘르 스테이지> 콘서트 1분 컷 매진! 대체 뭐길래?]]></title>
             <link>https://www.elle.co.kr/article/65919</link>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 14 Dec 2021 17:46:32 GMT</pubDate>
             <content:encoded><![CDATA[금세 눈물바다가 된 촬영장.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/14/44c20f0e-2dca-47be-a6c1-9161a139e44f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #정세랑 #황정은 #비비 #미노이 #백예린]]></title>
-            <link>https://www.elle.co.kr/article/62024</link>
-            <guid>https://www.elle.co.kr/article/62024</guid>
-            <pubDate>Sun, 12 Dec 2021 17:48:30 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 활약의 소설가 정세랑과 황정은, 반전 매력을 뽐내는 Z세대 뮤지션들까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/13/d54c2784-30ff-401e-98b7-0d35cc11d284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
