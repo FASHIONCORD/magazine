@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 17:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 05:48:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2428,6 +2428,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/23/f5c597d7-5e4f-43e1-bfa6-6fa6842a8987.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[왜 손절 못하고 망설이는가_돈쓸신잡 #43 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/65925</link>
+            <guid>https://www.elle.co.kr/article/65925</guid>
+            <pubDate>Fri, 06 May 2022 05:48:30 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 주식을 팔아야 할까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/85b173cc-6a66-4a18-b45c-fe19a05c5a00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소리 질러~! 마트 시식부터 공연장 함성까지, 거리두기 해제 후 되찾은 소소한 즐거움들.zip (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/65771</link>
             <guid>https://www.elle.co.kr/article/65771</guid>
@@ -2482,14 +2490,6 @@
             <pubDate>Fri, 22 Apr 2022 17:51:53 GMT</pubDate>
             <content:encoded><![CDATA[모든 이들이 스포츠의 즐거움을 동등하게 누릴 수 있는 모두의 운동장을 위하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/f2ff9b50-8321-4061-ad37-cda3de43eef3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 어느날 화분을 주웠다. 꽃이 피지 않았다. 내 꽃은 어디에 있는 걸까 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/65539</link>
-            <guid>https://www.elle.co.kr/article/65539</guid>
-            <pubDate>Sat, 23 Apr 2022 05:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지션 김사월이 동백나무 화분에게 배운 것]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/16/034e36dc-7e2a-436c-88e2-3ffee638e978.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
