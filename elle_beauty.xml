@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 17:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 05:49:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호텔 조식 부럽지 않음! 다이어트 브런치 레서피]]></title>
+            <link>https://www.elle.co.kr/article/66118</link>
+            <guid>https://www.elle.co.kr/article/66118</guid>
+            <pubDate>Sun, 08 May 2022 05:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[모델이 즐기는 건강한 브런치 식단! 오지영의 레서피를 참고하면 호텔 조식 부럽지 않을 거예요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/a0aec6c0-380a-4886-af34-5f20cb1558e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고기능성 안티에이징 세럼, 아이오페 레티놀 엑스퍼트 0.1%]]></title>
             <link>https://www.elle.co.kr/article/65865</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 May 2022 17:48:43 GMT</pubDate>
             <content:encoded><![CDATA[디올리비에라 컬렉션의 무한한 색을 품은 김연아.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/fa3e4201-9e33-4b6c-ae52-38d9fc97f560.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌의 뷰티 제품? 마마무 휘인의 뷰티템 5]]></title>
-            <link>https://www.elle.co.kr/article/66014</link>
-            <guid>https://www.elle.co.kr/article/66014</guid>
-            <pubDate>Mon, 02 May 2022 05:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌이 사용하는 뷰티 제품은 무엇? 부기 관리부터 클렌징까지, 휘인이 사용하는 뷰티템을 모...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/59d66176-f729-4066-830a-835a86be9f2e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

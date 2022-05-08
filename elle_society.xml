@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 17:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 05:49:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이효리의 소통법_요주의여성 #56]]></title>
+            <link>https://www.elle.co.kr/article/65944</link>
+            <guid>https://www.elle.co.kr/article/65944</guid>
+            <pubDate>Sun, 08 May 2022 05:49:26 GMT</pubDate>
+            <content:encoded><![CDATA[솔직하고 ‘힙’하고 따뜻하다. &lt;서울체크인&gt;의 이효리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/6c7cca04-d4c7-48b3-9992-2280fcaf02ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왜 손절 못하고 망설이는가_돈쓸신잡 #43]]></title>
             <link>https://www.elle.co.kr/article/65925</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Apr 2022 17:57:34 GMT</pubDate>
             <content:encoded><![CDATA[부자를 보며 분노하는 사람과 부자를 공부하는 사람 중 누가 더 잘될 가능성이 높을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/e81e0a0c-b25d-4c7f-9fae-e03fb28535de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 모두 운동장으로! 끝없이 서로의 가능성을 믿는 나이키]]></title>
-            <link>https://www.elle.co.kr/article/65568</link>
-            <guid>https://www.elle.co.kr/article/65568</guid>
-            <pubDate>Sun, 24 Apr 2022 05:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[모든 이들이 스포츠의 즐거움을 동등하게 누릴 수 있는 모두의 운동장을 위하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/f2ff9b50-8321-4061-ad37-cda3de43eef3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
