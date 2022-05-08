@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 05:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 17:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시선강탈! 2022 멧 갈라 남자 셀럽들의 뷰티 룩]]></title>
+            <link>https://www.elle.co.kr/article/66162</link>
+            <guid>https://www.elle.co.kr/article/66162</guid>
+            <pubDate>Sun, 08 May 2022 17:47:11 GMT</pubDate>
+            <content:encoded><![CDATA[젠더리스를 넘어선 뷰티 룩 그 자체!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/95dbb014-1812-47c7-ad8f-911099f97d9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비타민처럼 상큼한 매력이 한가득! 김세정 스타일탐구 #옷잘입는언니]]></title>
+            <link>https://www.elle.co.kr/article/66125</link>
+            <guid>https://www.elle.co.kr/article/66125</guid>
+            <pubDate>Sun, 08 May 2022 17:47:11 GMT</pubDate>
+            <content:encoded><![CDATA[로코 장인으로 등극하며 한국의 엠마 스톤이라는 애칭을 얻은 만능 연예인 김세정! 김세정의 S...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/2bf8b09e-8aa5-4845-9dd5-029817cd09fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호텔 조식 부럽지 않음! 다이어트 브런치 레서피]]></title>
             <link>https://www.elle.co.kr/article/66118</link>
@@ -54,21 +70,6 @@
             <pubDate>Wed, 04 May 2022 05:45:55 GMT</pubDate>
             <content:encoded><![CDATA[확신의 이성경 시크릿 뷰티템.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/e6d5ec6c-386b-4534-a900-3e8dfbbea251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MY MY MY! (여자)아이들 미연의 행보에 붙은 기분좋은 감탄사]]></title>
-            <link>https://www.elle.co.kr/article/65965</link>
-            <guid>https://www.elle.co.kr/article/65965</guid>
-            <pubDate>Tue, 03 May 2022 17:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[첫 번째 솔로 앨범 를 발표한 미연에게 보내는 작은 탄성. Oh, My!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/21876197-093b-4085-a38d-91a13baab24f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙한 카페에서 딸셰+밀셰 쟁반 인증샷 찍기가 가입 조건! '조동아리' 지석진X김수용]]></title>
-            <link>https://www.elle.co.kr/article/66010</link>
-            <guid>https://www.elle.co.kr/article/66010</guid>
-            <pubDate>Tue, 03 May 2022 05:46:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/ed7794ab-cc4d-415a-b1c4-9953fa3cc264.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
