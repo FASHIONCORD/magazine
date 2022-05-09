@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 17:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 05:54:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에너지 업! 일상에 율동감을 더해줄 새로운 스포티룩]]></title>
+            <link>https://www.elle.co.kr/article/65934</link>
+            <guid>https://www.elle.co.kr/article/65934</guid>
+            <pubDate>Mon, 09 May 2022 05:48:10 GMT</pubDate>
+            <content:encoded><![CDATA[엔데믹을 앞두고 집밖으로 나선 이들에게 디자이너들이 제안하는 새로운 스포티 룩 아이디어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/9fb6fc3e-9301-4eac-82f5-fbaa517fa152.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낭만을 노래해 <엘르 스테이지> 콘서트 1분 컷 매진! 대체 뭐길래?]]></title>
+            <link>https://www.elle.co.kr/article/65919</link>
+            <guid>https://www.elle.co.kr/article/65919</guid>
+            <pubDate>Mon, 09 May 2022 05:48:10 GMT</pubDate>
+            <content:encoded><![CDATA[키워드는 한강 노을섬, 해질녘, 초여름 바람, 그리고 뮤지션 10CM, 죠지(george),...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/0319a3f8-eae7-43ad-b3bf-9f0bf140b682.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["어우, 어쩌다 보니 하고 있다 얘" 전속 매니저 이서진과 재회한 윤여정, 폭발한 휴먼여정체]]></title>
             <link>https://www.elle.co.kr/article/65907</link>
@@ -53,22 +69,6 @@
             <pubDate>Thu, 28 Apr 2022 17:49:23 GMT</pubDate>
             <content:encoded><![CDATA[러시아의 자존심과도 같던 차이콥스키 콩쿠르가 보이콧을 당하고 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/21/202d22ec-97d6-4eeb-bb18-95f9e274fe46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WE MISSED U]]></title>
-            <link>https://www.elle.co.kr/article/65614</link>
-            <guid>https://www.elle.co.kr/article/65614</guid>
-            <pubDate>Wed, 27 Apr 2022 05:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[작품으로 다시 만나는 리 알렉산더 맥퀸.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/21c2e4ae-9e14-409a-9b30-ccbb9aada5b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 X BIFF 아시아영화아카데미]]></title>
-            <link>https://www.elle.co.kr/article/65590</link>
-            <guid>https://www.elle.co.kr/article/65590</guid>
-            <pubDate>Tue, 26 Apr 2022 05:43:53 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬이 부산국제영화제 아시아영화아카데미를 지원한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/19/cfa5ca99-904b-4c50-883c-ac36f87baeed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
