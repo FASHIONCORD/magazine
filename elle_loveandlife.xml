@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 17:56:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경주에서 상경한 핫플부터 만두+맥주 기막힌 조합까지! 한남동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/66056</link>
+            <guid>https://www.elle.co.kr/article/66056</guid>
+            <pubDate>Tue, 10 May 2022 17:56:09 GMT</pubDate>
+            <content:encoded><![CDATA[누구보다 빠르게 방문해야 할 맛집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/808d389b-d93c-41ca-be21-db6fb4c915cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인증샷도 예뻐! '빵덕후' 스타들이 다녀온 디저트 맛집 3.]]></title>
+            <link>https://www.elle.co.kr/article/66039</link>
+            <guid>https://www.elle.co.kr/article/66039</guid>
+            <pubDate>Tue, 10 May 2022 17:56:09 GMT</pubDate>
+            <content:encoded><![CDATA[시선 강탈 꽈배기 도넛부터 푸짐한 샌드위치까지! 빵덕후 셀럽들이 다녀온 핫 플레이스를 소개합...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/683236a9-0880-4f66-804e-4e78c7027ff3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 비건들의 핫플레이스, 취향 저격 비건 맛집 #2 #ELLE그린]]></title>
             <link>https://www.elle.co.kr/article/65980</link>
@@ -54,21 +70,6 @@
             <pubDate>Sat, 30 Apr 2022 05:49:39 GMT</pubDate>
             <content:encoded><![CDATA[머스크의 트위터 인수 소식이 낳은 또 다른 뉴스들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/90df7528-151c-4d51-ba51-a489d6aca51c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 제일 핫한 미트파이와 에스프레소가! 구석구석 감성 범벅 망리단길 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/65788</link>
-            <guid>https://www.elle.co.kr/article/65788</guid>
-            <pubDate>Fri, 29 Apr 2022 05:49:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/76be13e8-ce6e-42cf-a710-7832ee89756a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일기장-물병-압박 스타킹? 모델 픽! 관리 제품 5.]]></title>
-            <link>https://www.elle.co.kr/article/65778</link>
-            <guid>https://www.elle.co.kr/article/65778</guid>
-            <pubDate>Fri, 29 Apr 2022 05:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[삶의 질 수직 상승! 모델 이승미가 몸과 마음을 챙기는 습관들을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/cab3b3a6-8c4d-47e7-8101-6cbc119fcf09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 17:56:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 어쩔 수 없다고 하는 것을 멈추기]]></title>
+            <link>https://www.elle.co.kr/article/66270</link>
+            <guid>https://www.elle.co.kr/article/66270</guid>
+            <pubDate>Tue, 10 May 2022 17:56:51 GMT</pubDate>
+            <content:encoded><![CDATA[식물을 돌보는 마음으로, 조금 더 관심을 갖고 공부하기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/254272bb-3890-4117-b303-275907ab32dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채워지고 싶은 마음_요주의여성 #57]]></title>
+            <link>https://www.elle.co.kr/article/66223</link>
+            <guid>https://www.elle.co.kr/article/66223</guid>
+            <pubDate>Tue, 10 May 2022 17:56:51 GMT</pubDate>
+            <content:encoded><![CDATA[드라마가 보여준 적 없는 속마음. &lt;나의 해방일지&gt;의 미정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/08/fcac2ee4-2027-4137-ac49-19cf4befd1f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매거진 최초! NFT 프로젝트부터 기부까지 Love, Mix!]]></title>
             <link>https://www.elle.co.kr/article/66183</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 06 May 2022 05:48:30 GMT</pubDate>
             <content:encoded><![CDATA[어떤 주식을 팔아야 할까.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/85b173cc-6a66-4a18-b45c-fe19a05c5a00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소리 질러~! 마트 시식부터 공연장 함성까지, 거리두기 해제 후 되찾은 소소한 즐거움들.zip]]></title>
-            <link>https://www.elle.co.kr/article/65771</link>
-            <guid>https://www.elle.co.kr/article/65771</guid>
-            <pubDate>Thu, 05 May 2022 05:53:54 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19의 감염병 등급이 2급으로 하락했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/25/3ec2324d-b4ce-4b81-8733-a061b8925b60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[득템하는 사회]]></title>
-            <link>https://www.elle.co.kr/article/65737</link>
-            <guid>https://www.elle.co.kr/article/65737</guid>
-            <pubDate>Mon, 02 May 2022 05:55:59 GMT</pubDate>
-            <content:encoded><![CDATA[오픈 런, 좀비 런, 노숙 런까지…. 고단한 기다림도 기꺼이 감내하는 이 시대 ‘득템’ 열풍에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/24/8a2490c7-fade-49a6-b280-9d45e74dca22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
