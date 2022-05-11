@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 17:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HBO맥스, 한국 직접 진출 포기한다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33781436&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33781436&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 11 May 2022 17:51:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTFfMTgy/MDAxNjUyMjYyNTcyODUz.5hnXlNWkZ7R06hH6kb5Q6Agky5PcysB7dmGEZAKmWVsg.bCVa9onnSkFRpxFNNshP8zSNaLl5dPMGYCITqwNuEsQg.JPEG/IfXhhiyRswrf61QLFYi44SLhfvEU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고레에다 히로카즈, '브로커' 촬영 앞두고 봉준호 감독에게 들은 꿀팁은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33773890&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 08 Feb 2022 17:41:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDdfMTY4/MDAxNjQ0MjIzODA1NDg3.OtRd-KS-_h_xaol9yGCi5LrxulbSfV6K3jK0ZoyTuBQg.46_cQFJKMfBGsaF110mTxGRNwqTP3bZTAFX2h-PPZ8Qg.JPEG/I2kkymOfD7GSnc_q4gyuULUZe330.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 공개될 넷플릭스 한국 콘텐츠 라인업]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33180032&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33180032&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 26 Jan 2022 17:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMjRfNzgg/MDAxNjQzMDE1ODUxNzE0.k-JVo_nkYjA6Zw4HfiHfRM_jwGQcyplsT9Dzi-CSR0gg.CMgbJ7zYG9GhOAK-kBnRMwxps7CX-m-hioqGSwsOKzwg.JPEG/IS_x_99leZA1Vk2xBshkE_nquoCw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
