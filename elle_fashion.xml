@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 05:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 17:55:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 한 끗, 주얼리]]></title>
+            <link>https://www.elle.co.kr/article/66601</link>
+            <guid>https://www.elle.co.kr/article/66601</guid>
+            <pubDate>Tue, 24 May 2022 17:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[가벼워지는 옷차림에 포인트로 제격! 주얼리 활용법을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/dc45c6fc-19cd-4ac7-a8ac-3db51b1f7e86.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['인 앤 아웃' 100점짜리 필수템, 화사한 셔츠 쇼핑 리스트 6.]]></title>
+            <link>https://www.elle.co.kr/article/66584</link>
+            <guid>https://www.elle.co.kr/article/66584</guid>
+            <pubDate>Tue, 24 May 2022 17:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[‘패잘알’ 셀럽들도 사랑에 빠진 사계절 활용 만점 셔츠, 지금 당장 구매하세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/1610ca19-1631-4a87-89b1-6089b9eade44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱그러워! 스타 부부의 센스 만점 커플룩 5]]></title>
+            <link>https://www.elle.co.kr/article/66583</link>
+            <guid>https://www.elle.co.kr/article/66583</guid>
+            <pubDate>Tue, 24 May 2022 17:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[부부의 날! 패잘알 스타 부부들의 데일리 룩에서 커플룩 공식을 배워보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/42669e91-37f4-47b4-a605-228dcb7123a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타일리스트 정윤기의 지속 가능한 블루]]></title>
             <link>https://www.elle.co.kr/article/66568</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 24 May 2022 02:27:37 GMT</pubDate>
             <content:encoded><![CDATA[결코 미워할 수 없는 나르시시즘이 담긴 샤넬 워치의 뉴 컬렉션, 샤넬 원티드(CHANEL WANT...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/9cb51da2-c2f8-4118-8258-a8a55994134c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간절기 ‘휘뚜루마뚜루템’ 아노락 추천]]></title>
-            <link>https://www.elle.co.kr/article/66497</link>
-            <guid>https://www.elle.co.kr/article/66497</guid>
-            <pubDate>Tue, 24 May 2022 02:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[아침저녁으로 선선한 요즘 날씨에 필요한 꿀템, 일명 ‘바람막이’로도 불리는 아노락 쇼핑 리스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/9f5be31c-3a83-4511-9752-204f4552a305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 '쿨'한 소재, 데님]]></title>
-            <link>https://www.elle.co.kr/article/66496</link>
-            <guid>https://www.elle.co.kr/article/66496</guid>
-            <pubDate>Tue, 24 May 2022 02:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[그때 그 시절 데님.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/bb818033-1e68-4295-85da-14ed83e67691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러그로 집안을 아트 플레이스로!]]></title>
-            <link>https://www.elle.co.kr/article/66084</link>
-            <guid>https://www.elle.co.kr/article/66084</guid>
-            <pubDate>Tue, 24 May 2022 02:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[공간을 금세 예술적으로 바꾸는 러그의 신나는 패턴 플레이!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/72eac06b-7e7e-4c6a-849f-d257dcd486b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
