@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:58:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스스무 카미조 인터뷰: 푸들을 그리는 작가의 첫 내한 '얼론 위드 에브리바디']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33806677&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33806677&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 24 May 2022 02:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTZfMjY1/MDAxNjUyNjkxNjg1Njk4.4IsvZHnY1tY3dN4PgxZzVwsynFKOI39oCc2-0iPWyIkg.7QJci3P19mraRc7iKEcw-waWqVjOCnvemYtVIRnk9Ngg.JPEG/I2aXnxbfBJqZ6YLrMlztr_Y2-UO0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20세기 미술품 중 최고가, 앤디 워홀의 ‘마릴린 먼로’ 초상화의 낙찰가는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33774083&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MTFfOTkg/MDAxNTk3MDc0NzI4MTg2.En7Dj3jHSRl4znE-2yKXGHLLSohMH9fY9LRmWvwkFesg.4PicMwxzAVOExfMi9hhYxLXN2kZsNzBrGVwlEXmbszcg.JPEG/IFK9LkzH9_bRgquIpb3m7pT4E4xE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가볍게 혹은 진지하게 관람하기 좋은 7월 추천 전시 10선]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28890432&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28890432&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjRfMjc2/MDAxNTk1NTk3OTc2Njcw._Aahv4PINuoUFERZOG4S82D1TXHM9plAd4RJXFiMvagg.lYhxgfqgXFj-HTd90wZzf6_OBUEbzgDl71Y2DQ9CXgog.JPEG/Iv15C7j1edRiuE3N6RARKWfs1TcY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

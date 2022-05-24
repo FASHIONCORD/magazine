@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 17:58:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토트넘이 선정한 2021-22 ‘올해의 선수’는 누구?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33806350&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33806350&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 24 May 2022 02:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTZfMTQ2/MDAxNjUyNjg5NjE4Mjk5.2UReWA4EogQSfnlkxkVLuFPUBNuvGH0LrXuJTS_MsOsg.q1spOsrDwgZuyemr66hZZfqy1XlhTRX0yz6NU7NS2xkg.JPEG/Iycseo1Zhs_M3_MbJZYSqHb_5k00.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손흥민, 역대 한국인 유럽 리그 최다골 신기록 작성]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33729467&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMDRfOTYg/MDAxNTQzODkxNTY2Mzg3.Z10N1JCusJvZNAN87w1brRZ8cVsVmVUHucRcFywgv4wg.S6XP8vd7JdPOmqyhp6LkP-fG-nBIBXZL1DczWJbWwWUg.JPEG/IB-GiCys9uqFU210YU9Z7wrAuVDg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 브라운 팀 단복 입은 FC 바르셀로나]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=16828529&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=16828529&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxODEwMDVfMjE3/MDAxNTM4NzE0MjA3MjA0.vRPp0kwz1D5BsE0v23iPBOaOHfbZ1VZWtrWF4xBPWTog.5WhQzEJbN7H6JgWDg0GBGT5eLzN_w9yAo-qBaTzueHMg.JPEG/IXOfFFPg9moFixpeQU551MDfK2ME.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
