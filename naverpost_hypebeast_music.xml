@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 05:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 17:56:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오메가 사피엔 & 바우어 인터뷰: 두 명의 변태가 만든 힙합 EP 'WUGA']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33865008&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33865008&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 26 May 2022 17:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjZfNyAg/MDAxNjUzNTU4Mzk5ODg1.yrcMcs2l5hXfwQl20n3JmBSpUde0nYdT_46QAhWNvhog.8qpeUSKAbrlTIb7HiHj7Sv5p2pGllqzqgwp8CYlweQIg.JPEG/IvB38Civ726NMaNePqoDAZP1PGRQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그냥노창 인터뷰: 너의 계절을 없애버린 이야기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33616513&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfMjYy/MDAxNjI2MTY1NDc1NDQx.K0Bx0EvlPNsbZ0bHnU2buybz7YEwlBqGuOT09HRF6P8g.oifIqAlkza8s3oT70CeBx34SzdgTaITDh1aMlwLqTrQg.JPEG/IYC6cb-gwd4ZaBAbYogdR9pMztSg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[래퍼 스눕 독이 피식대학 ‘한사랑산악회’의 영상을 공유했다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31873274&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31873274&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MzBfMjYx/MDAxNjI1MDM1MzEzNTcx.mHqW-KejvMaj48lbNc41FdJGuvLmqw367KFHBL9Jj1sg.-CrUu6r-dA3erdL2MXO6lIjasyf9v-o6tdIERPiXhfwg.JPEG/IHOwd5F1hLQy_Kvp9QaKF-ai0gfc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

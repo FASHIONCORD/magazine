@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 05:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 17:56:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 배우들이 형사와 살인자로! 손석구X최우식이 검토 중이라는 넷플릭스 시리즈 내용]]></title>
+            <link>https://www.elle.co.kr/article/66731</link>
+            <guid>https://www.elle.co.kr/article/66731</guid>
+            <pubDate>Thu, 26 May 2022 17:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[벌써부터 기대중.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/7d473533-9659-4376-b489-faf1f7250b28.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난 슬플 때 드라마를 봐! 울고 싶을 때 보기 좋은 감성 드라마 추천 3 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/66586</link>
@@ -35,7 +43,6 @@
             <link>https://www.elle.co.kr/article/66420</link>
             <guid>https://www.elle.co.kr/article/66420</guid>
             <pubDate>Tue, 24 May 2022 02:30:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/0706ea29-bb6c-493a-aade-9ed1e5ac45ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해는 이 영화가 뜬다? 전주국제영화제를 빛낸 영화들]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.elle.co.kr/article/65759</link>
             <guid>https://www.elle.co.kr/article/65759</guid>
             <pubDate>Mon, 25 Apr 2022 05:46:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[사회적 거리두기 끝, 마블 히어로 출격! 3개월 동안 공개되는 MCU 영화와 드라마 3]]></title>
-            <link>https://www.elle.co.kr/article/65715</link>
-            <guid>https://www.elle.co.kr/article/65715</guid>
-            <pubDate>Sat, 23 Apr 2022 05:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[토르, 닥터 스트레인지, 미즈 마블까지.]]></content:encoded>
         </item>
     </channel>
 </rss>
