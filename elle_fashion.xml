@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 17:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 05:49:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과거와 현재를 관통해 우주로 나아 간 구찌]]></title>
+            <link>https://www.elle.co.kr/article/66506</link>
+            <guid>https://www.elle.co.kr/article/66506</guid>
+            <pubDate>Thu, 26 May 2022 05:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[알레산드로 미켈레가 제시한 구찌식 우주기원론, ‘구찌 코스모고니’ 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/6c75cad9-0ea1-4130-8c94-7f15e083f1a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 한 끗, 주얼리]]></title>
             <link>https://www.elle.co.kr/article/66601</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 24 May 2022 02:27:37 GMT</pubDate>
             <content:encoded><![CDATA[선글라스 쇼핑 리스트!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/21/edb811de-03bd-448a-90cb-e0f3e0748083.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬은 CHANEL일 때 아름답다]]></title>
-            <link>https://www.elle.co.kr/article/66543</link>
-            <guid>https://www.elle.co.kr/article/66543</guid>
-            <pubDate>Tue, 24 May 2022 02:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[결코 미워할 수 없는 나르시시즘이 담긴 샤넬 워치의 뉴 컬렉션, 샤넬 원티드(CHANEL WANT...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/9cb51da2-c2f8-4118-8258-a8a55994134c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
