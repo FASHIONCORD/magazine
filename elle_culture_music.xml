@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 17:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 내한 공연 최신 업데이트.zip]]></title>
+            <link>https://www.elle.co.kr/article/66709</link>
+            <guid>https://www.elle.co.kr/article/66709</guid>
+            <pubDate>Fri, 27 May 2022 06:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[올해를 뜨겁게 달굴 내한 공연과 페스티벌.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/26814a9f-055f-4d14-a12a-b64d0cb318cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로제 거울 셀카 찍는 법 최초 공개?! 로제는 스마트 폰에 블랙핑크 멤버들을 뭐라고 저장했을까]]></title>
             <link>https://www.elle.co.kr/article/66561</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/66259</guid>
             <pubDate>Mon, 09 May 2022 17:50:43 GMT</pubDate>
             <content:encoded><![CDATA[선예가 픽한 이 계절과 딱 어울리는 노래들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/7fc0b1a1-ba8e-40ae-ba50-e94c967f0c3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[wavy의 뉴페이스, 밀레나가 들려주는 '우리들' #2주의뮤지션]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/62523</guid>
             <pubDate>Tue, 28 Dec 2021 05:45:36 GMT</pubDate>
             <content:encoded><![CDATA[전 세대를 아우르는 K-POP 스타들의 모임.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우먼 프라이드! 2021년의 여성들 #이영지 #제시]]></title>
-            <link>https://www.elle.co.kr/article/62336</link>
-            <guid>https://www.elle.co.kr/article/62336</guid>
-            <pubDate>Wed, 22 Dec 2021 05:45:52 GMT</pubDate>
-            <content:encoded><![CDATA['굿 걸' 제시와 '네오 걸' 이영지.]]></content:encoded>
         </item>
     </channel>
 </rss>

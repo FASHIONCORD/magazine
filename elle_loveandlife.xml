@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 17:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램 속 외국 식탁 바이브, 이젠 동네 그로서리 스토어로 느껴봐]]></title>
+            <link>https://www.elle.co.kr/article/66518</link>
+            <guid>https://www.elle.co.kr/article/66518</guid>
+            <pubDate>Fri, 27 May 2022 06:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[이건 못 참지. 와인과 스낵, 화장품, 인테리어 소품까지 모두 구매 가능한 강남의 그로서리 스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/c1abb20d-d573-4905-965c-86a844ace3be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['리틀 포레스트' 같은 휴식이 필요하다면? 쏟아지는 별들과 함께 하는 함양 숙소 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/66467</link>
@@ -59,14 +67,6 @@
             <pubDate>Wed, 25 May 2022 05:52:33 GMT</pubDate>
             <content:encoded><![CDATA[핫한 에스프레소 바부터 냉면 맛집까지! 김나영이 방문한 핫 플레이스를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/c2fa5ae2-b391-491d-b777-dbf37fd6a747.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비주얼 갑, 숲 속에 머무는 기분이 드는 카페 3]]></title>
-            <link>https://www.elle.co.kr/article/66303</link>
-            <guid>https://www.elle.co.kr/article/66303</guid>
-            <pubDate>Wed, 25 May 2022 05:52:33 GMT</pubDate>
-            <content:encoded><![CDATA[일상의 모든 소리로부터 조용할 권리, 날씨가 맑아진 만큼 푸르른 숲이 반가운 요즘. 도심 속 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/cd0cde2d-5bd3-4ec2-b06e-c8d1af0f9edc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
