@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 05:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 17:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뿔뿔이 흩어졌던 OTT, 대통합시대 시작? 티빙과 시즌 통합 검토 중!]]></title>
+            <link>https://www.elle.co.kr/article/66768</link>
+            <guid>https://www.elle.co.kr/article/66768</guid>
+            <pubDate>Sat, 28 May 2022 17:47:56 GMT</pubDate>
+            <content:encoded><![CDATA[OTT 가입자들은 너무나도 반가워 할 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/f91da487-6709-4b1d-903a-8f4afd7dabb1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예측 불가능한 김성철]]></title>
+            <link>https://www.elle.co.kr/article/66684</link>
+            <guid>https://www.elle.co.kr/article/66684</guid>
+            <pubDate>Sat, 28 May 2022 17:47:56 GMT</pubDate>
+            <content:encoded><![CDATA[선과 악, 낭만과 이성, 사랑과 증오, 그 어떤 얼굴로 불쑥 나타날지 예측 불가능한 김성철.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a607b925-7a2f-42b4-9c64-445727e5f9e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대세 배우들이 형사와 살인자로! 손석구X최우식이 검토 중이라는 넷플릭스 시리즈 내용]]></title>
             <link>https://www.elle.co.kr/article/66731</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 28 May 2022 05:43:56 GMT</pubDate>
             <content:encoded><![CDATA[응원합니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/13c03dc0-48ad-42e8-9fb7-0bda59e7f468.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주에서 가장 패셔너블한 임신부 리한나의 아기가 드디어 엄마와 만났다]]></title>
-            <link>https://www.elle.co.kr/article/66625</link>
-            <guid>https://www.elle.co.kr/article/66625</guid>
-            <pubDate>Sat, 28 May 2022 05:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[만삭 패션의 신기원을 연 리한나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/13124ca2-6500-42a5-91c4-d76ee2a0d3e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민, 30년 EPL 역사 첫 아시아인 득점왕 등극! 그의 기록이 '순도 100%'인 이유 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/66611</link>
-            <guid>https://www.elle.co.kr/article/66611</guid>
-            <pubDate>Sat, 28 May 2022 05:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[주모~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/c8850c0e-fb56-4554-9bb2-e352652718a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
