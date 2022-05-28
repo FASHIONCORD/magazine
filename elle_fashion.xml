@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 17:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 05:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1938년에 움튼 모더니즘, 간송미술관 다시 살피기.]]></title>
+            <link>https://www.elle.co.kr/article/66637</link>
+            <guid>https://www.elle.co.kr/article/66637</guid>
+            <pubDate>Sat, 28 May 2022 05:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[낡은 것은 고치고 덜 갖춘 곳은 기워낼 것이다. 6월 5일까지 열리는 &lt;보화수보&gt; 전을 끝으로 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/3a557cf6-fdbe-4b31-9d4b-a1113b0318f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황학동과 샤넬 공방 컬렉션]]></title>
+            <link>https://www.elle.co.kr/article/66635</link>
+            <guid>https://www.elle.co.kr/article/66635</guid>
+            <pubDate>Sat, 28 May 2022 05:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[노을빛이 깊게 물든 서울의 오래된 거리에서 만난 샤넬의 공방 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/da239602-97b9-423d-ba54-62525c49b049.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모나코에서 만난 샤넬 크루즈 쇼]]></title>
+            <link>https://www.elle.co.kr/article/66603</link>
+            <guid>https://www.elle.co.kr/article/66603</guid>
+            <pubDate>Sat, 28 May 2022 05:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[F1 그랑프리와 테니스, 캐롤라인 공주, 카지노, 빌라 라 비지에, 칼 라거펠트, 린다 에반젤리스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/2d175df1-e4c9-43eb-b6e0-c51335ec46b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과거와 현재를 관통해 우주로 나아 간 구찌]]></title>
             <link>https://www.elle.co.kr/article/66506</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 24 May 2022 02:27:37 GMT</pubDate>
             <content:encoded><![CDATA[옷을 많이 입고, 입혀본 이들만이 가진 남다른 시선이 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/22/e3bd3787-dc76-40c7-9539-5f607b1054a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셔츠 입기 좋은 지금, 스타들의 셔츠 패션]]></title>
-            <link>https://www.elle.co.kr/article/66565</link>
-            <guid>https://www.elle.co.kr/article/66565</guid>
-            <pubDate>Tue, 24 May 2022 02:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[차정원부터 슬기까지. 스타들의 셔츠 패션을 참고해 데일리 룩을 완성해 볼까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/21/8bf11397-cc07-4eee-b248-e04449864c38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누데이크의 창시자 하예진의 취향]]></title>
-            <link>https://www.elle.co.kr/article/66086</link>
-            <guid>https://www.elle.co.kr/article/66086</guid>
-            <pubDate>Tue, 24 May 2022 02:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[맛있는 판타지를 실현하는 누데이크 크리에이티브 디렉터 하예진의 은밀한 취향.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/21/173bdb9e-5ebd-4415-8b54-a180d4b027ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인상 찌푸리지 말고 '쿨'한 선글라스 더하기]]></title>
-            <link>https://www.elle.co.kr/article/66564</link>
-            <guid>https://www.elle.co.kr/article/66564</guid>
-            <pubDate>Tue, 24 May 2022 02:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[선글라스 쇼핑 리스트!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/21/edb811de-03bd-448a-90cb-e0f3e0748083.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

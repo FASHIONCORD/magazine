@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 17:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 05:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태양에 맞서다]]></title>
+            <link>https://www.elle.co.kr/article/66088</link>
+            <guid>https://www.elle.co.kr/article/66088</guid>
+            <pubDate>Sat, 28 May 2022 05:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[필드 위 환한 피부를 위한 나이스샷.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/4728acab-d774-452e-a158-6aa93de850bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디올 2022 가을 여성 레디 투 웨어 컬렉션 백스테이지로의 초대]]></title>
             <link>https://www.elle.co.kr/article/66572</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 24 May 2022 02:27:46 GMT</pubDate>
             <content:encoded><![CDATA[구성품부터 디자인, 지속력까지 에디터가 직접 체험해본 리얼 리뷰]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/b038ad6d-ec10-40a2-b6aa-56f187f11e41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자 연예인 단발좌 2022년 봄 최신 버전]]></title>
-            <link>https://www.elle.co.kr/article/66364</link>
-            <guid>https://www.elle.co.kr/article/66364</guid>
-            <pubDate>Tue, 24 May 2022 02:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[단발을 부르는 여자 연예인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/461866ef-02fe-4e1c-9af5-f02217482ad1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 17:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 05:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정말 은행에 저금만 열심히 하면 될까?_돈쓸신잡 #46]]></title>
+            <link>https://www.elle.co.kr/article/66513</link>
+            <guid>https://www.elle.co.kr/article/66513</guid>
+            <pubDate>Sat, 28 May 2022 05:48:05 GMT</pubDate>
+            <content:encoded><![CDATA[인플레이션? 아껴둔 총알을 사용해야 할 때.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/fe2caecd-2219-47c7-bb18-6b41b3f39048.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엄마, 그 이상의 추자현_요주의여성 #58]]></title>
             <link>https://www.elle.co.kr/article/66365</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 24 May 2022 02:33:14 GMT</pubDate>
             <content:encoded><![CDATA[순기능도 역기능도 분명했던 청와대 국민청원.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/f3cca3e0-89da-4f10-ba17-0ac53d1ea28d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 거리에서 더 많은 휠체어를 볼 수 있다면]]></title>
-            <link>https://www.elle.co.kr/article/66271</link>
-            <guid>https://www.elle.co.kr/article/66271</guid>
-            <pubDate>Tue, 24 May 2022 02:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[기억 속 할아버지는 버스를 탄 적도, 지하철을 이용한 적도 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/165e4736-ef4c-487d-82b2-ed29b4213fa4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
