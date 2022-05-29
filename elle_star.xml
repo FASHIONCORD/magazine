@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 17:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 상업영화로 칸 레드카펫 밟은 아이유! 눈물의 시사부터 어깨 밀침 사건까지?]]></title>
+            <link>https://www.elle.co.kr/article/66771</link>
+            <guid>https://www.elle.co.kr/article/66771</guid>
+            <pubDate>Sun, 29 May 2022 17:47:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/c39879ba-c930-4288-8bed-13b7c9577f0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뿔뿔이 흩어졌던 OTT, 대통합시대 시작? 티빙과 시즌 통합 검토 중!]]></title>
             <link>https://www.elle.co.kr/article/66768</link>
@@ -62,14 +69,6 @@
             <pubDate>Sat, 28 May 2022 05:43:56 GMT</pubDate>
             <content:encoded><![CDATA['대한민국 엄마라면 피할 수 없다'. JTBC 드라마 '그린마더스클럽'으로 돌아온 세 배우의 드라...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/294eadd8-c498-4c03-83d7-b0dea6ff5c9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설현·하연수·신지수, 악플 박제부터 댓글 참전까지 직접 나선 스타 3]]></title>
-            <link>https://www.elle.co.kr/article/66655</link>
-            <guid>https://www.elle.co.kr/article/66655</guid>
-            <pubDate>Sat, 28 May 2022 05:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[응원합니다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/13c03dc0-48ad-42e8-9fb7-0bda59e7f468.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

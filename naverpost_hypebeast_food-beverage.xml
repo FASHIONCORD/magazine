@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 17:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리츠 x 오레오, 궁극적 '단짠' 조합의 협업 쿠키 출시]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33871163&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33871163&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Sun, 29 May 2022 17:45:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfMjEw/MDAxNjUzNjQ1MTkzNDE0.L_XUma2vPaKUbck8T4ThWEj7H13Wpzb9L1xu0nemTP8g.8kwQc1xmlcmU-tbyLweJohH_xgVW_No0Vhg4naDdhJMg.JPEG/IBPMHQb2ja_CmHnqPiA2ynjYoQJ8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버거킹 & 서브웨이 등, 패스트푸드 음식점에서 감자튀김 판매 중단된다?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33871128&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MjVfMjQ1/MDAxNjI0NjA1ODk4Nzgy.b-Rf-D7qETIIpvQ0iESKJGRziQzUtsi9ZbDKCwR3dMsg.YpAzqf9EMQ2AtjYY1y8-pVipSUoQ1FM4O34_uCzqQykg.JPEG/I9RNK6T-tsA4QhugCtKMM_vFxz4w.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어몽어스’ 캐릭터 모양 맥도날드 'BTS 세트' 맥너겟이 1억1천만 원에 팔렸다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31684226&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31684226&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MDdfMjA2/MDAxNjIzMDU2NzA4MDc3.OK-cjGti6heMBz2PNvArglaMXdhO4feL2OwJ0hmDy9Ug.u3f-uZCSSAYNsxQd4aTwysb-KZwLTjvMrI8G3xHR9Zwg.JPEG/I-wiU2yFVnCv4pWA_Dz2kVOSm2xE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
