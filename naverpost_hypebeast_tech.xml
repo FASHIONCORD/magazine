@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 17:54:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 상위 부자 3명, 5개월 동안 약 1백43조 원 손실 봤다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33882641&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33882641&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 30 May 2022 17:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzBfMTI5/MDAxNjUzODk3NTAxOTE0.tukBICznGED6XR6jI6sd4cIpD1ejuYptDohHG-jxBpQg.PC17x8IogeMoUFCh5LSVdPH6dv0YZUtL6uxsQrV-NO0g.JPEG/IywoxNPuFc5Byqty8A2J8LDWZixQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올가을 3년 만의 '애플 에어팟 프로 2세대'가 출시된다?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33767631&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMTlfMzIg/MDAxNjA1NzY4NTgyMDEy.cqCUK0HpJfU72rSYPtosuMec8DhONfAmp9GRPvayPZIg.bqEzyBSI4Oo35aPMEWxp5EVzFaCaYAIcDaaBF2Nebjog.JPEG/IPt7h7XMrgxW3PchrzA6WComHfVw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤드폰, 스피커 없이도 음악을 들려주는 기계가 개발 중이다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30002704&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30002704&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMThfMTQ5/MDAxNjA1Njc4NzAyOTk1.0SFkqpvjYYxU2HRFdFoD-u-Nor8asetCqfOCDqSpzOEg.MXDMZTrjxF6XveOKHiLp5Mqwt57cZ29b2kNpcXONwDAg.JPEG/IOV1Fa-yDBKO_PyQT2Gv-yiBfHso.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
