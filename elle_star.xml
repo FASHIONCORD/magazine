@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 05:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 17:59:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['나의 해방일지' 삼남매와 구씨가 보여 준 추앙과 환대, 그리고 진짜 해방 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/66823</link>
+            <guid>https://www.elle.co.kr/article/66823</guid>
+            <pubDate>Tue, 31 May 2022 17:53:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/fba233f5-1e17-48b1-8541-0edc86030854.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이게 가능해? 송강호·박찬욱 칸 영화제 수상으로 바뀌어 버린 한국 영화사 목록.list]]></title>
+            <link>https://www.elle.co.kr/article/66820</link>
+            <guid>https://www.elle.co.kr/article/66820</guid>
+            <pubDate>Tue, 31 May 2022 17:53:40 GMT</pubDate>
+            <content:encoded><![CDATA[주모~~~~~!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/dbb81899-ecc3-4283-90d6-b2ce47c0b93d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모두들 <태어나길 잘했어>!]]></title>
             <link>https://www.elle.co.kr/article/66796</link>
@@ -53,22 +68,6 @@
             <guid>https://www.elle.co.kr/article/66771</guid>
             <pubDate>Sun, 29 May 2022 17:47:42 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/c39879ba-c930-4288-8bed-13b7c9577f0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뿔뿔이 흩어졌던 OTT, 대통합시대 시작? 티빙과 시즌 통합 검토 중!]]></title>
-            <link>https://www.elle.co.kr/article/66768</link>
-            <guid>https://www.elle.co.kr/article/66768</guid>
-            <pubDate>Sat, 28 May 2022 17:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[OTT 가입자들은 너무나도 반가워 할 소식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/f91da487-6709-4b1d-903a-8f4afd7dabb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예측 불가능한 김성철]]></title>
-            <link>https://www.elle.co.kr/article/66684</link>
-            <guid>https://www.elle.co.kr/article/66684</guid>
-            <pubDate>Sat, 28 May 2022 17:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[선과 악, 낭만과 이성, 사랑과 증오, 그 어떤 얼굴로 불쑥 나타날지 예측 불가능한 김성철.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a607b925-7a2f-42b4-9c64-445727e5f9e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
