@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 17:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:52:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3년만에 돌아왔다! 웰컴백 베니스비엔날레]]></title>
+            <link>https://www.elle.co.kr/article/66740</link>
+            <guid>https://www.elle.co.kr/article/66740</guid>
+            <pubDate>Tue, 31 May 2022 05:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[여성 아티스트들의 독주, 그리고 우크라이나를 향한 연대까지. 역대급으로 돌아온 베니스 비엔날레]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/cac6efa9-6bcc-4aca-8562-5cd767560de7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대세 배우들이 형사와 살인자로! 손석구X최우식이 검토 중이라는 넷플릭스 시리즈 내용]]></title>
             <link>https://www.elle.co.kr/article/66731</link>
@@ -36,8 +44,8 @@
             <link>https://www.elle.co.kr/article/66704</link>
             <guid>https://www.elle.co.kr/article/66704</guid>
             <pubDate>Sun, 29 May 2022 17:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[책을 사랑하는 이들에게 특별한 영감을 불어넣 줄 국내 최대 책 축제 ‘서울국제도서전’이 열립...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/1b8db767-d4db-4201-8be6-d7af03013317.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[책을 사랑하는 이들에게 특별한 영감을 불어넣어 줄 국내 최대 책 축제 ‘서울국제도서전’이 열...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/1b8db767-d4db-4201-8be6-d7af03013317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[난 슬플 때 드라마를 봐! 울고 싶을 때 보기 좋은 감성 드라마 추천 3 #요즘드라마]]></title>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/66550</guid>
             <pubDate>Sun, 29 May 2022 17:47:57 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/7aa18d73-696d-462b-9f32-84307e04b178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ME, MY FAMILY]]></title>
-            <link>https://www.elle.co.kr/article/66528</link>
-            <guid>https://www.elle.co.kr/article/66528</guid>
-            <pubDate>Sun, 29 May 2022 17:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[가족의 이야기를 다룬 책 두 권.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/66f46eb6-8702-44a9-b9d8-9a9aad8da205.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

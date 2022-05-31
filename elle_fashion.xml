@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 17:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:52:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3인 3색 스타일 대결! '그린마더스클럽' 이요원 vs 추자현 vs 김규리 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/66664</link>
+            <guid>https://www.elle.co.kr/article/66664</guid>
+            <pubDate>Tue, 31 May 2022 05:46:15 GMT</pubDate>
+            <content:encoded><![CDATA['대한민국 엄마라면 피할 수 없다'. JTBC 드라마 '그린마더스클럽'으로 돌아온 세 배우의 드라...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/294eadd8-c498-4c03-83d7-b0dea6ff5c9c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위트 있는 스타일을 완성시켜줄 미니백 열전]]></title>
             <link>https://www.elle.co.kr/article/66090</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 24 May 2022 17:50:03 GMT</pubDate>
             <content:encoded><![CDATA[‘패잘알’ 셀럽들도 사랑에 빠진 사계절 활용 만점 셔츠, 지금 당장 구매하세요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/1610ca19-1631-4a87-89b1-6089b9eade44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱그러워! 스타 부부의 센스 만점 커플룩 5]]></title>
-            <link>https://www.elle.co.kr/article/66583</link>
-            <guid>https://www.elle.co.kr/article/66583</guid>
-            <pubDate>Tue, 24 May 2022 17:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[부부의 날! 패잘알 스타 부부들의 데일리 룩에서 커플룩 공식을 배워보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/42669e91-37f4-47b4-a605-228dcb7123a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
