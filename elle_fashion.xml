@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 17:59:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 06:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성의, 여성을 위한, 여성에 의한 나이키의 50년]]></title>
+            <link>https://www.elle.co.kr/article/66777</link>
+            <guid>https://www.elle.co.kr/article/66777</guid>
+            <pubDate>Wed, 01 Jun 2022 06:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[여성에게 투자할 때 스포츠가 개선된다고 이야기하는 브랜드, 나이키가 50주년을 맞았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/d55b6684-ef06-48b4-a88f-a20edf7c9322.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명품 패션하우스가 인정한 국가대표 아티스트는 바로 이 사람]]></title>
+            <link>https://www.elle.co.kr/article/66724</link>
+            <guid>https://www.elle.co.kr/article/66724</guid>
+            <pubDate>Wed, 01 Jun 2022 06:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[디올이 고르고, 구찌가 모시고, 루이 비통이 선택한 국내 작가들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/10f87baa-cb7e-41f3-b039-2160e60de487.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3인 3색 스타일 대결! '그린마더스클럽' 이요원 vs 추자현 vs 김규리 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/66664</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 26 May 2022 05:45:21 GMT</pubDate>
             <content:encoded><![CDATA[알레산드로 미켈레가 제시한 구찌식 우주기원론, ‘구찌 코스모고니’ 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/6c75cad9-0ea1-4130-8c94-7f15e083f1a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 한 끗, 주얼리]]></title>
-            <link>https://www.elle.co.kr/article/66601</link>
-            <guid>https://www.elle.co.kr/article/66601</guid>
-            <pubDate>Tue, 24 May 2022 17:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[가벼워지는 옷차림에 포인트로 제격! 주얼리 활용법을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/dc45c6fc-19cd-4ac7-a8ac-3db51b1f7e86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인 앤 아웃' 100점짜리 필수템, 화사한 셔츠 쇼핑 리스트 6.]]></title>
-            <link>https://www.elle.co.kr/article/66584</link>
-            <guid>https://www.elle.co.kr/article/66584</guid>
-            <pubDate>Tue, 24 May 2022 17:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[‘패잘알’ 셀럽들도 사랑에 빠진 사계절 활용 만점 셔츠, 지금 당장 구매하세요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/1610ca19-1631-4a87-89b1-6089b9eade44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
