@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 06:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 17:58:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 상업영화로 칸 레드카펫 밟은 아이유! 눈물의 시사부터 어깨 밀침 사건까지?]]></title>
+            <link>https://www.elle.co.kr/article/66771</link>
+            <guid>https://www.elle.co.kr/article/66771</guid>
+            <pubDate>Wed, 01 Jun 2022 17:54:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/c39879ba-c930-4288-8bed-13b7c9577f0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3년만에 돌아왔다! 웰컴백 베니스비엔날레]]></title>
             <link>https://www.elle.co.kr/article/66740</link>
@@ -62,13 +69,6 @@
             <pubDate>Sun, 29 May 2022 17:47:57 GMT</pubDate>
             <content:encoded><![CDATA[엘르 6월호 커버 스타 로제의 순도 100% 사랑스러운 모먼트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/76ad6840-6091-47c9-9cd6-83a8569ed578.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시사회 매진에 7분 기립 박수! 칸에서 빛난 이정재X정우성, 여전히 간절함 없는 셀카 실력]]></title>
-            <link>https://www.elle.co.kr/article/66550</link>
-            <guid>https://www.elle.co.kr/article/66550</guid>
-            <pubDate>Sun, 29 May 2022 17:47:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/7aa18d73-696d-462b-9f32-84307e04b178.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
