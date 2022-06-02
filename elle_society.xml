@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 17:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 05:58:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼스타 여왕님_요주의여성 #59]]></title>
+            <link>https://www.elle.co.kr/article/66547</link>
+            <guid>https://www.elle.co.kr/article/66547</guid>
+            <pubDate>Thu, 02 Jun 2022 05:58:18 GMT</pubDate>
+            <content:encoded><![CDATA[70년째 왕좌를 지켜온 영국 엘리자베스 2세 여왕의 중요한 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/9b27749e-bc83-4880-a789-a2f23145f641.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정말 은행에 저금만 열심히 하면 될까?_돈쓸신잡 #46]]></title>
             <link>https://www.elle.co.kr/article/66513</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 24 May 2022 02:33:14 GMT</pubDate>
             <content:encoded><![CDATA[다정한 마음은 연마할 수 있다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/a31e92a6-5d45-476c-8cf4-21aa2ed46b3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5년 임기 마치고 청와대 떠나는 문재인 대통령이 직접 남긴 마지막 국민청원 답변]]></title>
-            <link>https://www.elle.co.kr/article/66275</link>
-            <guid>https://www.elle.co.kr/article/66275</guid>
-            <pubDate>Tue, 24 May 2022 02:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[순기능도 역기능도 분명했던 청와대 국민청원.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/f3cca3e0-89da-4f10-ba17-0ac53d1ea28d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
