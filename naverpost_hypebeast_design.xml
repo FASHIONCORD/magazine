@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 17:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실물 사이즈와 똑같은 리모와 x 포르쉐 934 모형이 등장했다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33898104&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33898104&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 02 Jun 2022 17:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDJfMTU0/MDAxNjU0MTU0NjQ4NTY2.PB6jToQ4vhzNw-nI_GRmeSDxZPKo3Bdkp4X1kWNgAtcg.KEwkjsUoNUC7dpkgRE72IRu_7vSveFFxBO7V6N3DvNUg.JPEG/Ik1HkNaJkFr9e18stVj7ScqEbKYw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['악기'와 '오토바이'를 담아낸 야마하의 컴퓨터 마우스 2종]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33408773&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MTRfMjIx/MDAxNTk3Mzk5MDM3MTM4.tHDJtDagYTU0hyDouEfRdtPIa18bBWI8aYIYqmnkHoUg.5MmbA5zpX26jPS88z2cJEqQ1hYl0EWYLxVZFIyYV6OQg.JPEG/I2Eqzd8WsL2fVvm7vM19PfIP_oSY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비하인드 더 하입: 패션 브랜드들이 주목하는 스마일리 페이스]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28836055&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28836055&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjBfMjAx/MDAxNTk1MTczODQ1NjY4.qXEoL-dmPw0bPfLRd_-ZGUqs9w4hY-rUfCpnLT8xxTkg.fs8VTq93gukNv_prq_RJ6-dzaesM0zQP1-lwz8qDBukg.JPEG/IebuqRVUul2k4LsOcsj3B-Q84uHs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

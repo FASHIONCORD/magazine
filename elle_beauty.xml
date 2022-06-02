@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 17:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에디터스픽! 안티에이징의 새로운 미래]]></title>
+            <link>https://www.elle.co.kr/article/66546</link>
+            <guid>https://www.elle.co.kr/article/66546</guid>
+            <pubDate>Thu, 02 Jun 2022 17:53:23 GMT</pubDate>
+            <content:encoded><![CDATA[피부 고민의 근본적인 해결을 위해 스위스에서 탄생한 FAQ™의 강력한 안티에이징 디바이스]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/76bf68dd-5a52-4aa1-94c1-15ab1cd2cae3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클렌저의 진화]]></title>
+            <link>https://www.elle.co.kr/article/66691</link>
+            <guid>https://www.elle.co.kr/article/66691</guid>
+            <pubDate>Thu, 02 Jun 2022 17:53:23 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 피부를 위한 해법은 과거에도 현재에도 클렌징에 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/2e5a44dc-25a0-4033-90b6-2664e04ce72d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전소미·모모의 11자 복근, 하루 10분만 투자하면 된다고? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/66681</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 26 May 2022 05:45:32 GMT</pubDate>
             <content:encoded><![CDATA[입 터짐 방지용 다이어트 스낵과 대체감미료, 식단 꿀팁까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/c8b3b99b-363d-4f7b-96ca-ee80f6dc2bfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['5월의 신부' 손담비, 오프 숄더 웨딩 드레스도 완벽 소화한 건 이 운동과 식단 덕분!?]]></title>
-            <link>https://www.elle.co.kr/article/66498</link>
-            <guid>https://www.elle.co.kr/article/66498</guid>
-            <pubDate>Tue, 24 May 2022 02:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[남편 이규혁과 커플 운동을 하기도 했던 손담비.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/98e26095-21ea-40cd-93b5-4bff0d3c63cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취향 반영! 향수 선물 이렇게, 윤은혜의 추천 5.]]></title>
-            <link>https://www.elle.co.kr/article/66466</link>
-            <guid>https://www.elle.co.kr/article/66466</guid>
-            <pubDate>Tue, 24 May 2022 02:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[윤은혜가 좋은 향수를 고르는 꿀 팁부터 선물용 향수까지, 최애 향수 리스트를 소개했어요. 나를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/1970d216-dbe4-4f25-b8b1-0999c4d4f7f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
