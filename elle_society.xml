@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 17:59:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 05:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나 엔데믹 코 앞인데 갑자기 분위기 원숭이두창?! 증상부터 예방 수칙까지]]></title>
+            <link>https://www.elle.co.kr/article/66688</link>
+            <guid>https://www.elle.co.kr/article/66688</guid>
+            <pubDate>Fri, 03 Jun 2022 05:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[기사에 원숭이두창 환부 사진이 포함돼 있습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/74157d30-51c2-483e-ad5b-c5f79c554288.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼스타 여왕님_요주의여성 #59]]></title>
             <link>https://www.elle.co.kr/article/66547</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/66309</guid>
             <pubDate>Tue, 24 May 2022 02:33:14 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/da5b0892-3c38-4668-9492-0b44d7625e09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 다정함에도 재능이 있다면]]></title>
-            <link>https://www.elle.co.kr/article/66286</link>
-            <guid>https://www.elle.co.kr/article/66286</guid>
-            <pubDate>Tue, 24 May 2022 02:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[다정한 마음은 연마할 수 있다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/a31e92a6-5d45-476c-8cf4-21aa2ed46b3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
