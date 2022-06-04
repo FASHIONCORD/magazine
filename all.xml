@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 05:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 17:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1991,6 +1991,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/fba233f5-1e17-48b1-8541-0edc86030854.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고? (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/66863</link>
+            <guid>https://www.elle.co.kr/article/66863</guid>
+            <pubDate>Tue, 31 May 2022 17:56:08 GMT</pubDate>
+            <content:encoded><![CDATA[준호열 영원히 전역하지마...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/b14f2005-bb12-403d-9db6-daea47de775a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[글로벌 그 자체인 '깐느박' 박찬욱과 '봉테일' 봉준호의 차기작 정보 모음.zip (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/66854</link>
             <guid>https://www.elle.co.kr/article/66854</guid>
@@ -2043,14 +2051,6 @@
             <pubDate>Thu, 26 May 2022 17:53:33 GMT</pubDate>
             <content:encoded><![CDATA[벌써부터 기대중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/7d473533-9659-4376-b489-faf1f7250b28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품 패션하우스가 인정한 국가대표 아티스트는 바로 이 사람 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/66724</link>
-            <guid>https://www.elle.co.kr/article/66724</guid>
-            <pubDate>Fri, 27 May 2022 17:54:14 GMT</pubDate>
-            <content:encoded><![CDATA[디올이 고르고, 구찌가 모시고, 루이 비통이 선택한 국내 작가들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/10f87baa-cb7e-41f3-b039-2160e60de487.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -2148,6 +2148,14 @@
             <content:encoded><![CDATA[밤을 가로질러 점점 더 또렷하게. AOMG라는 새로운 챕터 앞에 선 지금의 쿠기.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[재기발랄한 패러디 VS 동심 파괴 멈춰! '곰돌이 푸' 호러 버전 '피와 꿀' 엇갈린 반응 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/66942</link>
+            <guid>https://www.elle.co.kr/article/66942</guid>
+            <pubDate>Sat, 04 Jun 2022 17:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[나의 곰돌이 푸는 이렇지 않아...!!!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/cb7abbcf-f92a-406f-abc7-c55635c83ebd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/66863</link>
             <guid>https://www.elle.co.kr/article/66863</guid>
@@ -2176,7 +2184,6 @@
             <guid>https://www.elle.co.kr/article/66820</guid>
             <pubDate>Mon, 30 May 2022 17:51:58 GMT</pubDate>
             <content:encoded><![CDATA[주모~~~~~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/dbb81899-ecc3-4283-90d6-b2ce47c0b93d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멈추지 않는 ‘여정’_요주의여성 #60 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -2230,13 +2237,6 @@
             <guid>https://www.elle.co.kr/article/66377</guid>
             <pubDate>Tue, 24 May 2022 02:29:35 GMT</pubDate>
             <content:encoded><![CDATA[누구보다 빨리 신작을 만나보고 싶다면, 영화제의 신작을 보면 된다. 매년 보다 다양한 장르의 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[치열했던 백상예술대상 TV 부문, 'D.P.' 조현철 수상 소감이 유독 빛났던 까닭 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/66302</link>
-            <guid>https://www.elle.co.kr/article/66302</guid>
-            <pubDate>Tue, 10 May 2022 05:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[그가 소감에서 언급한 이름들의 공통점.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레고 보태니컬 컬렉션으로 완성하는 플랜테리어 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2334,6 +2334,22 @@
             <content:encoded><![CDATA[호기심 어린 눈과 마음으로 세상을 바라보는 공예가 윤여동의 취향.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[투명 수정 돌판에 구운 흑돼지 삼겹살과 수비드 스테이크가! 함양 고기 맛집 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/66639</link>
+            <guid>https://www.elle.co.kr/article/66639</guid>
+            <pubDate>Sat, 04 Jun 2022 17:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[신선한 산채비빔밥과 떡갈비도 인기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/0e567500-c75c-4e60-8bd4-ae62d628a6a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[27년차 자취만랩 김숙의 내돈내산 식기 추천 6 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/66638</link>
+            <guid>https://www.elle.co.kr/article/66638</guid>
+            <pubDate>Sat, 04 Jun 2022 17:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[1인 가구 주목! 자취 대선배의 실용성과 감성을 모두 담은 주방 필수템을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/bcd1115a-0369-4286-bcb6-5ea50ed10eec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지리산 흑돼지 잠봉 샌드위치 맛보며 산골뷰 감상하기! 함양 분위기 맛집 카페 3  #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/66566</link>
             <guid>https://www.elle.co.kr/article/66566</guid>
@@ -2380,20 +2396,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/5bb85b63-c4d6-40ea-af85-5a504cb7af2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팥빙수 대신? 여름이니까! 아이스크림 라떼 투어 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/66431</link>
-            <guid>https://www.elle.co.kr/article/66431</guid>
-            <pubDate>Wed, 25 May 2022 05:52:33 GMT</pubDate>
-            <content:encoded><![CDATA[고소한 라떼 위에 달콤하고 시원한 아이스크림이 풍덩 빠진 아이스크림 라떼 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/c1647284-53a7-4d30-9208-92d0ffdbfc7f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[엘르보이스] 일하는 여자는 커뮤니티가 필요하다 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/66745</link>
+            <guid>https://www.elle.co.kr/article/66745</guid>
+            <pubDate>Sat, 04 Jun 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA['범서대문파' 모임부터 까르띠에 언더우먼 임팩트 커뮤니티까지. 여성들의 이너서클이 필요한 이유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/6f098f98-3ee9-4765-8c54-8dd12a698acd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가볍지만 스마트한 선택, 레노버 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/66368</link>
-            <guid>https://www.elle.co.kr/article/66368</guid>
-            <pubDate>Wed, 25 May 2022 05:52:33 GMT</pubDate>
-            <content:encoded><![CDATA[성능과 휴대성 모두 잡은 초경량 고효율 노트북.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/5c2756ce-8525-4071-b538-760cd27556eb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[회삿돈 훔친 사람들은 그 돈으로 뭘 했을까_돈쓸신잡 #47 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/66705</link>
+            <guid>https://www.elle.co.kr/article/66705</guid>
+            <pubDate>Sat, 04 Jun 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022년에 벌어지는 횡령 사건에는 공통점이 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/50d4052e-949d-4584-8a36-1c4fd1936d16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나 엔데믹 코 앞인데 갑자기 분위기 원숭이두창?! 증상부터 예방 수칙까지 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -2442,21 +2458,6 @@
             <pubDate>Fri, 27 May 2022 06:09:41 GMT</pubDate>
             <content:encoded><![CDATA[전시 상황에 군 복무 중인 우크라이나 가수와 함께 노래를 불렀다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/360a6a62-28f1-4e2a-a4a1-45c81b7cc651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 아나운서가 언어에 시대를 반영해 나가는 속도는 얼마가 적정할까? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/66314</link>
-            <guid>https://www.elle.co.kr/article/66314</guid>
-            <pubDate>Tue, 24 May 2022 02:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[각자의 삶과 다양성을 존중하는 말의 힘에 대한 임현주 아나운서의 생각]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/9209c80d-81b7-46dd-b6d3-77914720f2ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청와대 경내 전면 개방 첫날, 무료 관람권에 벌써 웃돈이 붙었다고?! (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/66309</link>
-            <guid>https://www.elle.co.kr/article/66309</guid>
-            <pubDate>Tue, 24 May 2022 02:33:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/da5b0892-3c38-4668-9492-0b44d7625e09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

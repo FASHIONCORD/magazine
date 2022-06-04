@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 05:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 17:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고?]]></title>
+            <link>https://www.elle.co.kr/article/66863</link>
+            <guid>https://www.elle.co.kr/article/66863</guid>
+            <pubDate>Sat, 04 Jun 2022 17:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[준호열 영원히 전역하지마...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/b14f2005-bb12-403d-9db6-daea47de775a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 그 자체인 '깐느박' 박찬욱과 '봉테일' 봉준호의 차기작 정보 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/66854</link>
@@ -60,14 +68,6 @@
             <pubDate>Mon, 30 May 2022 17:50:32 GMT</pubDate>
             <content:encoded><![CDATA[벌써부터 기대중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/7d473533-9659-4376-b489-faf1f7250b28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품 패션하우스가 인정한 국가대표 아티스트는 바로 이 사람]]></title>
-            <link>https://www.elle.co.kr/article/66724</link>
-            <guid>https://www.elle.co.kr/article/66724</guid>
-            <pubDate>Mon, 30 May 2022 17:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[디올이 고르고, 구찌가 모시고, 루이 비통이 선택한 국내 작가들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/10f87baa-cb7e-41f3-b039-2160e60de487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

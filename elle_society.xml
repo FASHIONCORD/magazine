@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 05:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 17:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 일하는 여자는 커뮤니티가 필요하다]]></title>
+            <link>https://www.elle.co.kr/article/66745</link>
+            <guid>https://www.elle.co.kr/article/66745</guid>
+            <pubDate>Sat, 04 Jun 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA['범서대문파' 모임부터 까르띠에 언더우먼 임팩트 커뮤니티까지. 여성들의 이너서클이 필요한 이유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/6f098f98-3ee9-4765-8c54-8dd12a698acd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[회삿돈 훔친 사람들은 그 돈으로 뭘 했을까_돈쓸신잡 #47]]></title>
+            <link>https://www.elle.co.kr/article/66705</link>
+            <guid>https://www.elle.co.kr/article/66705</guid>
+            <pubDate>Sat, 04 Jun 2022 17:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022년에 벌어지는 횡령 사건에는 공통점이 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/50d4052e-949d-4584-8a36-1c4fd1936d16.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나 엔데믹 코 앞인데 갑자기 분위기 원숭이두창?! 증상부터 예방 수칙까지]]></title>
             <link>https://www.elle.co.kr/article/66688</link>
@@ -54,21 +70,6 @@
             <pubDate>Fri, 27 May 2022 06:09:41 GMT</pubDate>
             <content:encoded><![CDATA[전시 상황에 군 복무 중인 우크라이나 가수와 함께 노래를 불렀다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/360a6a62-28f1-4e2a-a4a1-45c81b7cc651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 아나운서가 언어에 시대를 반영해 나가는 속도는 얼마가 적정할까?]]></title>
-            <link>https://www.elle.co.kr/article/66314</link>
-            <guid>https://www.elle.co.kr/article/66314</guid>
-            <pubDate>Tue, 24 May 2022 02:33:14 GMT</pubDate>
-            <content:encoded><![CDATA[각자의 삶과 다양성을 존중하는 말의 힘에 대한 임현주 아나운서의 생각]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/9209c80d-81b7-46dd-b6d3-77914720f2ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청와대 경내 전면 개방 첫날, 무료 관람권에 벌써 웃돈이 붙었다고?!]]></title>
-            <link>https://www.elle.co.kr/article/66309</link>
-            <guid>https://www.elle.co.kr/article/66309</guid>
-            <pubDate>Tue, 24 May 2022 02:33:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/da5b0892-3c38-4668-9492-0b44d7625e09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
