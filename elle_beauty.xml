@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 17:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 05:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 휴가 전 깐 달걀 피부 만들기_선배's 어드바이스 #119]]></title>
+            <link>https://www.elle.co.kr/article/66806</link>
+            <guid>https://www.elle.co.kr/article/66806</guid>
+            <pubDate>Sat, 04 Jun 2022 05:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[각질 제거, 얼마나 어떻게 해야 될까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/909e9765-44c7-4055-a1ed-3fa460b7257d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에디터스픽! 안티에이징의 새로운 미래]]></title>
             <link>https://www.elle.co.kr/article/66546</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 26 May 2022 05:45:32 GMT</pubDate>
             <content:encoded><![CDATA[디올 하우스의 우아함과 스트리트 감성의 스포티즘을 중간 부분이 단절된 블랙 아이라인으로 표현...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/5410905d-6c2c-4b96-b391-4d3133a8777d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가득 넣어도 저칼로리! 악뮤 수현이 먹는 다이어트용 대체제 식품들]]></title>
-            <link>https://www.elle.co.kr/article/66548</link>
-            <guid>https://www.elle.co.kr/article/66548</guid>
-            <pubDate>Thu, 26 May 2022 05:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[입 터짐 방지용 다이어트 스낵과 대체감미료, 식단 꿀팁까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/c8b3b99b-363d-4f7b-96ca-ee80f6dc2bfc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

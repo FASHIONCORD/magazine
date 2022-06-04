@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 17:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 05:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1864,6 +1864,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/294eadd8-c498-4c03-83d7-b0dea6ff5c9c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름 휴가 전 깐 달걀 피부 만들기_선배's 어드바이스 #119 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/66806</link>
+            <guid>https://www.elle.co.kr/article/66806</guid>
+            <pubDate>Sat, 04 Jun 2022 05:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[각질 제거, 얼마나 어떻게 해야 될까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/909e9765-44c7-4055-a1ed-3fa460b7257d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에디터스픽! 안티에이징의 새로운 미래 (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/66546</link>
             <guid>https://www.elle.co.kr/article/66546</guid>
@@ -1920,12 +1928,28 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/5410905d-6c2c-4b96-b391-4d3133a8777d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가득 넣어도 저칼로리! 악뮤 수현이 먹는 다이어트용 대체제 식품들 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/66548</link>
-            <guid>https://www.elle.co.kr/article/66548</guid>
-            <pubDate>Thu, 26 May 2022 05:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[입 터짐 방지용 다이어트 스낵과 대체감미료, 식단 꿀팁까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/c8b3b99b-363d-4f7b-96ca-ee80f6dc2bfc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[유일무이 남매 스페셜 No.3 땡깡과 진절미의 댄스 대격돌! (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/66927</link>
+            <guid>https://www.elle.co.kr/article/66927</guid>
+            <pubDate>Sat, 04 Jun 2022 05:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[함께 일궈낸 덕업일치라는 신화! K팝과 함께 부흥기를 맞이한 땡깡과 진절미.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/53a7dd93-0d2c-4c3b-b523-1a10f1b603f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/66924</link>
+            <guid>https://www.elle.co.kr/article/66924</guid>
+            <pubDate>Thu, 02 Jun 2022 17:55:55 GMT</pubDate>
+            <content:encoded><![CDATA[마음에 콕 박히는 장들레의 일상적인 가사]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/09c1e3f7-8e07-44c0-ae77-d4c813131020.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유일무이 남매 스페셜 No.2  파트리샤가 말하는 조나단의 인기 비결 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/66694</link>
+            <guid>https://www.elle.co.kr/article/66694</guid>
+            <pubDate>Sat, 04 Jun 2022 05:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 제일 웃긴 남매 조나단과 파트리샤의 생애 첫 커플 화보.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/938899b6-10ea-4c42-9c76-a357ae2e8363.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고? (엘르 코리아 ─ 스타)]]></title>
@@ -1965,30 +1989,6 @@
             <guid>https://www.elle.co.kr/article/66823</guid>
             <pubDate>Mon, 30 May 2022 17:51:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/fba233f5-1e17-48b1-8541-0edc86030854.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 가능해? 송강호·박찬욱 칸 영화제 수상으로 바뀌어 버린 한국 영화사 목록.list (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/66820</link>
-            <guid>https://www.elle.co.kr/article/66820</guid>
-            <pubDate>Mon, 30 May 2022 17:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[주모~~~~~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/dbb81899-ecc3-4283-90d6-b2ce47c0b93d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두들 <태어나길 잘했어>! (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/66796</link>
-            <guid>https://www.elle.co.kr/article/66796</guid>
-            <pubDate>Tue, 31 May 2022 05:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[최진영 감독과의 따뜻한 인터뷰]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/2ebd70d3-7869-4ec9-b46e-ac7416be8ff7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K콘텐츠의 파동 위에 선 두 여성의 조우, 스튜디오N 권미경 대표&<시맨틱 에러> 김수정 감독 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/66793</link>
-            <guid>https://www.elle.co.kr/article/66793</guid>
-            <pubDate>Tue, 31 May 2022 05:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[K콘텐츠'라는 이름이 어느 때보다 당당하게 불리는 지금. 콘텐츠의 장르와 형식이 뒤섞이며 놀라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/d65a83f6-ba6d-4831-a718-fe3523c76531.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌 그 자체인 '깐느박' 박찬욱과 '봉테일' 봉준호의 차기작 정보 모음.zip (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2239,6 +2239,14 @@
             <content:encoded><![CDATA[그가 소감에서 언급한 이름들의 공통점.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[레고 보태니컬 컬렉션으로 완성하는 플랜테리어 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/66912</link>
+            <guid>https://www.elle.co.kr/article/66912</guid>
+            <pubDate>Sat, 04 Jun 2022 05:45:08 GMT</pubDate>
+            <content:encoded><![CDATA[취미와 인테리어를 동시에 즐길 수 있는 ‘레고 보태니컬 컬렉션’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/e90459e9-7cee-4841-87ae-a45f506b557d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[3년만에 돌아왔다! 웰컴백 베니스비엔날레 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/66740</link>
             <guid>https://www.elle.co.kr/article/66740</guid>
@@ -2268,7 +2276,6 @@
             <guid>https://www.elle.co.kr/article/65738</guid>
             <pubDate>Sun, 24 Apr 2022 05:46:48 GMT</pubDate>
             <content:encoded><![CDATA[슬로렌스'를 통해 유용하고 아름다운 오브제를 선보이는 세라미스트 김지은의 취향.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/24/0f079343-2ab6-4d37-8a02-90574f1dca75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WE MISSED U (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2325,13 +2332,6 @@
             <guid>https://www.elle.co.kr/article/64352</guid>
             <pubDate>Mon, 21 Mar 2022 17:48:18 GMT</pubDate>
             <content:encoded><![CDATA[호기심 어린 눈과 마음으로 세상을 바라보는 공예가 윤여동의 취향.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구찌, 아키타이프, 꿈, 미래에 대한 미켈레와의 대담 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/64679</link>
-            <guid>https://www.elle.co.kr/article/64679</guid>
-            <pubDate>Thu, 17 Mar 2022 05:45:17 GMT</pubDate>
-            <content:encoded><![CDATA[전시 &lt;구찌 가든 아키타이프: 절대적 전형&gt; 개최와 더불어 구찌 크리에이티브 디렉터 알레산드로...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지리산 흑돼지 잠봉 샌드위치 맛보며 산골뷰 감상하기! 함양 분위기 맛집 카페 3  #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
