@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 17:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 05:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박신혜♥최태준, 결혼 4개월 만의 출산과 함께 또 다른 가족 경사 맞았다?]]></title>
+            <link>https://www.elle.co.kr/article/66934</link>
+            <guid>https://www.elle.co.kr/article/66934</guid>
+            <pubDate>Mon, 06 Jun 2022 05:43:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/c46ff973-83b4-4407-950d-b6c5016c3863.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주지훈이 차로 데리러 왔다고? 배우들의 마음의 방이 열렸다!]]></title>
             <link>https://www.elle.co.kr/article/66932</link>
@@ -62,14 +69,6 @@
             <pubDate>Fri, 03 Jun 2022 05:42:49 GMT</pubDate>
             <content:encoded><![CDATA[입양이라는 연결고리를 통해 세 가족이 갖게 된 더 넓고 멋진 우주]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/6ffd247a-a429-4978-87c8-a7d62dee3f8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간 샤넬 크리스틴 스튜어트의 칸 국제영화제 스타일링]]></title>
-            <link>https://www.elle.co.kr/article/66766</link>
-            <guid>https://www.elle.co.kr/article/66766</guid>
-            <pubDate>Fri, 03 Jun 2022 05:42:50 GMT</pubDate>
-            <content:encoded><![CDATA[크리스틴 스튜어트가 칸 국제영화제에서 처음 선보인 1932 하이 주얼리 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/51919aa5-a51f-4861-9148-6bf7508760a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
