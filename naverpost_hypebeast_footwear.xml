@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 신발</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 05:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 17:52:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스투시, 컨버스와의 협업 ‘척 70 하이’ 출시 정보 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33921250&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33921250&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 07 Jun 2022 17:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDdfOTMg/MDAxNjU0NTkyMTgzNTMy.pi8E2Pv85PNe3lBaXdsZ5uaLiCvO5Er0tf4aXwbU3uwg.ws43B86arxBK0-O5pNXel6HCc5Uo4GEZjRqBkBa5HlAg.JPEG/I2fbKezOR-qaah5SWGQImDCebV5o.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이키 SB 덩크 로우 ‘바트 심슨’ 추가 실물 이미지 들여다보기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33825965&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjFfMTY5/MDAxNjE4OTg3NDQ5OTIy.65VzTdxDI4dD658ch1ofkEqr8QsrXEusCC2QkX7TgP0g.jSFsq9oww1cwFZz5YcWKUu4d9egP2m6yzPzg_WADJCsg.JPEG/IgmnvVOpJgZcswlqQqhhoV-a421g.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트래비스 스콧 x 나이키 에어 맥스 1은 5가지 컬러웨이로 출시된다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31235220&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31235220&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTRfMTQ2/MDAxNjE4MzkxNzc3NzA5.chaQvDt1M3iTWHJDnnSjV4H7zzu7D651vXfWVvuiTmgg.Dzvv0w2yZoFox2J13V7OZmLLpt921XfHZxFqxW9SHLUg.JPEG/IS6KBiLlnje5wwDnteEbapCYQsGE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

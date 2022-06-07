@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 05:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 17:52:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백종원 추천! 줄 서서 먹는 디저트계의 요물, 터키의 #카이막]]></title>
+            <link>https://www.elle.co.kr/article/66743</link>
+            <guid>https://www.elle.co.kr/article/66743</guid>
+            <pubDate>Tue, 07 Jun 2022 17:51:19 GMT</pubDate>
+            <content:encoded><![CDATA[음식으로 떠나보는 터키 여행 어때요? '맛잘알' 백종원의 찐웃음 유발하던 천상의 맛 카이막 맛...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/46b40faf-bebd-461f-96d4-129f072fcf17.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투명 수정 돌판에 구운 흑돼지 삼겹살과 수비드 스테이크가! 함양 고기 맛집 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/66639</link>
@@ -61,13 +69,6 @@
             <pubDate>Wed, 25 May 2022 05:52:33 GMT</pubDate>
             <content:encoded><![CDATA[신혼 부부를 위한 홈술 로망템 LG 홈브루]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/8f4bb25e-a794-404e-bca5-4288c8506e2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬슬 당 떨어진다고? 빵지순례 떠나고 싶은 퇴근 후, 가 볼만한 디저트 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/66433</link>
-            <guid>https://www.elle.co.kr/article/66433</guid>
-            <pubDate>Wed, 25 May 2022 05:52:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/5bb85b63-c4d6-40ea-af85-5a504cb7af2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
