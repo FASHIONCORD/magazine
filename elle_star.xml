@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 17:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 05:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸르른 뷰 맛집! 서촌의 마운틴뷰 카페 리스트 (feat.나혼산, 파비앙)]]></title>
+            <link>https://www.elle.co.kr/article/66960</link>
+            <guid>https://www.elle.co.kr/article/66960</guid>
+            <pubDate>Tue, 07 Jun 2022 05:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;나 혼자 산다&gt; 파비앙이 사랑한 동네 서촌! 복잡한 도심을 벗어나 인왕산의 정취와 함께 커피...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/1a814b34-0c8e-4a98-ab24-af6e16562b06.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴가 전 랜선 여행으로 워밍업!]]></title>
             <link>https://www.elle.co.kr/article/66952</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 03 Jun 2022 05:42:49 GMT</pubDate>
             <content:encoded><![CDATA[준호열 영원히 전역하지마...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/b14f2005-bb12-403d-9db6-daea47de775a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 그 자체인 '깐느박' 박찬욱과 '봉테일' 봉준호의 차기작 정보 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/66854</link>
-            <guid>https://www.elle.co.kr/article/66854</guid>
-            <pubDate>Fri, 03 Jun 2022 05:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[하고 싶은 것 다 해...!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/25a0fc4b-44e8-4b96-b113-4568c4675ce6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
