@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 17:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫플레이스에서 시장보기~ 그로서리 스토어 3]]></title>
+            <link>https://www.elle.co.kr/article/66902</link>
+            <guid>https://www.elle.co.kr/article/66902</guid>
+            <pubDate>Wed, 08 Jun 2022 17:48:56 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 힙스터라면? 지금 당장 가봐야 할 감성 가득 그로서리 스토어를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/1a1f90a5-09d3-4952-9aec-940426530695.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이트부터 소개팅까지 다 어울리는 석촌역-가로수길-만리동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/66849</link>
+            <guid>https://www.elle.co.kr/article/66849</guid>
+            <pubDate>Wed, 08 Jun 2022 17:48:56 GMT</pubDate>
+            <content:encoded><![CDATA[너무 무겁지 않으면서도 깔끔한 분위기의 맛집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/481edc57-e53b-4da2-8aab-bb31c995980e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백종원 추천! 줄 서서 먹는 디저트계의 요물, 터키의 #카이막]]></title>
             <link>https://www.elle.co.kr/article/66743</link>
@@ -54,21 +70,6 @@
             <pubDate>Fri, 27 May 2022 06:09:29 GMT</pubDate>
             <content:encoded><![CDATA[이건 못 참지. 와인과 스낵, 화장품, 인테리어 소품까지 모두 구매 가능한 강남의 그로서리 스...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/c1abb20d-d573-4905-965c-86a844ace3be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['리틀 포레스트' 같은 휴식이 필요하다면? 쏟아지는 별들과 함께 하는 함양 숙소 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/66467</link>
-            <guid>https://www.elle.co.kr/article/66467</guid>
-            <pubDate>Wed, 25 May 2022 05:52:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/acecd7dd-3428-40ac-b468-c52d401e8b49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 만들어 즐기는 수제 맥주, LG 홈브루]]></title>
-            <link>https://www.elle.co.kr/article/66104</link>
-            <guid>https://www.elle.co.kr/article/66104</guid>
-            <pubDate>Wed, 25 May 2022 05:52:33 GMT</pubDate>
-            <content:encoded><![CDATA[신혼 부부를 위한 홈술 로망템 LG 홈브루]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/8f4bb25e-a794-404e-bca5-4288c8506e2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

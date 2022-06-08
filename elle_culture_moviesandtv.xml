@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 17:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구?]]></title>
+            <link>https://www.elle.co.kr/article/67054</link>
+            <guid>https://www.elle.co.kr/article/67054</guid>
+            <pubDate>Wed, 08 Jun 2022 17:47:56 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 이후 첫 '천만 영화' 등극 유력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/207c8067-d8ce-44db-a325-0fa390544cb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 영화가 뜬다? 2022년 칸 영화제에서 상 받은 작품 요약 정리.zip]]></title>
             <link>https://www.elle.co.kr/article/67013</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/66863</guid>
             <pubDate>Tue, 31 May 2022 17:56:08 GMT</pubDate>
             <content:encoded><![CDATA[준호열 영원히 전역하지마...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/b14f2005-bb12-403d-9db6-daea47de775a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌 그 자체인 '깐느박' 박찬욱과 '봉테일' 봉준호의 차기작 정보 모음.zip]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.elle.co.kr/article/66550</link>
             <guid>https://www.elle.co.kr/article/66550</guid>
             <pubDate>Tue, 24 May 2022 02:30:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[개봉 첫날부터 대박 터뜨린 5년 만의 '범죄도시2', 1탄과 달라진 점은?]]></title>
-            <link>https://www.elle.co.kr/article/66509</link>
-            <guid>https://www.elle.co.kr/article/66509</guid>
-            <pubDate>Tue, 24 May 2022 02:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 팬데믹 이후 최다 개봉일 관객 동원 기록.]]></content:encoded>
         </item>
     </channel>
 </rss>
