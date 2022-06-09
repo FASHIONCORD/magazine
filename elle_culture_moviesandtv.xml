@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 17:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살바도르 달리 가면 대신 하회탈!? 넷플릭스 '종이의 집' 한국판에서 원작과 달라진 설정.zip]]></title>
+            <link>https://www.elle.co.kr/article/67082</link>
+            <guid>https://www.elle.co.kr/article/67082</guid>
+            <pubDate>Thu, 09 Jun 2022 17:48:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/cfdb8ae7-a397-4d70-ad7a-088b533b542d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구?]]></title>
             <link>https://www.elle.co.kr/article/67054</link>
@@ -37,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/66942</guid>
             <pubDate>Sat, 04 Jun 2022 17:44:38 GMT</pubDate>
             <content:encoded><![CDATA[나의 곰돌이 푸는 이렇지 않아...!!!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/cb7abbcf-f92a-406f-abc7-c55635c83ebd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고?]]></title>
@@ -92,12 +98,6 @@
             <guid>https://www.elle.co.kr/article/66586</guid>
             <pubDate>Tue, 24 May 2022 02:30:51 GMT</pubDate>
             <content:encoded><![CDATA[가슴을 울리는 명장면과 명대사도 함께 살펴보자.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시사회 매진에 7분 기립 박수! 칸에서 빛난 이정재X정우성, 여전히 간절함 없는 셀카 실력]]></title>
-            <link>https://www.elle.co.kr/article/66550</link>
-            <guid>https://www.elle.co.kr/article/66550</guid>
-            <pubDate>Tue, 24 May 2022 02:30:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

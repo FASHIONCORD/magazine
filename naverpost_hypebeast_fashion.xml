@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 17:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HOW TO: 투스 페어리가 알려주는 투스젬 하는 법]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33934575&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33934575&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 09 Jun 2022 17:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDlfOSAg/MDAxNjU0NzYzMTg3NjM5.7OXTiahOZb85NxoWlrpaLThWPohXdINtMSyI4NMMjMog.qCOcNiBlb4edLfgR7TZQldzXhDREetDIzkJxp8OLX_Ag.JPEG/I03HTdySGmZBhxloEIbWzGBOOMeg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제훈, 박서원 인터뷰: 하로킨 결성 이유와 하입빈즈 협업에 대하여]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33889923&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Dec 2021 17:47:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfNTcg/MDAxNjM4MjYyODQ1NTY0.XLp4toENG603UVN91RC9EdLWvgvSIrefhtsdnnqMTWcg.riH36yg4e4RyqQsKj9zo5LPvb2f8ggTaRnymedE6bpYg.JPEG/IvUGUviFbsh4srB0Dmehd6ZHM4aM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지드래곤과 나이키의 '퀀도1'을 만난, ‘편견을 넘어선 사람들’]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32852327&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32852327&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 30 Nov 2021 17:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMzBfODgg/MDAxNjM4MjQzMjM2MTc3.F_Bf0YuybEEbpf3UYDU9n9RcXYzBOzlVoDJ3ijQF6QEg.sT0DdvoOVRcurwcbldmrdGNdJDb9jgoZ0sAYRxMTeRog.JPEG/ImMyCeKtR9lqMbD-gUblHiRgr4HY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

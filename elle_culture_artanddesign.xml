@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 17:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 가장 탁월한 디자인 총집합, EDIDA 2022]]></title>
+            <link>https://www.elle.co.kr/article/67107</link>
+            <guid>https://www.elle.co.kr/article/67107</guid>
+            <pubDate>Thu, 09 Jun 2022 17:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[엘르 데코가 주목한 디자인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/4f741a9f-840d-4d5a-b572-ce90ceed09fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고 보태니컬 컬렉션으로 완성하는 플랜테리어]]></title>
             <link>https://www.elle.co.kr/article/66912</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/65832</guid>
             <pubDate>Wed, 27 Apr 2022 05:52:53 GMT</pubDate>
             <content:encoded><![CDATA[정직과 진정성을 추구하는 디자인 스튜디오.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/a5d71af5-717b-4bec-ad69-6934b2dff8aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세라미스트 김지은의 사적인 취향]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/64855</guid>
             <pubDate>Tue, 22 Mar 2022 17:48:33 GMT</pubDate>
             <content:encoded><![CDATA[유연하고 강인한 고무 튜브로 공간에 그림을 그린다면?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공예가 윤여동의 #사적인취향]]></title>
-            <link>https://www.elle.co.kr/article/64352</link>
-            <guid>https://www.elle.co.kr/article/64352</guid>
-            <pubDate>Mon, 21 Mar 2022 17:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[호기심 어린 눈과 마음으로 세상을 바라보는 공예가 윤여동의 취향.]]></content:encoded>
         </item>
     </channel>
 </rss>
