@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 05:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 17:50:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃이 흐드러지니 비염이 터지는구나_몸에 좋은 잔소리 #43]]></title>
+            <link>https://www.elle.co.kr/article/66949</link>
+            <guid>https://www.elle.co.kr/article/66949</guid>
+            <pubDate>Fri, 10 Jun 2022 17:50:50 GMT</pubDate>
+            <content:encoded><![CDATA[봄철 꽃가루와 미세먼지가 일으키는 ‘알레르기 비염’에 대해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/409bce28-e052-4025-8a7c-a6876a511681.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세이디 싱크의 도약_요주의여성 #61]]></title>
+            <link>https://www.elle.co.kr/article/66948</link>
+            <guid>https://www.elle.co.kr/article/66948</guid>
+            <pubDate>Fri, 10 Jun 2022 17:50:50 GMT</pubDate>
+            <content:encoded><![CDATA[달려라 달려, 맥스! &lt;기묘한 이야기&gt; 시즌4의 명장면을 만든 세이디 싱크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/42f54be7-57bf-4183-8915-00c422f824ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손흥민, 축구만 열심히 하는 게 아니었네_돈쓸신잡 #48]]></title>
             <link>https://www.elle.co.kr/article/66938</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 03 Jun 2022 05:46:43 GMT</pubDate>
             <content:encoded><![CDATA[기사에 원숭이두창 환부 사진이 포함돼 있습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/74157d30-51c2-483e-ad5b-c5f79c554288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼스타 여왕님_요주의여성 #59]]></title>
-            <link>https://www.elle.co.kr/article/66547</link>
-            <guid>https://www.elle.co.kr/article/66547</guid>
-            <pubDate>Thu, 02 Jun 2022 05:58:18 GMT</pubDate>
-            <content:encoded><![CDATA[70년째 왕좌를 지켜온 영국 엘리자베스 2세 여왕의 중요한 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/9b27749e-bc83-4880-a789-a2f23145f641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정말 은행에 저금만 열심히 하면 될까?_돈쓸신잡 #46]]></title>
-            <link>https://www.elle.co.kr/article/66513</link>
-            <guid>https://www.elle.co.kr/article/66513</guid>
-            <pubDate>Sat, 28 May 2022 05:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[인플레이션? 아껴둔 총알을 사용해야 할 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/fe2caecd-2219-47c7-bb18-6b41b3f39048.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 05:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 17:50:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재기발랄한 패러디 VS 동심 파괴 멈춰! '곰돌이 푸' 호러 버전 '피와 꿀' 엇갈린 반응]]></title>
+            <link>https://www.elle.co.kr/article/66942</link>
+            <guid>https://www.elle.co.kr/article/66942</guid>
+            <pubDate>Fri, 10 Jun 2022 17:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[나의 곰돌이 푸는 이렇지 않아...!!!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/cb7abbcf-f92a-406f-abc7-c55635c83ebd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고 보태니컬 컬렉션으로 완성하는 플랜테리어]]></title>
+            <link>https://www.elle.co.kr/article/66912</link>
+            <guid>https://www.elle.co.kr/article/66912</guid>
+            <pubDate>Fri, 10 Jun 2022 17:46:53 GMT</pubDate>
+            <content:encoded><![CDATA[취미와 인테리어를 동시에 즐길 수 있는 ‘레고 보태니컬 컬렉션’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/e90459e9-7cee-4841-87ae-a45f506b557d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주지훈이 차로 데리러 왔다고? 배우들의 마음의 방이 열렸다!]]></title>
             <link>https://www.elle.co.kr/article/66932</link>
@@ -53,22 +69,6 @@
             <guid>https://www.elle.co.kr/article/66823</guid>
             <pubDate>Fri, 03 Jun 2022 05:43:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/fba233f5-1e17-48b1-8541-0edc86030854.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 가능해? 송강호·박찬욱 칸 영화제 수상으로 바뀌어 버린 한국 영화사 목록.list]]></title>
-            <link>https://www.elle.co.kr/article/66820</link>
-            <guid>https://www.elle.co.kr/article/66820</guid>
-            <pubDate>Fri, 03 Jun 2022 05:43:30 GMT</pubDate>
-            <content:encoded><![CDATA[주모~~~~~!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/dbb81899-ecc3-4283-90d6-b2ce47c0b93d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멈추지 않는 ‘여정’_요주의여성 #60]]></title>
-            <link>https://www.elle.co.kr/article/66817</link>
-            <guid>https://www.elle.co.kr/article/66817</guid>
-            <pubDate>Fri, 03 Jun 2022 05:43:30 GMT</pubDate>
-            <content:encoded><![CDATA[열심히 일하고 나답게 삽시다. &lt;뜻밖의 여정&gt;의 윤여정처럼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/7399e4f3-48dd-4993-974b-1f7840af7168.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
