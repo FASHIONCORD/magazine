@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 05:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 17:48:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로시 파 vs 매트 파]]></title>
+            <link>https://www.elle.co.kr/article/66702</link>
+            <guid>https://www.elle.co.kr/article/66702</guid>
+            <pubDate>Sun, 12 Jun 2022 17:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 선택은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/d6615b7d-579c-4958-af65-efbf9e261c50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지수, 아이유처럼! 돌아온 립 메이크업 트렌드_선배's 어드바이스 #120]]></title>
+            <link>https://www.elle.co.kr/article/66988</link>
+            <guid>https://www.elle.co.kr/article/66988</guid>
+            <pubDate>Sun, 12 Jun 2022 17:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[마스크 없는 야외 생활이 돌아오며 화려하게 부활한 립 메이크업. 이번 여름 트렌드는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/a33d54e4-7f76-4a83-a2dc-de8bf6d21c98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이돌 Off day 꾸안꾸 메이크업]]></title>
             <link>https://www.elle.co.kr/article/66980</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 05 Jun 2022 17:41:42 GMT</pubDate>
             <content:encoded><![CDATA[드라마 &lt;별똥별&gt; 속 배우 이성경의 광채 피부, 샤넬 레드 까멜리아 세럼]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/092669ee-77a7-4e2a-a387-64ac84099f49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가 전 깐 달걀 피부 만들기_선배's 어드바이스 #119]]></title>
-            <link>https://www.elle.co.kr/article/66806</link>
-            <guid>https://www.elle.co.kr/article/66806</guid>
-            <pubDate>Sat, 04 Jun 2022 05:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[각질 제거, 얼마나 어떻게 해야 될까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/909e9765-44c7-4055-a1ed-3fa460b7257d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터스픽! 안티에이징의 새로운 미래]]></title>
-            <link>https://www.elle.co.kr/article/66546</link>
-            <guid>https://www.elle.co.kr/article/66546</guid>
-            <pubDate>Thu, 02 Jun 2022 17:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[피부 고민의 근본적인 해결을 위해 스위스에서 탄생한 FAQ™의 강력한 안티에이징 디바이스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/76bf68dd-5a52-4aa1-94c1-15ab1cd2cae3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
