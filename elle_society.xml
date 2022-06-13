@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 17:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 05:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 주식이 망했다. 그리고 여행하지 않기로 했다]]></title>
+            <link>https://www.elle.co.kr/article/66701</link>
+            <guid>https://www.elle.co.kr/article/66701</guid>
+            <pubDate>Mon, 13 Jun 2022 05:50:58 GMT</pubDate>
+            <content:encoded><![CDATA[작가 정지음이 엔데믹 시대의 여행을 대하는 태도는 놀랍도록 독창적이다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/3b24715b-fde0-4540-b176-efc36f09d103.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃이 흐드러지니 비염이 터지는구나_몸에 좋은 잔소리 #43]]></title>
             <link>https://www.elle.co.kr/article/66949</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 04 Jun 2022 17:46:15 GMT</pubDate>
             <content:encoded><![CDATA[2022년에 벌어지는 횡령 사건에는 공통점이 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/50d4052e-949d-4584-8a36-1c4fd1936d16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 엔데믹 코 앞인데 갑자기 분위기 원숭이두창?! 증상부터 예방 수칙까지]]></title>
-            <link>https://www.elle.co.kr/article/66688</link>
-            <guid>https://www.elle.co.kr/article/66688</guid>
-            <pubDate>Fri, 03 Jun 2022 05:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[기사에 원숭이두창 환부 사진이 포함돼 있습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/74157d30-51c2-483e-ad5b-c5f79c554288.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
