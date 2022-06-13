@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 05:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 17:51:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정수리 탈모, 여름철 물미역 머리 타파! 두피 스크럽 3]]></title>
+            <link>https://www.elle.co.kr/article/67094</link>
+            <guid>https://www.elle.co.kr/article/67094</guid>
+            <pubDate>Mon, 13 Jun 2022 17:47:52 GMT</pubDate>
+            <content:encoded><![CDATA[에디터가 실제로 써 본 후기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/830d7daf-a478-4fd8-bc84-781fd42dc055.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유이-여자친구 유주 몸매 비결, 폴댄스! 15분만 해도 런닝머신 1시간 뛴 효과?! #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/67076</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Jun 2022 05:41:01 GMT</pubDate>
             <content:encoded><![CDATA[#스타다이어트]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/0208a332-c06c-4ab0-8884-6db38500c922.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간단하지만 효과 만점! 스타들의 헤어 악세서리 활용법]]></title>
-            <link>https://www.elle.co.kr/article/66916</link>
-            <guid>https://www.elle.co.kr/article/66916</guid>
-            <pubDate>Tue, 07 Jun 2022 17:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[블랙핑크 리사, 트와이스, 있지 등 스타들의 헤어 악세서리]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/4b5816e1-a72f-4ebb-b1b1-60f7f009edca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
