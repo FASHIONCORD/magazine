@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 17:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름휴가를 떠난 스타들! 어떤 스윔웨어를 입었을까?]]></title>
+            <link>https://www.elle.co.kr/article/67153</link>
+            <guid>https://www.elle.co.kr/article/67153</guid>
+            <pubDate>Tue, 14 Jun 2022 17:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[수영복 입으려고 여름 기다린 사람 손! 쇼핑 전 스타의 스윔웨어부터 스타일링까지 참고해보세요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/f5828239-2fb5-49db-b511-4e7992fa997d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[떠나기 위한 만반의 준비! 캐리어 쇼핑리스트 6]]></title>
+            <link>https://www.elle.co.kr/article/67152</link>
+            <guid>https://www.elle.co.kr/article/67152</guid>
+            <pubDate>Tue, 14 Jun 2022 17:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[설렘 가득한 여행의 시작! 다가올 여름휴가를 위해 미리 준비해야하는 캐리어 구매 좌표.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/f29b6a6a-9353-4783-9ca1-9b5938b1c254.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 시즌 더욱 과감하게 돌아온 스트라이프]]></title>
             <link>https://www.elle.co.kr/article/66710</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 12 Jun 2022 17:40:50 GMT</pubDate>
             <content:encoded><![CDATA[차정원, 안소희, 기은세 등 ‘손민수’하고 싶은 사복 패션 장인들에게 배우는 여름 가방 힌트!...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/67dcf3a5-9cc0-45e1-a7e3-06a3f057579c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름의 창가에 두고 싶은 찬란한 화병들]]></title>
-            <link>https://www.elle.co.kr/article/66706</link>
-            <guid>https://www.elle.co.kr/article/66706</guid>
-            <pubDate>Sun, 12 Jun 2022 17:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[화병이 자아내는 여름의 푸른 정취를 찾아서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/579ebddd-2d47-4dea-a4ac-aa5deb145cac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대를 초월하는 슈퍼 스니커즈, 골든구스 볼스타]]></title>
-            <link>https://www.elle.co.kr/article/67022</link>
-            <guid>https://www.elle.co.kr/article/67022</guid>
-            <pubDate>Sun, 12 Jun 2022 17:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 캠페인 ‘Roll with Time’ 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/396345e8-9bfe-4bc1-8f47-d61d282d5a45.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
