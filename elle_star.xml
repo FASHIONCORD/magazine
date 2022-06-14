@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 17:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:58:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[god에 마동석-예정화 커플까지 총출동한 윤계상 결혼식 사진 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/67125</link>
+            <guid>https://www.elle.co.kr/article/67125</guid>
+            <pubDate>Tue, 14 Jun 2022 05:53:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/bad59e04-5ba0-433e-bd9a-e7c205d207b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜빵 바지 입어봤나요? 상큼 발랄 오버롤 팬츠 룩 5]]></title>
             <link>https://www.elle.co.kr/article/67108</link>
@@ -61,14 +68,6 @@
             <pubDate>Fri, 10 Jun 2022 05:41:42 GMT</pubDate>
             <content:encoded><![CDATA[글로벌한 패션하우스를 점령한 K-스타 파워.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/13ba1eb0-1469-4ecd-9601-28a462a54bf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 엔데믹! 해외로 떠난 스타들의 홀리데이 룩 #옷잘입는언니]]></title>
-            <link>https://www.elle.co.kr/article/67049</link>
-            <guid>https://www.elle.co.kr/article/67049</guid>
-            <pubDate>Fri, 10 Jun 2022 05:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[점차 일상을 회복해가는 엔데믹 시대! 해외 여행이 슬슬 시작되는 요즘, 하와이부터 LA, 파리 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/88258bc8-6ec2-4ee6-bf94-405185683d73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
