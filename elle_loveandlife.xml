@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 17:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 핫한 NEW 다이닝 레스토랑 3]]></title>
+            <link>https://www.elle.co.kr/article/67038</link>
+            <guid>https://www.elle.co.kr/article/67038</guid>
+            <pubDate>Thu, 16 Jun 2022 17:51:36 GMT</pubDate>
+            <content:encoded><![CDATA[셀럽이 사랑한 다이닝 레스토랑을 소개합니다. 한식부터 양식까지, 우아한 저녁 식사를 즐겨보아요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/2b76f996-fbb6-4add-b444-1cfeb24acb46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브런치-디저트-파인다이닝까지, 하루 종일 즐길 수 있는 성수동 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/67000</link>
@@ -61,14 +69,6 @@
             <pubDate>Sat, 04 Jun 2022 17:46:02 GMT</pubDate>
             <content:encoded><![CDATA[신선한 산채비빔밥과 떡갈비도 인기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/0e567500-c75c-4e60-8bd4-ae62d628a6a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[27년차 자취만랩 김숙의 내돈내산 식기 추천 6]]></title>
-            <link>https://www.elle.co.kr/article/66638</link>
-            <guid>https://www.elle.co.kr/article/66638</guid>
-            <pubDate>Sat, 04 Jun 2022 17:46:02 GMT</pubDate>
-            <content:encoded><![CDATA[1인 가구 주목! 자취 대선배의 실용성과 감성을 모두 담은 주방 필수템을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/bcd1115a-0369-4286-bcb6-5ea50ed10eec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
