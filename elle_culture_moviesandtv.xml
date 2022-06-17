@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 17:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 05:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰 크루즈부터 탕웨이까지, '범죄도시2' 이후의 '천만 영화' 후보 3 ①]]></title>
+            <link>https://www.elle.co.kr/article/67262</link>
+            <guid>https://www.elle.co.kr/article/67262</guid>
+            <pubDate>Fri, 17 Jun 2022 05:45:47 GMT</pubDate>
+            <content:encoded><![CDATA[남은 6월 개봉하는 기대작들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/3f8daff7-d1a6-4d88-8631-3381d7ff2974.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스가 만든다는 '오징어게임' 현실판 예능, 상금과 참가 자격은?]]></title>
             <link>https://www.elle.co.kr/article/67233</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/67171</guid>
             <pubDate>Mon, 13 Jun 2022 05:48:28 GMT</pubDate>
             <content:encoded><![CDATA[황동혁 감독이 직접 보낸 '오겜2' 초대장.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/37a96284-eb8f-42a3-9545-60b278e3e38e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[살바도르 달리 가면 대신 하회탈!? 넷플릭스 '종이의 집' 한국판에서 원작과 달라진 설정.zip]]></title>
@@ -92,13 +99,6 @@
             <link>https://www.elle.co.kr/article/66823</link>
             <guid>https://www.elle.co.kr/article/66823</guid>
             <pubDate>Mon, 30 May 2022 17:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이게 가능해? 송강호·박찬욱 칸 영화제 수상으로 바뀌어 버린 한국 영화사 목록.list]]></title>
-            <link>https://www.elle.co.kr/article/66820</link>
-            <guid>https://www.elle.co.kr/article/66820</guid>
-            <pubDate>Mon, 30 May 2022 17:51:58 GMT</pubDate>
-            <content:encoded><![CDATA[주모~~~~~!]]></content:encoded>
         </item>
     </channel>
 </rss>
