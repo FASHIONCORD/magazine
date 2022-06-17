@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 17:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/a33d54e4-7f76-4a83-a2dc-de8bf6d21c98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스가 만든다는 '오징어게임' 현실판 예능, 상금과 참가 자격은? (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/67233</link>
+            <guid>https://www.elle.co.kr/article/67233</guid>
+            <pubDate>Wed, 15 Jun 2022 17:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스의 뇌절임을 부정할 수 없지만 궁금하긴 한 예능.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/a703d1cd-c189-45da-bb05-11259a5383db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[셀럽이 다녀온 청량함 가득한 카페 3 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/67227</link>
             <guid>https://www.elle.co.kr/article/67227</guid>
@@ -1982,14 +1990,6 @@
             <pubDate>Mon, 13 Jun 2022 05:48:28 GMT</pubDate>
             <content:encoded><![CDATA[황동혁 감독이 직접 보낸 '오겜2' 초대장.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/37a96284-eb8f-42a3-9545-60b278e3e38e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신혜성이 불참했을 리가? 유쾌한 파티 같던 앤디-이은주 결혼식 사진 모음.zip (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/67167</link>
-            <guid>https://www.elle.co.kr/article/67167</guid>
-            <pubDate>Fri, 17 Jun 2022 05:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[20년 전 노래인 '퍼펙트맨' 칼군무 대성공!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fe43d770-df2d-465a-8967-9ff1afc6f71e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“살아있는 우리, 모두 행복하자” 미친 열연에 눈물 절로 나는 ‘우블’ 명장면 셋 #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2401,6 +2401,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/0e567500-c75c-4e60-8bd4-ae62d628a6a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 황선우 작가가 리코더로 레드벨벳 노래를 연주하게 되기까지 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/67033</link>
+            <guid>https://www.elle.co.kr/article/67033</guid>
+            <pubDate>Fri, 17 Jun 2022 17:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[반드시 잘하지 않아도 된다는 것. 엉성하고 즐거운 취미생활이 주는 여유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/5507fcb0-889e-47c1-89ae-d1cd973053f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 영화가 뜬다? 2022년 칸 영화제에서 상 받은 작품 요약 정리.zip (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/67013</link>
+            <guid>https://www.elle.co.kr/article/67013</guid>
+            <pubDate>Tue, 07 Jun 2022 17:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[제 75회 칸 영화제에서 수상한 작품 7.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/c73e29c1-ae03-4879-90ed-c34a646a7362.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[엘르보이스] 주식이 망했다. 그리고 여행하지 않기로 했다 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/66701</link>
             <guid>https://www.elle.co.kr/article/66701</guid>
@@ -2447,22 +2463,6 @@
             <pubDate>Wed, 01 Jun 2022 06:02:34 GMT</pubDate>
             <content:encoded><![CDATA[여성에게 투자할 때 스포츠가 개선된다고 이야기하는 브랜드, 나이키가 50주년을 맞았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/d55b6684-ef06-48b4-a88f-a20edf7c9322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 일하는 여자는 커뮤니티가 필요하다 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/66745</link>
-            <guid>https://www.elle.co.kr/article/66745</guid>
-            <pubDate>Sat, 04 Jun 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA['범서대문파' 모임부터 까르띠에 언더우먼 임팩트 커뮤니티까지. 여성들의 이너서클이 필요한 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/6f098f98-3ee9-4765-8c54-8dd12a698acd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회삿돈 훔친 사람들은 그 돈으로 뭘 했을까_돈쓸신잡 #47 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/66705</link>
-            <guid>https://www.elle.co.kr/article/66705</guid>
-            <pubDate>Sat, 04 Jun 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022년에 벌어지는 횡령 사건에는 공통점이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/50d4052e-949d-4584-8a36-1c4fd1936d16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

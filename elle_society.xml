@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 17:49:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 황선우 작가가 리코더로 레드벨벳 노래를 연주하게 되기까지]]></title>
+            <link>https://www.elle.co.kr/article/67033</link>
+            <guid>https://www.elle.co.kr/article/67033</guid>
+            <pubDate>Fri, 17 Jun 2022 17:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[반드시 잘하지 않아도 된다는 것. 엉성하고 즐거운 취미생활이 주는 여유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/5507fcb0-889e-47c1-89ae-d1cd973053f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 영화가 뜬다? 2022년 칸 영화제에서 상 받은 작품 요약 정리.zip]]></title>
+            <link>https://www.elle.co.kr/article/67013</link>
+            <guid>https://www.elle.co.kr/article/67013</guid>
+            <pubDate>Fri, 17 Jun 2022 17:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[제 75회 칸 영화제에서 수상한 작품 7.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/c73e29c1-ae03-4879-90ed-c34a646a7362.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 주식이 망했다. 그리고 여행하지 않기로 했다]]></title>
             <link>https://www.elle.co.kr/article/66701</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 05 Jun 2022 17:48:39 GMT</pubDate>
             <content:encoded><![CDATA[여성에게 투자할 때 스포츠가 개선된다고 이야기하는 브랜드, 나이키가 50주년을 맞았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/d55b6684-ef06-48b4-a88f-a20edf7c9322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 일하는 여자는 커뮤니티가 필요하다]]></title>
-            <link>https://www.elle.co.kr/article/66745</link>
-            <guid>https://www.elle.co.kr/article/66745</guid>
-            <pubDate>Sat, 04 Jun 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA['범서대문파' 모임부터 까르띠에 언더우먼 임팩트 커뮤니티까지. 여성들의 이너서클이 필요한 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/6f098f98-3ee9-4765-8c54-8dd12a698acd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회삿돈 훔친 사람들은 그 돈으로 뭘 했을까_돈쓸신잡 #47]]></title>
-            <link>https://www.elle.co.kr/article/66705</link>
-            <guid>https://www.elle.co.kr/article/66705</guid>
-            <pubDate>Sat, 04 Jun 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022년에 벌어지는 횡령 사건에는 공통점이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/50d4052e-949d-4584-8a36-1c4fd1936d16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
