@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 17:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 05:47:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽이 다녀온 청량함 가득한 카페 3]]></title>
+            <link>https://www.elle.co.kr/article/67227</link>
+            <guid>https://www.elle.co.kr/article/67227</guid>
+            <pubDate>Sat, 18 Jun 2022 05:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[더워지는 날씨, 얼음 동동 올라간 아이스 커피로 시원하게! 스타가 들른 커피 맛집을 소개합니다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/1ff97e1d-9e20-4c85-8793-8d54a76804f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[향 중에 제일 좋은 향은 '살냄새']]></title>
+            <link>https://www.elle.co.kr/article/66713</link>
+            <guid>https://www.elle.co.kr/article/66713</guid>
+            <pubDate>Sat, 18 Jun 2022 05:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[무슨 향수 쓰냐는 질문에, '이거 제 살냄새인데요'라고 답하고 싶다면.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/04b15c1e-c1bd-48e7-befb-f370c6b1c9ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[센스만점 베이비 티셔츠 활용법 5]]></title>
+            <link>https://www.elle.co.kr/article/67207</link>
+            <guid>https://www.elle.co.kr/article/67207</guid>
+            <pubDate>Sat, 18 Jun 2022 05:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[유아복 아님 주의! 초소형 베이비 티셔츠 잘 입고 싶다면 셀럽의 스타일링을 참고해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/d92a12e3-818e-4eab-9d3b-be3ef7a2ddd9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름맞이 보디 제품 위시리스트]]></title>
             <link>https://www.elle.co.kr/article/66712</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 14 Jun 2022 17:44:49 GMT</pubDate>
             <content:encoded><![CDATA[설렘 가득한 여행의 시작! 다가올 여름휴가를 위해 미리 준비해야하는 캐리어 구매 좌표.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/f29b6a6a-9353-4783-9ca1-9b5938b1c254.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 시즌 더욱 과감하게 돌아온 스트라이프]]></title>
-            <link>https://www.elle.co.kr/article/66710</link>
-            <guid>https://www.elle.co.kr/article/66710</guid>
-            <pubDate>Tue, 14 Jun 2022 05:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[직선이 가진 단단하고 명료한 힘.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/873addee-77b2-416b-a6d2-d206ae143f77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나는 파인 주얼리와 여름]]></title>
-            <link>https://www.elle.co.kr/article/67146</link>
-            <guid>https://www.elle.co.kr/article/67146</guid>
-            <pubDate>Tue, 14 Jun 2022 05:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[여름아 부탁해! 눈부신 여름 햇살 아래 빛나는 파인 주얼리, 수영복 그리고 선글라스의 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/46106727-4ccc-4839-b8e3-ebd26ee67b30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 핫한 아디다스 X 구찌 컬렉션]]></title>
-            <link>https://www.elle.co.kr/article/67111</link>
-            <guid>https://www.elle.co.kr/article/67111</guid>
-            <pubDate>Sun, 12 Jun 2022 17:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[구찌의 헤리티지와 아디다스 캐주얼 코드가 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/d5a3aacf-5c61-4f57-b845-f9a574e44d16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

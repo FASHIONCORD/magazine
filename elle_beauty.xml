@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 17:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 05:47:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름을 더 시원하게 날 수 있는 샤워 팁_선배's 어드바이스 #121]]></title>
+            <link>https://www.elle.co.kr/article/67162</link>
+            <guid>https://www.elle.co.kr/article/67162</guid>
+            <pubDate>Sat, 18 Jun 2022 05:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[청량한 물보라에 휩싸이고픈 여름, 시원한 샤워용품들과 보디케어 팁.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/5fdd11ba-6b70-44c8-b926-eac274487c49.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특종] 잔망루피 최초 바캉스 화보.jpg]]></title>
             <link>https://www.elle.co.kr/article/67128</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 12 Jun 2022 17:41:02 GMT</pubDate>
             <content:encoded><![CDATA[당신의 선택은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/d6615b7d-579c-4958-af65-efbf9e261c50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지수, 아이유처럼! 돌아온 립 메이크업 트렌드_선배's 어드바이스 #120]]></title>
-            <link>https://www.elle.co.kr/article/66988</link>
-            <guid>https://www.elle.co.kr/article/66988</guid>
-            <pubDate>Sun, 12 Jun 2022 17:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[마스크 없는 야외 생활이 돌아오며 화려하게 부활한 립 메이크업. 이번 여름 트렌드는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/a33d54e4-7f76-4a83-a2dc-de8bf6d21c98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
