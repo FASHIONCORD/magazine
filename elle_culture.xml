@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 05:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 17:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보]]></title>
+            <link>https://www.elle.co.kr/article/67220</link>
+            <guid>https://www.elle.co.kr/article/67220</guid>
+            <pubDate>Sat, 18 Jun 2022 17:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[매너리즘에 빠진 모두가 공감할 수밖에 없는 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/88747898-fdcb-44c7-833b-646996513002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소시 단독 예능 '소시탐탐'에 박서준X뷔X최우식 '인더숲'?! 7월 방송 JTBC 새 우정 예능 2]]></title>
             <link>https://www.elle.co.kr/article/67204</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 13 Jun 2022 17:48:44 GMT</pubDate>
             <content:encoded><![CDATA[제 75회 칸 영화제에서 수상한 작품 7.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/c73e29c1-ae03-4879-90ed-c34a646a7362.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손석구에게 막 입덕해서 어쩔 줄 몰라 하는 당신이 꼭 봐야 할 손석구 주요 출연작 6]]></title>
-            <link>https://www.elle.co.kr/article/66991</link>
-            <guid>https://www.elle.co.kr/article/66991</guid>
-            <pubDate>Mon, 13 Jun 2022 17:48:44 GMT</pubDate>
-            <content:encoded><![CDATA[#요즘드라마]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/092f3e1f-8b54-424c-a007-9e29c3b0c9a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
