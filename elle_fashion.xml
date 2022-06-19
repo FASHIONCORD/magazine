@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 05:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 17:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지드래곤이 ‘샤넬 커넥츠’ 시즌 2에서 이야기 하는 것]]></title>
+            <link>https://www.elle.co.kr/article/67244</link>
+            <guid>https://www.elle.co.kr/article/67244</guid>
+            <pubDate>Sun, 19 Jun 2022 17:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬의 예술 문화 팟캐스트 ‘샤넬 커넥츠’ 시즌 2가 돌아온다. 지드래곤은 일곱 번째 에피소드...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/47212bcf-31b5-4e28-802a-14489134b4dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지도앱에 여기 추가! 지금 가봐야할 한남동의 플래그십 스토어 3곳]]></title>
+            <link>https://www.elle.co.kr/article/67255</link>
+            <guid>https://www.elle.co.kr/article/67255</guid>
+            <pubDate>Sun, 19 Jun 2022 17:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[한남동에 쿠메, 에스프리, 나일로라의 플래그십 매장이 새롭게 오픈했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/43c6f24a-8ab1-4470-bc07-b2e765a9e383.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀럽이 다녀온 청량함 가득한 카페 3]]></title>
             <link>https://www.elle.co.kr/article/67227</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 16 Jun 2022 05:48:32 GMT</pubDate>
             <content:encoded><![CDATA[스트레스 받지 않고 아름다운 보디라인을 갖기 위한 방법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/75fe2be7-ae60-4d35-98a7-a6ffd17291e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름휴가를 떠난 스타들! 어떤 스윔웨어를 입었을까?]]></title>
-            <link>https://www.elle.co.kr/article/67153</link>
-            <guid>https://www.elle.co.kr/article/67153</guid>
-            <pubDate>Tue, 14 Jun 2022 17:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[수영복 입으려고 여름 기다린 사람 손! 쇼핑 전 스타의 스윔웨어부터 스타일링까지 참고해보세요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/f5828239-2fb5-49db-b511-4e7992fa997d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠나기 위한 만반의 준비! 캐리어 쇼핑리스트 6]]></title>
-            <link>https://www.elle.co.kr/article/67152</link>
-            <guid>https://www.elle.co.kr/article/67152</guid>
-            <pubDate>Tue, 14 Jun 2022 17:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[설렘 가득한 여행의 시작! 다가올 여름휴가를 위해 미리 준비해야하는 캐리어 구매 좌표.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/f29b6a6a-9353-4783-9ca1-9b5938b1c254.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
