@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 17:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자전거 타기 딱 좋은 날씨! 라이딩 즐기는 스타 5]]></title>
+            <link>https://www.elle.co.kr/article/67191</link>
+            <guid>https://www.elle.co.kr/article/67191</guid>
+            <pubDate>Mon, 20 Jun 2022 05:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[스타의 SNS로 만나는 시원한 라이딩 순간! 건강한 여가 생활을 보내고 싶다면 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/430ab6e4-23f5-48a0-85b7-7fe8a6c100a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름을 더 시원하게 날 수 있는 샤워 팁_선배's 어드바이스 #121]]></title>
             <link>https://www.elle.co.kr/article/67162</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Jun 2022 05:45:21 GMT</pubDate>
             <content:encoded><![CDATA[블루 드 샤넬 새로운 광고 필름 공개!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/847333a0-87d8-4821-b674-03b5e983255c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로시 파 vs 매트 파]]></title>
-            <link>https://www.elle.co.kr/article/66702</link>
-            <guid>https://www.elle.co.kr/article/66702</guid>
-            <pubDate>Sun, 12 Jun 2022 17:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 선택은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/d6615b7d-579c-4958-af65-efbf9e261c50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

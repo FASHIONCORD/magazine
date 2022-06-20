@@ -4,16 +4,24 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 17:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푹 눌러써요]]></title>
+            <link>https://www.elle.co.kr/article/66716</link>
+            <guid>https://www.elle.co.kr/article/66716</guid>
+            <pubDate>Mon, 20 Jun 2022 05:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[패션의 완성은 버킷햇! 2% 부족함을 채워줄 여름 모자]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/760d5b4b-720f-4ad5-83f2-28467071bdca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지드래곤이 ‘샤넬 커넥츠’ 시즌 2에서 이야기 하는 것]]></title>
             <link>https://www.elle.co.kr/article/67244</link>
             <guid>https://www.elle.co.kr/article/67244</guid>
             <pubDate>Sun, 19 Jun 2022 17:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬의 예술 문화 팟캐스트 ‘샤넬 커넥츠’ 시즌 2가 돌아온다. 지드래곤은 일곱 번째 에피소드...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/47212bcf-31b5-4e28-802a-14489134b4dd.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[샤넬의 예술 문화 팟캐스트 ‘샤넬 커넥츠’ 시즌 2에서 지드래곤은 트렌드, 영감, 창조에 대해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/47212bcf-31b5-4e28-802a-14489134b4dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지도앱에 여기 추가! 지금 가봐야할 한남동의 플래그십 스토어 3곳]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 16 Jun 2022 05:48:32 GMT</pubDate>
             <content:encoded><![CDATA[자유롭게 나아갈 나를 위해, 머시론®을 택했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/bc7eb163-386c-4e45-afcd-17de8f742e8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강한 신체를 위한 13가지 노하우]]></title>
-            <link>https://www.elle.co.kr/article/66711</link>
-            <guid>https://www.elle.co.kr/article/66711</guid>
-            <pubDate>Thu, 16 Jun 2022 05:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[스트레스 받지 않고 아름다운 보디라인을 갖기 위한 방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/75fe2be7-ae60-4d35-98a7-a6ffd17291e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
