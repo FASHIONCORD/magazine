@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 17:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름맞이 헤어 스타일? 셀럽처럼 시원하게 싹둑!]]></title>
+            <link>https://www.elle.co.kr/article/67299</link>
+            <guid>https://www.elle.co.kr/article/67299</guid>
+            <pubDate>Mon, 20 Jun 2022 17:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[귀여운 똑 단발부터 쿨한 레이어드 컷까지! 따라하고 싶은 스타들의 커트 헤어 스타일을 구경해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/f71e7124-03b6-4c6c-9ec2-51423afb694d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푹 눌러써요]]></title>
             <link>https://www.elle.co.kr/article/66716</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 17 Jun 2022 05:42:59 GMT</pubDate>
             <content:encoded><![CDATA[여름철 꿉꿉한 땀남새와 불쾌한 끈끈함을 날려줄 보디 케어 아이템들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/b3c643b0-ba1a-41d5-8103-596a49f1590a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일의 나를 위한 선택]]></title>
-            <link>https://www.elle.co.kr/article/66057</link>
-            <guid>https://www.elle.co.kr/article/66057</guid>
-            <pubDate>Thu, 16 Jun 2022 05:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[자유롭게 나아갈 나를 위해, 머시론®을 택했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/bc7eb163-386c-4e45-afcd-17de8f742e8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

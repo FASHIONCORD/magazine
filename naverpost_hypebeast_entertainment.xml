@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 17:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두 전혀 다른 장르, 금주의 넷플릭스 신작 추천 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33992738&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33992738&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 20 Jun 2022 17:47:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjBfMjMx/MDAxNjU1NzEyMDU1OTA2.Dgoaii7ExYciFbAZd52h3ZBqZKhMRqwogopGj-h5QaEg.JIJMA7ESJl7NWb0gPyk5N1aMVj7Wlle7CKHEOSWCPWMg.JPEG/Ior_yDdrNMwEgN_aemM4OuS931oM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워너 브라더스 디스커버리, HBO 맥스 버전 '해리 포터' 만든다?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33830668&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Feb 2022 17:40:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTRfMjUg/MDAxNjQ0ODI5MzUzMTk5.OrAtftjQ2Bb77KaXUTkqFWoOeR40YT3TCf2HigvMQ2Ug.5cNn53olrUoNZII9znE7f6ZgXV59GzBd_VW8wsnpPpYg.JPEG/IbxmlZps_SqMDKftyTew_bZuYask.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8명의 남성이 직접 말하는 ‘최악의 밸런타인데이 선물’]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33290006&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33290006&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 14 Feb 2022 17:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTRfMjM4/MDAxNjQ0ODI4NzUwOTkw.JyhZY4W2CWqR2zuSAnOqsESDybK9Py-eXCPvFS4rk5Qg._PgR43haVWhZeyNSKoseFr_xJvJdcFannK--RheQDwwg.JPEG/IpVD010rHNwm72pgNU_cbQ8jkcZM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
