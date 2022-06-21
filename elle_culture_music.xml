@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 17:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 05:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 나온 K-천재, 반 클라이번 콩쿨 역대 최연소 우승자 임윤찬은 욕심이 없다]]></title>
+            <link>https://www.elle.co.kr/article/67360</link>
+            <guid>https://www.elle.co.kr/article/67360</guid>
+            <pubDate>Tue, 21 Jun 2022 05:47:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/19ff5543-f33a-463c-974c-d5e85b8527fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화양연화 LP 아직 못 구한 사람? 가벼움의 시대에 만난 무거운 낭만, 레코드 수집]]></title>
             <link>https://www.elle.co.kr/article/67302</link>
@@ -37,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/66924</guid>
             <pubDate>Thu, 02 Jun 2022 17:55:55 GMT</pubDate>
             <content:encoded><![CDATA[마음에 콕 박히는 장들레의 일상적인 가사]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/09c1e3f7-8e07-44c0-ae77-d4c813131020.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 내한 공연 최신 업데이트.zip]]></title>
@@ -94,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/65682</guid>
             <pubDate>Thu, 21 Apr 2022 17:55:30 GMT</pubDate>
             <content:encoded><![CDATA[러시아의 자존심과도 같던 차이콥스키 콩쿠르가 보이콧을 당하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4인조 빅뱅, 컴백 날짜 확정! YG 그만 둔다는 탑의 행보는?]]></title>
-            <link>https://www.elle.co.kr/article/64944</link>
-            <guid>https://www.elle.co.kr/article/64944</guid>
-            <pubDate>Thu, 24 Mar 2022 17:55:12 GMT</pubDate>
-            <content:encoded><![CDATA[4인조로 하는 사실상 첫 활동.]]></content:encoded>
         </item>
     </channel>
 </rss>
