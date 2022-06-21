@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 17:57:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬릭의 뜨겁고 가뿐한 마음 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/67266</link>
+            <guid>https://www.elle.co.kr/article/67266</guid>
+            <pubDate>Tue, 21 Jun 2022 17:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[매일이 지겹다면 ‘푸른 바다 위에서 칵테일 한 잔 줘’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/0ff3a353-942f-4b53-a812-b4117a85eb6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[톰 크루즈부터 탕웨이까지, '범죄도시2' 이후의 '천만 영화' 후보 3 ①]]></title>
+            <link>https://www.elle.co.kr/article/67262</link>
+            <guid>https://www.elle.co.kr/article/67262</guid>
+            <pubDate>Tue, 21 Jun 2022 17:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[남은 6월 개봉하는 기대작들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/3f8daff7-d1a6-4d88-8631-3381d7ff2974.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스가 만든다는 '오징어게임' 현실판 예능, 상금과 참가 자격은?]]></title>
+            <link>https://www.elle.co.kr/article/67233</link>
+            <guid>https://www.elle.co.kr/article/67233</guid>
+            <pubDate>Tue, 21 Jun 2022 17:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스의 뇌절임을 부정할 수 없지만 궁금하긴 한 예능.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/a703d1cd-c189-45da-bb05-11259a5383db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보]]></title>
             <link>https://www.elle.co.kr/article/67220</link>
@@ -46,29 +70,6 @@
             <pubDate>Thu, 16 Jun 2022 17:48:48 GMT</pubDate>
             <content:encoded><![CDATA[엘르 데코가 주목한 디자인.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/4f741a9f-840d-4d5a-b572-ce90ceed09fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살바도르 달리 가면 대신 하회탈!? 넷플릭스 '종이의 집' 한국판에서 원작과 달라진 설정.zip]]></title>
-            <link>https://www.elle.co.kr/article/67082</link>
-            <guid>https://www.elle.co.kr/article/67082</guid>
-            <pubDate>Thu, 16 Jun 2022 17:48:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/cfdb8ae7-a397-4d70-ad7a-088b533b542d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2탄 대박 치자마자 촬영 돌입하는 '범죄도시3', 윤계상-손석구 다음 빌런은 누구?]]></title>
-            <link>https://www.elle.co.kr/article/67054</link>
-            <guid>https://www.elle.co.kr/article/67054</guid>
-            <pubDate>Thu, 16 Jun 2022 17:48:48 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹 이후 첫 '천만 영화' 등극 유력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/207c8067-d8ce-44db-a325-0fa390544cb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 영화가 뜬다? 2022년 칸 영화제에서 상 받은 작품 요약 정리.zip]]></title>
-            <link>https://www.elle.co.kr/article/67013</link>
-            <guid>https://www.elle.co.kr/article/67013</guid>
-            <pubDate>Mon, 13 Jun 2022 17:48:44 GMT</pubDate>
-            <content:encoded><![CDATA[제 75회 칸 영화제에서 수상한 작품 7.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/c73e29c1-ae03-4879-90ed-c34a646a7362.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

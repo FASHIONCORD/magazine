@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 17:57:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[30~40번 더 올 거라고?! 부산 명예시민 톰 크루즈의 의리 있는 10번째 내한]]></title>
+            <link>https://www.elle.co.kr/article/67368</link>
+            <guid>https://www.elle.co.kr/article/67368</guid>
+            <pubDate>Tue, 21 Jun 2022 17:55:46 GMT</pubDate>
+            <content:encoded><![CDATA[이미 북미에서 개봉했지만 스케줄까지 조정하며 한국에 온 톰 크루즈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/40997f88-b29c-4d13-bb75-dbc491ecfda3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서현진 VS 서예지 VS 염정아, 잘 되는 이유가 있는 ‘여성 원톱’ 드라마 3 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/67354</link>
@@ -35,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/67233</guid>
             <pubDate>Wed, 15 Jun 2022 17:48:25 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스의 뇌절임을 부정할 수 없지만 궁금하긴 한 예능.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/a703d1cd-c189-45da-bb05-11259a5383db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소시 단독 예능 '소시탐탐'에 박서준X뷔X최우식 '인더숲'?! 7월 방송 JTBC 새 우정 예능 2]]></title>
@@ -91,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/66942</guid>
             <pubDate>Sat, 04 Jun 2022 17:44:38 GMT</pubDate>
             <content:encoded><![CDATA[나의 곰돌이 푸는 이렇지 않아...!!!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[진짜 시즌2 예고된 넷플릭스 'D.P.', 손석구만 다시 나오는 게 아니라고?]]></title>
-            <link>https://www.elle.co.kr/article/66863</link>
-            <guid>https://www.elle.co.kr/article/66863</guid>
-            <pubDate>Tue, 31 May 2022 17:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[준호열 영원히 전역하지마...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 17:57:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[난닝구의 재발견]]></title>
+            <link>https://www.elle.co.kr/article/66717</link>
+            <guid>https://www.elle.co.kr/article/66717</guid>
+            <pubDate>Tue, 21 Jun 2022 17:53:02 GMT</pubDate>
+            <content:encoded><![CDATA[옷장 속에 숨어있던 흰 '난닝구'를 꺼내야 할 때! 심플한 화이트 탱크톱의 대유행.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/19/024659c4-5eb3-4a5c-919e-a47263ff64be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찐친 결혼식엔 어떤 옷을? 이해리 결혼식을 앞둔 강민경의 하객룩 스타일링 5]]></title>
+            <link>https://www.elle.co.kr/article/67300</link>
+            <guid>https://www.elle.co.kr/article/67300</guid>
+            <pubDate>Tue, 21 Jun 2022 17:53:02 GMT</pubDate>
+            <content:encoded><![CDATA[“해리 언니 결혼식에 뭐 입고 갈까요?” 다비치 리더 이해리의 결혼식 참석을 위해 강민경이 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/84259a3c-df9a-4250-b5fd-c5a1e2b05d79.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름맞이 헤어 스타일? 셀럽처럼 시원하게 싹둑!]]></title>
             <link>https://www.elle.co.kr/article/67299</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 18 Jun 2022 05:40:55 GMT</pubDate>
             <content:encoded><![CDATA[무슨 향수 쓰냐는 질문에, '이거 제 살냄새인데요'라고 답하고 싶다면.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/04b15c1e-c1bd-48e7-befb-f370c6b1c9ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[센스만점 베이비 티셔츠 활용법 5]]></title>
-            <link>https://www.elle.co.kr/article/67207</link>
-            <guid>https://www.elle.co.kr/article/67207</guid>
-            <pubDate>Sat, 18 Jun 2022 05:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[유아복 아님 주의! 초소형 베이비 티셔츠 잘 입고 싶다면 셀럽의 스타일링을 참고해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/d92a12e3-818e-4eab-9d3b-be3ef7a2ddd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름맞이 보디 제품 위시리스트]]></title>
-            <link>https://www.elle.co.kr/article/66712</link>
-            <guid>https://www.elle.co.kr/article/66712</guid>
-            <pubDate>Fri, 17 Jun 2022 05:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[여름철 꿉꿉한 땀남새와 불쾌한 끈끈함을 날려줄 보디 케어 아이템들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/b3c643b0-ba1a-41d5-8103-596a49f1590a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
