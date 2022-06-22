@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 17:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 것들엔 돈 아끼지 마세요_돈쓸신잡 #49]]></title>
+            <link>https://www.elle.co.kr/article/67085</link>
+            <guid>https://www.elle.co.kr/article/67085</guid>
+            <pubDate>Wed, 22 Jun 2022 05:51:45 GMT</pubDate>
+            <content:encoded><![CDATA[세상에서 가장 안전한 자산은 '나 자신'이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/4c5896aa-11f2-46de-a6f5-6f10a268bd0d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 황선우 작가가 리코더로 레드벨벳 노래를 연주하게 되기까지]]></title>
             <link>https://www.elle.co.kr/article/67033</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Jun 2022 17:51:59 GMT</pubDate>
             <content:encoded><![CDATA[열심히 일하고 나답게 삽시다. &lt;뜻밖의 여정&gt;의 윤여정처럼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/7399e4f3-48dd-4993-974b-1f7840af7168.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성의, 여성을 위한, 여성에 의한 나이키의 50년]]></title>
-            <link>https://www.elle.co.kr/article/66777</link>
-            <guid>https://www.elle.co.kr/article/66777</guid>
-            <pubDate>Sun, 05 Jun 2022 17:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[여성에게 투자할 때 스포츠가 개선된다고 이야기하는 브랜드, 나이키가 50주년을 맞았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/d55b6684-ef06-48b4-a88f-a20edf7c9322.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
