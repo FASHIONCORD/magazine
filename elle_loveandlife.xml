@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선선한 여름 밤, 시원한 맥주와 딱 어울리는 #신상맛집3]]></title>
+            <link>https://www.elle.co.kr/article/67194</link>
+            <guid>https://www.elle.co.kr/article/67194</guid>
+            <pubDate>Wed, 22 Jun 2022 17:56:15 GMT</pubDate>
+            <content:encoded><![CDATA[일본식 꼬치부터 피자까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/0e10f98f-285a-41b1-8e50-dcdbfd23a76a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특종] 잔망루피 최초 바캉스 화보.jpg]]></title>
             <link>https://www.elle.co.kr/article/67128</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 08 Jun 2022 17:48:56 GMT</pubDate>
             <content:encoded><![CDATA[요즘 힙스터라면? 지금 당장 가봐야 할 감성 가득 그로서리 스토어를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/1a1f90a5-09d3-4952-9aec-940426530695.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이트부터 소개팅까지 다 어울리는 석촌역-가로수길-만리동 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/66849</link>
-            <guid>https://www.elle.co.kr/article/66849</guid>
-            <pubDate>Wed, 08 Jun 2022 17:48:56 GMT</pubDate>
-            <content:encoded><![CDATA[너무 무겁지 않으면서도 깔끔한 분위기의 맛집들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/481edc57-e53b-4da2-8aab-bb31c995980e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

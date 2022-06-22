@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울의 대표 평양냉면 맛집, ‘을지면옥’이 결국 철거된다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34006059&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34006059&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 22 Jun 2022 17:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjJfMjYx/MDAxNjU1ODg4MDA0NDI0.M8Q-Yt2ISz1V4Y0FbW_3UssgHQOfR1crsoBMT6V46OMg.KbNxotimFwkCSY1inFWAKetgGpHqJ-W1EdTT0Ppxb8Ig.JPEG/IJ7kAssRxMiZUtTS5Mq7JHY8jqHM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잭 다니엘스 x 코카콜라 '잭콕' 칵테일 캔 출시한다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33968236&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfNTgg/MDAxNjI2MTY0ODQ4MTYw.C4LLBXO-0zQCYjzBLHbmWiypPnEr85-tXPAabkp4Kpcg._qCKdhKVnwOjYzDdES9vOVzgpTFgrt0QsTJHKp4gcm0g.JPEG/IgEfmP2nhON8T0ZIL852zGpb3PRI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서도 초복을 완벽하게 보낼 수 있는 치킨 요리 밀키트 8종]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31936294&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31936294&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDlfMzMg/MDAxNjI1ODE2MzUwNzQx.iuNIBlJgxYkY7YWLJ2SmJ41qp60ukg2ky89dJkMfw6kg.EfgXHUOC5a4pWgJi3klNCVygA9R15mvczDT8-F63afEg.JPEG/Iolll3RHRpyCo4e4fkX-nwbKVUjU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

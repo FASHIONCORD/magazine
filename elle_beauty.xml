@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신상 워터 트리트먼트 에센스]]></title>
+            <link>https://www.elle.co.kr/article/67269</link>
+            <guid>https://www.elle.co.kr/article/67269</guid>
+            <pubDate>Wed, 22 Jun 2022 17:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[가볍다고 얕보지 말아요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/e939cee1-3a1c-453c-8c0f-c38a924795da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최여진+조여정의 몸매 관리법 탄츠플레이, 영화 속 주인공이 된 것 같다고? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/67253</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 16 Jun 2022 05:48:45 GMT</pubDate>
             <content:encoded><![CDATA[자외선과의 전쟁! 톱스타들의 메이크업 아티스트 홍현정이 추천하는 순하고, 눈 시림 없고, 안 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/065dbd09-d8f6-4d95-8757-97e5e514003d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정수리 탈모, 여름철 물미역 머리 타파! 두피 스크럽 3]]></title>
-            <link>https://www.elle.co.kr/article/67094</link>
-            <guid>https://www.elle.co.kr/article/67094</guid>
-            <pubDate>Mon, 13 Jun 2022 17:47:52 GMT</pubDate>
-            <content:encoded><![CDATA[에디터가 실제로 써 본 후기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/830d7daf-a478-4fd8-bc84-781fd42dc055.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
