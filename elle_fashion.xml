@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 17:49:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소녀와 숙녀의 경계를 넘나드는 버뮤다 팬츠]]></title>
+            <link>https://www.elle.co.kr/article/67379</link>
+            <guid>https://www.elle.co.kr/article/67379</guid>
+            <pubDate>Thu, 23 Jun 2022 17:45:44 GMT</pubDate>
+            <content:encoded><![CDATA[젠틀 레이디!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/8347138a-1f9d-4d57-acac-82b5496cdece.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿨한 여름 룩의 정석은 흰 티셔츠에 청바지!]]></title>
             <link>https://www.elle.co.kr/article/67376</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Jun 2022 17:48:14 GMT</pubDate>
             <content:encoded><![CDATA[귀여운 똑 단발부터 쿨한 레이어드 컷까지! 따라하고 싶은 스타들의 커트 헤어 스타일을 구경해...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/f71e7124-03b6-4c6c-9ec2-51423afb694d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푹 눌러써요]]></title>
-            <link>https://www.elle.co.kr/article/66716</link>
-            <guid>https://www.elle.co.kr/article/66716</guid>
-            <pubDate>Mon, 20 Jun 2022 05:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[패션의 완성은 버킷햇! 2% 부족함을 채워줄 여름 모자]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/760d5b4b-720f-4ad5-83f2-28467071bdca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
