@@ -4,16 +4,31 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 17:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화양연화 LP 아직 못 구한 사람? 가벼움의 시대에 만난 무거운 낭만, 레코드 수집]]></title>
+            <link>https://www.elle.co.kr/article/67302</link>
+            <guid>https://www.elle.co.kr/article/67302</guid>
+            <pubDate>Thu, 23 Jun 2022 05:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[수집가라면 눈 돌아갈 한정판 레코드 오프라인 행사도 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/19/8397ec55-fb4d-4cce-93a2-45f09d3f1f2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히어로 나탈리 포트만에 칸 제패한 송강호X전도연, '범죄도시2' 이후의 '천만 영화' 후보 3 ②]]></title>
+            <link>https://www.elle.co.kr/article/67284</link>
+            <guid>https://www.elle.co.kr/article/67284</guid>
+            <pubDate>Thu, 23 Jun 2022 05:45:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/c96bad78-fcbb-4cd2-a1db-44c3657cea83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬릭의 뜨겁고 가뿐한 마음 #2주의뮤지션]]></title>
             <link>https://www.elle.co.kr/article/67266</link>
             <guid>https://www.elle.co.kr/article/67266</guid>
             <pubDate>Tue, 21 Jun 2022 17:54:30 GMT</pubDate>
             <content:encoded><![CDATA[매일이 지겹다면 ‘푸른 바다 위에서 칵테일 한 잔 줘’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/0ff3a353-942f-4b53-a812-b4117a85eb6a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/0ff3a353-942f-4b53-a812-b4117a85eb6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[톰 크루즈부터 탕웨이까지, '범죄도시2' 이후의 '천만 영화' 후보 3 ①]]></title>
@@ -54,22 +69,6 @@
             <pubDate>Thu, 16 Jun 2022 17:48:48 GMT</pubDate>
             <content:encoded><![CDATA['우리들의 블루스' 마지막회 시청률 무려 14.6%.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/cb2c5c97-d099-42b3-b2b5-9b446c663781.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영희 남친 철수가 누구야? 감독이 직접 푼 '오징어게임' 시즌2 떡밥.official]]></title>
-            <link>https://www.elle.co.kr/article/67171</link>
-            <guid>https://www.elle.co.kr/article/67171</guid>
-            <pubDate>Thu, 16 Jun 2022 17:48:48 GMT</pubDate>
-            <content:encoded><![CDATA[황동혁 감독이 직접 보낸 '오겜2' 초대장.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/37a96284-eb8f-42a3-9545-60b278e3e38e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 탁월한 디자인 총집합, EDIDA 2022]]></title>
-            <link>https://www.elle.co.kr/article/67107</link>
-            <guid>https://www.elle.co.kr/article/67107</guid>
-            <pubDate>Thu, 16 Jun 2022 17:48:48 GMT</pubDate>
-            <content:encoded><![CDATA[엘르 데코가 주목한 디자인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/4f741a9f-840d-4d5a-b572-ce90ceed09fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
