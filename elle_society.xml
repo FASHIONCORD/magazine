@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 17:49:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<브로커>의 여자들_요주의여성 #62]]></title>
+            <link>https://www.elle.co.kr/article/67176</link>
+            <guid>https://www.elle.co.kr/article/67176</guid>
+            <pubDate>Fri, 24 Jun 2022 17:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[‘함께’여서 더 좋은 배두나, 이지은, 이주영.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/4aa0d68e-7d6d-4d53-9476-a1a6bb04daba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 엔데믹 시대, 파워유성애자는 다시 예전처럼 뜨거운 밤을 꿈꿀 수 있을까?]]></title>
+            <link>https://www.elle.co.kr/article/67103</link>
+            <guid>https://www.elle.co.kr/article/67103</guid>
+            <pubDate>Fri, 24 Jun 2022 17:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[다시 환락의 월드 비말투어(a.k.a 여름휴가)를 즐길 때가 왔다. 그런데 마음이 예전 같지 않다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/74dad655-b6ef-438e-9812-ed5f48cc966b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 것들엔 돈 아끼지 마세요_돈쓸신잡 #49]]></title>
             <link>https://www.elle.co.kr/article/67085</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 10 Jun 2022 17:50:50 GMT</pubDate>
             <content:encoded><![CDATA[달려라 달려, 맥스! &lt;기묘한 이야기&gt; 시즌4의 명장면을 만든 세이디 싱크.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/42f54be7-57bf-4183-8915-00c422f824ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민, 축구만 열심히 하는 게 아니었네_돈쓸신잡 #48]]></title>
-            <link>https://www.elle.co.kr/article/66938</link>
-            <guid>https://www.elle.co.kr/article/66938</guid>
-            <pubDate>Tue, 07 Jun 2022 17:51:59 GMT</pubDate>
-            <content:encoded><![CDATA[누가 봐도 월드클래스인 손흥민. 잘 되는 사람들은 '이렇게' 산다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/7dfad1c9-834b-4ef9-9dc2-f7024d724522.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멈추지 않는 ‘여정’_요주의여성 #60]]></title>
-            <link>https://www.elle.co.kr/article/66817</link>
-            <guid>https://www.elle.co.kr/article/66817</guid>
-            <pubDate>Tue, 07 Jun 2022 17:51:59 GMT</pubDate>
-            <content:encoded><![CDATA[열심히 일하고 나답게 삽시다. &lt;뜻밖의 여정&gt;의 윤여정처럼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/7399e4f3-48dd-4993-974b-1f7840af7168.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

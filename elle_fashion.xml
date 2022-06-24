@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 17:49:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌아온 페스티벌, HOT! 스타의 페스티벌 패션 엿보기]]></title>
+            <link>https://www.elle.co.kr/article/67385</link>
+            <guid>https://www.elle.co.kr/article/67385</guid>
+            <pubDate>Fri, 24 Jun 2022 17:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[본격적으로 시작된 페스티벌 시즌, 멋쟁이가 되고 싶다면 주목할 것! 페스티벌에 간 스타들의 패...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/4ef83b46-7230-4245-ba9b-4931c784c942.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소녀와 숙녀의 경계를 넘나드는 버뮤다 팬츠]]></title>
             <link>https://www.elle.co.kr/article/67379</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Jun 2022 17:53:02 GMT</pubDate>
             <content:encoded><![CDATA[“해리 언니 결혼식에 뭐 입고 갈까요?” 다비치 리더 이해리의 결혼식 참석을 위해 강민경이 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/84259a3c-df9a-4250-b5fd-c5a1e2b05d79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름맞이 헤어 스타일? 셀럽처럼 시원하게 싹둑!]]></title>
-            <link>https://www.elle.co.kr/article/67299</link>
-            <guid>https://www.elle.co.kr/article/67299</guid>
-            <pubDate>Mon, 20 Jun 2022 17:48:14 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운 똑 단발부터 쿨한 레이어드 컷까지! 따라하고 싶은 스타들의 커트 헤어 스타일을 구경해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/f71e7124-03b6-4c6c-9ec2-51423afb694d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
