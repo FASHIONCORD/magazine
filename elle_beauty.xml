@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 05:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 17:53:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름을 위하여! 최신 버전 헤어핀 스타일]]></title>
+            <link>https://www.elle.co.kr/article/67388</link>
+            <guid>https://www.elle.co.kr/article/67388</guid>
+            <pubDate>Mon, 27 Jun 2022 17:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[더운 여름 땀에 전 앞머리를 피하고 싶다면 가방 속에 두 개의 헤어핀을 준비하세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/be43d2ca-e6fe-4a4b-ab36-214eae885d77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙헤드 박멸을 위해 알아야 할 것들_선배's 어드바이스 #122]]></title>
+            <link>https://www.elle.co.kr/article/67344</link>
+            <guid>https://www.elle.co.kr/article/67344</guid>
+            <pubDate>Mon, 27 Jun 2022 17:48:12 GMT</pubDate>
+            <content:encoded><![CDATA[블랙헤드는 여드름일까, 아닐까? 진실 혹은 거짓]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/25f8d19e-9c6e-4ed8-9f0d-cf36723e66e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 많이들 한다는 ‘치아 성형’에 대한 궁금증_몸에 좋은 잔소리 #44]]></title>
             <link>https://www.elle.co.kr/article/67340</link>
@@ -53,22 +69,6 @@
             <pubDate>Mon, 20 Jun 2022 17:48:31 GMT</pubDate>
             <content:encoded><![CDATA[두피를 지켜라!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/52610780-dc00-416a-90cd-147380dc8dde.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자전거 타기 딱 좋은 날씨! 라이딩 즐기는 스타 5]]></title>
-            <link>https://www.elle.co.kr/article/67191</link>
-            <guid>https://www.elle.co.kr/article/67191</guid>
-            <pubDate>Mon, 20 Jun 2022 05:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[스타의 SNS로 만나는 시원한 라이딩 순간! 건강한 여가 생활을 보내고 싶다면 도전해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/430ab6e4-23f5-48a0-85b7-7fe8a6c100a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름을 더 시원하게 날 수 있는 샤워 팁_선배's 어드바이스 #121]]></title>
-            <link>https://www.elle.co.kr/article/67162</link>
-            <guid>https://www.elle.co.kr/article/67162</guid>
-            <pubDate>Sat, 18 Jun 2022 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[청량한 물보라에 휩싸이고픈 여름, 시원한 샤워용품들과 보디케어 팁.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/5fdd11ba-6b70-44c8-b926-eac274487c49.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

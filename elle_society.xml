@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 05:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 17:53:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이러다 진짜 탈탈 털립니다_돈쓸신잡 #50]]></title>
+            <link>https://www.elle.co.kr/article/67263</link>
+            <guid>https://www.elle.co.kr/article/67263</guid>
+            <pubDate>Mon, 27 Jun 2022 17:53:27 GMT</pubDate>
+            <content:encoded><![CDATA['한방'을 노리다가 '한방'에 가는 법이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/b00c6605-5433-46ec-a739-225415858081.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<브로커>의 여자들_요주의여성 #62]]></title>
             <link>https://www.elle.co.kr/article/67176</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Jun 2022 17:50:50 GMT</pubDate>
             <content:encoded><![CDATA[봄철 꽃가루와 미세먼지가 일으키는 ‘알레르기 비염’에 대해.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/409bce28-e052-4025-8a7c-a6876a511681.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세이디 싱크의 도약_요주의여성 #61]]></title>
-            <link>https://www.elle.co.kr/article/66948</link>
-            <guid>https://www.elle.co.kr/article/66948</guid>
-            <pubDate>Fri, 10 Jun 2022 17:50:50 GMT</pubDate>
-            <content:encoded><![CDATA[달려라 달려, 맥스! &lt;기묘한 이야기&gt; 시즌4의 명장면을 만든 세이디 싱크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/42f54be7-57bf-4183-8915-00c422f824ea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
