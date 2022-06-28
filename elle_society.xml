@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 17:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 05:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쓸 어 버 려_요주의여성 #62]]></title>
+            <link>https://www.elle.co.kr/article/67277</link>
+            <guid>https://www.elle.co.kr/article/67277</guid>
+            <pubDate>Tue, 28 Jun 2022 05:52:47 GMT</pubDate>
+            <content:encoded><![CDATA[이런 아줌마가 있어서 놀랐나요? &lt;클리닝 업&gt;의 염정아.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/a7eaa895-8dc3-4aa3-95e3-6460cb9690c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이러다 진짜 탈탈 털립니다_돈쓸신잡 #50]]></title>
             <link>https://www.elle.co.kr/article/67263</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Jun 2022 05:50:58 GMT</pubDate>
             <content:encoded><![CDATA[작가 정지음이 엔데믹 시대의 여행을 대하는 태도는 놀랍도록 독창적이다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/3b24715b-fde0-4540-b176-efc36f09d103.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃이 흐드러지니 비염이 터지는구나_몸에 좋은 잔소리 #43]]></title>
-            <link>https://www.elle.co.kr/article/66949</link>
-            <guid>https://www.elle.co.kr/article/66949</guid>
-            <pubDate>Fri, 10 Jun 2022 17:50:50 GMT</pubDate>
-            <content:encoded><![CDATA[봄철 꽃가루와 미세먼지가 일으키는 ‘알레르기 비염’에 대해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/409bce28-e052-4025-8a7c-a6876a511681.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

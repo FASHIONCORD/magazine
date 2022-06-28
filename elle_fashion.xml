@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 17:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 05:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[떠나요~혼자서! ‘솔캠’ 확실하게 즐기는 법]]></title>
+            <link>https://www.elle.co.kr/article/67460</link>
+            <guid>https://www.elle.co.kr/article/67460</guid>
+            <pubDate>Tue, 28 Jun 2022 05:47:36 GMT</pubDate>
+            <content:encoded><![CDATA[반려견과 오붓한 캠핑부터 사색에 잠길 수 있는 카크닉까지! 스타가 전하는 다양한 솔로 캠핑의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/25/df9c0eb1-e664-45d8-8872-04b7e80d14dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀란이 들썩이게 한 센스? 송강, 재현, 지코. K-스타일링의 비밀!]]></title>
             <link>https://www.elle.co.kr/article/67422</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Jun 2022 17:52:00 GMT</pubDate>
             <content:encoded><![CDATA[로제부터 차정원까지 활용 만점 화이트 티셔츠에 청바지 조합으로 여름 데일리 룩을 완성한 스타...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/0baeac98-05f8-465f-b938-67b1dcda61bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니, 현아, (아이들) 미연 헤어의 공통점은?]]></title>
-            <link>https://www.elle.co.kr/article/67352</link>
-            <guid>https://www.elle.co.kr/article/67352</guid>
-            <pubDate>Wed, 22 Jun 2022 17:52:00 GMT</pubDate>
-            <content:encoded><![CDATA[셀럽 담당 헤어 스타일리스트에게 직접 들은 오렌지 컬러 염색 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/93d360bc-867c-4bcd-850e-7ca4ba423e11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

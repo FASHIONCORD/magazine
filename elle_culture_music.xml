@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 17:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 05:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고?]]></title>
+            <link>https://www.elle.co.kr/article/67515</link>
+            <guid>https://www.elle.co.kr/article/67515</guid>
+            <pubDate>Tue, 28 Jun 2022 05:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[그 동안 멤버들은 믹스 테잎 등 무료 공개 음원으로 솔로 활동을 해 왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/80b3f18c-af3d-4da2-a8b2-fd315bfd3fe6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[또 나온 K-천재, 반 클라이번 콩쿨 역대 최연소 우승자 임윤찬은 욕심이 없다]]></title>
             <link>https://www.elle.co.kr/article/67360</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/67220</guid>
             <pubDate>Sat, 18 Jun 2022 17:46:37 GMT</pubDate>
             <content:encoded><![CDATA[매너리즘에 빠진 모두가 공감할 수밖에 없는 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/88747898-fdcb-44c7-833b-646996513002.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어디서든 피어나는 장들레 #2주의뮤지션]]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/65919</guid>
             <pubDate>Fri, 29 Apr 2022 05:46:33 GMT</pubDate>
             <content:encoded><![CDATA[키워드는 한강 노을섬, 해질녘, 초여름 바람, 그리고 뮤지션 10CM, 죠지(george), 유라(youra), 미...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['세계 3대 음악 경연' 차이콥스키 콩쿠르가 국제 무대에서 퇴출 당할 수밖에 없는 이유]]></title>
-            <link>https://www.elle.co.kr/article/65682</link>
-            <guid>https://www.elle.co.kr/article/65682</guid>
-            <pubDate>Thu, 21 Apr 2022 17:55:30 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 자존심과도 같던 차이콥스키 콩쿠르가 보이콧을 당하고 있다.]]></content:encoded>
         </item>
     </channel>
 </rss>
