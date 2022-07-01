@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 18:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 17:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['헤어질 결심'에 깜짝 등장하는 김신영, 확신의 '박찬욱 픽' 된 사연은?]]></title>
+            <link>https://www.elle.co.kr/article/67419</link>
+            <guid>https://www.elle.co.kr/article/67419</guid>
+            <pubDate>Fri, 01 Jul 2022 17:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[그의 뛰어난 관찰력과 표현력은 이미 모두가 알고 있는 바.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/4deda578-6567-4cba-802d-9bc7e6993161.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구준엽이 직접 밝힌 서희원과 처음 헤어지던 날, 그리고 결혼 관련 루머 셋 (feat. 투샷 모음)]]></title>
             <link>https://www.elle.co.kr/article/67416</link>
@@ -59,14 +67,6 @@
             <pubDate>Tue, 21 Jun 2022 17:54:30 GMT</pubDate>
             <content:encoded><![CDATA[매일이 지겹다면 ‘푸른 바다 위에서 칵테일 한 잔 줘’]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/0ff3a353-942f-4b53-a812-b4117a85eb6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈부터 탕웨이까지, '범죄도시2' 이후의 '천만 영화' 후보 3 ①]]></title>
-            <link>https://www.elle.co.kr/article/67262</link>
-            <guid>https://www.elle.co.kr/article/67262</guid>
-            <pubDate>Tue, 21 Jun 2022 17:54:30 GMT</pubDate>
-            <content:encoded><![CDATA[남은 6월 개봉하는 기대작들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/3f8daff7-d1a6-4d88-8631-3381d7ff2974.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
