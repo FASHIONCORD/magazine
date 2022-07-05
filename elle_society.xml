@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 17:51:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:49:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지휘봉은 나의 것_요주의여성 #64]]></title>
+            <link>https://www.elle.co.kr/article/67449</link>
+            <guid>https://www.elle.co.kr/article/67449</guid>
+            <pubDate>Tue, 05 Jul 2022 05:49:16 GMT</pubDate>
+            <content:encoded><![CDATA[클래식계의 ‘유리 천정’을 뚫고 대 활약중인 여성 지휘자들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/41377f8f-fb77-48a7-bc73-0feb5558fdd9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20대 남성이 주식 수익률 가장 낮은 이유_돈쓸신잡 #51]]></title>
             <link>https://www.elle.co.kr/article/67424</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Jun 2022 05:51:45 GMT</pubDate>
             <content:encoded><![CDATA[세상에서 가장 안전한 자산은 '나 자신'이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/4c5896aa-11f2-46de-a6f5-6f10a268bd0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 황선우 작가가 리코더로 레드벨벳 노래를 연주하게 되기까지]]></title>
-            <link>https://www.elle.co.kr/article/67033</link>
-            <guid>https://www.elle.co.kr/article/67033</guid>
-            <pubDate>Fri, 17 Jun 2022 17:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[반드시 잘하지 않아도 된다는 것. 엉성하고 즐거운 취미생활이 주는 여유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/5507fcb0-889e-47c1-89ae-d1cd973053f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
