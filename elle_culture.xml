@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 05:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 17:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고?]]></title>
+            <link>https://www.elle.co.kr/article/67515</link>
+            <guid>https://www.elle.co.kr/article/67515</guid>
+            <pubDate>Tue, 05 Jul 2022 17:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[그 동안 멤버들은 믹스 테잎 등 무료 공개 음원으로 솔로 활동을 해 왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/80b3f18c-af3d-4da2-a8b2-fd315bfd3fe6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['안나' vs '종이의 집' vs '최종병기 앨리스', OTT 신작 첫방 승자는? #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/67498</link>
+            <guid>https://www.elle.co.kr/article/67498</guid>
+            <pubDate>Tue, 05 Jul 2022 17:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[OTT 기대작 대격돌!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/8e9961b2-f786-4cdf-889a-3e6ca06b1061.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 주 꼭 챙겨야 할, 지금 막 시작한 서울 전시 2 (feat. BTS가 설명하고 GD 다녀 감)]]></title>
             <link>https://www.elle.co.kr/article/67489</link>
@@ -52,21 +68,6 @@
             <guid>https://www.elle.co.kr/article/67354</guid>
             <pubDate>Mon, 27 Jun 2022 17:49:34 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/44dd887e-c59f-44f4-a0ed-c45d4b7da790.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화양연화 LP 아직 못 구한 사람? 가벼움의 시대에 만난 무거운 낭만, 레코드 수집]]></title>
-            <link>https://www.elle.co.kr/article/67302</link>
-            <guid>https://www.elle.co.kr/article/67302</guid>
-            <pubDate>Thu, 23 Jun 2022 05:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[수집가라면 눈 돌아갈 한정판 레코드 오프라인 행사도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/19/8397ec55-fb4d-4cce-93a2-45f09d3f1f2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히어로 나탈리 포트만에 칸 제패한 송강호X전도연, '범죄도시2' 이후의 '천만 영화' 후보 3 ②]]></title>
-            <link>https://www.elle.co.kr/article/67284</link>
-            <guid>https://www.elle.co.kr/article/67284</guid>
-            <pubDate>Thu, 23 Jun 2022 05:45:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/c96bad78-fcbb-4cd2-a1db-44c3657cea83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
