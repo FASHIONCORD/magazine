@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 05:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 17:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대화의 맛, <우리는 SF를 좋아해>]]></title>
+            <link>https://www.elle.co.kr/article/67542</link>
+            <guid>https://www.elle.co.kr/article/67542</guid>
+            <pubDate>Wed, 06 Jul 2022 17:52:38 GMT</pubDate>
+            <content:encoded><![CDATA[좋아하는 일을 꾸준히 지속할 수 있는 감각.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/63cf52b7-45c1-4df9-a887-974855e2c125.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 몸, 나의 선택! 미국 대법원이 여성의 임신 중단 권리를 박탈하다]]></title>
+            <link>https://www.elle.co.kr/article/67508</link>
+            <guid>https://www.elle.co.kr/article/67508</guid>
+            <pubDate>Wed, 06 Jul 2022 17:52:38 GMT</pubDate>
+            <content:encoded><![CDATA[여성의 몸과 권리에 대하여, 19세기 때 내린 결정으로 돌아간 미국 대법원의 판결.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/fb483ff9-0c86-43e3-890e-1a5cb4767142.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지휘봉은 나의 것_요주의여성 #64]]></title>
             <link>https://www.elle.co.kr/article/67449</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 24 Jun 2022 17:49:04 GMT</pubDate>
             <content:encoded><![CDATA[‘함께’여서 더 좋은 배두나, 이지은, 이주영.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/4aa0d68e-7d6d-4d53-9476-a1a6bb04daba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 엔데믹 시대, 파워유성애자는 다시 예전처럼 뜨거운 밤을 꿈꿀 수 있을까?]]></title>
-            <link>https://www.elle.co.kr/article/67103</link>
-            <guid>https://www.elle.co.kr/article/67103</guid>
-            <pubDate>Fri, 24 Jun 2022 17:49:04 GMT</pubDate>
-            <content:encoded><![CDATA[다시 환락의 월드 비말투어(a.k.a 여름휴가)를 즐길 때가 왔다. 그런데 마음이 예전 같지 않다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/74dad655-b6ef-438e-9812-ed5f48cc966b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 것들엔 돈 아끼지 마세요_돈쓸신잡 #49]]></title>
-            <link>https://www.elle.co.kr/article/67085</link>
-            <guid>https://www.elle.co.kr/article/67085</guid>
-            <pubDate>Wed, 22 Jun 2022 05:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[세상에서 가장 안전한 자산은 '나 자신'이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/4c5896aa-11f2-46de-a6f5-6f10a268bd0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
