@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 17:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 05:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 저녁엔 와인? 전통주? 장마철 술 생각 날 때 가기 좋은 용산구 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/67537</link>
+            <guid>https://www.elle.co.kr/article/67537</guid>
+            <pubDate>Wed, 06 Jul 2022 05:53:16 GMT</pubDate>
+            <content:encoded><![CDATA[남영동에서 해방촌, 한남을 어우르는 용산구 맛집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/d5924a21-168d-4237-b18d-aa8f6596c868.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBTI보다 100배 정확해! 20만원으로 내 유전자의 비밀을 아는 법]]></title>
             <link>https://www.elle.co.kr/article/67485</link>
@@ -60,14 +68,6 @@
             <pubDate>Wed, 22 Jun 2022 17:56:15 GMT</pubDate>
             <content:encoded><![CDATA[일본식 꼬치부터 피자까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/0e10f98f-285a-41b1-8e50-dcdbfd23a76a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특종] 잔망루피 최초 바캉스 화보.jpg]]></title>
-            <link>https://www.elle.co.kr/article/67128</link>
-            <guid>https://www.elle.co.kr/article/67128</guid>
-            <pubDate>Tue, 21 Jun 2022 05:49:34 GMT</pubDate>
-            <content:encoded><![CDATA[잔망루피와 슈퍼콜라겐 에센스 비오틴 한 잔 할래요? 잔망루피, 바이탈뷰티 뷰티 화보 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/f0ce2186-1c4c-4b24-bfa3-cf7376154cdd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
