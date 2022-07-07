@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 17:55:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름에 니트를? 스타의 크로셰 활용법 6]]></title>
+            <link>https://www.elle.co.kr/article/67821</link>
+            <guid>https://www.elle.co.kr/article/67821</guid>
+            <pubDate>Thu, 07 Jul 2022 17:51:50 GMT</pubDate>
+            <content:encoded><![CDATA[상큼발랄한 서머 룩을 연출하고 싶다면? 알록달록 크로셰 아이템을 활용한 셀러브리티의 룩을 참...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d9f154f7-4c50-4b7d-8f49-da3019ce99f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Off 모드마저 특별한 윤보미의 메이크업 팁]]></title>
+            <link>https://www.elle.co.kr/article/67817</link>
+            <guid>https://www.elle.co.kr/article/67817</guid>
+            <pubDate>Thu, 07 Jul 2022 17:51:50 GMT</pubDate>
+            <content:encoded><![CDATA[특별한 날 활용 가능! 에이핑크 윤보미의 일상 버전 아이돌 메이크업에 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/ffb951d5-71e4-49ee-8ef4-f1c073b1018c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['10년째 열애 중' 황보라, 드디어 결혼! 예비 시부는 김용건, 예비 시숙은 하정우?]]></title>
             <link>https://www.elle.co.kr/article/67810</link>
@@ -51,21 +67,6 @@
             <pubDate>Thu, 07 Jul 2022 05:46:16 GMT</pubDate>
             <content:encoded><![CDATA[너무도 괴로운 인기인의 삶...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/f4566ba0-ab9b-4d07-a5a8-2be974c66a91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지치는 법이 없는 (여자)아이들 우기]]></title>
-            <link>https://www.elle.co.kr/article/67632</link>
-            <guid>https://www.elle.co.kr/article/67632</guid>
-            <pubDate>Tue, 05 Jul 2022 17:50:02 GMT</pubDate>
-            <content:encoded><![CDATA[시간이 갈수록 점점 더 빛을 발하는 우기만의 에너지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/1bf2b271-9d0c-4a65-b2c0-2e4be00613fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의외의 티키타카! 대세 배우 손석구X이동휘 찐친 만든 작품은?]]></title>
-            <link>https://www.elle.co.kr/article/67738</link>
-            <guid>https://www.elle.co.kr/article/67738</guid>
-            <pubDate>Tue, 05 Jul 2022 17:50:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/a2de839e-8a04-4e49-959c-12fbac18d438.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

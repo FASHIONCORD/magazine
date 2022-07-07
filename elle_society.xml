@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 17:55:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[점심 사 먹기도 무서워진 시대_돈쓸신잡 #52]]></title>
+            <link>https://www.elle.co.kr/article/67664</link>
+            <guid>https://www.elle.co.kr/article/67664</guid>
+            <pubDate>Thu, 07 Jul 2022 17:55:35 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 당면한 인플레이션은 '나쁜 물가 상승'이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/0492138f-c316-41ee-a5a4-2298c6305faf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<엘르> 그린 서베이 참여하기!]]></title>
             <link>https://www.elle.co.kr/article/67656</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Jun 2022 05:52:47 GMT</pubDate>
             <content:encoded><![CDATA[이런 아줌마가 있어서 놀랐나요? &lt;클리닝 업&gt;의 염정아.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/a7eaa895-8dc3-4aa3-95e3-6460cb9690c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이러다 진짜 탈탈 털립니다_돈쓸신잡 #50]]></title>
-            <link>https://www.elle.co.kr/article/67263</link>
-            <guid>https://www.elle.co.kr/article/67263</guid>
-            <pubDate>Mon, 27 Jun 2022 17:53:27 GMT</pubDate>
-            <content:encoded><![CDATA['한방'을 노리다가 '한방'에 가는 법이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/b00c6605-5433-46ec-a739-225415858081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
