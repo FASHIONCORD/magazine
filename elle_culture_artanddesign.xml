@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 17:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/67822</link>
+            <guid>https://www.elle.co.kr/article/67822</guid>
+            <pubDate>Thu, 07 Jul 2022 05:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/614d0d79-3f76-41d4-a328-e6d12d42ac2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 주 꼭 챙겨야 할, 지금 막 시작한 서울 전시 2 (feat. BTS가 설명하고 GD 다녀 감)]]></title>
             <link>https://www.elle.co.kr/article/67489</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/66740</guid>
             <pubDate>Fri, 27 May 2022 17:54:14 GMT</pubDate>
             <content:encoded><![CDATA[여성 아티스트들의 독주, 그리고 우크라이나를 향한 연대까지. 역대급으로 돌아온 베니스 비엔날레]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/cac6efa9-6bcc-4aca-8562-5cd767560de7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명품 패션하우스가 인정한 국가대표 아티스트는 바로 이 사람]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/64991</guid>
             <pubDate>Fri, 25 Mar 2022 17:48:17 GMT</pubDate>
             <content:encoded><![CDATA[캘리 비맨의 그림 속 오묘한 얼굴들. 그리고 23인의 글로벌 아티스트가 담은 사랑에 대하여]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디지털 크리에이터 그룹 '미지'의 세상]]></title>
-            <link>https://www.elle.co.kr/article/64942</link>
-            <guid>https://www.elle.co.kr/article/64942</guid>
-            <pubDate>Fri, 25 Mar 2022 17:48:17 GMT</pubDate>
-            <content:encoded><![CDATA[픽셀 아트와 모노크롬 컴퓨터그래픽을 기반으로 다채로운 콘텐츠를 만들어내는 그룹 미지.]]></content:encoded>
         </item>
     </channel>
 </rss>

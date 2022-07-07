@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 17:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<엘르> 그린 서베이 참여하기!]]></title>
+            <link>https://www.elle.co.kr/article/67656</link>
+            <guid>https://www.elle.co.kr/article/67656</guid>
+            <pubDate>Thu, 07 Jul 2022 05:50:14 GMT</pubDate>
+            <content:encoded><![CDATA[환경에 대한 당신의 솔직한 생각을 들려주세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/904ce7c7-8663-4dd5-9fd8-4065749e7b5d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대화의 맛, <우리는 SF를 좋아해>]]></title>
             <link>https://www.elle.co.kr/article/67542</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Jun 2022 17:53:27 GMT</pubDate>
             <content:encoded><![CDATA['한방'을 노리다가 '한방'에 가는 법이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/b00c6605-5433-46ec-a739-225415858081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<브로커>의 여자들_요주의여성 #62]]></title>
-            <link>https://www.elle.co.kr/article/67176</link>
-            <guid>https://www.elle.co.kr/article/67176</guid>
-            <pubDate>Fri, 24 Jun 2022 17:49:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘함께’여서 더 좋은 배두나, 이지은, 이주영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/4aa0d68e-7d6d-4d53-9476-a1a6bb04daba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
