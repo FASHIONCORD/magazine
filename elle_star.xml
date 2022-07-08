@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 17:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 05:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멋있는데 살까지 빠진다? 소유와 엄정화의 관리 비결, 서핑 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/67823</link>
+            <guid>https://www.elle.co.kr/article/67823</guid>
+            <pubDate>Fri, 08 Jul 2022 05:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[삶의 태도까지 달라지게 만들어 준다는 서핑.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/396c18cd-99e1-4ee6-83aa-f9c59c5f4176.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/67822</link>
+            <guid>https://www.elle.co.kr/article/67822</guid>
+            <pubDate>Fri, 08 Jul 2022 05:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/614d0d79-3f76-41d4-a328-e6d12d42ac2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름에 니트를? 스타의 크로셰 활용법 6]]></title>
             <link>https://www.elle.co.kr/article/67821</link>
@@ -51,22 +67,6 @@
             <guid>https://www.elle.co.kr/article/67771</guid>
             <pubDate>Thu, 07 Jul 2022 05:46:16 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/d8f4f398-77c1-4aa2-86e3-eaf6fafa5ae0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7월의 신부 된 이해리, 살짝 공개된 결혼식 하객 사진.jpg]]></title>
-            <link>https://www.elle.co.kr/article/67759</link>
-            <guid>https://www.elle.co.kr/article/67759</guid>
-            <pubDate>Thu, 07 Jul 2022 05:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[조세호 드디어 결혼식 참석하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/f1c1d081-c09e-4b6d-816b-850b4ef6c13b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상순 제주도 카페, 개업 이틀 만에 문 닫고 저격까지 당했다?]]></title>
-            <link>https://www.elle.co.kr/article/67753</link>
-            <guid>https://www.elle.co.kr/article/67753</guid>
-            <pubDate>Thu, 07 Jul 2022 05:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[너무도 괴로운 인기인의 삶...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/f4566ba0-ab9b-4d07-a5a8-2be974c66a91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
