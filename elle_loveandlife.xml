@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 17:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 05:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[평범한 햄버거 NO! 비주얼부터 맛까지 힙한 성수동 버거 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/67582</link>
+            <guid>https://www.elle.co.kr/article/67582</guid>
+            <pubDate>Sat, 09 Jul 2022 05:47:55 GMT</pubDate>
+            <content:encoded><![CDATA[미국이야? 서울이야? 황승언이 들른 힙한 버거집부터 아메리칸 버거 챔피언 출신 셰프의 버거집...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/83872038-9000-4db8-a1be-9f895a0e1d52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘 저녁엔 와인? 전통주? 장마철 술 생각 날 때 가기 좋은 용산구 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/67537</link>
@@ -60,14 +68,6 @@
             <pubDate>Mon, 27 Jun 2022 05:50:50 GMT</pubDate>
             <content:encoded><![CDATA[더워지는 날씨, 얼음 동동 올라간 아이스 커피로 시원하게! 스타가 들른 커피 맛집을 소개합니다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/1ff97e1d-9e20-4c85-8793-8d54a76804f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선선한 여름 밤, 시원한 맥주와 딱 어울리는 #신상맛집3]]></title>
-            <link>https://www.elle.co.kr/article/67194</link>
-            <guid>https://www.elle.co.kr/article/67194</guid>
-            <pubDate>Wed, 22 Jun 2022 17:56:15 GMT</pubDate>
-            <content:encoded><![CDATA[일본식 꼬치부터 피자까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/0e10f98f-285a-41b1-8e50-dcdbfd23a76a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
