@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 05:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 17:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 가장 핫한 광고 속 NEW 가상인간.zip]]></title>
+            <link>https://www.elle.co.kr/article/67832</link>
+            <guid>https://www.elle.co.kr/article/67832</guid>
+            <pubDate>Sun, 10 Jul 2022 17:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[‘괴물 신인’이라는 별명을 가진 지금 가장 핫한 버추얼 인플루언서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ab5fc8ec-c264-4727-aeee-32820a734bf4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왼쪽 눈의 시력이 거의 사라졌다. 그 이후 보게 된 것들]]></title>
             <link>https://www.elle.co.kr/article/67819</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 06 Jul 2022 17:52:38 GMT</pubDate>
             <content:encoded><![CDATA[여성의 몸과 권리에 대하여, 19세기 때 내린 결정으로 돌아간 미국 대법원의 판결.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/fb483ff9-0c86-43e3-890e-1a5cb4767142.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지휘봉은 나의 것_요주의여성 #64]]></title>
-            <link>https://www.elle.co.kr/article/67449</link>
-            <guid>https://www.elle.co.kr/article/67449</guid>
-            <pubDate>Tue, 05 Jul 2022 05:49:16 GMT</pubDate>
-            <content:encoded><![CDATA[클래식계의 ‘유리 천정’을 뚫고 대 활약중인 여성 지휘자들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/41377f8f-fb77-48a7-bc73-0feb5558fdd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
