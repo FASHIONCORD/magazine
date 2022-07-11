@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 17:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 05:51:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알렉상드르 아르노를 만나다]]></title>
+            <link>https://www.elle.co.kr/article/67856</link>
+            <guid>https://www.elle.co.kr/article/67856</guid>
+            <pubDate>Mon, 11 Jul 2022 05:47:23 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 티파니에 합류하며 새로운 비전을 제시한 프로덕트&amp;커뮤니케이션스 총괄 부사장 알렉상드르...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/19ea2066-65df-4d04-879d-888a4e4f4eae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장마철도 패셔너블하게 즐겨보자!]]></title>
+            <link>https://www.elle.co.kr/article/67855</link>
+            <guid>https://www.elle.co.kr/article/67855</guid>
+            <pubDate>Mon, 11 Jul 2022 05:47:23 GMT</pubDate>
+            <content:encoded><![CDATA[계속되는 비 소식에 뭐 입을지 고민된다면? 스타의 센스만점 장마 패션을 참고해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/fee5161b-b105-4d82-aef4-558f4312d8e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘SAAY’ LOUDER #2주의뮤지션]]></title>
             <link>https://www.elle.co.kr/article/67851</link>
@@ -54,21 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 17:51:50 GMT</pubDate>
             <content:encoded><![CDATA[특별한 날 활용 가능! 에이핑크 윤보미의 일상 버전 아이돌 메이크업에 도전해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/ffb951d5-71e4-49ee-8ef4-f1c073b1018c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['10년째 열애 중' 황보라, 드디어 결혼! 예비 시부는 김용건, 예비 시숙은 하정우?]]></title>
-            <link>https://www.elle.co.kr/article/67810</link>
-            <guid>https://www.elle.co.kr/article/67810</guid>
-            <pubDate>Thu, 07 Jul 2022 05:46:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/d3e10769-8e07-49bc-83e7-32a05aae354b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니의 미모 비결은? 제니's 홈케어 루틴 엿보기]]></title>
-            <link>https://www.elle.co.kr/article/67794</link>
-            <guid>https://www.elle.co.kr/article/67794</guid>
-            <pubDate>Thu, 07 Jul 2022 05:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[마사지 제품부터 향 관련 아이템까지 제니의 홈케어 루틴에 빠지지 않는 취향 듬뿍 담긴 아이템...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/19f17c94-eba5-46a7-908b-9a4221991547.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
