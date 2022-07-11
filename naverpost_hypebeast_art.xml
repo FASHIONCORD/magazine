@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 17:56:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인터뷰 포함, 지용킴의 한국 첫 번째 전시 들여다보기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34112993&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34112993&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 11 Jul 2022 17:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTFfMjYx/MDAxNjU3NTI2NzIyMTcy.wv8wF71LW3eClTGzp2gDwEIkDY4hTrrSlC_vuaQyDS4g.IdsQyQJynbLungbQ6G7_zrfaFCW29y_8ZLBQMtOrl8Eg.JPEG/IZJQ_DRds2ZGqEeOR3i64Dx3M5kU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세 곳에서 동시에 펼쳐지는 '톰 삭스 서울 전시']]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34072356&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MTBfODAg/MDAxNTk5NjY0NDA5NDU2.idKj3ujy1Gj6dHS32YOVHnw1gp8tou0VDQ2hVWZUITAg.MdZwMaN2-syzebvVIngexDcg5TiBX1elmErh_wnlzAgg.JPEG/IyxAtf5IvZZGa-yUtfirml2BP28E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모르고 지나치기에 너무 아쉬운 9월 추천 전시 11선]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29392313&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29392313&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MTBfMjcg/MDAxNTk5NjY0MTM2ODEx.8vn5jqI0aZyJaQee759I3D0l0vwd7BGP0EbuOR9wSxog.ii6ZtUCiOIIPZp5k4kYzGwita-p_cxIAwvsFyHcvwp8g.PNG/IZuXrdl4rn3gdUzk0eaC-XYpNzNk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

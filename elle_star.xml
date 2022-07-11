@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 17:56:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름밤과 와인 한 잔! 무드 있는 와인바 리스트 3]]></title>
+            <link>https://www.elle.co.kr/article/67876</link>
+            <guid>https://www.elle.co.kr/article/67876</guid>
+            <pubDate>Mon, 11 Jul 2022 17:52:10 GMT</pubDate>
+            <content:encoded><![CDATA[한남동부터 성수동까지! 근사한 저녁 식사를 즐기고 싶다면 셀러브리티가 방문한 와인바를 참고해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/b29e45b4-c07f-484d-83fe-f2fe655c826f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[압도적 인기 1위 스포츠 스타 허웅, 훈남 팀장님으로 배우 도전?!]]></title>
+            <link>https://www.elle.co.kr/article/67865</link>
+            <guid>https://www.elle.co.kr/article/67865</guid>
+            <pubDate>Mon, 11 Jul 2022 17:52:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/1cf271d5-f8fa-4cad-b1f9-ffce2094c74f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알렉상드르 아르노를 만나다]]></title>
             <link>https://www.elle.co.kr/article/67856</link>
@@ -16,12 +31,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/19ea2066-65df-4d04-879d-888a4e4f4eae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장마철도 패셔너블하게 즐겨보자!]]></title>
+            <title><![CDATA[이제는 장화도 멋! 장마철 패셔너블 TIP!]]></title>
             <link>https://www.elle.co.kr/article/67855</link>
             <guid>https://www.elle.co.kr/article/67855</guid>
             <pubDate>Mon, 11 Jul 2022 05:47:23 GMT</pubDate>
             <content:encoded><![CDATA[계속되는 비 소식에 뭐 입을지 고민된다면? 스타의 센스만점 장마 패션을 참고해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/fee5161b-b105-4d82-aef4-558f4312d8e9.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/fee5161b-b105-4d82-aef4-558f4312d8e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘SAAY’ LOUDER #2주의뮤지션]]></title>
@@ -54,22 +69,6 @@
             <pubDate>Fri, 08 Jul 2022 05:47:12 GMT</pubDate>
             <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/614d0d79-3f76-41d4-a328-e6d12d42ac2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름에 니트를? 스타의 크로셰 활용법 6]]></title>
-            <link>https://www.elle.co.kr/article/67821</link>
-            <guid>https://www.elle.co.kr/article/67821</guid>
-            <pubDate>Thu, 07 Jul 2022 17:51:50 GMT</pubDate>
-            <content:encoded><![CDATA[상큼발랄한 서머 룩을 연출하고 싶다면? 알록달록 크로셰 아이템을 활용한 셀러브리티의 룩을 참...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d9f154f7-4c50-4b7d-8f49-da3019ce99f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Off 모드마저 특별한 윤보미의 메이크업 팁]]></title>
-            <link>https://www.elle.co.kr/article/67817</link>
-            <guid>https://www.elle.co.kr/article/67817</guid>
-            <pubDate>Thu, 07 Jul 2022 17:51:50 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 날 활용 가능! 에이핑크 윤보미의 일상 버전 아이돌 메이크업에 도전해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/ffb951d5-71e4-49ee-8ef4-f1c073b1018c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
