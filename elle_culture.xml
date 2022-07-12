@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 05:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 17:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[근육있는 여자는 멋지다! 웹툰 진달래짐 과 여성전용운동공간 샤크짐의 조우]]></title>
+            <link>https://www.elle.co.kr/article/67797</link>
+            <guid>https://www.elle.co.kr/article/67797</guid>
+            <pubDate>Tue, 12 Jul 2022 17:47:32 GMT</pubDate>
+            <content:encoded><![CDATA[여자들의 아드레날린이 뿜어져 나오는 그 해방감의 현장 ! 그리고 인터뷰]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/fbd53b84-4596-40de-a560-7cfce2c124a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['베테랑2'가 나온다. 유아인을 잇는 새 빌런으로 거론되는 건 이 사람이다]]></title>
             <link>https://www.elle.co.kr/article/67785</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 04 Jul 2022 17:47:28 GMT</pubDate>
             <content:encoded><![CDATA[지금 서울을 뜨겁게 만든 남다른 신규 전시들. 키워드는 2개 이상 장소에서 열릴 것! 서울시립...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/eb414d14-38a6-4dce-aa86-bf6b53da891a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['헤어질 결심'에 깜짝 등장하는 김신영, 확신의 '박찬욱 픽' 된 사연은?]]></title>
-            <link>https://www.elle.co.kr/article/67419</link>
-            <guid>https://www.elle.co.kr/article/67419</guid>
-            <pubDate>Fri, 01 Jul 2022 17:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[그의 뛰어난 관찰력과 표현력은 이미 모두가 알고 있는 바.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/4deda578-6567-4cba-802d-9bc7e6993161.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

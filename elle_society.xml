@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 05:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 17:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돈 버는 사람들이 가진 강철 멘탈_돈쓸신잡 #53]]></title>
+            <link>https://www.elle.co.kr/article/67835</link>
+            <guid>https://www.elle.co.kr/article/67835</guid>
+            <pubDate>Tue, 12 Jul 2022 17:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[돈 벌기 위해 갖춰야 할 아주 기본적인 태도.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/725b7f42-4141-402e-8a0c-a0aee4b79b12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 가장 핫한 광고 속 NEW 가상인간.zip]]></title>
             <link>https://www.elle.co.kr/article/67832</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 06 Jul 2022 17:52:38 GMT</pubDate>
             <content:encoded><![CDATA[좋아하는 일을 꾸준히 지속할 수 있는 감각.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/63cf52b7-45c1-4df9-a887-974855e2c125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 몸, 나의 선택! 미국 대법원이 여성의 임신 중단 권리를 박탈하다]]></title>
-            <link>https://www.elle.co.kr/article/67508</link>
-            <guid>https://www.elle.co.kr/article/67508</guid>
-            <pubDate>Wed, 06 Jul 2022 17:52:38 GMT</pubDate>
-            <content:encoded><![CDATA[여성의 몸과 권리에 대하여, 19세기 때 내린 결정으로 돌아간 미국 대법원의 판결.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/fb483ff9-0c86-43e3-890e-1a5cb4767142.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

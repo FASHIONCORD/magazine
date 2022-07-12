@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 05:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 17:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1300 인터뷰: 시드니에서 힙합하는 다섯 친구들]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34120659&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34120659&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 12 Jul 2022 17:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTJfOTgg/MDAxNjU3NjE5NjE1MjE5.B9CdMtuNoL9HSVO32kFbEce1OCaq04ngk_rdEcl0WIMg.kfzOBjkwwf3ewXd5gbUQKBo7BJ1hBS7_P1Wg1XmGHHAg.JPEG/ICZOQbjyz0juFNz6Ji6-AdHR8VI8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르세라핌 제작진 인터뷰: 하이브 최초의 걸그룹은 어떻게 탄생했을까?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34030918&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfMjc4/MDAxNjI5MTkzMDM2MDkx.GYZfw7dDnaXz_Majl_dlFEx8pCaooWmlJEAfayTjTm4g.QAplja_ic0UzIqUs6gkghnifAUUEm-2WDJHcf_V-enEg.JPEG/IO4gnt3cOJqJqLgohLwomjxlXrKM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[을씨년 인터뷰: 당신이 주목해야 하는 한국 힙합의 다음 세대]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31959907&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31959907&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfNjkg/MDAxNjI2MTY2MTE3Njg4.S6-5DdbnW7uuKUD6JNr23R8Va7HCzh1rYBHl9iwFC9Ag.PDnyZ4vowEqHgYhjuz8y3VSyDIeDmY7TZOl46ZgRkmEg.JPEG/IjK7sm9aIPQCSBUVG1WbTnbTMQCQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
