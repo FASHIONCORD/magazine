@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 17:56:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 05:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2335,6 +2335,14 @@
             <content:encoded><![CDATA[캘리 비맨의 그림 속 오묘한 얼굴들. 그리고 23인의 글로벌 아티스트가 담은 사랑에 대하여]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[파르페의 계절 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/67621</link>
+            <guid>https://www.elle.co.kr/article/67621</guid>
+            <pubDate>Tue, 12 Jul 2022 05:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[시각과 미각을 일깨울 추억 속 파르페]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/2945ead0-6baa-4dec-afb7-03a1d366df3d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[평범한 햄버거 NO! 비주얼부터 맛까지 힙한 성수동 버거 맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/67582</link>
             <guid>https://www.elle.co.kr/article/67582</guid>
@@ -2387,14 +2395,6 @@
             <pubDate>Wed, 29 Jun 2022 05:53:22 GMT</pubDate>
             <content:encoded><![CDATA[정통 스타일 소바부터 해장용 냉모밀까지. 시원한 냉모밀 맛집 리스트를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/1182788a-1ac4-4e1e-8fcf-d0ab51517c7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽이 다녀온 청량함 가득한 카페 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/67227</link>
-            <guid>https://www.elle.co.kr/article/67227</guid>
-            <pubDate>Mon, 27 Jun 2022 05:50:50 GMT</pubDate>
-            <content:encoded><![CDATA[더워지는 날씨, 얼음 동동 올라간 아이스 커피로 시원하게! 스타가 들른 커피 맛집을 소개합니다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/1ff97e1d-9e20-4c85-8793-8d54a76804f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 가장 핫한 광고 속 NEW 가상인간.zip (엘르 코리아 ─ 소사이어티)]]></title>
