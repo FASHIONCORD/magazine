@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 17:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 05:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국에서 전해진 낭보! 한국의 조세혁, 윔블던 U-14 단식 초대 챔피언 등극]]></title>
+            <link>https://www.elle.co.kr/article/67905</link>
+            <guid>https://www.elle.co.kr/article/67905</guid>
+            <pubDate>Wed, 13 Jul 2022 05:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[또 세계 무대에서 활약해버리는 한국인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/d483f787-1738-418e-babf-f97690623fca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10년에 한번 씩 연인 되는 사이!? 장나라X장혁의 20년 우정]]></title>
+            <link>https://www.elle.co.kr/article/67898</link>
+            <guid>https://www.elle.co.kr/article/67898</guid>
+            <pubDate>Wed, 13 Jul 2022 05:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[세 번째 드라마를 함께 할 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/e4efe468-2479-4076-a853-e32967d988a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서머 무드 물씬! 여름을 위한 헤어 컬러 추천 5]]></title>
+            <link>https://www.elle.co.kr/article/67883</link>
+            <guid>https://www.elle.co.kr/article/67883</guid>
+            <pubDate>Wed, 13 Jul 2022 05:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[여름맞이 기분 전환는  헤어 컬러 체인지로! 선미부터 수영, 제니까지 스타의 염색 스타일을 참...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/41aacf93-fcab-42ba-86e4-a210618f48ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름밤과 와인 한 잔! 무드 있는 와인바 리스트 3]]></title>
             <link>https://www.elle.co.kr/article/67876</link>
@@ -45,30 +69,6 @@
             <pubDate>Sat, 09 Jul 2022 17:45:41 GMT</pubDate>
             <content:encoded><![CDATA[SAAY의 음악적 비전을 세상에 알릴 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/90988ee5-8eca-4a1c-8389-97674d54a58f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['런닝맨'에서 헤어진 유재석X이광수, 디즈니+와 넷플릭스에서 재회? (feat. 김연경)]]></title>
-            <link>https://www.elle.co.kr/article/67831</link>
-            <guid>https://www.elle.co.kr/article/67831</guid>
-            <pubDate>Sat, 09 Jul 2022 17:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[예능계 대표 꿀조합을 다시 볼 수 있다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/c55f3c27-bf53-4765-a810-7555fec34679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋있는데 살까지 빠진다? 소유와 엄정화의 관리 비결, 서핑 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/67823</link>
-            <guid>https://www.elle.co.kr/article/67823</guid>
-            <pubDate>Fri, 08 Jul 2022 05:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[삶의 태도까지 달라지게 만들어 준다는 서핑.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/396c18cd-99e1-4ee6-83aa-f9c59c5f4176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/67822</link>
-            <guid>https://www.elle.co.kr/article/67822</guid>
-            <pubDate>Fri, 08 Jul 2022 05:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/614d0d79-3f76-41d4-a328-e6d12d42ac2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
