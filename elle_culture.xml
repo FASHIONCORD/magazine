@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 17:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 05:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/67822</link>
+            <guid>https://www.elle.co.kr/article/67822</guid>
+            <pubDate>Thu, 14 Jul 2022 05:52:30 GMT</pubDate>
+            <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/614d0d79-3f76-41d4-a328-e6d12d42ac2a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[근육있는 여자는 멋지다! 웹툰 진달래짐 과 여성전용운동공간 샤크짐의 조우]]></title>
             <link>https://www.elle.co.kr/article/67797</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 05 Jul 2022 17:50:13 GMT</pubDate>
             <content:encoded><![CDATA[OTT 기대작 대격돌!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/8e9961b2-f786-4cdf-889a-3e6ca06b1061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주 꼭 챙겨야 할, 지금 막 시작한 서울 전시 2 (feat. BTS가 설명하고 GD 다녀 감)]]></title>
-            <link>https://www.elle.co.kr/article/67489</link>
-            <guid>https://www.elle.co.kr/article/67489</guid>
-            <pubDate>Mon, 04 Jul 2022 17:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[지금 서울을 뜨겁게 만든 남다른 신규 전시들. 키워드는 2개 이상 장소에서 열릴 것! 서울시립...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/eb414d14-38a6-4dce-aa86-bf6b53da891a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

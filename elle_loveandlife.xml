@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 17:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 05:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나와 가족 만의 사적 시간을 위해! 체험과 볼거리 가득한 홍천 카페 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/67737</link>
+            <guid>https://www.elle.co.kr/article/67737</guid>
+            <pubDate>Thu, 14 Jul 2022 05:54:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/6c5b4607-8b29-4511-a4d5-10f7168df50a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파르페의 계절]]></title>
             <link>https://www.elle.co.kr/article/67621</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/67296</guid>
             <pubDate>Wed, 29 Jun 2022 05:53:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/a502745f-34a4-4375-9a87-12519707d515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실패 확률 0%! 냉소바 맛집 리스트 3]]></title>
-            <link>https://www.elle.co.kr/article/67252</link>
-            <guid>https://www.elle.co.kr/article/67252</guid>
-            <pubDate>Wed, 29 Jun 2022 05:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[정통 스타일 소바부터 해장용 냉모밀까지. 시원한 냉모밀 맛집 리스트를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/1182788a-1ac4-4e1e-8fcf-d0ab51517c7b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
