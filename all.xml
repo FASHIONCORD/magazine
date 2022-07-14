@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 17:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMjRfNjYg/MDAxNTQ1NjE5MTgwMDMw.lN7fAHWZpw8HfBu5WYoAc_pEvcP7FI90PzfCGf0M_KEg.YCi4pkgHHj6KaWdJfFd2YjgrxTCOXgfxJl2TykG_XoIg.JPEG/IaD6u17KYx5ieFZHMKMROlAmlJBk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지금 치러 가요 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/67640</link>
+            <guid>https://www.elle.co.kr/article/67640</guid>
+            <pubDate>Thu, 14 Jul 2022 17:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[그린 코트를 가로지르는 브랜드들의 협업이 일상에 신선한 자극을 불어넣고 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/670fde2e-e4b4-4d77-a03c-a90604fbc51d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여성의 몸에 대한 여섯가지 새로운 이미지 그리고 단상 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/67930</link>
             <guid>https://www.elle.co.kr/article/67930</guid>
@@ -1856,12 +1864,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/41aacf93-fcab-42ba-86e4-a210618f48ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마리옹 꼬띠아르를 더 빛나게 하는 샤넬 하이주얼리 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/67845</link>
-            <guid>https://www.elle.co.kr/article/67845</guid>
-            <pubDate>Mon, 11 Jul 2022 05:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 1932 하이 주얼리 컬렉션 출시 만찬에 참석한 인간 샤넬 마리옹 꼬띠아르 스타일링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/854e150f-b7e3-4979-8c9b-752f0a28be12.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[디올 뷰티, 나를 프랑스 리비에라로 데려가줘 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/67800</link>
+            <guid>https://www.elle.co.kr/article/67800</guid>
+            <pubDate>Thu, 14 Jul 2022 17:53:02 GMT</pubDate>
+            <content:encoded><![CDATA[산과 바다가 만나 천혜의 아름다운 풍광을 자아내는 곳, 한겨울에도 따사로운 공기에 매일이 평...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/61fceb8b-62f0-49ec-b64d-4f9859bc51eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서머 무드 물씬! 여름을 위한 헤어 컬러 추천 5 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1918,14 +1926,6 @@
             <pubDate>Thu, 07 Jul 2022 05:45:55 GMT</pubDate>
             <content:encoded><![CDATA[마사지 제품부터 향 관련 아이템까지 제니의 홈케어 루틴에 빠지지 않는 취향 듬뿍 담긴 아이템...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/19f17c94-eba5-46a7-908b-9a4221991547.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 뷰티로 완성한 김아현의 얼굴 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/67259</link>
-            <guid>https://www.elle.co.kr/article/67259</guid>
-            <pubDate>Fri, 08 Jul 2022 17:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[단순히 입술에 컬러를 입히는 걸 넘어, 당당함과 자신감을 채워주는 샤넬 루쥬 알뤼르 렉스트레...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/8565816d-ec64-43b9-a48d-b43bb1ee8eb8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영국에서 전해진 낭보! 한국의 조세혁, 윔블던 U-14 단식 초대 챔피언 등극 (엘르 코리아 ─ 스타)]]></title>
@@ -1991,6 +1991,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/90988ee5-8eca-4a1c-8389-97674d54a58f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['런닝맨'에서 헤어진 유재석X이광수, 디즈니+와 넷플릭스에서 재회? (feat. 김연경) (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/67831</link>
+            <guid>https://www.elle.co.kr/article/67831</guid>
+            <pubDate>Fri, 08 Jul 2022 05:48:16 GMT</pubDate>
+            <content:encoded><![CDATA[예능계 대표 꿀조합을 다시 볼 수 있다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/c55f3c27-bf53-4765-a810-7555fec34679.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/67822</link>
             <guid>https://www.elle.co.kr/article/67822</guid>
@@ -2044,14 +2052,6 @@
             <pubDate>Tue, 28 Jun 2022 05:49:44 GMT</pubDate>
             <content:encoded><![CDATA[그 동안 멤버들은 믹스 테잎 등 무료 공개 음원으로 솔로 활동을 해 왔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/80b3f18c-af3d-4da2-a8b2-fd315bfd3fe6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안나' vs '종이의 집' vs '최종병기 앨리스', OTT 신작 첫방 승자는? #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/67498</link>
-            <guid>https://www.elle.co.kr/article/67498</guid>
-            <pubDate>Mon, 27 Jun 2022 05:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[OTT 기대작 대격돌!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/8e9961b2-f786-4cdf-889a-3e6ca06b1061.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고? (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -2148,6 +2148,14 @@
             <content:encoded><![CDATA[키워드는 한강 노을섬, 해질녘, 초여름 바람, 그리고 뮤지션 10CM, 죠지(george), 유라(youra), 미...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[서브 남주요? 서브 아빠입니다. 갑자기 미남으로 보이는 '우영우' 정변호사 강기영 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/68002</link>
+            <guid>https://www.elle.co.kr/article/68002</guid>
+            <pubDate>Thu, 14 Jul 2022 17:56:20 GMT</pubDate>
+            <content:encoded><![CDATA[사실은 원래 훈훈했다는 후문...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/69c4513c-2618-49b8-a042-5582a822e658.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[결국 에미상 가는 '오징어게임', 이정재X정호연X박해수까지 13개 부문 노미네이트?! (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/67993</link>
             <guid>https://www.elle.co.kr/article/67993</guid>
@@ -2176,7 +2184,6 @@
             <link>https://www.elle.co.kr/article/67785</link>
             <guid>https://www.elle.co.kr/article/67785</guid>
             <pubDate>Wed, 06 Jul 2022 05:52:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/5efad94c-a46a-4b79-8485-e88dcf0a4520.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재욱-정소민의 사제 로맨스, 그런데 이제 삼각관계를 곁들인?! ‘환혼’ 서사 정리 #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -2231,13 +2238,6 @@
             <link>https://www.elle.co.kr/article/67284</link>
             <guid>https://www.elle.co.kr/article/67284</guid>
             <pubDate>Sun, 19 Jun 2022 17:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[톰 크루즈부터 탕웨이까지, '범죄도시2' 이후의 '천만 영화' 후보 3 ① (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/67262</link>
-            <guid>https://www.elle.co.kr/article/67262</guid>
-            <pubDate>Fri, 17 Jun 2022 05:45:47 GMT</pubDate>
-            <content:encoded><![CDATA[남은 6월 개봉하는 기대작들.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2335,6 +2335,13 @@
             <content:encoded><![CDATA[캘리 비맨의 그림 속 오묘한 얼굴들. 그리고 23인의 글로벌 아티스트가 담은 사랑에 대하여]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[악마의 '단짠' 베이컨 도넛과 싱그러운 셔벗이 있는 망원동 카페 3 #신상맛집 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/67765</link>
+            <guid>https://www.elle.co.kr/article/67765</guid>
+            <pubDate>Thu, 14 Jul 2022 17:57:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/3a43ffa7-7a4f-4662-b594-b968c418edfd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나와 가족 만의 사적 시간을 위해! 체험과 볼거리 가득한 홍천 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/67737</link>
             <guid>https://www.elle.co.kr/article/67737</guid>
@@ -2389,11 +2396,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/d83725f7-8749-4399-81f6-1e09713e916b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여기 한 번 가 보슈! 보은 대추와 제철 과일 디저트가 있는  보은 감성 카페 3 #소도시여행 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/67296</link>
-            <guid>https://www.elle.co.kr/article/67296</guid>
-            <pubDate>Wed, 29 Jun 2022 05:53:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/a502745f-34a4-4375-9a87-12519707d515.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우즈벡 유혈 시위-보리스 실각-아베 피격, 단 일주일 사이 세계에 벌어진 일 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/67868</link>
+            <guid>https://www.elle.co.kr/article/67868</guid>
+            <pubDate>Thu, 14 Jul 2022 17:57:55 GMT</pubDate>
+            <content:encoded><![CDATA[지금 세상엔 무슨 일이 벌어지고 있는 걸까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/40d73323-266a-4c95-ae00-1323e97107d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 가요, 우영우_요주의여성 #65 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -2450,14 +2458,6 @@
             <pubDate>Thu, 07 Jul 2022 17:55:35 GMT</pubDate>
             <content:encoded><![CDATA[우리가 당면한 인플레이션은 '나쁜 물가 상승'이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/0492138f-c316-41ee-a5a4-2298c6305faf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘르> 그린 서베이 참여하기! (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/67656</link>
-            <guid>https://www.elle.co.kr/article/67656</guid>
-            <pubDate>Thu, 07 Jul 2022 05:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[환경에 대한 당신의 솔직한 생각을 들려주세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/904ce7c7-8663-4dd5-9fd8-4065749e7b5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

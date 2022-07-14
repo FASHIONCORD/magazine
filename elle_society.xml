@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 17:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우즈벡 유혈 시위-보리스 실각-아베 피격, 단 일주일 사이 세계에 벌어진 일]]></title>
+            <link>https://www.elle.co.kr/article/67868</link>
+            <guid>https://www.elle.co.kr/article/67868</guid>
+            <pubDate>Thu, 14 Jul 2022 17:57:55 GMT</pubDate>
+            <content:encoded><![CDATA[지금 세상엔 무슨 일이 벌어지고 있는 걸까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/40d73323-266a-4c95-ae00-1323e97107d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함께 가요, 우영우_요주의여성 #65]]></title>
             <link>https://www.elle.co.kr/article/67863</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 17:55:35 GMT</pubDate>
             <content:encoded><![CDATA[우리가 당면한 인플레이션은 '나쁜 물가 상승'이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/0492138f-c316-41ee-a5a4-2298c6305faf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘르> 그린 서베이 참여하기!]]></title>
-            <link>https://www.elle.co.kr/article/67656</link>
-            <guid>https://www.elle.co.kr/article/67656</guid>
-            <pubDate>Thu, 07 Jul 2022 05:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[환경에 대한 당신의 솔직한 생각을 들려주세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/904ce7c7-8663-4dd5-9fd8-4065749e7b5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

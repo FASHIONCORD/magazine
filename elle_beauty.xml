@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 17:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디올 뷰티, 나를 프랑스 리비에라로 데려가줘]]></title>
+            <link>https://www.elle.co.kr/article/67800</link>
+            <guid>https://www.elle.co.kr/article/67800</guid>
+            <pubDate>Thu, 14 Jul 2022 17:53:02 GMT</pubDate>
+            <content:encoded><![CDATA[산과 바다가 만나 천혜의 아름다운 풍광을 자아내는 곳, 한겨울에도 따사로운 공기에 매일이 평...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/61fceb8b-62f0-49ec-b64d-4f9859bc51eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서머 무드 물씬! 여름을 위한 헤어 컬러 추천 5]]></title>
             <link>https://www.elle.co.kr/article/67883</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Jul 2022 17:50:26 GMT</pubDate>
             <content:encoded><![CDATA[마사지 제품부터 향 관련 아이템까지 제니의 홈케어 루틴에 빠지지 않는 취향 듬뿍 담긴 아이템...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/19f17c94-eba5-46a7-908b-9a4221991547.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 뷰티로 완성한 김아현의 얼굴]]></title>
-            <link>https://www.elle.co.kr/article/67259</link>
-            <guid>https://www.elle.co.kr/article/67259</guid>
-            <pubDate>Fri, 08 Jul 2022 17:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[단순히 입술에 컬러를 입히는 걸 넘어, 당당함과 자신감을 채워주는 샤넬 루쥬 알뤼르 렉스트레...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/8565816d-ec64-43b9-a48d-b43bb1ee8eb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
