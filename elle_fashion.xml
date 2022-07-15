@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 17:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펜디의 집으로 오세요]]></title>
+            <link>https://www.elle.co.kr/article/67986</link>
+            <guid>https://www.elle.co.kr/article/67986</guid>
+            <pubDate>Fri, 15 Jul 2022 17:48:26 GMT</pubDate>
+            <content:encoded><![CDATA[밀란의 중심을 궤뚫은 펜디 카사의 놀라운 집 이야기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/e7a36315-36e3-4198-b11a-95fbf0eea29c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시즌 2가 돌아왔다! '유미의 세포들' 김고은 VS 김고은 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/67954</link>
+            <guid>https://www.elle.co.kr/article/67954</guid>
+            <pubDate>Fri, 15 Jul 2022 17:48:26 GMT</pubDate>
+            <content:encoded><![CDATA['인생캐'를 만난 믿고 보는 배우 김고은. 드라마 '유미의 세포들'로 다시 돌아온 김고은의 시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/0341b0f7-b69c-4965-b3ab-a495e4f7b3d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타들의 BEST 여름 룩? 미니 드레스 스타일링]]></title>
+            <link>https://www.elle.co.kr/article/67950</link>
+            <guid>https://www.elle.co.kr/article/67950</guid>
+            <pubDate>Fri, 15 Jul 2022 17:48:26 GMT</pubDate>
+            <content:encoded><![CDATA[옷장 앞에서 옷을 고르기도 힘든 요즘 날씨! 고민없이 미니 드레스를 선택해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4afebd6f-798c-440d-8d1a-1b5a2886fb65.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 치러 가요]]></title>
             <link>https://www.elle.co.kr/article/67640</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 13 Jul 2022 17:48:22 GMT</pubDate>
             <content:encoded><![CDATA[차정원부터 장혜령까지 사복 천재들이 쿨하게 여름을 보내는 방법!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/1328115c-a6a9-4966-aae0-f01bafb25801.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 수영복은 비키니 말고 이거!]]></title>
-            <link>https://www.elle.co.kr/article/67637</link>
-            <guid>https://www.elle.co.kr/article/67637</guid>
-            <pubDate>Tue, 12 Jul 2022 17:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 자유분방한 에너지가 깃든 수영복 쇼핑 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/1aecc0af-ef5e-4fbd-ad46-d3fcf292dcd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 하나면 끝]]></title>
-            <link>https://www.elle.co.kr/article/67891</link>
-            <guid>https://www.elle.co.kr/article/67891</guid>
-            <pubDate>Mon, 11 Jul 2022 17:51:17 GMT</pubDate>
-            <content:encoded><![CDATA[기분 전환을 위한 반짝임. 이번 시즌을 강타한 강철 메탈에 대하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/49082141-1eaa-4a53-bad2-0ce95ab9b7da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머 무드 물씬! 여름을 위한 헤어 컬러 추천 5]]></title>
-            <link>https://www.elle.co.kr/article/67883</link>
-            <guid>https://www.elle.co.kr/article/67883</guid>
-            <pubDate>Mon, 11 Jul 2022 17:51:17 GMT</pubDate>
-            <content:encoded><![CDATA[여름맞이 기분 전환는  헤어 컬러 체인지로! 선미부터 수영, 제니까지 스타의 염색 스타일을 참...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/41aacf93-fcab-42ba-86e4-a210618f48ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

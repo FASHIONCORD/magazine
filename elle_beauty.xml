@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 17:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자랑하고픈 데오도란트]]></title>
+            <link>https://www.elle.co.kr/article/67947</link>
+            <guid>https://www.elle.co.kr/article/67947</guid>
+            <pubDate>Fri, 15 Jul 2022 17:48:36 GMT</pubDate>
+            <content:encoded><![CDATA[데오도란트가 예쁘기까지 하다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/2c7c9ca6-9d6f-4d2c-951c-7aa28a9fca75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타필드와 함께하는 이색 나이트 러닝 ‘엘르런(ELLE RUN)’ 개최!]]></title>
+            <link>https://www.elle.co.kr/article/67941</link>
+            <guid>https://www.elle.co.kr/article/67941</guid>
+            <pubDate>Fri, 15 Jul 2022 17:48:36 GMT</pubDate>
+            <content:encoded><![CDATA[매거진 엘르(ELLE) X 스타필드 코엑스몰의 만남]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/75272b9c-7a84-41b5-be25-2305ce7ef63e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갓생은 템빨? 강민경이 정착한 영양제 5]]></title>
+            <link>https://www.elle.co.kr/article/67925</link>
+            <guid>https://www.elle.co.kr/article/67925</guid>
+            <pubDate>Fri, 15 Jul 2022 17:48:36 GMT</pubDate>
+            <content:encoded><![CDATA[자기 관리 고수 강민경이 꾸준히 챙겨 먹는 영양제는 무엇일까요? 건강과 피부를 위해 그녀가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/02462ba5-dfc6-4883-be8e-cd1923bfaf97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디올 뷰티, 나를 프랑스 리비에라로 데려가줘]]></title>
             <link>https://www.elle.co.kr/article/67800</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 11 Jul 2022 17:51:28 GMT</pubDate>
             <content:encoded><![CDATA[삶의 태도까지 달라지게 만들어 준다는 서핑.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/396c18cd-99e1-4ee6-83aa-f9c59c5f4176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Off 모드마저 특별한 윤보미의 메이크업 팁]]></title>
-            <link>https://www.elle.co.kr/article/67817</link>
-            <guid>https://www.elle.co.kr/article/67817</guid>
-            <pubDate>Sun, 10 Jul 2022 17:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 날 활용 가능! 에이핑크 윤보미의 일상 버전 아이돌 메이크업에 도전해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/ffb951d5-71e4-49ee-8ef4-f1c073b1018c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[근육있는 여자는 멋지다! 웹툰 진달래짐 과 여성전용운동공간 샤크짐의 조우]]></title>
-            <link>https://www.elle.co.kr/article/67797</link>
-            <guid>https://www.elle.co.kr/article/67797</guid>
-            <pubDate>Sun, 10 Jul 2022 05:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[여자들의 아드레날린이 뿜어져 나오는 그 해방감의 현장 ! 그리고 인터뷰]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/fbd53b84-4596-40de-a560-7cfce2c124a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니의 미모 비결은? 제니's 홈케어 루틴 엿보기]]></title>
-            <link>https://www.elle.co.kr/article/67794</link>
-            <guid>https://www.elle.co.kr/article/67794</guid>
-            <pubDate>Fri, 08 Jul 2022 17:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[마사지 제품부터 향 관련 아이템까지 제니의 홈케어 루틴에 빠지지 않는 취향 듬뿍 담긴 아이템...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/19f17c94-eba5-46a7-908b-9a4221991547.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
