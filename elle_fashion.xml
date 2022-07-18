@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 17:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘리자베스 2세 여왕의 술과 함께한 밤]]></title>
+            <link>https://www.elle.co.kr/article/68051</link>
+            <guid>https://www.elle.co.kr/article/68051</guid>
+            <pubDate>Mon, 18 Jul 2022 17:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[향으로 기억되는 어느 밤. 왕실의 헤리티지와 함께 70년이란 세월을 켜켜이 품은 로얄살루트 위...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/32a72dc8-9e4b-42a3-b1a0-a0e86dad8445.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낭만 가득 바캉스 스타일링 2022 업데이트]]></title>
+            <link>https://www.elle.co.kr/article/68044</link>
+            <guid>https://www.elle.co.kr/article/68044</guid>
+            <pubDate>Mon, 18 Jul 2022 17:48:17 GMT</pubDate>
+            <content:encoded><![CDATA[호텔로, 휴양지로 바캉스를 떠난 스타들의 사진 속에서 찾은 바캉스 패션 힌트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f8f54b4e-317b-41c9-b9b3-5703057ef248.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[D라인 신드롬]]></title>
             <link>https://www.elle.co.kr/article/68043</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 15 Jul 2022 17:48:26 GMT</pubDate>
             <content:encoded><![CDATA[밀란의 중심을 궤뚫은 펜디 카사의 놀라운 집 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/e7a36315-36e3-4198-b11a-95fbf0eea29c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시즌 2가 돌아왔다! '유미의 세포들' 김고은 VS 김고은 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/67954</link>
-            <guid>https://www.elle.co.kr/article/67954</guid>
-            <pubDate>Fri, 15 Jul 2022 17:48:26 GMT</pubDate>
-            <content:encoded><![CDATA['인생캐'를 만난 믿고 보는 배우 김고은. 드라마 '유미의 세포들'로 다시 돌아온 김고은의 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/0341b0f7-b69c-4965-b3ab-a495e4f7b3d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들의 BEST 여름 룩? 미니 드레스 스타일링]]></title>
-            <link>https://www.elle.co.kr/article/67950</link>
-            <guid>https://www.elle.co.kr/article/67950</guid>
-            <pubDate>Fri, 15 Jul 2022 17:48:26 GMT</pubDate>
-            <content:encoded><![CDATA[옷장 앞에서 옷을 고르기도 힘든 요즘 날씨! 고민없이 미니 드레스를 선택해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4afebd6f-798c-440d-8d1a-1b5a2886fb65.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
