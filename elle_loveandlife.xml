@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 17:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름밤과 와인 한 잔! 무드 있는 와인바 리스트 3]]></title>
+            <link>https://www.elle.co.kr/article/67876</link>
+            <guid>https://www.elle.co.kr/article/67876</guid>
+            <pubDate>Tue, 19 Jul 2022 06:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[한남동부터 성수동까지! 근사한 저녁 식사를 즐기고 싶다면 셀러브리티가 방문한 와인바를 참고해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/b29e45b4-c07f-484d-83fe-f2fe655c826f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기분이 저기압일 땐 고기 앞으로! 한우에 화로구이 먹고 막국수로 입가심? 홍천 맛집 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/67799</link>
@@ -60,14 +68,6 @@
             <pubDate>Tue, 05 Jul 2022 05:49:06 GMT</pubDate>
             <content:encoded><![CDATA[난 어떤 병에 걸리기 쉬울까? 내 조상 중에 아프리카 사람이 있다고? CircleDNA 체험기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/f12d0131-9543-4de7-955b-22fef19b59c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40년 전통 냉면과 16첩 반상까지, 맛과 양 다 잡은 보은 맛집 3  #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/67382</link>
-            <guid>https://www.elle.co.kr/article/67382</guid>
-            <pubDate>Mon, 04 Jul 2022 05:55:14 GMT</pubDate>
-            <content:encoded><![CDATA[속리산 산채비빔밥도 별미.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/e49f6530-190c-42b5-812a-fce83c456cca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

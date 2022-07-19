@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 17:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서브 남주요? 서브 아빠입니다. 갑자기 미남으로 보이는 '우영우' 정변호사 강기영]]></title>
+            <link>https://www.elle.co.kr/article/68002</link>
+            <guid>https://www.elle.co.kr/article/68002</guid>
+            <pubDate>Tue, 19 Jul 2022 06:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[사실은 원래 훈훈했다는 후문...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/69c4513c-2618-49b8-a042-5582a822e658.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결국 에미상 가는 '오징어게임', 이정재X정호연X박해수까지 13개 부문 노미네이트?!]]></title>
             <link>https://www.elle.co.kr/article/67993</link>
@@ -62,13 +70,6 @@
             <pubDate>Tue, 12 Jul 2022 17:47:32 GMT</pubDate>
             <content:encoded><![CDATA[여자들의 아드레날린이 뿜어져 나오는 그 해방감의 현장 ! 그리고 인터뷰]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/fbd53b84-4596-40de-a560-7cfce2c124a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['베테랑2'가 나온다. 유아인을 잇는 새 빌런으로 거론되는 건 이 사람이다]]></title>
-            <link>https://www.elle.co.kr/article/67785</link>
-            <guid>https://www.elle.co.kr/article/67785</guid>
-            <pubDate>Mon, 11 Jul 2022 17:52:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/5efad94c-a46a-4b79-8485-e88dcf0a4520.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

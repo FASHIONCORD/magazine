@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 17:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우영우'의 다정 남주 강태오, 알고 보니 서강준과 이런 사이였다고?]]></title>
+            <link>https://www.elle.co.kr/article/68052</link>
+            <guid>https://www.elle.co.kr/article/68052</guid>
+            <pubDate>Tue, 19 Jul 2022 06:01:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/17/a6bf413e-7a08-46c3-842a-8d5b68f92b2f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서브 남주요? 서브 아빠입니다. 갑자기 미남으로 보이는 '우영우' 정변호사 강기영]]></title>
+            <link>https://www.elle.co.kr/article/68002</link>
+            <guid>https://www.elle.co.kr/article/68002</guid>
+            <pubDate>Tue, 19 Jul 2022 06:01:06 GMT</pubDate>
+            <content:encoded><![CDATA[사실은 원래 훈훈했다는 후문...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/69c4513c-2618-49b8-a042-5582a822e658.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결국 에미상 가는 '오징어게임', 이정재X정호연X박해수까지 13개 부문 노미네이트?!]]></title>
             <link>https://www.elle.co.kr/article/67993</link>
@@ -54,22 +69,6 @@
             <pubDate>Fri, 15 Jul 2022 17:49:17 GMT</pubDate>
             <content:encoded><![CDATA['인생캐'를 만난 믿고 보는 배우 김고은. 드라마 '유미의 세포들'로 다시 돌아온 김고은의 시...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/0341b0f7-b69c-4965-b3ab-a495e4f7b3d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글루텐 NO, 다이어트 YES! 키토 베이커리 추천 2]]></title>
-            <link>https://www.elle.co.kr/article/67953</link>
-            <guid>https://www.elle.co.kr/article/67953</guid>
-            <pubDate>Fri, 15 Jul 2022 17:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[빵은 좋지만 과다한 탄수화물과 당분 때문에 망설여진다면 주목하세요! 아나운서 이혜성이 찾은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4018c648-eb26-444c-93c1-7f82f0e5593d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음식 양이 어마어마! 갑자기 갑론을박 일으킨 왕손예진 결혼 후 요리들.jpg]]></title>
-            <link>https://www.elle.co.kr/article/67942</link>
-            <guid>https://www.elle.co.kr/article/67942</guid>
-            <pubDate>Fri, 15 Jul 2022 17:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[금손이자 왕손.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/806284b8-965f-42bb-9fac-67af49ef1ea9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
