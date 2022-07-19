@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 06:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 17:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요리로 태교 중? 손예진, 이번엔 정갈함 그 자체인 신혼 밥상 대공개! (feat. 현빈 수저)]]></title>
+            <link>https://www.elle.co.kr/article/68077</link>
+            <guid>https://www.elle.co.kr/article/68077</guid>
+            <pubDate>Tue, 19 Jul 2022 17:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[한식부터 양식까지 다채로운 메뉴 선정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/610ceecc-58a2-443e-8ee6-1203eeef966a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 조합 칭찬해! 에이핑크 첫 번째 공식 유닛 '초봄']]></title>
+            <link>https://www.elle.co.kr/article/68028</link>
+            <guid>https://www.elle.co.kr/article/68028</guid>
+            <pubDate>Tue, 19 Jul 2022 17:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[유기견에 대한 애정으로 &lt;엘르&gt; 펫 특집 화보에 등장한 에이핑크 초롱과 보미.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/482d0705-d1d3-4d52-bc54-433af51c8504.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우영우'의 다정 남주 강태오, 알고 보니 서강준과 이런 사이였다고?]]></title>
             <link>https://www.elle.co.kr/article/68052</link>
@@ -53,22 +69,6 @@
             <pubDate>Sun, 17 Jul 2022 17:44:03 GMT</pubDate>
             <content:encoded><![CDATA[인싸가 되고싶다면? 인생네컷 이렇게 찍어야죠! 스타의 개성만점 인생네컷 포즈를 참고해보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/dbf1deba-9fa2-4058-9276-8542f57b9117.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내추럴 와인에 매료된 여자들]]></title>
-            <link>https://www.elle.co.kr/article/67641</link>
-            <guid>https://www.elle.co.kr/article/67641</guid>
-            <pubDate>Fri, 15 Jul 2022 17:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[신간 &lt;와인에 쓸데없는 건 넣고 싶지 않아요&gt;의 저자 카밀라 예르데와 나눈 와인과 여자들에 대...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/430757ca-4acb-4b67-9602-3d9241294c84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시즌 2가 돌아왔다! '유미의 세포들' 김고은 VS 김고은 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/67954</link>
-            <guid>https://www.elle.co.kr/article/67954</guid>
-            <pubDate>Fri, 15 Jul 2022 17:49:17 GMT</pubDate>
-            <content:encoded><![CDATA['인생캐'를 만난 믿고 보는 배우 김고은. 드라마 '유미의 세포들'로 다시 돌아온 김고은의 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/0341b0f7-b69c-4965-b3ab-a495e4f7b3d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
