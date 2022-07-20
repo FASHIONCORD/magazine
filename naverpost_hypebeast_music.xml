@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 05:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 17:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 드디어 돌아온 여름 페스티벌 7]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34166235&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34166235&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 20 Jul 2022 17:46:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjBfNDYg/MDAxNjU4MzAzNTMzOTM3.KMVBQ_Nh4ka32mbOWb7mc1lyL5OM8H33IP9t6he09v8g.4Gxola8U86i45CwBqADB0bQN1IiULSbpfheq8Df7OEsg.JPEG/IjT0byjAXFc-0gNn5T6bssV0Nunw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1300 인터뷰: 시드니에서 힙합하는 다섯 친구들]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34120659&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMjQ1/MDAxNjMxNzgwNjQyNDYx.6OsYNMCYeIzMXOINd_9JKshD-b_v5ARpIuVb7nJprhEg.JAQx-tErlVzi0zrGsq3RlApbRfU-daIcRaAudSl8XkQg.JPEG/IRdE1R39zYQCFtUqZTty6gKaf1Hc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝스타부터 틱톡커까지, 블랙핑크 제니 & 로제가 만난 셀럽들]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32185745&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32185745&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTdfMjc4/MDAxNjI5MTkzMDM2MDkx.GYZfw7dDnaXz_Majl_dlFEx8pCaooWmlJEAfayTjTm4g.QAplja_ic0UzIqUs6gkghnifAUUEm-2WDJHcf_V-enEg.JPEG/IO4gnt3cOJqJqLgohLwomjxlXrKM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

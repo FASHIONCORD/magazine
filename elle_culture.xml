@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 05:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 17:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 특별한 로맨스와 봄날의 햇살 같은 우정! '이상한 변호사 우영우' 관계성 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/68082</link>
+            <guid>https://www.elle.co.kr/article/68082</guid>
+            <pubDate>Wed, 20 Jul 2022 17:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[우영우 주변에 가득한 따뜻함.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/a61110cb-4e9f-4396-8a2a-7d7cc85ab05f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2]]></title>
+            <link>https://www.elle.co.kr/article/68027</link>
+            <guid>https://www.elle.co.kr/article/68027</guid>
+            <pubDate>Wed, 20 Jul 2022 17:48:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/b74dee61-fd50-451f-a3bd-aa3ca9e322f1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이키의 디지털 놀이터, '나이키 스타일 홍대']]></title>
             <link>https://www.elle.co.kr/article/68017</link>
@@ -54,22 +69,6 @@
             <pubDate>Fri, 15 Jul 2022 06:00:39 GMT</pubDate>
             <content:encoded><![CDATA[또 세계 무대에서 활약해버리는 한국인.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/d483f787-1738-418e-babf-f97690623fca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['런닝맨'에서 헤어진 유재석X이광수, 디즈니+와 넷플릭스에서 재회? (feat. 김연경)]]></title>
-            <link>https://www.elle.co.kr/article/67831</link>
-            <guid>https://www.elle.co.kr/article/67831</guid>
-            <pubDate>Thu, 14 Jul 2022 17:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[예능계 대표 꿀조합을 다시 볼 수 있다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/c55f3c27-bf53-4765-a810-7555fec34679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장마를 뚫고! 실내 데이트를 위한 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/67822</link>
-            <guid>https://www.elle.co.kr/article/67822</guid>
-            <pubDate>Thu, 14 Jul 2022 05:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/614d0d79-3f76-41d4-a328-e6d12d42ac2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

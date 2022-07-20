@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 05:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 17:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입대 전 마지막 드라마가 '우영우'? 유니콘 남주 강태오 출연 드라마 3]]></title>
+            <link>https://www.elle.co.kr/article/68139</link>
+            <guid>https://www.elle.co.kr/article/68139</guid>
+            <pubDate>Wed, 20 Jul 2022 17:49:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/d48421e6-49aa-4259-a468-4aa30791480e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니, 첫 연기 도전을 HBO 드라마에서! 조니 뎁 딸도 나오는 <디 아이돌> 내용은?]]></title>
             <link>https://www.elle.co.kr/article/68097</link>
@@ -35,7 +42,6 @@
             <guid>https://www.elle.co.kr/article/68002</guid>
             <pubDate>Thu, 14 Jul 2022 17:56:20 GMT</pubDate>
             <content:encoded><![CDATA[사실은 원래 훈훈했다는 후문...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/69c4513c-2618-49b8-a042-5582a822e658.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결국 에미상 가는 '오징어게임', 이정재X정호연X박해수까지 13개 부문 노미네이트?!]]></title>
@@ -91,13 +97,6 @@
             <guid>https://www.elle.co.kr/article/67419</guid>
             <pubDate>Fri, 24 Jun 2022 17:47:09 GMT</pubDate>
             <content:encoded><![CDATA[그의 뛰어난 관찰력과 표현력은 이미 모두가 알고 있는 바.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구준엽이 직접 밝힌 서희원과 처음 헤어지던 날, 그리고 결혼 관련 루머 셋 (feat. 투샷 모음)]]></title>
-            <link>https://www.elle.co.kr/article/67416</link>
-            <guid>https://www.elle.co.kr/article/67416</guid>
-            <pubDate>Fri, 24 Jun 2022 17:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[처음 공개하는 아내 서희원과의 사진들도.]]></content:encoded>
         </item>
     </channel>
 </rss>
