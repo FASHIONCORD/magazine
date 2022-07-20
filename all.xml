@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 17:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 05:49:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2336,6 +2336,14 @@
             <content:encoded><![CDATA[MZ세대를 중심으로 아트 신에 새로운 바람이 불었다. 그들을 낱낱이 파헤쳐보는 시간.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뉴욕식 타코에 타이식 치킨? 여권 없이 미식 여행 가능한 #신상맛집 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/67931</link>
+            <guid>https://www.elle.co.kr/article/67931</guid>
+            <pubDate>Wed, 20 Jul 2022 05:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[서울숲-삼각지-한남에 새로 생긴 맛집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/b1488c00-ceb1-4d62-b8c8-33a302669ac2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여름밤과 와인 한 잔! 무드 있는 와인바 리스트 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/67876</link>
             <guid>https://www.elle.co.kr/article/67876</guid>
@@ -2388,14 +2396,6 @@
             <pubDate>Wed, 06 Jul 2022 05:53:16 GMT</pubDate>
             <content:encoded><![CDATA[남영동에서 해방촌, 한남을 어우르는 용산구 맛집들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/d5924a21-168d-4237-b18d-aa8f6596c868.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBTI보다 100배 정확해! 20만원으로 내 유전자의 비밀을 아는 법 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/67485</link>
-            <guid>https://www.elle.co.kr/article/67485</guid>
-            <pubDate>Thu, 30 Jun 2022 05:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[난 어떤 병에 걸리기 쉬울까? 내 조상 중에 아프리카 사람이 있다고? CircleDNA 체험기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/f12d0131-9543-4de7-955b-22fef19b59c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[55조원에 트위터 산다며? 일론 머스크가 두 달 만에 말 뒤집은 이유 (엘르 코리아 ─ 소사이어티)]]></title>
