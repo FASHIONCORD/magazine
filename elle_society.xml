@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 17:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 05:54:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도대체 엔화가 왜 이러지?_돈쓸신잡 #54]]></title>
+            <link>https://www.elle.co.kr/article/68011</link>
+            <guid>https://www.elle.co.kr/article/68011</guid>
+            <pubDate>Thu, 21 Jul 2022 05:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[환율의 힘은 강하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/3b1b6a94-73e6-493a-a229-086b4dd4de2b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['육아스타그램'의 다른 이름 '셰어런팅', 그런데 아기들의 프라이버시는?]]></title>
+            <link>https://www.elle.co.kr/article/67962</link>
+            <guid>https://www.elle.co.kr/article/67962</guid>
+            <pubDate>Thu, 21 Jul 2022 05:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[부모가 선을 잘 지키는 것이 중요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/3f8c26b1-f48f-4b57-b96a-6c7cfd8aefd2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[55조원에 트위터 산다며? 일론 머스크가 두 달 만에 말 뒤집은 이유]]></title>
             <link>https://www.elle.co.kr/article/67938</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 12 Jul 2022 17:51:04 GMT</pubDate>
             <content:encoded><![CDATA[돈 벌기 위해 갖춰야 할 아주 기본적인 태도.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/725b7f42-4141-402e-8a0c-a0aee4b79b12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 핫한 광고 속 NEW 가상인간.zip]]></title>
-            <link>https://www.elle.co.kr/article/67832</link>
-            <guid>https://www.elle.co.kr/article/67832</guid>
-            <pubDate>Sun, 10 Jul 2022 17:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[‘괴물 신인’이라는 별명을 가진 지금 가장 핫한 버추얼 인플루언서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ab5fc8ec-c264-4727-aeee-32820a734bf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왼쪽 눈의 시력이 거의 사라졌다. 그 이후 보게 된 것들]]></title>
-            <link>https://www.elle.co.kr/article/67819</link>
-            <guid>https://www.elle.co.kr/article/67819</guid>
-            <pubDate>Sat, 09 Jul 2022 05:48:17 GMT</pubDate>
-            <content:encoded><![CDATA[백세희 작가가 입원 후 알게된 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/265b2ffe-e0e4-4b29-b1c6-39a7792c501f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

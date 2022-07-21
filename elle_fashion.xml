@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 17:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 05:54:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 여름엔 '캡'이야!]]></title>
+            <link>https://www.elle.co.kr/article/68093</link>
+            <guid>https://www.elle.co.kr/article/68093</guid>
+            <pubDate>Thu, 21 Jul 2022 05:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[쿨한 써머룩엔 볼 캡이 필수지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/84e9ad18-ca62-4146-b0f1-a2e37288102d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름에 머리 묶는 법? 기장별 묶음 머리 TIP]]></title>
             <link>https://www.elle.co.kr/article/68085</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 17 Jul 2022 17:42:44 GMT</pubDate>
             <content:encoded><![CDATA[느슨한 머터니티 룩에 긴장감을 주는 오늘날의 D라인에 관하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/5f206053-d497-4452-b1c0-38792f4a3906.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키의 디지털 놀이터, '나이키 스타일 홍대']]></title>
-            <link>https://www.elle.co.kr/article/68017</link>
-            <guid>https://www.elle.co.kr/article/68017</guid>
-            <pubDate>Sun, 17 Jul 2022 17:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[디지털과 스포츠의 만남을 창의적으로 경험할 수 있는 새로운 공간!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/aa3e906d-2633-4ca7-a3ec-38bf0f847a4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
