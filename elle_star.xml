@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 17:54:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우영우' 정변호사 댁이 그렇게 좋다면서요? 대저택 급인 강기영의 스위트 홈]]></title>
+            <link>https://www.elle.co.kr/article/68167</link>
+            <guid>https://www.elle.co.kr/article/68167</guid>
+            <pubDate>Fri, 22 Jul 2022 17:51:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/960c5411-17d8-4452-9070-6e22faeaa573.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다음 주라도 결혼 가능?! 현아와 던이 직접 밝힌 프러포즈 이후 이야기]]></title>
             <link>https://www.elle.co.kr/article/68162</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/68097</guid>
             <pubDate>Fri, 22 Jul 2022 05:49:24 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/b4013dd5-3d35-4907-960b-96c579ef599e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예쁘고 우아한 거 다 해! 카즈하가 발레복을 입은 이유]]></title>
-            <link>https://www.elle.co.kr/article/68080</link>
-            <guid>https://www.elle.co.kr/article/68080</guid>
-            <pubDate>Fri, 22 Jul 2022 05:49:24 GMT</pubDate>
-            <content:encoded><![CDATA[르세라핌의 비밀병기 카즈하와 엘르의 첫 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/ac6c4cc6-7b58-444b-af61-0fb75ca98396.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

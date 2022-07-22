@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 17:54:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글루텐 NO, 다이어트 YES! 키토 베이커리 추천 2]]></title>
+            <link>https://www.elle.co.kr/article/67953</link>
+            <guid>https://www.elle.co.kr/article/67953</guid>
+            <pubDate>Fri, 22 Jul 2022 17:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[빵은 좋지만 과다한 탄수화물과 당분 때문에 망설여진다면 주목하세요! 아나운서 이혜성이 찾은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4018c648-eb26-444c-93c1-7f82f0e5593d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴욕식 타코에 타이식 치킨? 여권 없이 미식 여행 가능한 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/67931</link>
@@ -60,14 +68,6 @@
             <pubDate>Sat, 09 Jul 2022 05:47:55 GMT</pubDate>
             <content:encoded><![CDATA[미국이야? 서울이야? 황승언이 들른 힙한 버거집부터 아메리칸 버거 챔피언 출신 셰프의 버거집...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/83872038-9000-4db8-a1be-9f895a0e1d52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 저녁엔 와인? 전통주? 장마철 술 생각 날 때 가기 좋은 용산구 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/67537</link>
-            <guid>https://www.elle.co.kr/article/67537</guid>
-            <pubDate>Wed, 06 Jul 2022 05:53:16 GMT</pubDate>
-            <content:encoded><![CDATA[남영동에서 해방촌, 한남을 어우르는 용산구 맛집들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/d5924a21-168d-4237-b18d-aa8f6596c868.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

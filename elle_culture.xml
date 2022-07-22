@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 17:54:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니, 첫 연기 도전을 HBO 드라마에서! 조니 뎁 딸도 나오는 <디 아이돌> 내용은?]]></title>
+            <link>https://www.elle.co.kr/article/68097</link>
+            <guid>https://www.elle.co.kr/article/68097</guid>
+            <pubDate>Fri, 22 Jul 2022 17:51:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/b4013dd5-3d35-4907-960b-96c579ef599e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고와 강혜원의 별이 빛나는 밤]]></title>
+            <link>https://www.elle.co.kr/article/68075</link>
+            <guid>https://www.elle.co.kr/article/68075</guid>
+            <pubDate>Fri, 22 Jul 2022 17:51:32 GMT</pubDate>
+            <content:encoded><![CDATA[‘레고 아이디어 빈센트 반 고흐- 별이 빛나는 밤’과 가장 잘 어울리는 스물셋 청춘 스타 강...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/0e22ab62-a29c-4aea-a72c-993d6ae15bad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 특별한 로맨스와 봄날의 햇살 같은 우정! '이상한 변호사 우영우' 관계성 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/68082</link>
@@ -53,22 +68,6 @@
             <pubDate>Mon, 18 Jul 2022 17:49:38 GMT</pubDate>
             <content:encoded><![CDATA[매거진 엘르(ELLE) X 스타필드 코엑스몰의 만남]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/75272b9c-7a84-41b5-be25-2305ce7ef63e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이상한 변호사 우영우’의 문지원 작가, 알고 보니 휴먼법정물 '증인'도 썼다?! #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/67913</link>
-            <guid>https://www.elle.co.kr/article/67913</guid>
-            <pubDate>Mon, 18 Jul 2022 17:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[변호사를 꿈꾸던 ‘증인’의 지우가 ‘이상한 변호사 우영우’로 돌아왔다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/4bb0be30-1e4b-4c27-a8f1-defa58b0d5c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국에서 전해진 낭보! 한국의 조세혁, 윔블던 U-14 단식 초대 챔피언 등극]]></title>
-            <link>https://www.elle.co.kr/article/67905</link>
-            <guid>https://www.elle.co.kr/article/67905</guid>
-            <pubDate>Fri, 15 Jul 2022 06:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[또 세계 무대에서 활약해버리는 한국인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/d483f787-1738-418e-babf-f97690623fca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
