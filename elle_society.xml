@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 17:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:53:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘안나’를 생각하며_요주의여성 #66]]></title>
+            <link>https://www.elle.co.kr/article/68024</link>
+            <guid>https://www.elle.co.kr/article/68024</guid>
+            <pubDate>Fri, 22 Jul 2022 05:53:53 GMT</pubDate>
+            <content:encoded><![CDATA[미워할 수 없는 거짓말쟁이, 안나.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/5fde7b69-6591-4d66-a976-c016793eed95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도대체 엔화가 왜 이러지?_돈쓸신잡 #54]]></title>
             <link>https://www.elle.co.kr/article/68011</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Jul 2022 17:52:50 GMT</pubDate>
             <content:encoded><![CDATA[&lt;이상한 변호사 우영우&gt;가 우리에게 필요한 이유.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/5c6af453-5d59-4385-8cda-aa4d2b46a7c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돈 버는 사람들이 가진 강철 멘탈_돈쓸신잡 #53]]></title>
-            <link>https://www.elle.co.kr/article/67835</link>
-            <guid>https://www.elle.co.kr/article/67835</guid>
-            <pubDate>Tue, 12 Jul 2022 17:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[돈 벌기 위해 갖춰야 할 아주 기본적인 태도.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/725b7f42-4141-402e-8a0c-a0aee4b79b12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
