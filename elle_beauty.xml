@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 05:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 17:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름에 머리 묶는 법? 기장별 묶음 머리 TIP]]></title>
+            <link>https://www.elle.co.kr/article/68085</link>
+            <guid>https://www.elle.co.kr/article/68085</guid>
+            <pubDate>Sun, 24 Jul 2022 17:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[눈치 없이 달라붙는 머리카락으로부터 해방되는 방법! 스타들의 묶음 헤어 스타일링을 확인해 보...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/a9beeaac-60f5-436f-91b3-884ec3d10dcc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭염에 뒤집어진 피부의 진정 법칙_선배's 어드바이스 #126]]></title>
             <link>https://www.elle.co.kr/article/68078</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Jul 2022 17:48:36 GMT</pubDate>
             <content:encoded><![CDATA[데오도란트가 예쁘기까지 하다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/2c7c9ca6-9d6f-4d2c-951c-7aa28a9fca75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타필드와 함께하는 이색 나이트 러닝 ‘엘르런(ELLE RUN)’ 개최!]]></title>
-            <link>https://www.elle.co.kr/article/67941</link>
-            <guid>https://www.elle.co.kr/article/67941</guid>
-            <pubDate>Fri, 15 Jul 2022 17:48:36 GMT</pubDate>
-            <content:encoded><![CDATA[매거진 엘르(ELLE) X 스타필드 코엑스몰의 만남]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/75272b9c-7a84-41b5-be25-2305ce7ef63e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

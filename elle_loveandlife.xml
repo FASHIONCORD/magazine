@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 05:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 17:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손에 꼽히는 서울 6대 평냉 맛집! 상황별 추천편]]></title>
+            <link>https://www.elle.co.kr/article/68006</link>
+            <guid>https://www.elle.co.kr/article/68006</guid>
+            <pubDate>Sun, 24 Jul 2022 17:50:04 GMT</pubDate>
+            <content:encoded><![CDATA[평양냉면의 미묘한 차이를 아실는지. 해장에 제일인 곳? 이른 저녁 술 없이도 호사를 누리고 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/31cdfa4f-ef53-4945-a8a0-970fae74285e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글루텐 NO, 다이어트 YES! 키토 베이커리 추천 2]]></title>
             <link>https://www.elle.co.kr/article/67953</link>
@@ -60,14 +68,6 @@
             <pubDate>Tue, 12 Jul 2022 05:58:33 GMT</pubDate>
             <content:encoded><![CDATA[시각과 미각을 일깨울 추억 속 파르페]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/2945ead0-6baa-4dec-afb7-03a1d366df3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범한 햄버거 NO! 비주얼부터 맛까지 힙한 성수동 버거 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/67582</link>
-            <guid>https://www.elle.co.kr/article/67582</guid>
-            <pubDate>Sat, 09 Jul 2022 05:47:55 GMT</pubDate>
-            <content:encoded><![CDATA[미국이야? 서울이야? 황승언이 들른 힙한 버거집부터 아메리칸 버거 챔피언 출신 셰프의 버거집...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/83872038-9000-4db8-a1be-9f895a0e1d52.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

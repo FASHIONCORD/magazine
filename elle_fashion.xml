@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 05:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 17:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청순하고 귀엽고 싶어? 블라우스 스타일링 & 쇼핑 리스트]]></title>
+            <link>https://www.elle.co.kr/article/68175</link>
+            <guid>https://www.elle.co.kr/article/68175</guid>
+            <pubDate>Sun, 24 Jul 2022 17:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[러플, 아일렛, 퍼프 등 사랑스러운 디테일의 블라우스로 센스만점 청량미 넘치는 서머 데일리 룩...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/9489fdfd-312a-473d-b94b-53add8241f33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나만 신고 싶은 것부터 애인이랑 같이 신고 싶은 운동화까지]]></title>
             <link>https://www.elle.co.kr/article/68173</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Jul 2022 05:49:04 GMT</pubDate>
             <content:encoded><![CDATA[쿨한 써머룩엔 볼 캡이 필수지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/84e9ad18-ca62-4146-b0f1-a2e37288102d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름에 머리 묶는 법? 기장별 묶음 머리 TIP]]></title>
-            <link>https://www.elle.co.kr/article/68085</link>
-            <guid>https://www.elle.co.kr/article/68085</guid>
-            <pubDate>Wed, 20 Jul 2022 17:47:30 GMT</pubDate>
-            <content:encoded><![CDATA[눈치 없이 달라붙는 머리카락으로부터 해방되는 방법! 스타들의 묶음 헤어 스타일링을 확인해 보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/a9beeaac-60f5-436f-91b3-884ec3d10dcc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
