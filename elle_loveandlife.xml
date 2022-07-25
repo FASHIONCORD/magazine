@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 17:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이영자처럼 패러글라이딩하고, 도담삼봉 빙수 흡입하기! 단양 카페 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/68045</link>
+            <guid>https://www.elle.co.kr/article/68045</guid>
+            <pubDate>Mon, 25 Jul 2022 17:52:28 GMT</pubDate>
+            <content:encoded><![CDATA[단양 특산물 마늘에 진심인 카페도.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/c69a0f75-7be4-4500-929f-343530199e90.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손에 꼽히는 서울 6대 평냉 맛집! 상황별 추천편]]></title>
             <link>https://www.elle.co.kr/article/68006</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/67737</guid>
             <pubDate>Thu, 14 Jul 2022 05:54:13 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/6c5b4607-8b29-4511-a4d5-10f7168df50a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파르페의 계절]]></title>
-            <link>https://www.elle.co.kr/article/67621</link>
-            <guid>https://www.elle.co.kr/article/67621</guid>
-            <pubDate>Tue, 12 Jul 2022 05:58:33 GMT</pubDate>
-            <content:encoded><![CDATA[시각과 미각을 일깨울 추억 속 파르페]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/2945ead0-6baa-4dec-afb7-03a1d366df3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
