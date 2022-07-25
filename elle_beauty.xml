@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 17:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 05:55:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 파운데이션 하나 하셔야죠?]]></title>
+            <link>https://www.elle.co.kr/article/68092</link>
+            <guid>https://www.elle.co.kr/article/68092</guid>
+            <pubDate>Mon, 25 Jul 2022 05:49:08 GMT</pubDate>
+            <content:encoded><![CDATA[모든 게 완벽한 여름 파운데이션 7.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/9125e3cc-9bce-420a-b238-533f7cc673ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름에 머리 묶는 법? 기장별 묶음 머리 TIP]]></title>
             <link>https://www.elle.co.kr/article/68085</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Jul 2022 17:48:36 GMT</pubDate>
             <content:encoded><![CDATA[빵은 좋지만 과다한 탄수화물과 당분 때문에 망설여진다면 주목하세요! 아나운서 이혜성이 찾은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4018c648-eb26-444c-93c1-7f82f0e5593d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자랑하고픈 데오도란트]]></title>
-            <link>https://www.elle.co.kr/article/67947</link>
-            <guid>https://www.elle.co.kr/article/67947</guid>
-            <pubDate>Fri, 15 Jul 2022 17:48:36 GMT</pubDate>
-            <content:encoded><![CDATA[데오도란트가 예쁘기까지 하다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/2c7c9ca6-9d6f-4d2c-951c-7aa28a9fca75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
