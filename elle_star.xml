@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 17:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 06:02:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름휴가 여기 어때?! 스타들이 선택한 국내 여행지]]></title>
+            <link>https://www.elle.co.kr/article/68181</link>
+            <guid>https://www.elle.co.kr/article/68181</guid>
+            <pubDate>Tue, 26 Jul 2022 05:59:37 GMT</pubDate>
+            <content:encoded><![CDATA[기다리던 여름휴가, 어디로 떠나야 할지 아직 정하지 못했다면? 셀러브리티의 국내 여행 스토리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/2ae62516-0d11-4500-a4f4-3d2959011ced.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이래도 단발 안 해? 단발 뽐뿌를 부르는 스타들]]></title>
             <link>https://www.elle.co.kr/article/68176</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/68128</guid>
             <pubDate>Fri, 22 Jul 2022 05:49:24 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/4aa720d9-e7c1-45f3-8246-c5b23f70bdcf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절대 안 들키는 태리표 변장술..? 김태리의 운전 실력 & '외계+인' 비하인드 대공개]]></title>
-            <link>https://www.elle.co.kr/article/68111</link>
-            <guid>https://www.elle.co.kr/article/68111</guid>
-            <pubDate>Fri, 22 Jul 2022 05:49:24 GMT</pubDate>
-            <content:encoded><![CDATA[김태리가 '외계+인 1부' 영화배우들을 이모지로 표현해 봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/327c2ba9-b1e7-4006-9264-494fffd966c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
