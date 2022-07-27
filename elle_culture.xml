@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 17:53:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:56:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오직 여성을 위해서 쓰인 재테크 책 <리치 우먼>]]></title>
+            <link>https://www.elle.co.kr/article/68138</link>
+            <guid>https://www.elle.co.kr/article/68138</guid>
+            <pubDate>Wed, 27 Jul 2022 05:53:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/70b2b698-8d5d-44fa-8cf8-228e2946ac56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 육상 최초이자 최고! 세계선수권 은메달 따 낸 우상혁, 상금 총 얼마?]]></title>
             <link>https://www.elle.co.kr/article/68110</link>
@@ -60,14 +67,6 @@
             <pubDate>Tue, 19 Jul 2022 06:01:46 GMT</pubDate>
             <content:encoded><![CDATA[사실은 원래 훈훈했다는 후문...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/69c4513c-2618-49b8-a042-5582a822e658.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결국 에미상 가는 '오징어게임', 이정재X정호연X박해수까지 13개 부문 노미네이트?!]]></title>
-            <link>https://www.elle.co.kr/article/67993</link>
-            <guid>https://www.elle.co.kr/article/67993</guid>
-            <pubDate>Mon, 18 Jul 2022 17:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[ㄴㅇㄱ]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/f1e9821a-94e2-435e-afb8-3fb2225ee9be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
