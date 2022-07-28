@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 05:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 17:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모든 자동차 마니아들의 드림카, ‘포르쉐 911’의 모든 것]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34207994&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34207994&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 28 Jul 2022 17:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjdfMjE5/MDAxNjU4OTE1NDcyMDky.dWe0-l7QsAonhtAarR-AjWXexS3kIUpd4zS5lct54QYg.l5nMYG41MnCGQJGOOzU0jcPNJn6ZWDi9rKws7bKQ81Ag.JPEG/IZl-cB113uiWqQUchHPg-pYZGHBc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오직 디자인으로만 선정한 ‘역대 최고의 자동차' 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34201073&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA2MDlfMTI2/MDAxNjIzMjMxNjY1MDQ1.XrRoiRTGhNKqxPv7SbjZSp56nefOQcsPu7TLNuqJSz8g.I7yGqQi8hqjgAseOAMin_fhYHKBrHOAxOKs1banXxbIg.JPEG/I9o53dtBt5FstgoXAHNA3n0ASKEI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 억만장자의 주문으로 완성된 에르메스 x 롤스로이스 팬텀]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31372172&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31372172&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjhfNTYg/MDAxNjE5NTk2Nzg5MDI5.KpN1KaoCdv0TR80w0b_xfQM38MRZONvEPIyiIZZPVawg.U86c1BPBaoMSksm5K_Y39RQrzlh8w_4_WE4IDcx9x4Mg.JPEG/IPq7uNl5fsSIbP_3EBC6kS5w_R7M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

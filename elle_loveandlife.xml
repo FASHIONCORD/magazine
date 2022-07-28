@@ -4,9 +4,31 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 05:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 17:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푹푹 찌는 여름엔? 서늘한 동굴과 화려한 조명이 나를 감싸는 터널로! 단양 명소 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/68235</link>
+            <guid>https://www.elle.co.kr/article/68235</guid>
+            <pubDate>Thu, 28 Jul 2022 17:54:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/23/589c15c1-0750-491b-bc28-423dd0ca991e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배달 어플이 포장 수수료를 받기로 했다니 이게 무슨 소리요?!]]></title>
+            <link>https://www.elle.co.kr/article/68197</link>
+            <guid>https://www.elle.co.kr/article/68197</guid>
+            <pubDate>Thu, 28 Jul 2022 17:54:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/3192c134-780d-46e5-8082-962cdad8aa82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마늘의 민족이라면 당장 먹부림 여행 떠나야 할 단양! 로컬 맛집 3선 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/68116</link>
+            <guid>https://www.elle.co.kr/article/68116</guid>
+            <pubDate>Thu, 28 Jul 2022 17:54:57 GMT</pubDate>
+            <content:encoded><![CDATA[마늘 떡갈비, 마늘 육회, 마늘 순대까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/52862b86-ea72-4ad9-96b3-fedf48956bd8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갈 때 마다 바뀌는 성수동, 이번엔 일본식 꼬치구이와 과일 빙수 먹으러! #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/68094</link>
@@ -45,29 +67,6 @@
             <pubDate>Wed, 20 Jul 2022 05:49:10 GMT</pubDate>
             <content:encoded><![CDATA[서울숲-삼각지-한남에 새로 생긴 맛집들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/b1488c00-ceb1-4d62-b8c8-33a302669ac2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름밤과 와인 한 잔! 무드 있는 와인바 리스트 3]]></title>
-            <link>https://www.elle.co.kr/article/67876</link>
-            <guid>https://www.elle.co.kr/article/67876</guid>
-            <pubDate>Tue, 19 Jul 2022 06:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[한남동부터 성수동까지! 근사한 저녁 식사를 즐기고 싶다면 셀러브리티가 방문한 와인바를 참고해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/b29e45b4-c07f-484d-83fe-f2fe655c826f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기분이 저기압일 땐 고기 앞으로! 한우에 화로구이 먹고 막국수로 입가심? 홍천 맛집 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/67799</link>
-            <guid>https://www.elle.co.kr/article/67799</guid>
-            <pubDate>Sat, 16 Jul 2022 05:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[백종원도 감탄한 맛집도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/4fd37ded-6008-4c8f-a6e3-12431620cad5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악마의 '단짠' 베이컨 도넛과 싱그러운 셔벗이 있는 망원동 카페 3 #신상맛집]]></title>
-            <link>https://www.elle.co.kr/article/67765</link>
-            <guid>https://www.elle.co.kr/article/67765</guid>
-            <pubDate>Thu, 14 Jul 2022 17:57:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/3a43ffa7-7a4f-4662-b594-b968c418edfd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

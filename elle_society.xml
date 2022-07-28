@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 05:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 17:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갱년기 준비하기]]></title>
+            <link>https://www.elle.co.kr/article/68041</link>
+            <guid>https://www.elle.co.kr/article/68041</guid>
+            <pubDate>Thu, 28 Jul 2022 17:55:15 GMT</pubDate>
+            <content:encoded><![CDATA[갱년기 증후군은 빠르면 40대 초반부터 찾아온다. 지금 당장 준비가 필요하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/56a5d2c7-3937-4523-895b-130eae90bfe0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2]]></title>
             <link>https://www.elle.co.kr/article/68027</link>
@@ -61,14 +69,6 @@
             <pubDate>Sat, 16 Jul 2022 05:47:27 GMT</pubDate>
             <content:encoded><![CDATA[윤이나 작가는 말한다. 내 이야기의 주인공들은 다름 아닌 친구들이라고]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/67a73c93-3078-4624-a20e-e81cdbe5449f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우즈벡 유혈 시위-보리스 실각-아베 피격, 단 일주일 사이 세계에 벌어진 일]]></title>
-            <link>https://www.elle.co.kr/article/67868</link>
-            <guid>https://www.elle.co.kr/article/67868</guid>
-            <pubDate>Thu, 14 Jul 2022 17:57:55 GMT</pubDate>
-            <content:encoded><![CDATA[지금 세상엔 무슨 일이 벌어지고 있는 걸까.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/40d73323-266a-4c95-ae00-1323e97107d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
