@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 17:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 05:47:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집 나간 입맛을 되살릴 여름 레서피]]></title>
+            <link>https://www.elle.co.kr/article/68291</link>
+            <guid>https://www.elle.co.kr/article/68291</guid>
+            <pubDate>Sun, 31 Jul 2022 05:46:49 GMT</pubDate>
+            <content:encoded><![CDATA[애피타이저부터 메인 디쉬까지 여름을 위한 메뉴를 풀 코스로 준비했다! 2021년 '톱 셰프'에 나...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/e93ec1f0-d43a-4551-913e-35331a810f31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푹푹 찌는 여름엔? 서늘한 동굴과 화려한 조명이 나를 감싸는 터널로! 단양 명소 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/68235</link>
@@ -59,14 +67,6 @@
             <pubDate>Fri, 22 Jul 2022 17:53:47 GMT</pubDate>
             <content:encoded><![CDATA[빵은 좋지만 과다한 탄수화물과 당분 때문에 망설여진다면 주목하세요! 아나운서 이혜성이 찾은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/4018c648-eb26-444c-93c1-7f82f0e5593d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕식 타코에 타이식 치킨? 여권 없이 미식 여행 가능한 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/67931</link>
-            <guid>https://www.elle.co.kr/article/67931</guid>
-            <pubDate>Wed, 20 Jul 2022 05:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[서울숲-삼각지-한남에 새로 생긴 맛집들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/b1488c00-ceb1-4d62-b8c8-33a302669ac2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
