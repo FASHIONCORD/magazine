@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 17:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음도 닮은 두사람! 초롱X보미가 함께 강아지 임시보호를 시작한 이유]]></title>
+            <link>https://www.elle.co.kr/article/68474</link>
+            <guid>https://www.elle.co.kr/article/68474</guid>
+            <pubDate>Mon, 01 Aug 2022 06:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[상처 입은 동물을 함께 품으며 마음과 마음을 이어온 초롱과 보미, 이 두 사람이 직접 담은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/f2af9594-bb92-45ed-8b2b-9b1c11a09bfe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터인가 댄스가수인가, 논란의 민수 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/68466</link>
+            <guid>https://www.elle.co.kr/article/68466</guid>
+            <pubDate>Mon, 01 Aug 2022 06:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;오해 금지&gt;! 민수가 곧 장르.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/0c6670c5-5082-468a-aa4d-95585939a1c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[입을 어떻게 하라고요?! 우영우 전용 1타 강사 이준호의 첫 키스, 강태오가 직접 밝힌 비하인드]]></title>
             <link>https://www.elle.co.kr/article/68454</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 17:47:09 GMT</pubDate>
             <content:encoded><![CDATA[5년 만에 돌아오는 블랙팬서.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/dce3cb9a-2af0-43bf-a368-a3bb413c06a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 재현의 새롭고 분명한 세계]]></title>
-            <link>https://www.elle.co.kr/article/68335</link>
-            <guid>https://www.elle.co.kr/article/68335</guid>
-            <pubDate>Thu, 28 Jul 2022 17:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[스스로 객관적일 것, 타인에게서 답을 구하지 말 것 그리고 본능으로 부딪혀 즐길 것. NCT ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/fbeaa9ed-9dcc-4ffb-97c4-500a773ef8a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시공을 초월하는 매력, 김태리는 어디로든 갈 수 있다]]></title>
-            <link>https://www.elle.co.kr/article/68334</link>
-            <guid>https://www.elle.co.kr/article/68334</guid>
-            <pubDate>Thu, 28 Jul 2022 05:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[시간과 공간, 차원을 넘나들며 존재감을 번뜩이는 김태리. 그는 언제든 새로운 이야기에 뛰어들 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/83929dee-e272-4a5d-82dd-9449c46ece1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

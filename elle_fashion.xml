@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 17:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[So Hot! 핫핑크 스타일링 체크리스트]]></title>
+            <link>https://www.elle.co.kr/article/68483</link>
+            <guid>https://www.elle.co.kr/article/68483</guid>
+            <pubDate>Mon, 01 Aug 2022 06:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[두아 리파, 화사, 아이린 등 핫핑크 룩으로 범접할 수 없는 아우라를 드러낸 셀러브리티를 모아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/fcf1cabf-b216-4a5d-a017-c5ed983ed666.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Y2K 청바지]]></title>
+            <link>https://www.elle.co.kr/article/68482</link>
+            <guid>https://www.elle.co.kr/article/68482</guid>
+            <pubDate>Mon, 01 Aug 2022 06:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[다시 돌아온 2000년대 유행하던 데님 패션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/96904e46-21c7-468f-991b-f4ba882982a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 대세 원피스 수영복 쇼핑리스트 7]]></title>
+            <link>https://www.elle.co.kr/article/68476</link>
+            <guid>https://www.elle.co.kr/article/68476</guid>
+            <pubDate>Mon, 01 Aug 2022 06:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[올여름엔 원피스 수영복이 대세! 비키니보다 핫한 원피스 수영복 스타일링과 쇼핑 리스트를 참고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/1b1ca2d8-c45a-4585-bab0-03cce9836ff0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키포인트, 깅엄 체크 스타일링 6]]></title>
             <link>https://www.elle.co.kr/article/68429</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 31 Jul 2022 17:42:41 GMT</pubDate>
             <content:encoded><![CDATA[흐르는 물을 빚고, 깎아 만든 쇼메 하이주얼리의 깊은 세계로 다이빙을 떠났다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/34d9c48b-cb5b-48a1-9782-c3c539e876e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확실한 존재감, 패셔너블한 선글라스 6]]></title>
-            <link>https://www.elle.co.kr/article/68365</link>
-            <guid>https://www.elle.co.kr/article/68365</guid>
-            <pubDate>Fri, 29 Jul 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[어디서나 시선 집중! 확실하게 시선을 모으는 유니크한 선글라스 쇼핑리스트를 확인하세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/8e26f340-3846-4dfa-94c6-6a28da89c7da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단정 혹은 우아! 변호사로 변신한 '우영우' 박은빈 VS '오수재' 서현진 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/68350</link>
-            <guid>https://www.elle.co.kr/article/68350</guid>
-            <pubDate>Fri, 29 Jul 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[신드롬급 인기를 끌고 있는 드라마 '이상한 변호사 우영우'의 박은빈과 원톱 배우로서의 파워를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/76bc4ce7-6051-400d-9ffb-e483df17c316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬의 우주에서 별빛이 내린다]]></title>
-            <link>https://www.elle.co.kr/article/68331</link>
-            <guid>https://www.elle.co.kr/article/68331</guid>
-            <pubDate>Fri, 29 Jul 2022 17:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[가브리엘 샤넬의 첫 하이 주얼리 컬렉션 '비쥬 드 디아망'을 기념하며 빛나는 '1932' 하이 주...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cf68de63-05b8-4103-81af-df8a88f54f0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

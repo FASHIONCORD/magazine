@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 17:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포상 휴가가 없다니 섭섭한데요? '우영우'로 잔치 난 ENA, 휴가 대신 준다는 엄청난 선물]]></title>
+            <link>https://www.elle.co.kr/article/68315</link>
+            <guid>https://www.elle.co.kr/article/68315</guid>
+            <pubDate>Mon, 01 Aug 2022 06:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[섭섭했던 마음이 조금 풀리는 황금.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/ebf2642b-340f-4ddd-ba1d-712a1c166516.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘우영우’에 앞서 괴짜 판사 ‘이정주’가 있었다? 박은빈 ‘인생캐’ 작품 모음.zip #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/68296</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/68097</guid>
             <pubDate>Fri, 22 Jul 2022 17:51:32 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/b4013dd5-3d35-4907-960b-96c579ef599e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고와 강혜원의 별이 빛나는 밤]]></title>
-            <link>https://www.elle.co.kr/article/68075</link>
-            <guid>https://www.elle.co.kr/article/68075</guid>
-            <pubDate>Fri, 22 Jul 2022 17:51:32 GMT</pubDate>
-            <content:encoded><![CDATA[‘레고 아이디어 빈센트 반 고흐- 별이 빛나는 밤’과 가장 잘 어울리는 스물셋 청춘 스타 강...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/0e22ab62-a29c-4aea-a72c-993d6ae15bad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
