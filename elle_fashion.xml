@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 17:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 06:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벨라 하디드? 파라슈트 팬츠의 힙한 부상]]></title>
+            <link>https://www.elle.co.kr/article/68493</link>
+            <guid>https://www.elle.co.kr/article/68493</guid>
+            <pubDate>Tue, 02 Aug 2022 05:57:38 GMT</pubDate>
+            <content:encoded><![CDATA[카고 팬츠에 이어 통 넓고 펄럭이는 파라슈트 팬츠가 떠오르고 있다! 힙하게 여름을 나고 싶다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/0142321c-7fe6-4c98-8c2e-d83f63a1d6af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정원을 빛낼 신상 아웃도어 가구 12]]></title>
+            <link>https://www.elle.co.kr/article/68492</link>
+            <guid>https://www.elle.co.kr/article/68492</guid>
+            <pubDate>Tue, 02 Aug 2022 05:57:38 GMT</pubDate>
+            <content:encoded><![CDATA[녹음이 우거진 여름. 나만의 정원과 테라스, 그 어디든 툭 놓아두고 싶은 신상 아웃도어 가구들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/bba9344d-3568-43d6-8258-3468efcf65e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[So Hot! 핫핑크 스타일링 체크리스트]]></title>
             <link>https://www.elle.co.kr/article/68483</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 31 Jul 2022 17:42:41 GMT</pubDate>
             <content:encoded><![CDATA[스타가 선택한 여름 모자에서 쇼핑 힌트를 얻어보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/9ce90218-8d0d-4e50-86c4-ab64912e9c8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 상반기 결산, 소희의 ‘잘샀다템’]]></title>
-            <link>https://www.elle.co.kr/article/68390</link>
-            <guid>https://www.elle.co.kr/article/68390</guid>
-            <pubDate>Sun, 31 Jul 2022 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티부터 패션, 푸드까지! 똑 부러지는 소희의 상반기 결산 ‘내돈내산’ 가장 잘 산 아이템은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/06215d42-aaae-4eef-a76d-61af53d1dd4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송혜교와 함께 만난 쇼메 하이주얼리의 세계]]></title>
-            <link>https://www.elle.co.kr/article/68372</link>
-            <guid>https://www.elle.co.kr/article/68372</guid>
-            <pubDate>Sun, 31 Jul 2022 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[흐르는 물을 빚고, 깎아 만든 쇼메 하이주얼리의 깊은 세계로 다이빙을 떠났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/34d9c48b-cb5b-48a1-9782-c3c539e876e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
