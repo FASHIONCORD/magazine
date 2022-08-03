@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 17:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추사랑부터 윤후까지! 벌써 10대 된 '아어가' X '슈돌' 랜선 조카들, 다시 예능에?]]></title>
+            <link>https://www.elle.co.kr/article/68585</link>
+            <guid>https://www.elle.co.kr/article/68585</guid>
+            <pubDate>Wed, 03 Aug 2022 17:49:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6986b22b-d384-468a-bb43-7d4758ccb00c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임윤아 '빅마우스' vs 김세정 '오늘의 웹툰', 금토극 승자는? #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/68533</link>
+            <guid>https://www.elle.co.kr/article/68533</guid>
+            <pubDate>Wed, 03 Aug 2022 17:49:50 GMT</pubDate>
+            <content:encoded><![CDATA[누아르 ‘걸크러시’ 임윤아 vs 힐링드 ‘인간비타민’ 김세정]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/67627a3f-8952-4cb1-b416-5514ab4fe686.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나래바 박사장도 탐낸 샤이니 키의 술안주 '바냐 카우다' 초간단 레시피 (feat. 기범주)]]></title>
             <link>https://www.elle.co.kr/article/68497</link>
@@ -29,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/68409</guid>
             <pubDate>Thu, 28 Jul 2022 17:53:04 GMT</pubDate>
             <content:encoded><![CDATA[K-스타트업 CEO로 변신할 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/bf84d063-c57d-417f-9e5a-978d54181e8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럽스타를 참기가 쉽지 않아! 우영우와 이준호가 인스타그램을 한다면?]]></title>
@@ -37,7 +51,6 @@
             <guid>https://www.elle.co.kr/article/68397</guid>
             <pubDate>Thu, 28 Jul 2022 17:53:04 GMT</pubDate>
             <content:encoded><![CDATA[ENA가 직접 만든 공식 짤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/45eda363-96e1-4fc1-8229-0161e277be56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밥 말리에서 켄드릭 라마로, 소름 쫙 돋는 '블랙팬서: 와칸다 포에버' 트레일러]]></title>
@@ -85,19 +98,6 @@
             <guid>https://www.elle.co.kr/article/68082</guid>
             <pubDate>Tue, 19 Jul 2022 06:02:47 GMT</pubDate>
             <content:encoded><![CDATA[우영우 주변에 가득한 따뜻함.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2]]></title>
-            <link>https://www.elle.co.kr/article/68027</link>
-            <guid>https://www.elle.co.kr/article/68027</guid>
-            <pubDate>Fri, 15 Jul 2022 17:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[서브 남주요? 서브 아빠입니다. 갑자기 미남으로 보이는 '우영우' 정변호사 강기영]]></title>
-            <link>https://www.elle.co.kr/article/68002</link>
-            <guid>https://www.elle.co.kr/article/68002</guid>
-            <pubDate>Thu, 14 Jul 2022 17:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[사실은 원래 훈훈했다는 후문...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 17:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Essentials: 하세가와 아키오 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34248363&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34248363&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 03 Aug 2022 17:43:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDNfMTEy/MDAxNjU5NTIwNTU0OTc2.1b24rB-0pJPCIEen1wInFy23qA6TdDVa9LVYB9XU1j0g.cNumdLMXFOxGeVC8Ccq2oNHZqjFJokRP4aW19xnyGIYg.JPEG/I38xaCtdQhbBMcHoBP-5PhfIdnN4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wrist Check: 크리스 에반스 & IWC 파일럿 워치 크로노그래프 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34173728&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 06 Feb 2022 17:40:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfODkg/MDAxNjQzOTUyNzM0NzMx.SkM4LkDE771UqjRsHMb_KLMZHjB_OpA_19zlLrmkM_Ig.roRbS7fyP5dKf9bMRAQi9gJXGdb-v6V0wxf6Wvcxfy0g.JPEG/IMIhrFCvs5WJHSrf9Vzo07R0xDEk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2022 LVMH 워치 위크'에서 주목해야 할 럭셔리 워치 7 (네이버 포스트 ─ 하입비스트 ─ 패션)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33234330&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33234330&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 04 Feb 2022 05:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDRfMjYy/MDAxNjQzOTUxOTg0NzA5.0mg1ikAMyOQKdM-WGASU9jm-GWCMmmqKmR2iZ0267Sog.M1AZrUtllGvTsbI9JuiH40Dy3p8Jmi8raE6OyWBNrxQg.JPEG/IvHZH1sPQIbLj7y-kIVerDeymAVY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장마철을 위한 샌들 & 슬라이드 추천 10 (네이버 포스트 ─ 하입비스트 ─ 신발)]]></title>
@@ -1927,6 +1927,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/4c159af8-7454-4c9d-96a5-090ee85759ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나래바 박사장도 탐낸 샤이니 키의 술안주 '바냐 카우다' 초간단 레시피 (feat. 기범주) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/68497</link>
+            <guid>https://www.elle.co.kr/article/68497</guid>
+            <pubDate>Mon, 01 Aug 2022 17:52:53 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이는 바로 대게딱지장 구매.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b3f19ef6-951c-489e-8cda-6099a2cb7a15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전교회장 바이브 김세정X차은우, 친해진 계기가 워터파크? (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/68484</link>
             <guid>https://www.elle.co.kr/article/68484</guid>
@@ -1980,14 +1988,6 @@
             <pubDate>Thu, 28 Jul 2022 17:53:04 GMT</pubDate>
             <content:encoded><![CDATA[K-스타트업 CEO로 변신할 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/bf84d063-c57d-417f-9e5a-978d54181e8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럽스타를 참기가 쉽지 않아! 우영우와 이준호가 인스타그램을 한다면? (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/68397</link>
-            <guid>https://www.elle.co.kr/article/68397</guid>
-            <pubDate>Thu, 28 Jul 2022 17:53:04 GMT</pubDate>
-            <content:encoded><![CDATA[ENA가 직접 만든 공식 짤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/45eda363-96e1-4fc1-8229-0161e277be56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럽스타를 참기가 쉽지 않아! 우영우와 이준호가 인스타그램을 한다면? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2145,6 +2145,21 @@
             <content:encoded><![CDATA[키워드는 한강 노을섬, 해질녘, 초여름 바람, 그리고 뮤지션 10CM, 죠지(george), 유라(youra), 미...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[추사랑부터 윤후까지! 벌써 10대 된 '아어가' X '슈돌' 랜선 조카들, 다시 예능에? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/68585</link>
+            <guid>https://www.elle.co.kr/article/68585</guid>
+            <pubDate>Wed, 03 Aug 2022 17:49:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6986b22b-d384-468a-bb43-7d4758ccb00c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임윤아 '빅마우스' vs 김세정 '오늘의 웹툰', 금토극 승자는? #요즘드라마 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/68533</link>
+            <guid>https://www.elle.co.kr/article/68533</guid>
+            <pubDate>Wed, 03 Aug 2022 17:49:50 GMT</pubDate>
+            <content:encoded><![CDATA[누아르 ‘걸크러시’ 임윤아 vs 힐링드 ‘인간비타민’ 김세정]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/67627a3f-8952-4cb1-b416-5514ab4fe686.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나래바 박사장도 탐낸 샤이니 키의 술안주 '바냐 카우다' 초간단 레시피 (feat. 기범주) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/68497</link>
             <guid>https://www.elle.co.kr/article/68497</guid>
@@ -2166,7 +2181,6 @@
             <guid>https://www.elle.co.kr/article/68409</guid>
             <pubDate>Thu, 28 Jul 2022 17:53:04 GMT</pubDate>
             <content:encoded><![CDATA[K-스타트업 CEO로 변신할 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/bf84d063-c57d-417f-9e5a-978d54181e8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[럽스타를 참기가 쉽지 않아! 우영우와 이준호가 인스타그램을 한다면? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -2174,7 +2188,6 @@
             <guid>https://www.elle.co.kr/article/68397</guid>
             <pubDate>Thu, 28 Jul 2022 17:53:04 GMT</pubDate>
             <content:encoded><![CDATA[ENA가 직접 만든 공식 짤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/45eda363-96e1-4fc1-8229-0161e277be56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밥 말리에서 켄드릭 라마로, 소름 쫙 돋는 '블랙팬서: 와칸다 포에버' 트레일러 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -2222,19 +2235,6 @@
             <guid>https://www.elle.co.kr/article/68082</guid>
             <pubDate>Tue, 19 Jul 2022 06:02:47 GMT</pubDate>
             <content:encoded><![CDATA[우영우 주변에 가득한 따뜻함.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/68027</link>
-            <guid>https://www.elle.co.kr/article/68027</guid>
-            <pubDate>Fri, 15 Jul 2022 17:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[서브 남주요? 서브 아빠입니다. 갑자기 미남으로 보이는 '우영우' 정변호사 강기영 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/68002</link>
-            <guid>https://www.elle.co.kr/article/68002</guid>
-            <pubDate>Thu, 14 Jul 2022 17:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[사실은 원래 훈훈했다는 후문...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레고와 강혜원의 별이 빛나는 밤 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>

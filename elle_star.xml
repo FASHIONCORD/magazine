@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 17:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나래바 박사장도 탐낸 샤이니 키의 술안주 '바냐 카우다' 초간단 레시피 (feat. 기범주)]]></title>
+            <link>https://www.elle.co.kr/article/68497</link>
+            <guid>https://www.elle.co.kr/article/68497</guid>
+            <pubDate>Wed, 03 Aug 2022 17:48:02 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이는 바로 대게딱지장 구매.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b3f19ef6-951c-489e-8cda-6099a2cb7a15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전교회장 바이브 김세정X차은우, 친해진 계기가 워터파크?]]></title>
             <link>https://www.elle.co.kr/article/68484</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 31 Jul 2022 05:43:46 GMT</pubDate>
             <content:encoded><![CDATA[K-스타트업 CEO로 변신할 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/bf84d063-c57d-417f-9e5a-978d54181e8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럽스타를 참기가 쉽지 않아! 우영우와 이준호가 인스타그램을 한다면?]]></title>
-            <link>https://www.elle.co.kr/article/68397</link>
-            <guid>https://www.elle.co.kr/article/68397</guid>
-            <pubDate>Fri, 29 Jul 2022 17:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[ENA가 직접 만든 공식 짤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/45eda363-96e1-4fc1-8229-0161e277be56.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
