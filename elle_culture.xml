@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 17:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 06:00:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[럽스타를 참기가 쉽지 않아! 우영우와 이준호가 인스타그램을 한다면?]]></title>
+            <link>https://www.elle.co.kr/article/68397</link>
+            <guid>https://www.elle.co.kr/article/68397</guid>
+            <pubDate>Wed, 03 Aug 2022 05:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[ENA가 직접 만든 공식 짤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/45eda363-96e1-4fc1-8229-0161e277be56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밥 말리에서 켄드릭 라마로, 소름 쫙 돋는 '블랙팬서: 와칸다 포에버' 트레일러]]></title>
+            <link>https://www.elle.co.kr/article/68349</link>
+            <guid>https://www.elle.co.kr/article/68349</guid>
+            <pubDate>Wed, 03 Aug 2022 05:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[5년 만에 돌아오는 블랙팬서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/dce3cb9a-2af0-43bf-a368-a3bb413c06a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포상 휴가가 없다니 섭섭한데요? '우영우'로 잔치 난 ENA, 휴가 대신 준다는 엄청난 선물]]></title>
             <link>https://www.elle.co.kr/article/68315</link>
@@ -51,21 +67,6 @@
             <guid>https://www.elle.co.kr/article/68138</guid>
             <pubDate>Wed, 27 Jul 2022 05:53:15 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/70b2b698-8d5d-44fa-8cf8-228e2946ac56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 육상 최초이자 최고! 세계선수권 은메달 따 낸 우상혁, 상금 총 얼마?]]></title>
-            <link>https://www.elle.co.kr/article/68110</link>
-            <guid>https://www.elle.co.kr/article/68110</guid>
-            <pubDate>Tue, 26 Jul 2022 05:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[파리 올림픽 우승 기대감 급상승.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/1ec7fb0d-c970-4f09-982e-69f595e19af0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니, 첫 연기 도전을 HBO 드라마에서! 조니 뎁 딸도 나오는 <디 아이돌> 내용은?]]></title>
-            <link>https://www.elle.co.kr/article/68097</link>
-            <guid>https://www.elle.co.kr/article/68097</guid>
-            <pubDate>Fri, 22 Jul 2022 17:51:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/b4013dd5-3d35-4907-960b-96c579ef599e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

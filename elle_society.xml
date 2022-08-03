@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 17:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 06:00:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오직 여성을 위해서 쓰인 재테크 책 <리치 우먼>]]></title>
+            <link>https://www.elle.co.kr/article/68138</link>
+            <guid>https://www.elle.co.kr/article/68138</guid>
+            <pubDate>Wed, 03 Aug 2022 06:00:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/70b2b698-8d5d-44fa-8cf8-228e2946ac56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갱년기 준비하기]]></title>
             <link>https://www.elle.co.kr/article/68041</link>
@@ -61,14 +68,6 @@
             <pubDate>Sat, 16 Jul 2022 05:47:27 GMT</pubDate>
             <content:encoded><![CDATA[여성의 임신과 출산에 대해 세상이 말하지 않은 것들]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/89c4d34a-7c1d-46ee-95b8-7abf533a88b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친구들 좋아! 40대 여성의 우정 운용법]]></title>
-            <link>https://www.elle.co.kr/article/67636</link>
-            <guid>https://www.elle.co.kr/article/67636</guid>
-            <pubDate>Sat, 16 Jul 2022 05:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[윤이나 작가는 말한다. 내 이야기의 주인공들은 다름 아닌 친구들이라고]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/67a73c93-3078-4624-a20e-e81cdbe5449f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

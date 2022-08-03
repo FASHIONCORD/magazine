@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 17:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 06:00:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 버티기 끝! 추억의 고무 샌들, 러버 슈즈 추천]]></title>
+            <link>https://www.elle.co.kr/article/68496</link>
+            <guid>https://www.elle.co.kr/article/68496</guid>
+            <pubDate>Wed, 03 Aug 2022 05:56:39 GMT</pubDate>
+            <content:encoded><![CDATA[장마가 지나고 맞이할 뜨거운 여름! 바다에서나 도심에서 200% 만족스러운 슈즈 쇼핑을 위해 준...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/87e09d3e-3ef1-40f0-9fc5-941d5e695964.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MAC과 민니의 만남, 앞으로 김'맥'니라고 불러줄게!]]></title>
             <link>https://www.elle.co.kr/article/68495</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Aug 2022 06:07:01 GMT</pubDate>
             <content:encoded><![CDATA[올여름엔 원피스 수영복이 대세! 비키니보다 핫한 원피스 수영복 스타일링과 쇼핑 리스트를 참고...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/1b1ca2d8-c45a-4585-bab0-03cce9836ff0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키포인트, 깅엄 체크 스타일링 6]]></title>
-            <link>https://www.elle.co.kr/article/68429</link>
-            <guid>https://www.elle.co.kr/article/68429</guid>
-            <pubDate>Sun, 31 Jul 2022 17:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[경쾌한 무드 가득! 가로선과 세로선이 공평하게 만나는 깅엄 체크 아이템으로 활기 넘치는 서머...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/51398e0b-395b-4b97-b97c-f53d83639159.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
