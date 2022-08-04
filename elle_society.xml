@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 17:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 05:53:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저녁에 택시 잡기 정말 힘들죠?_돈쓸신잡 #55]]></title>
+            <link>https://www.elle.co.kr/article/68161</link>
+            <guid>https://www.elle.co.kr/article/68161</guid>
+            <pubDate>Thu, 04 Aug 2022 05:53:45 GMT</pubDate>
+            <content:encoded><![CDATA[심야 택시 대란이 심각한 사회 문제로 떠오르자 대응책으로 합승 서비스가 40년 만에 부활했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/897b3734-8891-44f5-bdef-667cabf2021c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오직 여성을 위해서 쓰인 재테크 책 <리치 우먼>]]></title>
             <link>https://www.elle.co.kr/article/68138</link>
@@ -60,14 +68,6 @@
             <pubDate>Sat, 16 Jul 2022 05:47:27 GMT</pubDate>
             <content:encoded><![CDATA[일단 일론 머스크 VS 트위터 소송전 각.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/98ca47b0-21bd-4bc7-8017-8f446d6c9534.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫째를 낳았다. 엄마로서 나도 태어났다. 그리고 둘째가 태어났다]]></title>
-            <link>https://www.elle.co.kr/article/67894</link>
-            <guid>https://www.elle.co.kr/article/67894</guid>
-            <pubDate>Sat, 16 Jul 2022 05:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[여성의 임신과 출산에 대해 세상이 말하지 않은 것들]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/89c4d34a-7c1d-46ee-95b8-7abf533a88b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
