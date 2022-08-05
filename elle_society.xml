@@ -4,9 +4,32 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 17:55:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘무지출 챌린지’에 빠진 MZ_돈쓸신잡 #56]]></title>
+            <link>https://www.elle.co.kr/article/68402</link>
+            <guid>https://www.elle.co.kr/article/68402</guid>
+            <pubDate>Fri, 05 Aug 2022 17:55:35 GMT</pubDate>
+            <content:encoded><![CDATA[어디에든 ‘넘지 말아야 할 선’이 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/0abce49f-08b1-44cf-a7fd-eaea1a97ab5d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배달 어플이 포장 수수료를 받기로 했다니 이게 무슨 소리요?!]]></title>
+            <link>https://www.elle.co.kr/article/68197</link>
+            <guid>https://www.elle.co.kr/article/68197</guid>
+            <pubDate>Fri, 05 Aug 2022 17:55:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/3192c134-780d-46e5-8082-962cdad8aa82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도망친 엄마들_요주의여성 #67]]></title>
+            <link>https://www.elle.co.kr/article/68184</link>
+            <guid>https://www.elle.co.kr/article/68184</guid>
+            <pubDate>Fri, 05 Aug 2022 17:55:35 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;로스트 도터&gt;가 전하는 ‘엄마’에 관한 진실.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/f2042598-13c7-44ec-9ffd-0e65980272ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저녁에 택시 잡기 정말 힘들죠?_돈쓸신잡 #55]]></title>
             <link>https://www.elle.co.kr/article/68161</link>
@@ -44,30 +67,6 @@
             <pubDate>Fri, 22 Jul 2022 05:53:53 GMT</pubDate>
             <content:encoded><![CDATA[미워할 수 없는 거짓말쟁이, 안나.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/5fde7b69-6591-4d66-a976-c016793eed95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도대체 엔화가 왜 이러지?_돈쓸신잡 #54]]></title>
-            <link>https://www.elle.co.kr/article/68011</link>
-            <guid>https://www.elle.co.kr/article/68011</guid>
-            <pubDate>Thu, 21 Jul 2022 05:54:20 GMT</pubDate>
-            <content:encoded><![CDATA[환율의 힘은 강하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/3b1b6a94-73e6-493a-a229-086b4dd4de2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['육아스타그램'의 다른 이름 '셰어런팅', 그런데 아기들의 프라이버시는?]]></title>
-            <link>https://www.elle.co.kr/article/67962</link>
-            <guid>https://www.elle.co.kr/article/67962</guid>
-            <pubDate>Thu, 21 Jul 2022 05:54:20 GMT</pubDate>
-            <content:encoded><![CDATA[부모가 선을 잘 지키는 것이 중요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/3f8c26b1-f48f-4b57-b96a-6c7cfd8aefd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[55조원에 트위터 산다며? 일론 머스크가 두 달 만에 말 뒤집은 이유]]></title>
-            <link>https://www.elle.co.kr/article/67938</link>
-            <guid>https://www.elle.co.kr/article/67938</guid>
-            <pubDate>Sat, 16 Jul 2022 05:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[일단 일론 머스크 VS 트위터 소송전 각.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/98ca47b0-21bd-4bc7-8017-8f446d6c9534.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
