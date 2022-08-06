@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 05:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 17:49:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전용기를 택시처럼 타는 셀럽이 있다?! 테일러 스위프트가 기후 악당으로 지목된 이유]]></title>
+            <link>https://www.elle.co.kr/article/68545</link>
+            <guid>https://www.elle.co.kr/article/68545</guid>
+            <pubDate>Sat, 06 Aug 2022 17:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[지구는 불타고 있는데도.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/c240b1f3-41c3-4175-813b-c5893477554a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘무지출 챌린지’에 빠진 MZ_돈쓸신잡 #56]]></title>
             <link>https://www.elle.co.kr/article/68402</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/68027</guid>
             <pubDate>Fri, 22 Jul 2022 17:54:31 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/b74dee61-fd50-451f-a3bd-aa3ca9e322f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘안나’를 생각하며_요주의여성 #66]]></title>
-            <link>https://www.elle.co.kr/article/68024</link>
-            <guid>https://www.elle.co.kr/article/68024</guid>
-            <pubDate>Fri, 22 Jul 2022 05:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[미워할 수 없는 거짓말쟁이, 안나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/5fde7b69-6591-4d66-a976-c016793eed95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 05:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 17:49:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxODEyMjRfNjYg/MDAxNTQ1NjE5MTgwMDMw.lN7fAHWZpw8HfBu5WYoAc_pEvcP7FI90PzfCGf0M_KEg.YCi4pkgHHj6KaWdJfFd2YjgrxTCOXgfxJl2TykG_XoIg.JPEG/IaD6u17KYx5ieFZHMKMROlAmlJBk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자체발광 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/68622</link>
+            <guid>https://www.elle.co.kr/article/68622</guid>
+            <pubDate>Sat, 06 Aug 2022 17:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[메탈릭 백이 깨운 헤비메탈 스피릿.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/16f41623-c48e-4f04-a16c-276e8094a7ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남녀노소를 위한 색 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/68612</link>
             <guid>https://www.elle.co.kr/article/68612</guid>
@@ -1854,14 +1862,6 @@
             <pubDate>Fri, 05 Aug 2022 05:52:13 GMT</pubDate>
             <content:encoded><![CDATA[고스피어 세계의 장원영이라는 판타지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/f00b9951-8d6d-41aa-8b17-9298af969150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOT&NOW 뷰티 트렌드 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/68529</link>
-            <guid>https://www.elle.co.kr/article/68529</guid>
-            <pubDate>Fri, 05 Aug 2022 05:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[스타들의 컴백 스타일 속에서 찾은 뷰티 트렌드 4가지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/db7e9fce-616e-4499-b9d7-f4f47a0b5eb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MAC과 민니의 만남, 앞으로 김'맥'니라고 불러줄게! (엘르 코리아 ─ 뷰티)]]></title>
@@ -2395,6 +2395,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/52862b86-ea72-4ad9-96b3-fedf48956bd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전용기를 택시처럼 타는 셀럽이 있다?! 테일러 스위프트가 기후 악당으로 지목된 이유 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/68545</link>
+            <guid>https://www.elle.co.kr/article/68545</guid>
+            <pubDate>Thu, 04 Aug 2022 05:51:45 GMT</pubDate>
+            <content:encoded><![CDATA[지구는 불타고 있는데도.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/c240b1f3-41c3-4175-813b-c5893477554a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘무지출 챌린지’에 빠진 MZ_돈쓸신잡 #56 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/68402</link>
             <guid>https://www.elle.co.kr/article/68402</guid>
@@ -2446,14 +2454,6 @@
             <guid>https://www.elle.co.kr/article/68027</guid>
             <pubDate>Fri, 15 Jul 2022 17:50:43 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/b74dee61-fd50-451f-a3bd-aa3ca9e322f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘안나’를 생각하며_요주의여성 #66 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/68024</link>
-            <guid>https://www.elle.co.kr/article/68024</guid>
-            <pubDate>Fri, 22 Jul 2022 05:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[미워할 수 없는 거짓말쟁이, 안나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/5fde7b69-6591-4d66-a976-c016793eed95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
