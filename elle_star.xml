@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 17:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 05:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우영우 김밥' 만큼 화제 된 다이어트 김밥! 살 빠지는 스타 레시피 3 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/68601</link>
+            <guid>https://www.elle.co.kr/article/68601</guid>
+            <pubDate>Sun, 07 Aug 2022 05:41:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/afc2c504-2c20-4cf1-af33-38abe8fedfe2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추사랑부터 윤후까지! 벌써 10대 된 '아어가' X '슈돌' 랜선 조카들, 다시 예능에?]]></title>
             <link>https://www.elle.co.kr/article/68585</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/68484</guid>
             <pubDate>Tue, 02 Aug 2022 17:50:35 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/1d345252-9972-4238-9867-b92d399ad531.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SAAY의 무한질주]]></title>
-            <link>https://www.elle.co.kr/article/68481</link>
-            <guid>https://www.elle.co.kr/article/68481</guid>
-            <pubDate>Tue, 02 Aug 2022 17:50:35 GMT</pubDate>
-            <content:encoded><![CDATA[서머 송 'Summer in love'로 돌아온 싱어송라이터 SAAY는 흔들림 없이 자신만의 길로 전진한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/4c2ca081-ee80-4e89-90e0-8703d5e7e305.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

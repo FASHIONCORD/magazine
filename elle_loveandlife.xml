@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 17:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 05:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[막걸리 타르트와 문경새재 본뜬 디저트! 현지의 맛과 멋 살린 문경 카페 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/68477</link>
+            <guid>https://www.elle.co.kr/article/68477</guid>
+            <pubDate>Sun, 07 Aug 2022 05:44:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/3a42574a-eb50-47bc-a016-333c6b10e2c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한남동의 파리 테라스 vs. 가로수길 뉴욕 레스토랑]]></title>
             <link>https://www.elle.co.kr/article/68376</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/68197</guid>
             <pubDate>Thu, 28 Jul 2022 17:54:57 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/3192c134-780d-46e5-8082-962cdad8aa82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마늘의 민족이라면 당장 먹부림 여행 떠나야 할 단양! 로컬 맛집 3선 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/68116</link>
-            <guid>https://www.elle.co.kr/article/68116</guid>
-            <pubDate>Thu, 28 Jul 2022 17:54:57 GMT</pubDate>
-            <content:encoded><![CDATA[마늘 떡갈비, 마늘 육회, 마늘 순대까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/52862b86-ea72-4ad9-96b3-fedf48956bd8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
