@@ -4,9 +4,32 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 17:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우영우 김밥' 만큼 화제 된 다이어트 김밥! 살 빠지는 스타 레시피 3 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/68601</link>
+            <guid>https://www.elle.co.kr/article/68601</guid>
+            <pubDate>Mon, 08 Aug 2022 17:47:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/afc2c504-2c20-4cf1-af33-38abe8fedfe2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HOT&NOW 뷰티 트렌드]]></title>
+            <link>https://www.elle.co.kr/article/68529</link>
+            <guid>https://www.elle.co.kr/article/68529</guid>
+            <pubDate>Mon, 08 Aug 2022 17:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[스타들의 컴백 스타일 속에서 찾은 뷰티 트렌드 4가지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/db7e9fce-616e-4499-b9d7-f4f47a0b5eb1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바캉스 피부 손상과 헤어질 결심_선배's 어드바이스 #128]]></title>
+            <link>https://www.elle.co.kr/article/68509</link>
+            <guid>https://www.elle.co.kr/article/68509</guid>
+            <pubDate>Mon, 08 Aug 2022 17:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[즐거운 휴가 후 뒤집어진 피부, 깐 달걀처럼 되돌리기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/f8b7295e-fb33-4407-ad82-4dd6ef0443c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MAC과 민니의 만남, 앞으로 김'맥'니라고 불러줄게!]]></title>
             <link>https://www.elle.co.kr/article/68495</link>
@@ -46,30 +69,6 @@
             <pubDate>Mon, 01 Aug 2022 06:07:12 GMT</pubDate>
             <content:encoded><![CDATA[우리 내면의 힘에 집중하는 게 포인트!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5688437-c612-41bd-8812-36aab94558fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 먹기 전에 곰팡이부터 확인해!_몸에 좋은 잔소리 #45]]></title>
-            <link>https://www.elle.co.kr/article/68348</link>
-            <guid>https://www.elle.co.kr/article/68348</guid>
-            <pubDate>Mon, 01 Aug 2022 06:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[고온다습한 날씨, 식품에 생기는 곰팡이 주의보.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/206212d0-2e71-47b7-9afc-341540e8f83d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[N°1 DE CHANEL GARDEN으로의 초대]]></title>
-            <link>https://www.elle.co.kr/article/68308</link>
-            <guid>https://www.elle.co.kr/article/68308</guid>
-            <pubDate>Mon, 01 Aug 2022 06:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[강인한 생명력을 지닌 레드 까멜리아의 비밀을 만나는 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/5bac866c-2c16-494b-9285-12cc5845566c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바캉스 최적화 뷰티 꿀템 7_선배's 어드바이스 #127]]></title>
-            <link>https://www.elle.co.kr/article/68256</link>
-            <guid>https://www.elle.co.kr/article/68256</guid>
-            <pubDate>Thu, 28 Jul 2022 17:50:40 GMT</pubDate>
-            <content:encoded><![CDATA[챙겨 가면 바캉스가 두 배로 즐거워지는 아이템들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/33bf3152-f7dc-4169-83b3-5a081ac2deff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
