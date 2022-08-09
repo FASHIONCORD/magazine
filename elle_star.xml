@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 05:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 17:53:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션으로 얽힌 우정?! 조세호가 지드래곤 무장 해제 시킨 사연]]></title>
+            <link>https://www.elle.co.kr/article/68668</link>
+            <guid>https://www.elle.co.kr/article/68668</guid>
+            <pubDate>Tue, 09 Aug 2022 17:48:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/6301240f-a077-4c4a-9a42-30836fa0aca1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌의 피부 비결?! 클렌징부터 스킨케어까지!]]></title>
+            <link>https://www.elle.co.kr/article/68663</link>
+            <guid>https://www.elle.co.kr/article/68663</guid>
+            <pubDate>Tue, 09 Aug 2022 17:48:10 GMT</pubDate>
+            <content:encoded><![CDATA[메이크업 클렌징부터 기초 케어까지! 오마이걸 효정이 뽀송뽀송한 베이비 피부를 유지하는 노하우...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/3350bf0d-1a5f-4949-92f2-d3137f8da904.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예쁜 거울로 보면 더 예뻐보이는 마법!]]></title>
             <link>https://www.elle.co.kr/article/68641</link>
@@ -52,22 +67,6 @@
             <guid>https://www.elle.co.kr/article/68585</guid>
             <pubDate>Sat, 06 Aug 2022 05:43:38 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6986b22b-d384-468a-bb43-7d4758ccb00c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌 카즈하는 지금 새로운 근육을 만드는 중이다]]></title>
-            <link>https://www.elle.co.kr/article/68563</link>
-            <guid>https://www.elle.co.kr/article/68563</guid>
-            <pubDate>Fri, 05 Aug 2022 05:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[발레리나에서 케이팝아티스트가 되기를 결심한. 우리 앞에 도달한 카즈하의 묵직한 마음]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/c1be72b5-f91a-41f8-8828-542bc32865a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우영우♥이준호, 방송국이 인정한 공식 럽스타그램 시작!!! (feat. 단호박 정명석)]]></title>
-            <link>https://www.elle.co.kr/article/68547</link>
-            <guid>https://www.elle.co.kr/article/68547</guid>
-            <pubDate>Fri, 05 Aug 2022 05:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[이제 그만 알아가고 사귀도록 하세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/4322fea8-85bb-4822-a84c-02da0bf65c22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

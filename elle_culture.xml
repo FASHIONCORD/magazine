@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 05:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 17:53:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임윤아 '빅마우스' vs 김세정 '오늘의 웹툰', 금토극 승자는? #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/68533</link>
+            <guid>https://www.elle.co.kr/article/68533</guid>
+            <pubDate>Tue, 09 Aug 2022 17:48:27 GMT</pubDate>
+            <content:encoded><![CDATA[누아르 ‘걸크러시’ 임윤아 vs 힐링드 ‘인간비타민’ 김세정]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/67627a3f-8952-4cb1-b416-5514ab4fe686.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나래바 박사장도 탐낸 샤이니 키의 술안주 '바냐 카우다' 초간단 레시피 (feat. 기범주)]]></title>
             <link>https://www.elle.co.kr/article/68497</link>
@@ -62,13 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 17:47:19 GMT</pubDate>
             <content:encoded><![CDATA[‘우영우’ 박은빈에게 입덕했다면 주목해야 할 5편.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/998d8df0-6f3a-4237-8a7e-59b2707a6cc8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가지에 가져가고 싶은 한 권의 책 <야생 숲의 노트>]]></title>
-            <link>https://www.elle.co.kr/article/68199</link>
-            <guid>https://www.elle.co.kr/article/68199</guid>
-            <pubDate>Thu, 28 Jul 2022 17:52:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/287bab9d-3c79-42ae-bd22-476822f21598.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
