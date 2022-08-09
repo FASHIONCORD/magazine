@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 17:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나래바 박사장도 탐낸 샤이니 키의 술안주 '바냐 카우다' 초간단 레시피 (feat. 기범주)]]></title>
+            <link>https://www.elle.co.kr/article/68497</link>
+            <guid>https://www.elle.co.kr/article/68497</guid>
+            <pubDate>Tue, 09 Aug 2022 05:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[허니제이는 바로 대게딱지장 구매.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b3f19ef6-951c-489e-8cda-6099a2cb7a15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[입을 어떻게 하라고요?! 우영우 전용 1타 강사 이준호의 첫 키스, 강태오가 직접 밝힌 비하인드]]></title>
             <link>https://www.elle.co.kr/article/68454</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/68199</guid>
             <pubDate>Thu, 28 Jul 2022 17:52:05 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/287bab9d-3c79-42ae-bd22-476822f21598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도망친 엄마들_요주의여성 #67]]></title>
-            <link>https://www.elle.co.kr/article/68184</link>
-            <guid>https://www.elle.co.kr/article/68184</guid>
-            <pubDate>Thu, 28 Jul 2022 17:52:05 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;로스트 도터&gt;가 전하는 ‘엄마’에 관한 진실.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/f2042598-13c7-44ec-9ffd-0e65980272ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

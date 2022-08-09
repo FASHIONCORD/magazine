@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 17:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 한국 사람들은 왜 아무튼이라는 말을 자주 쓸까?]]></title>
+            <link>https://www.elle.co.kr/article/68624</link>
+            <guid>https://www.elle.co.kr/article/68624</guid>
+            <pubDate>Tue, 09 Aug 2022 05:50:23 GMT</pubDate>
+            <content:encoded><![CDATA[기후 위기 속 '아무튼 ' 대처법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/7e3a9938-d802-4f94-8469-f283a3044853.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['워싱턴DC 오함마' 낸시 펠로시의 대만 방문에 역사적 의미가 부여된 이유]]></title>
+            <link>https://www.elle.co.kr/article/68613</link>
+            <guid>https://www.elle.co.kr/article/68613</guid>
+            <pubDate>Tue, 09 Aug 2022 05:50:23 GMT</pubDate>
+            <content:encoded><![CDATA[18선 하원의원, 미국 최초 여성 하원의장, 권력 서열 3위, '구찌 장갑을 낀 강철 주먹'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/80283a48-1f3e-4e0c-b4b8-80a6fe2b8324.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전용기를 택시처럼 타는 셀럽이 있다?! 테일러 스위프트가 기후 악당으로 지목된 이유]]></title>
             <link>https://www.elle.co.kr/article/68545</link>
@@ -52,21 +68,6 @@
             <guid>https://www.elle.co.kr/article/68138</guid>
             <pubDate>Wed, 03 Aug 2022 06:00:34 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/70b2b698-8d5d-44fa-8cf8-228e2946ac56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갱년기 준비하기]]></title>
-            <link>https://www.elle.co.kr/article/68041</link>
-            <guid>https://www.elle.co.kr/article/68041</guid>
-            <pubDate>Thu, 28 Jul 2022 17:55:15 GMT</pubDate>
-            <content:encoded><![CDATA[갱년기 증후군은 빠르면 40대 초반부터 찾아온다. 지금 당장 준비가 필요하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/56a5d2c7-3937-4523-895b-130eae90bfe0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 큰 대한민국으로?! '메리퀴어'·'남의 연애', 웨이브 성소수자 예능 2]]></title>
-            <link>https://www.elle.co.kr/article/68027</link>
-            <guid>https://www.elle.co.kr/article/68027</guid>
-            <pubDate>Fri, 22 Jul 2022 17:54:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/b74dee61-fd50-451f-a3bd-aa3ca9e322f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
