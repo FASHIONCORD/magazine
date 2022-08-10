@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 17:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셰퍼드 페어리 인터뷰: 행동하는 예술가의 힘]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34280057&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34280057&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 10 Aug 2022 17:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfMjQz/MDAxNjYwMDE2MzQ2MDYx.r8wFBD_eFMmq8R366u6NRTpSCvyraSO1UuTtLB_gFJkg.AU1KJ0tiW6fsG1v8_yXdiPkEPFaXjCYUeKbS4OelnQ0g.JPEG/ImmTYqRoDYzZw0A66WMdzazTqKwY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인터뷰 포함, 지용킴의 한국 첫 번째 전시 들여다보기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34112993&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MTdfNyAg/MDAxNjAwMzI1NTc5MTQx.ks-xnTUEcEm9NArIR20eXaFgbzn1tLmuxihSoREniKUg.n3QxsKAxCAh6-tzOsNYLxJ-ZPVl-00mPUNCMzXBx2KMg.JPEG/Idp_6eY4TPtnh8Fzgx6we5n3wFd4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시대의 ‘미키 마우스’ 같은 존재가 된 카우스 ‘컴패니언’에 대해서]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29392326&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29392326&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MTBfODAg/MDAxNTk5NjY0NDA5NDU2.idKj3ujy1Gj6dHS32YOVHnw1gp8tou0VDQ2hVWZUITAg.MdZwMaN2-syzebvVIngexDcg5TiBX1elmErh_wnlzAgg.JPEG/IyxAtf5IvZZGa-yUtfirml2BP28E.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
