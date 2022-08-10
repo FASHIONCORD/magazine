@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 17:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의외로 살찌는 다이어트 음식 TOP5]]></title>
+            <link>https://www.elle.co.kr/article/68638</link>
+            <guid>https://www.elle.co.kr/article/68638</guid>
+            <pubDate>Wed, 10 Aug 2022 05:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[이건 아무리 먹어도 살 안 찐다?! 흔히 알고 있던 다이어트 식품 중 주의해야 할 것들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/57b9fac9-aa23-424f-9f6a-53b71717bcfd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿨톤 피부 손들어! 샤넬뷰티의 로즈 언더톤 립&네일]]></title>
+            <link>https://www.elle.co.kr/article/68603</link>
+            <guid>https://www.elle.co.kr/article/68603</guid>
+            <pubDate>Wed, 10 Aug 2022 05:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[장밋빛 쿨톤 피부를 위한 샤넬뷰티의 2022 FW 메이크업 톤 온 톤 컬렉션! 투명한 파우더 핑크...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/21577199-bd88-4950-acba-ceecf22aa49b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우영우 김밥' 만큼 화제 된 다이어트 김밥! 살 빠지는 스타 레시피 3 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/68601</link>
@@ -53,22 +69,6 @@
             <pubDate>Thu, 04 Aug 2022 17:51:26 GMT</pubDate>
             <content:encoded><![CDATA[킴 카다시안, 카디비, 니키 미나즈 등 해외 셀럽들의 전유물인 줄 알았던 ‘롱 헤어’. 우리나...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/08f2654a-f986-4ed0-9ec6-c33f501d110c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 상반기 결산, 소희의 ‘잘샀다템’]]></title>
-            <link>https://www.elle.co.kr/article/68390</link>
-            <guid>https://www.elle.co.kr/article/68390</guid>
-            <pubDate>Thu, 04 Aug 2022 17:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티부터 패션, 푸드까지! 똑 부러지는 소희의 상반기 결산 ‘내돈내산’ 가장 잘 산 아이템은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/06215d42-aaae-4eef-a76d-61af53d1dd4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 마음에도 다이어트가 필요하다? 롱런하는 이효리+엄정화의 정신 건강 비결! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/68373</link>
-            <guid>https://www.elle.co.kr/article/68373</guid>
-            <pubDate>Mon, 01 Aug 2022 06:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[우리 내면의 힘에 집중하는 게 포인트!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5688437-c612-41bd-8812-36aab94558fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
