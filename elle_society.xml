@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 17:50:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 한국도 달에 간다! 최초 달 탐사선 다누리, 드디어 자체 비행 시작]]></title>
+            <link>https://www.elle.co.kr/article/68634</link>
+            <guid>https://www.elle.co.kr/article/68634</guid>
+            <pubDate>Thu, 11 Aug 2022 17:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[달 궤도 도착 예상 시점은 올 12월.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/cd8c2db6-d138-47a4-84f6-ebff3350a718.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우영우에겐 좋은 사람들이 있다_돈쓸신잡 #57]]></title>
+            <link>https://www.elle.co.kr/article/68626</link>
+            <guid>https://www.elle.co.kr/article/68626</guid>
+            <pubDate>Thu, 11 Aug 2022 17:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[인간관계 역시 알고리즘이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/e965be22-e122-4b7f-8a42-b6b8f22d64a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 한국 사람들은 왜 아무튼이라는 말을 자주 쓸까?]]></title>
             <link>https://www.elle.co.kr/article/68624</link>
@@ -53,21 +69,6 @@
             <pubDate>Fri, 05 Aug 2022 17:55:35 GMT</pubDate>
             <content:encoded><![CDATA[&lt;로스트 도터&gt;가 전하는 ‘엄마’에 관한 진실.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/f2042598-13c7-44ec-9ffd-0e65980272ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저녁에 택시 잡기 정말 힘들죠?_돈쓸신잡 #55]]></title>
-            <link>https://www.elle.co.kr/article/68161</link>
-            <guid>https://www.elle.co.kr/article/68161</guid>
-            <pubDate>Thu, 04 Aug 2022 05:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[심야 택시 대란이 심각한 사회 문제로 떠오르자 대응책으로 합승 서비스가 40년 만에 부활했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/897b3734-8891-44f5-bdef-667cabf2021c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오직 여성을 위해서 쓰인 재테크 책 <리치 우먼>]]></title>
-            <link>https://www.elle.co.kr/article/68138</link>
-            <guid>https://www.elle.co.kr/article/68138</guid>
-            <pubDate>Wed, 03 Aug 2022 06:00:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/70b2b698-8d5d-44fa-8cf8-228e2946ac56.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 17:50:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#Streetsnaps: AJ 트레이시]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34292741&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34292741&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 11 Aug 2022 17:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTFfMjg3/MDAxNjYwMjAyMjI5Mjk4.GGR4E0Iv-stteAo6J9Kn4EPFVCraa3CivXFF3I0jjIsg.qKgBbnP1fKIe8aCwsruUiOyO8mPDL8bXIf08RNLrTYwg.JPEG/IFVyv17xlIo4b9ldkZGSdvH4LOE0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시드 인터뷰: 5년 만의 새 앨범과 두 번째 내한공연]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34201132&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjdfMjE4/MDAxNjMyNzIxNTkwOTY5.OlFIcUZpxcSdFMExn9B_cugeWVUzaOEedu7giNAYGw4g.jKXDzDEjTPQshU3sTsDcBYjc8ehW6GzWcWjE-AHMHDgg.JPEG/I2x4WjxZ76m5V6NqtyjJOJV4or6s.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현아 & 던 인터뷰: 우리 사랑의 공식은 ‘1+1=1’]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32386073&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32386073&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfNjgg/MDAxNjMxNzgzOTc4MjAy.Txm7BbL5tmvGKUTXCug1xpmIU5pm4BIoURe3ZP-ID6Yg.dIr9SA6lIg2PR2j_168UNJfOfN4VYOxacCvePBAEDmAg.JPEG/IS71iyR2aGY8DIaSenTa3pXRWbwY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
