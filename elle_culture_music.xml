@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 05:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 17:52:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명랑함과 우울함 그 사이의 최정윤 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/68813</link>
+            <guid>https://www.elle.co.kr/article/68813</guid>
+            <pubDate>Fri, 12 Aug 2022 17:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;착한 사람들이 먼저 가는 우주&gt;로 던지는 희망.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/d8d08fcf-bb4a-48e4-875f-ac168a023fec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 첫 정식 솔로 앨범 주인공은 제이홉! 그런데 실물 CD는 안 판다고?]]></title>
             <link>https://www.elle.co.kr/article/67515</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/67266</guid>
             <pubDate>Sat, 18 Jun 2022 17:46:37 GMT</pubDate>
             <content:encoded><![CDATA[매일이 지겹다면 ‘푸른 바다 위에서 칵테일 한 잔 줘’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/0ff3a353-942f-4b53-a812-b4117a85eb6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS가 눈물과 함께 그룹 활동 잠정 중단을 선언한 이유와 향후 행보]]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/66176</guid>
             <pubDate>Fri, 06 May 2022 17:52:04 GMT</pubDate>
             <content:encoded><![CDATA[경계를 넘나드는 무드의 싱어송라이터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[낭만을 노래해 <엘르 스테이지> 콘서트 1분 컷 매진! 대체 뭐길래?]]></title>
-            <link>https://www.elle.co.kr/article/65919</link>
-            <guid>https://www.elle.co.kr/article/65919</guid>
-            <pubDate>Fri, 29 Apr 2022 05:46:33 GMT</pubDate>
-            <content:encoded><![CDATA[키워드는 한강 노을섬, 해질녘, 초여름 바람, 그리고 뮤지션 10CM, 죠지(george), 유라(youra), 미...]]></content:encoded>
         </item>
     </channel>
 </rss>
