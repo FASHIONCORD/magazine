@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 05:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 17:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손바닥만 해! 베이비붐]]></title>
+            <link>https://www.elle.co.kr/article/68799</link>
+            <guid>https://www.elle.co.kr/article/68799</guid>
+            <pubDate>Sat, 13 Aug 2022 17:43:11 GMT</pubDate>
+            <content:encoded><![CDATA[짧고 작은 베이비 티셔츠의 시즌이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/dbf5da56-6662-410d-84d2-e40f16e0a5a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비 오는 날에도, 물놀이에도 찰떡! 러버 샌들 쇼핑 리스트 5]]></title>
+            <link>https://www.elle.co.kr/article/68767</link>
+            <guid>https://www.elle.co.kr/article/68767</guid>
+            <pubDate>Sat, 13 Aug 2022 17:43:11 GMT</pubDate>
+            <content:encoded><![CDATA[투박해서 더 좋아! 유니크 서머 데일리 룩을 연출해 줄 취향 저격 러버 샌들 쇼핑 리스트에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/d325a699-bc76-46f1-9ad8-70416f567872.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세기말 감성의 촌스러운 안경이 대세! 스타일 별 쇼핑리스트]]></title>
             <link>https://www.elle.co.kr/article/68766</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 12 Aug 2022 05:43:25 GMT</pubDate>
             <content:encoded><![CDATA[패션은 발끝에서 완성된다는 사실! 켄달 제너부터 전소연까지 힙한 언니들의 사복 패션에 빠지지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/7ad124e6-db8b-4e45-bfa1-7a222a6f0ac7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피 투게더]]></title>
-            <link>https://www.elle.co.kr/article/68673</link>
-            <guid>https://www.elle.co.kr/article/68673</guid>
-            <pubDate>Fri, 12 Aug 2022 05:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[나만 없어, 반려 동물! 셀렙들의 귀여운 동물 친구들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/e8810d30-767e-4b09-ab38-f52b0345bdb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시원하게 가로질러! 경쾌한 스트라이프 패턴 활용법]]></title>
-            <link>https://www.elle.co.kr/article/68651</link>
-            <guid>https://www.elle.co.kr/article/68651</guid>
-            <pubDate>Fri, 12 Aug 2022 05:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[여름에 더 예쁜 화사한 스트라이프 패턴 코디 힌트는 여기서!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/75aaba57-24d3-4ad4-b5a8-590aadf8e40e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
