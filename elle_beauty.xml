@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 05:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 17:47:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아침 세안 VS 저녁 세안_선배's 어드바이스 #129]]></title>
+            <link>https://www.elle.co.kr/article/68683</link>
+            <guid>https://www.elle.co.kr/article/68683</guid>
+            <pubDate>Sun, 14 Aug 2022 17:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[여름 세안, 제대로 하고 있는 걸까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/a94892a3-0134-43c2-a807-66b79238c989.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘도 잘자요]]></title>
+            <link>https://www.elle.co.kr/article/68671</link>
+            <guid>https://www.elle.co.kr/article/68671</guid>
+            <pubDate>Sun, 14 Aug 2022 17:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[꿀잠 숙면 가이드]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/8f6108cf-5a83-437c-b0f5-3d9058b5133b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌의 피부 비결?! 클렌징부터 스킨케어까지!]]></title>
+            <link>https://www.elle.co.kr/article/68663</link>
+            <guid>https://www.elle.co.kr/article/68663</guid>
+            <pubDate>Sun, 14 Aug 2022 17:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[메이크업 클렌징부터 기초 케어까지! 오마이걸 효정이 뽀송뽀송한 베이비 피부를 유지하는 노하우...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/3350bf0d-1a5f-4949-92f2-d3137f8da904.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의외로 살찌는 다이어트 음식 TOP5]]></title>
             <link>https://www.elle.co.kr/article/68638</link>
@@ -45,30 +69,6 @@
             <pubDate>Mon, 08 Aug 2022 17:47:12 GMT</pubDate>
             <content:encoded><![CDATA[즐거운 휴가 후 뒤집어진 피부, 깐 달걀처럼 되돌리기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/f8b7295e-fb33-4407-ad82-4dd6ef0443c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MAC과 민니의 만남, 앞으로 김'맥'니라고 불러줄게!]]></title>
-            <link>https://www.elle.co.kr/article/68495</link>
-            <guid>https://www.elle.co.kr/article/68495</guid>
-            <pubDate>Sat, 06 Aug 2022 05:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[맥덕후'였던 민니의 성덕 스토리! 민니와 맥 NEW 파우더 키스 벨벳 블러 슬림 스틱의 운명적...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/b2b1a742-5356-49ac-8a95-6c2c4a1b85ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웜톤 피부 드루와! 샤넬뷰티의 골드 언더톤 립&네일]]></title>
-            <link>https://www.elle.co.kr/article/68494</link>
-            <guid>https://www.elle.co.kr/article/68494</guid>
-            <pubDate>Thu, 04 Aug 2022 17:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬뷰티에서 2022 FW 메이크업 컬렉션으로 선보이는 루쥬 알뤼르와 르 베르니 중 웜톤 피부를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/8f9ce4ad-114b-4f20-a240-260497876440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들만의 트렌드? 슈퍼 롱 헤어, ‘라푼젤’ 헤어스타일]]></title>
-            <link>https://www.elle.co.kr/article/68419</link>
-            <guid>https://www.elle.co.kr/article/68419</guid>
-            <pubDate>Thu, 04 Aug 2022 17:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[킴 카다시안, 카디비, 니키 미나즈 등 해외 셀럽들의 전유물인 줄 알았던 ‘롱 헤어’. 우리나...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/08f2654a-f986-4ed0-9ec6-c33f501d110c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 05:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 17:47:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테니스 치러 갈래?]]></title>
+            <link>https://www.elle.co.kr/article/68839</link>
+            <guid>https://www.elle.co.kr/article/68839</guid>
+            <pubDate>Sun, 14 Aug 2022 17:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[테니스 코트를 가르는 하이 패션의 모먼트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/679ddc69-fef2-47da-b52c-76c71f6815ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 벌로 완성하는 90년대 무드! 슬립 드레스 스타일링 5]]></title>
+            <link>https://www.elle.co.kr/article/68830</link>
+            <guid>https://www.elle.co.kr/article/68830</guid>
+            <pubDate>Sun, 14 Aug 2022 17:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[언제 봐도 매력적인 90년대 무드를 재현하고 싶다면 주목! 가녀리면서도 과감한 슬립 드레스를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/6598389e-a51d-487c-b27c-415287de46a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손바닥만 해! 베이비붐]]></title>
             <link>https://www.elle.co.kr/article/68799</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 12 Aug 2022 05:43:25 GMT</pubDate>
             <content:encoded><![CDATA[메타가 아바타에게 입힐 수 있는 디지털 의류 매장을 본격화한다고 알렸다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/9b1a2616-a4a0-410e-ad70-5fbbdd37c513.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가에 부산 어때? 셀럽이 다녀온 부산 핫플]]></title>
-            <link>https://www.elle.co.kr/article/68688</link>
-            <guid>https://www.elle.co.kr/article/68688</guid>
-            <pubDate>Fri, 12 Aug 2022 05:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[부산으로 떠나보세요! 위너가 다녀간 맛집부터 트와이스가 인생샷을 찍고 온 뮤지엄까지, 스타들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/02e8da95-b4be-4a06-af86-0616fd22d336.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 높고, 엣지있게! 힙한 언니들의 플랫폼 슈즈 룩]]></title>
-            <link>https://www.elle.co.kr/article/68676</link>
-            <guid>https://www.elle.co.kr/article/68676</guid>
-            <pubDate>Fri, 12 Aug 2022 05:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[패션은 발끝에서 완성된다는 사실! 켄달 제너부터 전소연까지 힙한 언니들의 사복 패션에 빠지지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/7ad124e6-db8b-4e45-bfa1-7a222a6f0ac7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
