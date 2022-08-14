@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 17:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 05:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 한국도 달에 간다! 최초 달 탐사선 다누리, 드디어 자체 비행 시작]]></title>
+            <link>https://www.elle.co.kr/article/68634</link>
+            <guid>https://www.elle.co.kr/article/68634</guid>
+            <pubDate>Sun, 14 Aug 2022 05:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[달 궤도 도착 예상 시점은 올 12월.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/cd8c2db6-d138-47a4-84f6-ebff3350a718.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창 밖은 여름]]></title>
+            <link>https://www.elle.co.kr/article/68602</link>
+            <guid>https://www.elle.co.kr/article/68602</guid>
+            <pubDate>Sun, 14 Aug 2022 05:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[어느새 녹음이 짙어진 여름을 감상하기에 좋은 공간 두 곳]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/e8080310-68cd-45d2-a15a-bd9a3f3d1b50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유가 폭풍 먹방한 문경 약돌돼지부터 대통령 맛집 석쇠구이까지! 문경 로컬 맛집 3 #소도시여행]]></title>
             <link>https://www.elle.co.kr/article/68565</link>
@@ -52,21 +68,6 @@
             <pubDate>Wed, 03 Aug 2022 06:00:24 GMT</pubDate>
             <content:encoded><![CDATA[고온다습한 날씨, 식품에 생기는 곰팡이 주의보.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/206212d0-2e71-47b7-9afc-341540e8f83d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배운 사람들이 만든 육즙 가득 교자와 그림 같은 마들렌! 합정에 새로 생긴 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/68297</link>
-            <guid>https://www.elle.co.kr/article/68297</guid>
-            <pubDate>Wed, 03 Aug 2022 06:00:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/dc763f9a-6edc-4ef2-9ab3-0298c1abc96a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집 나간 입맛을 되살릴 여름 레서피]]></title>
-            <link>https://www.elle.co.kr/article/68291</link>
-            <guid>https://www.elle.co.kr/article/68291</guid>
-            <pubDate>Sun, 31 Jul 2022 05:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[애피타이저부터 메인 디쉬까지 여름을 위한 메뉴를 풀 코스로 준비했다! 2021년 '톱 셰프'에 나...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/e93ec1f0-d43a-4551-913e-35331a810f31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
