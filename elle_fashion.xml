@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 17:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 05:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반려동물의 죽음은 왜 이토록 큰 상처를 남길까?]]></title>
+            <link>https://www.elle.co.kr/article/68843</link>
+            <guid>https://www.elle.co.kr/article/68843</guid>
+            <pubDate>Tue, 16 Aug 2022 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[반려동물을 떠나보낸 후 충분히 위로받지 못한 당신에게]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/15/96ab3ad2-c854-4e97-9d61-1756c724b281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제2의 견생을 찾아 떠난 강아지들의 해외 입양기]]></title>
             <link>https://www.elle.co.kr/article/68840</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Aug 2022 05:41:37 GMT</pubDate>
             <content:encoded><![CDATA[발그레 달아오른 볼을 연상시키는 '귀염뽀짝' 치크 네일.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/25f439a3-26e2-4712-883d-e425fcf4bd3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼 모델 곽지영의 D-라인 카리스마]]></title>
-            <link>https://www.elle.co.kr/article/68739</link>
-            <guid>https://www.elle.co.kr/article/68739</guid>
-            <pubDate>Sat, 13 Aug 2022 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[부푼 실루엣과 함께 드러낸 여전한 아우라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/a0a8da6e-fbb9-43ae-a209-17f744ba6cac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
