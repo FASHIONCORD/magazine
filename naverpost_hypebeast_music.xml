@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 05:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 17:50:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[250의 '뱅버스' 뮤직비디오, 미국 '우드스탁' 포함 해외 영화제 공식 초청]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34316187&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34316187&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 16 Aug 2022 17:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTZfNiAg/MDAxNjYwNjM3OTUxNDc5.1jhZWw8OzwyIkihiOdrEo_sYLZHcdOFP1BwhDvzbHQwg.am6edwOPg9VuFZGFnz4OOY3tocp0CnKtjQ9KQWcTDwEg.JPEG/ILrzX26fn3oS0XSBKW_BOzKKT1SU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#Streetsnaps: AJ 트레이시]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34292741&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Dec 2021 17:47:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMjAz/MDAxNjQwNTg3NDMxMTg2.0nAjkkt63J_GWbmZh0Zxm5Wng5VACH-A874H9l-_BzYg._VFWDpiYPQY4YbNVFuPgc71tWigmgT5--_owyP7bpzEg.JPEG/IS8UxHWEsHYlh6nU6KzO_d00N7ow.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['쇼미더머니 10'에서 주목해야 할 래퍼들 10]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32441122&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32441122&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjdfMjE4/MDAxNjMyNzIxNTkwOTY5.OlFIcUZpxcSdFMExn9B_cugeWVUzaOEedu7giNAYGw4g.jKXDzDEjTPQshU3sTsDcBYjc8ehW6GzWcWjE-AHMHDgg.JPEG/I2x4WjxZ76m5V6NqtyjJOJV4or6s.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

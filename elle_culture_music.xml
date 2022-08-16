@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 05:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 17:50:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
+            <link>https://www.elle.co.kr/article/68875</link>
+            <guid>https://www.elle.co.kr/article/68875</guid>
+            <pubDate>Tue, 16 Aug 2022 17:47:56 GMT</pubDate>
+            <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/bfc0e451-5139-489f-ba7d-4b4151a9460f.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[명랑함과 우울함 그 사이의 최정윤 #2주의뮤지션]]></title>
             <link>https://www.elle.co.kr/article/68813</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/67302</guid>
             <pubDate>Sat, 18 Jun 2022 17:46:37 GMT</pubDate>
             <content:encoded><![CDATA[수집가라면 눈 돌아갈 한정판 레코드 오프라인 행사도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/19/8397ec55-fb4d-4cce-93a2-45f09d3f1f2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슬릭의 뜨겁고 가뿐한 마음 #2주의뮤지션]]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/66259</guid>
             <pubDate>Mon, 09 May 2022 17:50:43 GMT</pubDate>
             <content:encoded><![CDATA[선예가 픽한 이 계절과 딱 어울리는 노래들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[wavy의 뉴페이스, 밀레나가 들려주는 '우리들' #2주의뮤지션]]></title>
-            <link>https://www.elle.co.kr/article/66176</link>
-            <guid>https://www.elle.co.kr/article/66176</guid>
-            <pubDate>Fri, 06 May 2022 17:52:04 GMT</pubDate>
-            <content:encoded><![CDATA[경계를 넘나드는 무드의 싱어송라이터]]></content:encoded>
         </item>
     </channel>
 </rss>

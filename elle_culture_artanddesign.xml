@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 05:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 17:50:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
+            <link>https://www.elle.co.kr/article/68875</link>
+            <guid>https://www.elle.co.kr/article/68875</guid>
+            <pubDate>Tue, 16 Aug 2022 17:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[음악을 소비하지 않고 소유하는 가장 좋은 방법. 손으로 직접 고르는 재미, 레코드숍 투어를 떠...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/bfc0e451-5139-489f-ba7d-4b4151a9460f.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[국현 대전관이 될 그곳! 충남도청 구청사로의 건축 산책]]></title>
             <link>https://www.elle.co.kr/article/68649</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/67489</guid>
             <pubDate>Tue, 28 Jun 2022 05:50:59 GMT</pubDate>
             <content:encoded><![CDATA[지금 서울을 뜨겁게 만든 남다른 신규 전시들. 키워드는 2개 이상 장소에서 열릴 것! 서울시립...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/eb414d14-38a6-4dce-aa86-bf6b53da891a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 가장 탁월한 디자인 총집합, EDIDA 2022]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/65434</guid>
             <pubDate>Mon, 11 Apr 2022 17:49:43 GMT</pubDate>
             <content:encoded><![CDATA[짧은 봄을 마음껏 즐기기에는 ‘이런’ 전시가 제격! 화사한 기운이 가득한 전시장으로의 소풍!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[찐 내돈내산! 혜리의 슬기로운 독립생활]]></title>
-            <link>https://www.elle.co.kr/article/65432</link>
-            <guid>https://www.elle.co.kr/article/65432</guid>
-            <pubDate>Mon, 11 Apr 2022 17:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[인생 첫 자취를 시작한 혜리가 새로운 보금자리를 꾸미기 위해 구매한 아이템은? 찐 내돈내산 ...]]></content:encoded>
         </item>
     </channel>
 </rss>

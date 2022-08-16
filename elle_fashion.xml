@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 05:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 17:50:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션계에 대형 사고를 일으킨 이색 콜라보 모음]]></title>
+            <link>https://www.elle.co.kr/article/68848</link>
+            <guid>https://www.elle.co.kr/article/68848</guid>
+            <pubDate>Tue, 16 Aug 2022 17:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[함께라면!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/0fecf35e-2234-43e2-a1ef-8f90949fd61c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이틴 감성 제대로! 세인트 신트라]]></title>
+            <link>https://www.elle.co.kr/article/68844</link>
+            <guid>https://www.elle.co.kr/article/68844</guid>
+            <pubDate>Tue, 16 Aug 2022 17:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[헐리우드 Z세대 셀럽들이 사랑하는 신예, 신트라 마틴스의 세인트 신트라를 주목할 때다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/f62a51c6-2271-4912-8eae-0c281ece271f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반려동물의 죽음은 왜 이토록 큰 상처를 남길까?]]></title>
             <link>https://www.elle.co.kr/article/68843</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 13 Aug 2022 17:43:11 GMT</pubDate>
             <content:encoded><![CDATA[투박해서 더 좋아! 유니크 서머 데일리 룩을 연출해 줄 취향 저격 러버 샌들 쇼핑 리스트에 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/d325a699-bc76-46f1-9ad8-70416f567872.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세기말 감성의 촌스러운 안경이 대세! 스타일 별 쇼핑리스트]]></title>
-            <link>https://www.elle.co.kr/article/68766</link>
-            <guid>https://www.elle.co.kr/article/68766</guid>
-            <pubDate>Sat, 13 Aug 2022 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[벨라 하디드부터 두아 리파까지 촌스러운 안경에 빠진 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/4ac8768e-b9f4-429b-914a-49c1a1500e5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 네일? 치크 네일!]]></title>
-            <link>https://www.elle.co.kr/article/68736</link>
-            <guid>https://www.elle.co.kr/article/68736</guid>
-            <pubDate>Sat, 13 Aug 2022 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[발그레 달아오른 볼을 연상시키는 '귀염뽀짝' 치크 네일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/25f439a3-26e2-4712-883d-e425fcf4bd3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
