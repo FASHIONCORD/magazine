@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 17:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 17:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 15개 구 곳곳에 위치한 추천 라멘 맛집 67]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34335716&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34335716&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Sat, 20 Aug 2022 17:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTlfMjM1/MDAxNjYwODkxNjkwODIw.KSyR22oV3cE1wsEHFjBA4_isAWgxDQII4_i7llaqvhkg.kidTPFhKrlRJBE5PbZhuhSS36CmQzMVhhf35plWiAaIg.JPEG/IhibrlbW8obim75m0w0ff7tl3YdI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울의 대표 평양냉면 맛집, ‘을지면옥’이 결국 철거된다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34006059&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTVfMjQw/MDAxNjI2MzM4MTUwMjY1.EKN7oxhvmMHU5ur6kZn_KXMSQaEyjWE_k4zinOgL7fQg.gG3Fwzgc1kY4bWttrjYrUB7rDnXRqVHZd5PlPJSi8XIg.JPEG/IiOitxxonLK-sVFI4ORSBOpO7sQM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KFC, 버거 번 대신 치킨 패티 세 장으로 구성된 '징거트리플다운' 출시]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31959701&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31959701&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfNTgg/MDAxNjI2MTY0ODQ4MTYw.C4LLBXO-0zQCYjzBLHbmWiypPnEr85-tXPAabkp4Kpcg._qCKdhKVnwOjYzDdES9vOVzgpTFgrt0QsTJHKp4gcm0g.JPEG/IgEfmP2nhON8T0ZIL852zGpb3PRI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

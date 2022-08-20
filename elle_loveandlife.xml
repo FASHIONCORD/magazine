@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 17:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 17:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집안에서 시원하게 여름밤 보내기! 강민경의 혼술 안주 레서피 3]]></title>
+            <link>https://www.elle.co.kr/article/68869</link>
+            <guid>https://www.elle.co.kr/article/68869</guid>
+            <pubDate>Sat, 20 Aug 2022 17:51:35 GMT</pubDate>
+            <content:encoded><![CDATA[한여름 밤의 꿀 같은 혼술 타임, 강민경이 혼술하기 딱 좋은 안주 레서피를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/f9ef7f16-aeeb-4d14-a188-f094b992ab7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달달 담백한 영동 곶감이 디저트로! 현지의 맛과 멋이 있는 영동 카페 3 #소도시여행]]></title>
+            <link>https://www.elle.co.kr/article/68841</link>
+            <guid>https://www.elle.co.kr/article/68841</guid>
+            <pubDate>Sat, 20 Aug 2022 17:51:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/0edd5f8f-cd6c-408a-9dd8-f5d5cf68c591.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마침내 공개 된 갤럭시 Z 플립4와 Z 폴드4]]></title>
             <link>https://www.elle.co.kr/article/68771</link>
@@ -52,21 +67,6 @@
             <pubDate>Sun, 14 Aug 2022 05:48:07 GMT</pubDate>
             <content:encoded><![CDATA[어느새 녹음이 짙어진 여름을 감상하기에 좋은 공간 두 곳]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/e8080310-68cd-45d2-a15a-bd9a3f3d1b50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유가 폭풍 먹방한 문경 약돌돼지부터 대통령 맛집 석쇠구이까지! 문경 로컬 맛집 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/68565</link>
-            <guid>https://www.elle.co.kr/article/68565</guid>
-            <pubDate>Wed, 10 Aug 2022 05:47:23 GMT</pubDate>
-            <content:encoded><![CDATA[고추장이 들어가지 않는 산채비빔밥 맛집도 인기!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/0d5fcb81-64ce-4f7f-ae64-e245ac55f55f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 여행도 귀찮은 당신에게 추천! 도심 속 새로 생긴 카페 투어 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/68534</link>
-            <guid>https://www.elle.co.kr/article/68534</guid>
-            <pubDate>Tue, 09 Aug 2022 05:50:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/869c7a8f-49fc-427e-90e3-1aca94d66d5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

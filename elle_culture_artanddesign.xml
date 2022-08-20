@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 17:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 17:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상적인듯 기묘한 도자 작품! 아티스트 신다인이 발견한 틈과 구멍]]></title>
+            <link>https://www.elle.co.kr/article/68987</link>
+            <guid>https://www.elle.co.kr/article/68987</guid>
+            <pubDate>Sat, 20 Aug 2022 17:50:53 GMT</pubDate>
+            <content:encoded><![CDATA[시작은 하수구 구멍이었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/51b36d42-2ba7-42c1-9629-24d914143581.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
             <link>https://www.elle.co.kr/article/68875</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/67822</guid>
             <pubDate>Thu, 07 Jul 2022 05:48:55 GMT</pubDate>
             <content:encoded><![CDATA[덥고 습한 장마철에는 실내 데이트가 제격! 지드래곤부터 RM, 샤이니 키까지 스타가 찾은 전시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/614d0d79-3f76-41d4-a328-e6d12d42ac2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이번 주 꼭 챙겨야 할, 지금 막 시작한 서울 전시 2 (feat. BTS가 설명하고 GD 다녀 감)]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/65614</guid>
             <pubDate>Tue, 19 Apr 2022 17:51:16 GMT</pubDate>
             <content:encoded><![CDATA[작품으로 다시 만나는 리 알렉산더 맥퀸.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[봄을 만끽해! 이번 주 갈만한 전시 3.]]></title>
-            <link>https://www.elle.co.kr/article/65434</link>
-            <guid>https://www.elle.co.kr/article/65434</guid>
-            <pubDate>Mon, 11 Apr 2022 17:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[짧은 봄을 마음껏 즐기기에는 ‘이런’ 전시가 제격! 화사한 기운이 가득한 전시장으로의 소풍!]]></content:encoded>
         </item>
     </channel>
 </rss>
