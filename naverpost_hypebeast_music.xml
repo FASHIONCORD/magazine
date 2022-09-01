@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 06:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 06:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비기부터 우탱 클랜까지, 블랙핑크 'Pink Venom' 속 '외힙' 5곡]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34390304&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34390304&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 01 Sep 2022 06:05:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjlfMzMg/MDAxNjYxNzY2Mjk3NjIx.vGFAOoeSRakCTLJeygrA8xIo_F-rfJ8jnKsN4rVvp9kg.fqLxzprMRMMgo1N8ift2lNpCFgQiSUbuw_ENUZidZhsg.JPEG/I-6-gXabVZXmCfUYWuv8vuBofR0I.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[250의 '뱅버스' 뮤직비디오, 미국 '우드스탁' 포함 해외 영화제 공식 초청]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34316187&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Jan 2022 17:49:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMjE1/MDAxNjQxMzc2NDQxMjYx.yVdkT9LXymPInd5zj3sSGUrZDRp0El46Tg153uSfxeMg.thEtkzlrC7O2Iav4fj2d3P-XgaKTldxbxKq_SYmBsK0g.JPEG/IiG_4A-WZ5A2G7W-MvA6ezWytw2g.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호미들 인터뷰: 새로운 세대의 시작을 선포하다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33018251&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33018251&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 27 Dec 2021 17:47:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjdfMjAz/MDAxNjQwNTg3NDMxMTg2.0nAjkkt63J_GWbmZh0Zxm5Wng5VACH-A874H9l-_BzYg._VFWDpiYPQY4YbNVFuPgc71tWigmgT5--_owyP7bpzEg.JPEG/IS8UxHWEsHYlh6nU6KzO_d00N7ow.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
