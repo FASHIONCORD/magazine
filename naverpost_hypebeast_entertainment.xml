@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 06:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 17:54:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장거리 이동 중에 보면 좋을 영화 추천 7]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34394135&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34394135&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 05 Sep 2022 17:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MzBfMjgz/MDAxNjYxODM0MTg3MDg4.f7rnunWZ42XcviRyKWbAaswZGWS654VozP0XL-1R0wEg.oSFj69xSNzlzdsFj1XPc26qUsB67pM35KxDq9Gw_XOAg.JPEG/IVmz0eI0hS28DkycZDZpVNbj46DU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브래드 피트 & 애런 테일러 존슨 내한 인터뷰]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34335849&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Mar 2022 17:42:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjFfMjE1/MDAxNjQ3ODUwOTU0NzY3.U54T4-uX3hSKU48aUEclU5SYTF-iRG92ASfjdhwDhv8g.BMcBTdZRqv4hJp4YYpAUyeVHOSsPBH_xbTiA87XcxN4g.JPEG/IJEOOIRcq2DHz-HwCiKbxpyEm_Zk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['데드풀'과 '헐크'가 만났다? 넷플릭스 신작 추천 라인업]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33447661&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33447661&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 15 Mar 2022 17:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMTRfMjgw/MDAxNjQ3MjQ5MjA2Nzg5._RGbVylM4eS12VLv5vPDOuOGFBMqkYwozWEIzwJT0s0g.0f58pZEWSyn17Zs3G1d3bzowJr5lSTf34jZ9AjqOSsog.JPEG/I_MnuleoVtNDiEtgj0emEOkbxbpg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

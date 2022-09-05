@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 06:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 17:54:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴백과 동시에 2억 뷰X200만 장 기록! K-걸그룹 최초로 VMAs 간 블랙핑크 사진 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/70188</link>
+            <guid>https://www.elle.co.kr/article/70188</guid>
+            <pubDate>Mon, 05 Sep 2022 17:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[무려 1년10개월 만의 컴백.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/ab97832b-ab56-4de0-a421-1d3a5b974a86.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경과 사뮈의 극적인 조합, 마콤마 #2주의뮤지션]]></title>
+            <link>https://www.elle.co.kr/article/70138</link>
+            <guid>https://www.elle.co.kr/article/70138</guid>
+            <pubDate>Mon, 05 Sep 2022 17:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[신인 밴드 마콤마를 ‘너는 아니?’. 꿈속의 목소리 신해경과 아침을 깨우는 목소리 사뮈가 만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/e819c648-84c6-4b1a-a04e-1b5c9dc888db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI가 읽어내는 내 음악 취향이 지겹다면? 서울 레코드숍 투어로 귀호강!]]></title>
             <link>https://www.elle.co.kr/article/68875</link>
@@ -29,14 +45,12 @@
             <guid>https://www.elle.co.kr/article/67515</guid>
             <pubDate>Tue, 28 Jun 2022 05:49:44 GMT</pubDate>
             <content:encoded><![CDATA[그 동안 멤버들은 믹스 테잎 등 무료 공개 음원으로 솔로 활동을 해 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/80b3f18c-af3d-4da2-a8b2-fd315bfd3fe6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[또 나온 K-천재, 반 클라이번 콩쿨 역대 최연소 우승자 임윤찬은 욕심이 없다]]></title>
             <link>https://www.elle.co.kr/article/67360</link>
             <guid>https://www.elle.co.kr/article/67360</guid>
             <pubDate>Tue, 21 Jun 2022 05:47:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/19ff5543-f33a-463c-974c-d5e85b8527fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화양연화 LP 아직 못 구한 사람? 가벼움의 시대에 만난 무거운 낭만, 레코드 수집]]></title>
@@ -86,20 +100,6 @@
             <guid>https://www.elle.co.kr/article/66526</guid>
             <pubDate>Tue, 24 May 2022 05:49:47 GMT</pubDate>
             <content:encoded><![CDATA[행성에서 돌아와 주변으로 눈을 돌린 [Object] 시리즈]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유럽 최대규모 케이팝 행사, 그 플렉스의 현장으로!]]></title>
-            <link>https://www.elle.co.kr/article/66415</link>
-            <guid>https://www.elle.co.kr/article/66415</guid>
-            <pubDate>Tue, 24 May 2022 05:49:47 GMT</pubDate>
-            <content:encoded><![CDATA[이게 진짜 플렉스지! 독일 프랑크푸르트에 카이와 아이브가 간 이유]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“어떤 노래 들어요?” 선예의 플레이리스트]]></title>
-            <link>https://www.elle.co.kr/article/66259</link>
-            <guid>https://www.elle.co.kr/article/66259</guid>
-            <pubDate>Mon, 09 May 2022 17:50:43 GMT</pubDate>
-            <content:encoded><![CDATA[선예가 픽한 이 계절과 딱 어울리는 노래들.]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 06:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 17:54:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엠넷 '쇼미더머니 11'에서 주목해야 할 래퍼 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34413808&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34413808&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 05 Sep 2022 17:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDJfODMg/MDAxNjYyMDk2NzI1MjMx.HyHC8EiJd0sWoGWV_w_Lr555kx0Mca9QTcKDShUjL3Ug.tIWTI7aVUDiYXIq6jYZASk4HwIBHoluWASDEvydybcwg.JPEG/IWR7uPWeLcdGBvLPnva24ViGvfzM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비기부터 우탱 클랜까지, 블랙핑크 'Pink Venom' 속 '외힙' 5곡]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34390304&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Jan 2022 17:50:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTBfNTAg/MDAxNjQxODAyNzMwMTA5.-goCyBsY9cjQJYPA6fopDsDECLL4aEhqeUu1tZUGJj0g.NbbysHy4GaNu1D7gHWFKFTnBqUF5F1XOQ5neYvYdNNUg.JPEG/IRtQGZrmIVm5b3TM8f2JJH0dr6B0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전소미 인터뷰: 첫 솔로 앨범 ‘XOXO’로 새로운 시대를 열다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33072420&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33072420&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 05 Jan 2022 17:49:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDVfMjE1/MDAxNjQxMzc2NDQxMjYx.yVdkT9LXymPInd5zj3sSGUrZDRp0El46Tg153uSfxeMg.thEtkzlrC7O2Iav4fj2d3P-XgaKTldxbxKq_SYmBsK0g.JPEG/IiG_4A-WZ5A2G7W-MvA6ezWytw2g.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
