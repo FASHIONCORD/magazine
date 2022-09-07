@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 17:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 06:51:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리움미술관의 AR 전시 '칼레이도스코프 아이즈'에서 만날 수 있는 작품들]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34424914&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34424914&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 07 Sep 2022 06:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMjg5/MDAxNjYyMzUwNDAxNjEz.1C1-Kiw3gRCB-0rkbVW5MBAT7mJzP3p2u3kZ3A7MlSgg.8L_-bRI_vg9zbXovvPBJlWXY0HScDk63Z2jZb9hMEUwg.JPEG/IvQwIUk0srTbu_4z7DiRvOAID6TE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['하입아트' 선정, 프리즈 서울에서 꼭 봐야 할 부스 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34424123&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMDZfMTMz/MDAxNjAxOTcxMzM4MDU3.wREqpz4RR2JjvdiASunBXxp2jhwRlVvkbjOBwQV9ek0g._ogcS-IxnxXMkAjEHTi6yzrWuh-Ga21btgf3yRYErtwg.JPEG/II4U8PPC4va9u9YKmLx0bn99iqjM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노브라 인터뷰, 나만의 파랑새를 찾아서]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29601399&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29601399&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMDJfMTAz/MDAxNjAxNjE5MDIxMTkx.k2srXLQYcCQjNG_LaxcZ76QN7B0-xTbtfBXukwoPhLMg.c9eO391NfqRx54amDlD5I0YYdMZSXPLSZxmVi6IJL4Ig.JPEG/IfFilbzeFIno3FBImDZhcZ7FZQq4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
