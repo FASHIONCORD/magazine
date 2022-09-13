@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 18:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 18:01:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰 사용자들 주목! 한국 상륙하는 애플페이, 언제부터 어떻게 쓸 수 있을까?]]></title>
+            <link>https://www.elle.co.kr/article/70558</link>
+            <guid>https://www.elle.co.kr/article/70558</guid>
+            <pubDate>Tue, 13 Sep 2022 18:00:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/eee3f2a2-caa3-4da8-b0fa-02d9e7e7db9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올가을, 서울의 호텔들이 맛있어진다]]></title>
             <link>https://www.elle.co.kr/article/70262</link>
@@ -59,13 +66,6 @@
             <pubDate>Wed, 07 Sep 2022 06:49:28 GMT</pubDate>
             <content:encoded><![CDATA[약속 장소로 제격! 톱모델 모임부터 골때녀들의 회동 장소까지, 셀러브리티들이 모임 장소로 선택...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/b9311a46-aa33-43d5-a50c-27c4305b300a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차 한 잔과 전시회, 온실 체험까지? 다채롭게 쉴 수 있는 나주 카페 3 #소도시여행]]></title>
-            <link>https://www.elle.co.kr/article/70180</link>
-            <guid>https://www.elle.co.kr/article/70180</guid>
-            <pubDate>Mon, 05 Sep 2022 17:54:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/c3abd410-2ead-419b-bbc0-3ab915257560.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

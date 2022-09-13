@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 18:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 18:01:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직진만 하는 나이키! 세상에서 가장 착한 회색 후디를 먼저 입어 보았습니다]]></title>
+            <link>https://www.elle.co.kr/article/70596</link>
+            <guid>https://www.elle.co.kr/article/70596</guid>
+            <pubDate>Tue, 13 Sep 2022 17:57:44 GMT</pubDate>
+            <content:encoded><![CDATA[포워드Forward 는 미래로 나아가는 나이키, 그 자체다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/70257391-6047-4faf-9e1c-4b7ac0f45221.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김치피자탕수육 같던 여자 예능 '지락실', 시즌1 굿즈와 시즌2 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/70591</link>
+            <guid>https://www.elle.co.kr/article/70591</guid>
+            <pubDate>Tue, 13 Sep 2022 17:57:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/35341a07-300c-42d5-b707-bf82f2568a64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI가 그린 그림이 미술대회에서 우승했다. 이 그림은 표절일까?]]></title>
             <link>https://www.elle.co.kr/article/70561</link>
@@ -51,22 +66,6 @@
             <guid>https://www.elle.co.kr/article/70495</guid>
             <pubDate>Mon, 12 Sep 2022 17:57:24 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/3c54798b-4289-4187-8bf3-fb583d760ac5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜수, 20년 만의 사극 드라마 '슈룹'에서 다섯 아들 엄마 된다?!]]></title>
-            <link>https://www.elle.co.kr/article/70417</link>
-            <guid>https://www.elle.co.kr/article/70417</guid>
-            <pubDate>Wed, 07 Sep 2022 06:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[20년 전에는 장희빈이었던 김혜수.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/75bbbd61-85bd-4800-a0dd-7ee3124cd330.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트러버들의 오감을 뒤흔든 작품들]]></title>
-            <link>https://www.elle.co.kr/article/70251</link>
-            <guid>https://www.elle.co.kr/article/70251</guid>
-            <pubDate>Wed, 07 Sep 2022 06:47:34 GMT</pubDate>
-            <content:encoded><![CDATA['아트 러버'들의 오감을 깨우고 총체적으로 뒤흔든 작품들. 그 매혹의 순간에 관하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/96f71d04-9a05-4589-9b64-51c2950fbf58.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
