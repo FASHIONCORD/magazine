@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 18:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 18:06:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르 벤자민 인터뷰: 동양 문화를 서양에 전파하는 브랜드]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34474012&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34474012&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 21 Sep 2022 17:55:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTVfMjI4/MDAxNjYzMjI0ODI0MDk3.tYYUy_dMQKmrfvnzAbjdXt5YBwzKBJpiHItevOR8qusg.LyILH4Q1HWjMJDWYzNWumewRP1BYnOVIcyUvbxCoAlAg.JPEG/I9NM66EzmnQSIBm9gJO66-urcWaA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다다DADA多多 인터뷰: 친구들과 함께 펼치는 경계 없는 협업]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34414097&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 19 Apr 2022 17:46:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MThfMjA5/MDAxNjUwMjc1MTA1MTYy.hDpW--GIZgdvh9ICg06aKw36oTZLw43R_CYiqF6LBVQg.y3dmrCrLwF7vLwx_eLmBAee1AKRNvvKH0AwkcZeIUwQg.JPEG/ImxfjY7RM3Jc1D0NxAYuclGe3JAg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실용성 최고, 20만 원 이하 미니백/샤코슈 추천 10]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33609947&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33609947&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 14 Apr 2022 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTFfMTUw/MDAxNjQ5NjY4MTAzOTQ0.T8u0L1nOx-0XdOr79jfZYPM1JkurMolHehBu_KCKzeEg.fQcpfwV46i5zdKKfsmfXB9lAzktDyQlK3IP4Vn7rlAwg.JPEG/IqJOMXcms1zK7DXPfb14iKDJb__k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
