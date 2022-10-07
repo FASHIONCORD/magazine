@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 06:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 18:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 3대 버거 '파이브 가이즈' 내년 상반기 국내 상륙 확정]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34584701&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34584701&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 07 Oct 2022 18:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDZfMjY2/MDAxNjY1MDM3MTMyNjM1.GRwT6bE7ZsKN4t7a4tu2oUehc0BmP34i2tLqedMZJGIg.HnjFTv8e52kOky17c1KluAQnWdMafKDdHJ8jIQdcoEQg.JPEG/IU9EEhppjO4GrkzvbkvhIQIpx14c.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 15개 구 곳곳에 위치한 추천 라멘 맛집 67]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34335716&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMTIz/MDAxNjMxNzgwMTczMjQ3.b7EFb6Opl8UB_GXEkKSOsHKoWcZrFVUXp9biRHdhwvIg.v79dxeOEKjKw41WroD-aKsMcEEjCFpPu0Bd4-Okleykg.JPEG/I92dEVugf6-ZPUXk977FaSSeFccQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수제버거 브랜드 다운타우너 x 오리온 스윙칩 '스파이시 치폴레맛' 출시]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31976168&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31976168&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTVfMjQw/MDAxNjI2MzM4MTUwMjY1.EKN7oxhvmMHU5ur6kZn_KXMSQaEyjWE_k4zinOgL7fQg.gG3Fwzgc1kY4bWttrjYrUB7rDnXRqVHZd5PlPJSi8XIg.JPEG/IiOitxxonLK-sVFI4ORSBOpO7sQM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
