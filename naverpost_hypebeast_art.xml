@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 06:58:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 18:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정기 작가를 추억하며 볼 라이브 드로잉 영상 8]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34651049&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34651049&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 20 Oct 2022 18:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTlfMjc1/MDAxNjY2MTU4MDY5NjI2.gbjzyud186h1EIXtMdgeEdEUv8zhLtfOeRhDsvr7a8Yg.zzclExs7LEbf_0MEODbHRMK_tdcOcAwo6gDpD7fA0lQg.JPEG/I13_9YmGBghoaB2JeDs0RZlTloo4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Studio Visits: 김영진]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34620687&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMjNfNDkg/MDAxNjE0MDY1MjI0MzU4.35i_rLrD_HX1HNIFq-Abpz0g1gGsIGhQMToEdayePNkg.85ASgweNHc5mehs4ujni1vYg80RMNF3de0RuhmMy2Skg.JPEG/IU4vwjP_nprRQijodlpdYJ5hmAuA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마우즈 인터뷰 - 시대적 불확실성을 마주한 젊은 아티스트의 태도]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30746913&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30746913&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMThfMTYw/MDAxNjEzNjMwOTE0ODQ0.NXvb-PA4Qz-z4-GjfotPs3XyAv0DSphsLhi_gTeY4t4g.JCK_sInALfUS_K5UIXIUyGzo0meZkf2KT44jEYSXbjQg.JPEG/IYDKCx0NLSgke6DLut_Jnladk91k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
