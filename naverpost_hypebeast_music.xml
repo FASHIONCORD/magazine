@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Nov 2022 06:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 05:58:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 x 퍼렐 윌리엄스, 협업 트랙 발표한다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34723407&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34723407&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 07 Nov 2022 05:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDJfMjM2/MDAxNjY3MzYwNzU4NzEx.BpoqOjQDamfmTdQOxp1E2amLNgig4i2WrZ6BiMQZ7Bog.9RU5GBi0Qcp1Vq8PTiCCuy-BctOmUv3qXeYFJtUpMkEg.JPEG/IHGKnMvoGltr8r5NFAGLh2U1q7CI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hypebeast Visits: 바밍 타이거가 '퍼포먼스 비디오'를 찍은 이유는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34461943&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 07 Mar 2022 17:41:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDdfMjM1/MDAxNjQ2NjMzMDI0MjMz.VWcY0M4TCZvRK7mmnvjyoT1CTeBnt03qhxagyabc0UUg._N5w7fIvi7XKkcJuCc44JJ5L_lbMT--Xj3QOT5ooT2Yg.JPEG/IA4G4u2ayC_l3b9EDy2hxtJmW6bg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장기하 인터뷰: 솔로 가수 장기하의 새로운 자기소개서]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33380905&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33380905&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 02 Mar 2022 17:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDJfMjA3/MDAxNjQ2MjA0NjY5ODIy.BNmxD40ftFFRzWhlAvMFZt380CxyeijazqQ0P0TyG2kg.107zGGnHxYJSONP-eyxdBVWGneqcpgMZfI3UqRU-i_Yg.JPEG/IP4EWDI6z5WjU2fethyNMQgIVBGE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
