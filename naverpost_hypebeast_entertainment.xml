@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 05:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 17:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년부터 공개될 한국 넷플릭스 시리즈 라인업]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34905032&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34905032&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 07 Dec 2022 17:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDZfMTc1/MDAxNjcwMzE1MjMwODkz.wB3m1VrXCXlyu7XW-XzxxH14rUcb-mGAfEaNFZ_fzY0g.gVqa9HNIx8w6q-Pi75PQzTb-tIaKL0G6wD1wa4LrN0cg.JPEG/IakjfSmd8YX7wT9hZkfxO0xpdIDs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MCU 역대 쿠키 영상 49개 중 '최고의 쿠키' 순위는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34532791&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 31 Mar 2022 17:44:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjlfODEg/MDAxNjQ4NTQzMTA0NDAz.sDwESDZUJEdfbziUfJERh6f-R4ybWESPU09UlgSfaYQg.Bnbz1Ol4QcWR6PTA9MdS_ZOSyfOn5SzVCDb1NrC-Tb8g.JPEG/I4INp1syP73UcdprSYvJTAjaar9s.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘파친코’ 인터뷰: 애플이 그려낸 한국 역사와 가족의 연대기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33535050&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33535050&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 29 Mar 2022 17:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjlfMTgy/MDAxNjQ4NTQyMTk2NzY1.LqR5l0_Hquar_PRVku6jDY7LwAryfQJJ_w_nnnCJI9Mg.XVMD3juTfLzsJDCxraLrXVX1C-BIzwtAGQlBjfLKkRkg.JPEG/IRXdPlDdnYlIdMRfQ4cuzt5E_VCM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
