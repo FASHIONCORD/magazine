@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 신발</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 05:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 17:51:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투표: 여러분이 뽑은 2022년 최고의 스니커는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35001044&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35001044&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Sat, 24 Dec 2022 17:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjFfMjc3/MDAxNjcxNjEyNTk4Njg1.tI8D8OS-LMvdJycCIrXeIF9E1tCMcFGf21pxSJnSSI4g.DI_UVng32THdvnxoRr0-UKildb_dyaEgGEs_RzJU_VUg.JPEG/IMu25a6W3IVGS7QrFN6qAJKPPPFQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['하입비스트'와 KREAM, '루이 비통 x 나이키 에어 포스 1' 증정 이벤트 진행]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34822301&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 03 Jan 2022 17:48:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfMzAg/MDAxNjQxMTkzNTAwNzAx.M-vds6qXmFo-7Fai0lo_Y8uPuMGhutY7slHgUvmvlYUg.0q3LEgklhFyJATwNm8p-BS68KLiQCchF7PBKfGwS51gg.JPEG/I6aYtDk579lwVEkGtUjcUpI2yTnI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 덩크 로우 ‘서울’을 만난, 서울 사람들]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32156877&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32156877&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTJfNDgg/MDAxNjI4NzQwMzkzMjYz.n-zV_BzWXZoGPtE-KCaffcDRCmoiV7ji155LPrFdeTgg.7A8UVGyxh5Y4uoqi5p9e21H2VPbUQvgTAiiv3r_TWfog.JPEG/IVLhFurc9Ck919BQ7jOvn1N_X088.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
