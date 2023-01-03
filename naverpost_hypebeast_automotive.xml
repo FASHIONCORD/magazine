@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 17:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 05:49:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Open Road: 2023 현대 뉴 그랜저]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35064721&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35064721&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 03 Jan 2023 05:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDJfNzQg/MDAxNjcyNjQ1MzIzMDE4.avtXD0Tz8Cr0I8IVjygVL_u7gReNKrApRzVxhGlVrSQg.pBg61Q8-r1d9Sdin-Kc-0ih-ap9aPbGdTtoheWq5NlUg.JPEG/IUCrw85LWfUia9PopOCPgAh85kNA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자동차+오타쿠, '하입비스트'가 만난 이타샤]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34828973&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Jan 2022 05:38:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTlfNTIg/MDAxNjQyNTY5OTcyMDI5.Xefve0mj6qRYS6k67SUt-NBKLdrtF0ZF2pnjxMu6mh0g.bdxTzmobWMddnuvj1LnNdO-9xiridO5kO5IcpBGuXsAg.JPEG/IKpzke4YQHSRnfD8kwTL4n5Nyc-U.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW부터 애스턴마틴까지, 유명 자동차 모델들의 최초 디자인은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33057566&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33057566&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 06 Jan 2022 17:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfMjg3/MDAxNjQxMTk0ODY3MDM0.CorI0mMOJM2xpmc3QqYHbX2mnMMzE7985-vp3LrseIMg.MD79C8V4FbyuMpq3eYyYi3PE0QyW7lbZUk2amJGUG1Ig.JPEG/ITNXludRC27cgahH_O7iFhc_4Bm0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

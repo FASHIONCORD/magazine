@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 17:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 05:49:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우원재 인터뷰: 쉬지 않는 래퍼의 쉼표 ‘comma’]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35064653&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35064653&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 03 Jan 2023 05:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDJfMTg2/MDAxNjcyNjQ0Nzk0MTYw.LNmeVc69Usdm05Zu_0B-dEk3NLxvXPc1I8ov7D56ZGQg.n5WTnr5pylk_1rSgS_7eTta9gmN1Ur-SthTC6g-WAO0g.JPEG/I6CBvhFyrSJfU5uJIJNI4fqGGeTU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#Streetsnaps: 키스 에이프]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35046516&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 29 Mar 2022 17:42:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjlfMjE2/MDAxNjQ4NTQxOTU2MTU4.ZQVV566zULc0qlwHZ6YLUaMYGZxsm8h7ANi6cWgWE-0g.H4KUUnHcSBrv-AijxPZKA6vfD0JmiuQy5kqDQ85hqzYg.JPEG/IFglYHGoOwVUUSITLuFOs5vEOLMc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서리가 직접 이야기하는 새 싱글 'Can't Stop This Party']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33494716&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33494716&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 22 Mar 2022 17:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjJfMjgz/MDAxNjQ3OTM0NTYzNTUw.zVXALhWiwQoYt1sYYfDQMeNRXWy45K-Xv3qQnFScWeAg.Bsw1hVicUSzzJci84MLWLHEFFWmiKi-QNy7I7ADoOiog.JPEG/I00rI44YmYiSIfJoANWOPI_28M3g.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
