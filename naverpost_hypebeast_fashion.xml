@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 17:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 05:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웰던 인터뷰: 예술과 패션, 그리고 웰던의 독창적 미학]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35155822&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35155822&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 18 Jan 2023 05:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTZfMjY5/MDAxNjczODUxMzc5NzE4.UStMdBUT2S3l0sPYJgR_BUp64qbD-drsakONhG7Y3TEg.z8JBBpBkzSZmv5IUi-jTf4Lu-J9Rr3y9PYb2WaufzeAg.JPEG/InRJGx5KZ94BiFkGpXVfHucR95RI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해를 빛낸 100인, 2022년 ‘하입비스트100’ 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34962262&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Jul 2022 17:45:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjFfMjU4/MDAxNjU4Mzk1MTkxMTQ5.KLAg9LH66eO7FjJgziIg_irMqVnKOGsmxL-KxVBY0_Ig.iKzw_hAqQogZ672hgda5jv_ty5jv3VBihA6eWiFOyhkg.JPEG/Ir3KLjoCMS6GNjFUMOpUWjYq6Kpw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wrist Check: ‘탑건’ 개봉으로 내한한 톰 크루즈 & 까르띠에 산토스]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34031950&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34031950&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 27 Jun 2022 17:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjdfMTI4/MDAxNjU2MzIyMzA1MDc3.xMdLdBJJHBTykuycBArdjrFrkPQuacRcSTXRVrz25BUg.jIQVn0S3UPMSYcVrFWDonzer33CfUS1LKGUTuQSakE8g.JPEG/IDu_FvDORT9ivAkwoVqbDXV2Iu-8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
