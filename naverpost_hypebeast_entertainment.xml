@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 17:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 17:52:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아홉 명의 1999년생, ‘99 Problems’]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35493910&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35493910&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Sat, 18 Feb 2023 17:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMzUg/MDAxNjc2NjE3Mzg4Nzg0.5sZ22DLX_GcGYnLtKZd3TQr66K9TZ3ZOjGbBffDMmWsg.LhGEWkOfR-rLIwgr1-tz9aWga0yU4xvi5RasTBK_3pcg.JPEG/Ip8QhwQwqD7bDaC3CVFMug2d_SAY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<귀칼>, <진격거>, <나혼렙> 등 2023년 기대해야 할 애니메이션 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35111153&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Apr 2022 17:46:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjZfOTkg/MDAxNjUwOTYwOTk0NDA0.9mJ5o56h8vqoaVGtjK4hSt4yVedR760gmgK77oldn1Yg.9SpvRc2PnUyedF5aUnz75fPi0IWrhXChPP32vshWEi0g.JPEG/IO9NRv3c5BbhzphJUsXQu2crx0gI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['귀멸의 칼날' 3기 '대장장이 마을편' 첫 예고편 공개]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33645258&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33645258&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 18 Apr 2022 05:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MThfODUg/MDAxNjUwMjUyOTI1MTgx.CG1ld_ICimB7l7AbhAuxp3lM5ItFnp379qnyRYoNCgsg.pOoHg97M9aZggYpZ4W9KBTx7BG13JXDNcpLOQRz3NEIg.JPEG/INcDAZdwsebys_aVMZ4TEsQfO3GQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
