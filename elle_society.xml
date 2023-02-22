@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 05:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 17:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내를 강타한 ‘슬램덩크 신드롬’, 추억은 돈이 된다_돈쓸신잡 #85]]></title>
+            <link>https://www.elle.co.kr/article/75057</link>
+            <guid>https://www.elle.co.kr/article/75057</guid>
+            <pubDate>Wed, 22 Feb 2023 17:42:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/f85c97ab-04f5-4c50-a8dd-0a2824eeefd3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 이게 다 내가 먹은 것 때문이라고...? 퍼스널 트레이닝 잔혹사]]></title>
             <link>https://www.elle.co.kr/article/75050</link>
@@ -57,14 +64,6 @@
             <guid>https://www.elle.co.kr/article/74947</guid>
             <pubDate>Wed, 22 Feb 2023 05:42:15 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/b52c737c-1ddc-47ea-830b-701fc14428fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마고 로비가 꼭 <바빌론>의 넬리여야 했던 이유_요주의여성 #80]]></title>
-            <link>https://www.elle.co.kr/article/74933</link>
-            <guid>https://www.elle.co.kr/article/74933</guid>
-            <pubDate>Wed, 22 Feb 2023 05:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;바빌론&gt;의 넬리 라로이는 어둠 속에 사라졌지만, 마고 로비는 영원히 살 것이다. 자신의 힘으로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/758f3523-657d-4d22-9f4b-74ec07ee83f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

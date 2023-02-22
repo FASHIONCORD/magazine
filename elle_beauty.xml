@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 05:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 17:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비비드 컬러 메이크업]]></title>
+            <link>https://www.elle.co.kr/article/75114</link>
+            <guid>https://www.elle.co.kr/article/75114</guid>
+            <pubDate>Wed, 22 Feb 2023 17:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[올봄 채도를 한껏 끌어올린 비비드 컬러에 주목하시라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/19/8764ec89-779f-4bad-a6db-35f95123a482.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤일리 비버도 피하지 못한 단발병! 단발병을 유발하는 스타 3]]></title>
             <link>https://www.elle.co.kr/article/75113</link>
@@ -60,14 +68,6 @@
             <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
             <content:encoded><![CDATA[은하수를 얹은 듯 반짝반짝 빛나는 글리터 메이크업 하는 법을 알려드립니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/09645bba-2e5a-4f95-8fa2-23c7e2574d68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해의 컬러, '비바 마젠타'는 웜 톤? 쿨 톤? 내 톤에 맞는 비바 마젠타 립 고르기_선배’s 어드바이스 #156]]></title>
-            <link>https://www.elle.co.kr/article/74977</link>
-            <guid>https://www.elle.co.kr/article/74977</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[퍼스널 컬러별로 다르게 즐기는 비바 마젠타 립 메이크업!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/c0ea59ef-caa0-4128-914c-bf0b36373840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
