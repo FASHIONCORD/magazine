@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 17:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 05:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계가 사랑한 색채의 마술사, 데이비드 호크니와 60년대 런던이 통째로 DDP에 온다!]]></title>
+            <link>https://www.elle.co.kr/article/75284</link>
+            <guid>https://www.elle.co.kr/article/75284</guid>
+            <pubDate>Thu, 23 Feb 2023 05:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[격동의 60년대, 영국 팝아트 신을 이끈 주역들의 작품을 한눈에!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e14f9418-1d80-4e7e-923e-6d7726fd95fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아티스틱 스페이스]]></title>
             <link>https://www.elle.co.kr/article/73000</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/72992</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[10년 전 파리에 자신의 첫 갤러리를 오픈한 아르멜 소예르는 어느 날 프랑스 남부 생트로페로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/44e597f9-9531-4597-8c1c-36dd7dd9f21f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컬러풀 소파! 화이트 & 베이지]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/72983</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[싱그러운 에너지를 불어넣는 푸른빛 마법.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이 재개봉은 못 놓치지! 꼭 봐야 할 프랑스 시네마 3 편]]></title>
-            <link>https://www.elle.co.kr/article/74596</link>
-            <guid>https://www.elle.co.kr/article/74596</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[프랑수와 트뢰포의 걸작 2편, 그리고 누벨바그에 대한 경의로 가득한 올리비에 아사야스의 오리지...]]></content:encoded>
         </item>
     </channel>
 </rss>

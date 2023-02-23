@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 17:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 05:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인형이 대세? 지금 가장 트렌디한 인형 키체인 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/75263</link>
+            <guid>https://www.elle.co.kr/article/75263</guid>
+            <pubDate>Thu, 23 Feb 2023 05:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[이번 시즌 유독 눈에 띄는 패션 브랜드들의 인형 예찬. 어떤 것을 고를까 고민이라면 다음 보...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/eec4da4c-3201-4b77-af06-9ea6a0101374.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자카드와 패턴으로 물든 에트로 여인]]></title>
+            <link>https://www.elle.co.kr/article/75227</link>
+            <guid>https://www.elle.co.kr/article/75227</guid>
+            <pubDate>Thu, 23 Feb 2023 05:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[이국적 정취에 스며든 여인의 그림같은 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/ee8fa06d-ed06-49a4-94df-6117807613b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀엽고 보이시한 무드 가득! 뉴스보이 캡을 쓴 셀러브리티 5]]></title>
             <link>https://www.elle.co.kr/article/75215</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 05:40:23 GMT</pubDate>
             <content:encoded><![CDATA[90년대 트렌드와 함께 다시 등장한 후프 귀고리는 점점 극대화돼 어깨에 닿을 만큼 크고 볼드해...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/4a1afa1b-c857-47bd-b39b-a08d4e983446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비포 선셋]]></title>
-            <link>https://www.elle.co.kr/article/74650</link>
-            <guid>https://www.elle.co.kr/article/74650</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[노을 지는 해변가의 낭만을 담은 룩을 기억하자. 이국적인 그러데이션과 프린트가 런웨이까지 물...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/e5aa3937-b056-4026-b6bd-5c23c26935c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홈 오브제 퍼레이드 ②]]></title>
-            <link>https://www.elle.co.kr/article/75117</link>
-            <guid>https://www.elle.co.kr/article/75117</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[에르메스 2022 홈 컬렉션은 밝은 에너지를 담뿍 담았다. 상상을 초월하는 극강의 아름다움. 홈 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/cfa319cc-0a0b-4111-af99-73c0f7409a69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
