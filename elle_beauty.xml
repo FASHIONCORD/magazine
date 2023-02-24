@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 17:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 05:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 남자 친구에게]]></title>
+            <link>https://www.elle.co.kr/article/74512</link>
+            <guid>https://www.elle.co.kr/article/74512</guid>
+            <pubDate>Fri, 24 Feb 2023 05:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[내 반쪽에게 기꺼이 선물하고 싶은 세련된 자태의 남성용 모이스처라이저.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/41121515-830e-4be8-8f0d-f5ba305c7460.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비비드 컬러 메이크업]]></title>
             <link>https://www.elle.co.kr/article/75114</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/75042</guid>
             <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/4329269c-8e85-41b2-8fea-e9dee0a81777.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반짝반짝 아름다워! 모델 이승미의 글리터 메이크업 튜토리얼]]></title>
-            <link>https://www.elle.co.kr/article/75025</link>
-            <guid>https://www.elle.co.kr/article/75025</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[은하수를 얹은 듯 반짝반짝 빛나는 글리터 메이크업 하는 법을 알려드립니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/09645bba-2e5a-4f95-8fa2-23c7e2574d68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

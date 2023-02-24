@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 17:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 05:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬의 다크 로맨스]]></title>
+            <link>https://www.elle.co.kr/article/75261</link>
+            <guid>https://www.elle.co.kr/article/75261</guid>
+            <pubDate>Fri, 24 Feb 2023 05:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[어둡고 웅장한 고성에서 펼쳐진 한 편의 모노드라마.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/033b6863-25b8-40dc-a5a8-d2355e5b14c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파리 그랑 팔레 일대를 K팝 콘서트장으로 탈바꿈시킨 지드래곤? feat.샤넬 2023 봄/여름 오트 쿠튀르 쇼]]></title>
+            <link>https://www.elle.co.kr/article/75260</link>
+            <guid>https://www.elle.co.kr/article/75260</guid>
+            <pubDate>Fri, 24 Feb 2023 05:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 2023 봄/여름 오트 쿠튀르 쇼에 참석하기 위해 파리를 찾은 지드래곤은 어느 때보다 호기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/aabb9353-d7d8-494d-a31b-09e52cc00a2b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아찔한 노 팬츠 트렌드]]></title>
+            <link>https://www.elle.co.kr/article/74526</link>
+            <guid>https://www.elle.co.kr/article/74526</guid>
+            <pubDate>Fri, 24 Feb 2023 05:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[더욱 파격적인 자태의 '하의 실종' 패션이 돌아왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/7f11c5c9-eb76-4414-9d9b-80c4b1465c9a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인형이 대세? 지금 가장 트렌디한 인형 키체인 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/75263</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 17:40:04 GMT</pubDate>
             <content:encoded><![CDATA[시대의 페르소나와 함께한 재키 백의 결정적 순간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/16e52487-cf4b-4d6d-9004-9f5ac5f3952a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간달프가 런웨이에? 2023 F/W 런던 패션위크에 모델로 등장한 의외의 인물들]]></title>
-            <link>https://www.elle.co.kr/article/75206</link>
-            <guid>https://www.elle.co.kr/article/75206</guid>
-            <pubDate>Wed, 22 Feb 2023 17:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[상금 4억 원의 주인공, 2022 LVMH 프라이즈 우승자의 컬렉션부터 ‘저스틴 비버 패션’까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/56a7904c-172a-4668-b993-96bf1449c434.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷 잘 입는 모델 김성희가 추천하는 인생 신발 TOP10]]></title>
-            <link>https://www.elle.co.kr/article/75156</link>
-            <guid>https://www.elle.co.kr/article/75156</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[예쁜 신발 다 신고 싶어서 ‘내가 지네였으면 좋겠다’ 생각했던 적 있다면 손! 김성희가 마르...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/89d9bd24-1f28-4b74-bc05-0073b8d93ab3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 후프 귀고리]]></title>
-            <link>https://www.elle.co.kr/article/75154</link>
-            <guid>https://www.elle.co.kr/article/75154</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[90년대 트렌드와 함께 다시 등장한 후프 귀고리는 점점 극대화돼 어깨에 닿을 만큼 크고 볼드해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/4a1afa1b-c857-47bd-b39b-a08d4e983446.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

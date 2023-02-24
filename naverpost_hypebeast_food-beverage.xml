@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 17:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 05:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HOW TO: 육개장 사발면을 활용한 똠얌 & 마라 탉개장]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35526459&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35526459&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 24 Feb 2023 05:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjNfMjUg/MDAxNjc3MTM2OTQxNzYy.NBNhJp7WR38INC9d1YAKbS1un0vnAQEaEJnXd6mt_8Qg.k3sJlW8E2DdMFbE2HhsaWaigmxsfDx0rtw60jjrjEeMg.JPEG/IPcdQR1NbI9rrZqqUi1tUWKivONE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HOW TO: 향이 강한 고수를 디저트로 즐길 수 있는 레시피]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35243822&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 24 Oct 2021 17:43:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMTIx/MDAxNjM0NjM0NzAzMzgz.znpt4nc25vNdwbHCGM37_iPXimvNYV3njYz1sZCxknMg.GYRIIEAqmfCAlezV-Jr6rDrB1udnLAPx0JlsrvsH1DMg.JPEG/Imtd_p082ilO27ndrw8kQGIaW08U.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말 드라이브 코스로 딱 좋은 경기도 광주시 추천 카페 6]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32510149&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32510149&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Sat, 09 Oct 2021 05:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMjkw/MDAxNjMzNTk1MDgwMzEx.X2B_L29LasYsjnNgGr494XdZf3mJ2_apu8brdpGlbLYg.5LnBu4Cxzw5dufYIDR6eQ-VJZVQ7lJA88iJJewoU0Esg.JPEG/ImAyCLg9DSx9ah-MCg9iX-ShERvk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
