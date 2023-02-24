@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 05:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 17:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반클리프 아펠의 시간에 대한 독창적인 비전]]></title>
+            <link>https://www.elle.co.kr/article/75251</link>
+            <guid>https://www.elle.co.kr/article/75251</guid>
+            <pubDate>Fri, 24 Feb 2023 17:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[반클리프 아펠 포에틱 컴플리케이션 워치와 조우한 모델 오지영의 우아한 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/9eb2edfb-8575-48b7-a8ea-662b9e96a655.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벨라 하디드처럼 힙하게! 조이처럼 러블리하게! #카디건패션]]></title>
+            <link>https://www.elle.co.kr/article/75267</link>
+            <guid>https://www.elle.co.kr/article/75267</guid>
+            <pubDate>Fri, 24 Feb 2023 17:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[지금부터 봄까지 활용할 수 있는 카디건 스타일의 힌트를 스타들의 패션에서 참고해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/3f2d15b3-f36a-4eb7-bf8f-82ced72c45d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬의 다크 로맨스]]></title>
             <link>https://www.elle.co.kr/article/75261</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 17:40:04 GMT</pubDate>
             <content:encoded><![CDATA[일명 빵모자로 불리는 뉴스보이 캡으로 패셔너블한 데일리 룩을 완성한 스타들을 확인해 보세요....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/1df8b186-e703-4034-8440-bc37065c02ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아티스틱 스페이스]]></title>
-            <link>https://www.elle.co.kr/article/73000</link>
-            <guid>https://www.elle.co.kr/article/73000</guid>
-            <pubDate>Wed, 22 Feb 2023 17:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[엘르 데코가 주목한 예술적인 공간 4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/2995cc55-adf0-476f-a2b2-8e2172a48edc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재키 백과 함께라면]]></title>
-            <link>https://www.elle.co.kr/article/75214</link>
-            <guid>https://www.elle.co.kr/article/75214</guid>
-            <pubDate>Wed, 22 Feb 2023 17:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[시대의 페르소나와 함께한 재키 백의 결정적 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/16e52487-cf4b-4d6d-9004-9f5ac5f3952a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
