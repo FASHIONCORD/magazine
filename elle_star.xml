@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 17:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 05:41:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박서보, 한 줄 이라도 더 긋고 싶은 아흔살 화백이 폐암 판정을 두고 한 다짐]]></title>
+            <link>https://www.elle.co.kr/article/75304</link>
+            <guid>https://www.elle.co.kr/article/75304</guid>
+            <pubDate>Sat, 25 Feb 2023 05:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[폐암 3기 판정을 받고 올린 박서보 화백의 심경. "전화하지 마시라, 그럼에도 말을 전하고 싶다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/488084c3-b3d0-4365-97c2-61bc20fde3ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["도망이 아니라 희망이야": 송혜교 복수, 정성일X이도현 조력 암시? '더 글로리' 예고편 내용]]></title>
             <link>https://www.elle.co.kr/article/75281</link>
@@ -58,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/75213</guid>
             <pubDate>Thu, 23 Feb 2023 05:39:56 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/45924bd3-c28a-4283-8a86-1f944c6f5401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취약계층 여성에 생리대를? 누적 금액만 30억 넘는 유재석의 기부 근황.update]]></title>
-            <link>https://www.elle.co.kr/article/75210</link>
-            <guid>https://www.elle.co.kr/article/75210</guid>
-            <pubDate>Wed, 22 Feb 2023 17:40:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/b1286256-947f-4b6f-8cbe-c7e60bdac31a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
