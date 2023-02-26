@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 17:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 05:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이게...맞아? 통신3사가 3월에 주는 데이터 30GB, 도움이 될까 (feat. 나이 체크 필수)]]></title>
+            <link>https://www.elle.co.kr/article/75285</link>
+            <guid>https://www.elle.co.kr/article/75285</guid>
+            <pubDate>Sun, 26 Feb 2023 05:40:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/7a09e2f9-08a0-4226-ba82-d4dcff6199a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["카톡 친구로 돼 있는데 누구시죠?" 카톡에 답했다가 큰일 날 수도 있다고?]]></title>
+            <link>https://www.elle.co.kr/article/75273</link>
+            <guid>https://www.elle.co.kr/article/75273</guid>
+            <pubDate>Sun, 26 Feb 2023 05:40:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/f180c807-e02b-4ea3-83b2-a0c0b5809f9c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발코니가 포인트! 인테리어에 진심인 바이어의 랜선집들이 #취향을담은집]]></title>
             <link>https://www.elle.co.kr/article/75228</link>
@@ -49,21 +63,6 @@
             <guid>https://www.elle.co.kr/article/75102</guid>
             <pubDate>Wed, 22 Feb 2023 05:42:03 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/29fcc4f0-be66-4730-a2e1-4328aaba3863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱 그 자체! 프러포즈 성지로 꼽히는 서울 분위기 맛집 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/75096</link>
-            <guid>https://www.elle.co.kr/article/75096</guid>
-            <pubDate>Wed, 22 Feb 2023 05:42:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/c3657863-aa90-4be1-8cb2-341f0b9b03a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛과 멋 가득! 이웃 나라로 여행을 떠난 스타들 5]]></title>
-            <link>https://www.elle.co.kr/article/75078</link>
-            <guid>https://www.elle.co.kr/article/75078</guid>
-            <pubDate>Wed, 22 Feb 2023 05:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[가장 가까운 곳으로 해외 여행 떠나볼까요? 레드벨벳 슬기, 유이, 황보라 등 스타들이 방문한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/b42c3d7a-da8e-4583-a343-4a20e5a82f6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 17:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 05:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 상견니 가가연, 허광한, 시백우가 만든 영원의 순간들]]></title>
+            <link>https://www.elle.co.kr/article/75289</link>
+            <guid>https://www.elle.co.kr/article/75289</guid>
+            <pubDate>Sun, 26 Feb 2023 05:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[대만과 서울, 1998년과 2023년. 어떤 시공간에서든 서로를 알아보는 세 사람이 즐겁게 춤춘다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/78fc6b5a-e7e1-439c-a8a3-de741de32512.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프로 살림꾼, 김나영이 사용하는 주방용품은?]]></title>
             <link>https://www.elle.co.kr/article/75308</link>
@@ -59,14 +67,6 @@
             <pubDate>Thu, 23 Feb 2023 17:41:30 GMT</pubDate>
             <content:encoded><![CDATA[&lt;사랑이라 말해요&gt;의 동진과 우주. 새롭고 낯선 얼굴로 돌아온 두 사람.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fc0a014e-c135-4977-a895-276de5e74993.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀엽고 보이시한 무드 가득! 뉴스보이 캡을 쓴 셀러브리티 5]]></title>
-            <link>https://www.elle.co.kr/article/75215</link>
-            <guid>https://www.elle.co.kr/article/75215</guid>
-            <pubDate>Thu, 23 Feb 2023 05:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[일명 빵모자로 불리는 뉴스보이 캡으로 패셔너블한 데일리 룩을 완성한 스타들을 확인해 보세요....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/1df8b186-e703-4034-8440-bc37065c02ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

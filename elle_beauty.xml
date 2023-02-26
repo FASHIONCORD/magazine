@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 17:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 05:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톱 모델 한혜진이 알려주는 시크한 메이크업 Tip]]></title>
+            <link>https://www.elle.co.kr/article/75118</link>
+            <guid>https://www.elle.co.kr/article/75118</guid>
+            <pubDate>Sun, 26 Feb 2023 05:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[도도한 매력의 소유자, 한혜진이 프랑스 파리에서 열린 행사를 준비하며 선보인 메이크업을 따라...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/57f9f60d-3db4-4370-ac94-20d67ebcef2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 남자 친구에게]]></title>
             <link>https://www.elle.co.kr/article/74512</link>
@@ -61,13 +69,6 @@
             <guid>https://www.elle.co.kr/article/75067</guid>
             <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/ab63d3da-772f-4a0c-90d8-aea02eb5e79c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출산 후 드라마 컴백 예고한 박신혜! 산후 체중 감량 비법은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/75042</link>
-            <guid>https://www.elle.co.kr/article/75042</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/4329269c-8e85-41b2-8fea-e9dee0a81777.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
