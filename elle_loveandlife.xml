@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 05:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 17:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로 살림꾼, 김나영이 사용하는 주방용품은?]]></title>
+            <link>https://www.elle.co.kr/article/75308</link>
+            <guid>https://www.elle.co.kr/article/75308</guid>
+            <pubDate>Mon, 27 Feb 2023 17:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[언니 이거 뭐예요? 빈티지 그릇부터 조리 도구까지, 주방을 탈탈 털어 소개합니다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/4a107ba6-c7f7-4104-9d3f-ddfb15cbdbb6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이게...맞아? 통신3사가 3월에 주는 데이터 30GB, 도움이 될까 (feat. 나이 체크 필수)]]></title>
             <link>https://www.elle.co.kr/article/75285</link>
@@ -56,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/75132</guid>
             <pubDate>Thu, 23 Feb 2023 05:41:08 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/4e8ef6c2-071a-4771-9301-1932e0d17138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백종원 컵라면에 쿠키&크림 빵까지! 날개 돋친 듯 팔리는 중인 편의점 신상 2]]></title>
-            <link>https://www.elle.co.kr/article/75102</link>
-            <guid>https://www.elle.co.kr/article/75102</guid>
-            <pubDate>Wed, 22 Feb 2023 05:42:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/29fcc4f0-be66-4730-a2e1-4328aaba3863.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

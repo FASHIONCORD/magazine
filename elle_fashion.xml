@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 05:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 17:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경계의 서 있는 디올]]></title>
+            <link>https://www.elle.co.kr/article/75306</link>
+            <guid>https://www.elle.co.kr/article/75306</guid>
+            <pubDate>Mon, 27 Feb 2023 17:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[지금 여기에서 느끼는 상호작용.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8ff64b11-f14e-43c1-8dce-8ced32410d82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집에서도 폼 나게! 스타의 홈웨어 5]]></title>
+            <link>https://www.elle.co.kr/article/75348</link>
+            <guid>https://www.elle.co.kr/article/75348</guid>
+            <pubDate>Mon, 27 Feb 2023 17:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[나만 보기 아까운 라운지웨어! 옷잘알 셀러브리티들의 홈웨어를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/25d38f70-5c32-4781-a847-5088c90adf33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<007> 그레이 존스의 귀환? 후드 스타일링]]></title>
+            <link>https://www.elle.co.kr/article/74601</link>
+            <guid>https://www.elle.co.kr/article/74601</guid>
+            <pubDate>Mon, 27 Feb 2023 17:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[얼굴을 감싸는 후디드 패션을 시도할 차례.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/3f727957-bf1d-4270-8bc6-7d76e1efc59b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬의 동화]]></title>
             <link>https://www.elle.co.kr/article/75310</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 26 Feb 2023 17:40:25 GMT</pubDate>
             <content:encoded><![CDATA[각양각색의 유틸리티 백을 면밀히 살펴볼 때.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/da3bbce4-9a86-485a-b8e0-e62cfaa8f310.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성큼 다가온 봄, 특별한 새 신발을 원한다면? 신상 컬래버 슈즈 3]]></title>
-            <link>https://www.elle.co.kr/article/75329</link>
-            <guid>https://www.elle.co.kr/article/75329</guid>
-            <pubDate>Sun, 26 Feb 2023 05:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[청량한 데님 컬러부터 투박한 매력의 고어텍스 스니커즈까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/2b8a3b7b-1b90-44fe-9347-1aa50d856ac1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해가 지지 않는 대영제국?]]></title>
-            <link>https://www.elle.co.kr/article/75318</link>
-            <guid>https://www.elle.co.kr/article/75318</guid>
-            <pubDate>Sun, 26 Feb 2023 05:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[꽃 질 일 없는 2023 가을/겨울 런던패션위크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/98c1dd61-8180-4c89-8689-16be732a5a16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바닷가를 거니는 셀린느의 마린 걸]]></title>
-            <link>https://www.elle.co.kr/article/75283</link>
-            <guid>https://www.elle.co.kr/article/75283</guid>
-            <pubDate>Sat, 25 Feb 2023 05:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[오직 파도와 바람 소리만 맴도는 어느 고요한 해변에서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/bd235aa4-f8df-45a3-8d74-0c482918ca0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

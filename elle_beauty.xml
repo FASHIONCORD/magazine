@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 05:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 17:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화장을 했는데도 칙칙해보이는 이유는 이것! 칙칙한 안색에 형광등 켜는 방법 5_선배’s 어드바이스 #157]]></title>
+            <link>https://www.elle.co.kr/article/75134</link>
+            <guid>https://www.elle.co.kr/article/75134</guid>
+            <pubDate>Mon, 27 Feb 2023 17:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[잔털 관리부터 스킨 케어까지, 안색 밝히기 A to Z]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/eb391f9d-49a0-4da6-9126-f1af5126a8c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톱 모델 한혜진이 알려주는 시크한 메이크업 Tip]]></title>
             <link>https://www.elle.co.kr/article/75118</link>
@@ -62,13 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
             <content:encoded><![CDATA[헬스장 초보들을 위한 꿀팁!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/b32e54db-f81f-47dc-ad45-f3517ce1f6fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연기만 일타가 아니었어? -30kg에 체지방 3%까지 만들었던 정경호의 관리 비결 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/75067</link>
-            <guid>https://www.elle.co.kr/article/75067</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/ab63d3da-772f-4a0c-90d8-aea02eb5e79c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
