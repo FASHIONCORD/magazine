@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 17:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 05:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유재석이 가장 많이 돈 쓰는 곳은 지인 경조사?! (ft. 명절 고기 100명)]]></title>
+            <link>https://www.elle.co.kr/article/75332</link>
+            <guid>https://www.elle.co.kr/article/75332</guid>
+            <pubDate>Mon, 27 Feb 2023 05:40:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/cd6ac586-bb54-4814-8563-a5a991ff475a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흑과 백의 대비 속 본연의 얼굴을 드러낸 키]]></title>
+            <link>https://www.elle.co.kr/article/75300</link>
+            <guid>https://www.elle.co.kr/article/75300</guid>
+            <pubDate>Mon, 27 Feb 2023 05:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[여느 떄처럼 솔직하게 자신을 보여줄 준비가 된 키의 태도 그리고 결.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/edcc1fa2-f698-4cca-a132-2ba2c00fab4b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 상견니 가가연, 허광한, 시백우가 만든 영원의 순간들]]></title>
             <link>https://www.elle.co.kr/article/75289</link>
@@ -52,21 +67,6 @@
             <guid>https://www.elle.co.kr/article/75257</guid>
             <pubDate>Fri, 24 Feb 2023 05:40:36 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fe281b09-f531-4c8f-b1b0-e3d8f48f4ac8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 큰 거 온다...! 유재석과 연락 끊긴 지 30년 된 전도연, '유퀴즈'에서 풀 이야기들.txt]]></title>
-            <link>https://www.elle.co.kr/article/75220</link>
-            <guid>https://www.elle.co.kr/article/75220</guid>
-            <pubDate>Fri, 24 Feb 2023 05:40:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fe07db7a-1390-4bbb-8bb1-58c7b104c254.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김영광과 이성경이 그린 사랑의 얼굴]]></title>
-            <link>https://www.elle.co.kr/article/75203</link>
-            <guid>https://www.elle.co.kr/article/75203</guid>
-            <pubDate>Thu, 23 Feb 2023 17:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;사랑이라 말해요&gt;의 동진과 우주. 새롭고 낯선 얼굴로 돌아온 두 사람.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fc0a014e-c135-4977-a895-276de5e74993.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

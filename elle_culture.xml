@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 17:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 05:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 매일 땀 흘리는 모든 소녀들을 위하여!]]></title>
+            <link>https://www.elle.co.kr/article/75192</link>
+            <guid>https://www.elle.co.kr/article/75192</guid>
+            <pubDate>Mon, 27 Feb 2023 05:40:30 GMT</pubDate>
+            <content:encoded><![CDATA["이 시간이 너무 좋아요. 힐링되는 기분이에요" 틴트레이닝 이서영 대표가 이 말을 듣는 순간 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/25c8c0ee-9207-4181-87c1-99fbabb688df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우주를 사랑했던 만화가, 하늘의 별이 되다]]></title>
+            <link>https://www.elle.co.kr/article/75159</link>
+            <guid>https://www.elle.co.kr/article/75159</guid>
+            <pubDate>Mon, 27 Feb 2023 05:40:30 GMT</pubDate>
+            <content:encoded><![CDATA['은하철도 999' 마츠모토 레이지 별세]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/c039d94b-f570-45d7-8b12-980dabb7d60b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이보영X손나은 공조로 관심 집중! 반전 예고된 '대행사' 후반부 관전 포인트 2 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/75150</link>
@@ -50,21 +66,6 @@
             <guid>https://www.elle.co.kr/article/75082</guid>
             <pubDate>Wed, 22 Feb 2023 05:40:57 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/c6288015-746c-46bd-88f3-1b37fad3926c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해체 NO! '역주행 걸그룹' 브레이브걸스가 계약만료에 전한 심경]]></title>
-            <link>https://www.elle.co.kr/article/75081</link>
-            <guid>https://www.elle.co.kr/article/75081</guid>
-            <pubDate>Sun, 26 Feb 2023 17:41:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/cef4f469-b596-4da3-9b12-8c56d3e7682c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생트로페로 떠난 모험, 갤러리스트 아르멜 소예르가 꿈꾼 공간]]></title>
-            <link>https://www.elle.co.kr/article/72992</link>
-            <guid>https://www.elle.co.kr/article/72992</guid>
-            <pubDate>Sun, 26 Feb 2023 17:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[10년 전 파리에 자신의 첫 갤러리를 오픈한 아르멜 소예르는 어느 날 프랑스 남부 생트로페로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/44e597f9-9531-4597-8c1c-36dd7dd9f21f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
