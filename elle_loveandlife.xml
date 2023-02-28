@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 05:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 17:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[런던에 가면 놓치지 말아야 할 갤러리]]></title>
+            <link>https://www.elle.co.kr/article/75374</link>
+            <guid>https://www.elle.co.kr/article/75374</guid>
+            <pubDate>Tue, 28 Feb 2023 17:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 갤러리와 갤러리가 주목한 아티스트를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8e72ea29-94b2-4325-ad40-9c659025f6f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온지음 맛공방이 고려로 간 이유]]></title>
+            <link>https://www.elle.co.kr/article/75292</link>
+            <guid>https://www.elle.co.kr/article/75292</guid>
+            <pubDate>Tue, 28 Feb 2023 17:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;온지음이 차리는 맛:뿌리와 날개&gt;에서 불러낸 섬려한 고려의 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/1ce28292-14b7-4d37-b406-08754e5cde9c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숙슐랭 인정! 김숙이 소개한 고기 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/75344</link>
@@ -50,21 +66,6 @@
             <guid>https://www.elle.co.kr/article/75273</guid>
             <pubDate>Sun, 26 Feb 2023 05:40:52 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/f180c807-e02b-4ea3-83b2-a0c0b5809f9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발코니가 포인트! 인테리어에 진심인 바이어의 랜선집들이 #취향을담은집]]></title>
-            <link>https://www.elle.co.kr/article/75228</link>
-            <guid>https://www.elle.co.kr/article/75228</guid>
-            <pubDate>Fri, 24 Feb 2023 17:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[좋아하는 무언가에 애정을 쏟을 줄 알고, 분명한 취향을 바탕으로 자신만의 행복하고 풍요로운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/0da08075-3414-4608-990a-cb7bf5a35ae1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["경주는 시작됐다": 구글 바드, 챗GPT 견제하다 망신? 전쟁터 된 AI 시장 상황]]></title>
-            <link>https://www.elle.co.kr/article/75212</link>
-            <guid>https://www.elle.co.kr/article/75212</guid>
-            <pubDate>Fri, 24 Feb 2023 17:42:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3a3b4f36-b5c9-44a0-8a41-d986f860b821.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

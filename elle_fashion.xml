@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 05:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 17:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS RM부터 뉴진스 하니까지, 2023 F/W 밀란 패션위크를 뒤흔든 K-셀럽 10]]></title>
+            <link>https://www.elle.co.kr/article/75379</link>
+            <guid>https://www.elle.co.kr/article/75379</guid>
+            <pubDate>Tue, 28 Feb 2023 17:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[등장만 했다 하면 쇼장 마비!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/0d2efbf9-b74a-416b-bf41-87e60b5ce02d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비비안 웨스트우드, 펑크의 전설]]></title>
             <link>https://www.elle.co.kr/article/75352</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Feb 2023 05:39:57 GMT</pubDate>
             <content:encoded><![CDATA[단순히 크기를 넘어 재치를 겸비한 '볼륨 업' 시대가 왔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/2b9451dc-40dd-49fb-add0-46b9e0678fd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일리시한 데일리 룩을 완성하는 #선글라스 #쇼핑리스트]]></title>
-            <link>https://www.elle.co.kr/article/75343</link>
-            <guid>https://www.elle.co.kr/article/75343</guid>
-            <pubDate>Mon, 27 Feb 2023 05:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[느낌 있는 데일리 룩 원해요? 그렇다면 선글라스는 선택이 아닌 필수입니다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/9b1f7f32-465a-41a3-b519-3d8807adccfd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

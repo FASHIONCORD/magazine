@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 05:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 17:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[런던에 가면 놓치지 말아야 할 갤러리]]></title>
+            <link>https://www.elle.co.kr/article/75374</link>
+            <guid>https://www.elle.co.kr/article/75374</guid>
+            <pubDate>Tue, 28 Feb 2023 17:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 갤러리와 갤러리가 주목한 아티스트를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8e72ea29-94b2-4325-ad40-9c659025f6f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스티븐 연 '썬더볼츠'로 MCU 합류, 히어로인지 빌런인지 알 수 없다고?!]]></title>
+            <link>https://www.elle.co.kr/article/75360</link>
+            <guid>https://www.elle.co.kr/article/75360</guid>
+            <pubDate>Tue, 28 Feb 2023 17:43:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/53d60d8e-17ea-4890-ae59-15af427dc2fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위험하고 위대한 케이트 블란쳇, 그녀는 어떻게 '리디아 타르’라는 괴물을 탄생시켰나_요주의여성 #81]]></title>
             <link>https://www.elle.co.kr/article/75357</link>
@@ -53,20 +68,6 @@
             <pubDate>Mon, 27 Feb 2023 05:40:30 GMT</pubDate>
             <content:encoded><![CDATA['은하철도 999' 마츠모토 레이지 별세]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/c039d94b-f570-45d7-8b12-980dabb7d60b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이보영X손나은 공조로 관심 집중! 반전 예고된 '대행사' 후반부 관전 포인트 2 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/75150</link>
-            <guid>https://www.elle.co.kr/article/75150</guid>
-            <pubDate>Thu, 23 Feb 2023 05:40:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/db72dbd1-0e10-40f8-aec0-688291e5a01d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초등학생이 그렸다는 밀라노 동계올림픽 마스코트 후보 2, 당신의 선택은?]]></title>
-            <link>https://www.elle.co.kr/article/75148</link>
-            <guid>https://www.elle.co.kr/article/75148</guid>
-            <pubDate>Thu, 23 Feb 2023 05:40:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/65808114-3460-4c65-9bbb-c0086b8ee72f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
