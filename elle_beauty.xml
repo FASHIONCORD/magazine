@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 17:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 매일 땀 흘리는 모든 소녀들을 위하여!]]></title>
+            <link>https://www.elle.co.kr/article/75192</link>
+            <guid>https://www.elle.co.kr/article/75192</guid>
+            <pubDate>Tue, 28 Feb 2023 05:40:43 GMT</pubDate>
+            <content:encoded><![CDATA["이 시간이 너무 좋아요. 힐링되는 기분이에요" 틴트레이닝 이서영 대표가 이 말을 듣는 순간 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/25c8c0ee-9207-4181-87c1-99fbabb688df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화장을 했는데도 칙칙해보이는 이유는 이것! 칙칙한 안색에 형광등 켜는 방법 5_선배’s 어드바이스 #157]]></title>
             <link>https://www.elle.co.kr/article/75134</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
             <content:encoded><![CDATA[2월 3주 차 뷰티 신제품과 팝업스토어]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/52ebad2e-2e31-47ac-9e79-53556a390c72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[-19kg 감량한 에디터의 헬스장 입문기 #다이어터디터]]></title>
-            <link>https://www.elle.co.kr/article/75070</link>
-            <guid>https://www.elle.co.kr/article/75070</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[헬스장 초보들을 위한 꿀팁!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/b32e54db-f81f-47dc-ad45-f3517ce1f6fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

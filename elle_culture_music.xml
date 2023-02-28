@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 17:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유]]></title>
+            <link>https://www.elle.co.kr/article/75387</link>
+            <guid>https://www.elle.co.kr/article/75387</guid>
+            <pubDate>Tue, 28 Feb 2023 05:41:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/6d04b1cc-47ee-49ee-bba4-b3ba7c3cce98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해체 NO! '역주행 걸그룹' 브레이브걸스가 계약만료에 전한 심경]]></title>
             <link>https://www.elle.co.kr/article/75081</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/74365</link>
             <guid>https://www.elle.co.kr/article/74365</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/19/273064fc-21f5-4e11-bfcd-ea3160a66d0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밥 한 번 먹으려고 했더니...? BTS 지민X빅뱅 태양 '바이브' 대유잼 에피소드.txt]]></title>
@@ -89,13 +95,6 @@
             <guid>https://www.elle.co.kr/article/73042</guid>
             <pubDate>Thu, 08 Dec 2022 17:45:43 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 싱글 'RUSH'로 알리는 무한한 질주]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다정한 목소리로 쌓아온 다린의 결실 #2주의뮤지션]]></title>
-            <link>https://www.elle.co.kr/article/72680</link>
-            <guid>https://www.elle.co.kr/article/72680</guid>
-            <pubDate>Thu, 08 Dec 2022 17:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[네 장의 싱글 앨범이 하나의 &lt;축&gt;으로 묶이는 순간.]]></content:encoded>
         </item>
     </channel>
 </rss>

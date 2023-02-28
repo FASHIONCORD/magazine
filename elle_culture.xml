@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 17:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위험하고 위대한 케이트 블란쳇, 그녀는 어떻게 '리디아 타르’라는 괴물을 탄생시켰나_요주의여성 #81]]></title>
+            <link>https://www.elle.co.kr/article/75357</link>
+            <guid>https://www.elle.co.kr/article/75357</guid>
+            <pubDate>Tue, 28 Feb 2023 05:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[최초의 여성 상임 지휘자로서의 탁월한 재능과 권력 그리고 몰락에 관하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/af69a845-10cc-4679-af2b-f9439d1fbc87.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박서보, 한 줄 이라도 더 긋고 싶은 아흔살 화백이 폐암 판정을 두고 한 다짐]]></title>
             <link>https://www.elle.co.kr/article/75304</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/75148</guid>
             <pubDate>Thu, 23 Feb 2023 05:40:19 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/65808114-3460-4c65-9bbb-c0086b8ee72f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 근대 건축물 ⑤ 정동 1번지, 신아기념관]]></title>
-            <link>https://www.elle.co.kr/article/72993</link>
-            <guid>https://www.elle.co.kr/article/72993</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[정동 1번지를 지켜온 신아기념관의 옛 애칭은 '졸리 하우스', '즐거운 집'이었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/e94cbfbb-b10e-4484-a9bf-54aa45e8a6df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
