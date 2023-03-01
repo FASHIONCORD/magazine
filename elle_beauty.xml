@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 17:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 05:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차주영, '더 글로리' 혜정 캐릭터를 위해 증량한 6kg 바로 뺀 비결은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/75257</link>
+            <guid>https://www.elle.co.kr/article/75257</guid>
+            <pubDate>Wed, 01 Mar 2023 05:41:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fe281b09-f531-4c8f-b1b0-e3d8f48f4ac8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 매일 땀 흘리는 모든 소녀들을 위하여!]]></title>
             <link>https://www.elle.co.kr/article/75192</link>
@@ -62,14 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
             <content:encoded><![CDATA[네 입술 따뜻한 커피처럼, 내 사랑 따뜻한 핫 초콜릿처럼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/29f86fd2-9fd0-4e04-99e5-4c454fffdc6d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말 나들이는 여기로! 성수동 신상 뷰티 팝업스토어 정보.zip #갓구운신상]]></title>
-            <link>https://www.elle.co.kr/article/75088</link>
-            <guid>https://www.elle.co.kr/article/75088</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[2월 3주 차 뷰티 신제품과 팝업스토어]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/52ebad2e-2e31-47ac-9e79-53556a390c72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

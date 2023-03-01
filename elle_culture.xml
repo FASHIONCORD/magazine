@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 17:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 05:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전원 부캐 플레이에 사이다 복수까지! '모범택시2'의 이유 있는 흥행 가도 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/75377</link>
+            <guid>https://www.elle.co.kr/article/75377</guid>
+            <pubDate>Wed, 01 Mar 2023 05:41:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/5ccd6b68-a00a-47c7-b5fd-da520728e166.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[런던에 가면 놓치지 말아야 할 갤러리]]></title>
             <link>https://www.elle.co.kr/article/75374</link>
@@ -60,14 +67,6 @@
             <pubDate>Mon, 27 Feb 2023 05:40:30 GMT</pubDate>
             <content:encoded><![CDATA["이 시간이 너무 좋아요. 힐링되는 기분이에요" 틴트레이닝 이서영 대표가 이 말을 듣는 순간 소...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/25c8c0ee-9207-4181-87c1-99fbabb688df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주를 사랑했던 만화가, 하늘의 별이 되다]]></title>
-            <link>https://www.elle.co.kr/article/75159</link>
-            <guid>https://www.elle.co.kr/article/75159</guid>
-            <pubDate>Mon, 27 Feb 2023 05:40:30 GMT</pubDate>
-            <content:encoded><![CDATA['은하철도 999' 마츠모토 레이지 별세]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/c039d94b-f570-45d7-8b12-980dabb7d60b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

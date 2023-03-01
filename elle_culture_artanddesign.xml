@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 17:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 05:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마우리치오 카텔란에게 물었다]]></title>
+            <link>https://www.elle.co.kr/article/75421</link>
+            <guid>https://www.elle.co.kr/article/75421</guid>
+            <pubDate>Wed, 01 Mar 2023 05:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[한국 관람객도 바나나를 떼어먹을까? 혹은 어떤 죽음을 떠올리게 하는 대리석 앞에 가만히 묵념...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/f3705b12-5efb-4f86-9966-f2113cccebe0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삶과 예술은 함께여야 한다! 사진가 잭 영의 공공임대주택 휴머니즘]]></title>
             <link>https://www.elle.co.kr/article/72996</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/73000</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[엘르 데코가 주목한 예술적인 공간 4.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/7985be61-77bf-4634-9899-df54fecfe546.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홈 오브제 퍼레이드 ②]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/72986</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[모든 벽이 자신의 그림으로 가득 찬 나탈리 레테의 별장에 가다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여백으로 가득 채운 빈 집]]></title>
-            <link>https://www.elle.co.kr/article/72985</link>
-            <guid>https://www.elle.co.kr/article/72985</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[빈틈과 모자람 그리고 일말의 여백이 만든 풍요로움.]]></content:encoded>
         </item>
     </channel>
 </rss>
