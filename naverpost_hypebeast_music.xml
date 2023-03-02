@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 17:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카모 인터뷰: 표적 안에서 살아남기 ‘Pressure Makes Diamonds’]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35560039&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35560039&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 02 Mar 2023 17:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDJfNTEg/MDAxNjc3NzQzODY4MjAy.zJN_QKl7MyXng4bg7v_X3nw3SXLPphf5v_koCOi5hgcg.vWCTIPG7pfyTrM6jnuvuBBsYAePz5gpRgEeK9Gl13WIg.JPEG/Iv1QEHbjrWD26Bo30Suvvc_V49zA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드릴 뮤직은 한국에서 앞으로도 유행할까?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35356769&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Jun 2022 17:46:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjdfMTQ4/MDAxNjU2MzE0ODM4NzUy.pA-SZlHXnxf9rQVq8sAiPreXOib4Qev3Z6ePkhGeTNEg.w8fa9PcwEWK5v8wcAVCOADXM3dfffYuUaQ4GhEIS_y4g.JPEG/IwjfeyuGFNgeYCa7IUwyPRNJnYhQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오메가 사피엔 & 바우어 인터뷰: 두 명의 변태가 만든 힙합 EP 'WUGA']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33865008&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33865008&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 26 May 2022 17:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjZfNyAg/MDAxNjUzNTU4Mzk5ODg1.yrcMcs2l5hXfwQl20n3JmBSpUde0nYdT_46QAhWNvhog.8qpeUSKAbrlTIb7HiHj7Sv5p2pGllqzqgwp8CYlweQIg.JPEG/IvB38Civ726NMaNePqoDAZP1PGRQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 17:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 향기 물씬! 향수부터 스킨케어, 립까지 2월 신제품 정보.zip #갓구운신상]]></title>
+            <link>https://www.elle.co.kr/article/75317</link>
+            <guid>https://www.elle.co.kr/article/75317</guid>
+            <pubDate>Thu, 02 Mar 2023 17:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[2월 4주차 뷰티 신제품]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/659c24da-9991-46bd-a43f-3e5bb85c75ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차주영, '더 글로리' 혜정 캐릭터를 위해 증량한 6kg 바로 뺀 비결은? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/75257</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
             <content:encoded><![CDATA[지루한 헤어스타일에 변화를 주고 싶다면 헤일리 비버처럼 과감하게 단발머리를 시도해볼 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/19/e8d79c7a-7c5a-4033-8949-562a450c0d32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 사랑 따뜻한 핫 초콜릿처럼]]></title>
-            <link>https://www.elle.co.kr/article/74516</link>
-            <guid>https://www.elle.co.kr/article/74516</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[네 입술 따뜻한 커피처럼, 내 사랑 따뜻한 핫 초콜릿처럼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/29f86fd2-9fd0-4e04-99e5-4c454fffdc6d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
