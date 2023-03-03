@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 05:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 17:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도겸이 가쁜 숨을 고르고, 깊고 느리게 호흡하며 눈을 마주쳐 오던 순간]]></title>
+            <link>https://www.elle.co.kr/article/75480</link>
+            <guid>https://www.elle.co.kr/article/75480</guid>
+            <pubDate>Fri, 03 Mar 2023 17:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴과 부석순, 도겸은 뭘하든 자신있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/18f54710-55ca-45ef-8b34-91376c383a2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섭식장애 극복! 12kg 감량에도 건강 유지 중인 고은아의 자기 관리 노하우 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/75472</link>
+            <guid>https://www.elle.co.kr/article/75472</guid>
+            <pubDate>Fri, 03 Mar 2023 17:41:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/2cada82b-5a7c-4c3f-b4ae-e9fea6c05bb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김영광과 이성경, 사랑을 말하다]]></title>
             <link>https://www.elle.co.kr/article/75470</link>
@@ -50,21 +65,6 @@
             <guid>https://www.elle.co.kr/article/75413</guid>
             <pubDate>Thu, 02 Mar 2023 17:41:16 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/9f7fa2f4-71a4-45a3-8715-6a18466c8e1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유]]></title>
-            <link>https://www.elle.co.kr/article/75387</link>
-            <guid>https://www.elle.co.kr/article/75387</guid>
-            <pubDate>Thu, 02 Mar 2023 17:41:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/6d04b1cc-47ee-49ee-bba4-b3ba7c3cce98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아가 추천하는 신당동 맛집 4]]></title>
-            <link>https://www.elle.co.kr/article/75385</link>
-            <guid>https://www.elle.co.kr/article/75385</guid>
-            <pubDate>Thu, 02 Mar 2023 05:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[한결 가벼워진 날씨에 주말 외출을 계획 중이라면 신당동을 추천합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/15480620-bbb4-4d29-a2eb-f743d36924b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
