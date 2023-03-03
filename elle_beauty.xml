@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 17:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모공 어벤저스 어셈블! 베네피트 New 포어 케어 컬렉션 탄생]]></title>
+            <link>https://www.elle.co.kr/article/75305</link>
+            <guid>https://www.elle.co.kr/article/75305</guid>
+            <pubDate>Fri, 03 Mar 2023 05:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[‘모공’ 하면 ‘베네피트’, ‘베네피트’ 하면 ‘모공’. 베네피트에서 2023년, 이 등식에 다시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/bb04528d-d9fa-463f-b678-a1f3fb3b3e3f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 향기 물씬! 향수부터 스킨케어, 립까지 2월 신제품 정보.zip #갓구운신상]]></title>
             <link>https://www.elle.co.kr/article/75317</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 17:40:13 GMT</pubDate>
             <content:encoded><![CDATA[올봄 채도를 한껏 끌어올린 비비드 컬러에 주목하시라.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/19/8764ec89-779f-4bad-a6db-35f95123a482.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤일리 비버도 피하지 못한 단발병! 단발병을 유발하는 스타 3]]></title>
-            <link>https://www.elle.co.kr/article/75113</link>
-            <guid>https://www.elle.co.kr/article/75113</guid>
-            <pubDate>Wed, 22 Feb 2023 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[지루한 헤어스타일에 변화를 주고 싶다면 헤일리 비버처럼 과감하게 단발머리를 시도해볼 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/19/e8d79c7a-7c5a-4033-8949-562a450c0d32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

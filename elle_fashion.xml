@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 17:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[까만 밤에 만난 아크리스]]></title>
+            <link>https://www.elle.co.kr/article/75423</link>
+            <guid>https://www.elle.co.kr/article/75423</guid>
+            <pubDate>Fri, 03 Mar 2023 05:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[낭만적인 옷들이 아름답게 뒤엉킨 밤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/bd69c000-6483-4761-9983-fc981190d7d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션위크를 찾은 스타들의 아름다운 순간]]></title>
+            <link>https://www.elle.co.kr/article/75458</link>
+            <guid>https://www.elle.co.kr/article/75458</guid>
+            <pubDate>Fri, 03 Mar 2023 05:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[멋진 모습으로 해외 패션쇼장에 나타난 국내 스타들을 모아봤습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/11ba1309-8e38-43e5-b705-0752843982e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로고 매니아들을 위한 모노그램 백]]></title>
+            <link>https://www.elle.co.kr/article/75457</link>
+            <guid>https://www.elle.co.kr/article/75457</guid>
+            <pubDate>Fri, 03 Mar 2023 05:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[리드미컬하게 새긴 로고의 미학.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/9c940f4c-eaf6-43f1-997a-34a7ccbc8229.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠튀르 에피소드 PART: 1]]></title>
             <link>https://www.elle.co.kr/article/75444</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 01 Mar 2023 17:42:15 GMT</pubDate>
             <content:encoded><![CDATA[차가운 실험실에서 만난.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/6a2b5660-51a5-4ce5-aec9-74e80d4f7306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삶과 예술은 함께여야 한다! 사진가 잭 영의 공공임대주택 휴머니즘]]></title>
-            <link>https://www.elle.co.kr/article/72996</link>
-            <guid>https://www.elle.co.kr/article/72996</guid>
-            <pubDate>Wed, 01 Mar 2023 05:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[영국의 아마추어 사진가 잭 영이 포착한 런던 공공임대주택들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/d56fa12e-5ae1-479f-9502-58c7644b0a7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS RM부터 뉴진스 하니까지, 2023 F/W 밀란 패션위크를 뒤흔든 K-셀럽 10]]></title>
-            <link>https://www.elle.co.kr/article/75379</link>
-            <guid>https://www.elle.co.kr/article/75379</guid>
-            <pubDate>Tue, 28 Feb 2023 17:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[등장만 했다 하면 쇼장 마비!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/0d2efbf9-b74a-416b-bf41-87e60b5ce02d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비비안 웨스트우드, 펑크의 전설]]></title>
-            <link>https://www.elle.co.kr/article/75352</link>
-            <guid>https://www.elle.co.kr/article/75352</guid>
-            <pubDate>Tue, 28 Feb 2023 05:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[펑크 정신으로 기억될 비비안 웨스트우드가 영원한 안식에 들었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/d787121a-d13d-404b-98f0-de9c88015fe3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
