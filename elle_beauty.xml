@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 05:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 17:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코코 마드모아젤의 새로운 모델, 휘트니 픽]]></title>
+            <link>https://www.elle.co.kr/article/75384</link>
+            <guid>https://www.elle.co.kr/article/75384</guid>
+            <pubDate>Sat, 04 Mar 2023 17:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[코코 마드모아젤의 새로운 시대가 열렸다. 가십걸 리부트에서 주연으로 활약한 휘트니 픽(Whitne...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/b473e579-f087-4648-973f-b032d4f6b446.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환절기면 어김없이 말썽인 피부! 봄맞이 피부 고민별 기능성 화장품 모음.zip_선배’s 어드바이스 #158]]></title>
             <link>https://www.elle.co.kr/article/75369</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 26 Feb 2023 05:39:58 GMT</pubDate>
             <content:encoded><![CDATA[도도한 매력의 소유자, 한혜진이 프랑스 파리에서 열린 행사를 준비하며 선보인 메이크업을 따라...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/57f9f60d-3db4-4370-ac94-20d67ebcef2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 남자 친구에게]]></title>
-            <link>https://www.elle.co.kr/article/74512</link>
-            <guid>https://www.elle.co.kr/article/74512</guid>
-            <pubDate>Fri, 24 Feb 2023 05:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[내 반쪽에게 기꺼이 선물하고 싶은 세련된 자태의 남성용 모이스처라이저.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/41121515-830e-4be8-8f0d-f5ba305c7460.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
