@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 17:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 05:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['더 글로리' 파트2, 시사회도 끝났다! 회수될 떡밥과 풀릴 서사들 미리보기.txt]]></title>
+            <link>https://www.elle.co.kr/article/75435</link>
+            <guid>https://www.elle.co.kr/article/75435</guid>
+            <pubDate>Sat, 04 Mar 2023 05:40:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/13edf646-a8ff-4472-8e11-def42d44e4ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유]]></title>
             <link>https://www.elle.co.kr/article/75387</link>
@@ -59,13 +66,6 @@
             <pubDate>Mon, 27 Feb 2023 17:41:01 GMT</pubDate>
             <content:encoded><![CDATA[폐암 3기 판정을 받고 올린 박서보 화백의 심경. "전화하지 마시라, 그럼에도 말을 전하고 싶다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/488084c3-b3d0-4365-97c2-61bc20fde3ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["도망이 아니라 희망이야": 송혜교 복수, 정성일X이도현 조력 암시? '더 글로리' 예고편 내용]]></title>
-            <link>https://www.elle.co.kr/article/75281</link>
-            <guid>https://www.elle.co.kr/article/75281</guid>
-            <pubDate>Mon, 27 Feb 2023 17:41:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/3796a19b-d267-4df4-b79a-64a9f96849b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

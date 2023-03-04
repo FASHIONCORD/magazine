@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 17:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 05:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재출시 하자마자 판매 1위, '김혜자 도시락'에 담긴 '혜자로운' 철학]]></title>
+            <link>https://www.elle.co.kr/article/75494</link>
+            <guid>https://www.elle.co.kr/article/75494</guid>
+            <pubDate>Sat, 04 Mar 2023 05:40:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/6e32f3c0-b606-4bfe-869b-00bcd836f858.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로맨틱한 시간을 보내기에 제격! 스타가 다녀간 와인바 3]]></title>
+            <link>https://www.elle.co.kr/article/75491</link>
+            <guid>https://www.elle.co.kr/article/75491</guid>
+            <pubDate>Sat, 04 Mar 2023 05:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[신비스러운 동굴 속 와인바부터 미슐랭 셰프가 기다리는 와인바까지, 우아한 저녁 시간을 보내기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/1cba9154-0f77-4246-bac8-47cf5268405f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도겸이 가쁜 숨을 고르고, 깊고 느리게 호흡하며 눈을 마주쳐 오던 순간]]></title>
             <link>https://www.elle.co.kr/article/75480</link>
@@ -51,20 +66,6 @@
             <pubDate>Thu, 02 Mar 2023 17:41:16 GMT</pubDate>
             <content:encoded><![CDATA[멋진 모습으로 해외 패션쇼장에 나타난 국내 스타들을 모아봤습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/11ba1309-8e38-43e5-b705-0752843982e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 파트2, 시사회도 끝났다! 회수될 떡밥과 풀릴 서사들 미리보기.txt]]></title>
-            <link>https://www.elle.co.kr/article/75435</link>
-            <guid>https://www.elle.co.kr/article/75435</guid>
-            <pubDate>Thu, 02 Mar 2023 17:41:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/13edf646-a8ff-4472-8e11-def42d44e4ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉도 입영 연기 자진 취소! 먼저 군대 간 '호랑이 조교' 진 반응은?]]></title>
-            <link>https://www.elle.co.kr/article/75413</link>
-            <guid>https://www.elle.co.kr/article/75413</guid>
-            <pubDate>Thu, 02 Mar 2023 17:41:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/9f7fa2f4-71a4-45a3-8715-6a18466c8e1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
