@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 05:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 17:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김구·윤동주 굿즈부터 무궁화 텀블러까지! 삼일절 맞이 유통업계 이색 캠페인 모음]]></title>
+            <link>https://www.elle.co.kr/article/75447</link>
+            <guid>https://www.elle.co.kr/article/75447</guid>
+            <pubDate>Sun, 05 Mar 2023 17:42:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/01b5a5bf-9490-4eea-9cff-1f658c6a186a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 아니면 안돼! 논산부터 양평까지, 제철 맞은 전국 딸기 축제 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/75430</link>
@@ -59,13 +66,6 @@
             <pubDate>Tue, 28 Feb 2023 05:41:39 GMT</pubDate>
             <content:encoded><![CDATA[윤기가 자르르 흐르는 양갈비 맛집부터 소식좌를 감동하게 만든 불고기까지, 맛잘알 김숙의 단골...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/fdcc2a72-315b-47fb-94d2-702cdfd935cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메로나와 바나나맛 우유가 만났다고? 빙그레 신상 비주얼.jpg]]></title>
-            <link>https://www.elle.co.kr/article/75333</link>
-            <guid>https://www.elle.co.kr/article/75333</guid>
-            <pubDate>Tue, 28 Feb 2023 05:41:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/d6728122-99aa-4265-8703-a408d5fca4e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

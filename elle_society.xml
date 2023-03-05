@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 05:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 17:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['지선아 사랑해' 이지선 교수의 금의환향 (ft.모교 컴백)]]></title>
+            <link>https://www.elle.co.kr/article/75351</link>
+            <guid>https://www.elle.co.kr/article/75351</guid>
+            <pubDate>Sun, 05 Mar 2023 17:42:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/6215073a-4c17-43ab-ab22-df7e037b468e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과연 직장이 형벌일까? '조용한 퇴사'의 진실_돈쓸신잡 #86]]></title>
             <link>https://www.elle.co.kr/article/75298</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/75132</guid>
             <pubDate>Thu, 23 Feb 2023 05:41:16 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/4e8ef6c2-071a-4771-9301-1932e0d17138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ 인싸들 다 한다고? 메타버스 앱 본디, 인기 급상승 요인부터 논란까지 총 정리!]]></title>
-            <link>https://www.elle.co.kr/article/75066</link>
-            <guid>https://www.elle.co.kr/article/75066</guid>
-            <pubDate>Thu, 23 Feb 2023 05:41:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/c2e92051-ed55-4e4f-a9ba-71bf9cbd9b29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

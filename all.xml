@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 05:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 17:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2332,6 +2332,13 @@
             <content:encoded><![CDATA[모든 벽이 자신의 그림으로 가득 찬 나탈리 레테의 별장에 가다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[김구·윤동주 굿즈부터 무궁화 텀블러까지! 삼일절 맞이 유통업계 이색 캠페인 모음 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/75447</link>
+            <guid>https://www.elle.co.kr/article/75447</guid>
+            <pubDate>Sun, 05 Mar 2023 17:42:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/01b5a5bf-9490-4eea-9cff-1f658c6a186a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지금 아니면 안돼! 논산부터 양평까지, 제철 맞은 전국 딸기 축제 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/75430</link>
             <guid>https://www.elle.co.kr/article/75430</guid>
@@ -2385,11 +2392,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/fdcc2a72-315b-47fb-94d2-702cdfd935cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메로나와 바나나맛 우유가 만났다고? 빙그레 신상 비주얼.jpg (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/75333</link>
-            <guid>https://www.elle.co.kr/article/75333</guid>
-            <pubDate>Tue, 28 Feb 2023 05:41:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/d6728122-99aa-4265-8703-a408d5fca4e0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['지선아 사랑해' 이지선 교수의 금의환향 (ft.모교 컴백) (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/75351</link>
+            <guid>https://www.elle.co.kr/article/75351</guid>
+            <pubDate>Sun, 05 Mar 2023 17:42:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/6215073a-4c17-43ab-ab22-df7e037b468e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과연 직장이 형벌일까? '조용한 퇴사'의 진실_돈쓸신잡 #86 (엘르 코리아 ─ 소사이어티)]]></title>
@@ -2441,13 +2448,6 @@
             <guid>https://www.elle.co.kr/article/75132</guid>
             <pubDate>Thu, 23 Feb 2023 05:41:08 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/4e8ef6c2-071a-4771-9301-1932e0d17138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ 인싸들 다 한다고? 메타버스 앱 본디, 인기 급상승 요인부터 논란까지 총 정리! (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/75066</link>
-            <guid>https://www.elle.co.kr/article/75066</guid>
-            <pubDate>Wed, 22 Feb 2023 05:42:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/c2e92051-ed55-4e4f-a9ba-71bf9cbd9b29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
