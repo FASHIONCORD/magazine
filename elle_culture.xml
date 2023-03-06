@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 17:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 05:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송혜교부터 성훈, 나영석X서경덕까지! 삼일절 맞이 스타들의 선한 영향력 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/75448</link>
+            <guid>https://www.elle.co.kr/article/75448</guid>
+            <pubDate>Mon, 06 Mar 2023 05:40:36 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/1f8b2c14-1f2b-46a9-981b-7a3af9a23df0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 글로리' 파트2, 시사회도 끝났다! 회수될 떡밥과 풀릴 서사들 미리보기.txt]]></title>
             <link>https://www.elle.co.kr/article/75435</link>
@@ -58,14 +65,6 @@
             <pubDate>Tue, 28 Feb 2023 05:41:04 GMT</pubDate>
             <content:encoded><![CDATA[최초의 여성 상임 지휘자로서의 탁월한 재능과 권력 그리고 몰락에 관하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/af69a845-10cc-4679-af2b-f9439d1fbc87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박서보, 한 줄 이라도 더 긋고 싶은 아흔살 화백이 폐암 판정을 두고 한 다짐]]></title>
-            <link>https://www.elle.co.kr/article/75304</link>
-            <guid>https://www.elle.co.kr/article/75304</guid>
-            <pubDate>Mon, 27 Feb 2023 17:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[폐암 3기 판정을 받고 올린 박서보 화백의 심경. "전화하지 마시라, 그럼에도 말을 전하고 싶다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/488084c3-b3d0-4365-97c2-61bc20fde3ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
