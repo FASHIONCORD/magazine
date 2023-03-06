@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 05:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 17:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마우리치오 카텔란에게 물었다]]></title>
+            <link>https://www.elle.co.kr/article/75421</link>
+            <guid>https://www.elle.co.kr/article/75421</guid>
+            <pubDate>Mon, 06 Mar 2023 17:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[한국 관람객도 바나나를 떼어먹을까? 혹은 어떤 죽음을 떠올리게 하는 대리석 앞에 가만히 묵념...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/f3705b12-5efb-4f86-9966-f2113cccebe0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송혜교부터 성훈, 나영석X서경덕까지! 삼일절 맞이 스타들의 선한 영향력 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/75448</link>
@@ -57,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/75360</guid>
             <pubDate>Tue, 28 Feb 2023 17:43:52 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/53d60d8e-17ea-4890-ae59-15af427dc2fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위험하고 위대한 케이트 블란쳇, 그녀는 어떻게 '리디아 타르’라는 괴물을 탄생시켰나_요주의여성 #81]]></title>
-            <link>https://www.elle.co.kr/article/75357</link>
-            <guid>https://www.elle.co.kr/article/75357</guid>
-            <pubDate>Tue, 28 Feb 2023 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[최초의 여성 상임 지휘자로서의 탁월한 재능과 권력 그리고 몰락에 관하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/af69a845-10cc-4679-af2b-f9439d1fbc87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

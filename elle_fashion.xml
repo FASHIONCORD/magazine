@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 05:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 17:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개강했는데 뭐 입지? 스타일리시한 캠퍼스 룩 5]]></title>
+            <link>https://www.elle.co.kr/article/75559</link>
+            <guid>https://www.elle.co.kr/article/75559</guid>
+            <pubDate>Mon, 06 Mar 2023 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[옷 잘 입는 스타들의 사복 패션에서 멋스러운 캠퍼스 룩의 힌트를 얻어보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/27a4f85e-d737-4f2a-9173-ca3ac4ed11fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무게로부터 해방하라]]></title>
+            <link>https://www.elle.co.kr/article/75535</link>
+            <guid>https://www.elle.co.kr/article/75535</guid>
+            <pubDate>Mon, 06 Mar 2023 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[가벼움의 아름다움을 찬미한 펜디의 오트 쿠튀르 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/05/9a6a6c90-6637-4949-a5da-6d9d9cdaf4c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부쉐론이 펼쳐낸 여왕의 하이 주얼리]]></title>
             <link>https://www.elle.co.kr/article/75533</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 04 Mar 2023 05:39:56 GMT</pubDate>
             <content:encoded><![CDATA[한 세기에 걸친 구찌의 아카이브를 2023년으로 소환하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/6e613015-08d8-4dd8-b122-5fd04a14e465.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까만 밤에 만난 아크리스]]></title>
-            <link>https://www.elle.co.kr/article/75423</link>
-            <guid>https://www.elle.co.kr/article/75423</guid>
-            <pubDate>Fri, 03 Mar 2023 05:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[낭만적인 옷들이 아름답게 뒤엉킨 밤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/bd69c000-6483-4761-9983-fc981190d7d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션위크를 찾은 스타들의 아름다운 순간]]></title>
-            <link>https://www.elle.co.kr/article/75458</link>
-            <guid>https://www.elle.co.kr/article/75458</guid>
-            <pubDate>Fri, 03 Mar 2023 05:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[멋진 모습으로 해외 패션쇼장에 나타난 국내 스타들을 모아봤습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/11ba1309-8e38-43e5-b705-0752843982e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

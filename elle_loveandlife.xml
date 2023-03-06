@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 05:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 17:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로맨틱한 시간을 보내기에 제격! 스타가 다녀간 와인바 3]]></title>
+            <link>https://www.elle.co.kr/article/75491</link>
+            <guid>https://www.elle.co.kr/article/75491</guid>
+            <pubDate>Mon, 06 Mar 2023 17:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[신비스러운 동굴 속 와인바부터 미슐랭 셰프가 기다리는 와인바까지, 우아한 저녁 시간을 보내기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/1cba9154-0f77-4246-bac8-47cf5268405f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김구·윤동주 굿즈부터 무궁화 텀블러까지! 삼일절 맞이 유통업계 이색 캠페인 모음]]></title>
             <link>https://www.elle.co.kr/article/75447</link>
@@ -58,14 +66,6 @@
             <pubDate>Tue, 28 Feb 2023 17:44:24 GMT</pubDate>
             <content:encoded><![CDATA[&lt;온지음이 차리는 맛:뿌리와 날개&gt;에서 불러낸 섬려한 고려의 맛.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/1ce28292-14b7-4d37-b406-08754e5cde9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숙슐랭 인정! 김숙이 소개한 고기 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/75344</link>
-            <guid>https://www.elle.co.kr/article/75344</guid>
-            <pubDate>Tue, 28 Feb 2023 05:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[윤기가 자르르 흐르는 양갈비 맛집부터 소식좌를 감동하게 만든 불고기까지, 맛잘알 김숙의 단골...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/fdcc2a72-315b-47fb-94d2-702cdfd935cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
