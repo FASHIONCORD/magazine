@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 05:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 17:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 저녁 고? 비주얼부터 메뉴까지 난리난 전국 이색 삼겹살 맛집 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/75523</link>
+            <guid>https://www.elle.co.kr/article/75523</guid>
+            <pubDate>Tue, 07 Mar 2023 17:42:36 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/a4c3dcd4-6982-4a59-b237-ccee5efe6455.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재출시 하자마자 판매 1위, '김혜자 도시락'에 담긴 '혜자로운' 철학]]></title>
             <link>https://www.elle.co.kr/article/75494</link>
@@ -56,14 +63,6 @@
             <guid>https://www.elle.co.kr/article/75386</guid>
             <pubDate>Fri, 03 Mar 2023 05:43:13 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/7cb28933-58cd-4581-a660-b46345cd5626.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아가 추천하는 신당동 맛집 4]]></title>
-            <link>https://www.elle.co.kr/article/75385</link>
-            <guid>https://www.elle.co.kr/article/75385</guid>
-            <pubDate>Fri, 03 Mar 2023 05:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[한결 가벼워진 날씨에 주말 외출을 계획 중이라면 신당동을 추천합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/15480620-bbb4-4d29-a2eb-f743d36924b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

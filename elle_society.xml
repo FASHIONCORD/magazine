@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 05:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 17:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송혜교부터 성훈, 나영석X서경덕까지! 삼일절 맞이 스타들의 선한 영향력 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/75448</link>
+            <guid>https://www.elle.co.kr/article/75448</guid>
+            <pubDate>Tue, 07 Mar 2023 17:42:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/1f8b2c14-1f2b-46a9-981b-7a3af9a23df0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김구·윤동주 굿즈부터 무궁화 텀블러까지! 삼일절 맞이 유통업계 이색 캠페인 모음]]></title>
             <link>https://www.elle.co.kr/article/75447</link>
@@ -57,13 +64,6 @@
             <pubDate>Mon, 27 Feb 2023 05:41:17 GMT</pubDate>
             <content:encoded><![CDATA[문해력. 단순히 글을 바르게 읽고 이해하는 능력치에 관한 문제가 아니다. 시대가 봉착한 혐오와...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e20b6315-0c97-4804-8430-41d66030f9ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["경주는 시작됐다": 구글 바드, 챗GPT 견제하다 망신? 전쟁터 된 AI 시장 상황]]></title>
-            <link>https://www.elle.co.kr/article/75212</link>
-            <guid>https://www.elle.co.kr/article/75212</guid>
-            <pubDate>Mon, 27 Feb 2023 05:41:17 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3a3b4f36-b5c9-44a0-8a41-d986f860b821.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
