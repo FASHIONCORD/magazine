@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 17:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 05:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 다 모였다! '환연2' MC들X출연진 회식 현장에서 벌어진 일.jpg]]></title>
+            <link>https://www.elle.co.kr/article/75525</link>
+            <guid>https://www.elle.co.kr/article/75525</guid>
+            <pubDate>Tue, 07 Mar 2023 05:41:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/c1edb11a-40c7-426a-9e27-f9bd83b3235d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지옥2' 캐스팅 최종 확정! 벌써 과몰입 시작한 새 주인공 김성철 반응.txt]]></title>
+            <link>https://www.elle.co.kr/article/75511</link>
+            <guid>https://www.elle.co.kr/article/75511</guid>
+            <pubDate>Tue, 07 Mar 2023 05:41:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/6db9f500-278c-4c6a-b421-bf0d6934aa54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마우리치오 카텔란에게 물었다]]></title>
             <link>https://www.elle.co.kr/article/75421</link>
@@ -50,21 +64,6 @@
             <guid>https://www.elle.co.kr/article/75377</guid>
             <pubDate>Wed, 01 Mar 2023 05:41:57 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/5ccd6b68-a00a-47c7-b5fd-da520728e166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런던에 가면 놓치지 말아야 할 갤러리]]></title>
-            <link>https://www.elle.co.kr/article/75374</link>
-            <guid>https://www.elle.co.kr/article/75374</guid>
-            <pubDate>Tue, 28 Feb 2023 17:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 갤러리와 갤러리가 주목한 아티스트를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8e72ea29-94b2-4325-ad40-9c659025f6f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스티븐 연 '썬더볼츠'로 MCU 합류, 히어로인지 빌런인지 알 수 없다고?!]]></title>
-            <link>https://www.elle.co.kr/article/75360</link>
-            <guid>https://www.elle.co.kr/article/75360</guid>
-            <pubDate>Tue, 28 Feb 2023 17:43:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/53d60d8e-17ea-4890-ae59-15af427dc2fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

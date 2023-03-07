@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 17:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 05:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재출시 하자마자 판매 1위, '김혜자 도시락'에 담긴 '혜자로운' 철학]]></title>
+            <link>https://www.elle.co.kr/article/75494</link>
+            <guid>https://www.elle.co.kr/article/75494</guid>
+            <pubDate>Tue, 07 Mar 2023 05:41:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/6e32f3c0-b606-4bfe-869b-00bcd836f858.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리집 댕댕이 옆자리에 태우고 제주도 여행 갈 수 있는 방법]]></title>
+            <link>https://www.elle.co.kr/article/75493</link>
+            <guid>https://www.elle.co.kr/article/75493</guid>
+            <pubDate>Tue, 07 Mar 2023 05:41:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/ae72a61f-91c6-4d3d-a112-55e63c36aa0a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로맨틱한 시간을 보내기에 제격! 스타가 다녀간 와인바 3]]></title>
             <link>https://www.elle.co.kr/article/75491</link>
@@ -50,22 +64,6 @@
             <pubDate>Fri, 03 Mar 2023 05:43:13 GMT</pubDate>
             <content:encoded><![CDATA[한결 가벼워진 날씨에 주말 외출을 계획 중이라면 신당동을 추천합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/15480620-bbb4-4d29-a2eb-f743d36924b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런던에 가면 놓치지 말아야 할 갤러리]]></title>
-            <link>https://www.elle.co.kr/article/75374</link>
-            <guid>https://www.elle.co.kr/article/75374</guid>
-            <pubDate>Tue, 28 Feb 2023 17:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 갤러리와 갤러리가 주목한 아티스트를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8e72ea29-94b2-4325-ad40-9c659025f6f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온지음 맛공방이 고려로 간 이유]]></title>
-            <link>https://www.elle.co.kr/article/75292</link>
-            <guid>https://www.elle.co.kr/article/75292</guid>
-            <pubDate>Tue, 28 Feb 2023 17:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;온지음이 차리는 맛:뿌리와 날개&gt;에서 불러낸 섬려한 고려의 맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/1ce28292-14b7-4d37-b406-08754e5cde9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
