@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 17:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 05:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이광호가 제약 없이 무한한 상상을 시작할 때 #더메이커스]]></title>
+            <link>https://www.elle.co.kr/article/75648</link>
+            <guid>https://www.elle.co.kr/article/75648</guid>
+            <pubDate>Wed, 08 Mar 2023 05:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/48f7819a-0d54-48a9-a507-6bc53f416a40.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마우리치오 카텔란에게 물었다]]></title>
             <link>https://www.elle.co.kr/article/75421</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/75304</guid>
             <pubDate>Thu, 23 Feb 2023 17:42:07 GMT</pubDate>
             <content:encoded><![CDATA[폐암 3기 판정을 받고 올린 박서보 화백의 심경. "전화하지 마시라, 그럼에도 말을 전하고 싶다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/488084c3-b3d0-4365-97c2-61bc20fde3ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아티스틱 스페이스]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/74848</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[예술적 감각이 뛰어난 슬기가 찾은 전시 두 곳을 확인하고 느낌 있는 인증샷을 남겨 보세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세상에서 가장 큰 캔버스  '메종 수잔']]></title>
-            <link>https://www.elle.co.kr/article/72986</link>
-            <guid>https://www.elle.co.kr/article/72986</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[모든 벽이 자신의 그림으로 가득 찬 나탈리 레테의 별장에 가다.]]></content:encoded>
         </item>
     </channel>
 </rss>

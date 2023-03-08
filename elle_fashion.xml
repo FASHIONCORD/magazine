@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 17:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 05:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알렉산더 맥퀸 2023 가을/겨울 컬렉션 패션쇼]]></title>
+            <link>https://www.elle.co.kr/article/75582</link>
+            <guid>https://www.elle.co.kr/article/75582</guid>
+            <pubDate>Wed, 08 Mar 2023 05:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[몸, 옷, 꽃을 해부하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/3f0e130f-3c73-42fa-9780-67e4e009f470.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[까르띠에의 아이콘 컬렉션을 조명하다]]></title>
+            <link>https://www.elle.co.kr/article/75571</link>
+            <guid>https://www.elle.co.kr/article/75571</guid>
+            <pubDate>Wed, 08 Mar 2023 05:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[시대를 초월한 아름다움. 까르띠에 아이콘 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/fd24a2e6-f4c1-4b74-a59b-2e89da3575ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[착용하는 순간 존재감 상승! 빅 펜던트 네크리스 유행]]></title>
             <link>https://www.elle.co.kr/article/75593</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 07 Mar 2023 05:40:35 GMT</pubDate>
             <content:encoded><![CDATA[새로운 계절을 수놓은 백과 슈즈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/8c1b7740-1ec2-438d-bc78-d8a5d37822ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개강했는데 뭐 입지? 스타일리시한 캠퍼스 룩 5]]></title>
-            <link>https://www.elle.co.kr/article/75559</link>
-            <guid>https://www.elle.co.kr/article/75559</guid>
-            <pubDate>Mon, 06 Mar 2023 17:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[옷 잘 입는 스타들의 사복 패션에서 멋스러운 캠퍼스 룩의 힌트를 얻어보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/27a4f85e-d737-4f2a-9173-ca3ac4ed11fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무게로부터 해방하라]]></title>
-            <link>https://www.elle.co.kr/article/75535</link>
-            <guid>https://www.elle.co.kr/article/75535</guid>
-            <pubDate>Mon, 06 Mar 2023 17:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[가벼움의 아름다움을 찬미한 펜디의 오트 쿠튀르 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/05/9a6a6c90-6637-4949-a5da-6d9d9cdaf4c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

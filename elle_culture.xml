@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 17:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 05:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장국영 20주기 맞는 2023년, 올해는 이 작품이 재개봉한다]]></title>
+            <link>https://www.elle.co.kr/article/75570</link>
+            <guid>https://www.elle.co.kr/article/75570</guid>
+            <pubDate>Wed, 08 Mar 2023 05:41:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/bc1f2eba-a5b4-43e6-bce9-d9c641b2cfb0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감독 에밀리 아테프가 사랑하는 사람에게 안녕을 고하는 방식.]]></title>
+            <link>https://www.elle.co.kr/article/75534</link>
+            <guid>https://www.elle.co.kr/article/75534</guid>
+            <pubDate>Wed, 08 Mar 2023 05:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[감독 에밀리 아테프가 사랑하는 사람에게 안녕을 고하는 방식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/12fc614c-7cc5-4e98-8578-e20eecd4da72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 다 모였다! '환연2' MC들X출연진 회식 현장에서 벌어진 일.jpg]]></title>
             <link>https://www.elle.co.kr/article/75525</link>
@@ -49,21 +64,6 @@
             <guid>https://www.elle.co.kr/article/75387</guid>
             <pubDate>Fri, 03 Mar 2023 17:41:11 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/6d04b1cc-47ee-49ee-bba4-b3ba7c3cce98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삶과 예술은 함께여야 한다! 사진가 잭 영의 공공임대주택 휴머니즘]]></title>
-            <link>https://www.elle.co.kr/article/72996</link>
-            <guid>https://www.elle.co.kr/article/72996</guid>
-            <pubDate>Fri, 03 Mar 2023 17:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[영국의 아마추어 사진가 잭 영이 포착한 런던 공공임대주택들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/d56fa12e-5ae1-479f-9502-58c7644b0a7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전원 부캐 플레이에 사이다 복수까지! '모범택시2'의 이유 있는 흥행 가도 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/75377</link>
-            <guid>https://www.elle.co.kr/article/75377</guid>
-            <pubDate>Wed, 01 Mar 2023 05:41:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/5ccd6b68-a00a-47c7-b5fd-da520728e166.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

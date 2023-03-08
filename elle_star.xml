@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 17:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 05:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개강했는데 뭐 입지? 스타일리시한 캠퍼스 룩 5]]></title>
+            <link>https://www.elle.co.kr/article/75559</link>
+            <guid>https://www.elle.co.kr/article/75559</guid>
+            <pubDate>Wed, 08 Mar 2023 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[옷 잘 입는 스타들의 사복 패션에서 멋스러운 캠퍼스 룩의 힌트를 얻어보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/27a4f85e-d737-4f2a-9173-ca3ac4ed11fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11살 차이를 뛰어넘은 우정! 손나은과 정유미가 절친이라고?!]]></title>
             <link>https://www.elle.co.kr/article/75544</link>
@@ -58,14 +66,6 @@
             <pubDate>Sat, 04 Mar 2023 05:40:14 GMT</pubDate>
             <content:encoded><![CDATA[신비스러운 동굴 속 와인바부터 미슐랭 셰프가 기다리는 와인바까지, 우아한 저녁 시간을 보내기...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/1cba9154-0f77-4246-bac8-47cf5268405f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도겸이 가쁜 숨을 고르고, 깊고 느리게 호흡하며 눈을 마주쳐 오던 순간]]></title>
-            <link>https://www.elle.co.kr/article/75480</link>
-            <guid>https://www.elle.co.kr/article/75480</guid>
-            <pubDate>Fri, 03 Mar 2023 17:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[세븐틴과 부석순, 도겸은 뭘하든 자신있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/18f54710-55ca-45ef-8b34-91376c383a2a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
