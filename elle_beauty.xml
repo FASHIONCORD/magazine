@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 05:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 17:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴 샤넬 걸의 탄생! 뉴진스 민지]]></title>
+            <link>https://www.elle.co.kr/article/75502</link>
+            <guid>https://www.elle.co.kr/article/75502</guid>
+            <pubDate>Wed, 08 Mar 2023 17:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 앰배서더로서 첫걸음을 내딛던 순간, 캔버스처럼 말간 민지의 얼굴을 물들인 샤넬 뷰티 제...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/d952e4d3-6695-4bf6-bcaa-8353551a5a84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[섭식장애 극복! 12kg 감량에도 건강 유지 중인 고은아의 자기 관리 노하우 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/75472</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/75257</guid>
             <pubDate>Wed, 01 Mar 2023 05:41:38 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/fe281b09-f531-4c8f-b1b0-e3d8f48f4ac8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 매일 땀 흘리는 모든 소녀들을 위하여!]]></title>
-            <link>https://www.elle.co.kr/article/75192</link>
-            <guid>https://www.elle.co.kr/article/75192</guid>
-            <pubDate>Tue, 28 Feb 2023 05:40:43 GMT</pubDate>
-            <content:encoded><![CDATA["이 시간이 너무 좋아요. 힐링되는 기분이에요" 틴트레이닝 이서영 대표가 이 말을 듣는 순간 소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/25c8c0ee-9207-4181-87c1-99fbabb688df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

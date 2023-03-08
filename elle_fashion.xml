@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 05:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 17:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌드의 정점 브레이드 헤어!]]></title>
+            <link>https://www.elle.co.kr/article/75615</link>
+            <guid>https://www.elle.co.kr/article/75615</guid>
+            <pubDate>Wed, 08 Mar 2023 17:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 웬즈데이 모음.zip]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/94d7b82e-5724-4884-be2e-474d7cc19e3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['후' 불면 날아갈 듯한 민들레 홀씨? 2023 F/W 파리 패션위크 속 이색 룩 3]]></title>
+            <link>https://www.elle.co.kr/article/75614</link>
+            <guid>https://www.elle.co.kr/article/75614</guid>
+            <pubDate>Wed, 08 Mar 2023 17:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[환상적인 실루엣의 향연!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/ec673f6b-8e36-4526-bbc5-9c04b99990d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알렉산더 맥퀸 2023 가을/겨울 컬렉션 패션쇼]]></title>
             <link>https://www.elle.co.kr/article/75582</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 07 Mar 2023 05:40:35 GMT</pubDate>
             <content:encoded><![CDATA[상상이 현실이 되는 마법, 구찌 하이 주얼리가 선보이는 환희의 정원.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/52f1f2f0-d1ac-4f0f-9a24-5e32aa8d4d16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미우 미우로 버클 업!]]></title>
-            <link>https://www.elle.co.kr/article/75539</link>
-            <guid>https://www.elle.co.kr/article/75539</guid>
-            <pubDate>Tue, 07 Mar 2023 05:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[거리를 질주할 메가 트렌드의 예감이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/93fadd91-8274-4a3a-b8d0-4e1096e6a013.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생경하게 마주한 로저비비에의 다양한 장면]]></title>
-            <link>https://www.elle.co.kr/article/75537</link>
-            <guid>https://www.elle.co.kr/article/75537</guid>
-            <pubDate>Tue, 07 Mar 2023 05:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 계절을 수놓은 백과 슈즈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/8c1b7740-1ec2-438d-bc78-d8a5d37822ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
