@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 17:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["맞는 게 나아, 때리는 게 나아?" 딸의 질문에서 시작한 '더 글로리', 김은숙이 내린 멋진 결론]]></title>
+            <link>https://www.elle.co.kr/article/75692</link>
+            <guid>https://www.elle.co.kr/article/75692</guid>
+            <pubDate>Thu, 09 Mar 2023 17:42:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/05e2764c-795f-4ff8-a780-8582500df031.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원조 '로코의 신' 전도연이 '일타스캔들' 나이 얘기에 밝힌 소신 발언 (feat. 중2 딸 반응)]]></title>
             <link>https://www.elle.co.kr/article/75665</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/75586</link>
             <guid>https://www.elle.co.kr/article/75586</guid>
             <pubDate>Mon, 06 Mar 2023 17:42:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/ff73d9a4-2d02-4ba5-b413-8b48c01d21c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장국영 20주기 맞는 2023년, 올해는 이 작품이 재개봉한다]]></title>
@@ -83,13 +89,6 @@
             <link>https://www.elle.co.kr/article/75360</link>
             <guid>https://www.elle.co.kr/article/75360</guid>
             <pubDate>Mon, 27 Feb 2023 05:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[케이트 블란쳇은 어떻게 ‘리디아 타르’란 괴물을 탄생시켰나_요주의여성 #81]]></title>
-            <link>https://www.elle.co.kr/article/75357</link>
-            <guid>https://www.elle.co.kr/article/75357</guid>
-            <pubDate>Mon, 27 Feb 2023 05:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[정점에 오른 '마에스트로'의 추락. 'TAR 타르' 속 위험하고 위대한 케이트 블란쳇에 대하여.]]></content:encoded>
         </item>
     </channel>
 </rss>

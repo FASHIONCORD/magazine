@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 17:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑과 낭만에서 시작되는 루크 에드워드 홀의 미학]]></title>
+            <link>https://www.elle.co.kr/article/75649</link>
+            <guid>https://www.elle.co.kr/article/75649</guid>
+            <pubDate>Thu, 09 Mar 2023 17:42:37 GMT</pubDate>
+            <content:encoded><![CDATA[영국의 화가이자 디자이너, 칼럼니스트인 루크 에드워드 홀이 도자기 브랜드 지노리1735와 손을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/1fd47fc6-2d4f-40c9-9777-ef7ecd5a8d88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이원우의 새  개인전]]></title>
             <link>https://www.elle.co.kr/article/75611</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/72996</guid>
             <pubDate>Mon, 27 Feb 2023 17:41:27 GMT</pubDate>
             <content:encoded><![CDATA[영국의 아마추어 사진가 잭 영이 포착한 런던 공공임대주택들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/d56fa12e-5ae1-479f-9502-58c7644b0a7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[런던에 가면 놓치지 말아야 할 갤러리]]></title>
@@ -61,18 +68,18 @@
             <content:encoded><![CDATA[엘르 데코가 주목한 예술적인 공간 4.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홈 오브제 퍼레이드 ②]]></title>
-            <link>https://www.elle.co.kr/article/75117</link>
-            <guid>https://www.elle.co.kr/article/75117</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[에르메스 2022 홈 컬렉션은 밝은 에너지를 담뿍 담았다. 상상을 초월하는 극강의 아름다움. 홈 ...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[한국의 근대 건축물 ⑤ 정동 1번지, 신아기념관]]></title>
             <link>https://www.elle.co.kr/article/72993</link>
             <guid>https://www.elle.co.kr/article/72993</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[정동 1번지를 지켜온 신아기념관의 옛 애칭은 '졸리 하우스', '즐거운 집'이었다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[홈 오브제 퍼레이드 ②]]></title>
+            <link>https://www.elle.co.kr/article/75117</link>
+            <guid>https://www.elle.co.kr/article/75117</guid>
+            <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[에르메스 2022 홈 컬렉션은 밝은 에너지를 담뿍 담았다. 상상을 초월하는 극강의 아름다움. 홈 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[생트로페로 떠난 모험, 갤러리스트 아르멜 소예르가 꿈꾼 공간]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/72988</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[‘아파트먼트풀’은 경험을 채우며 진정한 취향과 마주할 수 있는 공간이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새로운 차원의 영감! 디지털 방식으로 창조한 집과 세계]]></title>
-            <link>https://www.elle.co.kr/article/72987</link>
-            <guid>https://www.elle.co.kr/article/72987</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[렌더링 디자인은 이제 다른 차원의 영감을 선사하는 원천이 되고 있다. 재해석한 70년대 색채와...]]></content:encoded>
         </item>
     </channel>
 </rss>

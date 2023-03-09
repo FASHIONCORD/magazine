@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 17:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 화이트데이엔 호캉스? 로맨틱 이벤트 여는 전국 호텔 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/75613</link>
+            <guid>https://www.elle.co.kr/article/75613</guid>
+            <pubDate>Thu, 09 Mar 2023 17:43:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/e1ecae49-5ff5-4dc8-a0e2-17d7ff2c1677.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콧바람 쐬러 나선 낭만 식객이 향할 곳은? 봄 나들이에 제격인 성수동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/75602</link>
+            <guid>https://www.elle.co.kr/article/75602</guid>
+            <pubDate>Thu, 09 Mar 2023 17:43:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/1732b6c5-b569-45c8-89c1-d2d94a12be39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['미국 3대 버거' 파이브가이즈 국내 1호점 공사 시작! 오픈은 언제, 어디서?]]></title>
             <link>https://www.elle.co.kr/article/75595</link>
@@ -49,21 +63,6 @@
             <guid>https://www.elle.co.kr/article/75493</guid>
             <pubDate>Tue, 07 Mar 2023 05:41:41 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/ae72a61f-91c6-4d3d-a112-55e63c36aa0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱한 시간을 보내기에 제격! 스타가 다녀간 와인바 3]]></title>
-            <link>https://www.elle.co.kr/article/75491</link>
-            <guid>https://www.elle.co.kr/article/75491</guid>
-            <pubDate>Mon, 06 Mar 2023 17:42:22 GMT</pubDate>
-            <content:encoded><![CDATA[신비스러운 동굴 속 와인바부터 미슐랭 셰프가 기다리는 와인바까지, 우아한 저녁 시간을 보내기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/1cba9154-0f77-4246-bac8-47cf5268405f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김구·윤동주 굿즈부터 무궁화 텀블러까지! 삼일절 맞이 유통업계 이색 캠페인 모음]]></title>
-            <link>https://www.elle.co.kr/article/75447</link>
-            <guid>https://www.elle.co.kr/article/75447</guid>
-            <pubDate>Sun, 05 Mar 2023 17:42:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/01b5a5bf-9490-4eea-9cff-1f658c6a186a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

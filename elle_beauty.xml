@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 17:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누구세요?? 완전히 새로워진 뷰티 신상 3 #갓구운신상]]></title>
+            <link>https://www.elle.co.kr/article/75548</link>
+            <guid>https://www.elle.co.kr/article/75548</guid>
+            <pubDate>Thu, 09 Mar 2023 17:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[화제의 이니스프리 리브랜딩부터 전세계 300개 한정 아쿠아 디 파르마까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/e3531fdf-a4f3-4102-baa9-534d94f4349f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[완벽한 11자 복근을 가진 카즈하의 몸매 비법은?]]></title>
             <link>https://www.elle.co.kr/article/75542</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 03 Mar 2023 05:42:17 GMT</pubDate>
             <content:encoded><![CDATA[‘모공’ 하면 ‘베네피트’, ‘베네피트’ 하면 ‘모공’. 베네피트에서 2023년, 이 등식에 다시...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/bb04528d-d9fa-463f-b678-a1f3fb3b3e3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 향기 물씬! 향수부터 스킨케어, 립까지 2월 신제품 정보.zip #갓구운신상]]></title>
-            <link>https://www.elle.co.kr/article/75317</link>
-            <guid>https://www.elle.co.kr/article/75317</guid>
-            <pubDate>Thu, 02 Mar 2023 17:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[2월 4주차 뷰티 신제품]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/659c24da-9991-46bd-a43f-3e5bb85c75ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
