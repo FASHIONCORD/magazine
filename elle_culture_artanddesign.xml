@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 17:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 05:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이원우의 새  개인전]]></title>
+            <link>https://www.elle.co.kr/article/75611</link>
+            <guid>https://www.elle.co.kr/article/75611</guid>
+            <pubDate>Thu, 09 Mar 2023 05:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[조각과 퍼포먼스, 영상, 회화. 장르를 파괴하고 마음이 닿는 대로 창작하는 이원우 작가.  개인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/1a289393-eebf-42ef-baee-3fdad2a673b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이광호가 어떤 제약 없이 무한한 상상을 시작할 때 #더메이커스]]></title>
             <link>https://www.elle.co.kr/article/75648</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/75374</guid>
             <pubDate>Mon, 27 Feb 2023 17:41:27 GMT</pubDate>
             <content:encoded><![CDATA[세계적인 갤러리와 갤러리가 주목한 아티스트를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/8e72ea29-94b2-4325-ad40-9c659025f6f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박서보, 한 줄 이라도 더 긋고 싶은 아흔살 화백이 폐암 판정을 두고 한 다짐]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/72987</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[렌더링 디자인은 이제 다른 차원의 영감을 선사하는 원천이 되고 있다. 재해석한 70년대 색채와...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슬기가 다녀간 ‘핫’한 전시는 어디?]]></title>
-            <link>https://www.elle.co.kr/article/74848</link>
-            <guid>https://www.elle.co.kr/article/74848</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[예술적 감각이 뛰어난 슬기가 찾은 전시 두 곳을 확인하고 느낌 있는 인증샷을 남겨 보세요.]]></content:encoded>
         </item>
     </channel>
 </rss>

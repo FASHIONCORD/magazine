@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 17:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 05:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슛! 여고농구단]]></title>
+            <link>https://www.elle.co.kr/article/75573</link>
+            <guid>https://www.elle.co.kr/article/75573</guid>
+            <pubDate>Thu, 09 Mar 2023 05:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;슬램덩크&gt;에 북산고가 있다면? 한국에는 수원여고 농구단이 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/dd0867f5-7f04-465a-ac60-5bb127f83608.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽉 닫힌 결말! 전도연X정경호 쌍방 프러포즈로 마무리한 '일타스캔들' 명장면 2 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/75586</link>
@@ -57,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/75448</guid>
             <pubDate>Mon, 06 Mar 2023 05:40:36 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/1f8b2c14-1f2b-46a9-981b-7a3af9a23df0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 파트2, 시사회도 끝났다! 회수될 떡밥과 풀릴 서사들 미리보기.txt]]></title>
-            <link>https://www.elle.co.kr/article/75435</link>
-            <guid>https://www.elle.co.kr/article/75435</guid>
-            <pubDate>Sat, 04 Mar 2023 05:40:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/13edf646-a8ff-4472-8e11-def42d44e4ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
