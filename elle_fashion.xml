@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 17:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 05:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댄디 룩의 정석! <일타스캔들> 정경호 VS <연애대전>  유태오 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/75663</link>
+            <guid>https://www.elle.co.kr/article/75663</guid>
+            <pubDate>Fri, 10 Mar 2023 05:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[드라마만큼 스타일도 화제! 두고 두고 참고하기 좋은 룩을 선보인 &lt;일타스캔들&gt; 정경호와 &lt;연애대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/fa99fd10-14fa-433d-993c-0a72a9afd16c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구찌의 어느 오후]]></title>
             <link>https://www.elle.co.kr/article/75604</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Mar 2023 05:40:17 GMT</pubDate>
             <content:encoded><![CDATA[시대를 초월한 아름다움. 까르띠에 아이콘 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/fd24a2e6-f4c1-4b74-a59b-2e89da3575ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착용하는 순간 존재감 상승! 빅 펜던트 네크리스 유행]]></title>
-            <link>https://www.elle.co.kr/article/75593</link>
-            <guid>https://www.elle.co.kr/article/75593</guid>
-            <pubDate>Tue, 07 Mar 2023 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[큼지막한 펜던트의 네크리스를 주목하세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/d9ff158a-2fef-4499-b23c-224aa41ea2e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

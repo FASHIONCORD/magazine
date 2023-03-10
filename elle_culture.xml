@@ -4,9 +4,31 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 17:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 05:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이광호가 어떤 제약 없이 무한한 상상을 시작할 때 #더메이커스]]></title>
+            <link>https://www.elle.co.kr/article/75648</link>
+            <guid>https://www.elle.co.kr/article/75648</guid>
+            <pubDate>Fri, 10 Mar 2023 05:41:34 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/48f7819a-0d54-48a9-a507-6bc53f416a40.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[50년 전에 찾은 자유를 뺏겼다? 세계 여성의 날에 나온 이 영화를 꼭 봐야 하는 이유]]></title>
+            <link>https://www.elle.co.kr/article/75647</link>
+            <guid>https://www.elle.co.kr/article/75647</guid>
+            <pubDate>Fri, 10 Mar 2023 05:41:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/a7973ad1-e4c1-4c33-a394-f781ad5869f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4년 만에 돌아온 영화 '샤잠! 신들의 분노', 캐릭터 포스터에서 포착된 바뀐 점]]></title>
+            <link>https://www.elle.co.kr/article/75596</link>
+            <guid>https://www.elle.co.kr/article/75596</guid>
+            <pubDate>Fri, 10 Mar 2023 05:41:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/21ed0bb3-f368-4430-97c6-9b1be43c7850.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슛! 여고농구단]]></title>
             <link>https://www.elle.co.kr/article/75573</link>
@@ -43,28 +65,6 @@
             <guid>https://www.elle.co.kr/article/75525</guid>
             <pubDate>Tue, 07 Mar 2023 05:41:04 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/c1edb11a-40c7-426a-9e27-f9bd83b3235d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지옥2' 캐스팅 최종 확정! 벌써 과몰입 시작한 새 주인공 김성철 반응.txt]]></title>
-            <link>https://www.elle.co.kr/article/75511</link>
-            <guid>https://www.elle.co.kr/article/75511</guid>
-            <pubDate>Tue, 07 Mar 2023 05:41:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/6db9f500-278c-4c6a-b421-bf0d6934aa54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마우리치오 카텔란에게 물었다]]></title>
-            <link>https://www.elle.co.kr/article/75421</link>
-            <guid>https://www.elle.co.kr/article/75421</guid>
-            <pubDate>Mon, 06 Mar 2023 17:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[한국 관람객도 바나나를 떼어먹을까? 혹은 어떤 죽음을 떠올리게 하는 대리석 앞에 가만히 묵념...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/f3705b12-5efb-4f86-9966-f2113cccebe0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송혜교부터 성훈, 나영석X서경덕까지! 삼일절 맞이 스타들의 선한 영향력 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/75448</link>
-            <guid>https://www.elle.co.kr/article/75448</guid>
-            <pubDate>Mon, 06 Mar 2023 05:40:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/1f8b2c14-1f2b-46a9-981b-7a3af9a23df0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
