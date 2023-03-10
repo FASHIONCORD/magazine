@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 05:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 17:43:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성큼 다가온 봄, 향기도 꽃내음으로 갈아입을 때! 플로럴 향 제품 모음.zip_선배’s 어드바이스 #159]]></title>
+            <link>https://www.elle.co.kr/article/75580</link>
+            <guid>https://www.elle.co.kr/article/75580</guid>
+            <pubDate>Fri, 10 Mar 2023 17:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[그야말로 꽃, 과일, 풀 냄새로 가득한 봄의 정원에 서있는 듯한 향들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/ca6bb1bc-311c-45f9-b228-7d6782b5a978.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누구세요?? 완전히 새로워진 뷰티 신상 3 #갓구운신상]]></title>
             <link>https://www.elle.co.kr/article/75548</link>
@@ -61,14 +69,6 @@
             <pubDate>Sat, 04 Mar 2023 05:40:05 GMT</pubDate>
             <content:encoded><![CDATA[잡티부터 잔주름, 민감한 피부까지, 다양한 피부 고민을 해결해줄 기능성 신제품들 한눈에 보기!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/7262c057-f501-41d0-ac8f-98d37f37956c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모공 어벤저스 어셈블! 베네피트 New 포어 케어 컬렉션 탄생]]></title>
-            <link>https://www.elle.co.kr/article/75305</link>
-            <guid>https://www.elle.co.kr/article/75305</guid>
-            <pubDate>Fri, 03 Mar 2023 05:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[‘모공’ 하면 ‘베네피트’, ‘베네피트’ 하면 ‘모공’. 베네피트에서 2023년, 이 등식에 다시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/bb04528d-d9fa-463f-b678-a1f3fb3b3e3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
