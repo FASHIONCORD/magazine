@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 17:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 05:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크부터 뉴진스까지, 화제 그 자체였던 2023 F/W 파리 패션위크 속 K-셀럽 패션 10]]></title>
+            <link>https://www.elle.co.kr/article/75670</link>
+            <guid>https://www.elle.co.kr/article/75670</guid>
+            <pubDate>Sat, 11 Mar 2023 05:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕, 런던, 밀란에 이어 마지막 파리까지 접수!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/5bd09672-d065-4c29-bf41-a9b8279834c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[댄디 룩의 정석! <일타스캔들> 정경호 VS <연애대전>  유태오 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/75663</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Mar 2023 05:40:17 GMT</pubDate>
             <content:encoded><![CDATA[몸, 옷, 꽃을 해부하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/3f0e130f-3c73-42fa-9780-67e4e009f470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까르띠에의 아이콘 컬렉션을 조명하다]]></title>
-            <link>https://www.elle.co.kr/article/75571</link>
-            <guid>https://www.elle.co.kr/article/75571</guid>
-            <pubDate>Wed, 08 Mar 2023 05:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[시대를 초월한 아름다움. 까르띠에 아이콘 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/fd24a2e6-f4c1-4b74-a59b-2e89da3575ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
