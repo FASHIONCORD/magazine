@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 17:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 05:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연대하는 여성들 #콜제인 #사랑후의두여자]]></title>
+            <link>https://www.elle.co.kr/article/75740</link>
+            <guid>https://www.elle.co.kr/article/75740</guid>
+            <pubDate>Sun, 12 Mar 2023 05:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[여성의 봄을 감싸줄 영화들의 개봉 소식!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/1923e36f-67e9-4bf4-98f4-9b115f315d41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["맞는 게 나아, 때리는 게 나아?" 딸의 질문에서 시작한 '더 글로리', 김은숙이 내린 멋진 결론]]></title>
             <link>https://www.elle.co.kr/article/75692</link>
@@ -33,7 +41,6 @@
             <link>https://www.elle.co.kr/article/75596</link>
             <guid>https://www.elle.co.kr/article/75596</guid>
             <pubDate>Tue, 07 Mar 2023 05:41:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/21ed0bb3-f368-4430-97c6-9b1be43c7850.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽉 닫힌 결말! 전도연X정경호 쌍방 프러포즈로 마무리한 '일타스캔들' 명장면 2 #요즘드라마]]></title>
@@ -83,12 +90,6 @@
             <link>https://www.elle.co.kr/article/75377</link>
             <guid>https://www.elle.co.kr/article/75377</guid>
             <pubDate>Mon, 27 Feb 2023 17:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[스티븐 연 '썬더볼츠'로 MCU 합류, 히어로인지 빌런인지 알 수 없다고?!]]></title>
-            <link>https://www.elle.co.kr/article/75360</link>
-            <guid>https://www.elle.co.kr/article/75360</guid>
-            <pubDate>Mon, 27 Feb 2023 05:40:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

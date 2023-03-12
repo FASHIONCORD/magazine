@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 17:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 05:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원조 '로코의 신' 전도연이 '일타스캔들' 나이 얘기에 밝힌 소신 발언 (feat. 중2 딸 반응)]]></title>
+            <link>https://www.elle.co.kr/article/75665</link>
+            <guid>https://www.elle.co.kr/article/75665</guid>
+            <pubDate>Sun, 12 Mar 2023 05:40:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/36e61262-b307-4ea3-a27e-125c90109dfb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이광호가 어떤 제약 없이 무한한 상상을 시작할 때 #더메이커스]]></title>
             <link>https://www.elle.co.kr/article/75648</link>
@@ -58,13 +65,6 @@
             <pubDate>Wed, 08 Mar 2023 05:41:15 GMT</pubDate>
             <content:encoded><![CDATA[감독 에밀리 아테프가 사랑하는 사람에게 안녕을 고하는 방식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/12fc614c-7cc5-4e98-8578-e20eecd4da72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 다 모였다! '환연2' MC들X출연진 회식 현장에서 벌어진 일.jpg]]></title>
-            <link>https://www.elle.co.kr/article/75525</link>
-            <guid>https://www.elle.co.kr/article/75525</guid>
-            <pubDate>Tue, 07 Mar 2023 05:41:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/c1edb11a-40c7-426a-9e27-f9bd83b3235d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

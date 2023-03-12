@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 17:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 05:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃송이가 피었네]]></title>
+            <link>https://www.elle.co.kr/article/75638</link>
+            <guid>https://www.elle.co.kr/article/75638</guid>
+            <pubDate>Sun, 12 Mar 2023 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[봄을 맞아 만개한 플라워 액세서리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/ff26b503-36eb-4296-bad7-42f4b17e0da3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극과 극의 매력을 달리는 맥시스커트 패션 6]]></title>
+            <link>https://www.elle.co.kr/article/75673</link>
+            <guid>https://www.elle.co.kr/article/75673</guid>
+            <pubDate>Sun, 12 Mar 2023 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[캐주얼과 우아함을 넘나드는 맥시스커트 스타일링을 모아봤습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/b0aec15f-c37c-4df5-927f-e45603fc9f46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크부터 뉴진스까지, 화제 그 자체였던 2023 F/W 파리 패션위크 속 K-셀럽 패션 10]]></title>
             <link>https://www.elle.co.kr/article/75670</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 08 Mar 2023 17:40:54 GMT</pubDate>
             <content:encoded><![CDATA[한국의 웬즈데이 모음.zip]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/94d7b82e-5724-4884-be2e-474d7cc19e3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['후' 불면 날아갈 듯한 민들레 홀씨? 2023 F/W 파리 패션위크 속 이색 룩 3]]></title>
-            <link>https://www.elle.co.kr/article/75614</link>
-            <guid>https://www.elle.co.kr/article/75614</guid>
-            <pubDate>Wed, 08 Mar 2023 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[환상적인 실루엣의 향연!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/ec673f6b-8e36-4526-bbc5-9c04b99990d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알렉산더 맥퀸 2023 가을/겨울 컬렉션 패션쇼]]></title>
-            <link>https://www.elle.co.kr/article/75582</link>
-            <guid>https://www.elle.co.kr/article/75582</guid>
-            <pubDate>Wed, 08 Mar 2023 05:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[몸, 옷, 꽃을 해부하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/3f0e130f-3c73-42fa-9780-67e4e009f470.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 17:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 05:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타이핑할 필요 없다! 문서 사진 찍으면 알아서 답변하는, 눈 달린 챗GPT  'AskUp' 정보]]></title>
+            <link>https://www.elle.co.kr/article/75693</link>
+            <guid>https://www.elle.co.kr/article/75693</guid>
+            <pubDate>Sun, 12 Mar 2023 05:41:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/5b728149-4bf4-4a9e-bafb-0b0907fa4585.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카스타드와 투게더에 이런 변화가? '착한 포장' 적용된 국민 간식 근황 (ft.친환경)]]></title>
             <link>https://www.elle.co.kr/article/75691</link>
@@ -55,14 +62,6 @@
             <guid>https://www.elle.co.kr/article/75595</guid>
             <pubDate>Thu, 09 Mar 2023 05:42:36 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/6e5f7849-7c51-4c5b-87ff-714f909f9a1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다음은 없어요! 미루지 말고 다녀올 패션 팝업.]]></title>
-            <link>https://www.elle.co.kr/article/75585</link>
-            <guid>https://www.elle.co.kr/article/75585</guid>
-            <pubDate>Thu, 09 Mar 2023 05:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[한혜진과 로운은 이미 다녀갔습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/8b87ef98-e324-41e0-8d85-c64edf5240f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
