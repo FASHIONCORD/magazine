@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 05:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 17:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유희적 형태부터 자연의 색까지! 올해 메종 오브제를 휩쓴 디자인 키워드 9]]></title>
+            <link>https://www.elle.co.kr/article/75650</link>
+            <guid>https://www.elle.co.kr/article/75650</guid>
+            <pubDate>Sun, 12 Mar 2023 17:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023 메종 오브제에서 발견한 이번 시즌의 주요 디자인 키워드를 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/ba7d04d0-f752-4d69-b06b-dbcb3a27f674.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑과 낭만에서 시작되는 루크 에드워드 홀의 미학]]></title>
             <link>https://www.elle.co.kr/article/75649</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/75421</guid>
             <pubDate>Wed, 01 Mar 2023 05:42:24 GMT</pubDate>
             <content:encoded><![CDATA[한국 관람객도 바나나를 떼어먹을까? 혹은 어떤 죽음을 떠올리게 하는 대리석 앞에 가만히 묵념...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/f3705b12-5efb-4f86-9966-f2113cccebe0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삶과 예술은 함께여야 한다! 사진가 잭 영의 공공임대주택 휴머니즘]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/72990</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[새하얗게 빛나는 휴식의 정점.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공간의 씬 스틸러들 ③ 아파트먼트풀]]></title>
-            <link>https://www.elle.co.kr/article/72988</link>
-            <guid>https://www.elle.co.kr/article/72988</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[‘아파트먼트풀’은 경험을 채우며 진정한 취향과 마주할 수 있는 공간이다.]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 05:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 17:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 슈즈 트렌드는 복서 부츠와 메리제인? 2023 F/W 파리 패션위크 속 협업 슈즈 3]]></title>
+            <link>https://www.elle.co.kr/article/75680</link>
+            <guid>https://www.elle.co.kr/article/75680</guid>
+            <pubDate>Sun, 12 Mar 2023 17:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[모터사이클 부츠부터 꽃신까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/8a12cb03-5590-438a-bd29-ff70520478de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃송이가 피었네]]></title>
             <link>https://www.elle.co.kr/article/75638</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 09 Mar 2023 05:41:14 GMT</pubDate>
             <content:encoded><![CDATA[국제 여성의 날을 위한 포멜라토 포 우먼 캠페인. 제인 폰다, 파올라 에고누, 조이 킹, 나심 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/6eb53c9a-b082-4dc3-b7bd-8b3ba5f4b898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌드의 정점 브레이드 헤어!]]></title>
-            <link>https://www.elle.co.kr/article/75615</link>
-            <guid>https://www.elle.co.kr/article/75615</guid>
-            <pubDate>Wed, 08 Mar 2023 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 웬즈데이 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/94d7b82e-5724-4884-be2e-474d7cc19e3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
