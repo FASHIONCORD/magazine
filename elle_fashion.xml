@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 05:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 17:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 아우터 이렇게 입어요! 가죽재킷을 입은 셀러브리티 5]]></title>
+            <link>https://www.elle.co.kr/article/75727</link>
+            <guid>https://www.elle.co.kr/article/75727</guid>
+            <pubDate>Mon, 13 Mar 2023 17:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[카일리 제너부터 선미까지 스타들의 각양각색 가죽 재킷 스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/22f0d7cd-8269-4349-9501-0b92a0bfc008.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한끗이 아쉽다면 베레를 얹어주세요]]></title>
+            <link>https://www.elle.co.kr/article/75710</link>
+            <guid>https://www.elle.co.kr/article/75710</guid>
+            <pubDate>Mon, 13 Mar 2023 17:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[스타들이 푹 빠진 베레 스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/75f17eae-5e6b-4d95-b509-55cc5dfcea41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 슈즈 트렌드는 복서 부츠와 메리제인? 2023 F/W 파리 패션위크 속 협업 슈즈 3]]></title>
             <link>https://www.elle.co.kr/article/75680</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 09 Mar 2023 05:41:14 GMT</pubDate>
             <content:encoded><![CDATA[너를 기다리며.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/91284940-05f6-4024-8d4e-41950006add1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가벼워진 옷차림에도 놓칠 수 없는 아이템은? 레그 워머 스타일링 6]]></title>
-            <link>https://www.elle.co.kr/article/75630</link>
-            <guid>https://www.elle.co.kr/article/75630</guid>
-            <pubDate>Thu, 09 Mar 2023 05:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[올봄 ‘핫’ 걸 필수템인 레그 워머를 기억하세요. 현아부터 카즈하까지 스타일 아이콘들의 레그...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/35eb8ec6-2f27-49ef-9fe6-a7bee1b69c61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마침내 얻은 자유? 우리의 성취에 질문을 던지다]]></title>
-            <link>https://www.elle.co.kr/article/75574</link>
-            <guid>https://www.elle.co.kr/article/75574</guid>
-            <pubDate>Thu, 09 Mar 2023 05:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[국제 여성의 날을 위한 포멜라토 포 우먼 캠페인. 제인 폰다, 파올라 에고누, 조이 킹, 나심 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/6eb53c9a-b082-4dc3-b7bd-8b3ba5f4b898.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

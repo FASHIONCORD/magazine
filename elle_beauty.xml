@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 05:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 17:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 백스테이지 메이크업의 모든 것]]></title>
+            <link>https://www.elle.co.kr/article/75743</link>
+            <guid>https://www.elle.co.kr/article/75743</guid>
+            <pubDate>Mon, 13 Mar 2023 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 2023/24 가을-겨울 레디-투-웨어 쇼 백스테이지 메이크업 하우투.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/8ee90104-966b-4795-af9a-6ed4a96eaa4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가브리넬 샤넬과 닮은 그녀]]></title>
+            <link>https://www.elle.co.kr/article/75706</link>
+            <guid>https://www.elle.co.kr/article/75706</guid>
+            <pubDate>Mon, 13 Mar 2023 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[휘트니 픽이 샤넬 코코 마드모아젤 향수의 뮤즈로 활동한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/28a79192-2726-41b3-b29b-31e98aa84282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고작 7주 만에 -17kg? 급 슬림해진 강재준의 건강한 체중 감량 노하우 총정리 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/75690</link>
@@ -52,22 +68,6 @@
             <pubDate>Thu, 09 Mar 2023 17:41:25 GMT</pubDate>
             <content:encoded><![CDATA[화제의 이니스프리 리브랜딩부터 전세계 300개 한정 아쿠아 디 파르마까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/e3531fdf-a4f3-4102-baa9-534d94f4349f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완벽한 11자 복근을 가진 카즈하의 몸매 비법은?]]></title>
-            <link>https://www.elle.co.kr/article/75542</link>
-            <guid>https://www.elle.co.kr/article/75542</guid>
-            <pubDate>Thu, 09 Mar 2023 05:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[발레로 다져진 카즈하의 몸매 관리 비법은 꾸준한 홈트였다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/037c5d9e-606e-4988-8fa0-4eae7d48d345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 샤넬 걸의 탄생! 뉴진스 민지]]></title>
-            <link>https://www.elle.co.kr/article/75502</link>
-            <guid>https://www.elle.co.kr/article/75502</guid>
-            <pubDate>Wed, 08 Mar 2023 17:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 앰배서더로서 첫걸음을 내딛던 순간, 캔버스처럼 말간 민지의 얼굴을 물들인 샤넬 뷰티 제...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/d952e4d3-6695-4bf6-bcaa-8353551a5a84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

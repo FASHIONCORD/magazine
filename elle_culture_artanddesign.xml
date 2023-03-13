@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 05:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 17:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천안문을 향해 가운뎃손가락을 들어 보인 그가 돌아왔다! 이른 봄과 함께 찾아온 이달의 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/75771</link>
+            <guid>https://www.elle.co.kr/article/75771</guid>
+            <pubDate>Mon, 13 Mar 2023 17:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[국보와 보물을 총망라한 만큼 놓쳐서는 안 될 역대급 전시는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/075f8671-9cfe-444c-95a7-907ecdff9c5c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유희적 형태부터 자연의 색까지! 올해 메종 오브제를 휩쓴 디자인 키워드 9]]></title>
             <link>https://www.elle.co.kr/article/75650</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/75648</guid>
             <pubDate>Wed, 08 Mar 2023 05:42:15 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/48f7819a-0d54-48a9-a507-6bc53f416a40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마우리치오 카텔란에게 물었다]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/72992</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[10년 전 파리에 자신의 첫 갤러리를 오픈한 아르멜 소예르는 어느 날 프랑스 남부 생트로페로 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[컬러풀 소파! 화이트 & 베이지]]></title>
-            <link>https://www.elle.co.kr/article/72990</link>
-            <guid>https://www.elle.co.kr/article/72990</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[새하얗게 빛나는 휴식의 정점.]]></content:encoded>
         </item>
     </channel>
 </rss>
