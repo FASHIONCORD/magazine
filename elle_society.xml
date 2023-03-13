@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 17:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 05:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마침내 얻은 자유? 우리의 성취에 질문을 던지다]]></title>
+            <link>https://www.elle.co.kr/article/75574</link>
+            <guid>https://www.elle.co.kr/article/75574</guid>
+            <pubDate>Mon, 13 Mar 2023 05:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[국제 여성의 날을 위한 포멜라토 포 우먼 캠페인. 제인 폰다, 파올라 에고누, 조이 킹, 나심 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/6eb53c9a-b082-4dc3-b7bd-8b3ba5f4b898.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023년 세계 여성의 날 슬로건, '공정을 포용하라'의 진짜 의미 #EmbraceEquity]]></title>
             <link>https://www.elle.co.kr/article/75608</link>
@@ -58,13 +66,6 @@
             <pubDate>Tue, 07 Mar 2023 05:41:51 GMT</pubDate>
             <content:encoded><![CDATA[정점에 오른 '마에스트로'의 추락. 'TAR 타르' 속 위험하고 위대한 케이트 블란쳇에 대하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/af69a845-10cc-4679-af2b-f9439d1fbc87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지선아 사랑해' 이지선 교수의 금의환향 (ft.모교 컴백)]]></title>
-            <link>https://www.elle.co.kr/article/75351</link>
-            <guid>https://www.elle.co.kr/article/75351</guid>
-            <pubDate>Sun, 05 Mar 2023 17:42:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/6215073a-4c17-43ab-ab22-df7e037b468e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

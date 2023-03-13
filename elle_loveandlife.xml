@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 17:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 05:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모델 천예슬이 픽한 카페 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/75699</link>
+            <guid>https://www.elle.co.kr/article/75699</guid>
+            <pubDate>Mon, 13 Mar 2023 05:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[유니크한 비주얼의 디저트 카페부터 핫한 브런치 카페까지! 천예슬이 방문한 카페를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/3038ed34-5920-4045-b5f3-b1843571039d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타이핑할 필요 없다! 문서 사진 찍으면 알아서 답변하는, 눈 달린 챗GPT  'AskUp' 정보]]></title>
             <link>https://www.elle.co.kr/article/75693</link>
@@ -55,13 +63,6 @@
             <guid>https://www.elle.co.kr/article/75602</guid>
             <pubDate>Thu, 09 Mar 2023 17:43:18 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/1732b6c5-b569-45c8-89c1-d2d94a12be39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미국 3대 버거' 파이브가이즈 국내 1호점 공사 시작! 오픈은 언제, 어디서?]]></title>
-            <link>https://www.elle.co.kr/article/75595</link>
-            <guid>https://www.elle.co.kr/article/75595</guid>
-            <pubDate>Thu, 09 Mar 2023 05:42:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/6e5f7849-7c51-4c5b-87ff-714f909f9a1e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
