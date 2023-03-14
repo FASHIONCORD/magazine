@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 17:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 05:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가방을 위한 액세서리 #백참 #쇼핑리스트]]></title>
+            <link>https://www.elle.co.kr/article/75739</link>
+            <guid>https://www.elle.co.kr/article/75739</guid>
+            <pubDate>Tue, 14 Mar 2023 05:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게 귀여운데 왜 안 해? 가방에 인형 키링 하나쯤은 달고 다녀야 힙!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/effdfec4-33e2-4dd2-8a12-273b35101dfa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 아우터 이렇게 입어요! 가죽재킷을 입은 셀러브리티 5]]></title>
             <link>https://www.elle.co.kr/article/75727</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Mar 2023 05:40:33 GMT</pubDate>
             <content:encoded><![CDATA[드라마만큼 스타일도 화제! 두고 두고 참고하기 좋은 룩을 선보인 &lt;일타스캔들&gt; 정경호와 &lt;연애대...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/fa99fd10-14fa-433d-993c-0a72a9afd16c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구찌의 어느 오후]]></title>
-            <link>https://www.elle.co.kr/article/75604</link>
-            <guid>https://www.elle.co.kr/article/75604</guid>
-            <pubDate>Thu, 09 Mar 2023 05:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[너를 기다리며.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/91284940-05f6-4024-8d4e-41950006add1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

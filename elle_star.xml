@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 17:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 05:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 소이현, 인교진이 추천하는 로맨틱한 향수 선물 8]]></title>
+            <link>https://www.elle.co.kr/article/75746</link>
+            <guid>https://www.elle.co.kr/article/75746</guid>
+            <pubDate>Tue, 14 Mar 2023 05:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[화이트데이 선물을 계획 중이라면 주목! 인소 부부가 추천하는 향수 리스트를 눈여겨보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9dadd0e6-f6cd-4a0f-baf7-48e907f09c72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전교 1등과 일진이 실제 부부가 됐다고? 인터넷 소설 같은 박세영x곽정욱 러브 스토리!]]></title>
             <link>https://www.elle.co.kr/article/75728</link>
@@ -57,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/75666</guid>
             <pubDate>Sat, 11 Mar 2023 05:40:43 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/3889f5c4-30f2-4160-a167-9d9f2a4939b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원조 '로코의 신' 전도연이 '일타스캔들' 나이 얘기에 밝힌 소신 발언 (feat. 중2 딸 반응)]]></title>
-            <link>https://www.elle.co.kr/article/75665</link>
-            <guid>https://www.elle.co.kr/article/75665</guid>
-            <pubDate>Fri, 10 Mar 2023 05:40:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/36e61262-b307-4ea3-a27e-125c90109dfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
