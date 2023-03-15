@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 05:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 17:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 소이현, 인교진이 추천하는 로맨틱한 향수 선물 8]]></title>
+            <link>https://www.elle.co.kr/article/75746</link>
+            <guid>https://www.elle.co.kr/article/75746</guid>
+            <pubDate>Wed, 15 Mar 2023 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[화이트데이 선물을 계획 중이라면 주목! 인소 부부가 추천하는 향수 리스트를 눈여겨보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9dadd0e6-f6cd-4a0f-baf7-48e907f09c72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 백스테이지 메이크업의 모든 것]]></title>
             <link>https://www.elle.co.kr/article/75743</link>
@@ -60,14 +68,6 @@
             <pubDate>Fri, 10 Mar 2023 17:40:50 GMT</pubDate>
             <content:encoded><![CDATA[그야말로 꽃, 과일, 풀 냄새로 가득한 봄의 정원에 서있는 듯한 향들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/ca6bb1bc-311c-45f9-b228-7d6782b5a978.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구세요?? 완전히 새로워진 뷰티 신상 3 #갓구운신상]]></title>
-            <link>https://www.elle.co.kr/article/75548</link>
-            <guid>https://www.elle.co.kr/article/75548</guid>
-            <pubDate>Thu, 09 Mar 2023 17:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[화제의 이니스프리 리브랜딩부터 전세계 300개 한정 아쿠아 디 파르마까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/e3531fdf-a4f3-4102-baa9-534d94f4349f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

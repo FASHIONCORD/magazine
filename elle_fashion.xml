@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 05:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 17:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄과 함께 찾아온 플라워 초커 트렌드]]></title>
+            <link>https://www.elle.co.kr/article/75788</link>
+            <guid>https://www.elle.co.kr/article/75788</guid>
+            <pubDate>Wed, 15 Mar 2023 17:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[트렌디한 외국 패션 인플루언서들 사이에서 유행처럼 번지고 있는 초커 스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/984e9d52-9487-4326-ab6f-cad904c1f2bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[까멜리아로 피워낸 샤넬의 정신]]></title>
+            <link>https://www.elle.co.kr/article/75763</link>
+            <guid>https://www.elle.co.kr/article/75763</guid>
+            <pubDate>Wed, 15 Mar 2023 17:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[버지니 비아르의 손길을 통해 샤넬 하우스의 영원한 코드가 된 까멜리아가 런웨이 위에서 꽃잎을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/ad28cf09-c20e-4dc4-9f94-9abdd35ac637.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 아카데미 시상식 드레스 스타일]]></title>
             <link>https://www.elle.co.kr/article/75762</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 13 Mar 2023 17:40:22 GMT</pubDate>
             <content:encoded><![CDATA[스타들이 푹 빠진 베레 스타일.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/75f17eae-5e6b-4d95-b509-55cc5dfcea41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 슈즈 트렌드는 복서 부츠와 메리제인? 2023 F/W 파리 패션위크 속 협업 슈즈 3]]></title>
-            <link>https://www.elle.co.kr/article/75680</link>
-            <guid>https://www.elle.co.kr/article/75680</guid>
-            <pubDate>Sun, 12 Mar 2023 17:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[모터사이클 부츠부터 꽃신까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/8a12cb03-5590-438a-bd29-ff70520478de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃송이가 피었네]]></title>
-            <link>https://www.elle.co.kr/article/75638</link>
-            <guid>https://www.elle.co.kr/article/75638</guid>
-            <pubDate>Sun, 12 Mar 2023 05:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[봄을 맞아 만개한 플라워 액세서리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/ff26b503-36eb-4296-bad7-42f4b17e0da3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
