@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 17:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 05:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이태원은 지금] 이태원에는 특별한 것이 있다! 노우웨이브 김승환과 해방촌 비혼세의 이태원]]></title>
+            <link>https://www.elle.co.kr/article/75664</link>
+            <guid>https://www.elle.co.kr/article/75664</guid>
+            <pubDate>Wed, 15 Mar 2023 05:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[이태원을 계속 지켜온 주민들에게 보내는 응원과 다정한 메시지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/8393ac02-41ca-4b6b-a0c7-dd66e04f239a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원은 지금] 이태원의 만남의 장을 연 권혁인, 최장민]]></title>
             <link>https://www.elle.co.kr/article/75669</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/75691</guid>
             <pubDate>Sat, 11 Mar 2023 05:41:46 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/eb087ba1-6ad5-46ee-baf6-ad3cce56c950.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저칼로리 버전 팔도비빔면 비빔장이 나왔다! 설탕 확 줄인 양념&소스들]]></title>
-            <link>https://www.elle.co.kr/article/75675</link>
-            <guid>https://www.elle.co.kr/article/75675</guid>
-            <pubDate>Fri, 10 Mar 2023 17:42:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/b2d9e5a8-1398-4b8c-bbf8-6a2f55ac44c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
