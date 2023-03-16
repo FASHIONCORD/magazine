@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 05:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 17:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라 메르와 시슬리의 진화]]></title>
+            <link>https://www.elle.co.kr/article/75711</link>
+            <guid>https://www.elle.co.kr/article/75711</guid>
+            <pubDate>Thu, 16 Mar 2023 17:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[라 메르 크림과 시슬리 로션, 클래식 중에 클래식이던 두 제품이 한 단계 업그레이드 됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/a3dcf3d7-3364-401e-8699-0ca6887ce4de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마스크-프리 시대의 베이스 메이크업]]></title>
             <link>https://www.elle.co.kr/article/75713</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/75666</guid>
             <pubDate>Mon, 13 Mar 2023 05:39:57 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/3889f5c4-30f2-4160-a167-9d9f2a4939b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트렌드의 정점 브레이드 헤어!]]></title>
-            <link>https://www.elle.co.kr/article/75615</link>
-            <guid>https://www.elle.co.kr/article/75615</guid>
-            <pubDate>Sun, 12 Mar 2023 17:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 웬즈데이 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/94d7b82e-5724-4884-be2e-474d7cc19e3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

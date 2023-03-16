@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 05:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 17:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천안문을 향해 가운뎃손가락을 들어 보인 그가 돌아왔다! 이른 봄과 함께 찾아온 이달의 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/75771</link>
+            <guid>https://www.elle.co.kr/article/75771</guid>
+            <pubDate>Thu, 16 Mar 2023 17:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[국보와 보물을 총망라한 만큼 놓쳐서는 안 될 역대급 전시는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/075f8671-9cfe-444c-95a7-907ecdff9c5c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원은 지금] 이태원에는 특별한 것이 있다! 노우웨이브 김승환과 해방촌 비혼세의 이태원]]></title>
             <link>https://www.elle.co.kr/article/75664</link>
@@ -60,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/75693</guid>
             <pubDate>Sun, 12 Mar 2023 05:41:05 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/5b728149-4bf4-4a9e-bafb-0b0907fa4585.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카스타드와 투게더에 이런 변화가? '착한 포장' 적용된 국민 간식 근황 (ft.친환경)]]></title>
-            <link>https://www.elle.co.kr/article/75691</link>
-            <guid>https://www.elle.co.kr/article/75691</guid>
-            <pubDate>Sat, 11 Mar 2023 05:41:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/eb087ba1-6ad5-46ee-baf6-ad3cce56c950.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

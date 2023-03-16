@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 05:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 17:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김다은이 자유롭고 대범하게 지은 사물들 #더메이커스]]></title>
+            <link>https://www.elle.co.kr/article/75651</link>
+            <guid>https://www.elle.co.kr/article/75651</guid>
+            <pubDate>Thu, 16 Mar 2023 17:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/24e6c146-6064-4bdc-bc2a-d925374f2b7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아모레 퍼시픽 본사를 탄생시킨 데이비드 치퍼필드, 2023 프리츠커상 수상!]]></title>
+            <link>https://www.elle.co.kr/article/75810</link>
+            <guid>https://www.elle.co.kr/article/75810</guid>
+            <pubDate>Thu, 16 Mar 2023 17:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[‘건축계 노벨상’의 영예를 안은 주인공.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/f5bad31a-82ca-4f62-8190-b163f21cb4ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용두용미+권선징악 그 자체! 손에 땀을 쥐게 한, '더 글로리' 파트2 명장면 모음 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/75772</link>
@@ -51,21 +67,6 @@
             <guid>https://www.elle.co.kr/article/75745</guid>
             <pubDate>Mon, 13 Mar 2023 17:41:01 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/6c49a4d4-f656-46cf-9a38-817cd67121ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연대하는 여성들 #콜제인 #사랑후의두여자]]></title>
-            <link>https://www.elle.co.kr/article/75740</link>
-            <guid>https://www.elle.co.kr/article/75740</guid>
-            <pubDate>Mon, 13 Mar 2023 17:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[여성의 봄을 감싸줄 영화들의 개봉 소식!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/1923e36f-67e9-4bf4-98f4-9b115f315d41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김광현 VS 다르빗슈 유, 물러설 곳이 없는 WBC 한일전 라인업]]></title>
-            <link>https://www.elle.co.kr/article/75709</link>
-            <guid>https://www.elle.co.kr/article/75709</guid>
-            <pubDate>Mon, 13 Mar 2023 17:41:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/37259460-b78e-4b94-8643-e24c48caf795.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

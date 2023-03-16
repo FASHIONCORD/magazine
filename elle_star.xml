@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 05:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 17:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<엘르> 4월호 커버스타 뷔가 그려낸 봄날의 서정]]></title>
+            <link>https://www.elle.co.kr/article/75840</link>
+            <guid>https://www.elle.co.kr/article/75840</guid>
+            <pubDate>Thu, 16 Mar 2023 17:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[V가 상징하는 모든 것을 흡수한 뷔가 &lt;엘르&gt; 카메라 앞에 섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/d3699ec4-941b-458a-971b-b64ff9298187.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한혜진의 ‘급찐급빠’ 식단 대공개]]></title>
+            <link>https://www.elle.co.kr/article/75860</link>
+            <guid>https://www.elle.co.kr/article/75860</guid>
+            <pubDate>Thu, 16 Mar 2023 17:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[모델 한혜진이 공개한 다이어트 식단으로 건강한 라이프를 시작해보세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/b928c422-b3a3-4d26-9d8e-4e73df0ba503.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장원영의 이모지 인터뷰 #ELLEasEMOJI]]></title>
             <link>https://www.elle.co.kr/article/75857</link>
@@ -52,20 +68,6 @@
             <pubDate>Wed, 15 Mar 2023 17:40:58 GMT</pubDate>
             <content:encoded><![CDATA[레드 카펫은 옛말.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/7686323b-14fa-411e-8e3c-95767dcce396.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-팝 시스템, 비인간적이라고? 침략 역사와 IMF 위기까지 나온 BTS RM의 대단한 답변]]></title>
-            <link>https://www.elle.co.kr/article/75803</link>
-            <guid>https://www.elle.co.kr/article/75803</guid>
-            <pubDate>Wed, 15 Mar 2023 17:40:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/893d9bb7-e467-4d2f-8fec-438fd580ed97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 10년차 부부, 럽스타 시동? 이민정이 공개한 이병헌과의 커플 사진.jpg]]></title>
-            <link>https://www.elle.co.kr/article/75795</link>
-            <guid>https://www.elle.co.kr/article/75795</guid>
-            <pubDate>Wed, 15 Mar 2023 17:40:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/56118bc0-a1a4-4764-a8df-d7c13027e832.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
