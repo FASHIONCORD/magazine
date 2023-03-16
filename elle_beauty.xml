@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 17:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 05:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마스크-프리 시대의 베이스 메이크업]]></title>
+            <link>https://www.elle.co.kr/article/75713</link>
+            <guid>https://www.elle.co.kr/article/75713</guid>
+            <pubDate>Thu, 16 Mar 2023 05:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[바야흐로 마스크-프리 시대, 숨 쉴 듯 가볍고 편안한 이번 시즌 베이스 메이크업 트렌드를 제대...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/f6ad1c76-027f-45cf-891b-c92395fb510d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 소이현, 인교진이 추천하는 로맨틱한 향수 선물 8]]></title>
             <link>https://www.elle.co.kr/article/75746</link>
@@ -60,14 +68,6 @@
             <pubDate>Sun, 12 Mar 2023 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[한국의 웬즈데이 모음.zip]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/94d7b82e-5724-4884-be2e-474d7cc19e3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성큼 다가온 봄, 향기도 꽃내음으로 갈아입을 때! 플로럴 향 제품 모음.zip_선배’s 어드바이스 #159]]></title>
-            <link>https://www.elle.co.kr/article/75580</link>
-            <guid>https://www.elle.co.kr/article/75580</guid>
-            <pubDate>Fri, 10 Mar 2023 17:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[그야말로 꽃, 과일, 풀 냄새로 가득한 봄의 정원에 서있는 듯한 향들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/ca6bb1bc-311c-45f9-b228-7d6782b5a978.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
