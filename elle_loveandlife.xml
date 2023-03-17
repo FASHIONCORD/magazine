@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 17:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 05:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[츄러스부터 브라우니까지! 화이트데이를 더욱 달콤하게 만들어줄 디저트 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/75792</link>
+            <guid>https://www.elle.co.kr/article/75792</guid>
+            <pubDate>Fri, 17 Mar 2023 05:41:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/26aec5c0-c509-41c3-bca4-5386facf0fd4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천안문을 향해 가운뎃손가락을 들어 보인 그가 돌아왔다! 이른 봄과 함께 찾아온 이달의 전시 3]]></title>
             <link>https://www.elle.co.kr/article/75771</link>
@@ -61,13 +68,6 @@
             <pubDate>Mon, 13 Mar 2023 05:40:54 GMT</pubDate>
             <content:encoded><![CDATA[유니크한 비주얼의 디저트 카페부터 핫한 브런치 카페까지! 천예슬이 방문한 카페를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/3038ed34-5920-4045-b5f3-b1843571039d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타이핑할 필요 없다! 문서 사진 찍으면 알아서 답변하는, 눈 달린 챗GPT  'AskUp' 정보]]></title>
-            <link>https://www.elle.co.kr/article/75693</link>
-            <guid>https://www.elle.co.kr/article/75693</guid>
-            <pubDate>Sun, 12 Mar 2023 05:41:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/5b728149-4bf4-4a9e-bafb-0b0907fa4585.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
