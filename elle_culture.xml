@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 05:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 17:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하도영이 전재준 어깨에 기대?! 파트2가 훨씬 매운 '더 글로리' 촬영 비하인드 (ft. 세계 1위)]]></title>
+            <link>https://www.elle.co.kr/article/75835</link>
+            <guid>https://www.elle.co.kr/article/75835</guid>
+            <pubDate>Fri, 17 Mar 2023 17:40:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/5ca20bb3-7706-4292-9bee-2cf91de0d888.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김다은이 자유롭고 대범하게 지은 사물들 #더메이커스]]></title>
             <link>https://www.elle.co.kr/article/75651</link>
@@ -60,13 +67,6 @@
             <pubDate>Tue, 14 Mar 2023 17:48:37 GMT</pubDate>
             <content:encoded><![CDATA[2023 메종 오브제에서 발견한 이번 시즌의 주요 디자인 키워드를 모았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/ba7d04d0-f752-4d69-b06b-dbcb3a27f674.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6년 만에 열린 WBC, 야구 팬 잡는 유통업계 이벤트 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/75745</link>
-            <guid>https://www.elle.co.kr/article/75745</guid>
-            <pubDate>Mon, 13 Mar 2023 17:41:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/6c49a4d4-f656-46cf-9a38-817cd67121ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 05:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 17:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 큰 거 온다...! 송혜교X한소희부터 김혜수X염정아까지, 2023 여성 투톱물 3]]></title>
+            <link>https://www.elle.co.kr/article/75903</link>
+            <guid>https://www.elle.co.kr/article/75903</guid>
+            <pubDate>Fri, 17 Mar 2023 17:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[송혜교와 '울산 송혜교'의 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/3f1f9c4a-b951-4561-816f-7ef34c6129c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4년 논란 끝에 개봉하는 '인어공주' 실사 영화, 호불호 격하게 갈리는 까닭]]></title>
             <link>https://www.elle.co.kr/article/75876</link>
@@ -34,7 +42,6 @@
             <link>https://www.elle.co.kr/article/75835</link>
             <guid>https://www.elle.co.kr/article/75835</guid>
             <pubDate>Wed, 15 Mar 2023 05:41:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/5ca20bb3-7706-4292-9bee-2cf91de0d888.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[용두용미+권선징악 그 자체! 손에 땀을 쥐게 한, '더 글로리' 파트2 명장면 모음 #요즘드라마]]></title>
@@ -85,12 +92,6 @@
             <link>https://www.elle.co.kr/article/75596</link>
             <guid>https://www.elle.co.kr/article/75596</guid>
             <pubDate>Tue, 07 Mar 2023 05:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[꽉 닫힌 결말! 전도연X정경호 쌍방 프러포즈로 마무리한 '일타스캔들' 명장면 2 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/75586</link>
-            <guid>https://www.elle.co.kr/article/75586</guid>
-            <pubDate>Mon, 06 Mar 2023 17:42:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

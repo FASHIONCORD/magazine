@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 05:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 17:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화이트데이 선물 아직 못 골랐다면? 3월 2주차 뷰티 신상 #갓구운신상]]></title>
+            <link>https://www.elle.co.kr/article/75774</link>
+            <guid>https://www.elle.co.kr/article/75774</guid>
+            <pubDate>Fri, 17 Mar 2023 17:39:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/cb32d03e-f535-47c0-a37a-c428802c1bcd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지나치게 건조해 부스스한 머리 VS 반나절이면 기름 끼는 두피! 봄철 헤어 케어 팁 6_선배’s 어드바이스 #160]]></title>
             <link>https://www.elle.co.kr/article/75768</link>
@@ -61,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/75690</guid>
             <pubDate>Mon, 13 Mar 2023 05:39:57 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/12dd8e16-4146-4641-9d66-6fc949e3d5d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 브로 메이크업]]></title>
-            <link>https://www.elle.co.kr/article/75616</link>
-            <guid>https://www.elle.co.kr/article/75616</guid>
-            <pubDate>Mon, 13 Mar 2023 05:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[양극단을 달리는 이번 시즌 브로 메이크업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/853e8430-a6a9-4e2f-8e06-e0d8f34b7234.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
