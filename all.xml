@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 05:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 17:41:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1816,6 +1816,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTA0MTdfODgg/MDAxNTU1NDgyNDAyMTE4.ZIkiwlQNMKzp9I5I8oogCSX3vC2mF3mdx-_83d_BsoAg.lBGLsUsO6NWArNkpNYZ6Upyzbbtn4Eb6JSIOMYDUY_Ag.JPEG/IzJkVVKFkYZv3pwUyx9vBC0otJoo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안경 쓴 여자 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/75891</link>
+            <guid>https://www.elle.co.kr/article/75891</guid>
+            <pubDate>Sat, 18 Mar 2023 17:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[잘 보이기보다 잘 보기를 택한 여성의 액세서리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/72eb88d3-0210-41f2-bbcb-31574e108437.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전 세계 테니스 팬들이 멜버른 파크에 모였다? (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/75802</link>
             <guid>https://www.elle.co.kr/article/75802</guid>
@@ -1870,14 +1878,6 @@
             <pubDate>Wed, 15 Mar 2023 17:40:58 GMT</pubDate>
             <content:encoded><![CDATA[레드 카펫은 옛말.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/7686323b-14fa-411e-8e3c-95767dcce396.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄과 함께 찾아온 플라워 초커 트렌드 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/75788</link>
-            <guid>https://www.elle.co.kr/article/75788</guid>
-            <pubDate>Wed, 15 Mar 2023 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[트렌디한 외국 패션 인플루언서들 사이에서 유행처럼 번지고 있는 초커 스타일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/984e9d52-9487-4326-ab6f-cad904c1f2bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화이트데이 선물 아직 못 골랐다면? 3월 2주차 뷰티 신상 #갓구운신상 (엘르 코리아 ─ 뷰티)]]></title>
