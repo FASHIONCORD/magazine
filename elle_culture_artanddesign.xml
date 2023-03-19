@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 05:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 17:41:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주에서 나만의 안전 공간 찾기 #아웃오브서울]]></title>
+            <link>https://www.elle.co.kr/article/75653</link>
+            <guid>https://www.elle.co.kr/article/75653</guid>
+            <pubDate>Sun, 19 Mar 2023 17:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[서울 밖. 제주도의 삶을 시작한 콘텐츠 에디터 정수미의 집 연대기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/6dbf1be8-b9d7-43d3-ab8d-84cf25a4d952.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차 한 잔 할까]]></title>
             <link>https://www.elle.co.kr/article/75652</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/75771</guid>
             <pubDate>Mon, 13 Mar 2023 17:41:41 GMT</pubDate>
             <content:encoded><![CDATA[국보와 보물을 총망라한 만큼 놓쳐서는 안 될 역대급 전시는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/075f8671-9cfe-444c-95a7-907ecdff9c5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희적 형태부터 자연의 색까지! 올해 메종 오브제를 휩쓴 디자인 키워드 9]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/75304</guid>
             <pubDate>Thu, 23 Feb 2023 17:42:07 GMT</pubDate>
             <content:encoded><![CDATA[폐암 3기 판정을 받고 올린 박서보 화백의 심경. "전화하지 마시라, 그럼에도 말을 전하고 싶다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아티스틱 스페이스]]></title>
-            <link>https://www.elle.co.kr/article/73000</link>
-            <guid>https://www.elle.co.kr/article/73000</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[엘르 데코가 주목한 예술적인 공간 4.]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 05:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 17:41:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손흥민과 전지현이 함께? 2023 FW 런던 패션위크 #ELLE쇼타임]]></title>
+            <link>https://www.elle.co.kr/article/75893</link>
+            <guid>https://www.elle.co.kr/article/75893</guid>
+            <pubDate>Sun, 19 Mar 2023 17:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르&gt;팀이 현장에서 직접 보고 느낀 2023 FW 런던 패션위크 취재 일지! #ELLEshowtime]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/aabfb70a-7bfa-4b21-9fee-b99eea7c1d56.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[안경 쓴 여자]]></title>
             <link>https://www.elle.co.kr/article/75891</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 16 Mar 2023 17:39:40 GMT</pubDate>
             <content:encoded><![CDATA[긍정과 사랑의 기운이 느껴지는 핑크 컬러로 봄을 시작해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/d34b1dad-6bcf-4ca7-a798-d7739900dc00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제95회 오스카 시상식에서 62년 만에 바뀐 것]]></title>
-            <link>https://www.elle.co.kr/article/75808</link>
-            <guid>https://www.elle.co.kr/article/75808</guid>
-            <pubDate>Thu, 16 Mar 2023 05:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[레드 카펫은 옛말.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/7686323b-14fa-411e-8e3c-95767dcce396.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

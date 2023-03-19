@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 05:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 17:41:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유민상만 남은 8년차 먹방 예 '맛녀석', '뚱4' 하차 후 합류하는 새 멤버.list]]></title>
+            <link>https://www.elle.co.kr/article/75842</link>
+            <guid>https://www.elle.co.kr/article/75842</guid>
+            <pubDate>Sun, 19 Mar 2023 17:40:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/cf1bb1b0-5e7b-459e-b821-f974a3d2c168.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하도영이 전재준 어깨에 기대?! 파트2가 훨씬 매운 '더 글로리' 촬영 비하인드 (ft. 세계 1위)]]></title>
             <link>https://www.elle.co.kr/article/75835</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/75749</guid>
             <pubDate>Tue, 14 Mar 2023 17:48:37 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/5e5824c0-e42f-4180-87be-4c90ce4923d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유희적 형태부터 자연의 색까지! 올해 메종 오브제를 휩쓴 디자인 키워드 9]]></title>
-            <link>https://www.elle.co.kr/article/75650</link>
-            <guid>https://www.elle.co.kr/article/75650</guid>
-            <pubDate>Tue, 14 Mar 2023 17:48:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023 메종 오브제에서 발견한 이번 시즌의 주요 디자인 키워드를 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/ba7d04d0-f752-4d69-b06b-dbcb3a27f674.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
