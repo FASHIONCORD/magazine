@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 05:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 17:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 신상 블러셔]]></title>
+            <link>https://www.elle.co.kr/article/75797</link>
+            <guid>https://www.elle.co.kr/article/75797</guid>
+            <pubDate>Mon, 20 Mar 2023 17:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[봄기운을 가득 머금은 신상 블러셔 리스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/76d2be54-8c59-4903-b0ee-663a740f1c18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화이트데이 선물 아직 못 골랐다면? 3월 2주차 뷰티 신상 #갓구운신상]]></title>
             <link>https://www.elle.co.kr/article/75774</link>
@@ -61,13 +69,6 @@
             <pubDate>Mon, 13 Mar 2023 17:40:33 GMT</pubDate>
             <content:encoded><![CDATA[휘트니 픽이 샤넬 코코 마드모아젤 향수의 뮤즈로 활동한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/28a79192-2726-41b3-b29b-31e98aa84282.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고작 7주 만에 -17kg? 급 슬림해진 강재준의 건강한 체중 감량 노하우 총정리 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/75690</link>
-            <guid>https://www.elle.co.kr/article/75690</guid>
-            <pubDate>Mon, 13 Mar 2023 05:39:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/12dd8e16-4146-4641-9d66-6fc949e3d5d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

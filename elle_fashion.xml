@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 05:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 17:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웬즈데이처럼 입기]]></title>
+            <link>https://www.elle.co.kr/article/75819</link>
+            <guid>https://www.elle.co.kr/article/75819</guid>
+            <pubDate>Mon, 20 Mar 2023 17:39:58 GMT</pubDate>
+            <content:encoded><![CDATA['13일의 금요일'에 태어난 소녀처럼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/19/3efbe797-32c2-4a3d-a4c1-2248414ed5f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과감해서 더 쿨하다! 골반 보이는 패션 6]]></title>
+            <link>https://www.elle.co.kr/article/75918</link>
+            <guid>https://www.elle.co.kr/article/75918</guid>
+            <pubDate>Mon, 20 Mar 2023 17:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[벨라 하디드부터 김보라까지, 스타들의 로라이즈 패션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/1435568f-3883-49ab-bb07-fd103a600127.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[런웨이 위 남자들의 치맛바람]]></title>
             <link>https://www.elle.co.kr/article/75814</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 17 Mar 2023 17:39:43 GMT</pubDate>
             <content:encoded><![CDATA[배우 박은빈, NCT 쟈니가 찾은 뉴욕.  &lt;엘르&gt;팀이 현장에서 직접 보고 느낀 2023 FW 뉴욕 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/a3124d06-f5cc-454d-aebd-3c0b7d2d217a.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 데일리 룩으로 딱! <성스러운 아이돌> 고보결 VS <모범택시2> 표예진 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/75868</link>
-            <guid>https://www.elle.co.kr/article/75868</guid>
-            <pubDate>Fri, 17 Mar 2023 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 속 신스틸러로 활약 중인 &lt;성스러운 아이돌&gt;의 고보결과 &lt;모범택시2&gt;의 표예진! 봄맞이 O...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/e6b03c42-1cd1-4dd4-9a47-62dc040012d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인형 대세? 여름까지 이어질, 지금 가장 트렌디한 키링 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/75848</link>
-            <guid>https://www.elle.co.kr/article/75848</guid>
-            <pubDate>Fri, 17 Mar 2023 05:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[이번 시즌 유독 눈에 띄는 패션 브랜드들의 인형 예찬. 어떤 것을 고를까 고민이라면 다음 보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/a10c203e-5d2c-4552-b4aa-d591016de8f9.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

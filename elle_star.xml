@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 05:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 17:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더글로리 현남, 행복한 휴가를 떠나다!]]></title>
+            <link>https://www.elle.co.kr/article/75900</link>
+            <guid>https://www.elle.co.kr/article/75900</guid>
+            <pubDate>Mon, 20 Mar 2023 17:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[배우 염혜란, 엘르와의 조우.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/6eec323a-1af0-4597-81bc-1e889498ece9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김나영이 픽한 아우터는? 모터사이클 재킷을 걸친 셀러브리티 5]]></title>
+            <link>https://www.elle.co.kr/article/75927</link>
+            <guid>https://www.elle.co.kr/article/75927</guid>
+            <pubDate>Mon, 20 Mar 2023 17:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[모터사이클 재킷으로 쿨하고 터프한 감성이 느껴지는 데일리 룩에 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/5ea2432f-d4a4-4c44-9af9-6eb56f982c48.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[익숙한 듯 새로운 얼굴의 할리우드 2세 셀러브리티]]></title>
+            <link>https://www.elle.co.kr/article/75925</link>
+            <guid>https://www.elle.co.kr/article/75925</guid>
+            <pubDate>Mon, 20 Mar 2023 17:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[어디서 많이 본 것 같은데 알고 보니 할리우드 2세, 이들의 활약상은 지금부터!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/19/ddf6ff67-4ebf-45c3-8c4c-43b9c38c180f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 글로리' 신예은이 유일하게 구자철 인스타그램만 팔로우한 이유]]></title>
             <link>https://www.elle.co.kr/article/75919</link>
@@ -42,30 +66,6 @@
             <guid>https://www.elle.co.kr/article/75907</guid>
             <pubDate>Sun, 19 Mar 2023 05:40:10 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/bf06c961-165c-404c-a935-e3cfdcd667fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 큰 거 온다...! 송혜교X한소희부터 김혜수X염정아까지, 2023 여성 투톱물 3]]></title>
-            <link>https://www.elle.co.kr/article/75903</link>
-            <guid>https://www.elle.co.kr/article/75903</guid>
-            <pubDate>Sat, 18 Mar 2023 05:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[송혜교와 '울산 송혜교'의 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/3f1f9c4a-b951-4561-816f-7ef34c6129c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS RM, 뉴진스 하니, 박재범, 송혜교... 초호화 캐스팅! 2023 FW 밀란 패션위크 #ELLE쇼타임]]></title>
-            <link>https://www.elle.co.kr/article/75894</link>
-            <guid>https://www.elle.co.kr/article/75894</guid>
-            <pubDate>Sat, 18 Mar 2023 05:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르&gt;팀이 현장에서 직접 보고 느낀 2023 FW 밀란 패션위크 취재 일지! #ELLEshowtime]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/cf02b6b5-a2d6-424a-9ffb-6d9ba7335760.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민과 전지현이 함께? 2023 FW 런던 패션위크 #ELLE쇼타임]]></title>
-            <link>https://www.elle.co.kr/article/75893</link>
-            <guid>https://www.elle.co.kr/article/75893</guid>
-            <pubDate>Fri, 17 Mar 2023 17:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르&gt;팀이 현장에서 직접 보고 느낀 2023 FW 런던 패션위크 취재 일지! #ELLEshowtime]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/aabfb70a-7bfa-4b21-9fee-b99eea7c1d56.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
