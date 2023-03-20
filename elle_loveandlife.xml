@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 17:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 05:41:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제는 워케이션이 대세! 달라진 라이프 스타일 반영한 신개념 주거공간 비주얼.jpg]]></title>
+            <link>https://www.elle.co.kr/article/75837</link>
+            <guid>https://www.elle.co.kr/article/75837</guid>
+            <pubDate>Mon, 20 Mar 2023 05:41:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/64b7bb37-eaea-4524-b28a-b9733defeaa5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[딸기 오마카세도 있다고? 비주얼부터 시강 그 자체인 전국 딸기 디저트 카페 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/75806</link>
@@ -59,13 +66,6 @@
             <pubDate>Tue, 14 Mar 2023 17:49:24 GMT</pubDate>
             <content:encoded><![CDATA[마땅한 존중과 애도가 뿌리 내리길 바라며! 지금 이태원에 사는 사람들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/ae36b3bd-950d-456f-9afd-3f4c7df7cc33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 개화 시즌! 3월 꽃놀이하기 좋은 전국 봄꽃 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/75712</link>
-            <guid>https://www.elle.co.kr/article/75712</guid>
-            <pubDate>Tue, 14 Mar 2023 17:49:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/de34fba0-ef05-4ac9-a3bd-e83cc09553ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
