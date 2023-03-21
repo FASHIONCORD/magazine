@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 05:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 17:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수십억을 호가하는 뱅크시의 벽화, 허무한 실수로 사라진 사연은?]]></title>
+            <link>https://www.elle.co.kr/article/75904</link>
+            <guid>https://www.elle.co.kr/article/75904</guid>
+            <pubDate>Tue, 21 Mar 2023 17:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[‘아침을 깨우다(Morning is Broken)’라는 작품명처럼 말 그대로 깨져버린 아침.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/2c309a6e-0380-43b7-ab4b-5d8b4a520c42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[30살이라면 지금 당장 시작해야 할 것들_돈쓸신잡 #89]]></title>
             <link>https://www.elle.co.kr/article/75869</link>
@@ -59,14 +67,6 @@
             <pubDate>Thu, 16 Mar 2023 05:41:29 GMT</pubDate>
             <content:encoded><![CDATA[이태원을 계속 지켜온 주민들에게 보내는 응원과 다정한 메시지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/8393ac02-41ca-4b6b-a0c7-dd66e04f239a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원은 지금] 이태원의 만남의 장을 연 권혁인, 최장민]]></title>
-            <link>https://www.elle.co.kr/article/75669</link>
-            <guid>https://www.elle.co.kr/article/75669</guid>
-            <pubDate>Thu, 16 Mar 2023 05:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[초등학교 동창인 두 사람은 2013년부터 디지털 매거진 &lt;비즐라&gt;를 만들어 언더그라운드 아티스트와...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/8d23c3de-1ec9-448b-b0a2-7b65351f61f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

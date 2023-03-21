@@ -4,16 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 05:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 17:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국이 극찬한 '불그리' 레시피 공개! 지민과 뷔도 관심 보였다는데?]]></title>
+            <link>https://www.elle.co.kr/article/75889</link>
+            <guid>https://www.elle.co.kr/article/75889</guid>
+            <pubDate>Tue, 21 Mar 2023 17:42:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/8c713344-b88f-4a28-9368-5c118ff79d15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차 한 잔 할까]]></title>
             <link>https://www.elle.co.kr/article/75652</link>
             <guid>https://www.elle.co.kr/article/75652</guid>
             <pubDate>Tue, 21 Mar 2023 05:41:07 GMT</pubDate>
             <content:encoded><![CDATA[차가 우러나길 기다린다. 티룸에서 찾은 고요한 마음과 정취.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/14dbb413-343e-4b19-8252-eec31ec82d56.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/14dbb413-343e-4b19-8252-eec31ec82d56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제는 워케이션이 대세! 달라진 라이프 스타일 반영한 신개념 주거공간 비주얼.jpg]]></title>
@@ -58,14 +65,6 @@
             <pubDate>Wed, 15 Mar 2023 05:41:26 GMT</pubDate>
             <content:encoded><![CDATA[이태원을 계속 지켜온 주민들에게 보내는 응원과 다정한 메시지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/8393ac02-41ca-4b6b-a0c7-dd66e04f239a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원은 지금] 이태원의 만남의 장을 연 권혁인, 최장민]]></title>
-            <link>https://www.elle.co.kr/article/75669</link>
-            <guid>https://www.elle.co.kr/article/75669</guid>
-            <pubDate>Tue, 14 Mar 2023 17:49:24 GMT</pubDate>
-            <content:encoded><![CDATA[초등학교 동창인 두 사람은 2013년부터 디지털 매거진 &lt;비즐라&gt;를 만들어 언더그라운드 아티스트와...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/8d23c3de-1ec9-448b-b0a2-7b65351f61f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

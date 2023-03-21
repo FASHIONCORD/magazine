@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 05:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 17:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤일리 VS 리한나 스트리트 스타일]]></title>
+            <link>https://www.elle.co.kr/article/75952</link>
+            <guid>https://www.elle.co.kr/article/75952</guid>
+            <pubDate>Tue, 21 Mar 2023 17:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[폴로 셔츠를 대하는 2가지 방식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/ac6ce68e-e22d-4742-b5de-565407e1b83d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흥미진진! K스타들의 대활약. 2023 FW 파리 패션위크 #ELLE쇼타임]]></title>
+            <link>https://www.elle.co.kr/article/75942</link>
+            <guid>https://www.elle.co.kr/article/75942</guid>
+            <pubDate>Tue, 21 Mar 2023 17:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[제니, 지수, 로제, 뉴진스 혜인, 민니, NCT태용, 이유미, 박서준, 정호연, 엔믹스, 문가영, 선...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/365e7ef3-06b9-43e3-94e9-62252cae6023.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[김나영이 픽한 아우터는? 모터사이클 재킷을 걸친 셀러브리티 5]]></title>
             <link>https://www.elle.co.kr/article/75927</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 20 Mar 2023 05:39:36 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엘르&gt;팀이 현장에서 직접 보고 느낀 2023 FW 밀란 패션위크 취재 일지! #ELLEshowtime]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/cf02b6b5-a2d6-424a-9ffb-6d9ba7335760.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민과 전지현이 함께? 2023 FW 런던 패션위크 #ELLE쇼타임]]></title>
-            <link>https://www.elle.co.kr/article/75893</link>
-            <guid>https://www.elle.co.kr/article/75893</guid>
-            <pubDate>Sun, 19 Mar 2023 17:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르&gt;팀이 현장에서 직접 보고 느낀 2023 FW 런던 패션위크 취재 일지! #ELLEshowtime]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/aabfb70a-7bfa-4b21-9fee-b99eea7c1d56.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[안경 쓴 여자]]></title>
-            <link>https://www.elle.co.kr/article/75891</link>
-            <guid>https://www.elle.co.kr/article/75891</guid>
-            <pubDate>Sat, 18 Mar 2023 17:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[잘 보이기보다 잘 보기를 택한 여성의 액세서리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/72eb88d3-0210-41f2-bbcb-31574e108437.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

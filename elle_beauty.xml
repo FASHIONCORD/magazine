@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 05:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 17:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['더 글로리' 전재준으로 인생캐 완성! 박성훈의 최애 운동은 바로 이것? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/75880</link>
+            <guid>https://www.elle.co.kr/article/75880</guid>
+            <pubDate>Tue, 21 Mar 2023 17:41:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/f5e85193-801d-4d91-a4f2-01e8b95926a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한혜진의 ‘급찐급빠’ 식단 대공개]]></title>
+            <link>https://www.elle.co.kr/article/75860</link>
+            <guid>https://www.elle.co.kr/article/75860</guid>
+            <pubDate>Tue, 21 Mar 2023 17:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[모델 한혜진이 공개한 다이어트 식단으로 건강한 라이프를 시작해보세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/b928c422-b3a3-4d26-9d8e-4e73df0ba503.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 신상 블러셔]]></title>
             <link>https://www.elle.co.kr/article/75797</link>
@@ -53,22 +68,6 @@
             <pubDate>Wed, 15 Mar 2023 17:40:47 GMT</pubDate>
             <content:encoded><![CDATA[화이트데이 선물을 계획 중이라면 주목! 인소 부부가 추천하는 향수 리스트를 눈여겨보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9dadd0e6-f6cd-4a0f-baf7-48e907f09c72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 백스테이지 메이크업의 모든 것]]></title>
-            <link>https://www.elle.co.kr/article/75743</link>
-            <guid>https://www.elle.co.kr/article/75743</guid>
-            <pubDate>Mon, 13 Mar 2023 17:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 2023/24 가을-겨울 레디-투-웨어 쇼 백스테이지 메이크업 하우투.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/8ee90104-966b-4795-af9a-6ed4a96eaa4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가브리넬 샤넬과 닮은 그녀]]></title>
-            <link>https://www.elle.co.kr/article/75706</link>
-            <guid>https://www.elle.co.kr/article/75706</guid>
-            <pubDate>Mon, 13 Mar 2023 17:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[휘트니 픽이 샤넬 코코 마드모아젤 향수의 뮤즈로 활동한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/28a79192-2726-41b3-b29b-31e98aa84282.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
