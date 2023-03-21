@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 17:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 큰 거 온다...! 송혜교X한소희부터 김혜수X염정아까지, 2023 여성 투톱물 3]]></title>
+            <link>https://www.elle.co.kr/article/75903</link>
+            <guid>https://www.elle.co.kr/article/75903</guid>
+            <pubDate>Tue, 21 Mar 2023 05:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[송혜교와 '울산 송혜교'의 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/3f1f9c4a-b951-4561-816f-7ef34c6129c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차 한 잔 할까]]></title>
+            <link>https://www.elle.co.kr/article/75652</link>
+            <guid>https://www.elle.co.kr/article/75652</guid>
+            <pubDate>Tue, 21 Mar 2023 05:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[차가 우러나길 기다린다. 티룸에서 찾은 고요한 마음과 정취.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/14dbb413-343e-4b19-8252-eec31ec82d56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4년 논란 끝에 개봉하는 '인어공주' 실사 영화, 호불호 격하게 갈리는 까닭]]></title>
             <link>https://www.elle.co.kr/article/75876</link>
@@ -51,21 +67,6 @@
             <pubDate>Thu, 16 Mar 2023 17:40:22 GMT</pubDate>
             <content:encoded><![CDATA[‘건축계 노벨상’의 영예를 안은 주인공.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/f5bad31a-82ca-4f62-8190-b163f21cb4ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용두용미+권선징악 그 자체! 손에 땀을 쥐게 한, '더 글로리' 파트2 명장면 모음 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/75772</link>
-            <guid>https://www.elle.co.kr/article/75772</guid>
-            <pubDate>Thu, 16 Mar 2023 05:40:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/124e3810-7d9a-4c1c-ad12-a5155ed85d7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천안문을 향해 가운뎃손가락을 들어 보인 그가 돌아왔다! 이른 봄과 함께 찾아온 이달의 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/75771</link>
-            <guid>https://www.elle.co.kr/article/75771</guid>
-            <pubDate>Wed, 15 Mar 2023 17:41:08 GMT</pubDate>
-            <content:encoded><![CDATA[국보와 보물을 총망라한 만큼 놓쳐서는 안 될 역대급 전시는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/075f8671-9cfe-444c-95a7-907ecdff9c5c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

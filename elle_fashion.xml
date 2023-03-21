@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 17:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영이 픽한 아우터는? 모터사이클 재킷을 걸친 셀러브리티 5]]></title>
+            <link>https://www.elle.co.kr/article/75927</link>
+            <guid>https://www.elle.co.kr/article/75927</guid>
+            <pubDate>Tue, 21 Mar 2023 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[모터사이클 재킷으로 쿨하고 터프한 감성이 느껴지는 데일리 룩에 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/5ea2432f-d4a4-4c44-9af9-6eb56f982c48.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 F/W 멘즈 패션 위크가 궁금해?]]></title>
+            <link>https://www.elle.co.kr/article/75879</link>
+            <guid>https://www.elle.co.kr/article/75879</guid>
+            <pubDate>Tue, 21 Mar 2023 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[이토록 떠들썩한 멘즈 패션 위크가 있었던가.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/f8e20b0b-d50c-4a85-a494-1a0e1d97a12b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웬즈데이처럼 입기]]></title>
             <link>https://www.elle.co.kr/article/75819</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 18 Mar 2023 17:40:01 GMT</pubDate>
             <content:encoded><![CDATA[잘 보이기보다 잘 보기를 택한 여성의 액세서리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/72eb88d3-0210-41f2-bbcb-31574e108437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계 테니스 팬들이 멜버른 파크에 모였다?]]></title>
-            <link>https://www.elle.co.kr/article/75802</link>
-            <guid>https://www.elle.co.kr/article/75802</guid>
-            <pubDate>Sat, 18 Mar 2023 05:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[1905년부터 시작한 대회로 호주 오픈, 프랑스 오픈, 윔블던, US 오픈 등 테니스 그랜드 슬램의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/c1f52afd-d7e2-4261-92a1-ddf1ca76ba40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEWYORK! 2023 FW 뉴욕 패션위크 #ELLE쇼타임]]></title>
-            <link>https://www.elle.co.kr/article/75871</link>
-            <guid>https://www.elle.co.kr/article/75871</guid>
-            <pubDate>Fri, 17 Mar 2023 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박은빈, NCT 쟈니가 찾은 뉴욕.  &lt;엘르&gt;팀이 현장에서 직접 보고 느낀 2023 FW 뉴욕 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/a3124d06-f5cc-454d-aebd-3c0b7d2d217a.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 17:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차 한 잔 할까]]></title>
+            <link>https://www.elle.co.kr/article/75652</link>
+            <guid>https://www.elle.co.kr/article/75652</guid>
+            <pubDate>Tue, 21 Mar 2023 05:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[차가 우러나길 기다린다. 티룸에서 찾은 고요한 마음과 정취.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/14dbb413-343e-4b19-8252-eec31ec82d56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제는 워케이션이 대세! 달라진 라이프 스타일 반영한 신개념 주거공간 비주얼.jpg]]></title>
             <link>https://www.elle.co.kr/article/75837</link>
@@ -58,14 +66,6 @@
             <pubDate>Tue, 14 Mar 2023 17:49:24 GMT</pubDate>
             <content:encoded><![CDATA[초등학교 동창인 두 사람은 2013년부터 디지털 매거진 &lt;비즐라&gt;를 만들어 언더그라운드 아티스트와...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/8d23c3de-1ec9-448b-b0a2-7b65351f61f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원은 지금] 이태원으로 출근하는 사람, 한국이 좋아서  온 사람]]></title>
-            <link>https://www.elle.co.kr/article/75702</link>
-            <guid>https://www.elle.co.kr/article/75702</guid>
-            <pubDate>Tue, 14 Mar 2023 17:49:24 GMT</pubDate>
-            <content:encoded><![CDATA[마땅한 존중과 애도가 뿌리 내리길 바라며! 지금 이태원에 사는 사람들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/ae36b3bd-950d-456f-9afd-3f4c7df7cc33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
