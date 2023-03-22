@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 05:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 17:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴고 보스의 수석 크리에이티브 디렉터가 영감을 얻은 도시는?]]></title>
+            <link>https://www.elle.co.kr/article/75973</link>
+            <guid>https://www.elle.co.kr/article/75973</guid>
+            <pubDate>Wed, 22 Mar 2023 17:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[마이애미에서 단독으로 열린 보스 2023 S/S 쇼 리포트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/30b64c22-5627-4e01-84ff-f99aa9beb10f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄 쇼핑 계획 중이라면 주목! 스타들이 고른 봄 아우터 5]]></title>
+            <link>https://www.elle.co.kr/article/75970</link>
+            <guid>https://www.elle.co.kr/article/75970</guid>
+            <pubDate>Wed, 22 Mar 2023 17:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[트위드 재킷부터 데님 점퍼까지, 스타들의 데일리룩을 참고해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/7d37b83e-218a-419d-9ac0-e12eb0119f4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동심의 세계로 이끄는 바비의 핑크 옷장]]></title>
+            <link>https://www.elle.co.kr/article/75881</link>
+            <guid>https://www.elle.co.kr/article/75881</guid>
+            <pubDate>Wed, 22 Mar 2023 17:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[인형의 집으로 오세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/5c0e34ca-9d67-494e-9feb-8b68b0bd2662.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤일리 VS 리한나 스트리트 스타일]]></title>
             <link>https://www.elle.co.kr/article/75952</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 20 Mar 2023 17:39:58 GMT</pubDate>
             <content:encoded><![CDATA['13일의 금요일'에 태어난 소녀처럼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/19/3efbe797-32c2-4a3d-a4c1-2248414ed5f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과감해서 더 쿨하다! 골반 보이는 패션 6]]></title>
-            <link>https://www.elle.co.kr/article/75918</link>
-            <guid>https://www.elle.co.kr/article/75918</guid>
-            <pubDate>Mon, 20 Mar 2023 17:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[벨라 하디드부터 김보라까지, 스타들의 로라이즈 패션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/1435568f-3883-49ab-bb07-fd103a600127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런웨이 위 남자들의 치맛바람]]></title>
-            <link>https://www.elle.co.kr/article/75814</link>
-            <guid>https://www.elle.co.kr/article/75814</guid>
-            <pubDate>Mon, 20 Mar 2023 05:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[태풍처럼 불어왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/cb423bb6-329d-4084-98d8-e3b02c658618.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS RM, 뉴진스 하니, 박재범, 송혜교... 초호화 캐스팅! 2023 FW 밀란 패션위크 #ELLE쇼타임]]></title>
-            <link>https://www.elle.co.kr/article/75894</link>
-            <guid>https://www.elle.co.kr/article/75894</guid>
-            <pubDate>Mon, 20 Mar 2023 05:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르&gt;팀이 현장에서 직접 보고 느낀 2023 FW 밀란 패션위크 취재 일지! #ELLEshowtime]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/cf02b6b5-a2d6-424a-9ffb-6d9ba7335760.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

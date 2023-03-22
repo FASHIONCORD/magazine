@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 05:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 17:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여성의 날을 맞아 '엘르'가 만난 6명의 리더들]]></title>
+            <link>https://www.elle.co.kr/article/75833</link>
+            <guid>https://www.elle.co.kr/article/75833</guid>
+            <pubDate>Wed, 22 Mar 2023 17:41:52 GMT</pubDate>
+            <content:encoded><![CDATA[유연하고 창의적인 사고, 진심 어린 공감, 강력한 동기부여와 긍정적 마음가짐. 서로가 서로를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/d6904fcb-2b6b-4a20-826a-d62007ad1fd5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수십억을 호가하는 뱅크시의 벽화, 허무한 실수로 사라진 사연은?]]></title>
             <link>https://www.elle.co.kr/article/75904</link>
@@ -59,14 +67,6 @@
             <pubDate>Thu, 16 Mar 2023 05:41:29 GMT</pubDate>
             <content:encoded><![CDATA[한 걸음 더, 우리 함께.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/cdd6230d-e228-4d8e-a93b-b7459eb29e0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원은 지금] 이태원에는 특별한 것이 있다! 노우웨이브 김승환과 해방촌 비혼세의 이태원]]></title>
-            <link>https://www.elle.co.kr/article/75664</link>
-            <guid>https://www.elle.co.kr/article/75664</guid>
-            <pubDate>Thu, 16 Mar 2023 05:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[이태원을 계속 지켜온 주민들에게 보내는 응원과 다정한 메시지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/8393ac02-41ca-4b6b-a0c7-dd66e04f239a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

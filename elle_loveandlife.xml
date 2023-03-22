@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 05:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 17:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산뜻한 봄 맞이 봄나물 레서피]]></title>
+            <link>https://www.elle.co.kr/article/75839</link>
+            <guid>https://www.elle.co.kr/article/75839</guid>
+            <pubDate>Wed, 22 Mar 2023 17:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[네 명의 요리 전문가가 제안하는 쉽고 간단한 봄나물 활용법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/e9f62df6-4724-4495-aebd-cfe9974caf1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집 나간 입맛도 돌아오는 봄 제철 음식 총집합! 전국 몸보신 맛집 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/75908</link>
@@ -56,14 +64,6 @@
             <guid>https://www.elle.co.kr/article/75792</guid>
             <pubDate>Fri, 17 Mar 2023 05:41:41 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/26aec5c0-c509-41c3-bca4-5386facf0fd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천안문을 향해 가운뎃손가락을 들어 보인 그가 돌아왔다! 이른 봄과 함께 찾아온 이달의 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/75771</link>
-            <guid>https://www.elle.co.kr/article/75771</guid>
-            <pubDate>Thu, 16 Mar 2023 17:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[국보와 보물을 총망라한 만큼 놓쳐서는 안 될 역대급 전시는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/075f8671-9cfe-444c-95a7-907ecdff9c5c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
