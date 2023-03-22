@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 17:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 05:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 나들이는 뷰티 팝업 스토어로! 탬버린즈 삼청부터 에스티로더까지 #갓구운신상]]></title>
+            <link>https://www.elle.co.kr/article/75901</link>
+            <guid>https://www.elle.co.kr/article/75901</guid>
+            <pubDate>Wed, 22 Mar 2023 05:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3주차 뷰티 신상 뉴스]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/a6c546d2-6720-4bea-b8c5-3322325cd5df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이비가 매일 잊지 않고 챙기는 이것! 가방 속 필수 뷰티템 6]]></title>
+            <link>https://www.elle.co.kr/article/75888</link>
+            <guid>https://www.elle.co.kr/article/75888</guid>
+            <pubDate>Wed, 22 Mar 2023 05:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[구강 관리 제품부터 피부 보습 아이템까지, 그녀의 취향이 듬뿍 담긴 아이템들을 구경해 보세요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/d5fc0d3d-3a57-4df8-ae72-eadb9d69fe8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 글로리' 전재준으로 인생캐 완성! 박성훈의 최애 운동은 바로 이것? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/75880</link>
@@ -52,22 +68,6 @@
             <pubDate>Thu, 16 Mar 2023 17:39:49 GMT</pubDate>
             <content:encoded><![CDATA[라 메르 크림과 시슬리 로션, 클래식 중에 클래식이던 두 제품이 한 단계 업그레이드 됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/a3dcf3d7-3364-401e-8699-0ca6887ce4de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스크-프리 시대의 베이스 메이크업]]></title>
-            <link>https://www.elle.co.kr/article/75713</link>
-            <guid>https://www.elle.co.kr/article/75713</guid>
-            <pubDate>Thu, 16 Mar 2023 05:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[바야흐로 마스크-프리 시대, 숨 쉴 듯 가볍고 편안한 이번 시즌 베이스 메이크업 트렌드를 제대...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/f6ad1c76-027f-45cf-891b-c92395fb510d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 소이현, 인교진이 추천하는 로맨틱한 향수 선물 8]]></title>
-            <link>https://www.elle.co.kr/article/75746</link>
-            <guid>https://www.elle.co.kr/article/75746</guid>
-            <pubDate>Wed, 15 Mar 2023 17:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[화이트데이 선물을 계획 중이라면 주목! 인소 부부가 추천하는 향수 리스트를 눈여겨보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9dadd0e6-f6cd-4a0f-baf7-48e907f09c72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

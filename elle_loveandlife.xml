@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 17:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 05:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집 나간 입맛도 돌아오는 봄 제철 음식 총집합! 전국 몸보신 맛집 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/75908</link>
+            <guid>https://www.elle.co.kr/article/75908</guid>
+            <pubDate>Wed, 22 Mar 2023 05:41:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/1457c77c-7c4e-4182-8ba5-84dab0525454.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 정국이 극찬한 '불그리' 레시피 공개! 지민과 뷔도 관심 보였다는데?]]></title>
             <link>https://www.elle.co.kr/article/75889</link>
@@ -57,14 +64,6 @@
             <pubDate>Thu, 16 Mar 2023 17:42:02 GMT</pubDate>
             <content:encoded><![CDATA[국보와 보물을 총망라한 만큼 놓쳐서는 안 될 역대급 전시는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/075f8671-9cfe-444c-95a7-907ecdff9c5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원은 지금] 이태원에는 특별한 것이 있다! 노우웨이브 김승환과 해방촌 비혼세의 이태원]]></title>
-            <link>https://www.elle.co.kr/article/75664</link>
-            <guid>https://www.elle.co.kr/article/75664</guid>
-            <pubDate>Wed, 15 Mar 2023 05:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[이태원을 계속 지켜온 주민들에게 보내는 응원과 다정한 메시지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/8393ac02-41ca-4b6b-a0c7-dd66e04f239a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

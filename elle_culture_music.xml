@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 17:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 05:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국의 효녀효자들 긴장해... 조용필 5년 만의 잠실 주경기장 콘서트, 시작은 언제?]]></title>
+            <link>https://www.elle.co.kr/article/76026</link>
+            <guid>https://www.elle.co.kr/article/76026</guid>
+            <pubDate>Wed, 22 Mar 2023 05:41:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/56510d10-e583-4419-bad5-44264f5cb0a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유]]></title>
             <link>https://www.elle.co.kr/article/75387</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/74830</link>
             <guid>https://www.elle.co.kr/article/74830</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/1e4f8f06-0f27-4a02-b62c-987c6c795dac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최초, 최초, 최초! 블랙핑크의 코첼라 헤드라이너 출연이 생각보다 더 대단한 까닭]]></title>
@@ -88,13 +94,6 @@
             <guid>https://www.elle.co.kr/article/73461</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
             <content:encoded><![CDATA[싱어송라이터 소수빈이 더블 미니 싱글 〈Need to talk〉로 반복된 일상에서 벗어나자고 손을 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 픽스, 네 명의 여성이 락으로 뭉쳤을 때 #2주의뮤지션]]></title>
-            <link>https://www.elle.co.kr/article/73042</link>
-            <guid>https://www.elle.co.kr/article/73042</guid>
-            <pubDate>Thu, 08 Dec 2022 17:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 싱글 'RUSH'로 알리는 무한한 질주]]></content:encoded>
         </item>
     </channel>
 </rss>
