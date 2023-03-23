@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 17:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9년을 기다린 애플페이, 이제 진짜로 된다! 쓸 수 있는 기종과 매장은?]]></title>
+            <link>https://www.elle.co.kr/article/75941</link>
+            <guid>https://www.elle.co.kr/article/75941</guid>
+            <pubDate>Thu, 23 Mar 2023 17:42:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/385f2c14-2def-4a63-8273-a4aadc0fcdae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산뜻한 봄 맞이 봄나물 레서피]]></title>
             <link>https://www.elle.co.kr/article/75839</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/75794</guid>
             <pubDate>Fri, 17 Mar 2023 17:41:19 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/9c2525a6-f7d5-4e35-b872-f0f376ee91b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[츄러스부터 브라우니까지! 화이트데이를 더욱 달콤하게 만들어줄 디저트 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/75792</link>
-            <guid>https://www.elle.co.kr/article/75792</guid>
-            <pubDate>Fri, 17 Mar 2023 05:41:41 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/26aec5c0-c509-41c3-bca4-5386facf0fd4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

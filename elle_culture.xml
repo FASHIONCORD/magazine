@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 17:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[故 강수연 1주기 추모전 '영화롭게 오랫동안', 이때 열린다고? (정보 모음)]]></title>
+            <link>https://www.elle.co.kr/article/75987</link>
+            <guid>https://www.elle.co.kr/article/75987</guid>
+            <pubDate>Thu, 23 Mar 2023 17:42:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/d4bc00cf-ac13-4d68-ac0f-4a2075ed702a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벌써 네 번째 부부되는 장나라X장혁, 이번엔 가족 코미디? (ft. 시트콤 장인 이순재)]]></title>
             <link>https://www.elle.co.kr/article/75986</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/75876</guid>
             <pubDate>Mon, 20 Mar 2023 17:40:25 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/b5a2cb67-f5a2-40d3-ae5c-ee4a2c020a86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 정성일 꺾은 송혜교 바둑 실력 뒤에 윤세아 어머니가 있었다?!]]></title>
-            <link>https://www.elle.co.kr/article/75861</link>
-            <guid>https://www.elle.co.kr/article/75861</guid>
-            <pubDate>Mon, 20 Mar 2023 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[초대 여성 국수, 김상순 기사.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/f7c7b265-86af-48f5-b71c-b54948b7a1f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

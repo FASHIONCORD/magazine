@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 17:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 강아지가 버버리의 얼굴이 된 이유]]></title>
+            <link>https://www.elle.co.kr/article/76040</link>
+            <guid>https://www.elle.co.kr/article/76040</guid>
+            <pubDate>Thu, 23 Mar 2023 17:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023 봄 여름 시즌, 패션하우스의 얼굴이 된 이색 캠페인 모델.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e5721465-bf11-4e6f-88ad-c016528d3ee8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샘 스미스의 패션 일탈]]></title>
+            <link>https://www.elle.co.kr/article/75978</link>
+            <guid>https://www.elle.co.kr/article/75978</guid>
+            <pubDate>Thu, 23 Mar 2023 17:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[내재된 욕망이 마침내 터져버린 걸까? 스포트라이트를 즐기는 샘 스미스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/ff4bd5d7-6782-4a12-9c5d-8ca96bbcbfa8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 ‘이터널 선샤인’ 속 클레멘타인이 입던 바로 그 후디! 요주의 컬래버레이션 3]]></title>
             <link>https://www.elle.co.kr/article/76017</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 21 Mar 2023 17:41:10 GMT</pubDate>
             <content:encoded><![CDATA[제니, 지수, 로제, 뉴진스 혜인, 민니, NCT태용, 이유미, 박서준, 정호연, 엔믹스, 문가영, 선...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/365e7ef3-06b9-43e3-94e9-62252cae6023.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영이 픽한 아우터는? 모터사이클 재킷을 걸친 셀러브리티 5]]></title>
-            <link>https://www.elle.co.kr/article/75927</link>
-            <guid>https://www.elle.co.kr/article/75927</guid>
-            <pubDate>Tue, 21 Mar 2023 05:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[모터사이클 재킷으로 쿨하고 터프한 감성이 느껴지는 데일리 룩에 도전해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/5ea2432f-d4a4-4c44-9af9-6eb56f982c48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 F/W 멘즈 패션 위크가 궁금해?]]></title>
-            <link>https://www.elle.co.kr/article/75879</link>
-            <guid>https://www.elle.co.kr/article/75879</guid>
-            <pubDate>Tue, 21 Mar 2023 05:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[이토록 떠들썩한 멘즈 패션 위크가 있었던가.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/f8e20b0b-d50c-4a85-a494-1a0e1d97a12b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

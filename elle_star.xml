@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 17:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 강아지가 버버리의 얼굴이 된 이유]]></title>
+            <link>https://www.elle.co.kr/article/76040</link>
+            <guid>https://www.elle.co.kr/article/76040</guid>
+            <pubDate>Thu, 23 Mar 2023 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[2023 봄 여름 시즌, 패션하우스의 얼굴이 된 이색 캠페인 모델.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e5721465-bf11-4e6f-88ad-c016528d3ee8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국의 효녀효자들 긴장해... 조용필 5년 만의 잠실 주경기장 콘서트, 시작은 언제?]]></title>
+            <link>https://www.elle.co.kr/article/76026</link>
+            <guid>https://www.elle.co.kr/article/76026</guid>
+            <pubDate>Thu, 23 Mar 2023 17:41:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/56510d10-e583-4419-bad5-44264f5cb0a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[햇살 아래, 예쁨 한껏 머금은 ITZY 리아의 첫 단독 화보!]]></title>
             <link>https://www.elle.co.kr/article/75993</link>
@@ -51,20 +66,6 @@
             <guid>https://www.elle.co.kr/article/76006</guid>
             <pubDate>Wed, 22 Mar 2023 05:40:52 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/9712bb2b-d2c1-4b47-8570-c6ce56f80de6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[故 강수연 1주기 추모전 '영화롭게 오랫동안', 이때 열린다고? (정보 모음)]]></title>
-            <link>https://www.elle.co.kr/article/75987</link>
-            <guid>https://www.elle.co.kr/article/75987</guid>
-            <pubDate>Wed, 22 Mar 2023 05:40:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/d4bc00cf-ac13-4d68-ac0f-4a2075ed702a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 네 번째 부부되는 장나라X장혁, 이번엔 가족 코미디? (ft. 시트콤 장인 이순재)]]></title>
-            <link>https://www.elle.co.kr/article/75986</link>
-            <guid>https://www.elle.co.kr/article/75986</guid>
-            <pubDate>Tue, 21 Mar 2023 17:41:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e200e123-9967-4a5d-9a7a-bc69d6ca0839.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

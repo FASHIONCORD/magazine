@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 17:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르 보이스] 철학자 셰프와 먹고마시즘]]></title>
+            <link>https://www.elle.co.kr/article/75882</link>
+            <guid>https://www.elle.co.kr/article/75882</guid>
+            <pubDate>Thu, 23 Mar 2023 17:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[셰프의 테이블과 어서와 한국은 처음이지에서 길어올린 셰프의 철학.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/d8d50ef8-6415-442a-a665-94be9da1b66f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9년을 기다린 애플페이, 이제 진짜로 된다! 쓸 수 있는 기종과 매장은?]]></title>
+            <link>https://www.elle.co.kr/article/75941</link>
+            <guid>https://www.elle.co.kr/article/75941</guid>
+            <pubDate>Thu, 23 Mar 2023 17:42:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/385f2c14-2def-4a63-8273-a4aadc0fcdae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성의 날을 맞아 '엘르'가 만난 6명의 리더들]]></title>
             <link>https://www.elle.co.kr/article/75833</link>
@@ -51,22 +66,6 @@
             <guid>https://www.elle.co.kr/article/75793</guid>
             <pubDate>Fri, 17 Mar 2023 17:41:35 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/68e7590b-d9bd-4d1e-8ec3-8e9ffe2c341b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르 보이스] 200명의 중심에서 "혼자 사세요!"를 외치다]]></title>
-            <link>https://www.elle.co.kr/article/75716</link>
-            <guid>https://www.elle.co.kr/article/75716</guid>
-            <pubDate>Fri, 17 Mar 2023 17:41:35 GMT</pubDate>
-            <content:encoded><![CDATA['물리적 독거'를 넘어서 '내가 나인 채로' 살아보기로 결심한 사람들과 진행한 비혼세의 첫 공...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/30cce2fd-041a-40d4-8733-5072b2699425.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙태죄가 폐지된 지금, 영화 <콜 제인>이 전하는 메시지_요주의여성 #82]]></title>
-            <link>https://www.elle.co.kr/article/75760</link>
-            <guid>https://www.elle.co.kr/article/75760</guid>
-            <pubDate>Thu, 16 Mar 2023 05:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[한 걸음 더, 우리 함께.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/cdd6230d-e228-4d8e-a93b-b7459eb29e0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
