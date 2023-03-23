@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 17:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 ‘이터널 선샤인’ 속 클레멘타인이 입던 바로 그 후디! 요주의 컬래버레이션 3]]></title>
+            <link>https://www.elle.co.kr/article/76017</link>
+            <guid>https://www.elle.co.kr/article/76017</guid>
+            <pubDate>Thu, 23 Mar 2023 05:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[슈프림 박스 로고를 입은 다마고치의 정체는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e76418f7-1784-4011-9df1-2506464057a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴고 보스의 수석 크리에이티브 디렉터가 영감을 얻은 도시는?]]></title>
             <link>https://www.elle.co.kr/article/75973</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Mar 2023 05:39:41 GMT</pubDate>
             <content:encoded><![CDATA[이토록 떠들썩한 멘즈 패션 위크가 있었던가.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/f8e20b0b-d50c-4a85-a494-1a0e1d97a12b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웬즈데이처럼 입기]]></title>
-            <link>https://www.elle.co.kr/article/75819</link>
-            <guid>https://www.elle.co.kr/article/75819</guid>
-            <pubDate>Mon, 20 Mar 2023 17:39:58 GMT</pubDate>
-            <content:encoded><![CDATA['13일의 금요일'에 태어난 소녀처럼.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/19/3efbe797-32c2-4a3d-a4c1-2248414ed5f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

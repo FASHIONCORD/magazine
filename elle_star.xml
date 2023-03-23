@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 17:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[햇살 아래, 예쁨 한껏 머금은 ITZY 리아의 첫 단독 화보!]]></title>
+            <link>https://www.elle.co.kr/article/75993</link>
+            <guid>https://www.elle.co.kr/article/75993</guid>
+            <pubDate>Thu, 23 Mar 2023 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[새롭게 마주한 리아의 말간 얼굴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/89c2acab-d3da-435c-b7c7-0f3fc2c42e14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도도한 고양이처럼! 스타들의 스모키 메이크업 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/76020</link>
+            <guid>https://www.elle.co.kr/article/76020</guid>
+            <pubDate>Thu, 23 Mar 2023 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[이제 블랙 아이라이너와 친해질 시간, 셀러브리티가 사랑하는 스모키 메이크업을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/84e36ae3-2af9-40b0-82c7-4be5c774507d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[느와르부터 청춘물까지, '장르 파괴자' BTS 뷔의 '엘르' 4월호 선공개 화보.jpg]]></title>
             <link>https://www.elle.co.kr/article/76016</link>
@@ -49,22 +65,6 @@
             <guid>https://www.elle.co.kr/article/75986</guid>
             <pubDate>Tue, 21 Mar 2023 17:41:29 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e200e123-9967-4a5d-9a7a-bc69d6ca0839.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋지다, 지율아! <더 글로리> 하예솔 오지율의 인생 첫 화보]]></title>
-            <link>https://www.elle.co.kr/article/75946</link>
-            <guid>https://www.elle.co.kr/article/75946</guid>
-            <pubDate>Tue, 21 Mar 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[연진아, 네 딸 화보 찍었어... 알록달록 열 살 배우 지율이의 세상!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/fa142909-1ef2-4565-81d2-9b871577c8a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 쇼핑 계획 중이라면 주목! 스타들이 고른 봄 아우터 5]]></title>
-            <link>https://www.elle.co.kr/article/75970</link>
-            <guid>https://www.elle.co.kr/article/75970</guid>
-            <pubDate>Tue, 21 Mar 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[트위드 재킷부터 데님 점퍼까지, 스타들의 데일리룩을 참고해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/7d37b83e-218a-419d-9ac0-e12eb0119f4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

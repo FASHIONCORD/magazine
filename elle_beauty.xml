@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 17:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛과 톤으로 말하다! 매혹적인 뉴 컬러 아이섀도 팔레트 7_선배’s 어드바이스 #161]]></title>
+            <link>https://www.elle.co.kr/article/75947</link>
+            <guid>https://www.elle.co.kr/article/75947</guid>
+            <pubDate>Thu, 23 Mar 2023 05:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[화려하게 돌아온 아이섀도 트렌드, 제대로 바르는 법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/70b27917-d5d5-4908-81de-4f0ba29fdbe4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 나들이는 뷰티 팝업 스토어로! 탬버린즈 삼청부터 에스티로더까지 #갓구운신상]]></title>
             <link>https://www.elle.co.kr/article/75901</link>
@@ -60,14 +68,6 @@
             <pubDate>Fri, 17 Mar 2023 05:40:30 GMT</pubDate>
             <content:encoded><![CDATA[머리카락에 내려진 건조주의보와 피지주의보, 뾰족한 대책은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/bc7375c4-f9b1-40a2-b695-804943b27575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라 메르와 시슬리의 진화]]></title>
-            <link>https://www.elle.co.kr/article/75711</link>
-            <guid>https://www.elle.co.kr/article/75711</guid>
-            <pubDate>Thu, 16 Mar 2023 17:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[라 메르 크림과 시슬리 로션, 클래식 중에 클래식이던 두 제품이 한 단계 업그레이드 됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/a3dcf3d7-3364-401e-8699-0ca6887ce4de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 17:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조금 설쳤던(?) '깝동' 출신 이도현, 눈물 나도록 속 깊은 가족 사랑]]></title>
+            <link>https://www.elle.co.kr/article/76062</link>
+            <guid>https://www.elle.co.kr/article/76062</guid>
+            <pubDate>Thu, 23 Mar 2023 05:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[(ft. 추억의 테크토닉)]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/c448f300-0700-4238-8d93-52f675fd5bea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몇 년 만이야...! '크라임씬'에 '하트시그널'까지, 벌써 레전드 에피 기대되는 예능.list]]></title>
             <link>https://www.elle.co.kr/article/76006</link>
@@ -33,7 +41,6 @@
             <link>https://www.elle.co.kr/article/75963</link>
             <guid>https://www.elle.co.kr/article/75963</guid>
             <pubDate>Mon, 20 Mar 2023 17:41:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/30276e9a-d006-4ba3-bc46-d0e9454bfe21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['꽃선비' 신예은, 고데기 내려놓고 한복 입었다고? '더 글로리' 출연진 차기작 모음집 #요즘드라마]]></title>
@@ -85,12 +92,6 @@
             <guid>https://www.elle.co.kr/article/75761</guid>
             <pubDate>Mon, 13 Mar 2023 17:41:22 GMT</pubDate>
             <content:encoded><![CDATA[여성, 그리고 어머니들에게 전한 뭉클한 소감까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[워킹맘이지만 '일타' 남행선과는 다르다? '더 글로리' 영광 이을 전도연의 '길복순' 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/75749</link>
-            <guid>https://www.elle.co.kr/article/75749</guid>
-            <pubDate>Mon, 13 Mar 2023 05:40:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
