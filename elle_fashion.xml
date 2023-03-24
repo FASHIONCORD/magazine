@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 17:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 05:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모스키노에서 보낸 10년, 제레미 스콧의 아이코닉한 컬렉션 5]]></title>
+            <link>https://www.elle.co.kr/article/76052</link>
+            <guid>https://www.elle.co.kr/article/76052</guid>
+            <pubDate>Fri, 24 Mar 2023 05:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[그가 남긴 이토록 유쾌한 유산.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/c39d7d95-fa33-4766-9e60-b1d7b93f966b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 강아지가 버버리의 얼굴이 된 이유]]></title>
             <link>https://www.elle.co.kr/article/76040</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 21 Mar 2023 17:41:10 GMT</pubDate>
             <content:encoded><![CDATA[폴로 셔츠를 대하는 2가지 방식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/ac6ce68e-e22d-4742-b5de-565407e1b83d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흥미진진! K스타들의 대활약. 2023 FW 파리 패션위크 #ELLE쇼타임]]></title>
-            <link>https://www.elle.co.kr/article/75942</link>
-            <guid>https://www.elle.co.kr/article/75942</guid>
-            <pubDate>Tue, 21 Mar 2023 17:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[제니, 지수, 로제, 뉴진스 혜인, 민니, NCT태용, 이유미, 박서준, 정호연, 엔믹스, 문가영, 선...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/365e7ef3-06b9-43e3-94e9-62252cae6023.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
