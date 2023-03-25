@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 17:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 05:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구찌를 비추는 세 개의 페르소나]]></title>
+            <link>https://www.elle.co.kr/article/76076</link>
+            <guid>https://www.elle.co.kr/article/76076</guid>
+            <pubDate>Sat, 25 Mar 2023 05:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 하니, 할리 베일리, 줄리아 가너가 함께한 구찌 홀스빗 1955 캠페인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/0222ad7e-e743-4064-8d25-ebfc57fa3598.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봉태규 하시시박의 느낌 있는 커플룩 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/76057</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Mar 2023 17:40:07 GMT</pubDate>
             <content:encoded><![CDATA[마이애미에서 단독으로 열린 보스 2023 S/S 쇼 리포트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/30b64c22-5627-4e01-84ff-f99aa9beb10f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 쇼핑 계획 중이라면 주목! 스타들이 고른 봄 아우터 5]]></title>
-            <link>https://www.elle.co.kr/article/75970</link>
-            <guid>https://www.elle.co.kr/article/75970</guid>
-            <pubDate>Wed, 22 Mar 2023 17:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[트위드 재킷부터 데님 점퍼까지, 스타들의 데일리룩을 참고해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/7d37b83e-218a-419d-9ac0-e12eb0119f4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

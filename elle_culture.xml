@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 17:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 05:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웃기고, 귀엽고 다 한 야생동물 사진 어떻게 탄생했을까?]]></title>
+            <link>https://www.elle.co.kr/article/75997</link>
+            <guid>https://www.elle.co.kr/article/75997</guid>
+            <pubDate>Sat, 25 Mar 2023 05:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 ‘웃긴 야생동물 사진대회(The Comedy Wildlife)’에서 우승을 차지한 건 나무에서 미끄...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/0d640bfe-069f-46c9-8d59-bcd2c25e149e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전형성을 벗어난 만화적 상상력! 작가 이학민의 유머러스한 좌표들 #더메이커스]]></title>
             <link>https://www.elle.co.kr/article/75655</link>
@@ -58,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/75986</guid>
             <pubDate>Thu, 23 Mar 2023 05:41:16 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e200e123-9967-4a5d-9a7a-bc69d6ca0839.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 문동은이 준 빨간 립스틱? 엘르 염혜란 화보에 댓글 단 송혜교 우정스타그램 근황]]></title>
-            <link>https://www.elle.co.kr/article/75963</link>
-            <guid>https://www.elle.co.kr/article/75963</guid>
-            <pubDate>Wed, 22 Mar 2023 05:41:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/30276e9a-d006-4ba3-bc46-d0e9454bfe21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
