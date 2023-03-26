@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 17:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 05:43:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오래된 것의 재탄생! 업사이클링 카페 2]]></title>
+            <link>https://www.elle.co.kr/article/75983</link>
+            <guid>https://www.elle.co.kr/article/75983</guid>
+            <pubDate>Sun, 26 Mar 2023 05:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[오랜 추억과 시간이 보존된 업사이클링 카페 두 군데.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/b95e9960-38e0-4e95-93e6-4486db5e7e6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멕시코 타코 집부터 홍콩 여관까지! 컨셉에 진심인 을지로-종로-성수 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/75976</link>
@@ -57,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/75837</guid>
             <pubDate>Mon, 20 Mar 2023 05:41:38 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/64b7bb37-eaea-4524-b28a-b9733defeaa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딸기 오마카세도 있다고? 비주얼부터 시강 그 자체인 전국 딸기 디저트 카페 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/75806</link>
-            <guid>https://www.elle.co.kr/article/75806</guid>
-            <pubDate>Fri, 17 Mar 2023 17:41:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/93ab853f-1691-4f9e-b5fd-c668948af169.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
