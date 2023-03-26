@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 05:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 17:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2003,6 +2003,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/bdd9eb4c-904b-4e47-a793-4b7583611041.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드디어 디즈니 플러스도 반등세? 유재석X 이성민X이연희가 있는 2023 오리지널 라인업.list (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/76122</link>
+            <guid>https://www.elle.co.kr/article/76122</guid>
+            <pubDate>Fri, 24 Mar 2023 17:41:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a060a3fc-b2c0-4022-a34c-25d1971ffe9a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[웃기고, 귀엽고 다 한 야생동물 사진 어떻게 탄생했을까? (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/75997</link>
             <guid>https://www.elle.co.kr/article/75997</guid>
@@ -2054,13 +2061,6 @@
             <guid>https://www.elle.co.kr/article/75987</guid>
             <pubDate>Tue, 21 Mar 2023 05:40:23 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/d4bc00cf-ac13-4d68-ac0f-4a2075ed702a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 네 번째 부부되는 장나라X장혁, 이번엔 가족 코미디? (ft. 시트콤 장인 이순재) (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/75986</link>
-            <guid>https://www.elle.co.kr/article/75986</guid>
-            <pubDate>Tue, 21 Mar 2023 05:40:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e200e123-9967-4a5d-9a7a-bc69d6ca0839.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 솔로앨범 낸 BTS 지민, 美 '지미 팰런쇼' 뜨겁게 달군 한 마디는? (ft.최애 별명) (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -2234,12 +2234,12 @@
             <pubDate>Thu, 16 Mar 2023 17:41:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[전형성을 벗어난 만화적 상상력! 작가 이학민의 유머러스한 좌표들 #더메이커스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/75655</link>
-            <guid>https://www.elle.co.kr/article/75655</guid>
-            <pubDate>Thu, 23 Mar 2023 17:42:35 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/43218abd-9642-4645-954e-4978d3a1248c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[새 시대의 공예가들이 전통 속에 녹인 오색찬연한 감각 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/75656</link>
+            <guid>https://www.elle.co.kr/article/75656</guid>
+            <pubDate>Sun, 26 Mar 2023 17:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[섬유공예가 박유진의 바구니보부터 김병규의 누비 매트까지, 솜씨와 미감의 결정체인 지금 시대의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a80d6dbb-80f7-4b5a-b54b-68033182b771.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웃기고, 귀엽고 다 한 야생동물 사진 어떻게 탄생했을까? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2248,6 +2248,14 @@
             <pubDate>Fri, 24 Mar 2023 05:41:30 GMT</pubDate>
             <content:encoded><![CDATA[2022년 ‘웃긴 야생동물 사진대회(The Comedy Wildlife)’에서 우승을 차지한 건 나무에서 미끄...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/0d640bfe-069f-46c9-8d59-bcd2c25e149e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전형성을 벗어난 만화적 상상력! 작가 이학민의 유머러스한 좌표들 #더메이커스 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
+            <link>https://www.elle.co.kr/article/75655</link>
+            <guid>https://www.elle.co.kr/article/75655</guid>
+            <pubDate>Thu, 23 Mar 2023 17:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/43218abd-9642-4645-954e-4978d3a1248c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 업데이트! 지속가능한 대안 가구들 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2263,7 +2271,6 @@
             <guid>https://www.elle.co.kr/article/75653</guid>
             <pubDate>Sun, 19 Mar 2023 17:41:20 GMT</pubDate>
             <content:encoded><![CDATA[서울 밖. 제주도의 삶을 시작한 콘텐츠 에디터 정수미의 집 연대기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/6dbf1be8-b9d7-43d3-ab8d-84cf25a4d952.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차 한 잔 할까 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2320,13 +2327,6 @@
             <guid>https://www.elle.co.kr/article/75648</guid>
             <pubDate>Wed, 08 Mar 2023 05:42:15 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마우리치오 카텔란에게 물었다 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
-            <link>https://www.elle.co.kr/article/75421</link>
-            <guid>https://www.elle.co.kr/article/75421</guid>
-            <pubDate>Wed, 01 Mar 2023 05:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[한국 관람객도 바나나를 떼어먹을까? 혹은 어떤 죽음을 떠올리게 하는 대리석 앞에 가만히 묵념...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오래된 것의 재탄생! 업사이클링 카페 2 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 05:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 17:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 디즈니 플러스도 반등세? 유재석X 이성민X이연희가 있는 2023 오리지널 라인업.list]]></title>
+            <link>https://www.elle.co.kr/article/76122</link>
+            <guid>https://www.elle.co.kr/article/76122</guid>
+            <pubDate>Sun, 26 Mar 2023 17:41:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a060a3fc-b2c0-4022-a34c-25d1971ffe9a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웃기고, 귀엽고 다 한 야생동물 사진 어떻게 탄생했을까?]]></title>
             <link>https://www.elle.co.kr/article/75997</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/75987</guid>
             <pubDate>Thu, 23 Mar 2023 17:42:03 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/d4bc00cf-ac13-4d68-ac0f-4a2075ed702a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 네 번째 부부되는 장나라X장혁, 이번엔 가족 코미디? (ft. 시트콤 장인 이순재)]]></title>
-            <link>https://www.elle.co.kr/article/75986</link>
-            <guid>https://www.elle.co.kr/article/75986</guid>
-            <pubDate>Thu, 23 Mar 2023 05:41:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e200e123-9967-4a5d-9a7a-bc69d6ca0839.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
