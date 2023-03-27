@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 05:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 17:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트 선재로 가자]]></title>
+            <link>https://www.elle.co.kr/article/76198</link>
+            <guid>https://www.elle.co.kr/article/76198</guid>
+            <pubDate>Mon, 27 Mar 2023 17:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[하이디 부허 첫 회고전 &lt;하이디 부허- 공간은 피막, 피부&gt; 및 박론디, 박보마, 우한나의 &lt;리빙인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/a28aec6d-6eda-4a8d-a158-abcc4a4a04ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유야 하시즈메가 왔다]]></title>
+            <link>https://www.elle.co.kr/article/76195</link>
+            <guid>https://www.elle.co.kr/article/76195</guid>
+            <pubDate>Mon, 27 Mar 2023 17:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[단색 배경의 애니메이션 캐릭터가 눈물을 흘리는 ‘아이워터’ 시리즈로 글로벌 아트 신을 뜨겁게...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/7abd7592-05c3-486f-a360-b9deabc0758a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 시대의 공예가들이 전통 속에 녹인 오색찬연한 감각]]></title>
             <link>https://www.elle.co.kr/article/75656</link>
@@ -29,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/75655</guid>
             <pubDate>Thu, 23 Mar 2023 17:42:35 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/43218abd-9642-4645-954e-4978d3a1248c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 업데이트! 지속가능한 대안 가구들]]></title>
@@ -37,7 +52,6 @@
             <guid>https://www.elle.co.kr/article/75654</guid>
             <pubDate>Tue, 21 Mar 2023 17:42:13 GMT</pubDate>
             <content:encoded><![CDATA[지속가능한 삶을 위한 움직임. 그 역동적인 진화 속에 발견되어 탄생한 재료와 놀라운 미학.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/a44ca1f9-f976-4c12-b255-dd265c41b898.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주에서 나만의 안전 공간 찾기 #아웃오브서울]]></title>
@@ -87,20 +101,6 @@
             <guid>https://www.elle.co.kr/article/75649</guid>
             <pubDate>Thu, 09 Mar 2023 17:42:37 GMT</pubDate>
             <content:encoded><![CDATA[영국의 화가이자 디자이너, 칼럼니스트인 루크 에드워드 홀이 도자기 브랜드 지노리1735와 손을 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이원우의 새  개인전]]></title>
-            <link>https://www.elle.co.kr/article/75611</link>
-            <guid>https://www.elle.co.kr/article/75611</guid>
-            <pubDate>Thu, 09 Mar 2023 05:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[조각과 퍼포먼스, 영상, 회화. 장르를 파괴하고 마음이 닿는 대로 창작하는 이원우 작가.  개인...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이광호가 어떤 제약 없이 무한한 상상을 시작할 때 #더메이커스]]></title>
-            <link>https://www.elle.co.kr/article/75648</link>
-            <guid>https://www.elle.co.kr/article/75648</guid>
-            <pubDate>Wed, 08 Mar 2023 05:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
         </item>
     </channel>
 </rss>

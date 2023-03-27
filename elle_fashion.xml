@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 05:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 17:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금은 카고 팬츠 전성시대]]></title>
+            <link>https://www.elle.co.kr/article/76001</link>
+            <guid>https://www.elle.co.kr/article/76001</guid>
+            <pubDate>Mon, 27 Mar 2023 17:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[낙낙한 실루엣에 실용적인 주머니를 장착한 카고 팬츠의 행진.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/f7b4f0a9-683e-4bcc-83b2-8e7d0aca24d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구찌를 비추는 세 개의 페르소나]]></title>
             <link>https://www.elle.co.kr/article/76076</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 05:40:43 GMT</pubDate>
             <content:encoded><![CDATA[슈프림 박스 로고를 입은 다마고치의 정체는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e76418f7-1784-4011-9df1-2506464057a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴고 보스의 수석 크리에이티브 디렉터가 영감을 얻은 도시는?]]></title>
-            <link>https://www.elle.co.kr/article/75973</link>
-            <guid>https://www.elle.co.kr/article/75973</guid>
-            <pubDate>Wed, 22 Mar 2023 17:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[마이애미에서 단독으로 열린 보스 2023 S/S 쇼 리포트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/30b64c22-5627-4e01-84ff-f99aa9beb10f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
