@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 17:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 05:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 그 자체인 소주연]]></title>
+            <link>https://www.elle.co.kr/article/75841</link>
+            <guid>https://www.elle.co.kr/article/75841</guid>
+            <pubDate>Mon, 27 Mar 2023 05:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[춘분, 소주연의 얼굴에 피어난 봄의 절기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/21f3ce5a-fbdf-4986-b5e2-b7c93df6974d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[-6kg 감량 선언한 최강희! 40대에도 '최강동안' 유지하는 핵심 비결은 바로 이것? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/76011</link>
@@ -60,13 +68,6 @@
             <pubDate>Mon, 20 Mar 2023 17:40:07 GMT</pubDate>
             <content:encoded><![CDATA[봄기운을 가득 머금은 신상 블러셔 리스트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/76d2be54-8c59-4903-b0ee-663a740f1c18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트데이 선물 아직 못 골랐다면? 3월 2주차 뷰티 신상 #갓구운신상]]></title>
-            <link>https://www.elle.co.kr/article/75774</link>
-            <guid>https://www.elle.co.kr/article/75774</guid>
-            <pubDate>Fri, 17 Mar 2023 17:39:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/cb32d03e-f535-47c0-a37a-c428802c1bcd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

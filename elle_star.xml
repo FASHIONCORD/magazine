@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 17:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 05:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천원 짜리 변호사 만난 갓도기? SBS 세계관에서 계속 충돌하는 남궁민X이제훈]]></title>
+            <link>https://www.elle.co.kr/article/76124</link>
+            <guid>https://www.elle.co.kr/article/76124</guid>
+            <pubDate>Mon, 27 Mar 2023 05:40:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a99933c5-4ec7-4fca-ac18-ce39e89120c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타가 알려주는 카디건 입는 법]]></title>
             <link>https://www.elle.co.kr/article/76114</link>
@@ -60,14 +67,6 @@
             <pubDate>Fri, 24 Mar 2023 05:40:44 GMT</pubDate>
             <content:encoded><![CDATA[따로 또 같이! 각자의 개성을 담은 ‘옷잘알’ 부부 봉태규 하시시박의 커플룩을 모아봤습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/0a829d41-2fd1-4dc5-bcaa-af9171eecf31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이하늬와 브루넬로 쿠치넬리가 다시 움직일 때]]></title>
-            <link>https://www.elle.co.kr/article/76050</link>
-            <guid>https://www.elle.co.kr/article/76050</guid>
-            <pubDate>Fri, 24 Mar 2023 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[때론 유연하게, 때론 묵직하게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/bdd9eb4c-904b-4e47-a793-4b7583611041.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
