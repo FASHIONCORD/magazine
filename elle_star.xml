@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 05:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 17:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴욕 한복판에 깜짝 등장한 영화 ‘조커: 폴리 아 두’ 속 '할리 퀸' 레이디 가가!]]></title>
+            <link>https://www.elle.co.kr/article/76191</link>
+            <guid>https://www.elle.co.kr/article/76191</guid>
+            <pubDate>Tue, 28 Mar 2023 17:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[시위대와 경찰에 둘러싸인 그녀가 향한 곳은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/64200916-137b-469c-9030-681802b79d20.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 채정안의 보디 케어 잇템 6]]></title>
             <link>https://www.elle.co.kr/article/76150</link>
@@ -58,14 +66,6 @@
             <pubDate>Sun, 26 Mar 2023 05:40:49 GMT</pubDate>
             <content:encoded><![CDATA[카디건 200% 활용하기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/b585137f-c4ca-41de-bcc0-6120d79a0154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김희애와 문소리가 그린 강인함]]></title>
-            <link>https://www.elle.co.kr/article/76046</link>
-            <guid>https://www.elle.co.kr/article/76046</guid>
-            <pubDate>Sat, 25 Mar 2023 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;퀸메이커&gt;의 황도희와 오경숙. 연대와 협력으로 조우한 두 사람.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/8542e136-68f6-48fd-ab9c-df9fcc7999c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
