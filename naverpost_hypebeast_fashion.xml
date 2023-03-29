@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 05:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 18:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전문가들이 추천하는 남들과 겹치지 않는 니치 향수 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35700513&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35700513&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 29 Mar 2023 18:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjlfOTQg/MDAxNjgwMDczODA0MDUx.f3jmythbuZyc9281z7jBQ2i0_7wNj_T_kpypLK8IzN0g.2CztUvMPzrPt5J88vscrnOz3GFYQi0AiRTyjCjpqCPEg.JPEG/IPyNhtuyI8IbaEpfUdljKQMP3fUw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스가 사랑한 로컬 브랜드]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35664751&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 07 Nov 2022 05:47:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDRfNjAg/MDAxNjY3NTUwNDY4Mzgx._hnjTpEvhkOD4glTFJlOER5DijdoSSG-ItHTnur5gM0g.koZMmeY8lnlcVhplPsL19r_bQRWP6MKLnIJJyjIKamMg.JPEG/IBLzmfsi96w42v5ak9T6UTFO6-sY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버버리 x '마인크래프트', 가상과 현실 넘나드는 협업 발표]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34666008&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34666008&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Sat, 22 Oct 2022 17:53:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjFfMTQy/MDAxNjY2MzQyMzE3NzM3.fm_rhP3x7FI6Up7LdBLaq220vw3SqdN8Z56S5LYKYWkg.m2S8H-h4CgYmCIwIPeMzM7ZOlvJPbdhPKtPoqq1guT8g.JPEG/Ix7EEN9SF2N8dtv4r4g_yHKPD3ug.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

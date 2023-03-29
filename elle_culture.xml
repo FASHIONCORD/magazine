@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 05:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 18:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LOCK IN! 김경태와 박배, 티파니 락 컬렉션의 경이로운 조우]]></title>
+            <link>https://www.elle.co.kr/article/76231</link>
+            <guid>https://www.elle.co.kr/article/76231</guid>
+            <pubDate>Wed, 29 Mar 2023 18:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[믿을 수 없을 만큼 가까이 다가가 오랜 시간 사물의 물성을 관찰하는 아티스트 김경태. 움직이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/936f3f9c-e34e-4b2e-810c-6586749df730.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트 선재로 가자]]></title>
             <link>https://www.elle.co.kr/article/76198</link>
@@ -62,13 +70,6 @@
             <pubDate>Mon, 27 Mar 2023 17:40:13 GMT</pubDate>
             <content:encoded><![CDATA[섬유공예가 박유진의 바구니보부터 김병규의 누비 매트까지, 솜씨와 미감의 결정체인 지금 시대의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a80d6dbb-80f7-4b5a-b54b-68033182b771.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사랑이라 말해요' 김영광과 이성경이 촬영장에서 서로를 피해 다닌 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/76136</link>
-            <guid>https://www.elle.co.kr/article/76136</guid>
-            <pubDate>Mon, 27 Mar 2023 17:40:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/63c05b87-7100-4f50-a876-28adaae8d3bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
