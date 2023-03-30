@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 17:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 채정안의 보디 케어 잇템 6]]></title>
+            <link>https://www.elle.co.kr/article/76150</link>
+            <guid>https://www.elle.co.kr/article/76150</guid>
+            <pubDate>Thu, 30 Mar 2023 17:44:45 GMT</pubDate>
+            <content:encoded><![CDATA[건조하고 거친 피부는 굿바이! 매끈한 피부로 거듭나기 위해 채정안이 사용하는 보디 케어 뷰티...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c4e389d5-b0de-454d-a853-34d00e231111.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[34kg 감량에 건강미까지? '박성광 전 매니저' 임송의 체중 감량 노하우 총정리! #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/76089</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 23 Mar 2023 05:40:55 GMT</pubDate>
             <content:encoded><![CDATA[화려하게 돌아온 아이섀도 트렌드, 제대로 바르는 법은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/70b27917-d5d5-4908-81de-4f0ba29fdbe4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 나들이는 뷰티 팝업 스토어로! 탬버린즈 삼청부터 에스티로더까지 #갓구운신상]]></title>
-            <link>https://www.elle.co.kr/article/75901</link>
-            <guid>https://www.elle.co.kr/article/75901</guid>
-            <pubDate>Wed, 22 Mar 2023 05:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3주차 뷰티 신상 뉴스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/a6c546d2-6720-4bea-b8c5-3322325cd5df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
