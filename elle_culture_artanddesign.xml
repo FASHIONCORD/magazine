@@ -4,17 +4,9 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 18:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 05:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[안도 타다오는 이제 무엇을 짓고 싶을까?]]></title>
-            <link>https://www.elle.co.kr/article/76284</link>
-            <guid>https://www.elle.co.kr/article/76284</guid>
-            <pubDate>Wed, 29 Mar 2023 05:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[“가진 건 핸디캡뿐이었다”고 고백하는 건축가의 업력이 어느덧 50년을 넘었다. 오는 4월, 한국...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/d6f7b686-9fba-4ae7-a5f8-fa819db7de69.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[포토그래퍼 미카엘 올손의 자화상 프로젝트]]></title>
             <link>https://www.elle.co.kr/article/75657</link>
@@ -45,6 +37,7 @@
             <guid>https://www.elle.co.kr/article/76198</guid>
             <pubDate>Mon, 27 Mar 2023 17:41:11 GMT</pubDate>
             <content:encoded><![CDATA[하이디 부허 첫 회고전 &lt;하이디 부허- 공간은 피막, 피부&gt; 및 박론디, 박보마, 우한나의 &lt;리빙인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/a28aec6d-6eda-4a8d-a158-abcc4a4a04ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유야 하시즈메가 왔다]]></title>
@@ -101,6 +94,13 @@
             <guid>https://www.elle.co.kr/article/75651</guid>
             <pubDate>Tue, 14 Mar 2023 17:49:14 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아모레 퍼시픽 본사를 탄생시킨 데이비드 치퍼필드, 2023 프리츠커상 수상!]]></title>
+            <link>https://www.elle.co.kr/article/75810</link>
+            <guid>https://www.elle.co.kr/article/75810</guid>
+            <pubDate>Thu, 30 Mar 2023 05:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[‘건축계 노벨상’의 영예를 안은 주인공.]]></content:encoded>
         </item>
     </channel>
 </rss>

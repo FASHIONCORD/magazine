@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 18:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 05:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행복한 게 최고야! 염혜란이 멋진 휴가를 떠났다]]></title>
+            <link>https://www.elle.co.kr/article/76257</link>
+            <guid>https://www.elle.co.kr/article/76257</guid>
+            <pubDate>Thu, 30 Mar 2023 05:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[스스로를 구한 현남 씨가 멋진 휴가를 떠났다. &lt;더글로리&gt;로 또다시 활짝 핀 염혜란이 믿는 선...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/704b305e-d243-449a-b1cc-b11ec4669d6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유미네 스타일 완전 정복! '서진이네' 속 정유미 패션 5]]></title>
+            <link>https://www.elle.co.kr/article/76254</link>
+            <guid>https://www.elle.co.kr/article/76254</guid>
+            <pubDate>Thu, 30 Mar 2023 05:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[예능 프로그램 &lt;서진이네&gt;를 통해 이사로 승진한 정유미! 눈길을 사로잡는 액세서리 스타일링부터...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/680afe8a-3c59-42b2-a68c-c548612cbb1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙한 시스루 패션을 선보인 셀러브리티 5]]></title>
             <link>https://www.elle.co.kr/article/76250</link>
@@ -53,22 +69,6 @@
             <pubDate>Wed, 29 Mar 2023 05:40:04 GMT</pubDate>
             <content:encoded><![CDATA[전작 '비밀의 숲' 황시목과는 전혀 다른 캐릭터로 열연 중인 조승우!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c9356036-2ccf-447d-8ea3-7a562f09c7b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕 한복판에 깜짝 등장한 영화 ‘조커: 폴리 아 두’ 속 '할리 퀸' 레이디 가가!]]></title>
-            <link>https://www.elle.co.kr/article/76191</link>
-            <guid>https://www.elle.co.kr/article/76191</guid>
-            <pubDate>Tue, 28 Mar 2023 17:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[시위대와 경찰에 둘러싸인 그녀가 향한 곳은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/64200916-137b-469c-9030-681802b79d20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 채정안의 보디 케어 잇템 6]]></title>
-            <link>https://www.elle.co.kr/article/76150</link>
-            <guid>https://www.elle.co.kr/article/76150</guid>
-            <pubDate>Tue, 28 Mar 2023 05:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[건조하고 거친 피부는 굿바이! 매끈한 피부로 거듭나기 위해 채정안이 사용하는 보디 케어 뷰티...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c4e389d5-b0de-454d-a853-34d00e231111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

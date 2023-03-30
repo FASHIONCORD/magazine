@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 18:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 05:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙한 시스루 패션을 선보인 셀러브리티 5]]></title>
+            <link>https://www.elle.co.kr/article/76250</link>
+            <guid>https://www.elle.co.kr/article/76250</guid>
+            <pubDate>Thu, 30 Mar 2023 05:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[문가영, 전종서, 헤일리 비버 등 스타들의 과감한 시스루 룩을 구경해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/a5ef1fb0-cb4b-453c-a798-6a279f864e90.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황혼빛으로 물든 베르사체]]></title>
+            <link>https://www.elle.co.kr/article/76233</link>
+            <guid>https://www.elle.co.kr/article/76233</guid>
+            <pubDate>Thu, 30 Mar 2023 05:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[LA에서 열린 베르사체 2023 가을/겨울 쇼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/72a4fc5e-a87c-4fd7-bc8a-b51c61f986a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LOCK IN! 김경태와 박배, 티파니 락 컬렉션의 경이로운 조우]]></title>
             <link>https://www.elle.co.kr/article/76231</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 28 Mar 2023 05:40:34 GMT</pubDate>
             <content:encoded><![CDATA[카디건 200% 활용하기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/b585137f-c4ca-41de-bcc0-6120d79a0154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선샤인 구찌]]></title>
-            <link>https://www.elle.co.kr/article/75981</link>
-            <guid>https://www.elle.co.kr/article/75981</guid>
-            <pubDate>Tue, 28 Mar 2023 05:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[나른한 오후를 즐기는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/05052e1b-e454-48fe-9122-e22cd3477fa1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 카고 팬츠 전성시대]]></title>
-            <link>https://www.elle.co.kr/article/76001</link>
-            <guid>https://www.elle.co.kr/article/76001</guid>
-            <pubDate>Mon, 27 Mar 2023 17:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[낙낙한 실루엣에 실용적인 주머니를 장착한 카고 팬츠의 행진.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/f7b4f0a9-683e-4bcc-83b2-8e7d0aca24d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
