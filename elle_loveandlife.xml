@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 05:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 17:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로맨틱 그 자체! 반짝이는 야경을 만끽할 수 있는 전국 빛 축제 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/76232</link>
+            <guid>https://www.elle.co.kr/article/76232</guid>
+            <pubDate>Fri, 31 Mar 2023 17:42:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/177baeda-c624-4937-b577-9d43797f5957.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치즈 농장과 서울의 작은 유럽으로 떠나는 봄나들이! 익선동-삼청동-상수동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/76208</link>
+            <guid>https://www.elle.co.kr/article/76208</guid>
+            <pubDate>Fri, 31 Mar 2023 17:42:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/ad154bb5-4ae6-40bc-ad68-3ec55ab891a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채소와 함께한 시간]]></title>
             <link>https://www.elle.co.kr/article/76194</link>
@@ -51,21 +65,6 @@
             <pubDate>Mon, 27 Mar 2023 17:41:20 GMT</pubDate>
             <content:encoded><![CDATA[좋아하는 무언가에 애정을 쏟을 줄 알고, 분명한 취향을 바탕으로 자신만의 행복하고 풍요로운 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/aa0bd411-ffca-489a-8518-dc14cc103380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오래된 것의 재탄생! 업사이클링 카페 2]]></title>
-            <link>https://www.elle.co.kr/article/75983</link>
-            <guid>https://www.elle.co.kr/article/75983</guid>
-            <pubDate>Sun, 26 Mar 2023 05:42:45 GMT</pubDate>
-            <content:encoded><![CDATA[오랜 추억과 시간이 보존된 업사이클링 카페 두 군데.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/b95e9960-38e0-4e95-93e6-4486db5e7e6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멕시코 타코 집부터 홍콩 여관까지! 컨셉에 진심인 을지로-종로-성수 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/75976</link>
-            <guid>https://www.elle.co.kr/article/75976</guid>
-            <pubDate>Fri, 24 Mar 2023 17:41:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/f413bfca-cca9-4978-bff6-e35dad2e319c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
