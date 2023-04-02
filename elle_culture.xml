@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 05:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 17:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정호연-조인성-황정민과 할리우드 배우 부부가 한 스크린에? '곡성' 나홍진 감독의 신작 '호프'!]]></title>
+            <link>https://www.elle.co.kr/article/76392</link>
+            <guid>https://www.elle.co.kr/article/76392</guid>
+            <pubDate>Sun, 02 Apr 2023 17:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[그야말로 초특급 라인업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/07f2e714-5e28-4670-a60b-37de4a233cb1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스칼렛 요한슨, 마고 로비, 틸다 스윈튼 등 톱배우가 모두 모인 이유?]]></title>
             <link>https://www.elle.co.kr/article/76369</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 30 Mar 2023 17:45:05 GMT</pubDate>
             <content:encoded><![CDATA[아틀리에 에르메스가 후원하는 &lt;크리스티앙 본느프와 : 토끼의 질주&gt; 전시를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/f6c4dca8-8bc5-4ae6-86df-67c3aa42ea3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOCK IN! 김경태와 박배, 티파니 락 컬렉션의 경이로운 조우]]></title>
-            <link>https://www.elle.co.kr/article/76231</link>
-            <guid>https://www.elle.co.kr/article/76231</guid>
-            <pubDate>Sun, 02 Apr 2023 05:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[믿을 수 없을 만큼 가까이 다가가 오랜 시간 사물의 물성을 관찰하는 아티스트 김경태. 움직이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/936f3f9c-e34e-4b2e-810c-6586749df730.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

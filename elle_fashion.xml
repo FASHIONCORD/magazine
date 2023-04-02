@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 05:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 17:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LIVE ON! 디올의 2023 가을 여성 컬렉션 라이브]]></title>
+            <link>https://www.elle.co.kr/article/76219</link>
+            <guid>https://www.elle.co.kr/article/76219</guid>
+            <pubDate>Sun, 02 Apr 2023 17:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[함께 감상해요! 한국시간으로 3월 31일 금요일 자정, 인도 뭄바이에서 열리는 마리아 그라치아 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/ede56d0f-568d-43ec-9fe6-28130a28e3dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위드 쿠튀르 네크리스의 재탄생]]></title>
             <link>https://www.elle.co.kr/article/75945</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Mar 2023 05:40:42 GMT</pubDate>
             <content:encoded><![CDATA[LA에서 열린 베르사체 2023 가을/겨울 쇼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/72a4fc5e-a87c-4fd7-bc8a-b51c61f986a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOCK IN! 김경태와 박배, 티파니 락 컬렉션의 경이로운 조우]]></title>
-            <link>https://www.elle.co.kr/article/76231</link>
-            <guid>https://www.elle.co.kr/article/76231</guid>
-            <pubDate>Wed, 29 Mar 2023 18:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[믿을 수 없을 만큼 가까이 다가가 오랜 시간 사물의 물성을 관찰하는 아티스트 김경태. 움직이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/936f3f9c-e34e-4b2e-810c-6586749df730.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
