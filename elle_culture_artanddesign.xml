@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 17:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 05:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,19 +32,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/d6f7b686-9fba-4ae7-a5f8-fa819db7de69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄날의 한옥 스테이]]></title>
-            <link>https://www.elle.co.kr/article/76344</link>
-            <guid>https://www.elle.co.kr/article/76344</guid>
-            <pubDate>Thu, 30 Mar 2023 17:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[놀랍도록 새로운 얼굴로 탄생한 한옥 스테이. 시간이 천천히 흐르는 이곳에 아름드리 봄이 온다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/71d6261f-2573-437c-9387-0d806ff8b6f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[르 코르뷔지에의 제자 다비데 파카노브스키가 설계한 나폴리 해안 저택에 가다]]></title>
             <link>https://www.elle.co.kr/article/75658</link>
             <guid>https://www.elle.co.kr/article/75658</guid>
             <pubDate>Thu, 30 Mar 2023 17:45:34 GMT</pubDate>
             <content:encoded><![CDATA[대담한 합리주의 건축이 돋보이는 저택에 초대받았다. 다비데 파카노브스키가 설계한 '빌라 크레...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/3660a94d-160d-421c-9568-9998dbf6bc36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포토그래퍼 미카엘 올손의 자화상 프로젝트]]></title>
@@ -101,6 +94,13 @@
             <guid>https://www.elle.co.kr/article/75655</guid>
             <pubDate>Thu, 23 Mar 2023 17:42:35 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 업데이트! 지속가능한 대안 가구들]]></title>
+            <link>https://www.elle.co.kr/article/75654</link>
+            <guid>https://www.elle.co.kr/article/75654</guid>
+            <pubDate>Sun, 02 Apr 2023 05:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[지속가능한 삶을 위한 움직임. 그 역동적인 진화 속에 발견되어 탄생한 재료와 놀라운 미학.]]></content:encoded>
         </item>
     </channel>
 </rss>

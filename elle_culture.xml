@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 17:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 05:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 31 Mar 2023 17:41:23 GMT</pubDate>
             <content:encoded><![CDATA[웨스 앤더슨의 신작 ‘애스터로이드 시티’에 대한 모든 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/2f587c2f-5452-476d-9875-80acb344bf82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄날의 한옥 스테이]]></title>
-            <link>https://www.elle.co.kr/article/76344</link>
-            <guid>https://www.elle.co.kr/article/76344</guid>
-            <pubDate>Fri, 31 Mar 2023 17:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[놀랍도록 새로운 얼굴로 탄생한 한옥 스테이. 시간이 천천히 흐르는 이곳에 아름드리 봄이 온다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/71d6261f-2573-437c-9387-0d806ff8b6f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행에는 가벼운 책! 봄과 여름의 중간에 찾아온 짧은 소설 두 권]]></title>
@@ -69,6 +61,14 @@
             <pubDate>Thu, 30 Mar 2023 17:45:05 GMT</pubDate>
             <content:encoded><![CDATA[아틀리에 에르메스가 후원하는 &lt;크리스티앙 본느프와 : 토끼의 질주&gt; 전시를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/f6c4dca8-8bc5-4ae6-86df-67c3aa42ea3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOCK IN! 김경태와 박배, 티파니 락 컬렉션의 경이로운 조우]]></title>
+            <link>https://www.elle.co.kr/article/76231</link>
+            <guid>https://www.elle.co.kr/article/76231</guid>
+            <pubDate>Sun, 02 Apr 2023 05:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[믿을 수 없을 만큼 가까이 다가가 오랜 시간 사물의 물성을 관찰하는 아티스트 김경태. 움직이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/936f3f9c-e34e-4b2e-810c-6586749df730.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
