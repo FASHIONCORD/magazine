@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 17:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄날의 한옥 스테이]]></title>
+            <link>https://www.elle.co.kr/article/76344</link>
+            <guid>https://www.elle.co.kr/article/76344</guid>
+            <pubDate>Mon, 03 Apr 2023 17:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[놀랍도록 새로운 얼굴로 탄생한 한옥 스테이. 시간이 천천히 흐르는 이곳에 아름드리 봄이 온다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/fdcf2519-99a2-4b3b-8861-0cdae735a4c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에르메스가 48년생 그 작가를 주목한 이유?]]></title>
             <link>https://www.elle.co.kr/article/76241</link>
@@ -58,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/76093</guid>
             <pubDate>Tue, 28 Mar 2023 17:41:20 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/397b2cac-7b84-4e1c-9953-efac070bd4ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만에 'NO 마스크' 봄나들이 떠나볼까? 전국 벚꽃 축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/76044</link>
-            <guid>https://www.elle.co.kr/article/76044</guid>
-            <pubDate>Tue, 28 Mar 2023 05:41:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/ff5cd488-b586-4227-af30-7e4ec1fbce77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

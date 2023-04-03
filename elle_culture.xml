@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 17:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안도 타다오는 이제 무엇을 짓고 싶을까?]]></title>
+            <link>https://www.elle.co.kr/article/76393</link>
+            <guid>https://www.elle.co.kr/article/76393</guid>
+            <pubDate>Mon, 03 Apr 2023 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[“가진 건 핸디캡뿐이었다”고 고백하는 건축가의 업력이 어느덧 50년을 넘었다. 오는 4월, 한국...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/d6f7b686-9fba-4ae7-a5f8-fa819db7de69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정호연-조인성-황정민과 할리우드 배우 부부가 한 스크린에? '곡성' 나홍진 감독의 신작 '호프'!]]></title>
             <link>https://www.elle.co.kr/article/76392</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/76242</guid>
             <pubDate>Thu, 30 Mar 2023 17:45:05 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/c3b3c0eb-d459-4fd1-bbed-b038ed71664d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에르메스가 48년생 그 작가를 주목한 이유?]]></title>
-            <link>https://www.elle.co.kr/article/76241</link>
-            <guid>https://www.elle.co.kr/article/76241</guid>
-            <pubDate>Thu, 30 Mar 2023 17:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[아틀리에 에르메스가 후원하는 &lt;크리스티앙 본느프와 : 토끼의 질주&gt; 전시를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/f6c4dca8-8bc5-4ae6-86df-67c3aa42ea3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
