@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 17:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 05:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[번진 거 아니고 '오버 립']]></title>
+            <link>https://www.elle.co.kr/article/76196</link>
+            <guid>https://www.elle.co.kr/article/76196</guid>
+            <pubDate>Mon, 03 Apr 2023 05:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[예전 같으면 "너 입술 번졌어" 따위의 소리를 들었을 트렌드가 핫 이슈다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/4bf7516c-1748-49a3-ba3b-f23e74121c0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[번들거리고 땅기는 속 건조 단 번에 해결! 피부 타입별 수분 크림 추천_선배’s 어드바이스 #162]]></title>
+            <link>https://www.elle.co.kr/article/76186</link>
+            <guid>https://www.elle.co.kr/article/76186</guid>
+            <pubDate>Mon, 03 Apr 2023 05:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[기온은 올라가고 습도는 내려가는 봄, 유∙수분 밸런스가 깨진 내 피부에 맞는 수분 크림은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/170ac9b0-0a6d-4fcd-9af3-957ccfdcced5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 채정안의 보디 케어 잇템 6]]></title>
             <link>https://www.elle.co.kr/article/76150</link>
@@ -53,21 +69,6 @@
             <pubDate>Mon, 27 Mar 2023 05:39:57 GMT</pubDate>
             <content:encoded><![CDATA[춘분, 소주연의 얼굴에 피어난 봄의 절기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/21f3ce5a-fbdf-4986-b5e2-b7c93df6974d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[-6kg 감량 선언한 최강희! 40대에도 '최강동안' 유지하는 핵심 비결은 바로 이것? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/76011</link>
-            <guid>https://www.elle.co.kr/article/76011</guid>
-            <pubDate>Thu, 23 Mar 2023 17:41:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/53333153-4948-4608-9af6-e93adedb079e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 톤으로 말하다! 매혹적인 뉴 컬러 아이섀도 팔레트 7_선배’s 어드바이스 #161]]></title>
-            <link>https://www.elle.co.kr/article/75947</link>
-            <guid>https://www.elle.co.kr/article/75947</guid>
-            <pubDate>Thu, 23 Mar 2023 05:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[화려하게 돌아온 아이섀도 트렌드, 제대로 바르는 법은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/70b27917-d5d5-4908-81de-4f0ba29fdbe4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
