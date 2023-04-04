@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 05:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛으로 그려낸 사그라다 파밀리아! 아티스트 듀오 드리프트의 드론 프로젝트]]></title>
+            <link>https://www.elle.co.kr/article/75661</link>
+            <guid>https://www.elle.co.kr/article/75661</guid>
+            <pubDate>Tue, 04 Apr 2023 17:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[드리프트가 이뤄낸 예술과 기술의 아름다운 조우.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/12f8a8ee-926d-49aa-bf7f-7bd938f3c032.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/76464</link>
+            <guid>https://www.elle.co.kr/article/76464</guid>
+            <pubDate>Tue, 04 Apr 2023 17:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[흩날리는 벚꽃과 더없이 어울리는 회화 작품과 전 세계를 무대로 한 초대형 설치물.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7c957dba-a2f5-4ae5-a6c8-234cc595fbb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벤자민 카나렉이 거리 위에서 만난 사람들]]></title>
             <link>https://www.elle.co.kr/article/75660</link>
@@ -29,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/75659</guid>
             <pubDate>Fri, 31 Mar 2023 17:41:51 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/351735b4-cdb8-49f0-afc2-4601920f959b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안도 타다오는 이제 무엇을 짓고 싶을까?]]></title>
@@ -37,7 +52,6 @@
             <guid>https://www.elle.co.kr/article/76393</guid>
             <pubDate>Fri, 31 Mar 2023 17:41:51 GMT</pubDate>
             <content:encoded><![CDATA[“가진 건 핸디캡뿐이었다”고 고백하는 건축가의 업력이 어느덧 50년을 넘었다. 오는 4월, 한국...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/d6f7b686-9fba-4ae7-a5f8-fa819db7de69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르 코르뷔지에의 제자 다비데 파카노브스키가 설계한 나폴리 해안 저택에 가다]]></title>
@@ -87,20 +101,6 @@
             <guid>https://www.elle.co.kr/article/75656</guid>
             <pubDate>Sun, 26 Mar 2023 17:42:43 GMT</pubDate>
             <content:encoded><![CDATA[섬유공예가 박유진의 바구니보부터 김병규의 누비 매트까지, 솜씨와 미감의 결정체인 지금 시대의...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[웃기고, 귀엽고 다 한 야생동물 사진 어떻게 탄생했을까?]]></title>
-            <link>https://www.elle.co.kr/article/75997</link>
-            <guid>https://www.elle.co.kr/article/75997</guid>
-            <pubDate>Fri, 24 Mar 2023 05:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 ‘웃긴 야생동물 사진대회(The Comedy Wildlife)’에서 우승을 차지한 건 나무에서 미끄...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전형성을 벗어난 만화적 상상력! 작가 이학민의 유머러스한 좌표들 #더메이커스]]></title>
-            <link>https://www.elle.co.kr/article/75655</link>
-            <guid>https://www.elle.co.kr/article/75655</guid>
-            <pubDate>Thu, 23 Mar 2023 17:42:35 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
         </item>
     </channel>
 </rss>

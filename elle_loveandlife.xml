@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 05:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샛노란 유채꽃에 벚꽃, 푸른 바다까지? 보기만 해도 힐링되는 제주 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/76384</link>
+            <guid>https://www.elle.co.kr/article/76384</guid>
+            <pubDate>Tue, 04 Apr 2023 17:42:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/bb304409-2193-4d69-8255-c8b63568812c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛잘알 조현아 따라 맛집 투어 3]]></title>
             <link>https://www.elle.co.kr/article/76368</link>
@@ -60,13 +67,6 @@
             <pubDate>Thu, 30 Mar 2023 17:45:43 GMT</pubDate>
             <content:encoded><![CDATA[에스프레소 바부터 쇼핑 스폿까지, 가로수길을 제대로 즐기고 싶다면 주목하세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/26/f80669c7-dcd3-4b13-a0d4-b0a646974fbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벚꽃 명소 탐방하고 인생사진 찍어볼까? 호텔 봄캉스 패키지 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/76113</link>
-            <guid>https://www.elle.co.kr/article/76113</guid>
-            <pubDate>Tue, 28 Mar 2023 17:41:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/ad8eff35-fffc-4f4a-af51-ea7c24e6c20f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 05:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박철수의 아파트]]></title>
+            <link>https://www.elle.co.kr/article/76360</link>
+            <guid>https://www.elle.co.kr/article/76360</guid>
+            <pubDate>Tue, 04 Apr 2023 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[여기, 보통의 집을 천천히 살필 수 있어 행복했다는 한 건축학자가 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/602914f8-49f7-430a-91b5-b24ba5344ee4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최전방의 실험! 머디캡의 한없이 자유로운 디지털 의자들 #더메이커스]]></title>
+            <link>https://www.elle.co.kr/article/75659</link>
+            <guid>https://www.elle.co.kr/article/75659</guid>
+            <pubDate>Tue, 04 Apr 2023 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/351735b4-cdb8-49f0-afc2-4601920f959b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안도 타다오는 이제 무엇을 짓고 싶을까?]]></title>
             <link>https://www.elle.co.kr/article/76393</link>
@@ -54,21 +70,6 @@
             <pubDate>Fri, 31 Mar 2023 17:41:23 GMT</pubDate>
             <content:encoded><![CDATA[레오나르도 디카프리오와 데이트를하고, 영화제 레드 카펫을 밟고. 아빠가 영화 감독이면 고양이에...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/98a404f7-20a6-4929-92ea-eb2d9e0ec6d4.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[포토그래퍼 미카엘 올손의 자화상 프로젝트]]></title>
-            <link>https://www.elle.co.kr/article/75657</link>
-            <guid>https://www.elle.co.kr/article/75657</guid>
-            <pubDate>Fri, 31 Mar 2023 05:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[2007년에 시작한 그의 자화상 프로젝트는 세계를 잇는 여행의 자취와 자신의 정체성을 연결시킨다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/eac46438-baae-426a-81fd-7c96762f2be7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '스즈메의 문단속' 300만 돌파! '너의 이름은' 기록도 넘어설까? (ft.신카이 감독 내한)]]></title>
-            <link>https://www.elle.co.kr/article/76242</link>
-            <guid>https://www.elle.co.kr/article/76242</guid>
-            <pubDate>Thu, 30 Mar 2023 17:45:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/c3b3c0eb-d459-4fd1-bbed-b038ed71664d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

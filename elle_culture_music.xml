@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 05:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/76459</link>
+            <guid>https://www.elle.co.kr/article/76459</guid>
+            <pubDate>Tue, 04 Apr 2023 17:41:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/658d8810-aaf1-4e7b-95f8-e338e019d341.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첫 솔로앨범 낸 BTS 지민, 美 '지미 팰런쇼' 뜨겁게 달군 한 마디는? (ft.최애 별명)]]></title>
             <link>https://www.elle.co.kr/article/76129</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/75081</link>
             <guid>https://www.elle.co.kr/article/75081</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/cef4f469-b596-4da3-9b12-8c56d3e7682c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상처에는 역시 금융 치료? 2023년 벌써 대박 난 전 남편 저격송 2]]></title>
@@ -86,13 +92,6 @@
             <guid>https://www.elle.co.kr/article/73821</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
             <content:encoded><![CDATA[어머니의 죽음으로 피어난 카코포니의 음악]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[베일에 싸인 ‘제6의 멤버’는 누구? 뉴진스, 신곡 ‘디토’ 공개!]]></title>
-            <link>https://www.elle.co.kr/article/73572</link>
-            <guid>https://www.elle.co.kr/article/73572</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[학창 시절 기억 제대로 조작하는 몽환적인 뮤직비디오, 뉴진스가 또 뉴진스했다!]]></content:encoded>
         </item>
     </channel>
 </rss>

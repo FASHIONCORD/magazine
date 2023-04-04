@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 05:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 J12가 말하는 결정적 순간]]></title>
+            <link>https://www.elle.co.kr/article/76411</link>
+            <guid>https://www.elle.co.kr/article/76411</guid>
+            <pubDate>Tue, 04 Apr 2023 17:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 워치의 아이콘 J12는 꾸준히 진화한다. J12의 새로운 캠페인 ‘IT’S ALL ABOUT SECO...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/190c138e-786c-4abc-b210-c9276889ceb5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모델 릴리 알드리지가 상상한 위크엔드 막스 마라]]></title>
+            <link>https://www.elle.co.kr/article/76405</link>
+            <guid>https://www.elle.co.kr/article/76405</guid>
+            <pubDate>Tue, 04 Apr 2023 17:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[모델 릴리 앨드리지 (Lily Aldridge)의 경험과 감각이 녹아든 특별한 컬렉션이 공개됐다. 여행의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/30548c3a-0aa4-4b1a-b802-9a870ba38f77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우아함과 트렌디함을 겸비한 트위드 재킷 #쇼핑리스트]]></title>
             <link>https://www.elle.co.kr/article/76404</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 01 Apr 2023 17:40:35 GMT</pubDate>
             <content:encoded><![CDATA[지금, 이 계절에 빠질 수 없는 데님 패션이 한층 더 진화했습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/29174b8f-f65d-46ca-b888-c99e07bc911c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타고난 연기 천재 고양이, 묘생 6년차 '아울 키티' 타이타닉에 등장?]]></title>
-            <link>https://www.elle.co.kr/article/76316</link>
-            <guid>https://www.elle.co.kr/article/76316</guid>
-            <pubDate>Sat, 01 Apr 2023 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[레오나르도 디카프리오와 데이트를하고, 영화제 레드 카펫을 밟고. 아빠가 영화 감독이면 고양이에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/98a404f7-20a6-4929-92ea-eb2d9e0ec6d4.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[신발 입구가 두 개? '아톰 부츠'를 뒤잇는 미스치프의 새로운 스니커즈!]]></title>
-            <link>https://www.elle.co.kr/article/76314</link>
-            <guid>https://www.elle.co.kr/article/76314</guid>
-            <pubDate>Sat, 01 Apr 2023 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[신발 거꾸로 신은 거 맞습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/006fac57-c2fa-4d48-8022-5b4c339f78b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
