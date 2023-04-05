@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 17:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 05:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리 느낌 물씬! 성수동 신상 카페]]></title>
+            <link>https://www.elle.co.kr/article/76381</link>
+            <guid>https://www.elle.co.kr/article/76381</guid>
+            <pubDate>Wed, 05 Apr 2023 05:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[파리의 정취를 고스란히 담은 성수동 신상 카페 두 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/1939a687-14c0-48eb-954f-607290dabe35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샛노란 유채꽃에 벚꽃, 푸른 바다까지? 보기만 해도 힐링되는 제주 명소 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/76384</link>
@@ -59,14 +67,6 @@
             <pubDate>Fri, 31 Mar 2023 05:41:43 GMT</pubDate>
             <content:encoded><![CDATA[&lt;채소의 계절&gt;을 펼쳤다. 요리사 재인이 채소와 함께 살아낸 열두 달의 기록을.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a69502fc-7dfc-441d-978a-708346b1faf0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주우재가 단골 인증한 가로수길 핫플은 어디?]]></title>
-            <link>https://www.elle.co.kr/article/76140</link>
-            <guid>https://www.elle.co.kr/article/76140</guid>
-            <pubDate>Thu, 30 Mar 2023 17:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[에스프레소 바부터 쇼핑 스폿까지, 가로수길을 제대로 즐기고 싶다면 주목하세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/26/f80669c7-dcd3-4b13-a0d4-b0a646974fbd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
