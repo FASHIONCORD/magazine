@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 05:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 17:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트']]></title>
+            <link>https://www.elle.co.kr/article/76493</link>
+            <guid>https://www.elle.co.kr/article/76493</guid>
+            <pubDate>Wed, 05 Apr 2023 17:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/76459</link>
@@ -33,7 +41,6 @@
             <link>https://www.elle.co.kr/article/75387</link>
             <guid>https://www.elle.co.kr/article/75387</guid>
             <pubDate>Tue, 28 Feb 2023 05:41:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/6d04b1cc-47ee-49ee-bba4-b3ba7c3cce98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해체 NO! '역주행 걸그룹' 브레이브걸스가 계약만료에 전한 심경]]></title>
@@ -85,13 +92,6 @@
             <guid>https://www.elle.co.kr/article/74075</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
             <content:encoded><![CDATA[자유, 평화, 사랑의 메시지를 고스란히 담았다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자기확신의 목소리, 카코포니 #2주의뮤지션]]></title>
-            <link>https://www.elle.co.kr/article/73821</link>
-            <guid>https://www.elle.co.kr/article/73821</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[어머니의 죽음으로 피어난 카코포니의 음악]]></content:encoded>
         </item>
     </channel>
 </rss>
