@@ -4,16 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 17:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 05:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폴 스미스가 디자인한 호텔?]]></title>
+            <link>https://www.elle.co.kr/article/76509</link>
+            <guid>https://www.elle.co.kr/article/76509</guid>
+            <pubDate>Thu, 06 Apr 2023 05:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[문고리부터 남다른 브라운스 호텔의 ‘폴 스미스 경 스위트’ 룸이 오픈했습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/7cbae634-3ccd-4475-a98b-51e54be4cfdc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛으로 그려낸 사그라다 파밀리아! 아티스트 듀오 드리프트의 드론 프로젝트]]></title>
             <link>https://www.elle.co.kr/article/75661</link>
             <guid>https://www.elle.co.kr/article/75661</guid>
             <pubDate>Tue, 04 Apr 2023 17:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[드리프트가 이뤄낸 예술과 기술의 아름다운 조우.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/12f8a8ee-926d-49aa-bf7f-7bd938f3c032.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[드리프트에게 예술과 기술의 아름다운 조우에 대해 물었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/04668df1-4264-41a1-8002-cde7db4d200d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3]]></title>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76360</guid>
             <pubDate>Fri, 31 Mar 2023 17:41:51 GMT</pubDate>
             <content:encoded><![CDATA[보통의 집을 천천히 살필 수 있어 행복했다는 한 건축학자가 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/602914f8-49f7-430a-91b5-b24ba5344ee4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최전방의 실험! 머디캡의 한없이 자유로운 디지털 의자들 #더메이커스]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/76195</guid>
             <pubDate>Mon, 27 Mar 2023 17:41:11 GMT</pubDate>
             <content:encoded><![CDATA[단색 배경의 애니메이션 캐릭터가 눈물을 흘리는 ‘아이워터’ 시리즈로 글로벌 아트 신을 뜨겁게...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새 시대의 공예가들이 전통 속에 녹인 오색찬연한 감각]]></title>
-            <link>https://www.elle.co.kr/article/75656</link>
-            <guid>https://www.elle.co.kr/article/75656</guid>
-            <pubDate>Sun, 26 Mar 2023 17:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[섬유공예가 박유진의 바구니보부터 김병규의 누비 매트까지, 솜씨와 미감의 결정체인 지금 시대의...]]></content:encoded>
         </item>
     </channel>
 </rss>

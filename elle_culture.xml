@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 17:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 05:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버닝썬 소환? 이제훈 활약 돋보이는 '모범택시2' 관전 포인트 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/76435</link>
+            <guid>https://www.elle.co.kr/article/76435</guid>
+            <pubDate>Thu, 06 Apr 2023 05:40:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/d3dccca1-b167-468d-bf5e-a1c7a81a4584.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벤자민 카나렉이 거리 위에서 만난 사람들]]></title>
             <link>https://www.elle.co.kr/article/75660</link>
@@ -62,14 +69,6 @@
             <pubDate>Fri, 31 Mar 2023 17:41:23 GMT</pubDate>
             <content:encoded><![CDATA[중단편 모음집 소설보다 봄, 그리고 성해나 작가의 신간 두고온여름]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/9d97e10d-54c7-4e6e-8304-750c3d73245d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르 코르뷔지에의 제자 다비데 파카노브스키가 설계한 나폴리 해안 저택에 가다]]></title>
-            <link>https://www.elle.co.kr/article/75658</link>
-            <guid>https://www.elle.co.kr/article/75658</guid>
-            <pubDate>Fri, 31 Mar 2023 17:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[대담한 합리주의 건축이 돋보이는 저택에 초대받았다. 다비데 파카노브스키가 설계한 '빌라 크레...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/3660a94d-160d-421c-9568-9998dbf6bc36.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

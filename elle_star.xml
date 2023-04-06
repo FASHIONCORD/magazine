@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 17:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 05:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식목일, 단비와 함께 찾아온 러브! 허니제이가 직접 공개한 딸 사진.jpg]]></title>
+            <link>https://www.elle.co.kr/article/76485</link>
+            <guid>https://www.elle.co.kr/article/76485</guid>
+            <pubDate>Thu, 06 Apr 2023 05:39:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/340da3ea-cd85-44e2-8d4c-e211f055baea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혼자라고 대충 먹지 말아요. 혼밥러를 위한 레서피 5]]></title>
             <link>https://www.elle.co.kr/article/76480</link>
@@ -59,14 +66,6 @@
             <pubDate>Wed, 05 Apr 2023 05:40:08 GMT</pubDate>
             <content:encoded><![CDATA[지드래곤부터 두아 리파까지, 이번 시즌에는 빈티지 레더 재킷이 유행입니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/d1992af2-edf4-401e-8c56-e187b1f49f26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 여왕들이 나타났다. 퀸메이커의 두 배우 김희애와 문소리]]></title>
-            <link>https://www.elle.co.kr/article/76419</link>
-            <guid>https://www.elle.co.kr/article/76419</guid>
-            <pubDate>Wed, 05 Apr 2023 05:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[흑과 백, 이기심과 이타심, 유연과 강직함. 모든것이 대립하며 합쳐지는 정치판 위에 두 여자가...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/a1c53ec8-8cf7-4a15-82ec-4d4b84bf56b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

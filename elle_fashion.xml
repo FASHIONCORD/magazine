@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 17:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 05:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낡을수록 좋아! 빈티지 레더 재킷의 매력]]></title>
+            <link>https://www.elle.co.kr/article/76442</link>
+            <guid>https://www.elle.co.kr/article/76442</guid>
+            <pubDate>Thu, 06 Apr 2023 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[지드래곤부터 두아 리파까지, 이번 시즌에는 빈티지 레더 재킷이 유행입니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/d1992af2-edf4-401e-8c56-e187b1f49f26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지속 가능한 니트 브랜드 '에이 뢰게 호베']]></title>
             <link>https://www.elle.co.kr/article/76416</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 03 Apr 2023 17:40:05 GMT</pubDate>
             <content:encoded><![CDATA[잠시 세로와 헤어질 결심.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/ea301972-0241-4e2f-824a-7556f2782df7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVE ON! 디올의 2023 가을 여성 컬렉션 라이브]]></title>
-            <link>https://www.elle.co.kr/article/76219</link>
-            <guid>https://www.elle.co.kr/article/76219</guid>
-            <pubDate>Sun, 02 Apr 2023 17:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[함께 감상해요! 한국시간으로 3월 31일 금요일 자정, 인도 뭄바이에서 열리는 마리아 그라치아 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/ede56d0f-568d-43ec-9fe6-28130a28e3dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

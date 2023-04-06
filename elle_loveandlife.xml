@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 17:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 05:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 시즌 한정! 전국 벚꽃 뷰 카페 3]]></title>
+            <link>https://www.elle.co.kr/article/76396</link>
+            <guid>https://www.elle.co.kr/article/76396</guid>
+            <pubDate>Thu, 06 Apr 2023 05:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[아직 늦지 않았어요, 창밖으로 만개한 벚꽃을 만끽할 수 있는 카페 세 곳을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/44bb57bf-ce33-4847-bb62-e26599ebc064.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파리 느낌 물씬! 성수동 신상 카페]]></title>
             <link>https://www.elle.co.kr/article/76381</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/76208</guid>
             <pubDate>Fri, 31 Mar 2023 17:42:01 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/ad154bb5-4ae6-40bc-ad68-3ec55ab891a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채소와 함께한 시간]]></title>
-            <link>https://www.elle.co.kr/article/76194</link>
-            <guid>https://www.elle.co.kr/article/76194</guid>
-            <pubDate>Fri, 31 Mar 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;채소의 계절&gt;을 펼쳤다. 요리사 재인이 채소와 함께 살아낸 열두 달의 기록을.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a69502fc-7dfc-441d-978a-708346b1faf0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
