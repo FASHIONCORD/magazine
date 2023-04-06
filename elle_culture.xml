@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 05:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 17:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/76459</link>
+            <guid>https://www.elle.co.kr/article/76459</guid>
+            <pubDate>Thu, 06 Apr 2023 17:40:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/658d8810-aaf1-4e7b-95f8-e338e019d341.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버닝썬 소환? 이제훈 활약 돋보이는 '모범택시2' 관전 포인트 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/76435</link>
@@ -61,14 +68,6 @@
             <pubDate>Fri, 31 Mar 2023 17:41:23 GMT</pubDate>
             <content:encoded><![CDATA[웨스 앤더슨의 신작 ‘애스터로이드 시티’에 대한 모든 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/2f587c2f-5452-476d-9875-80acb344bf82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행에는 가벼운 책! 봄과 여름의 중간에 찾아온 짧은 소설 두 권]]></title>
-            <link>https://www.elle.co.kr/article/76367</link>
-            <guid>https://www.elle.co.kr/article/76367</guid>
-            <pubDate>Fri, 31 Mar 2023 17:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[중단편 모음집 소설보다 봄, 그리고 성해나 작가의 신간 두고온여름]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/9d97e10d-54c7-4e6e-8304-750c3d73245d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

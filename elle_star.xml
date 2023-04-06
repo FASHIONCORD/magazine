@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 05:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 17:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이효리, '텐미닛' 레전드 무대 재현했다고? 진해에서 포착된 '댄스가수 유랑단' 정보]]></title>
+            <link>https://www.elle.co.kr/article/76491</link>
+            <guid>https://www.elle.co.kr/article/76491</guid>
+            <pubDate>Thu, 06 Apr 2023 17:40:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/dab43a0b-4869-43b9-b1db-bface2c3c78c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연예계 대표 소식좌였던 코쿤! 8kg 증량하며 몰라보게 달라진 계기는? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/76487</link>
+            <guid>https://www.elle.co.kr/article/76487</guid>
+            <pubDate>Thu, 06 Apr 2023 17:40:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/3e96d188-6524-4367-8d86-a723af82d91f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식목일, 단비와 함께 찾아온 러브! 허니제이가 직접 공개한 딸 사진.jpg]]></title>
             <link>https://www.elle.co.kr/article/76485</link>
@@ -51,21 +65,6 @@
             <pubDate>Wed, 05 Apr 2023 17:41:09 GMT</pubDate>
             <content:encoded><![CDATA[서울에서 만난 제니와 샤넬 22백의 메모리 필름이 공개됐다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/4444c2f0-1f30-4ebc-adf4-3101cf48e459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국형 팝 재즈 디바, 가수 현미가 85세를 일기로 세상을 떠났다]]></title>
-            <link>https://www.elle.co.kr/article/76454</link>
-            <guid>https://www.elle.co.kr/article/76454</guid>
-            <pubDate>Wed, 05 Apr 2023 05:40:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/c0271c4e-7a42-4894-a916-7d92cb47795a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낡을수록 좋아! 빈티지 레더 재킷의 매력]]></title>
-            <link>https://www.elle.co.kr/article/76442</link>
-            <guid>https://www.elle.co.kr/article/76442</guid>
-            <pubDate>Wed, 05 Apr 2023 05:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[지드래곤부터 두아 리파까지, 이번 시즌에는 빈티지 레더 재킷이 유행입니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/d1992af2-edf4-401e-8c56-e187b1f49f26.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

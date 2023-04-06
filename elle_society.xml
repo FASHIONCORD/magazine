@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 05:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 17:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗GPT에게 지속 가능한 미래에 대해 물었다]]></title>
+            <link>https://www.elle.co.kr/article/76370</link>
+            <guid>https://www.elle.co.kr/article/76370</guid>
+            <pubDate>Thu, 06 Apr 2023 17:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[점점 단축되고 있는 지구 수명에 대한 문제는 단지 인간만의 고민일까? 대화전문 인공지능 챗G...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/8b311d51-4118-4f65-aa79-f21ca5565f2f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['카지노'가 경고한 인생 최악의 3대 중독, 도박_돈쓸신잡 #91]]></title>
             <link>https://www.elle.co.kr/article/76333</link>
@@ -59,14 +67,6 @@
             <pubDate>Mon, 27 Mar 2023 17:41:42 GMT</pubDate>
             <content:encoded><![CDATA[인형의 집으로 오세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/5c0e34ca-9d67-494e-9feb-8b68b0bd2662.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르 보이스] 철학자 셰프와 먹고마시즘]]></title>
-            <link>https://www.elle.co.kr/article/75882</link>
-            <guid>https://www.elle.co.kr/article/75882</guid>
-            <pubDate>Thu, 23 Mar 2023 17:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[셰프의 테이블과 어서와 한국은 처음이지에서 길어올린 셰프의 철학.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/d8d50ef8-6415-442a-a665-94be9da1b66f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
