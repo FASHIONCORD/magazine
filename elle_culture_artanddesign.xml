@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 17:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 05:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금요일엔 시골집으로 퇴근합니다 #아웃오브서울]]></title>
+            <link>https://www.elle.co.kr/article/75662</link>
+            <guid>https://www.elle.co.kr/article/75662</guid>
+            <pubDate>Fri, 07 Apr 2023 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[책 &lt;금요일엔 시골집으로 퇴근합니다&gt;의 저자. 평일에는 리빙 MD로 주말에는 작가이자 주말 농부...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/ae0df1e9-3b82-4239-b07a-bfd0a49e023a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴 스미스가 디자인한 호텔?]]></title>
             <link>https://www.elle.co.kr/article/76509</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/75660</guid>
             <pubDate>Sun, 02 Apr 2023 17:41:57 GMT</pubDate>
             <content:encoded><![CDATA[패션 포토그래퍼 벤자민 카나렉은 여느 매그넘의 사진가처럼 파리 구석구석을 누비며 사람들의 이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/bb707a77-8040-48e5-8a14-4e3e4a157448.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박철수의 아파트]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/76198</guid>
             <pubDate>Mon, 27 Mar 2023 17:41:11 GMT</pubDate>
             <content:encoded><![CDATA[하이디 부허 첫 회고전 &lt;하이디 부허- 공간은 피막, 피부&gt; 및 박론디, 박보마, 우한나의 &lt;리빙인...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유야 하시즈메가 왔다]]></title>
-            <link>https://www.elle.co.kr/article/76195</link>
-            <guid>https://www.elle.co.kr/article/76195</guid>
-            <pubDate>Mon, 27 Mar 2023 17:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[단색 배경의 애니메이션 캐릭터가 눈물을 흘리는 ‘아이워터’ 시리즈로 글로벌 아트 신을 뜨겁게...]]></content:encoded>
         </item>
     </channel>
 </rss>

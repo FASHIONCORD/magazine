@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 17:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 05:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트']]></title>
+            <link>https://www.elle.co.kr/article/76493</link>
+            <guid>https://www.elle.co.kr/article/76493</guid>
+            <pubDate>Fri, 07 Apr 2023 05:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이효리, '텐미닛' 레전드 무대 재현했다고? 진해에서 포착된 '댄스가수 유랑단' 정보]]></title>
             <link>https://www.elle.co.kr/article/76491</link>
@@ -57,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/76457</guid>
             <pubDate>Wed, 05 Apr 2023 17:41:09 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/e20f987a-e1a3-4075-a8e0-82e4843027dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니의 뉴 베스트 프렌드]]></title>
-            <link>https://www.elle.co.kr/article/76456</link>
-            <guid>https://www.elle.co.kr/article/76456</guid>
-            <pubDate>Wed, 05 Apr 2023 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[서울에서 만난 제니와 샤넬 22백의 메모리 필름이 공개됐다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/4444c2f0-1f30-4ebc-adf4-3101cf48e459.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
