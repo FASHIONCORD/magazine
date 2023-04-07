@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 05:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 17:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/76464</link>
+            <guid>https://www.elle.co.kr/article/76464</guid>
+            <pubDate>Fri, 07 Apr 2023 17:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[흩날리는 벚꽃과 더없이 어울리는 회화 작품과 전 세계를 무대로 한 초대형 설치물.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7c957dba-a2f5-4ae5-a6c8-234cc595fbb0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 아이가 있으세요? 동심의 눈으로 바라본 더 초록초록한 세계]]></title>
+            <link>https://www.elle.co.kr/article/76407</link>
+            <guid>https://www.elle.co.kr/article/76407</guid>
+            <pubDate>Fri, 07 Apr 2023 17:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[동물을 보호하고 싶어하는 아이의 꿈은 어쩌다 사육사가 됐을까? 아이의 눈에서 함께 맞춰나가야...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/8edeeeec-96fb-4839-8afe-4ed2d14d1b00.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[챗GPT에게 지속 가능한 미래에 대해 물었다]]></title>
             <link>https://www.elle.co.kr/article/76370</link>
@@ -52,21 +68,6 @@
             <pubDate>Fri, 31 Mar 2023 17:42:10 GMT</pubDate>
             <content:encoded><![CDATA[최근 충격을 준 '나는 신이다'와도 관련이 있다는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/c988f85b-d443-4134-b3d8-0ee3090ceb0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Z세대' 대학생들이 가장 많이 사용하는 은행 앱 1위는?]]></title>
-            <link>https://www.elle.co.kr/article/76018</link>
-            <guid>https://www.elle.co.kr/article/76018</guid>
-            <pubDate>Thu, 30 Mar 2023 05:42:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/c57be3aa-a644-452c-b3c6-42ee8484c7d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동심의 세계로 이끄는 바비의 핑크 옷장]]></title>
-            <link>https://www.elle.co.kr/article/75881</link>
-            <guid>https://www.elle.co.kr/article/75881</guid>
-            <pubDate>Mon, 27 Mar 2023 17:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[인형의 집으로 오세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/5c0e34ca-9d67-494e-9feb-8b68b0bd2662.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
