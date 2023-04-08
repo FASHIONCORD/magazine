@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 17:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 05:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일타강사 이지영! 바쁜 스케줄 가운데 14kg 감량할 수 있었던 핵심 비결 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/76350</link>
+            <guid>https://www.elle.co.kr/article/76350</guid>
+            <pubDate>Sat, 08 Apr 2023 05:40:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/a8bf1765-8f36-4b5d-81d2-48cf940f19e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월 쇼핑 1순위! 자외선 차단 베이스]]></title>
             <link>https://www.elle.co.kr/article/76315</link>
@@ -61,14 +68,6 @@
             <pubDate>Wed, 29 Mar 2023 18:09:22 GMT</pubDate>
             <content:encoded><![CDATA[에디터가 실제로 겪은 무서운 요요 부작용]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/50de72bc-b77e-4b6d-8ae1-e0908de9c263.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황민현과 클라랑스의 만남]]></title>
-            <link>https://www.elle.co.kr/article/76025</link>
-            <guid>https://www.elle.co.kr/article/76025</guid>
-            <pubDate>Mon, 27 Mar 2023 17:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[성숙한 분위기로 카메라 앞에서 남다른 존재감을 발산하는 황민현과 클라랑스가 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/885ae1ff-8adb-4fa9-9ae7-808fe23ec202.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
