@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 05:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 17:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로제와 정호연이 선택한 화제의 아이템! 지금은 댕기의 매력에 빠질 시간]]></title>
+            <link>https://www.elle.co.kr/article/76512</link>
+            <guid>https://www.elle.co.kr/article/76512</guid>
+            <pubDate>Sun, 09 Apr 2023 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계에 한국의 전통적인 미를 외치다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/5729f158-7eb4-4a1e-80f0-1f3e49844319.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["바비는 모든 것이고, 켄은 그저 켄이다": 개봉 앞둔 실사판 '바비'가 말하려는 것]]></title>
             <link>https://www.elle.co.kr/article/76511</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/76485</guid>
             <pubDate>Thu, 06 Apr 2023 05:39:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/340da3ea-cd85-44e2-8d4c-e211f055baea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼자라고 대충 먹지 말아요. 혼밥러를 위한 레서피 5]]></title>
-            <link>https://www.elle.co.kr/article/76480</link>
-            <guid>https://www.elle.co.kr/article/76480</guid>
-            <pubDate>Wed, 05 Apr 2023 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 하루 고생한 나를 위해! 강민경이 알려주는 초간단 혼밥 레서피를 참고해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/c968c68d-918f-490a-acab-654f41aedd36.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
