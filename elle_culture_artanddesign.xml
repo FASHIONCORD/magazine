@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 17:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 05:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주의 땅과 돌, 바람과 숲으로 빚은 유동룡미술관]]></title>
+            <link>https://www.elle.co.kr/article/76260</link>
+            <guid>https://www.elle.co.kr/article/76260</guid>
+            <pubDate>Sun, 09 Apr 2023 05:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[유동룡 미술관은 제주의 자연과 조화를 이루고 조응하는 방식을 고민한 결과이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/2df9e914-7692-43b8-9e2d-19d7ccb3a431.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금요일엔 시골집으로 퇴근합니다 #아웃오브서울]]></title>
             <link>https://www.elle.co.kr/article/75662</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76464</guid>
             <pubDate>Tue, 04 Apr 2023 17:41:59 GMT</pubDate>
             <content:encoded><![CDATA[흩날리는 벚꽃과 더없이 어울리는 회화 작품과 전 세계를 무대로 한 초대형 설치물.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7c957dba-a2f5-4ae5-a6c8-234cc595fbb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벤자민 카나렉이 거리 위에서 만난 사람들]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/76231</guid>
             <pubDate>Tue, 28 Mar 2023 17:41:03 GMT</pubDate>
             <content:encoded><![CDATA[믿을 수 없을 만큼 가까이 다가가 오랜 시간 사물의 물성을 관찰하는 아티스트 김경태. 움직이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아트 선재로 가자]]></title>
-            <link>https://www.elle.co.kr/article/76198</link>
-            <guid>https://www.elle.co.kr/article/76198</guid>
-            <pubDate>Mon, 27 Mar 2023 17:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[하이디 부허 첫 회고전 &lt;하이디 부허- 공간은 피막, 피부&gt; 및 박론디, 박보마, 우한나의 &lt;리빙인...]]></content:encoded>
         </item>
     </channel>
 </rss>

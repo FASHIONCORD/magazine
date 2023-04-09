@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 17:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 05:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로제와 정호연이 선택한 화제의 아이템! 지금은 댕기의 매력에 빠질 시간]]></title>
+            <link>https://www.elle.co.kr/article/76512</link>
+            <guid>https://www.elle.co.kr/article/76512</guid>
+            <pubDate>Sun, 09 Apr 2023 05:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계에 한국의 전통적인 미를 외치다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/5729f158-7eb4-4a1e-80f0-1f3e49844319.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식을 줄 모르는 인기! 카고 팬츠 스타일링 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/76499</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 05 Apr 2023 17:40:47 GMT</pubDate>
             <content:encoded><![CDATA['니트'로 승부수를 둔 디자이너 아말리 뢰게 호베의 대담한 가능성.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/5c66bc0a-ef0c-4b5f-ae86-1c88869d2b65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃보다 최애]]></title>
-            <link>https://www.elle.co.kr/article/76427</link>
-            <guid>https://www.elle.co.kr/article/76427</guid>
-            <pubDate>Wed, 05 Apr 2023 17:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[벚꽃 앞에서 근황을 전한 스타 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/eba26d2d-9694-4383-93e1-a41eb4610736.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
