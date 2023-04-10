@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 17:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 리더는 필요하다. 당신이 그 리더가 되어도 좋다]]></title>
+            <link>https://www.elle.co.kr/article/76455</link>
+            <guid>https://www.elle.co.kr/article/76455</guid>
+            <pubDate>Mon, 10 Apr 2023 17:41:34 GMT</pubDate>
+            <content:encoded><![CDATA[심수미 기자가 '거봐, 내 말 듣기 잘했지?'라고 말하며 웃을 수 있었던 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/c834b484-876f-4712-be9c-6e969cdaf476.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이우환부터 에드워드 호퍼까지, 봄바람과 함께 찾아온 전시 3]]></title>
             <link>https://www.elle.co.kr/article/76464</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/76074</guid>
             <pubDate>Sun, 02 Apr 2023 17:42:48 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/3bbe4779-2325-4c1e-a1ef-977cdf1a5baa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그알'서 불발된 故 김성재 사건, OTT로 볼 수 있게 되나?]]></title>
-            <link>https://www.elle.co.kr/article/76053</link>
-            <guid>https://www.elle.co.kr/article/76053</guid>
-            <pubDate>Fri, 31 Mar 2023 17:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[최근 충격을 준 '나는 신이다'와도 관련이 있다는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/c988f85b-d443-4134-b3d8-0ee3090ceb0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 17:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만개한 벚꽃! 본격 꽃놀이 시즌, 봄기운을 더해줄 송파-용산-성수 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/76452</link>
+            <guid>https://www.elle.co.kr/article/76452</guid>
+            <pubDate>Mon, 10 Apr 2023 17:41:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/f6032c6d-5fd2-4fe1-9ec8-da2faab71b1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃보다 최애]]></title>
             <link>https://www.elle.co.kr/article/76427</link>
@@ -61,13 +68,6 @@
             <pubDate>Sat, 01 Apr 2023 05:40:58 GMT</pubDate>
             <content:encoded><![CDATA[아틀리에 에르메스가 후원하는 &lt;크리스티앙 본느프와 : 토끼의 질주&gt; 전시를 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/f6c4dca8-8bc5-4ae6-86df-67c3aa42ea3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱 그 자체! 반짝이는 야경을 만끽할 수 있는 전국 빛 축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/76232</link>
-            <guid>https://www.elle.co.kr/article/76232</guid>
-            <pubDate>Fri, 31 Mar 2023 17:42:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/177baeda-c624-4937-b577-9d43797f5957.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
