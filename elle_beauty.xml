@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 17:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 05:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탄력 있는 얼굴 선 케어]]></title>
+            <link>https://www.elle.co.kr/article/75944</link>
+            <guid>https://www.elle.co.kr/article/75944</guid>
+            <pubDate>Mon, 10 Apr 2023 05:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[점점 탄력을 잃어가는 피부 때문에 고민이라면 LG 프라엘 ‘더마쎄라’로 무너진 얼굴 라인을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/c9a584cd-fed9-4100-a38b-3981c73b68e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찰랑거리는 긴 머리 유지 비결은? 톱모델 김성희의 헤어 관리 Tip]]></title>
+            <link>https://www.elle.co.kr/article/76410</link>
+            <guid>https://www.elle.co.kr/article/76410</guid>
+            <pubDate>Mon, 10 Apr 2023 05:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[시크한 긴 생머리의 소유자, 김성희가 알려주는 헤어 관리법이 궁금하다면 지금 당장 클릭하세요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/1c6e0c04-83c0-4f89-9536-649c01652871.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일타강사 이지영! 바쁜 스케줄 가운데 14kg 감량할 수 있었던 핵심 비결 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/76350</link>
@@ -53,21 +69,6 @@
             <pubDate>Thu, 30 Mar 2023 17:44:45 GMT</pubDate>
             <content:encoded><![CDATA[건조하고 거친 피부는 굿바이! 매끈한 피부로 거듭나기 위해 채정안이 사용하는 보디 케어 뷰티...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c4e389d5-b0de-454d-a853-34d00e231111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[34kg 감량에 건강미까지? '박성광 전 매니저' 임송의 체중 감량 노하우 총정리! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/76089</link>
-            <guid>https://www.elle.co.kr/article/76089</guid>
-            <pubDate>Wed, 29 Mar 2023 18:09:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/fe83b810-5d8c-463f-8f88-bd1ae82f040d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 요요가 과체중으로 사는 것보다 더 해로운 이유 #다이어터디터]]></title>
-            <link>https://www.elle.co.kr/article/76064</link>
-            <guid>https://www.elle.co.kr/article/76064</guid>
-            <pubDate>Wed, 29 Mar 2023 18:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[에디터가 실제로 겪은 무서운 요요 부작용]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/50de72bc-b77e-4b6d-8ae1-e0908de9c263.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
