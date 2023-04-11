@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 17:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 05:42:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["톱 맨, 톱 플레이어": 손흥민 100골 달성! 그가 EPL에서 쓴 '아시안 최초'의 역사.list]]></title>
+            <link>https://www.elle.co.kr/article/76568</link>
+            <guid>https://www.elle.co.kr/article/76568</guid>
+            <pubDate>Tue, 11 Apr 2023 05:40:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/79804ce1-047e-43d0-a9de-7e43827189f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤은혜가 알려주는 두근두근 봄 메이크업 HOW TO]]></title>
+            <link>https://www.elle.co.kr/article/76551</link>
+            <guid>https://www.elle.co.kr/article/76551</guid>
+            <pubDate>Tue, 11 Apr 2023 05:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[따스한 햇살 비추는 봄날엔 이렇게! 금손 윤은혜에게 러블리한 봄 메이크업을 배워보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/2f1ea792-1b84-4e6f-95a7-18556b6a2567.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선물 가게 포에지 성보람의 취향]]></title>
             <link>https://www.elle.co.kr/article/76175</link>
@@ -52,21 +67,6 @@
             <pubDate>Sun, 09 Apr 2023 17:40:33 GMT</pubDate>
             <content:encoded><![CDATA[전 세계에 한국의 전통적인 미를 외치다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/5729f158-7eb4-4a1e-80f0-1f3e49844319.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["바비는 모든 것이고, 켄은 그저 켄이다": 개봉 앞둔 실사판 '바비'가 말하려는 것]]></title>
-            <link>https://www.elle.co.kr/article/76511</link>
-            <guid>https://www.elle.co.kr/article/76511</guid>
-            <pubDate>Sat, 08 Apr 2023 05:40:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/1bc055e8-5700-43c3-a3a1-34a4c1c6cb29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식을 줄 모르는 인기! 카고 팬츠 스타일링 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/76499</link>
-            <guid>https://www.elle.co.kr/article/76499</guid>
-            <pubDate>Sat, 08 Apr 2023 05:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[아이비, 마마무 휘인, 헤이즈 등 사복 장인들의 카고 팬츠 데일리 룩을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/83d8ecf0-f719-4f3c-993a-5a60c84c0191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 17:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 05:42:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/76459</link>
+            <guid>https://www.elle.co.kr/article/76459</guid>
+            <pubDate>Tue, 11 Apr 2023 05:41:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/658d8810-aaf1-4e7b-95f8-e338e019d341.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만개한 벚꽃! 본격 꽃놀이 시즌, 봄기운을 더해줄 송파-용산-성수 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/76452</link>
@@ -60,14 +67,6 @@
             <pubDate>Mon, 03 Apr 2023 17:41:24 GMT</pubDate>
             <content:encoded><![CDATA[놀랍도록 새로운 얼굴로 탄생한 한옥 스테이. 시간이 천천히 흐르는 이곳에 아름드리 봄이 온다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/fdcf2519-99a2-4b3b-8861-0cdae735a4c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에르메스가 48년생 그 작가를 주목한 이유?]]></title>
-            <link>https://www.elle.co.kr/article/76241</link>
-            <guid>https://www.elle.co.kr/article/76241</guid>
-            <pubDate>Sat, 01 Apr 2023 05:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[아틀리에 에르메스가 후원하는 &lt;크리스티앙 본느프와 : 토끼의 질주&gt; 전시를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/f6c4dca8-8bc5-4ae6-86df-67c3aa42ea3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
