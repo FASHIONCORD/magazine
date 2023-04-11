@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 05:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 17:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 피부를 구하러 온 구원자! 2023 Ver. 타입별 자외선 차단제 추천 & TIP_선배’s 어드바이스 #163]]></title>
+            <link>https://www.elle.co.kr/article/76436</link>
+            <guid>https://www.elle.co.kr/article/76436</guid>
+            <pubDate>Tue, 11 Apr 2023 17:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[자외선 양이 폭증하는 4월, 나에게 꼭 맞는 자외선 차단제는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/e2b6aff3-2412-4624-af62-b4beed74b1cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탄력 있는 얼굴 선 케어]]></title>
             <link>https://www.elle.co.kr/article/75944</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 03 Apr 2023 05:40:43 GMT</pubDate>
             <content:encoded><![CDATA[기온은 올라가고 습도는 내려가는 봄, 유∙수분 밸런스가 깨진 내 피부에 맞는 수분 크림은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/170ac9b0-0a6d-4fcd-9af3-957ccfdcced5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 채정안의 보디 케어 잇템 6]]></title>
-            <link>https://www.elle.co.kr/article/76150</link>
-            <guid>https://www.elle.co.kr/article/76150</guid>
-            <pubDate>Thu, 30 Mar 2023 17:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[건조하고 거친 피부는 굿바이! 매끈한 피부로 거듭나기 위해 채정안이 사용하는 보디 케어 뷰티...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c4e389d5-b0de-454d-a853-34d00e231111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

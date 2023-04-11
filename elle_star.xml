@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 05:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 17:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디올 공주 지수가 애정하는 국내 브랜드]]></title>
+            <link>https://www.elle.co.kr/article/76570</link>
+            <guid>https://www.elle.co.kr/article/76570</guid>
+            <pubDate>Tue, 11 Apr 2023 17:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[꽃(FLOWER) M/V에서 2 벌이나 입었습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/1d875da7-70c4-4e78-8537-8b224b04d4b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["톱 맨, 톱 플레이어": 손흥민 100골 달성! 그가 EPL에서 쓴 '아시안 최초'의 역사.list]]></title>
             <link>https://www.elle.co.kr/article/76568</link>
@@ -59,14 +67,6 @@
             <pubDate>Mon, 10 Apr 2023 05:40:53 GMT</pubDate>
             <content:encoded><![CDATA[화사한 봄에 어울리는 원피스 스타일링을 모아봤습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/4c7f6aaa-cff6-42bd-8ce3-692dbf1b0bfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로제와 정호연이 선택한 화제의 아이템! 지금은 댕기의 매력에 빠질 시간]]></title>
-            <link>https://www.elle.co.kr/article/76512</link>
-            <guid>https://www.elle.co.kr/article/76512</guid>
-            <pubDate>Sun, 09 Apr 2023 17:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계에 한국의 전통적인 미를 외치다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/5729f158-7eb4-4a1e-80f0-1f3e49844319.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

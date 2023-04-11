@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 05:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 17:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주의 땅과 돌, 바람과 숲으로 빚은 유동룡미술관]]></title>
+            <link>https://www.elle.co.kr/article/76260</link>
+            <guid>https://www.elle.co.kr/article/76260</guid>
+            <pubDate>Tue, 11 Apr 2023 17:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[유동룡 미술관은 제주의 자연과 조화를 이루고 조응하는 방식을 고민한 결과이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/2df9e914-7692-43b8-9e2d-19d7ccb3a431.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송혜교부터 박은빈까지! 어벤져스 뺨치는 '2023 백상' 후보 근황]]></title>
             <link>https://www.elle.co.kr/article/76534</link>
@@ -60,13 +68,6 @@
             <pubDate>Fri, 07 Apr 2023 05:41:04 GMT</pubDate>
             <content:encoded><![CDATA[흩날리는 벚꽃과 더없이 어울리는 회화 작품과 전 세계를 무대로 한 초대형 설치물.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7c957dba-a2f5-4ae5-a6c8-234cc595fbb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/76459</link>
-            <guid>https://www.elle.co.kr/article/76459</guid>
-            <pubDate>Thu, 06 Apr 2023 17:40:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/658d8810-aaf1-4e7b-95f8-e338e019d341.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
