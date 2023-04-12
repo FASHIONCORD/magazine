@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 17:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 05:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폴 스미스가 디자인한 호텔?]]></title>
+            <link>https://www.elle.co.kr/article/76509</link>
+            <guid>https://www.elle.co.kr/article/76509</guid>
+            <pubDate>Wed, 12 Apr 2023 05:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[문고리부터 남다른 브라운스 호텔의 ‘폴 스미스 경 스위트’ 룸이 오픈했습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/7cbae634-3ccd-4475-a98b-51e54be4cfdc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혼자라고 대충 먹지 말아요. 혼밥러를 위한 레서피 5]]></title>
+            <link>https://www.elle.co.kr/article/76480</link>
+            <guid>https://www.elle.co.kr/article/76480</guid>
+            <pubDate>Wed, 12 Apr 2023 05:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 하루 고생한 나를 위해! 강민경이 알려주는 초간단 혼밥 레서피를 참고해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/c968c68d-918f-490a-acab-654f41aedd36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/76459</link>
@@ -51,22 +67,6 @@
             <guid>https://www.elle.co.kr/article/76384</guid>
             <pubDate>Tue, 04 Apr 2023 17:42:40 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/bb304409-2193-4d69-8255-c8b63568812c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛잘알 조현아 따라 맛집 투어 3]]></title>
-            <link>https://www.elle.co.kr/article/76368</link>
-            <guid>https://www.elle.co.kr/article/76368</guid>
-            <pubDate>Tue, 04 Apr 2023 05:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[미쉐린 가이드에 등극한 순대 오마카세부터 지리산 정기를 가득 품은 흑돼지 맛집까지, 먹킷리스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/c377dda7-b221-47a9-a9c7-29f4f73f30f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄날의 한옥 스테이]]></title>
-            <link>https://www.elle.co.kr/article/76344</link>
-            <guid>https://www.elle.co.kr/article/76344</guid>
-            <pubDate>Mon, 03 Apr 2023 17:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[놀랍도록 새로운 얼굴로 탄생한 한옥 스테이. 시간이 천천히 흐르는 이곳에 아름드리 봄이 온다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/fdcf2519-99a2-4b3b-8861-0cdae735a4c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
