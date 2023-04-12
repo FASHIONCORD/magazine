@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 05:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 17:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디올 공주 지수가 애정하는 국내 브랜드]]></title>
+            <link>https://www.elle.co.kr/article/76570</link>
+            <guid>https://www.elle.co.kr/article/76570</guid>
+            <pubDate>Wed, 12 Apr 2023 17:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[꽃(FLOWER) M/V에서 2 벌이나 입었습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/1d875da7-70c4-4e78-8537-8b224b04d4b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나무로 세운 아파트 #논톡식리빙]]></title>
             <link>https://www.elle.co.kr/article/76549</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 09 Apr 2023 05:39:45 GMT</pubDate>
             <content:encoded><![CDATA[전 세계에 한국의 전통적인 미를 외치다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/5729f158-7eb4-4a1e-80f0-1f3e49844319.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식을 줄 모르는 인기! 카고 팬츠 스타일링 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/76499</link>
-            <guid>https://www.elle.co.kr/article/76499</guid>
-            <pubDate>Fri, 07 Apr 2023 17:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[아이비, 마마무 휘인, 헤이즈 등 사복 장인들의 카고 팬츠 데일리 룩을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/83d8ecf0-f719-4f3c-993a-5a60c84c0191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
