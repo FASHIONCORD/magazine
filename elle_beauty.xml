@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 05:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 17:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤은혜가 알려주는 두근두근 봄 메이크업 HOW TO]]></title>
+            <link>https://www.elle.co.kr/article/76551</link>
+            <guid>https://www.elle.co.kr/article/76551</guid>
+            <pubDate>Thu, 13 Apr 2023 17:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[따스한 햇살 비추는 봄날엔 이렇게! 금손 윤은혜에게 러블리한 봄 메이크업을 배워보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/2f1ea792-1b84-4e6f-95a7-18556b6a2567.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부기 빼기부터 보디 라인 정리까지! 소유의 괄사 마사지 루틴]]></title>
+            <link>https://www.elle.co.kr/article/76539</link>
+            <guid>https://www.elle.co.kr/article/76539</guid>
+            <pubDate>Thu, 13 Apr 2023 17:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[매일 아침 부운 얼굴과 보디 라인을 마주한다면 라인 정리와 노폐물 제거에 탁월한 괄사 마사지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/9923d3eb-bb78-41b2-b120-668aec2596e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연예계 대표 소식좌였던 코쿤! 8kg 증량하며 몰라보게 달라진 계기는? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/76487</link>
@@ -52,22 +68,6 @@
             <pubDate>Wed, 05 Apr 2023 17:40:59 GMT</pubDate>
             <content:encoded><![CDATA[자외선 차단과 톤업까지 가능한 신상 멀티 선 베이스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/4d9f3016-de6e-4a6a-9525-c505e7f813dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20kg 감량한 '환승연애2' 이나연! 운동보다 '이것'을 더 강조했다는데? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/76312</link>
-            <guid>https://www.elle.co.kr/article/76312</guid>
-            <pubDate>Mon, 03 Apr 2023 17:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[다이어트에 임하는 마음가짐을 가장 강조한 이나연!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/75317745-fd89-4b2c-b28a-52932e20bbc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번진 거 아니고 '오버 립']]></title>
-            <link>https://www.elle.co.kr/article/76196</link>
-            <guid>https://www.elle.co.kr/article/76196</guid>
-            <pubDate>Mon, 03 Apr 2023 05:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[예전 같으면 "너 입술 번졌어" 따위의 소리를 들었을 트렌드가 핫 이슈다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/4bf7516c-1748-49a3-ba3b-f23e74121c0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

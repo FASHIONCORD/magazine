@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 05:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 17:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헌책을 예술작품으로? '도서관의 날' 이색 행사 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/76604</link>
+            <guid>https://www.elle.co.kr/article/76604</guid>
+            <pubDate>Thu, 13 Apr 2023 17:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[매년 4월 12일은 '도서관의 날'!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/45004593-254e-4d55-9464-e0473afb62d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김옥이 무수한 옻칠로 성실하게 일군 세계 #더메이커스]]></title>
+            <link>https://www.elle.co.kr/article/76265</link>
+            <guid>https://www.elle.co.kr/article/76265</guid>
+            <pubDate>Thu, 13 Apr 2023 17:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/d279cac8-f0cd-4b29-a759-e8b2027d1b9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조선의 솔로몬? 우도환 활약에 삼각관계 케미까지! '조선변호사' 인기요인 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/76574</link>
@@ -51,21 +67,6 @@
             <pubDate>Mon, 10 Apr 2023 17:40:08 GMT</pubDate>
             <content:encoded><![CDATA[책 &lt;금요일엔 시골집으로 퇴근합니다&gt;의 저자. 평일에는 리빙 MD로 주말에는 작가이자 주말 농부...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/ae0df1e9-3b82-4239-b07a-bfd0a49e023a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["바비는 모든 것이고, 켄은 그저 켄이다": 개봉 앞둔 실사판 '바비'가 말하려는 것]]></title>
-            <link>https://www.elle.co.kr/article/76511</link>
-            <guid>https://www.elle.co.kr/article/76511</guid>
-            <pubDate>Mon, 10 Apr 2023 17:40:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/1bc055e8-5700-43c3-a3a1-34a4c1c6cb29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴 스미스가 디자인한 호텔?]]></title>
-            <link>https://www.elle.co.kr/article/76509</link>
-            <guid>https://www.elle.co.kr/article/76509</guid>
-            <pubDate>Mon, 10 Apr 2023 17:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[문고리부터 남다른 브라운스 호텔의 ‘폴 스미스 경 스위트’ 룸이 오픈했습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/7cbae634-3ccd-4475-a98b-51e54be4cfdc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

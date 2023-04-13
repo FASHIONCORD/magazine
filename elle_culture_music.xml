@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 05:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 17:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤성빈, 서준맘과 운동하고 10cm, 카더가든, 김윤아 공연을 즐기는 웰니스 페스티벌이 있다고?]]></title>
+            <link>https://www.elle.co.kr/article/76654</link>
+            <guid>https://www.elle.co.kr/article/76654</guid>
+            <pubDate>Thu, 13 Apr 2023 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[시티 포레스티벌 2023의 티켓 판매는 오늘부터.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/7e7edee0-b469-4c04-98b2-bfe262c1b038.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트']]></title>
             <link>https://www.elle.co.kr/article/76493</link>
@@ -34,7 +42,6 @@
             <link>https://www.elle.co.kr/article/76026</link>
             <guid>https://www.elle.co.kr/article/76026</guid>
             <pubDate>Wed, 22 Mar 2023 05:41:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/56510d10-e583-4419-bad5-44264f5cb0a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유]]></title>
@@ -85,13 +92,6 @@
             <guid>https://www.elle.co.kr/article/74199</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
             <content:encoded><![CDATA[가벼운 목소리로 남기는 짙은 여운.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올여름, 한국에 록 페스티벌의 증조할아버지가 온다! ‘우드스톡 페스티벌’이 뭐길래?]]></title>
-            <link>https://www.elle.co.kr/article/74075</link>
-            <guid>https://www.elle.co.kr/article/74075</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[자유, 평화, 사랑의 메시지를 고스란히 담았다.]]></content:encoded>
         </item>
     </channel>
 </rss>
