@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 17:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['멋잘알' 헤일리 비버의 단골 빈티지 숍3]]></title>
+            <link>https://www.elle.co.kr/article/76171</link>
+            <guid>https://www.elle.co.kr/article/76171</guid>
+            <pubDate>Thu, 13 Apr 2023 05:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[빈티지 레더 재킷과 리바이스 진의 출처가 궁금하다면.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/af2c0ffa-6bf7-4f73-a2f0-0d5da28e64c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디올 공주 지수가 애정하는 국내 브랜드]]></title>
             <link>https://www.elle.co.kr/article/76570</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 09 Apr 2023 17:40:13 GMT</pubDate>
             <content:encoded><![CDATA[밀란 패션위크의 하이라이트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/570220e1-a634-4f58-b762-afaf03532814.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로제와 정호연이 선택한 화제의 아이템! 지금은 댕기의 매력에 빠질 시간]]></title>
-            <link>https://www.elle.co.kr/article/76512</link>
-            <guid>https://www.elle.co.kr/article/76512</guid>
-            <pubDate>Sun, 09 Apr 2023 05:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계에 한국의 전통적인 미를 외치다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/5729f158-7eb4-4a1e-80f0-1f3e49844319.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

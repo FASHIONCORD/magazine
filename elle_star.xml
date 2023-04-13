@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 17:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅뱅과 BTS가 한 자리에? 지드래곤 축하 파티 인맥 클라스.jpg]]></title>
+            <link>https://www.elle.co.kr/article/76611</link>
+            <guid>https://www.elle.co.kr/article/76611</guid>
+            <pubDate>Thu, 13 Apr 2023 05:40:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/5b50a9a6-9c72-4cfc-a8a3-01b9d1346e31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘르 D에디션 커버 등극, 세븐틴 정한과 준의 폭발하는 비주얼]]></title>
             <link>https://www.elle.co.kr/article/76586</link>
@@ -59,14 +66,6 @@
             <pubDate>Tue, 11 Apr 2023 05:40:44 GMT</pubDate>
             <content:encoded><![CDATA[따스한 햇살 비추는 봄날엔 이렇게! 금손 윤은혜에게 러블리한 봄 메이크업을 배워보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/2f1ea792-1b84-4e6f-95a7-18556b6a2567.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선물 가게 포에지 성보람의 취향]]></title>
-            <link>https://www.elle.co.kr/article/76175</link>
-            <guid>https://www.elle.co.kr/article/76175</guid>
-            <pubDate>Mon, 10 Apr 2023 17:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[포에지 성보람이 마음을 다하며 사는 삶.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/51f8745f-6744-46e6-8c0f-0419f0ee309b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

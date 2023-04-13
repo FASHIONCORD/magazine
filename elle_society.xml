@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 17:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 05:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[평균 연봉 1억 시대? ‘임플레이션’ 속에서 살아남는 법_돈쓸신잡 #92]]></title>
+            <link>https://www.elle.co.kr/article/76508</link>
+            <guid>https://www.elle.co.kr/article/76508</guid>
+            <pubDate>Thu, 13 Apr 2023 05:42:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/6f893323-977b-43d5-8044-4e2bdf709950.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 리더는 필요하다. 당신이 그 리더가 되어도 좋다]]></title>
             <link>https://www.elle.co.kr/article/76455</link>
@@ -61,13 +68,6 @@
             <pubDate>Tue, 04 Apr 2023 17:42:47 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나에서 일상적이지 않은 일상을 지켜내는 그들을 위한 연대 캠페인에 힘을 실어주세요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/81e83762-b91c-4a2b-87fd-c287374d7397.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계를 충격에 빠트린 미국 실리콘밸리은행의 파산, 은행이 망해도 내 돈 지키는 법은?_돈쓸신잡 #90]]></title>
-            <link>https://www.elle.co.kr/article/76074</link>
-            <guid>https://www.elle.co.kr/article/76074</guid>
-            <pubDate>Sun, 02 Apr 2023 17:42:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/3bbe4779-2325-4c1e-a1ef-977cdf1a5baa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
