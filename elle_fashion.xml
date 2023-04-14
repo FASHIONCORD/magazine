@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 17:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 05:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도쿄 주택가의 벌거벗은 집 #논톡식리빙]]></title>
+            <link>https://www.elle.co.kr/article/76616</link>
+            <guid>https://www.elle.co.kr/article/76616</guid>
+            <pubDate>Fri, 14 Apr 2023 05:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/df7c9eb8-5c65-4ba5-9cb5-f312e1b6e41b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴욕의 ‘이 빌딩’을 그대로 재현한 스피커? 패션 브랜드의 개성만점 액세서리 아이템 3]]></title>
             <link>https://www.elle.co.kr/article/76603</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Apr 2023 05:40:26 GMT</pubDate>
             <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/ea099de0-345f-4c7d-a7d8-e71c978ea119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리에서 생긴 일]]></title>
-            <link>https://www.elle.co.kr/article/76538</link>
-            <guid>https://www.elle.co.kr/article/76538</guid>
-            <pubDate>Mon, 10 Apr 2023 17:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[파리 패션위크의 하이라이트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/7d6eb8c0-ef01-408c-a7c4-10f9a8fba868.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

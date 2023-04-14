@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 17:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 05:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이글 다음은 추로스? 요즘 인기 디저트 추로스 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/76542</link>
+            <guid>https://www.elle.co.kr/article/76542</guid>
+            <pubDate>Fri, 14 Apr 2023 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[놀이공원에 가지 않아도 맛볼 수 있는 하이 퀄리티의 추로스 맛집 세 곳을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/89cd6a2d-385f-4811-b0b6-2f4707e59f36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴 스미스가 디자인한 호텔?]]></title>
             <link>https://www.elle.co.kr/article/76509</link>
@@ -60,13 +68,6 @@
             <pubDate>Wed, 05 Apr 2023 05:41:02 GMT</pubDate>
             <content:encoded><![CDATA[파리의 정취를 고스란히 담은 성수동 신상 카페 두 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/1939a687-14c0-48eb-954f-607290dabe35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샛노란 유채꽃에 벚꽃, 푸른 바다까지? 보기만 해도 힐링되는 제주 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/76384</link>
-            <guid>https://www.elle.co.kr/article/76384</guid>
-            <pubDate>Tue, 04 Apr 2023 17:42:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/bb304409-2193-4d69-8255-c8b63568812c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
