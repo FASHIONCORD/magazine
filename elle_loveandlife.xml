@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 17:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월에는 사진을]]></title>
+            <link>https://www.elle.co.kr/article/76571</link>
+            <guid>https://www.elle.co.kr/article/76571</guid>
+            <pubDate>Fri, 14 Apr 2023 17:41:29 GMT</pubDate>
+            <content:encoded><![CDATA['The Moment : 찰나의 희열', '프랑수아 알라르 : 비지트 프리베'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/7ac11eb5-6ca8-446f-8fa8-53b9f00e66b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이글 다음은 추로스? 요즘 인기 디저트 추로스 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/76542</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 06 Apr 2023 05:41:00 GMT</pubDate>
             <content:encoded><![CDATA[아직 늦지 않았어요, 창밖으로 만개한 벚꽃을 만끽할 수 있는 카페 세 곳을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/44bb57bf-ce33-4847-bb62-e26599ebc064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리 느낌 물씬! 성수동 신상 카페]]></title>
-            <link>https://www.elle.co.kr/article/76381</link>
-            <guid>https://www.elle.co.kr/article/76381</guid>
-            <pubDate>Wed, 05 Apr 2023 05:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[파리의 정취를 고스란히 담은 성수동 신상 카페 두 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/1939a687-14c0-48eb-954f-607290dabe35.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

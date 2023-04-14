@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 17:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덴마크 인테리어가 한국식 오늘의 집과 다른 이유]]></title>
+            <link>https://www.elle.co.kr/article/76635</link>
+            <guid>https://www.elle.co.kr/article/76635</guid>
+            <pubDate>Fri, 14 Apr 2023 17:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[라위의 두 창립자를 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b40deea5-3484-40b3-8bdb-1acc23ffe1fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헌책을 예술작품으로? '도서관의 날' 이색 행사 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/76604</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/76534</guid>
             <pubDate>Mon, 10 Apr 2023 17:40:08 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/83406007-1496-46ca-afef-7bde5d114251.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금요일엔 시골집으로 퇴근합니다 #아웃오브서울]]></title>
-            <link>https://www.elle.co.kr/article/75662</link>
-            <guid>https://www.elle.co.kr/article/75662</guid>
-            <pubDate>Mon, 10 Apr 2023 17:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[책 &lt;금요일엔 시골집으로 퇴근합니다&gt;의 저자. 평일에는 리빙 MD로 주말에는 작가이자 주말 농부...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/ae0df1e9-3b82-4239-b07a-bfd0a49e023a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

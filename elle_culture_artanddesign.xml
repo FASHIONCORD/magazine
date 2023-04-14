@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 17:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 마리 고양이와 잉가 상뻬의 작업실]]></title>
+            <link>https://www.elle.co.kr/article/76268</link>
+            <guid>https://www.elle.co.kr/article/76268</guid>
+            <pubDate>Fri, 14 Apr 2023 17:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[그녀의 흐트러진 작업실은 자신만의 디자인 세계로 들어가는 관문이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/c7a52010-1bed-47fb-b8f4-4f14aa0eebbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소만의 시간, 도예가 김덕호와 이인화]]></title>
             <link>https://www.elle.co.kr/article/76267</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76571</guid>
             <pubDate>Mon, 10 Apr 2023 17:41:06 GMT</pubDate>
             <content:encoded><![CDATA['The Moment : 찰나의 희열', '프랑수아 알라르 : 비지트 프리베'.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/7ac11eb5-6ca8-446f-8fa8-53b9f00e66b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주의 땅과 돌, 바람과 숲으로 빚은 유동룡미술관]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/75659</guid>
             <pubDate>Fri, 31 Mar 2023 17:41:51 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인 한국의 동시대 ‘메이커’들...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안도 타다오는 이제 무엇을 짓고 싶을까?]]></title>
-            <link>https://www.elle.co.kr/article/76393</link>
-            <guid>https://www.elle.co.kr/article/76393</guid>
-            <pubDate>Fri, 31 Mar 2023 17:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[“가진 건 핸디캡뿐이었다”고 고백하는 건축가의 업력이 어느덧 50년을 넘었다. 오는 4월, 한국...]]></content:encoded>
         </item>
     </channel>
 </rss>
