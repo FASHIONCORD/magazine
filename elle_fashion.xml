@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 17:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 05:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재활용 콜라주 하우스 #논톡식리빙]]></title>
+            <link>https://www.elle.co.kr/article/76669</link>
+            <guid>https://www.elle.co.kr/article/76669</guid>
+            <pubDate>Sat, 15 Apr 2023 05:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/3818486f-accd-46f5-8156-534462f9945d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태양에 맞서는 빅 아이 선글라스]]></title>
             <link>https://www.elle.co.kr/article/76167</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Apr 2023 05:40:39 GMT</pubDate>
             <content:encoded><![CDATA[빈티지 레더 재킷과 리바이스 진의 출처가 궁금하다면.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/af2c0ffa-6bf7-4f73-a2f0-0d5da28e64c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 공주 지수가 애정하는 국내 브랜드]]></title>
-            <link>https://www.elle.co.kr/article/76570</link>
-            <guid>https://www.elle.co.kr/article/76570</guid>
-            <pubDate>Wed, 12 Apr 2023 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[꽃(FLOWER) M/V에서 2 벌이나 입었습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/1d875da7-70c4-4e78-8537-8b224b04d4b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
