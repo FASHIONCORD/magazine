@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 17:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 05:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다가오는 지구의 날에는 지구를 위한 신발을! 지속 가능한 패션 아이템 2]]></title>
+            <link>https://www.elle.co.kr/article/76691</link>
+            <guid>https://www.elle.co.kr/article/76691</guid>
+            <pubDate>Sun, 16 Apr 2023 05:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[파타고니아가 4조 원이 넘는 회사 지분 100%를 내놓은 이유는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/e86c0485-78da-44ef-b5df-289343d65a9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벚꽃으로 수놓은 데님! 요주의 협업 3]]></title>
             <link>https://www.elle.co.kr/article/76675</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Apr 2023 17:40:00 GMT</pubDate>
             <content:encoded><![CDATA[집들이 필수 아이템과 봄맞이 이어폰을 찾고 있다면 주목!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/c0cc2399-dd8c-48af-bad2-5ec5d800c1d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 'Ditto'처럼! 스쿨 룩 트렌드]]></title>
-            <link>https://www.elle.co.kr/article/76588</link>
-            <guid>https://www.elle.co.kr/article/76588</guid>
-            <pubDate>Thu, 13 Apr 2023 17:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[잘 다려진 셔츠, 상큼한 플리츠 스커트 등 스타들의 SNS에서 포착된 스쿨 룩 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/62f453ab-66a1-4726-8634-4ff0dfd56e8b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
