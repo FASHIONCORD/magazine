@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 05:41:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 17:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이효리, 3년 만에 인스타 재개! 첫 게시물은 텐미닛? (ft.댄스가수 유랑단)]]></title>
+            <link>https://www.elle.co.kr/article/76692</link>
+            <guid>https://www.elle.co.kr/article/76692</guid>
+            <pubDate>Sun, 16 Apr 2023 17:39:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/ed933e29-4c01-4ca1-a657-5842ce392ce7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무려 7년 열애 결실! 레이디제인의 예비 신랑 임현태의 깜짝 놀랄 경력]]></title>
+            <link>https://www.elle.co.kr/article/76687</link>
+            <guid>https://www.elle.co.kr/article/76687</guid>
+            <pubDate>Sun, 16 Apr 2023 17:39:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/8e99f8bf-406d-479c-bd8b-e520544a5b75.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘피크타임’을 만난 TOP6가 새로운 출발선 위에 섰다 #2]]></title>
             <link>https://www.elle.co.kr/article/76658</link>
@@ -52,21 +66,6 @@
             <pubDate>Thu, 13 Apr 2023 17:40:19 GMT</pubDate>
             <content:encoded><![CDATA[데일리 룩부터 격식을 갖춘 자리까지 활용 가능! 크롭트 톱, 어렵지 않아요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/1b202eea-96ed-4ae8-8369-5dea55ded828.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 마블스' 캡틴 마블 남편 된 박서준! 단 1초 만에 카리스마 입증한 비주얼.avi]]></title>
-            <link>https://www.elle.co.kr/article/76639</link>
-            <guid>https://www.elle.co.kr/article/76639</guid>
-            <pubDate>Thu, 13 Apr 2023 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '드림'에선 청춘 캐릭터로 활약 예고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b51bdd92-24ed-4853-a97c-71505c7362a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[철저한 자기관리로 롱런하는 엄정화! 운동하면서 '이것'을 가장 강조했다는데? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/76636</link>
-            <guid>https://www.elle.co.kr/article/76636</guid>
-            <pubDate>Thu, 13 Apr 2023 17:40:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/bd4e7a08-fc0b-4fbe-bdd5-c48fe2a2ed2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
