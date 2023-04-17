@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 05:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 17:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 마리 고양이와 잉가 상뻬의 작업실]]></title>
+            <link>https://www.elle.co.kr/article/76268</link>
+            <guid>https://www.elle.co.kr/article/76268</guid>
+            <pubDate>Mon, 17 Apr 2023 17:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[그녀의 흐트러진 작업실은 자신만의 디자인 세계로 들어가는 관문이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/c7a52010-1bed-47fb-b8f4-4f14aa0eebbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['너목들'로 만난 이종석X이보영! 벌써 10주년이라는데?]]></title>
             <link>https://www.elle.co.kr/article/76663</link>
@@ -61,13 +69,6 @@
             <pubDate>Thu, 13 Apr 2023 17:40:44 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/d279cac8-f0cd-4b29-a759-e8b2027d1b9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선의 솔로몬? 우도환 활약에 삼각관계 케미까지! '조선변호사' 인기요인 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/76574</link>
-            <guid>https://www.elle.co.kr/article/76574</guid>
-            <pubDate>Wed, 12 Apr 2023 17:40:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/c2e23eca-26d3-49b1-86d0-80b909fe9117.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
