@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 17:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 05:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['힙당동'으로 모여! 김나영의 신당동 핫플 사냥 3]]></title>
+            <link>https://www.elle.co.kr/article/76617</link>
+            <guid>https://www.elle.co.kr/article/76617</guid>
+            <pubDate>Mon, 17 Apr 2023 05:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[쇼핑부터 먹방까지, 김나영이 방문한 신당동 핫 플레이스를 확인해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/0cdc8525-bf13-4986-948b-6026c9cbd30c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스탠딩 이자카야부터 80년대 오사카 술집까지! 비행기 없이 일본으로 떠나는 을지로-합정-용산 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/76590</link>
+            <guid>https://www.elle.co.kr/article/76590</guid>
+            <pubDate>Mon, 17 Apr 2023 05:42:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/2a9194de-d1c3-4cb2-8bac-2ecd3c97864c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월에는 사진을]]></title>
             <link>https://www.elle.co.kr/article/76571</link>
@@ -52,22 +67,6 @@
             <guid>https://www.elle.co.kr/article/76452</guid>
             <pubDate>Mon, 10 Apr 2023 17:41:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/f6032c6d-5fd2-4fe1-9ec8-da2faab71b1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃보다 최애]]></title>
-            <link>https://www.elle.co.kr/article/76427</link>
-            <guid>https://www.elle.co.kr/article/76427</guid>
-            <pubDate>Sun, 09 Apr 2023 05:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[벚꽃 앞에서 근황을 전한 스타 모음.zip]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/eba26d2d-9694-4383-93e1-a41eb4610736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 시즌 한정! 전국 벚꽃 뷰 카페 3]]></title>
-            <link>https://www.elle.co.kr/article/76396</link>
-            <guid>https://www.elle.co.kr/article/76396</guid>
-            <pubDate>Thu, 06 Apr 2023 05:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[아직 늦지 않았어요, 창밖으로 만개한 벚꽃을 만끽할 수 있는 카페 세 곳을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/44bb57bf-ce33-4847-bb62-e26599ebc064.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

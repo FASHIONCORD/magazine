@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 17:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 05:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국 켄트 지방 전통을 재해석한 타워형 주택 #논톡식리빙]]></title>
+            <link>https://www.elle.co.kr/article/76715</link>
+            <guid>https://www.elle.co.kr/article/76715</guid>
+            <pubDate>Mon, 17 Apr 2023 05:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/e39dd3a1-a88b-4b40-9430-b88eacaf53bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃향기 남기고 간 패션 #코르사주]]></title>
+            <link>https://www.elle.co.kr/article/76700</link>
+            <guid>https://www.elle.co.kr/article/76700</guid>
+            <pubDate>Mon, 17 Apr 2023 05:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[꽃내음 가득! 코르사주 장식으로 매혹적인 스타일링을 선보인 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/2bb28c19-ee7b-4637-b931-e5142cab48fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한계가 없는 그녀]]></title>
+            <link>https://www.elle.co.kr/article/76699</link>
+            <guid>https://www.elle.co.kr/article/76699</guid>
+            <pubDate>Mon, 17 Apr 2023 05:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[끝이 없는 줄리아 폭스의 패션 폭주.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/2e1ab4cc-b9b5-481c-9f18-f5259b919818.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김고은과 페넬로페 크루즈의 대화]]></title>
             <link>https://www.elle.co.kr/article/76665</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 14 Apr 2023 17:40:08 GMT</pubDate>
             <content:encoded><![CDATA[중요한 건 태양에도 꺾이지 않는 눈빛.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/01f1f3f4-0e95-4bd1-ad0f-f83e0e04d94e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크롭트 톱 입어볼까? 옷잘알 셀럽들의 스타일링 노하우 6]]></title>
-            <link>https://www.elle.co.kr/article/76644</link>
-            <guid>https://www.elle.co.kr/article/76644</guid>
-            <pubDate>Fri, 14 Apr 2023 17:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[데일리 룩부터 격식을 갖춘 자리까지 활용 가능! 크롭트 톱, 어렵지 않아요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/1b202eea-96ed-4ae8-8369-5dea55ded828.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재밌고 쿨하게 그들만의 방식으로 지속 가능한 패션을 이어나가는 아바바브]]></title>
-            <link>https://www.elle.co.kr/article/76642</link>
-            <guid>https://www.elle.co.kr/article/76642</guid>
-            <pubDate>Fri, 14 Apr 2023 17:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘지속 가능한’ 패션을 이어나가는 것을 퍼즐 게임과 같다고 말하는 아바바브의 유쾌한 패션 이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/7dab20ff-f858-4e4a-a907-5b9e7413a061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄 주택가의 벌거벗은 집 #논톡식리빙]]></title>
-            <link>https://www.elle.co.kr/article/76616</link>
-            <guid>https://www.elle.co.kr/article/76616</guid>
-            <pubDate>Fri, 14 Apr 2023 05:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/df7c9eb8-5c65-4ba5-9cb5-f312e1b6e41b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
