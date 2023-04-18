@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 05:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 17:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친환경 위장주의보]]></title>
+            <link>https://www.elle.co.kr/article/76582</link>
+            <guid>https://www.elle.co.kr/article/76582</guid>
+            <pubDate>Tue, 18 Apr 2023 17:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[환경에 대한 진정성을 장삿속으로 이용하는 그린워싱에 맞서 똑똑한 소비자로 거듭나는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/b65b88e0-ba4b-495f-860e-d1d2a300f054.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소등행사부터 플라워 클래스, 플로깅까지! '지구의 날' 특집 행사 모음 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/76525</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 07 Apr 2023 17:42:20 GMT</pubDate>
             <content:encoded><![CDATA[동물을 보호하고 싶어하는 아이의 꿈은 어쩌다 사육사가 됐을까? 아이의 눈에서 함께 맞춰나가야...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/8edeeeec-96fb-4839-8afe-4ed2d14d1b00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT에게 지속 가능한 미래에 대해 물었다]]></title>
-            <link>https://www.elle.co.kr/article/76370</link>
-            <guid>https://www.elle.co.kr/article/76370</guid>
-            <pubDate>Thu, 06 Apr 2023 17:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[점점 단축되고 있는 지구 수명에 대한 문제는 단지 인간만의 고민일까? 대화전문 인공지능 챗G...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/8b311d51-4118-4f65-aa79-f21ca5565f2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

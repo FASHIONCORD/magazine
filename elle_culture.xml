@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 05:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 17:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연진영의 실험과 믹스매치 #더메이커스]]></title>
+            <link>https://www.elle.co.kr/article/76266</link>
+            <guid>https://www.elle.co.kr/article/76266</guid>
+            <pubDate>Tue, 18 Apr 2023 17:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/311e06d1-fb53-4655-b6ef-437ad981c5a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 마리 고양이와 잉가 상뻬의 작업실]]></title>
             <link>https://www.elle.co.kr/article/76268</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 13 Apr 2023 17:40:44 GMT</pubDate>
             <content:encoded><![CDATA[매년 4월 12일은 '도서관의 날'!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/45004593-254e-4d55-9464-e0473afb62d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김옥이 무수한 옻칠로 성실하게 일군 세계 #더메이커스]]></title>
-            <link>https://www.elle.co.kr/article/76265</link>
-            <guid>https://www.elle.co.kr/article/76265</guid>
-            <pubDate>Thu, 13 Apr 2023 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/d279cac8-f0cd-4b29-a759-e8b2027d1b9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
