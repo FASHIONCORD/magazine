@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 17:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 05:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[길수록 매력적! 5인 5색 맥시 스커트 스타일]]></title>
+            <link>https://www.elle.co.kr/article/76721</link>
+            <guid>https://www.elle.co.kr/article/76721</guid>
+            <pubDate>Tue, 18 Apr 2023 05:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[롱롱익선! 실루엣을 길고 날씬하게 바꿔주는 맥시 스커트를 발 빠르게 섭렵한 스타들을 소개합니...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/15a8a9f9-e2f5-4f30-ac99-fe10e06e589f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찰랑찰랑 프린지 패션]]></title>
             <link>https://www.elle.co.kr/article/76593</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 16 Apr 2023 05:39:34 GMT</pubDate>
             <content:encoded><![CDATA[파타고니아가 4조 원이 넘는 회사 지분 100%를 내놓은 이유는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/e86c0485-78da-44ef-b5df-289343d65a9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벚꽃으로 수놓은 데님! 요주의 협업 3]]></title>
-            <link>https://www.elle.co.kr/article/76675</link>
-            <guid>https://www.elle.co.kr/article/76675</guid>
-            <pubDate>Sat, 15 Apr 2023 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[이토록 감각적인 차량용 햇빛 가리개?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/eacf5533-af83-4e24-b987-47e9593f5504.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
