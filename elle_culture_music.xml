@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 17:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 17:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백스테이지에서 무슨 일이?! 블랙핑크가 직접 전한 눈물의 코첼라 후기.txt]]></title>
+            <link>https://www.elle.co.kr/article/76815</link>
+            <guid>https://www.elle.co.kr/article/76815</guid>
+            <pubDate>Wed, 19 Apr 2023 17:40:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/52ef630c-c7bc-4988-8d26-839f00f756eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤성빈, 서준맘과 운동하고 10cm, 카더가든, 김윤아 공연을 즐기는 웰니스 페스티벌이 있다고?]]></title>
             <link>https://www.elle.co.kr/article/76654</link>
@@ -35,7 +42,6 @@
             <link>https://www.elle.co.kr/article/76129</link>
             <guid>https://www.elle.co.kr/article/76129</guid>
             <pubDate>Fri, 24 Mar 2023 17:41:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/013aa897-2b53-42d9-a160-a70780ce2776.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전국의 효녀효자들 긴장해... 조용필 5년 만의 잠실 주경기장 콘서트, 시작은 언제?]]></title>
@@ -85,13 +91,6 @@
             <guid>https://www.elle.co.kr/article/74206</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
             <content:encoded><![CDATA[정작 한국 아티스트 음반이 아닌 것은 단 3개 뿐.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새가 지저귀듯이, 정우 #2주의뮤지션]]></title>
-            <link>https://www.elle.co.kr/article/74199</link>
-            <guid>https://www.elle.co.kr/article/74199</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[가벼운 목소리로 남기는 짙은 여운.]]></content:encoded>
         </item>
     </channel>
 </rss>

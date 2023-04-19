@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 17:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 17:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PLEASE STAY: 멸종위기동물의 초상 #1]]></title>
+            <link>https://www.elle.co.kr/article/76179</link>
+            <guid>https://www.elle.co.kr/article/76179</guid>
+            <pubDate>Wed, 19 Apr 2023 17:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[삼림 파괴, 사막화, 지구온난화, 밀렵과 로드킬까지.... 영문도 모른 채 소리소문 없이 사라질지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/26924d73-57cc-4870-9b3b-a7e867bd42a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[길수록 매력적! 5인 5색 맥시 스커트 스타일]]></title>
             <link>https://www.elle.co.kr/article/76721</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 16 Apr 2023 17:39:38 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 J12 워치 캠페인 ‘IT’S ALL ABOUT SECONDS’를 함께한 뮤즈들의 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/638bf567-87af-4ae6-949f-e4c9d64ca73e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다가오는 지구의 날에는 지구를 위한 신발을! 지속 가능한 패션 아이템 2]]></title>
-            <link>https://www.elle.co.kr/article/76691</link>
-            <guid>https://www.elle.co.kr/article/76691</guid>
-            <pubDate>Sun, 16 Apr 2023 05:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[파타고니아가 4조 원이 넘는 회사 지분 100%를 내놓은 이유는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/e86c0485-78da-44ef-b5df-289343d65a9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
