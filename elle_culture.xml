@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 17:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 05:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[참교육 맛집 '모범택시', 시즌3 제작 확정! 최종회에 나온 떡밥은?]]></title>
+            <link>https://www.elle.co.kr/article/76729</link>
+            <guid>https://www.elle.co.kr/article/76729</guid>
+            <pubDate>Thu, 20 Apr 2023 05:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[마의 시청률 20% 돌파.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/c4ec9e9e-bb16-44c2-9603-134735b200d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['메달권 밖' 예측 뒤엎은 피겨 대표팀, 팀 트로피 대회 종합 2위! (ft. 작정한 셀프 응원)]]></title>
             <link>https://www.elle.co.kr/article/76725</link>
@@ -43,7 +51,7 @@
             <guid>https://www.elle.co.kr/article/76654</guid>
             <pubDate>Mon, 17 Apr 2023 05:40:56 GMT</pubDate>
             <content:encoded><![CDATA[시티 포레스티벌 2023의 티켓 판매는 오늘부터.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/7e7edee0-b469-4c04-98b2-bfe262c1b038.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/7e7edee0-b469-4c04-98b2-bfe262c1b038.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소만의 시간, 도예가 김덕호와 이인화]]></title>
@@ -60,14 +68,6 @@
             <pubDate>Sun, 16 Apr 2023 17:40:15 GMT</pubDate>
             <content:encoded><![CDATA[영화 '드림'에선 청춘 캐릭터로 활약 예고!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b51bdd92-24ed-4853-a97c-71505c7362a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덴마크 인테리어가 한국식 오늘의 집과 다른 이유]]></title>
-            <link>https://www.elle.co.kr/article/76635</link>
-            <guid>https://www.elle.co.kr/article/76635</guid>
-            <pubDate>Fri, 14 Apr 2023 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[라위의 두 창립자를 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b40deea5-3484-40b3-8bdb-1acc23ffe1fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

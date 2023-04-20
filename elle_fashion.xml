@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 17:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 05:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스커트 신드롬]]></title>
+            <link>https://www.elle.co.kr/article/76460</link>
+            <guid>https://www.elle.co.kr/article/76460</guid>
+            <pubDate>Thu, 20 Apr 2023 05:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[어렵지 않아요! 리얼 웨이에서 만난 남자들의 치맛바람.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/1b586cea-5085-452a-9c43-b3780a77c7bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모래주머니 레지던스 #논톡식리빙]]></title>
+            <link>https://www.elle.co.kr/article/76757</link>
+            <guid>https://www.elle.co.kr/article/76757</guid>
+            <pubDate>Thu, 20 Apr 2023 05:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/20384123-3430-44c6-86d3-8c8718a947ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PLEASE STAY: 멸종위기동물의 초상 #1]]></title>
+            <link>https://www.elle.co.kr/article/76180</link>
+            <guid>https://www.elle.co.kr/article/76180</guid>
+            <pubDate>Thu, 20 Apr 2023 05:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[삼림 파괴, 사막화, 지구온난화, 밀렵과 로드킬까지.... 영문도 모른 채 소리소문 없이 사라질지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/f44e9d38-c16e-4bcf-8f52-917cfe622f44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PLEASE STAY: 멸종위기동물의 초상 #1]]></title>
             <link>https://www.elle.co.kr/article/76179</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 17 Apr 2023 05:40:00 GMT</pubDate>
             <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/e39dd3a1-a88b-4b40-9430-b88eacaf53bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃향기 남기고 간 패션 #코르사주]]></title>
-            <link>https://www.elle.co.kr/article/76700</link>
-            <guid>https://www.elle.co.kr/article/76700</guid>
-            <pubDate>Mon, 17 Apr 2023 05:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[꽃내음 가득! 코르사주 장식으로 매혹적인 스타일링을 선보인 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/2bb28c19-ee7b-4637-b931-e5142cab48fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한계가 없는 그녀]]></title>
-            <link>https://www.elle.co.kr/article/76699</link>
-            <guid>https://www.elle.co.kr/article/76699</guid>
-            <pubDate>Mon, 17 Apr 2023 05:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[끝이 없는 줄리아 폭스의 패션 폭주.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/2e1ab4cc-b9b5-481c-9f18-f5259b919818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김고은과 페넬로페 크루즈의 대화]]></title>
-            <link>https://www.elle.co.kr/article/76665</link>
-            <guid>https://www.elle.co.kr/article/76665</guid>
-            <pubDate>Sun, 16 Apr 2023 17:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 J12 워치 캠페인 ‘IT’S ALL ABOUT SECONDS’를 함께한 뮤즈들의 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/638bf567-87af-4ae6-949f-e4c9d64ca73e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
