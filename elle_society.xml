@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 17:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[녹색 마케팅에 속아본 적 있나요?]]></title>
+            <link>https://www.elle.co.kr/article/76592</link>
+            <guid>https://www.elle.co.kr/article/76592</guid>
+            <pubDate>Thu, 20 Apr 2023 17:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[친환경이 돈이 되는 시대. 그린워싱의 ‘위험한 척’에 관하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/62a96aa6-c740-429e-97df-d17f90d0ee4b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다가오는 지구의 날에는 지구를 위한 신발을! 지속 가능한 패션 아이템 2]]></title>
             <link>https://www.elle.co.kr/article/76691</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/76508</guid>
             <pubDate>Thu, 13 Apr 2023 05:42:13 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/6f893323-977b-43d5-8044-4e2bdf709950.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 리더는 필요하다. 당신이 그 리더가 되어도 좋다]]></title>
-            <link>https://www.elle.co.kr/article/76455</link>
-            <guid>https://www.elle.co.kr/article/76455</guid>
-            <pubDate>Mon, 10 Apr 2023 17:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[심수미 기자가 '거봐, 내 말 듣기 잘했지?'라고 말하며 웃을 수 있었던 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/c834b484-876f-4712-be9c-6e969cdaf476.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

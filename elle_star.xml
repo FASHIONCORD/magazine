@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 17:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우아함이란 '이런 것'! <판도라 : 조작된 낙원>의 이지아 VS 장희진 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/76833</link>
+            <guid>https://www.elle.co.kr/article/76833</guid>
+            <pubDate>Thu, 20 Apr 2023 17:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[고상한 드레스 룩부터 현실적인 오피스 룩까지! 우아하고 고급스러운 이지아와 장희진의 드라마 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/68f90488-6ef9-4d40-85a8-9278a7664d9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀여운 것이 세상을 구한다! 스타들의 키치한 취향 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/76826</link>
+            <guid>https://www.elle.co.kr/article/76826</guid>
+            <pubDate>Thu, 20 Apr 2023 17:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[아기자기한 포인트의 귀여운 패션 아이템과 사랑에 빠진 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/55ada097-3c6a-42ab-b65b-5f969f883195.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JTBC 피크타임 TOP 6가 모였다! 착한 서바이벌 인정하시나요?]]></title>
             <link>https://www.elle.co.kr/article/76820</link>
@@ -51,22 +67,6 @@
             <pubDate>Wed, 19 Apr 2023 17:40:07 GMT</pubDate>
             <content:encoded><![CDATA[용감하고 대담한 여성. &lt;닥터 차정숙&gt;의 차정숙으로 돌아온 그녀.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/725bd4ea-d011-4626-b2c2-4b2f2220a664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 김아현의 데일리 메이크업 Tip]]></title>
-            <link>https://www.elle.co.kr/article/76787</link>
-            <guid>https://www.elle.co.kr/article/76787</guid>
-            <pubDate>Wed, 19 Apr 2023 17:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[촉촉한 피부를 위한 스킨케어부터 내추럴하고 퓨어한 분위기의 데일리 메이크업까지! 그동안 꽁꽁...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/1ec825f6-ed19-4a44-99d1-500b3b6f036f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴 정한과 준의 명징한 시간. 엘르 D에디션 part.2]]></title>
-            <link>https://www.elle.co.kr/article/76781</link>
-            <guid>https://www.elle.co.kr/article/76781</guid>
-            <pubDate>Wed, 19 Apr 2023 17:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[정한과 준이 저택에 갇혀버린 순간. 그 낮과 밤이 교차하던 지점들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/277ab467-668c-4a6b-a6ca-73353c4430bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

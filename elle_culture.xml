@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 17:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해버지' 박지성이 세계 각국의 축구 꿈나무들과 그라운드 위를 누빈 배경]]></title>
+            <link>https://www.elle.co.kr/article/76732</link>
+            <guid>https://www.elle.co.kr/article/76732</guid>
+            <pubDate>Thu, 20 Apr 2023 17:41:05 GMT</pubDate>
+            <content:encoded><![CDATA['멤버십'이 선사하는 특별한 경험.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/365d5ff8-391e-4bea-925c-b08d29c24a47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[참교육 맛집 '모범택시', 시즌3 제작 확정! 최종회에 나온 떡밥은?]]></title>
             <link>https://www.elle.co.kr/article/76729</link>
@@ -60,14 +68,6 @@
             <pubDate>Mon, 17 Apr 2023 05:40:56 GMT</pubDate>
             <content:encoded><![CDATA[도예가 김덕호와 이인화가 함께 만들어나가는 '소만'의 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/942b8d47-5f00-43ed-b435-b3c8dba193c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 마블스' 캡틴 마블 남편 된 박서준! 단 1초 만에 카리스마 입증한 비주얼.avi]]></title>
-            <link>https://www.elle.co.kr/article/76639</link>
-            <guid>https://www.elle.co.kr/article/76639</guid>
-            <pubDate>Sun, 16 Apr 2023 17:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '드림'에선 청춘 캐릭터로 활약 예고!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b51bdd92-24ed-4853-a97c-71505c7362a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 17:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['손민수 각'하게 만드는 차정원의 가방 속 아이템은?]]></title>
+            <link>https://www.elle.co.kr/article/76758</link>
+            <guid>https://www.elle.co.kr/article/76758</guid>
+            <pubDate>Thu, 20 Apr 2023 17:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[세련된 패션 감각의 소유자 차정원, 그녀의 취향이 묻은 소지품은 과연 무엇일까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/d7291884-6cfe-42a9-9c18-f95d5bd88b73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스커트 신드롬]]></title>
             <link>https://www.elle.co.kr/article/76460</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 17 Apr 2023 17:39:56 GMT</pubDate>
             <content:encoded><![CDATA[편한데 힙하다! 스타들의 데일리 룩에서 포착된 스포티 점퍼 트렌드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/58159a3c-9a8b-4a26-bbf4-027aa0f21d3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 켄트 지방 전통을 재해석한 타워형 주택 #논톡식리빙]]></title>
-            <link>https://www.elle.co.kr/article/76715</link>
-            <guid>https://www.elle.co.kr/article/76715</guid>
-            <pubDate>Mon, 17 Apr 2023 05:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/e39dd3a1-a88b-4b40-9430-b88eacaf53bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
