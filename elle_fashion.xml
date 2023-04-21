@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 05:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 17:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀여운 것이 세상을 구한다! 스타들의 키치한 취향 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/76826</link>
+            <guid>https://www.elle.co.kr/article/76826</guid>
+            <pubDate>Fri, 21 Apr 2023 17:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[아기자기한 포인트의 귀여운 패션 아이템과 사랑에 빠진 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/55ada097-3c6a-42ab-b65b-5f969f883195.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와이드 벨트로 감싸 안으며]]></title>
             <link>https://www.elle.co.kr/article/76169</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 18 Apr 2023 05:39:44 GMT</pubDate>
             <content:encoded><![CDATA[롱롱익선! 실루엣을 길고 날씬하게 바꿔주는 맥시 스커트를 발 빠르게 섭렵한 스타들을 소개합니...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/15a8a9f9-e2f5-4f30-ac99-fe10e06e589f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰랑찰랑 프린지 패션]]></title>
-            <link>https://www.elle.co.kr/article/76593</link>
-            <guid>https://www.elle.co.kr/article/76593</guid>
-            <pubDate>Mon, 17 Apr 2023 17:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[프린지의 드라마틱한 움직임.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/a505a056-fc90-47b3-90d9-29593d0aa0d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 05:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 17:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비건이 곧 친환경은 아니다? 그린 뷰티 아이템 필수 체크 리스트 7_선배’s 어드바이스 #164]]></title>
+            <link>https://www.elle.co.kr/article/76744</link>
+            <guid>https://www.elle.co.kr/article/76744</guid>
+            <pubDate>Fri, 21 Apr 2023 17:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[지속 가능한 원료인지, 재활용은 가능한지? 친환경 화장품 구매 시 꼼꼼히 따져보아야 할 포인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/eb1cf16f-e07f-423f-aaf5-fbba37cfdd5b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[녹색 마케팅에 속아본 적 있나요?]]></title>
             <link>https://www.elle.co.kr/article/76592</link>
@@ -61,13 +69,6 @@
             <pubDate>Fri, 14 Apr 2023 17:41:37 GMT</pubDate>
             <content:encoded><![CDATA[덕질 좀 한다는 여자들이 더퍼스트슬램덩크의 투디 남자들에게 빠진 이유]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/19a91c12-6642-443e-b85a-2d1f1dffc47e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평균 연봉 1억 시대? ‘임플레이션’ 속에서 살아남는 법_돈쓸신잡 #92]]></title>
-            <link>https://www.elle.co.kr/article/76508</link>
-            <guid>https://www.elle.co.kr/article/76508</guid>
-            <pubDate>Thu, 13 Apr 2023 05:42:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/6f893323-977b-43d5-8044-4e2bdf709950.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
