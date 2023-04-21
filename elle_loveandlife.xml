@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 17:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 05:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['겉바속촉' 옛날 통닭과 스테이크가 듬뿍? 이색 짜장면 맛집 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/76678</link>
+            <guid>https://www.elle.co.kr/article/76678</guid>
+            <pubDate>Fri, 21 Apr 2023 05:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[망치로 깨서 먹는 짜장면 맛집도 있다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/a3c24f47-7ca5-4f46-8a3a-c236b04dddd4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주 서쪽을 여행할 땐 무조건 이 코스로! 윤혜진이 방문한 제주 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/76671</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 12 Apr 2023 05:41:04 GMT</pubDate>
             <content:encoded><![CDATA[문고리부터 남다른 브라운스 호텔의 ‘폴 스미스 경 스위트’ 룸이 오픈했습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/7cbae634-3ccd-4475-a98b-51e54be4cfdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼자라고 대충 먹지 말아요. 혼밥러를 위한 레서피 5]]></title>
-            <link>https://www.elle.co.kr/article/76480</link>
-            <guid>https://www.elle.co.kr/article/76480</guid>
-            <pubDate>Wed, 12 Apr 2023 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 하루 고생한 나를 위해! 강민경이 알려주는 초간단 혼밥 레서피를 참고해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/c968c68d-918f-490a-acab-654f41aedd36.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 17:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 05:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미소가 예뻤던 아스트로 문빈이 세상을 떠났다]]></title>
+            <link>https://www.elle.co.kr/article/76832</link>
+            <guid>https://www.elle.co.kr/article/76832</guid>
+            <pubDate>Fri, 21 Apr 2023 05:39:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/b61832b0-78bb-4598-9d1f-de1fb961b4c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우아함이란 '이런 것'! <판도라 : 조작된 낙원>의 이지아 VS 장희진 #VS드라마패션]]></title>
             <link>https://www.elle.co.kr/article/76833</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/76805</guid>
             <pubDate>Thu, 20 Apr 2023 05:40:29 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/d6029881-3c07-4e73-8548-5cac922f512d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 사랑스러운 엄정화]]></title>
-            <link>https://www.elle.co.kr/article/76789</link>
-            <guid>https://www.elle.co.kr/article/76789</guid>
-            <pubDate>Wed, 19 Apr 2023 17:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[용감하고 대담한 여성. &lt;닥터 차정숙&gt;의 차정숙으로 돌아온 그녀.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/725bd4ea-d011-4626-b2c2-4b2f2220a664.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
