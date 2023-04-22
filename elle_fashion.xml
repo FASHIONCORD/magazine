@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 17:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 05:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우아함이란 '이런 것'! <판도라 : 조작된 낙원>의 이지아 VS 장희진 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/76833</link>
+            <guid>https://www.elle.co.kr/article/76833</guid>
+            <pubDate>Sat, 22 Apr 2023 05:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[고상한 드레스 룩부터 현실적인 오피스 룩까지! 우아하고 고급스러운 이지아와 장희진의 드라마 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/68f90488-6ef9-4d40-85a8-9278a7664d9f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀여운 것이 세상을 구한다! 스타들의 키치한 취향 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/76826</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Apr 2023 17:39:46 GMT</pubDate>
             <content:encoded><![CDATA[삼림 파괴, 사막화, 지구온난화, 밀렵과 로드킬까지.... 영문도 모른 채 소리소문 없이 사라질지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/26924d73-57cc-4870-9b3b-a7e867bd42a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길수록 매력적! 5인 5색 맥시 스커트 스타일]]></title>
-            <link>https://www.elle.co.kr/article/76721</link>
-            <guid>https://www.elle.co.kr/article/76721</guid>
-            <pubDate>Tue, 18 Apr 2023 05:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[롱롱익선! 실루엣을 길고 날씬하게 바꿔주는 맥시 스커트를 발 빠르게 섭렵한 스타들을 소개합니...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/15a8a9f9-e2f5-4f30-ac99-fe10e06e589f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
