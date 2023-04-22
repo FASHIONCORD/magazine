@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 05:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 17:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬데믹 3년, 일본에 생긴 새 호텔들의 화두: 지속가능성]]></title>
+            <link>https://www.elle.co.kr/article/76731</link>
+            <guid>https://www.elle.co.kr/article/76731</guid>
+            <pubDate>Sat, 22 Apr 2023 17:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[상생과 환경 보호, 착해질 수록 트렌디하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/630598ce-20d8-4b84-91aa-0ad168c20d06.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['겉바속촉' 옛날 통닭과 스테이크가 듬뿍? 이색 짜장면 맛집 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/76678</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 14 Apr 2023 05:41:59 GMT</pubDate>
             <content:encoded><![CDATA[놀이공원에 가지 않아도 맛볼 수 있는 하이 퀄리티의 추로스 맛집 세 곳을 소개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/89cd6a2d-385f-4811-b0b6-2f4707e59f36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴 스미스가 디자인한 호텔?]]></title>
-            <link>https://www.elle.co.kr/article/76509</link>
-            <guid>https://www.elle.co.kr/article/76509</guid>
-            <pubDate>Wed, 12 Apr 2023 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[문고리부터 남다른 브라운스 호텔의 ‘폴 스미스 경 스위트’ 룸이 오픈했습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/7cbae634-3ccd-4475-a98b-51e54be4cfdc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

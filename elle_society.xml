@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 05:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 17:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우울할 땐 뇌과학]]></title>
+            <link>https://www.elle.co.kr/article/76784</link>
+            <guid>https://www.elle.co.kr/article/76784</guid>
+            <pubDate>Sat, 22 Apr 2023 17:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[오늘도 겉으로는 웃지만 속으로는 분을 삭이려 애쓰고 있는가. 에디터가 푹 빠진 마음 근육 단...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/78e423dc-7ed5-421c-aaf9-5edc518cb6d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비건이 곧 친환경은 아니다? 그린 뷰티 아이템 필수 체크 리스트 7_선배’s 어드바이스 #164]]></title>
             <link>https://www.elle.co.kr/article/76744</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 14 Apr 2023 17:41:37 GMT</pubDate>
             <content:encoded><![CDATA[예쁜 디자인 탓에 손님들이 몰래 가져가기 일쑤라는데?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/1a05e44d-7f6b-4375-a5ab-9dddf6c71b6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 더퍼슬, 전설은 지금부터 시작이다]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/76332</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/76332</guid>
-            <pubDate>Fri, 14 Apr 2023 17:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[덕질 좀 한다는 여자들이 더퍼스트슬램덩크의 투디 남자들에게 빠진 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/19a91c12-6642-443e-b85a-2d1f1dffc47e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
