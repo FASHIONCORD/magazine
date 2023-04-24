@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 17:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 05:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정채연, 우아함의 끝]]></title>
+            <link>https://www.elle.co.kr/article/76828</link>
+            <guid>https://www.elle.co.kr/article/76828</guid>
+            <pubDate>Mon, 24 Apr 2023 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[파인 주얼리 브랜드 키린과 배우 정채연의 빛나는 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/bed74aa9-ac85-46df-81d8-e2356f210ab6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에비앙을 입은 발망부터 달콤한 전기 자전거 케이크까지! 그린 어반 라이프를 위한 아이템 2]]></title>
             <link>https://www.elle.co.kr/article/76859</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 20 Apr 2023 05:39:42 GMT</pubDate>
             <content:encoded><![CDATA[어렵지 않아요! 리얼 웨이에서 만난 남자들의 치맛바람.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/1b586cea-5085-452a-9c43-b3780a77c7bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모래주머니 레지던스 #논톡식리빙]]></title>
-            <link>https://www.elle.co.kr/article/76757</link>
-            <guid>https://www.elle.co.kr/article/76757</guid>
-            <pubDate>Thu, 20 Apr 2023 05:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[세계의 정부가 환경 위기와 씨름하는 동안 건축계는 지속 가능한 디자인을 재평가해 왔다. 지금...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/20384123-3430-44c6-86d3-8c8718a947ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 17:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 05:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["커피 마셨다고요? 배가 불렀군요" 요즘 MZ세대가 푹 빠진 '거지방'을 아시나요?_돈쓸신잡 #94]]></title>
+            <link>https://www.elle.co.kr/article/76822</link>
+            <guid>https://www.elle.co.kr/article/76822</guid>
+            <pubDate>Mon, 24 Apr 2023 05:41:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/c8ee5563-aeee-4ba5-942c-08726b9c561a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우울할 땐 뇌과학]]></title>
             <link>https://www.elle.co.kr/article/76784</link>
@@ -61,14 +68,6 @@
             <pubDate>Mon, 17 Apr 2023 17:41:14 GMT</pubDate>
             <content:encoded><![CDATA[4월 22일은 '지구의 날'!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/e31233f3-b985-42f9-9ca0-2a40d7cd81e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가져가지 마세요! 프랑스 맥도날드에서 난리 난 다회용 고무용기 비주얼.zip]]></title>
-            <link>https://www.elle.co.kr/article/76524</link>
-            <guid>https://www.elle.co.kr/article/76524</guid>
-            <pubDate>Fri, 14 Apr 2023 17:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[예쁜 디자인 탓에 손님들이 몰래 가져가기 일쑤라는데?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/1a05e44d-7f6b-4375-a5ab-9dddf6c71b6e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

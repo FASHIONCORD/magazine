@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 17:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 05:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,19 +16,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/c9cba284-1972-4442-9e6c-216cf83fa734.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[생 로랑이 설립한 영화 제작사의 첫 작품은? 패션 하우스와 아트의 조우 3]]></title>
-            <link>https://www.elle.co.kr/article/76905</link>
-            <guid>https://www.elle.co.kr/article/76905</guid>
-            <pubDate>Fri, 21 Apr 2023 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 규모 가구 박람회에 등장한 로에베의 특별한 의자와 보테가 베네타의 신비로운 동굴 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/b0387b96-2f09-4d13-9d45-f4bbe5d99e8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[디자인 씬을 뒤흔든 주역! EDIDA 2023]]></title>
             <link>https://www.elle.co.kr/article/76900</link>
             <guid>https://www.elle.co.kr/article/76900</guid>
             <pubDate>Fri, 21 Apr 2023 17:40:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/d2f7e401-1c19-4a8c-8bf8-ccad374f44ce.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/d2f7e401-1c19-4a8c-8bf8-ccad374f44ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역대 최대 규모에 챗GPT 기반 서비스까지? '아트부산 2023' 핵심 포인트 2 #가볼만한곳]]></title>
@@ -43,6 +35,7 @@
             <guid>https://www.elle.co.kr/article/76893</guid>
             <pubDate>Fri, 21 Apr 2023 17:40:49 GMT</pubDate>
             <content:encoded><![CDATA[발렌시아가를 입은 해리포터부터 몽클레르 패딩을 걸친 프란치스코 교황까지, 모호해져만 가는 예...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/6f28f2ba-6eeb-4f63-9c79-0604d4002435.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마르탱 라포레의 수수께끼 같은 의자들]]></title>
@@ -99,6 +92,13 @@
             <guid>https://www.elle.co.kr/article/76571</guid>
             <pubDate>Mon, 10 Apr 2023 17:41:06 GMT</pubDate>
             <content:encoded><![CDATA['The Moment : 찰나의 희열', '프랑수아 알라르 : 비지트 프리베'.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제주의 땅과 돌, 바람과 숲으로 빚은 유동룡미술관]]></title>
+            <link>https://www.elle.co.kr/article/76260</link>
+            <guid>https://www.elle.co.kr/article/76260</guid>
+            <pubDate>Mon, 24 Apr 2023 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[유동룡 미술관은 제주의 자연과 조화를 이루고 조응하는 방식을 고민한 결과이다.]]></content:encoded>
         </item>
     </channel>
 </rss>
