@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 17:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WGNB과 백종환의 직관]]></title>
+            <link>https://www.elle.co.kr/article/76272</link>
+            <guid>https://www.elle.co.kr/article/76272</guid>
+            <pubDate>Mon, 24 Apr 2023 17:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[교보문고, 준지 플래그십 스토어, 무신사 편집 숍 엠프 티. 건축에 담기는 모든 것을 디자인하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/bd22b10f-7d4e-47c5-9efb-aa489278a1a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스튜디오 차차가 포착한 빛과 일렁임 #더메이커스]]></title>
             <link>https://www.elle.co.kr/article/76271</link>
@@ -35,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/76893</guid>
             <pubDate>Fri, 21 Apr 2023 17:40:49 GMT</pubDate>
             <content:encoded><![CDATA[발렌시아가를 입은 해리포터부터 몽클레르 패딩을 걸친 프란치스코 교황까지, 모호해져만 가는 예...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/6f28f2ba-6eeb-4f63-9c79-0604d4002435.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마르탱 라포레의 수수께끼 같은 의자들]]></title>
@@ -92,13 +99,6 @@
             <guid>https://www.elle.co.kr/article/76571</guid>
             <pubDate>Mon, 10 Apr 2023 17:41:06 GMT</pubDate>
             <content:encoded><![CDATA['The Moment : 찰나의 희열', '프랑수아 알라르 : 비지트 프리베'.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제주의 땅과 돌, 바람과 숲으로 빚은 유동룡미술관]]></title>
-            <link>https://www.elle.co.kr/article/76260</link>
-            <guid>https://www.elle.co.kr/article/76260</guid>
-            <pubDate>Mon, 24 Apr 2023 05:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[유동룡 미술관은 제주의 자연과 조화를 이루고 조응하는 방식을 고민한 결과이다.]]></content:encoded>
         </item>
     </channel>
 </rss>

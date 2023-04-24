@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 17:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스튜디오 차차가 포착한 빛과 일렁임 #더메이커스]]></title>
+            <link>https://www.elle.co.kr/article/76271</link>
+            <guid>https://www.elle.co.kr/article/76271</guid>
+            <pubDate>Mon, 24 Apr 2023 17:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/c9cba284-1972-4442-9e6c-216cf83fa734.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디자인 씬을 뒤흔든 주역! EDIDA 2023]]></title>
+            <link>https://www.elle.co.kr/article/76900</link>
+            <guid>https://www.elle.co.kr/article/76900</guid>
+            <pubDate>Mon, 24 Apr 2023 17:40:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/d2f7e401-1c19-4a8c-8bf8-ccad374f44ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대 최대 규모에 챗GPT 기반 서비스까지? '아트부산 2023' 핵심 포인트 2 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/76898</link>
@@ -52,21 +67,6 @@
             <pubDate>Fri, 21 Apr 2023 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[집 안 곳곳에 기묘한 아름다움을 불어넣는, 몸을 닯은 오브제.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/4cab6451-cabc-48ea-a2fe-22cb31ada073.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모범택시2' 종영! 이제훈X표예진 분노하게 한 에피소드는 바로 이것? #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/76747</link>
-            <guid>https://www.elle.co.kr/article/76747</guid>
-            <pubDate>Fri, 21 Apr 2023 17:40:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/5f16181a-5766-483c-8fee-051015e6d29b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해버지' 박지성이 세계 각국의 축구 꿈나무들과 그라운드 위를 누빈 배경]]></title>
-            <link>https://www.elle.co.kr/article/76732</link>
-            <guid>https://www.elle.co.kr/article/76732</guid>
-            <pubDate>Thu, 20 Apr 2023 17:41:05 GMT</pubDate>
-            <content:encoded><![CDATA['멤버십'이 선사하는 특별한 경험.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/365d5ff8-391e-4bea-925c-b08d29c24a47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

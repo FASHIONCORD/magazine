@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 17:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더보이즈 선우의 제 2막]]></title>
+            <link>https://www.elle.co.kr/article/76928</link>
+            <guid>https://www.elle.co.kr/article/76928</guid>
+            <pubDate>Mon, 24 Apr 2023 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[선우의 첫 단독 화보. 그가 질주할 수 있는 힘은 자신감과 확신이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/f67a0701-5772-4618-88bb-48ed03d89330.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스피드가 생명! 5분이면 충분한 이청아의 데일리 메이크업]]></title>
+            <link>https://www.elle.co.kr/article/76932</link>
+            <guid>https://www.elle.co.kr/article/76932</guid>
+            <pubDate>Mon, 24 Apr 2023 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[딱 5분만 투자하세요. 퓨어하고 자연스러운 이청아의 메이크업을 확인해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/2817c27a-b619-45e1-adb5-da9ee65f9887.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소장한 카메라만 22대! 문별이 꼽은 최애 카메라는?]]></title>
+            <link>https://www.elle.co.kr/article/76922</link>
+            <guid>https://www.elle.co.kr/article/76922</guid>
+            <pubDate>Mon, 24 Apr 2023 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[소문난 카메라 덕후 문별이 고른 여섯 대의 카메라를 구경해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/35fd7590-b71d-4256-b9bd-8f88aa23a24b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조현아가 밝힌 5살 차이 절친 수지의 '심쿵' 모먼트는?]]></title>
             <link>https://www.elle.co.kr/article/76907</link>
@@ -43,28 +67,6 @@
             <guid>https://www.elle.co.kr/article/76899</guid>
             <pubDate>Sun, 23 Apr 2023 05:40:41 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/308bb3dd-dfd7-4089-bf5e-6b2b2e322490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떻게 참았대?! 레이디제인-임현태, 7년 묵힌 러브스토리 대방출]]></title>
-            <link>https://www.elle.co.kr/article/76896</link>
-            <guid>https://www.elle.co.kr/article/76896</guid>
-            <pubDate>Sat, 22 Apr 2023 05:40:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/900fa283-8479-4502-91be-f1a32a219c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공효진이 결혼식 답례품으로 고른 초콜릿은? 새로운 디저트 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/76871</link>
-            <guid>https://www.elle.co.kr/article/76871</guid>
-            <pubDate>Sat, 22 Apr 2023 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[먼저 가는 사람이 승리하는 서울 구석구석의 디저트 맛집을 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/d5f01c07-afaa-40a1-bc95-a6c109a570ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 김은숙 작가, 강릉 산불 피해 지원하며 남긴 메시지는?]]></title>
-            <link>https://www.elle.co.kr/article/76867</link>
-            <guid>https://www.elle.co.kr/article/76867</guid>
-            <pubDate>Fri, 21 Apr 2023 17:40:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/c324051a-e7f3-45d7-89ca-70083a46bf0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

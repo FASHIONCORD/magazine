@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 17:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해버지' 박지성이 세계 각국의 축구 꿈나무들과 그라운드 위를 누빈 배경]]></title>
+            <link>https://www.elle.co.kr/article/76732</link>
+            <guid>https://www.elle.co.kr/article/76732</guid>
+            <pubDate>Mon, 24 Apr 2023 17:42:33 GMT</pubDate>
+            <content:encoded><![CDATA['멤버십'이 선사하는 특별한 경험.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/365d5ff8-391e-4bea-925c-b08d29c24a47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬데믹 3년, 일본에 생긴 새 호텔들의 화두: 지속가능성]]></title>
             <link>https://www.elle.co.kr/article/76731</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 14 Apr 2023 17:41:29 GMT</pubDate>
             <content:encoded><![CDATA['The Moment : 찰나의 희열', '프랑수아 알라르 : 비지트 프리베'.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/7ac11eb5-6ca8-446f-8fa8-53b9f00e66b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이글 다음은 추로스? 요즘 인기 디저트 추로스 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/76542</link>
-            <guid>https://www.elle.co.kr/article/76542</guid>
-            <pubDate>Fri, 14 Apr 2023 05:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[놀이공원에 가지 않아도 맛볼 수 있는 하이 퀄리티의 추로스 맛집 세 곳을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/89cd6a2d-385f-4811-b0b6-2f4707e59f36.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

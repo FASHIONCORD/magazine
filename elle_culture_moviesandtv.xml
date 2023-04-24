@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 17:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엄정화 활약에 인생캐 경신까지? '닥터 차정숙' 인기 요인 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/76952</link>
+            <guid>https://www.elle.co.kr/article/76952</guid>
+            <pubDate>Mon, 24 Apr 2023 17:41:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/e1fcf45c-daac-482c-9a18-d2135b7e70cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최고 시청률 70%! 레전드 드라마 '수사반장' 프리퀄 출연 확정한 '장르물 장인'의 정체]]></title>
             <link>https://www.elle.co.kr/article/76939</link>
@@ -34,7 +41,6 @@
             <link>https://www.elle.co.kr/article/76747</link>
             <guid>https://www.elle.co.kr/article/76747</guid>
             <pubDate>Mon, 17 Apr 2023 17:40:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/5f16181a-5766-483c-8fee-051015e6d29b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[참교육 맛집 '모범택시', 시즌3 제작 확정! 최종회에 나온 떡밥은?]]></title>
@@ -86,13 +92,6 @@
             <guid>https://www.elle.co.kr/article/76392</guid>
             <pubDate>Fri, 31 Mar 2023 17:41:41 GMT</pubDate>
             <content:encoded><![CDATA[그야말로 초특급 라인업.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스칼렛 요한슨, 마고 로비, 틸다 스윈튼 등 톱배우가 모두 모인 이유?]]></title>
-            <link>https://www.elle.co.kr/article/76369</link>
-            <guid>https://www.elle.co.kr/article/76369</guid>
-            <pubDate>Fri, 31 Mar 2023 05:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[웨스 앤더슨의 신작 ‘애스터로이드 시티’에 대한 모든 것.]]></content:encoded>
         </item>
     </channel>
 </rss>

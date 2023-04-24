@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 17:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가니와 나눈 지속가능한 패션 스토리]]></title>
+            <link>https://www.elle.co.kr/article/76930</link>
+            <guid>https://www.elle.co.kr/article/76930</guid>
+            <pubDate>Mon, 24 Apr 2023 17:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[디테 레프스트럽(Ditte Reffstrup)이 말하는 친환경 패션 속 가니의 현주소.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/db15169e-ed57-4d91-aa40-c897375c036c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수지부터 조이까지! 스타들이 선택한 럭셔리 워치 5]]></title>
+            <link>https://www.elle.co.kr/article/76906</link>
+            <guid>https://www.elle.co.kr/article/76906</guid>
+            <pubDate>Mon, 24 Apr 2023 17:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[주얼리보다 손목시계, 옷 잘 입는 스타들이 착용한 시계는 무엇일까요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/8b08740e-7f66-4b7a-a379-624067e98264.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생 로랑이 설립한 영화 제작사의 첫 작품은? 패션 하우스와 아트의 조우 3]]></title>
+            <link>https://www.elle.co.kr/article/76905</link>
+            <guid>https://www.elle.co.kr/article/76905</guid>
+            <pubDate>Mon, 24 Apr 2023 17:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 규모 가구 박람회에 등장한 로에베의 특별한 의자와 보테가 베네타의 신비로운 동굴 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/b0387b96-2f09-4d13-9d45-f4bbe5d99e8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정채연, 우아함의 끝]]></title>
             <link>https://www.elle.co.kr/article/76828</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 21 Apr 2023 17:39:50 GMT</pubDate>
             <content:encoded><![CDATA[아기자기한 포인트의 귀여운 패션 아이템과 사랑에 빠진 스타들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/55ada097-3c6a-42ab-b65b-5f969f883195.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와이드 벨트로 감싸 안으며]]></title>
-            <link>https://www.elle.co.kr/article/76169</link>
-            <guid>https://www.elle.co.kr/article/76169</guid>
-            <pubDate>Fri, 21 Apr 2023 05:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[챔피언도 부럽지 않아.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/48b7d84c-67cf-47fc-983a-3de22c88b092.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['손민수 각'하게 만드는 차정원의 가방 속 아이템은?]]></title>
-            <link>https://www.elle.co.kr/article/76758</link>
-            <guid>https://www.elle.co.kr/article/76758</guid>
-            <pubDate>Thu, 20 Apr 2023 17:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[세련된 패션 감각의 소유자 차정원, 그녀의 취향이 묻은 소지품은 과연 무엇일까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/d7291884-6cfe-42a9-9c18-f95d5bd88b73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스커트 신드롬]]></title>
-            <link>https://www.elle.co.kr/article/76460</link>
-            <guid>https://www.elle.co.kr/article/76460</guid>
-            <pubDate>Thu, 20 Apr 2023 05:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[어렵지 않아요! 리얼 웨이에서 만난 남자들의 치맛바람.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/1b586cea-5085-452a-9c43-b3780a77c7bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
