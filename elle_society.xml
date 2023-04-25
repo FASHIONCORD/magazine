@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 05:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너구리와 참매는 어쩌다 이곳에 왔을까? 충남야생동물구조센터의 하루]]></title>
+            <link>https://www.elle.co.kr/article/76824</link>
+            <guid>https://www.elle.co.kr/article/76824</guid>
+            <pubDate>Tue, 25 Apr 2023 17:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[총 근무인원 11명. 2022년 한해구조한야생동물수 2525마리. 그중 40%는 자연으로 되돌아갔다. 인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/664536df-b279-4316-846a-e0744a2b850a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["커피 마셨다고요? 배가 불렀군요" 요즘 MZ세대가 푹 빠진 '거지방'을 아시나요?_돈쓸신잡 #94]]></title>
             <link>https://www.elle.co.kr/article/76822</link>
@@ -60,14 +68,6 @@
             <pubDate>Tue, 18 Apr 2023 17:41:23 GMT</pubDate>
             <content:encoded><![CDATA[환경에 대한 진정성을 장삿속으로 이용하는 그린워싱에 맞서 똑똑한 소비자로 거듭나는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/b65b88e0-ba4b-495f-860e-d1d2a300f054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소등행사부터 플라워 클래스, 플로깅까지! '지구의 날' 특집 행사 모음 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/76525</link>
-            <guid>https://www.elle.co.kr/article/76525</guid>
-            <pubDate>Mon, 17 Apr 2023 17:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[4월 22일은 '지구의 날'!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/e31233f3-b985-42f9-9ca0-2a40d7cd81e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

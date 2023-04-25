@@ -4,16 +4,31 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 05:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[끊임없이 목마른 배우 전도연에게 ‘도취’란 없다_요주의여성 #84]]></title>
+            <link>https://www.elle.co.kr/article/76938</link>
+            <guid>https://www.elle.co.kr/article/76938</guid>
+            <pubDate>Tue, 25 Apr 2023 17:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;일타 스캔들&gt;과 &lt;길복순&gt;으로 감히 전도연의 ‘정점’을 논하지 말라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/ab075c38-c279-4799-b45f-cabb2104861b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리퀄 드라마에 여성 버전 스핀오프까지?! 더 확장되는 '존 윅' 유니버스 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/76937</link>
+            <guid>https://www.elle.co.kr/article/76937</guid>
+            <pubDate>Tue, 25 Apr 2023 17:41:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/9e87e555-42ba-44de-892e-0b0dfba96f1d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스튜디오 차차가 포착한 빛과 일렁임 #더메이커스]]></title>
             <link>https://www.elle.co.kr/article/76271</link>
             <guid>https://www.elle.co.kr/article/76271</guid>
             <pubDate>Mon, 24 Apr 2023 17:40:56 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/c9cba284-1972-4442-9e6c-216cf83fa734.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/c9cba284-1972-4442-9e6c-216cf83fa734.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디자인 씬을 뒤흔든 주역! EDIDA 2023]]></title>
@@ -52,21 +67,6 @@
             <pubDate>Fri, 21 Apr 2023 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[잠실 주경기장이어도 불안한 내 좌석의 존재 여부.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/ec950b92-8de5-4eee-b165-e0618166ce6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백스테이지에서 무슨 일이?! 블랙핑크가 직접 전한 눈물의 코첼라 후기.txt]]></title>
-            <link>https://www.elle.co.kr/article/76815</link>
-            <guid>https://www.elle.co.kr/article/76815</guid>
-            <pubDate>Fri, 21 Apr 2023 17:40:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/52ef630c-c7bc-4988-8d26-839f00f756eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발, 손, 가슴. 해부학에서 비롯된 디자인 오브제]]></title>
-            <link>https://www.elle.co.kr/article/76269</link>
-            <guid>https://www.elle.co.kr/article/76269</guid>
-            <pubDate>Fri, 21 Apr 2023 17:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[집 안 곳곳에 기묘한 아름다움을 불어넣는, 몸을 닯은 오브제.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/4cab6451-cabc-48ea-a2fe-22cb31ada073.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

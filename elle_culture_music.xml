@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 05:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[90분의 라이브 밴드 '엘르 스테이지 콘서트' 김윤아, 10CM, 카더가든]]></title>
+            <link>https://www.elle.co.kr/article/77021</link>
+            <guid>https://www.elle.co.kr/article/77021</guid>
+            <pubDate>Tue, 25 Apr 2023 17:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더욱 울림 깊어진 브루노 마스, 9년 만의 내한 콘서트! 최근 셋리스트는?]]></title>
             <link>https://www.elle.co.kr/article/76836</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/76493</guid>
             <pubDate>Wed, 05 Apr 2023 17:41:27 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
@@ -84,12 +91,6 @@
             <title><![CDATA[최초, 최초, 최초! 블랙핑크의 코첼라 헤드라이너 출연이 생각보다 더 대단한 까닭]]></title>
             <link>https://www.elle.co.kr/article/74365</link>
             <guid>https://www.elle.co.kr/article/74365</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[밥 한 번 먹으려고 했더니...? BTS 지민X빅뱅 태양 '바이브' 대유잼 에피소드.txt]]></title>
-            <link>https://www.elle.co.kr/article/74215</link>
-            <guid>https://www.elle.co.kr/article/74215</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
         </item>
     </channel>

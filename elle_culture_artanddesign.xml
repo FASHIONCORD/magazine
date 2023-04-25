@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 05:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피카소라는 이름의 유명세 만큼은 모른다면? 폴 스미스의 '파블로 피카소 기념 전시'를 주목할 것]]></title>
+            <link>https://www.elle.co.kr/article/77000</link>
+            <guid>https://www.elle.co.kr/article/77000</guid>
+            <pubDate>Tue, 25 Apr 2023 17:42:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 놓치면 후회 할 전시 &lt;피카소 셀러브레이션&gt; 미적인 영감이 가득한 파리 피카소 미술관...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7ca58423-d6d4-4770-9c27-e03c8eca715c.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[WGNB과 백종환의 직관]]></title>
             <link>https://www.elle.co.kr/article/76272</link>
@@ -21,7 +29,7 @@
             <guid>https://www.elle.co.kr/article/76271</guid>
             <pubDate>Sat, 22 Apr 2023 17:40:50 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/c9cba284-1972-4442-9e6c-216cf83fa734.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/c9cba284-1972-4442-9e6c-216cf83fa734.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디자인 씬을 뒤흔든 주역! EDIDA 2023]]></title>
@@ -35,7 +43,6 @@
             <link>https://www.elle.co.kr/article/76898</link>
             <guid>https://www.elle.co.kr/article/76898</guid>
             <pubDate>Fri, 21 Apr 2023 17:40:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/40a4a85d-c3a4-4c85-ab76-41eb47a35cf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세계적인 사진전 1위를 거머쥔 우승자, 돌연 수상 거부를 선언한 이유는?]]></title>
@@ -92,13 +99,6 @@
             <guid>https://www.elle.co.kr/article/76265</guid>
             <pubDate>Mon, 10 Apr 2023 17:41:06 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4월에는 사진을]]></title>
-            <link>https://www.elle.co.kr/article/76571</link>
-            <guid>https://www.elle.co.kr/article/76571</guid>
-            <pubDate>Mon, 10 Apr 2023 17:41:06 GMT</pubDate>
-            <content:encoded><![CDATA['The Moment : 찰나의 희열', '프랑수아 알라르 : 비지트 프리베'.]]></content:encoded>
         </item>
     </channel>
 </rss>
