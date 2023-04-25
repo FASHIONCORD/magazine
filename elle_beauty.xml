@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 17:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 05:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이건 가져야 해! 도라에몽 리미티드 에디션]]></title>
+            <link>https://www.elle.co.kr/article/76814</link>
+            <guid>https://www.elle.co.kr/article/76814</guid>
+            <pubDate>Tue, 25 Apr 2023 05:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[태양 아래 함께 빛날 든든한 나의 친구, 아넷사 도라에몽&amp;도라미 리미티드 에디션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/0256c7e2-877e-4685-9d1e-cd8b014ba979.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['피지컬 아저씨' 추성훈! 운동할 때 이것만은 꼭 지킨다는데? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/76811</link>
@@ -59,13 +67,6 @@
             <pubDate>Wed, 19 Apr 2023 17:39:56 GMT</pubDate>
             <content:encoded><![CDATA[시티 포레스티벌 2023의 티켓 판매는 오늘부터.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/7e7edee0-b469-4c04-98b2-bfe262c1b038.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[철저한 자기관리로 롱런하는 엄정화! 운동하면서 '이것'을 가장 강조했다는데? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/76636</link>
-            <guid>https://www.elle.co.kr/article/76636</guid>
-            <pubDate>Tue, 18 Apr 2023 17:39:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/bd4e7a08-fc0b-4fbe-bdd5-c48fe2a2ed2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

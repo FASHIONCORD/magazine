@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 17:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 05:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실험적인 뉴 아이 실드]]></title>
+            <link>https://www.elle.co.kr/article/76173</link>
+            <guid>https://www.elle.co.kr/article/76173</guid>
+            <pubDate>Tue, 25 Apr 2023 05:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[실험실을 방불케 하는 뉴 선글라스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/3c547b16-51db-4018-a594-bea84c60f61f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가니와 나눈 지속가능한 패션 스토리]]></title>
             <link>https://www.elle.co.kr/article/76930</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 22 Apr 2023 05:40:14 GMT</pubDate>
             <content:encoded><![CDATA[고상한 드레스 룩부터 현실적인 오피스 룩까지! 우아하고 고급스러운 이지아와 장희진의 드라마 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/68f90488-6ef9-4d40-85a8-9278a7664d9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀여운 것이 세상을 구한다! 스타들의 키치한 취향 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/76826</link>
-            <guid>https://www.elle.co.kr/article/76826</guid>
-            <pubDate>Fri, 21 Apr 2023 17:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[아기자기한 포인트의 귀여운 패션 아이템과 사랑에 빠진 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/55ada097-3c6a-42ab-b65b-5f969f883195.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
