@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 17:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 05:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 김무열과 윤승아의 랜선 집들이]]></title>
+            <link>https://www.elle.co.kr/article/76773</link>
+            <guid>https://www.elle.co.kr/article/76773</guid>
+            <pubDate>Wed, 26 Apr 2023 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[세이지 그린 컬러로 물든 ‘젬마 하우스’로의 초대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/69c5f203-d3d2-43c1-946f-6939a20818d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WGNB과 백종환의 직관]]></title>
             <link>https://www.elle.co.kr/article/76272</link>
@@ -60,14 +68,6 @@
             <pubDate>Sat, 22 Apr 2023 17:41:00 GMT</pubDate>
             <content:encoded><![CDATA[상생과 환경 보호, 착해질 수록 트렌디하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/630598ce-20d8-4b84-91aa-0ad168c20d06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['겉바속촉' 옛날 통닭과 스테이크가 듬뿍? 이색 짜장면 맛집 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/76678</link>
-            <guid>https://www.elle.co.kr/article/76678</guid>
-            <pubDate>Fri, 21 Apr 2023 05:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[망치로 깨서 먹는 짜장면 맛집도 있다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/a3c24f47-7ca5-4f46-8a3a-c236b04dddd4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

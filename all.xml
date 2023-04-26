@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 17:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 05:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1816,6 +1816,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTA0MTdfODgg/MDAxNTU1NDgyNDAyMTE4.ZIkiwlQNMKzp9I5I8oogCSX3vC2mF3mdx-_83d_BsoAg.lBGLsUsO6NWArNkpNYZ6Upyzbbtn4Eb6JSIOMYDUY_Ag.JPEG/IzJkVVKFkYZv3pwUyx9vBC0otJoo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인사이드 아웃 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/76956</link>
+            <guid>https://www.elle.co.kr/article/76956</guid>
+            <pubDate>Wed, 26 Apr 2023 05:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[사람들은 오재훈의 작품을 친환경적 예술인지 패션인지 묻지만, 그는 개의치 않고 내일을 준비한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/e683f537-d71c-4ede-9f10-93ee46ade6e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[핑크보다 진한 메탈릭 리본 액세서리 트렌드! 쇼핑 리스트 4 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/76955</link>
             <guid>https://www.elle.co.kr/article/76955</guid>
@@ -1870,14 +1878,6 @@
             <pubDate>Mon, 24 Apr 2023 17:39:58 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 규모 가구 박람회에 등장한 로에베의 특별한 의자와 보테가 베네타의 신비로운 동굴 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/b0387b96-2f09-4d13-9d45-f4bbe5d99e8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정채연, 우아함의 끝 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/76828</link>
-            <guid>https://www.elle.co.kr/article/76828</guid>
-            <pubDate>Mon, 24 Apr 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[파인 주얼리 브랜드 키린과 배우 정채연의 빛나는 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/bed74aa9-ac85-46df-81d8-e2356f210ab6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스피드가 생명! 5분이면 충분한 이청아의 데일리 메이크업 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1941,6 +1941,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/f230bb02-0d99-4ef7-9fd6-1478e1eb7ffe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[죽기 전 마지막 한 끼는 바로 이것으로? 빅뱅 태양이 극찬한 전국 맛집 3 #가볼만한곳 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/76996</link>
+            <guid>https://www.elle.co.kr/article/76996</guid>
+            <pubDate>Wed, 26 Apr 2023 05:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[오랜만에 컴백한 태양!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/174d3df2-1c9b-4688-8275-a1c984a77308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[셔츠, 어디까지 입어봤니? #셔츠의계절 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76959</link>
             <guid>https://www.elle.co.kr/article/76959</guid>
@@ -1959,7 +1967,7 @@
             <title><![CDATA[기와지붕부터 부채춤, 한복까지! 한국적인 색채로 코첼라를 물들인 블랙핑크 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/76953</link>
             <guid>https://www.elle.co.kr/article/76953</guid>
-            <pubDate>Tue, 25 Apr 2023 17:40:52 GMT</pubDate>
+            <pubDate>Tue, 25 Apr 2023 17:40:04 GMT</pubDate>
             <content:encoded><![CDATA[광활한 캘리포니아 인디오 사막을 수놓은 한국의 미.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/fb017e1c-7f15-4e8d-8f36-2a05a34468d7.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1991,14 +1999,6 @@
             <pubDate>Mon, 24 Apr 2023 17:40:47 GMT</pubDate>
             <content:encoded><![CDATA[선우의 첫 단독 화보. 그가 질주할 수 있는 힘은 자신감과 확신이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/f67a0701-5772-4618-88bb-48ed03d89330.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스피드가 생명! 5분이면 충분한 이청아의 데일리 메이크업 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/76932</link>
-            <guid>https://www.elle.co.kr/article/76932</guid>
-            <pubDate>Mon, 24 Apr 2023 17:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[딱 5분만 투자하세요. 퓨어하고 자연스러운 이청아의 메이크업을 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/2817c27a-b619-45e1-adb5-da9ee65f9887.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[끊임없이 목마른 배우 전도연에게 ‘도취’란 없다_요주의여성 #84 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2327,6 +2327,14 @@
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[배우 김무열과 윤승아의 랜선 집들이 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
+            <link>https://www.elle.co.kr/article/76773</link>
+            <guid>https://www.elle.co.kr/article/76773</guid>
+            <pubDate>Wed, 26 Apr 2023 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[세이지 그린 컬러로 물든 ‘젬마 하우스’로의 초대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/69c5f203-d3d2-43c1-946f-6939a20818d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[WGNB과 백종환의 직관 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/76272</link>
             <guid>https://www.elle.co.kr/article/76272</guid>
@@ -2379,14 +2387,6 @@
             <pubDate>Sat, 22 Apr 2023 17:41:00 GMT</pubDate>
             <content:encoded><![CDATA[상생과 환경 보호, 착해질 수록 트렌디하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/630598ce-20d8-4b84-91aa-0ad168c20d06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['겉바속촉' 옛날 통닭과 스테이크가 듬뿍? 이색 짜장면 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
-            <link>https://www.elle.co.kr/article/76678</link>
-            <guid>https://www.elle.co.kr/article/76678</guid>
-            <pubDate>Fri, 21 Apr 2023 05:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[망치로 깨서 먹는 짜장면 맛집도 있다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/a3c24f47-7ca5-4f46-8a3a-c236b04dddd4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너구리와 참매는 어쩌다 이곳에 왔을까? 충남야생동물구조센터의 하루 (엘르 코리아 ─ 소사이어티)]]></title>
