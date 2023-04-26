@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 05:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 17:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루이비통에서 식사를, 프라다에서 커피와 칵테일을]]></title>
+            <link>https://www.elle.co.kr/article/76966</link>
+            <guid>https://www.elle.co.kr/article/76966</guid>
+            <pubDate>Wed, 26 Apr 2023 17:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[명품 하우스에서 옷만 사는 건 옛날 얘기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4c69dc6c-d7fc-41f1-8a2d-32ea6b921a45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 김무열과 윤승아의 랜선 집들이]]></title>
             <link>https://www.elle.co.kr/article/76773</link>
@@ -60,14 +68,6 @@
             <pubDate>Mon, 24 Apr 2023 17:42:33 GMT</pubDate>
             <content:encoded><![CDATA['멤버십'이 선사하는 특별한 경험.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/365d5ff8-391e-4bea-925c-b08d29c24a47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹 3년, 일본에 생긴 새 호텔들의 화두: 지속가능성]]></title>
-            <link>https://www.elle.co.kr/article/76731</link>
-            <guid>https://www.elle.co.kr/article/76731</guid>
-            <pubDate>Sat, 22 Apr 2023 17:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[상생과 환경 보호, 착해질 수록 트렌디하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/630598ce-20d8-4b84-91aa-0ad168c20d06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

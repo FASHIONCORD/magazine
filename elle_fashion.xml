@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 05:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 17:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피카소라는 이름의 유명세 만큼은 모른다면? 폴 스미스의 '파블로 피카소 기념 전시'를 주목할 것]]></title>
+            <link>https://www.elle.co.kr/article/77000</link>
+            <guid>https://www.elle.co.kr/article/77000</guid>
+            <pubDate>Wed, 26 Apr 2023 17:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 놓치면 후회 할 전시 &lt;피카소 셀러브레이션&gt; 미적인 영감이 가득한 파리 피카소 미술관...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7ca58423-d6d4-4770-9c27-e03c8eca715c.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[셔츠, 어디까지 입어봤니? #셔츠의계절]]></title>
+            <link>https://www.elle.co.kr/article/76959</link>
+            <guid>https://www.elle.co.kr/article/76959</guid>
+            <pubDate>Wed, 26 Apr 2023 17:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[지금 이 계절에 딱! 스타들의 각양각색 셔츠 패션을 모아봤습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/0e91e7b1-7fd8-4e2f-91f4-952dc717242e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인사이드 아웃]]></title>
             <link>https://www.elle.co.kr/article/76956</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 24 Apr 2023 17:39:58 GMT</pubDate>
             <content:encoded><![CDATA[디테 레프스트럽(Ditte Reffstrup)이 말하는 친환경 패션 속 가니의 현주소.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/db15169e-ed57-4d91-aa40-c897375c036c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수지부터 조이까지! 스타들이 선택한 럭셔리 워치 5]]></title>
-            <link>https://www.elle.co.kr/article/76906</link>
-            <guid>https://www.elle.co.kr/article/76906</guid>
-            <pubDate>Mon, 24 Apr 2023 17:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[주얼리보다 손목시계, 옷 잘 입는 스타들이 착용한 시계는 무엇일까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/8b08740e-7f66-4b7a-a379-624067e98264.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생 로랑이 설립한 영화 제작사의 첫 작품은? 패션 하우스와 아트의 조우 3]]></title>
-            <link>https://www.elle.co.kr/article/76905</link>
-            <guid>https://www.elle.co.kr/article/76905</guid>
-            <pubDate>Mon, 24 Apr 2023 17:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 규모 가구 박람회에 등장한 로에베의 특별한 의자와 보테가 베네타의 신비로운 동굴 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/b0387b96-2f09-4d13-9d45-f4bbe5d99e8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
