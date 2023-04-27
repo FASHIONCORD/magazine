@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 17:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 05:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 식탁을 응시하는 법]]></title>
+            <link>https://www.elle.co.kr/article/76920</link>
+            <guid>https://www.elle.co.kr/article/76920</guid>
+            <pubDate>Thu, 27 Apr 2023 05:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[채식을 향한 솔직한 욕망부터 지구를 구할 식재료까지. 매일 마주하는 식탁을 또렷이 응시해 온...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/c71adeb8-5dbe-4fd9-9bae-d5957212bad9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계적인 사진전 1위를 거머쥔 우승자, 돌연 수상 거부를 선언한 이유는?]]></title>
+            <link>https://www.elle.co.kr/article/76893</link>
+            <guid>https://www.elle.co.kr/article/76893</guid>
+            <pubDate>Thu, 27 Apr 2023 05:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[발렌시아가를 입은 해리포터부터 몽클레르 패딩을 걸친 프란치스코 교황까지, 모호해져만 가는 예...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/6f28f2ba-6eeb-4f63-9c79-0604d4002435.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에비앙을 입은 발망부터 달콤한 전기 자전거 케이크까지! 그린 어반 라이프를 위한 아이템 2]]></title>
+            <link>https://www.elle.co.kr/article/76859</link>
+            <guid>https://www.elle.co.kr/article/76859</guid>
+            <pubDate>Thu, 27 Apr 2023 05:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[재활용 소재로 만든 티셔츠를 걸친 채 전기 자전거를 타고 도심을 누비는 삶.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/5eae7b0d-6649-4d4b-a4a1-77a4d1f55643.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너구리와 참매는 어쩌다 이곳에 왔을까? 충남야생동물구조센터의 하루]]></title>
             <link>https://www.elle.co.kr/article/76824</link>
@@ -45,29 +69,6 @@
             <pubDate>Thu, 20 Apr 2023 17:41:54 GMT</pubDate>
             <content:encoded><![CDATA[친환경이 돈이 되는 시대. 그린워싱의 ‘위험한 척’에 관하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/62a96aa6-c740-429e-97df-d17f90d0ee4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다가오는 지구의 날에는 지구를 위한 신발을! 지속 가능한 패션 아이템 2]]></title>
-            <link>https://www.elle.co.kr/article/76691</link>
-            <guid>https://www.elle.co.kr/article/76691</guid>
-            <pubDate>Wed, 19 Apr 2023 17:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[파타고니아가 4조 원이 넘는 회사 지분 100%를 내놓은 이유는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/e86c0485-78da-44ef-b5df-289343d65a9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘아무도 나를 모르고, 돈이 많았으면 좋겠어요’ 돈 자랑 뒤에 숨겨진 불편한 진실_돈쓸신잡 #93]]></title>
-            <link>https://www.elle.co.kr/article/76645</link>
-            <guid>https://www.elle.co.kr/article/76645</guid>
-            <pubDate>Wed, 19 Apr 2023 17:41:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/c4d4b038-632f-40c0-80ac-b94612293263.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경 위장주의보]]></title>
-            <link>https://www.elle.co.kr/article/76582</link>
-            <guid>https://www.elle.co.kr/article/76582</guid>
-            <pubDate>Tue, 18 Apr 2023 17:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[환경에 대한 진정성을 장삿속으로 이용하는 그린워싱에 맞서 똑똑한 소비자로 거듭나는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/b65b88e0-ba4b-495f-860e-d1d2a300f054.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

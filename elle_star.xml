@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 17:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 05:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조리원 퇴소하고 본격 현실 육아 시작한 허니제이 근황.jpg]]></title>
+            <link>https://www.elle.co.kr/article/77102</link>
+            <guid>https://www.elle.co.kr/article/77102</guid>
+            <pubDate>Thu, 27 Apr 2023 05:39:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/6cf13859-c8e5-4cb7-8419-1baa0dbecb78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀러브리티의 플랜 B! 제2의 직업을 갖게 된 스타 3]]></title>
             <link>https://www.elle.co.kr/article/77033</link>
@@ -61,13 +68,6 @@
             <pubDate>Tue, 25 Apr 2023 17:40:52 GMT</pubDate>
             <content:encoded><![CDATA[지금 이 계절에 딱! 스타들의 각양각색 셔츠 패션을 모아봤습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/0e91e7b1-7fd8-4e2f-91f4-952dc717242e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시스루 드레스부터 트레이닝룩까지! 이효리 반전 패션 근황.jpg]]></title>
-            <link>https://www.elle.co.kr/article/76954</link>
-            <guid>https://www.elle.co.kr/article/76954</guid>
-            <pubDate>Tue, 25 Apr 2023 17:40:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/56465249-b3e7-48a0-9c2f-d04e2d98d8c7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

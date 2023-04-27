@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 17:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 05:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[90분의 라이브 밴드 '엘르 스테이지 콘서트' 김윤아, 10CM, 카더가든]]></title>
+            <link>https://www.elle.co.kr/article/77021</link>
+            <guid>https://www.elle.co.kr/article/77021</guid>
+            <pubDate>Thu, 27 Apr 2023 05:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우주를 담은 구찌 워치]]></title>
+            <link>https://www.elle.co.kr/article/76945</link>
+            <guid>https://www.elle.co.kr/article/76945</guid>
+            <pubDate>Thu, 27 Apr 2023 05:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[하우스의 상징적인 코드와 아방가르드한 멋으로 무장한 구찌 하이 워치 켈렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/6cf9242a-6ee0-4598-94fc-7554d9ecab12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피카소라는 이름의 유명세 만큼은 모른다면? 폴 스미스의 '파블로 피카소 기념 전시'를 주목할 것]]></title>
             <link>https://www.elle.co.kr/article/77000</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 25 Apr 2023 17:40:04 GMT</pubDate>
             <content:encoded><![CDATA[브릴리언트한 모든 것을 담았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/98e4c72d-0376-48f3-9976-1d3120ab9e7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실험적인 뉴 아이 실드]]></title>
-            <link>https://www.elle.co.kr/article/76173</link>
-            <guid>https://www.elle.co.kr/article/76173</guid>
-            <pubDate>Tue, 25 Apr 2023 05:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[실험실을 방불케 하는 뉴 선글라스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/3c547b16-51db-4018-a594-bea84c60f61f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가니와 나눈 지속가능한 패션 스토리]]></title>
-            <link>https://www.elle.co.kr/article/76930</link>
-            <guid>https://www.elle.co.kr/article/76930</guid>
-            <pubDate>Mon, 24 Apr 2023 17:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[디테 레프스트럽(Ditte Reffstrup)이 말하는 친환경 패션 속 가니의 현주소.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/db15169e-ed57-4d91-aa40-c897375c036c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
