@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 05:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 17:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WGNB과 백종환의 직관]]></title>
+            <link>https://www.elle.co.kr/article/76272</link>
+            <guid>https://www.elle.co.kr/article/76272</guid>
+            <pubDate>Thu, 27 Apr 2023 17:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[교보문고, 준지 플래그십 스토어, 무신사 편집 숍 엠프 티. 건축에 담기는 모든 것을 디자인하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/bd22b10f-7d4e-47c5-9efb-aa489278a1a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엄정화 활약에 인생캐 경신까지? '닥터 차정숙' 인기 요인 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/76952</link>
@@ -57,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/76898</guid>
             <pubDate>Mon, 24 Apr 2023 05:40:34 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/40a4a85d-c3a4-4c85-ab76-41eb47a35cf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계적인 사진전 1위를 거머쥔 우승자, 돌연 수상 거부를 선언한 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/76893</link>
-            <guid>https://www.elle.co.kr/article/76893</guid>
-            <pubDate>Mon, 24 Apr 2023 05:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[발렌시아가를 입은 해리포터부터 몽클레르 패딩을 걸친 프란치스코 교황까지, 모호해져만 가는 예...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/6f28f2ba-6eeb-4f63-9c79-0604d4002435.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
