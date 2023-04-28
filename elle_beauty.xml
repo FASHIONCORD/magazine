@@ -4,9 +4,32 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 17:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 '여돌' 앞머리 트렌드]]></title>
+            <link>https://www.elle.co.kr/article/76174</link>
+            <guid>https://www.elle.co.kr/article/76174</guid>
+            <pubDate>Fri, 28 Apr 2023 05:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 하니와 해린, 아이즈원 안유진, 에스파 윈터, (여자) 아이들 민니의 '풀 뱅' 스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/27dba3b4-fdf1-4595-b832-a47481ac1ac9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관리의 끝판왕, 궁극의 프리미엄 안티에이징]]></title>
+            <link>https://www.elle.co.kr/article/76943</link>
+            <guid>https://www.elle.co.kr/article/76943</guid>
+            <pubDate>Fri, 28 Apr 2023 05:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[피부에 활력과 숭고한 광채를 깨우는 독보적 뷰티 리추얼, 샤넬 수블리마지 라인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/a1c4c675-60dc-4ff2-afb7-f2b4902dbcf4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["'먹토'해서 '뼈말라' 됐어요": 극단적 다이어트 영상 유행에 유튜브가 내린 결정]]></title>
+            <link>https://www.elle.co.kr/article/77018</link>
+            <guid>https://www.elle.co.kr/article/77018</guid>
+            <pubDate>Fri, 28 Apr 2023 05:39:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4715df17-34cf-4b11-bc48-516b12ee9250.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수분 폭탄 투하! 히알루론산의 모든 것_선배’s 어드바이스 #165]]></title>
             <link>https://www.elle.co.kr/article/76967</link>
@@ -45,29 +68,6 @@
             <guid>https://www.elle.co.kr/article/76862</guid>
             <pubDate>Tue, 25 Apr 2023 17:40:12 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/b7f9e19a-ab1b-48d2-99f9-0f98db2137bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 가져야 해! 도라에몽 리미티드 에디션]]></title>
-            <link>https://www.elle.co.kr/article/76814</link>
-            <guid>https://www.elle.co.kr/article/76814</guid>
-            <pubDate>Tue, 25 Apr 2023 05:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[태양 아래 함께 빛날 든든한 나의 친구, 아넷사 도라에몽&amp;도라미 리미티드 에디션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/0256c7e2-877e-4685-9d1e-cd8b014ba979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피지컬 아저씨' 추성훈! 운동할 때 이것만은 꼭 지킨다는데? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/76811</link>
-            <guid>https://www.elle.co.kr/article/76811</guid>
-            <pubDate>Mon, 24 Apr 2023 05:39:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/5179c92c-709d-4ad1-8fc0-604b4dac78a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 김아현의 데일리 메이크업 Tip]]></title>
-            <link>https://www.elle.co.kr/article/76787</link>
-            <guid>https://www.elle.co.kr/article/76787</guid>
-            <pubDate>Fri, 21 Apr 2023 17:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[촉촉한 피부를 위한 스킨케어부터 내추럴하고 퓨어한 분위기의 데일리 메이크업까지! 그동안 꽁꽁...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/1ec825f6-ed19-4a44-99d1-500b3b6f036f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 17:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽이 든 그 가방! #데일리백 쇼핑리스트]]></title>
+            <link>https://www.elle.co.kr/article/77127</link>
+            <guid>https://www.elle.co.kr/article/77127</guid>
+            <pubDate>Fri, 28 Apr 2023 05:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[봄을 닮은 화사한 컬러부터 심플한 블랙까지, 스타들의 일상에서 발견된 데일리 백을 소개합니다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/ecbd7f44-db5a-4b21-8ba5-b04636346635.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김윤아 , 그 독보적인 위대함에 대하여]]></title>
+            <link>https://www.elle.co.kr/article/77036</link>
+            <guid>https://www.elle.co.kr/article/77036</guid>
+            <pubDate>Fri, 28 Apr 2023 05:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[끝없이 노래해 온 시간 동안 김윤아는 고통을 감추려는 시도 따위는 한 적 없다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/493bc07c-c71b-497a-9b33-648837487e97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더보이즈 선우를 움직이게 하는 것들]]></title>
             <link>https://www.elle.co.kr/article/77037</link>
@@ -51,22 +67,6 @@
             <pubDate>Wed, 26 Apr 2023 17:40:48 GMT</pubDate>
             <content:encoded><![CDATA[작가 이희조는 일상에 녹아 삶의 동반자가 된 사물을 골똘히 바라보기로 했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/ec5a9508-79d6-415e-b416-ddf6c3a143ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요리에 진심인 BTS 정국! 불그리에 이어 2번째로 공개한 이색 레시피.txt]]></title>
-            <link>https://www.elle.co.kr/article/77025</link>
-            <guid>https://www.elle.co.kr/article/77025</guid>
-            <pubDate>Wed, 26 Apr 2023 17:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[고소한 불마요 들기름 막국수!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/a230b471-a30d-4680-974e-fada2a55b863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90분의 라이브 밴드 '엘르 스테이지 콘서트' 김윤아, 10CM, 카더가든]]></title>
-            <link>https://www.elle.co.kr/article/77021</link>
-            <guid>https://www.elle.co.kr/article/77021</guid>
-            <pubDate>Wed, 26 Apr 2023 17:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

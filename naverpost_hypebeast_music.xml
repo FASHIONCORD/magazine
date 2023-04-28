@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 17:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글렌체크 인터뷰: 거침없이, 위험하게]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35855671&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35855671&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 28 Apr 2023 05:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjhfNDIg/MDAxNjgyNjQ1MDkxODY3.0suou_RFN3oBGAEnWNeR_ALpOgWsyQxT0NC2kVBk7bkg.aVeZh42Hurn4TLsBvJ07IiTVA-9nqgxwe2S4mSngH4Ag.JPEG/I_UdhgGYvAXgSVzftxvo_ZHrSiZg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황소윤 인터뷰: 얼터너티브한 삶]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35770725&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 16 Aug 2022 17:45:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTZfNiAg/MDAxNjYwNjM3OTUxNDc5.1jhZWw8OzwyIkihiOdrEo_sYLZHcdOFP1BwhDvzbHQwg.am6edwOPg9VuFZGFnz4OOY3tocp0CnKtjQ9KQWcTDwEg.JPEG/ILrzX26fn3oS0XSBKW_BOzKKT1SU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#Streetsnaps: AJ 트레이시]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34292741&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34292741&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 11 Aug 2022 17:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTFfMjg3/MDAxNjYwMjAyMjI5Mjk4.GGR4E0Iv-stteAo6J9Kn4EPFVCraa3CivXFF3I0jjIsg.qKgBbnP1fKIe8aCwsruUiOyO8mPDL8bXIf08RNLrTYwg.JPEG/IFVyv17xlIo4b9ldkZGSdvH4LOE0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
