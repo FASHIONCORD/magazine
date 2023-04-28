@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 05:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 17:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽이 든 그 가방! #데일리백 쇼핑리스트]]></title>
+            <link>https://www.elle.co.kr/article/77127</link>
+            <guid>https://www.elle.co.kr/article/77127</guid>
+            <pubDate>Fri, 28 Apr 2023 17:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[봄을 닮은 화사한 컬러부터 심플한 블랙까지, 스타들의 일상에서 발견된 데일리 백을 소개합니다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/ecbd7f44-db5a-4b21-8ba5-b04636346635.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지구를 지키는 나의 초록 플랜트]]></title>
+            <link>https://www.elle.co.kr/article/76176</link>
+            <guid>https://www.elle.co.kr/article/76176</guid>
+            <pubDate>Fri, 28 Apr 2023 17:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[지구를 지켜라! 달걀 껍질부터 종이 반죽까지 지속 가능한 소재로 빚은 화병과 화분들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/5482c8bf-4405-4a11-afb3-7907274fe9cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱그럽고 따뜻한 그린 컬러의 매력]]></title>
             <link>https://www.elle.co.kr/article/77126</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 26 Apr 2023 17:40:27 GMT</pubDate>
             <content:encoded><![CDATA[지금 이 계절에 딱! 스타들의 각양각색 셔츠 패션을 모아봤습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/0e91e7b1-7fd8-4e2f-91f4-952dc717242e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사이드 아웃]]></title>
-            <link>https://www.elle.co.kr/article/76956</link>
-            <guid>https://www.elle.co.kr/article/76956</guid>
-            <pubDate>Wed, 26 Apr 2023 05:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[사람들은 오재훈의 작품을 친환경적 예술인지 패션인지 묻지만, 그는 개의치 않고 내일을 준비한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/e683f537-d71c-4ede-9f10-93ee46ade6e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핑크보다 진한 메탈릭 리본 액세서리 트렌드! 쇼핑 리스트 4]]></title>
-            <link>https://www.elle.co.kr/article/76955</link>
-            <guid>https://www.elle.co.kr/article/76955</guid>
-            <pubDate>Tue, 25 Apr 2023 17:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[그 어렵다는 러블리 &amp; 쿨, 메탈릭 리본의 시크한 매력을 아시는지. 이번 시즌 트렌드는 메탈릭...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/7b1fa844-5f59-42cb-a491-1ec14014e3e4.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

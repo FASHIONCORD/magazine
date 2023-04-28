@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 05:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 17:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정신없이 바쁜 도심 속, 나만의 오아시스가 되어줄 카페! 서초-이태원-용산 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/76968</link>
+            <guid>https://www.elle.co.kr/article/76968</guid>
+            <pubDate>Fri, 28 Apr 2023 17:41:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/e2a66212-a639-4910-9974-8df54ab549a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루이비통에서 식사를, 프라다에서 커피와 칵테일을]]></title>
             <link>https://www.elle.co.kr/article/76966</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/76760</guid>
             <pubDate>Tue, 25 Apr 2023 05:41:26 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/fd8cf02a-a1d8-424c-b53c-c0bcc46f0f21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해버지' 박지성이 세계 각국의 축구 꿈나무들과 그라운드 위를 누빈 배경]]></title>
-            <link>https://www.elle.co.kr/article/76732</link>
-            <guid>https://www.elle.co.kr/article/76732</guid>
-            <pubDate>Mon, 24 Apr 2023 17:42:33 GMT</pubDate>
-            <content:encoded><![CDATA['멤버십'이 선사하는 특별한 경험.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/365d5ff8-391e-4bea-925c-b08d29c24a47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
