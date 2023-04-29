@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 17:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 05:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백상예술대상과 구찌가 만났을 때]]></title>
+            <link>https://www.elle.co.kr/article/77038</link>
+            <guid>https://www.elle.co.kr/article/77038</guid>
+            <pubDate>Sat, 29 Apr 2023 05:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[첫번째 구찌 임팩트 어워드 수상의 주인공은 바로 다음소희다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/ab1b2abd-94f9-4601-aaf8-f1c6ccc5aec5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[까르띠에의 진심. 까르띠에 여성 창업 이니셔티브로 뭉친 세 사람]]></title>
+            <link>https://www.elle.co.kr/article/77136</link>
+            <guid>https://www.elle.co.kr/article/77136</guid>
+            <pubDate>Sat, 29 Apr 2023 05:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[지금의 임팩트 투자, 착한 투자와 가치에 대해 말하다. 인비저닝 파트너스 배수현 이사와 두 여...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/342438f3-98df-4694-91b6-676011ea0316.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀럽이 든 그 가방! #데일리백 쇼핑리스트]]></title>
             <link>https://www.elle.co.kr/article/77127</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 27 Apr 2023 05:39:23 GMT</pubDate>
             <content:encoded><![CDATA[하우스의 상징적인 코드와 아방가르드한 멋으로 무장한 구찌 하이 워치 켈렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/6cf9242a-6ee0-4598-94fc-7554d9ecab12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피카소라는 이름의 유명세 만큼은 모른다면? 폴 스미스의 '파블로 피카소 기념 전시'를 주목할 것]]></title>
-            <link>https://www.elle.co.kr/article/77000</link>
-            <guid>https://www.elle.co.kr/article/77000</guid>
-            <pubDate>Wed, 26 Apr 2023 17:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 놓치면 후회 할 전시 &lt;피카소 셀러브레이션&gt; 미적인 영감이 가득한 파리 피카소 미술관...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7ca58423-d6d4-4770-9c27-e03c8eca715c.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[셔츠, 어디까지 입어봤니? #셔츠의계절]]></title>
-            <link>https://www.elle.co.kr/article/76959</link>
-            <guid>https://www.elle.co.kr/article/76959</guid>
-            <pubDate>Wed, 26 Apr 2023 17:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[지금 이 계절에 딱! 스타들의 각양각색 셔츠 패션을 모아봤습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/0e91e7b1-7fd8-4e2f-91f4-952dc717242e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
