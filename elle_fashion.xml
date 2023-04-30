@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 05:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 17:42:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[색감 천재 퍼렐 윌리엄스가 빚어낸 무지갯빛 스니커즈! 봄을 닮은 파스텔톤 컬래버레이션 2]]></title>
+            <link>https://www.elle.co.kr/article/77188</link>
+            <guid>https://www.elle.co.kr/article/77188</guid>
+            <pubDate>Sun, 30 Apr 2023 17:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[오토링거와 캠퍼의 톡톡 튀는 만남까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/d0538f80-ab18-44c1-963f-f400940f6751.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문화를 엿보는 전시 2]]></title>
             <link>https://www.elle.co.kr/article/77040</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 27 Apr 2023 17:40:04 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엘르 브릴리언트&gt;가 인생의 찬란한 순간을 맞이한 이들의 이야기를 공개했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/4e6bf952-cfe6-4c0d-a7f5-f29556b540fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[90분의 라이브 밴드 '엘르 스테이지 콘서트' 김윤아, 10CM, 카더가든]]></title>
-            <link>https://www.elle.co.kr/article/77021</link>
-            <guid>https://www.elle.co.kr/article/77021</guid>
-            <pubDate>Thu, 27 Apr 2023 05:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

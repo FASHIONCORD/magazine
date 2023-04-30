@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 05:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 17:42:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양승진이 불어서 만든 비주얼 쇼크 #더메이커스]]></title>
+            <link>https://www.elle.co.kr/article/76276</link>
+            <guid>https://www.elle.co.kr/article/76276</guid>
+            <pubDate>Sun, 30 Apr 2023 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/be99a0c5-c676-4b96-b586-59e93765d61f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화가이자 열렬한 수집가인 정진화가 모아온 오래된 멋]]></title>
             <link>https://www.elle.co.kr/article/76275</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76272</guid>
             <pubDate>Mon, 24 Apr 2023 17:41:54 GMT</pubDate>
             <content:encoded><![CDATA[교보문고, 준지 플래그십 스토어, 무신사 편집 숍 엠프 티. 건축에 담기는 모든 것을 디자인하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/bd22b10f-7d4e-47c5-9efb-aa489278a1a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스튜디오 차차가 포착한 빛과 일렁임 #더메이커스]]></title>
@@ -92,13 +99,6 @@
             <guid>https://www.elle.co.kr/article/76268</guid>
             <pubDate>Fri, 14 Apr 2023 17:41:05 GMT</pubDate>
             <content:encoded><![CDATA[그녀의 흐트러진 작업실은 자신만의 디자인 세계로 들어가는 관문이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소만의 시간, 도예가 김덕호와 이인화]]></title>
-            <link>https://www.elle.co.kr/article/76267</link>
-            <guid>https://www.elle.co.kr/article/76267</guid>
-            <pubDate>Wed, 12 Apr 2023 17:41:32 GMT</pubDate>
-            <content:encoded><![CDATA[도예가 김덕호와 이인화가 함께 만들어나가는 '소만'의 시간.]]></content:encoded>
         </item>
     </channel>
 </rss>
