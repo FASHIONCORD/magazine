@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 17:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 05:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요리에 진심인 BTS 정국! 불그리에 이어 2번째로 공개한 이색 레시피.txt]]></title>
+            <link>https://www.elle.co.kr/article/77025</link>
+            <guid>https://www.elle.co.kr/article/77025</guid>
+            <pubDate>Sun, 30 Apr 2023 05:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[고소한 불마요 들기름 막국수!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/a230b471-a30d-4680-974e-fada2a55b863.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[죽기 전 마지막 한 끼는 바로 이것으로? 빅뱅 태양이 극찬한 전국 맛집 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/76996</link>
@@ -61,13 +69,6 @@
             <pubDate>Tue, 25 Apr 2023 05:41:26 GMT</pubDate>
             <content:encoded><![CDATA[먼저 가는 사람이 승리하는 서울 구석구석의 디저트 맛집을 공개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/d5f01c07-afaa-40a1-bc95-a6c109a570ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야경은 기본! 봄밤 정취 만끽하기 좋은 '창덕궁-덕수궁-경복궁' 행사 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/76776</link>
-            <guid>https://www.elle.co.kr/article/76776</guid>
-            <pubDate>Tue, 25 Apr 2023 05:41:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/28ebc877-be90-4b81-b79a-5b189ffbbcc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

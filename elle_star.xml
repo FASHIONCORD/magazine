@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 17:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 05:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["연진아, 되게 신나": 송혜교부터 박은빈까지, 백상 여성 수상자들의 소감 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77197</link>
+            <guid>https://www.elle.co.kr/article/77197</guid>
+            <pubDate>Sun, 30 Apr 2023 05:40:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/21a74410-4788-4498-a207-e208a827a031.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원년 멤버 그대로! 더 강력해진 '지락실 시즌2' 첫 방송 정보 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/77187</link>
@@ -58,14 +65,6 @@
             <guid>https://www.elle.co.kr/article/77137</guid>
             <pubDate>Fri, 28 Apr 2023 17:40:46 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/ff07dcd8-3060-4a9c-9c2e-705362755e1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽이 든 그 가방! #데일리백 쇼핑리스트]]></title>
-            <link>https://www.elle.co.kr/article/77127</link>
-            <guid>https://www.elle.co.kr/article/77127</guid>
-            <pubDate>Fri, 28 Apr 2023 05:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[봄을 닮은 화사한 컬러부터 심플한 블랙까지, 스타들의 일상에서 발견된 데일리 백을 소개합니다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/ecbd7f44-db5a-4b21-8ba5-b04636346635.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
