@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 17:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 05:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[체력부자 박서준, '드림'의 축구선수 피지컬 만들기 위해 한 운동은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/77137</link>
+            <guid>https://www.elle.co.kr/article/77137</guid>
+            <pubDate>Mon, 01 May 2023 05:39:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/ff07dcd8-3060-4a9c-9c2e-705362755e1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운동과 담 쌓았던 한소희, 액션 작품 하다가 푹 빠졌다는 의외의 스포츠는? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/77110</link>
@@ -60,14 +67,6 @@
             <pubDate>Tue, 25 Apr 2023 17:40:12 GMT</pubDate>
             <content:encoded><![CDATA[9개월 만에 21kg를 감량한 에디터의 다이어트 후기.zip]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/8125d618-d1f5-4243-80fe-99e7f5df594c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모공 청소 끝!]]></title>
-            <link>https://www.elle.co.kr/article/76869</link>
-            <guid>https://www.elle.co.kr/article/76869</guid>
-            <pubDate>Tue, 25 Apr 2023 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[피지를 쏙! 흡착해 청정한 모공을 만드는 클레이 마스크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/0383bee3-9a80-4051-b739-b00bd102869b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

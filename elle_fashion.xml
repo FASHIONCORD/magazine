@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 17:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 05:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰 포드가 톰 포드를 떠난다]]></title>
+            <link>https://www.elle.co.kr/article/77200</link>
+            <guid>https://www.elle.co.kr/article/77200</guid>
+            <pubDate>Mon, 01 May 2023 05:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[지난 13년간의 여정 가운데 최고의 피스들로 이루어진 그의 마지막 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/1bfdfc56-bcb7-4b4f-bccb-18e8ed2cd707.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[색감 천재 퍼렐 윌리엄스가 빚어낸 무지갯빛 스니커즈! 봄을 닮은 파스텔톤 컬래버레이션 2]]></title>
             <link>https://www.elle.co.kr/article/77188</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 27 Apr 2023 17:40:04 GMT</pubDate>
             <content:encoded><![CDATA[봄 같은 컬러. 런웨이를 물들인 그리너리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/8bdce69a-e7bc-421b-a53b-3167a95942e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 이 순간 가장 빛나는 얼굴들]]></title>
-            <link>https://www.elle.co.kr/article/76977</link>
-            <guid>https://www.elle.co.kr/article/76977</guid>
-            <pubDate>Thu, 27 Apr 2023 17:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르 브릴리언트&gt;가 인생의 찬란한 순간을 맞이한 이들의 이야기를 공개했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/4e6bf952-cfe6-4c0d-a7f5-f29556b540fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
