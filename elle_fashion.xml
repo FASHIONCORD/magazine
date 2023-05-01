@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 05:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 17:42:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타에게 한 수 배우는 #스타킹 스타일링 5]]></title>
+            <link>https://www.elle.co.kr/article/77201</link>
+            <guid>https://www.elle.co.kr/article/77201</guid>
+            <pubDate>Mon, 01 May 2023 17:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[한소희부터 빌리 아일리시까지 ‘핫’걸들의 스타킹 활용 팁을 공개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/050e06bd-c08a-49ae-8d65-d9a45de191b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톰 포드가 톰 포드를 떠난다]]></title>
             <link>https://www.elle.co.kr/article/77200</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Apr 2023 17:40:26 GMT</pubDate>
             <content:encoded><![CDATA[지구를 지켜라! 달걀 껍질부터 종이 반죽까지 지속 가능한 소재로 빚은 화병과 화분들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/5482c8bf-4405-4a11-afb3-7907274fe9cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱그럽고 따뜻한 그린 컬러의 매력]]></title>
-            <link>https://www.elle.co.kr/article/77126</link>
-            <guid>https://www.elle.co.kr/article/77126</guid>
-            <pubDate>Thu, 27 Apr 2023 17:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[봄 같은 컬러. 런웨이를 물들인 그리너리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/8bdce69a-e7bc-421b-a53b-3167a95942e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
