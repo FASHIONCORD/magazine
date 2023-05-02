@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 17:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포츠맨십에 대한 완전히 새로운 시선. 지금 소마미술관에서 열리는 전시]]></title>
+            <link>https://www.elle.co.kr/article/77041</link>
+            <guid>https://www.elle.co.kr/article/77041</guid>
+            <pubDate>Tue, 02 May 2023 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[전시기획자, 권태현은 세상을 살짝 속여보고 싶다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/5da76363-3bcb-452d-9c8d-dfd06bcc1bc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[늘 새롭게 태어나는 엄정화]]></title>
             <link>https://www.elle.co.kr/article/77042</link>
@@ -58,14 +66,6 @@
             <pubDate>Fri, 28 Apr 2023 17:40:46 GMT</pubDate>
             <content:encoded><![CDATA[절대적 기준도, 한계도 없이 가속도를 만끽 중인 필릭스와 예지의 스물두 살.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/5c64532c-fb84-43fe-94ff-e0889a245775.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장고래 VS 전재준! 이쯤에서 다시 보는 박성훈의 인생 캐릭터는?]]></title>
-            <link>https://www.elle.co.kr/article/77139</link>
-            <guid>https://www.elle.co.kr/article/77139</guid>
-            <pubDate>Fri, 28 Apr 2023 17:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[제59회 백상예술대상 남우조연상 후보에 오른 박성훈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/839e4554-44b8-4ef5-bdb0-52c842853fda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
