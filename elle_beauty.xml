@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 05:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 17:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃과 예술 그리고 향수를 사랑한다면 놓치지 말아야 할 전시, 미스 디올 서울 전시&팝업]]></title>
+            <link>https://www.elle.co.kr/article/77003</link>
+            <guid>https://www.elle.co.kr/article/77003</guid>
+            <pubDate>Tue, 02 May 2023 17:39:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/41011ee0-d86f-4bff-8ac0-a7b47fb1d910.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[채정안이 'N차 구매'한 삶의 질 상승템은?]]></title>
             <link>https://www.elle.co.kr/article/77146</link>
@@ -59,14 +66,6 @@
             <pubDate>Wed, 26 Apr 2023 17:40:37 GMT</pubDate>
             <content:encoded><![CDATA[보습 천재 히알루론산으로 정복하는 스킨케어 A to Z.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/403e4a30-eb41-44a2-97ae-351587b05403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스피드가 생명! 5분이면 충분한 이청아의 데일리 메이크업]]></title>
-            <link>https://www.elle.co.kr/article/76932</link>
-            <guid>https://www.elle.co.kr/article/76932</guid>
-            <pubDate>Tue, 25 Apr 2023 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[딱 5분만 투자하세요. 퓨어하고 자연스러운 이청아의 메이크업을 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/2817c27a-b619-45e1-adb5-da9ee65f9887.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

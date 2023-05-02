@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 05:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 17:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["백쌤이 왜 거기서 나와?" 연락 한 통이면 섭외 가능한 사이, 백종원X박재범]]></title>
+            <link>https://www.elle.co.kr/article/77202</link>
+            <guid>https://www.elle.co.kr/article/77202</guid>
+            <pubDate>Tue, 02 May 2023 17:39:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/59aee3b7-5dee-48b3-9b10-bab81d95b8b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타에게 한 수 배우는 #스타킹 스타일링 5]]></title>
+            <link>https://www.elle.co.kr/article/77201</link>
+            <guid>https://www.elle.co.kr/article/77201</guid>
+            <pubDate>Tue, 02 May 2023 17:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[한소희부터 빌리 아일리시까지 ‘핫’걸들의 스타킹 활용 팁을 공개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/050e06bd-c08a-49ae-8d65-d9a45de191b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스포츠맨십에 대한 완전히 새로운 시선. 지금 소마미술관에서 열리는 전시]]></title>
             <link>https://www.elle.co.kr/article/77041</link>
@@ -50,22 +65,6 @@
             <guid>https://www.elle.co.kr/article/77148</guid>
             <pubDate>Fri, 28 Apr 2023 17:40:46 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/bda68787-f541-423e-85dc-cc134a0f9e7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채정안이 'N차 구매'한 삶의 질 상승템은?]]></title>
-            <link>https://www.elle.co.kr/article/77146</link>
-            <guid>https://www.elle.co.kr/article/77146</guid>
-            <pubDate>Fri, 28 Apr 2023 17:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[SNS 광고 속 바로 ‘그’ 제품을 ‘내돈내산’해서 써본 채정안이 재구매한 아이템 다섯 가지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/8a70df19-dbcb-4ea5-8352-79f9ca578016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 강렬한 조우! 필릭스와 예지, 그리고 루이 비통]]></title>
-            <link>https://www.elle.co.kr/article/77039</link>
-            <guid>https://www.elle.co.kr/article/77039</guid>
-            <pubDate>Fri, 28 Apr 2023 17:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[절대적 기준도, 한계도 없이 가속도를 만끽 중인 필릭스와 예지의 스물두 살.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/5c64532c-fb84-43fe-94ff-e0889a245775.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

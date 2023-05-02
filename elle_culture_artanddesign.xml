@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 05:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 17:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스테이 아키텍츠가 디자인하는 고요한 휴식과 위안]]></title>
+            <link>https://www.elle.co.kr/article/76277</link>
+            <guid>https://www.elle.co.kr/article/76277</guid>
+            <pubDate>Tue, 02 May 2023 17:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[스테이 아키텍츠의 고정석과 홍정희는 사람들이 머무는 곳에 대한 가치와 깊이를 끊임없이 탐구한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/91f3d800-8681-4afd-b9e8-a3089e682cf9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양승진이 불어서 만든 비주얼 쇼크 #더메이커스]]></title>
             <link>https://www.elle.co.kr/article/76276</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/77000</guid>
             <pubDate>Tue, 25 Apr 2023 17:42:27 GMT</pubDate>
             <content:encoded><![CDATA[2023년 놓치면 후회 할 전시 &lt;피카소 셀러브레이션&gt; 미적인 영감이 가득한 파리 피카소 미술관...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/7ca58423-d6d4-4770-9c27-e03c8eca715c.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[WGNB과 백종환의 직관]]></title>
@@ -92,13 +99,6 @@
             <guid>https://www.elle.co.kr/article/76266</guid>
             <pubDate>Sun, 16 Apr 2023 17:40:42 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[두 마리 고양이와 잉가 상뻬의 작업실]]></title>
-            <link>https://www.elle.co.kr/article/76268</link>
-            <guid>https://www.elle.co.kr/article/76268</guid>
-            <pubDate>Fri, 14 Apr 2023 17:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[그녀의 흐트러진 작업실은 자신만의 디자인 세계로 들어가는 관문이다.]]></content:encoded>
         </item>
     </channel>
 </rss>
