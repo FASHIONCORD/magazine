@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 17:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 05:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 사랑하는 사람에게 주고 싶은 선물, 디마르3]]></title>
+            <link>https://www.elle.co.kr/article/77024</link>
+            <guid>https://www.elle.co.kr/article/77024</guid>
+            <pubDate>Wed, 03 May 2023 05:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[가정의 달 5월, 디마르3에서 소중한 이에게 선물하기 좋은 특별한 선물 세트를 제안한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/1f8d6415-75d8-4285-997a-d447839ebed8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃과 예술 그리고 향수를 사랑한다면 놓치지 말아야 할 전시, 미스 디올 서울 전시&팝업]]></title>
             <link>https://www.elle.co.kr/article/77003</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/77018</guid>
             <pubDate>Fri, 28 Apr 2023 05:39:38 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4715df17-34cf-4b11-bc48-516b12ee9250.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수분 폭탄 투하! 히알루론산의 모든 것_선배’s 어드바이스 #165]]></title>
-            <link>https://www.elle.co.kr/article/76967</link>
-            <guid>https://www.elle.co.kr/article/76967</guid>
-            <pubDate>Wed, 26 Apr 2023 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[보습 천재 히알루론산으로 정복하는 스킨케어 A to Z.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/403e4a30-eb41-44a2-97ae-351587b05403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
