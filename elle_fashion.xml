@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 17:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가슴이 웅장해지는 이 조합! 뉴욕 한가운데에서 펼쳐진 멧 갈라를 빛낸 제니와 송혜교]]></title>
+            <link>https://www.elle.co.kr/article/77276</link>
+            <guid>https://www.elle.co.kr/article/77276</guid>
+            <pubDate>Wed, 03 May 2023 17:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[서양인으로 가득한 축제 사이에서 보란듯이 존재감을 뽐낸 한국의 별들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/9a4377b0-4f90-454e-8d0e-7ef54c77893d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮈글러가 궁금해?]]></title>
+            <link>https://www.elle.co.kr/article/77275</link>
+            <guid>https://www.elle.co.kr/article/77275</guid>
+            <pubDate>Wed, 03 May 2023 17:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[H&amp;M과의 협업해 난리 난 그 브랜드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/553cd88e-336a-45d5-838d-01767d3ae6ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K패션의 비전]]></title>
             <link>https://www.elle.co.kr/article/77250</link>
@@ -55,22 +71,6 @@
             <pubDate>Tue, 02 May 2023 05:39:35 GMT</pubDate>
             <content:encoded><![CDATA[오픈런을 부르는 추로스 맛집과 힙스터들의 성지같은 빈티지 숍, 그리고 윤승아의 찐 단골 맛집...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/78c377fa-8aff-4b15-832b-2847908dcd21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정성일의 찬란한 시간]]></title>
-            <link>https://www.elle.co.kr/article/77153</link>
-            <guid>https://www.elle.co.kr/article/77153</guid>
-            <pubDate>Tue, 02 May 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;더 글로리&gt;에서 강렬한 존재감을 드러낸 배우 정성일을 마주하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/b9a9fcdf-9b0c-4fc7-adda-71f1f24aba3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타에게 한 수 배우는 #스타킹 스타일링 5]]></title>
-            <link>https://www.elle.co.kr/article/77201</link>
-            <guid>https://www.elle.co.kr/article/77201</guid>
-            <pubDate>Mon, 01 May 2023 17:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[한소희부터 빌리 아일리시까지 ‘핫’걸들의 스타킹 활용 팁을 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/050e06bd-c08a-49ae-8d65-d9a45de191b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

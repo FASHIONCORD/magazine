@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 17:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강문식, 미스치프, 말립이 광주로 간 까닭은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35882848&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35882848&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 03 May 2023 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDNfMTk1/MDAxNjgzMTA2NDYwMjEz.PmZbK4_AzonFQWESyIfwye3kzjHXT9NQ2q9j0BzD70Yg.VxBx8nNjUnRb8-jwNRNpbAoDXJ0JW7Mq_Ywcv7m1_p8g.JPEG/IMduVismx5_7DU0_qyrkNoScVJy8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타이럴 윈스턴 인터뷰: 어쩌면 세상에서 가장 유명한 쓰레기 수집가]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35494353&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDJfMTcg/MDAxNjI1MjE4MjgxMDI2.Y1LSNHjQjwRTVF6cXg-mleCaO-j_up1kA9DxfxopnqAg.GyWaKBxNMjxhr4vmG-0fqFCy1IiDc_8en_2rFxOMQjQg.JPEG/IrX-wZW2RZtB1AbjOcrYsLpurrmc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정윤 인터뷰: 현 시대가 열광하는 아티스트]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31336613&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31336613&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjNfMjQ0/MDAxNjE5MTY5NjM0Njcx.X9WTIbM30BgBlOfKL4HcDdxrYUG32lc6t909zZNNG_Mg.rFNjztcaKGOya6eQskSHdEpfIdQDd4Osi6ENEqGzFrgg.JPEG/I3QE3tiGWFnZexLAvngsyCWa-NbU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

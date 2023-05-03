@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 17:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 향수의 '뉴 코코', 휘트니 픽]]></title>
+            <link>https://www.elle.co.kr/article/77045</link>
+            <guid>https://www.elle.co.kr/article/77045</guid>
+            <pubDate>Wed, 03 May 2023 17:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 코코 마드모아젤 향수의 새로운 뮤즈가 된 휘트니 픽! 인생의 새로운 막을 여는 한 편의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/5a3e508e-210d-4685-9d1e-a382c717f5c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월 사랑하는 사람에게 주고 싶은 선물, 디마르3]]></title>
             <link>https://www.elle.co.kr/article/77024</link>
@@ -59,13 +67,6 @@
             <pubDate>Fri, 28 Apr 2023 05:39:38 GMT</pubDate>
             <content:encoded><![CDATA[피부에 활력과 숭고한 광채를 깨우는 독보적 뷰티 리추얼, 샤넬 수블리마지 라인.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/a1c4c675-60dc-4ff2-afb7-f2b4902dbcf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["'먹토'해서 '뼈말라' 됐어요": 극단적 다이어트 영상 유행에 유튜브가 내린 결정]]></title>
-            <link>https://www.elle.co.kr/article/77018</link>
-            <guid>https://www.elle.co.kr/article/77018</guid>
-            <pubDate>Fri, 28 Apr 2023 05:39:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4715df17-34cf-4b11-bc48-516b12ee9250.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
