@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 17:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 05:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 가을 결혼하는 윤박, 6살 연하 예비 신부는? (ft. 불암산 럽스타)]]></title>
+            <link>https://www.elle.co.kr/article/77303</link>
+            <guid>https://www.elle.co.kr/article/77303</guid>
+            <pubDate>Thu, 04 May 2023 05:40:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/23747ef7-8e13-4807-965f-0667a01b1914.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바른 미모에 바른 정신! 임시완X박보검이 백상 시상식 직전까지 함께 달린 이유]]></title>
+            <link>https://www.elle.co.kr/article/77301</link>
+            <guid>https://www.elle.co.kr/article/77301</guid>
+            <pubDate>Thu, 04 May 2023 05:40:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/84cc0770-85e2-4388-ac24-e4d24c90ce0a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이사배가 알려주는 결혼식 하객 메이크업 Tip]]></title>
             <link>https://www.elle.co.kr/article/77293</link>
@@ -53,21 +67,6 @@
             <pubDate>Wed, 03 May 2023 05:41:02 GMT</pubDate>
             <content:encoded><![CDATA[오픈런을 부르는 추로스 맛집과 힙스터들의 성지같은 빈티지 숍, 그리고 윤승아의 찐 단골 맛집...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/78c377fa-8aff-4b15-832b-2847908dcd21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["백쌤이 왜 거기서 나와?" 연락 한 통이면 섭외 가능한 사이, 백종원X박재범]]></title>
-            <link>https://www.elle.co.kr/article/77202</link>
-            <guid>https://www.elle.co.kr/article/77202</guid>
-            <pubDate>Tue, 02 May 2023 17:39:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/59aee3b7-5dee-48b3-9b10-bab81d95b8b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타에게 한 수 배우는 #스타킹 스타일링 5]]></title>
-            <link>https://www.elle.co.kr/article/77201</link>
-            <guid>https://www.elle.co.kr/article/77201</guid>
-            <pubDate>Tue, 02 May 2023 17:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[한소희부터 빌리 아일리시까지 ‘핫’걸들의 스타킹 활용 팁을 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/050e06bd-c08a-49ae-8d65-d9a45de191b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

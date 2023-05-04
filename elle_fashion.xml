@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 17:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 05:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[런웨이에 피어난 장미]]></title>
+            <link>https://www.elle.co.kr/article/77048</link>
+            <guid>https://www.elle.co.kr/article/77048</guid>
+            <pubDate>Thu, 04 May 2023 05:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[꽃 향기만 남기고 갔단다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/c54fc902-7534-4d10-bc1c-5eb378a84072.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[색색으로 물든 오메가의 시간]]></title>
+            <link>https://www.elle.co.kr/article/77049</link>
+            <guid>https://www.elle.co.kr/article/77049</guid>
+            <pubDate>Thu, 04 May 2023 05:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[한낮의 빛으로 찬란한 순간의 색.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/ba352f24-3a70-4aeb-9607-89811dfbb4d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가슴이 웅장해지는 이 조합! 뉴욕 한가운데에서 펼쳐진 멧 갈라를 빛낸 제니와 송혜교]]></title>
             <link>https://www.elle.co.kr/article/77276</link>
@@ -55,22 +71,6 @@
             <pubDate>Tue, 02 May 2023 17:39:31 GMT</pubDate>
             <content:encoded><![CDATA[스퀘어 네크 원피스로 청순미 뿜뿜! 색다른 분위기를 자아내는 사각의 매력으로 여러분을 초대합...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/973cb36b-5ae9-43bd-b42f-239ad1008fbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할머니꺼]]></title>
-            <link>https://www.elle.co.kr/article/77044</link>
-            <guid>https://www.elle.co.kr/article/77044</guid>
-            <pubDate>Tue, 02 May 2023 17:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[알록달록하지만 가물가물한 기억. 우리 할머니는 뭘 좋아했을까? 그걸 자세히 들여다본 적 있었...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/e5b01831-7a03-4843-8f19-c65feb5876f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아가 다녀간 압구정 핫 플레이스 3]]></title>
-            <link>https://www.elle.co.kr/article/77208</link>
-            <guid>https://www.elle.co.kr/article/77208</guid>
-            <pubDate>Tue, 02 May 2023 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[오픈런을 부르는 추로스 맛집과 힙스터들의 성지같은 빈티지 숍, 그리고 윤승아의 찐 단골 맛집...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/78c377fa-8aff-4b15-832b-2847908dcd21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
