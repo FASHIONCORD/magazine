@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 05:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 17:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2억뷰 웹소설 '전지적 독자 시점' 영화화, 김독자X유중혁은 누가?]]></title>
+            <link>https://www.elle.co.kr/article/77337</link>
+            <guid>https://www.elle.co.kr/article/77337</guid>
+            <pubDate>Thu, 04 May 2023 17:41:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/f1869e97-2ff1-4374-a690-322133d97315.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['댄스가수 유랑단', 5인 공식 포스터 공개! 지금까지 나온 스포 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/77272</link>
@@ -34,7 +41,6 @@
             <link>https://www.elle.co.kr/article/77185</link>
             <guid>https://www.elle.co.kr/article/77185</guid>
             <pubDate>Fri, 28 Apr 2023 17:41:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/dd95d31f-dca6-4226-9764-fbc03cce7432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장고래 VS 전재준! 이쯤에서 다시 보는 박성훈의 인생 캐릭터는?]]></title>
@@ -86,12 +92,6 @@
             <guid>https://www.elle.co.kr/article/76729</guid>
             <pubDate>Mon, 17 Apr 2023 05:41:44 GMT</pubDate>
             <content:encoded><![CDATA[마의 시청률 20% 돌파.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['너목들'로 만난 이종석X이보영! 벌써 10주년이라는데?]]></title>
-            <link>https://www.elle.co.kr/article/76663</link>
-            <guid>https://www.elle.co.kr/article/76663</guid>
-            <pubDate>Thu, 13 Apr 2023 17:41:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

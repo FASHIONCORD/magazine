@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 05:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 17:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RM도 다녀간 템플스테이부터 동심 가득한 전시까지! '가정의 달' 전국 여행지 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/77175</link>
+            <guid>https://www.elle.co.kr/article/77175</guid>
+            <pubDate>Thu, 04 May 2023 17:41:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/50875272-c948-4a85-be87-33b83b6a3758.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기쁜 우리 이삿날]]></title>
             <link>https://www.elle.co.kr/article/76274</link>
@@ -61,14 +68,6 @@
             <pubDate>Wed, 26 Apr 2023 05:41:06 GMT</pubDate>
             <content:encoded><![CDATA[세이지 그린 컬러로 물든 ‘젬마 하우스’로의 초대.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/69c5f203-d3d2-43c1-946f-6939a20818d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WGNB과 백종환의 직관]]></title>
-            <link>https://www.elle.co.kr/article/76272</link>
-            <guid>https://www.elle.co.kr/article/76272</guid>
-            <pubDate>Tue, 25 Apr 2023 17:42:35 GMT</pubDate>
-            <content:encoded><![CDATA[교보문고, 준지 플래그십 스토어, 무신사 편집 숍 엠프 티. 건축에 담기는 모든 것을 디자인하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/bd22b10f-7d4e-47c5-9efb-aa489278a1a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
