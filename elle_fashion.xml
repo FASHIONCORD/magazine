@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 17:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 05:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칼 라거펠트가 내게 알려준 것들]]></title>
+            <link>https://www.elle.co.kr/article/77339</link>
+            <guid>https://www.elle.co.kr/article/77339</guid>
+            <pubDate>Fri, 05 May 2023 05:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023 멧 갈라의 주인공. 그는 걸어다니는 명언 제조기였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b60833c2-1e40-4439-98a0-33cdc7882680.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티파니와 함께]]></title>
+            <link>https://www.elle.co.kr/article/76876</link>
+            <guid>https://www.elle.co.kr/article/76876</guid>
+            <pubDate>Fri, 05 May 2023 05:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[일렁이는 봄기운 속에서 형형한 빛을 발하는 티파니 하이 주얼리의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/e5ad90ef-7ce8-494a-aa37-fbbf6a054793.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 시즌 필수 아이템! 스타들의 각양각색 #미니드레스]]></title>
             <link>https://www.elle.co.kr/article/77326</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 04 May 2023 05:40:36 GMT</pubDate>
             <content:encoded><![CDATA[한낮의 빛으로 찬란한 순간의 색.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/ba352f24-3a70-4aeb-9607-89811dfbb4d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가슴이 웅장해지는 이 조합! 뉴욕 한가운데에서 펼쳐진 멧 갈라를 빛낸 제니와 송혜교]]></title>
-            <link>https://www.elle.co.kr/article/77276</link>
-            <guid>https://www.elle.co.kr/article/77276</guid>
-            <pubDate>Wed, 03 May 2023 17:41:49 GMT</pubDate>
-            <content:encoded><![CDATA[서양인으로 가득한 축제 사이에서 보란듯이 존재감을 뽐낸 한국의 별들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/9a4377b0-4f90-454e-8d0e-7ef54c77893d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮈글러가 궁금해?]]></title>
-            <link>https://www.elle.co.kr/article/77275</link>
-            <guid>https://www.elle.co.kr/article/77275</guid>
-            <pubDate>Wed, 03 May 2023 17:41:49 GMT</pubDate>
-            <content:encoded><![CDATA[H&amp;M과의 협업해 난리 난 그 브랜드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/553cd88e-336a-45d5-838d-01767d3ae6ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

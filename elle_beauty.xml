@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 17:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 05:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에르메스 정원으로의 초대장, 운 자르뎅 아 시테르]]></title>
+            <link>https://www.elle.co.kr/article/77047</link>
+            <guid>https://www.elle.co.kr/article/77047</guid>
+            <pubDate>Fri, 05 May 2023 05:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[에르메스 조향사 크리스틴 나이젤이 많은 예술가에게 영감을 준 그리스 시테르 섬의 추억을 담아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/25b7394a-70a3-4034-86f0-b09135d968e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디올 뷰티의 새로운 뷰티 에센셜, 디올 르 밤]]></title>
             <link>https://www.elle.co.kr/article/77179</link>
@@ -59,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/77110</guid>
             <pubDate>Sun, 30 Apr 2023 17:40:33 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/8b9379d5-f563-4b7b-8c2b-658c0057b13f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 '여돌' 앞머리 트렌드]]></title>
-            <link>https://www.elle.co.kr/article/76174</link>
-            <guid>https://www.elle.co.kr/article/76174</guid>
-            <pubDate>Fri, 28 Apr 2023 05:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스 하니와 해린, 아이즈원 안유진, 에스파 윈터, (여자) 아이들 민니의 '풀 뱅' 스타일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/27dba3b4-fdf1-4595-b832-a47481ac1ac9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
