@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 17:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멧 갈라를 점령한 '샤넬 걸' 제니의 레전드 씬]]></title>
+            <link>https://www.elle.co.kr/article/77360</link>
+            <guid>https://www.elle.co.kr/article/77360</guid>
+            <pubDate>Sat, 06 May 2023 17:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[겉으론 담담해 보여도, 속으론 누구보다 긴장했다는 제니의 멧 갈라 토크!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/844bcd02-ddab-4297-a016-ceb82fe56ac3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑을 담아, 카이(feat. 입생로랑 뷰티) #ELLE_D에디션]]></title>
             <link>https://www.elle.co.kr/article/77359</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 May 2023 17:40:22 GMT</pubDate>
             <content:encoded><![CDATA[하나쯤 갖고 있으면 주말 나들이 룩부터 데이트 룩까지 활용 가능! 경쾌하고 사랑스러운 미니드...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/09ba682e-d7db-4655-99b2-43dd0ca87c12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틈]]></title>
-            <link>https://www.elle.co.kr/article/77325</link>
-            <guid>https://www.elle.co.kr/article/77325</guid>
-            <pubDate>Thu, 04 May 2023 17:40:22 GMT</pubDate>
-            <content:encoded><![CDATA[그 사이로 엿보고 싶은 루이 비통의 워치 앤 주얼리]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/2ca11899-297c-4c87-a5a3-fce81a9af054.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

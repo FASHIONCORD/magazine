@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 17:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['댄스가수 유랑단', 5인 공식 포스터 공개! 지금까지 나온 스포 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77272</link>
+            <guid>https://www.elle.co.kr/article/77272</guid>
+            <pubDate>Sat, 06 May 2023 17:40:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/1557d896-ab99-4ff2-8301-218c662d38d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20년 만에 한 푼 정영주! 실사판 '인어공주' 우르슐라 더빙 확정 (ft. 에리얼 실루엣)]]></title>
             <link>https://www.elle.co.kr/article/77266</link>
@@ -60,13 +67,6 @@
             <pubDate>Sun, 30 Apr 2023 17:41:07 GMT</pubDate>
             <content:encoded><![CDATA[새집을 가득 채울, 크고 매혹적인 물건들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/09463ee8-1184-468c-bfe6-608779c152c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 빨리 진실의 방으로?! 올해도 돌아오는 '범죄도시3' 개봉 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/77113</link>
-            <guid>https://www.elle.co.kr/article/77113</guid>
-            <pubDate>Fri, 28 Apr 2023 17:41:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/197bd24a-a419-41eb-8d58-e5314a2c0a41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
