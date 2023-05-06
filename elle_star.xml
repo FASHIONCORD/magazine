@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 17:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 05:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남편 이상우가 갑자기 바퀴벌레로 변한다면? 사랑둥이 아내 김소연의 답변]]></title>
+            <link>https://www.elle.co.kr/article/77342</link>
+            <guid>https://www.elle.co.kr/article/77342</guid>
+            <pubDate>Sat, 06 May 2023 05:40:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/128bf62c-1f4e-43d3-985a-ca53d74f056f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칼 라거펠트가 내게 알려준 것들]]></title>
             <link>https://www.elle.co.kr/article/77339</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/77306</guid>
             <pubDate>Thu, 04 May 2023 17:40:44 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/149ad70b-0242-4f7a-a170-c275df6a430d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 가을 결혼하는 윤박, 6살 연하 예비 신부는? (ft. 불암산 럽스타)]]></title>
-            <link>https://www.elle.co.kr/article/77303</link>
-            <guid>https://www.elle.co.kr/article/77303</guid>
-            <pubDate>Thu, 04 May 2023 05:40:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/23747ef7-8e13-4807-965f-0667a01b1914.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
