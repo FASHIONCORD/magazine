@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 05:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 17:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2억뷰 웹소설 '전지적 독자 시점' 영화화, 김독자X유중혁은 누가?]]></title>
+            <link>https://www.elle.co.kr/article/77337</link>
+            <guid>https://www.elle.co.kr/article/77337</guid>
+            <pubDate>Mon, 08 May 2023 17:40:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/f1869e97-2ff1-4374-a690-322133d97315.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스테이 아키텍츠가 디자인하는 고요한 휴식과 위안]]></title>
+            <link>https://www.elle.co.kr/article/76277</link>
+            <guid>https://www.elle.co.kr/article/76277</guid>
+            <pubDate>Mon, 08 May 2023 17:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[스테이 아키텍츠의 고정석과 홍정희는 사람들이 머무는 곳에 대한 가치와 깊이를 끊임없이 탐구한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/91f3d800-8681-4afd-b9e8-a3089e682cf9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['댄스가수 유랑단', 5인 공식 포스터 공개! 지금까지 나온 스포 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/77272</link>
@@ -51,22 +66,6 @@
             <guid>https://www.elle.co.kr/article/77185</guid>
             <pubDate>Tue, 02 May 2023 17:40:14 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/dd95d31f-dca6-4226-9764-fbc03cce7432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장고래 VS 전재준! 이쯤에서 다시 보는 박성훈의 인생 캐릭터는?]]></title>
-            <link>https://www.elle.co.kr/article/77139</link>
-            <guid>https://www.elle.co.kr/article/77139</guid>
-            <pubDate>Tue, 02 May 2023 17:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[제59회 백상예술대상 남우조연상 후보에 오른 박성훈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/839e4554-44b8-4ef5-bdb0-52c842853fda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기쁜 우리 이삿날]]></title>
-            <link>https://www.elle.co.kr/article/76274</link>
-            <guid>https://www.elle.co.kr/article/76274</guid>
-            <pubDate>Sun, 30 Apr 2023 17:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[새집을 가득 채울, 크고 매혹적인 물건들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/09463ee8-1184-468c-bfe6-608779c152c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

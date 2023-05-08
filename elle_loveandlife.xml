@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 05:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 17:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤승아가 다녀간 압구정 핫 플레이스 3]]></title>
+            <link>https://www.elle.co.kr/article/77208</link>
+            <guid>https://www.elle.co.kr/article/77208</guid>
+            <pubDate>Mon, 08 May 2023 17:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[오픈런을 부르는 추로스 맛집과 힙스터들의 성지같은 빈티지 숍, 그리고 윤승아의 찐 단골 맛집...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/78c377fa-8aff-4b15-832b-2847908dcd21.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄맞이 드라이빙 스폿과 자동차들]]></title>
             <link>https://www.elle.co.kr/article/77043</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/76968</guid>
             <pubDate>Fri, 28 Apr 2023 17:41:48 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/e2a66212-a639-4910-9974-8df54ab549a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이비통에서 식사를, 프라다에서 커피와 칵테일을]]></title>
-            <link>https://www.elle.co.kr/article/76966</link>
-            <guid>https://www.elle.co.kr/article/76966</guid>
-            <pubDate>Wed, 26 Apr 2023 17:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[명품 하우스에서 옷만 사는 건 옛날 얘기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4c69dc6c-d7fc-41f1-8a2d-32ea6b921a45.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 05:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 17:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흐르는 시간의 틈 사이에서 만난 예술]]></title>
+            <link>https://www.elle.co.kr/article/77083</link>
+            <guid>https://www.elle.co.kr/article/77083</guid>
+            <pubDate>Mon, 08 May 2023 17:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[우주를 유영하는 시간에 관하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/97cc7a12-5b68-4d31-b234-86b727d2aac6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비장의 무기]]></title>
+            <link>https://www.elle.co.kr/article/77082</link>
+            <guid>https://www.elle.co.kr/article/77082</guid>
+            <pubDate>Mon, 08 May 2023 17:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[무기를 모티프로 한 패션 아이템이 등장했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/8fe0e40e-2578-4d15-bc55-97da158ff54e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누구보다 반짝이는 주현영]]></title>
+            <link>https://www.elle.co.kr/article/77341</link>
+            <guid>https://www.elle.co.kr/article/77341</guid>
+            <pubDate>Mon, 08 May 2023 17:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[연기와 예능에서 종횡무진하는 배우 주현영을 주목해야 할 때.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/b4dfa5db-c1d3-4c08-82f5-c25434b95ff3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리부터 발끝까지! 정점을 찍은 리본 패션]]></title>
             <link>https://www.elle.co.kr/article/77371</link>
@@ -46,30 +70,6 @@
             <pubDate>Sat, 06 May 2023 05:40:00 GMT</pubDate>
             <content:encoded><![CDATA[섹시한 눈빛과 대담한 움직임, 그 어느 때보다 자유로운 카이.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/7e03c794-f3c6-4596-a8d0-dabb6ddea97d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 편의 유년시절, 영화 토리와 로키타 & 클로즈]]></title>
-            <link>https://www.elle.co.kr/article/77052</link>
-            <guid>https://www.elle.co.kr/article/77052</guid>
-            <pubDate>Sat, 06 May 2023 05:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[누군가의 유년시절을 따라가는 여정에서 얻을 수 있는 반짝이는 감정. 올여름 개봉하는 두 편의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/d34ffb71-8798-462e-a066-275587316e88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가정의 달=선물의 달! 부담 없이 전하는 스몰 기프트 5]]></title>
-            <link>https://www.elle.co.kr/article/77351</link>
-            <guid>https://www.elle.co.kr/article/77351</guid>
-            <pubDate>Fri, 05 May 2023 17:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[수북이 쌓인 핸드크림 선물은 이제 그만.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/2f84feda-10a6-42a9-9aec-9dd878cb43e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬의 슈 파라다이스]]></title>
-            <link>https://www.elle.co.kr/article/77344</link>
-            <guid>https://www.elle.co.kr/article/77344</guid>
-            <pubDate>Fri, 05 May 2023 17:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[꿈꿔왔던 모든 샤넬 슈즈를 한 자리에서 만날 수 있게 됐으니, 나만의 '유리 구두'를 찾아 떠...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/f5ca3dde-396c-4333-b744-4af8e5dec70f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 05:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 17:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HOW TO: 광장시장에서 만난, 잡채가 들어간 블랙 전기구이 통닭]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35904589&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35904589&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 08 May 2023 17:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDhfMTkw/MDAxNjgzNTM1MjM0ODUy.1r73FitiEiUIS2tPTs-PxFAz2CwKWUeMgfxlv-JoDKgg.OIuLOsMQlbAAwVyjb7LJBe62OfG6G-XmNPoL9LKQuWwg.JPEG/IbMLfdWGIx-j1l_DRoZHbvqP_0aI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘한국 최초 싱글 몰트 위스키’ 맛의 모티브는 제육볶음이다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35560210&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Dec 2021 17:48:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMTAy/MDAxNjQwMDc1Nzk3ODU3.X_ZA12k06YRzTYoCS4qcZ6niYGD8hoXp7yRFD2NDpiQg.ZQU-EMAq1XZO40F1cAq6qr9oLUQzipAnt4ZMUmSjkkYg.JPEG/I8LURK0V3yg1JwhrJTgtRrxuGeEw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추워진 몸과 맘을 녹여줄 서울의 티하우스 7]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32818578&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32818578&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 26 Nov 2021 17:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfMTAw/MDAxNjM3NzQ0Nzk1NjE0.jwcNxbF25-3yoDDeoCr0jkVtA0FwxM5YRfZj-nV0oCQg.GQo7Q-8ymbszxLz1sO8W8ehvJbrCIMTrLXwZxwY0Z8Ug.JPEG/I-v4PNhGTQWpIsVatBKOEGbJABhE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
