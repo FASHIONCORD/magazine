@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 05:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 17:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서드 하우스를 가진 삶 #아웃오브서울]]></title>
+            <link>https://www.elle.co.kr/article/77377</link>
+            <guid>https://www.elle.co.kr/article/77377</guid>
+            <pubDate>Tue, 09 May 2023 17:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 하나의 집에서 살아야만 하는 걸까? 근본적인 질문을 던지는 박우린의 세 집 살림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/ae0df1e9-3b82-4239-b07a-bfd0a49e023a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 패션 아이콘 아네스 베의 마법 같은 저택]]></title>
+            <link>https://www.elle.co.kr/article/76278</link>
+            <guid>https://www.elle.co.kr/article/76278</guid>
+            <pubDate>Tue, 09 May 2023 17:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 패션 디자인의 살아 있는 아이콘인 아네스 베. 그의 무한한 창의성이 마법처럼 펼쳐진 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/9528669e-4147-419a-a963-bec1edc1eacd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[칼 라거펠트가 내게 알려준 것들]]></title>
+            <link>https://www.elle.co.kr/article/77339</link>
+            <guid>https://www.elle.co.kr/article/77339</guid>
+            <pubDate>Tue, 09 May 2023 17:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023 멧 갈라의 주인공. 그는 걸어다니는 명언 제조기였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b60833c2-1e40-4439-98a0-33cdc7882680.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2억뷰 웹소설 '전지적 독자 시점' 영화화, 김독자X유중혁은 누가?]]></title>
             <link>https://www.elle.co.kr/article/77337</link>
@@ -44,28 +68,6 @@
             <pubDate>Thu, 04 May 2023 17:40:56 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/be99a0c5-c676-4b96-b586-59e93765d61f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화가이자 열렬한 수집가인 정진화가 모아온 오래된 멋]]></title>
-            <link>https://www.elle.co.kr/article/76275</link>
-            <guid>https://www.elle.co.kr/article/76275</guid>
-            <pubDate>Thu, 04 May 2023 17:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[화가 정진화와 사진가 조기현이 함께 문을 연 갤러리 '앤솔로지아'의 개관전 &lt;향인&gt;에서 목격한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/e90519eb-e197-4bf5-a745-3878d54ca500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["연진아, 되게 신나": 송혜교부터 박은빈까지, 백상 여성 수상자들의 소감 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77197</link>
-            <guid>https://www.elle.co.kr/article/77197</guid>
-            <pubDate>Tue, 02 May 2023 17:40:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/21a74410-4788-4498-a207-e208a827a031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['슈퍼 마리오' 끝판왕 쿠파, 한국 음식에서 따 온 이름이라고?! (ft. 잭 블랙)]]></title>
-            <link>https://www.elle.co.kr/article/77185</link>
-            <guid>https://www.elle.co.kr/article/77185</guid>
-            <pubDate>Tue, 02 May 2023 17:40:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/dd95d31f-dca6-4226-9764-fbc03cce7432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

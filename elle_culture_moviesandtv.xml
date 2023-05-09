@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 05:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 17:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["늘 영화 같던 누님": 故강수연 1주기에 봉준호가 공유한 기억]]></title>
+            <link>https://www.elle.co.kr/article/77432</link>
+            <guid>https://www.elle.co.kr/article/77432</guid>
+            <pubDate>Tue, 09 May 2023 17:41:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/07b562c0-20d1-4b66-babd-87f5c2f4e867.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라미란X이도현의 남다른 '모자' 케미로 주목! JTBC '나쁜 엄마' 관계성 탐구 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/77404</link>
@@ -34,7 +41,6 @@
             <guid>https://www.elle.co.kr/article/77266</guid>
             <pubDate>Tue, 02 May 2023 17:40:31 GMT</pubDate>
             <content:encoded><![CDATA[한국 더빙 캐스트 공개 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/31b794a4-1876-4d1b-b000-e7b63ed1997f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["연진아, 되게 신나": 송혜교부터 박은빈까지, 백상 여성 수상자들의 소감 모음.zip]]></title>
@@ -85,12 +91,6 @@
             <link>https://www.elle.co.kr/article/76937</link>
             <guid>https://www.elle.co.kr/article/76937</guid>
             <pubDate>Mon, 24 Apr 2023 05:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['모범택시2' 종영! 이제훈X표예진 분노하게 한 에피소드는 바로 이것? #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/76747</link>
-            <guid>https://www.elle.co.kr/article/76747</guid>
-            <pubDate>Mon, 17 Apr 2023 17:40:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

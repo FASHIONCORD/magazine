@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 05:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 17:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg]]></title>
+            <link>https://www.elle.co.kr/article/77444</link>
+            <guid>https://www.elle.co.kr/article/77444</guid>
+            <pubDate>Tue, 09 May 2023 17:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[이건 꼭 소장해야 해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0ef47921-7269-4e0f-b5c6-473cc6aede8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학]]></title>
             <link>https://www.elle.co.kr/article/76279</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76277</guid>
             <pubDate>Tue, 02 May 2023 17:40:57 GMT</pubDate>
             <content:encoded><![CDATA[스테이 아키텍츠의 고정석과 홍정희는 사람들이 머무는 곳에 대한 가치와 깊이를 끊임없이 탐구한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/91f3d800-8681-4afd-b9e8-a3089e682cf9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양승진이 불어서 만든 비주얼 쇼크 #더메이커스]]></title>
@@ -92,13 +99,6 @@
             <link>https://www.elle.co.kr/article/76898</link>
             <guid>https://www.elle.co.kr/article/76898</guid>
             <pubDate>Fri, 21 Apr 2023 17:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[세계적인 사진전 1위를 거머쥔 우승자, 돌연 수상 거부를 선언한 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/76893</link>
-            <guid>https://www.elle.co.kr/article/76893</guid>
-            <pubDate>Fri, 21 Apr 2023 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[발렌시아가를 입은 해리포터부터 몽클레르 패딩을 걸친 프란치스코 교황까지, 모호해져만 가는 예...]]></content:encoded>
         </item>
     </channel>
 </rss>

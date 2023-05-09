@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 05:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 17:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울에서 여권 없이 떠나는 미식 여행! 홍콩-미국-태국을 그대로 재현한 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/77270</link>
+            <guid>https://www.elle.co.kr/article/77270</guid>
+            <pubDate>Tue, 09 May 2023 17:42:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/8c13b226-8ff0-454e-82f5-0fd1772bafc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤승아가 다녀간 압구정 핫 플레이스 3]]></title>
             <link>https://www.elle.co.kr/article/77208</link>
@@ -61,13 +68,6 @@
             <pubDate>Sat, 29 Apr 2023 17:41:20 GMT</pubDate>
             <content:encoded><![CDATA[오랜만에 컴백한 태양!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/174d3df2-1c9b-4688-8275-a1c984a77308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정신없이 바쁜 도심 속, 나만의 오아시스가 되어줄 카페! 서초-이태원-용산 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/76968</link>
-            <guid>https://www.elle.co.kr/article/76968</guid>
-            <pubDate>Fri, 28 Apr 2023 17:41:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/e2a66212-a639-4910-9974-8df54ab549a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

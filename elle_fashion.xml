@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 05:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 17:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이트 미들턴의 대관식 스타일]]></title>
+            <link>https://www.elle.co.kr/article/77405</link>
+            <guid>https://www.elle.co.kr/article/77405</guid>
+            <pubDate>Tue, 09 May 2023 17:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[왕세자비의 패션으로 읽는 취향 뿐 아니라 가족 관계, 세계 정치.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/8b298dc9-6285-4137-976d-3158ea705e47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dear My Frineds, 할머니들이 만들어낸 황혼의 뷰티 신.344 351]]></title>
+            <link>https://www.elle.co.kr/article/77055</link>
+            <guid>https://www.elle.co.kr/article/77055</guid>
+            <pubDate>Tue, 09 May 2023 17:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[햇살이 내리쬐는 어느 오후, 할머니들의 수줍은 듯 모여 사진을 남겼다. 평균 나이 83세, 이들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/510a1a8c-8017-4bd8-8643-2d997993ba24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1920년대부터 2020년대까지. 한 세기에 걸친 가족의 얼굴이 우리에 대해 말해주는 것들]]></title>
+            <link>https://www.elle.co.kr/article/77335</link>
+            <guid>https://www.elle.co.kr/article/77335</guid>
+            <pubDate>Tue, 09 May 2023 17:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[누군가는 그렸고, 누군가는 찍었다. 그리고 그 기록 안에는 가족이라는 보편의 역사가 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/611e4ce9-6a60-4a67-afe9-4c197703af6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흐르는 시간의 틈 사이에서 만난 예술]]></title>
             <link>https://www.elle.co.kr/article/77083</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 07 May 2023 17:40:32 GMT</pubDate>
             <content:encoded><![CDATA[선명한 색으로 채운 컬러 재킷.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/7a2c660f-05a4-4bef-92a0-ae5de3185f60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[48브라이트닝 신상]]></title>
-            <link>https://www.elle.co.kr/article/77054</link>
-            <guid>https://www.elle.co.kr/article/77054</guid>
-            <pubDate>Sun, 07 May 2023 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[피부 톤과 전반적인 컨디션을 개선하는 진보된 브라이트닝을 지향하는 신제품 5.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/9bc27689-86f5-46b1-a9e1-9486fddd69f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멧 갈라를 점령한 '샤넬 걸' 제니의 레전드 씬]]></title>
-            <link>https://www.elle.co.kr/article/77360</link>
-            <guid>https://www.elle.co.kr/article/77360</guid>
-            <pubDate>Sat, 06 May 2023 17:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[겉으론 담담해 보여도, 속으론 누구보다 긴장했다는 제니의 멧 갈라 토크!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/9c638ddb-f528-4580-a577-26e684c23fe8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 담아, 카이(feat. 입생로랑 뷰티) #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/77359</link>
-            <guid>https://www.elle.co.kr/article/77359</guid>
-            <pubDate>Sat, 06 May 2023 05:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[섹시한 눈빛과 대담한 움직임, 그 어느 때보다 자유로운 카이.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/7e03c794-f3c6-4596-a8d0-dabb6ddea97d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
