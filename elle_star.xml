@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 17:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 05:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외제차 선물부터 깜짝 편지까지! 어버이날 맞아 훈훈한 근황 전한 스타들.jpg]]></title>
+            <link>https://www.elle.co.kr/article/77419</link>
+            <guid>https://www.elle.co.kr/article/77419</guid>
+            <pubDate>Wed, 10 May 2023 05:40:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/12435c54-abd4-42f1-a2c1-e60e95227efa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이트 미들턴의 대관식 스타일]]></title>
             <link>https://www.elle.co.kr/article/77405</link>
@@ -58,14 +65,6 @@
             <pubDate>Mon, 08 May 2023 17:40:26 GMT</pubDate>
             <content:encoded><![CDATA[리본이 없는 곳은 없다. 유행의 정점을 찍은 리본 패션을 모아봤어요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/26c54bda-b937-4ee9-a81b-18e1861cadd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멧 갈라를 점령한 '샤넬 걸' 제니의 레전드 씬]]></title>
-            <link>https://www.elle.co.kr/article/77360</link>
-            <guid>https://www.elle.co.kr/article/77360</guid>
-            <pubDate>Mon, 08 May 2023 05:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[겉으론 담담해 보여도, 속으론 누구보다 긴장했다는 제니의 멧 갈라 토크!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/9c638ddb-f528-4580-a577-26e684c23fe8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

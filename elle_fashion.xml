@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 17:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 05:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
+            <link>https://www.elle.co.kr/article/77430</link>
+            <guid>https://www.elle.co.kr/article/77430</guid>
+            <pubDate>Wed, 10 May 2023 05:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f14828d2-f3bb-4f18-a1b0-318707c34454.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술의 경지에 오른 시계]]></title>
+            <link>https://www.elle.co.kr/article/77056</link>
+            <guid>https://www.elle.co.kr/article/77056</guid>
+            <pubDate>Wed, 10 May 2023 05:40:08 GMT</pubDate>
+            <content:encoded><![CDATA['땅부르' 워치와 함께 비상할 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f1e6fa46-8494-43fd-9f73-4b2e95b0e907.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계 시계 덕후들이 모이는 이 곳]]></title>
+            <link>https://www.elle.co.kr/article/77420</link>
+            <guid>https://www.elle.co.kr/article/77420</guid>
+            <pubDate>Wed, 10 May 2023 05:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[워치스 앤 원더스 2023에서 생긴 일]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/dfcceddf-5f89-413c-9e18-2a927cc7055c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이트 미들턴의 대관식 스타일]]></title>
             <link>https://www.elle.co.kr/article/77405</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 08 May 2023 17:40:04 GMT</pubDate>
             <content:encoded><![CDATA[무기를 모티프로 한 패션 아이템이 등장했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/8fe0e40e-2578-4d15-bc55-97da158ff54e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구보다 반짝이는 주현영]]></title>
-            <link>https://www.elle.co.kr/article/77341</link>
-            <guid>https://www.elle.co.kr/article/77341</guid>
-            <pubDate>Mon, 08 May 2023 17:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[연기와 예능에서 종횡무진하는 배우 주현영을 주목해야 할 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/b4dfa5db-c1d3-4c08-82f5-c25434b95ff3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리부터 발끝까지! 정점을 찍은 리본 패션]]></title>
-            <link>https://www.elle.co.kr/article/77371</link>
-            <guid>https://www.elle.co.kr/article/77371</guid>
-            <pubDate>Sun, 07 May 2023 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[리본이 없는 곳은 없다. 유행의 정점을 찍은 리본 패션을 모아봤어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/26c54bda-b937-4ee9-a81b-18e1861cadd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알록달록해]]></title>
-            <link>https://www.elle.co.kr/article/77053</link>
-            <guid>https://www.elle.co.kr/article/77053</guid>
-            <pubDate>Sun, 07 May 2023 17:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[선명한 색으로 채운 컬러 재킷.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/7a2c660f-05a4-4bef-92a0-ae5de3185f60.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
