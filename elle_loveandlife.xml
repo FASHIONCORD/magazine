@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 05:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 17:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학]]></title>
+            <link>https://www.elle.co.kr/article/76279</link>
+            <guid>https://www.elle.co.kr/article/76279</guid>
+            <pubDate>Wed, 10 May 2023 17:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스탠다드의 오프라인 스토어, 인크커피, 스테이지 바이 고디바, 중식당 Fei. 라보토리는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/2ad949ad-0f76-410e-953f-3873d2703ec2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['환승연애2' 최종 커플! 나연과 희두의 후쿠오카 맛집 탐방기 3]]></title>
+            <link>https://www.elle.co.kr/article/77357</link>
+            <guid>https://www.elle.co.kr/article/77357</guid>
+            <pubDate>Wed, 10 May 2023 17:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[연휴에 부담 없이 다녀오기 좋은 후쿠오카로 커플 여행을 떠난 나연과 희두가 방문한 현지 맛집...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/9b829dbe-3720-43ae-afc0-9127d7b9e7e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬의 슈 파라다이스]]></title>
             <link>https://www.elle.co.kr/article/77344</link>
@@ -52,22 +68,6 @@
             <guid>https://www.elle.co.kr/article/77175</guid>
             <pubDate>Thu, 04 May 2023 17:41:51 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/50875272-c948-4a85-be87-33b83b6a3758.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기쁜 우리 이삿날]]></title>
-            <link>https://www.elle.co.kr/article/76274</link>
-            <guid>https://www.elle.co.kr/article/76274</guid>
-            <pubDate>Tue, 02 May 2023 17:41:08 GMT</pubDate>
-            <content:encoded><![CDATA[새집을 가득 채울, 크고 매혹적인 물건들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/09463ee8-1184-468c-bfe6-608779c152c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀러브리티의 플랜 B! 제2의 직업을 갖게 된 스타 3]]></title>
-            <link>https://www.elle.co.kr/article/77033</link>
-            <guid>https://www.elle.co.kr/article/77033</guid>
-            <pubDate>Tue, 02 May 2023 17:41:08 GMT</pubDate>
-            <content:encoded><![CDATA[첫 개인전을 선보인 하지원부터 수제 맥주를 만드는 노홍철까지! 남다른 재능으로 새로운 길을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/5d7ace48-b0cf-4bd9-a356-086e42097837.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

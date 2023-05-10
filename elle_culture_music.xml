@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 05:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 17:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선]]></title>
+            <link>https://www.elle.co.kr/article/77457</link>
+            <guid>https://www.elle.co.kr/article/77457</guid>
+            <pubDate>Wed, 10 May 2023 17:43:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/462c20c4-a29d-464c-879a-52331192f17f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg]]></title>
             <link>https://www.elle.co.kr/article/77444</link>
@@ -37,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/76836</guid>
             <pubDate>Thu, 20 Apr 2023 05:40:44 GMT</pubDate>
             <content:encoded><![CDATA[잠실 주경기장이어도 불안한 내 좌석의 존재 여부.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/ec950b92-8de5-4eee-b165-e0618166ce6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백스테이지에서 무슨 일이?! 블랙핑크가 직접 전한 눈물의 코첼라 후기.txt]]></title>
@@ -87,12 +93,6 @@
             <title><![CDATA[해체 NO! '역주행 걸그룹' 브레이브걸스가 계약만료에 전한 심경]]></title>
             <link>https://www.elle.co.kr/article/75081</link>
             <guid>https://www.elle.co.kr/article/75081</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[상처에는 역시 금융 치료? 2023년 벌써 대박 난 전 남편 저격송 2]]></title>
-            <link>https://www.elle.co.kr/article/74900</link>
-            <guid>https://www.elle.co.kr/article/74900</guid>
             <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
         </item>
     </channel>

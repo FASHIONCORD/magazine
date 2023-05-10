@@ -4,9 +4,32 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 05:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 17:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
+            <link>https://www.elle.co.kr/article/77430</link>
+            <guid>https://www.elle.co.kr/article/77430</guid>
+            <pubDate>Wed, 10 May 2023 17:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f14828d2-f3bb-4f18-a1b0-318707c34454.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학]]></title>
+            <link>https://www.elle.co.kr/article/76279</link>
+            <guid>https://www.elle.co.kr/article/76279</guid>
+            <pubDate>Wed, 10 May 2023 17:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 스탠다드의 오프라인 스토어, 인크커피, 스테이지 바이 고디바, 중식당 Fei. 라보토리는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/2ad949ad-0f76-410e-953f-3873d2703ec2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라미란X이도현의 남다른 '모자' 케미로 주목! JTBC '나쁜 엄마' 관계성 탐구 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/77404</link>
+            <guid>https://www.elle.co.kr/article/77404</guid>
+            <pubDate>Wed, 10 May 2023 17:43:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/38bf9fde-aa1a-4d87-9790-b2f10d7bd9f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서드 하우스를 가진 삶 #아웃오브서울]]></title>
             <link>https://www.elle.co.kr/article/77377</link>
@@ -45,29 +68,6 @@
             <pubDate>Mon, 08 May 2023 17:40:39 GMT</pubDate>
             <content:encoded><![CDATA[스테이 아키텍츠의 고정석과 홍정희는 사람들이 머무는 곳에 대한 가치와 깊이를 끊임없이 탐구한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/91f3d800-8681-4afd-b9e8-a3089e682cf9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['댄스가수 유랑단', 5인 공식 포스터 공개! 지금까지 나온 스포 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77272</link>
-            <guid>https://www.elle.co.kr/article/77272</guid>
-            <pubDate>Sat, 06 May 2023 17:40:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/1557d896-ab99-4ff2-8301-218c662d38d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20년 만에 한 푼 정영주! 실사판 '인어공주' 우르슐라 더빙 확정 (ft. 에리얼 실루엣)]]></title>
-            <link>https://www.elle.co.kr/article/77266</link>
-            <guid>https://www.elle.co.kr/article/77266</guid>
-            <pubDate>Thu, 04 May 2023 17:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[한국 더빙 캐스트 공개 중.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/31b794a4-1876-4d1b-b000-e7b63ed1997f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양승진이 불어서 만든 비주얼 쇼크 #더메이커스]]></title>
-            <link>https://www.elle.co.kr/article/76276</link>
-            <guid>https://www.elle.co.kr/article/76276</guid>
-            <pubDate>Thu, 04 May 2023 17:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/be99a0c5-c676-4b96-b586-59e93765d61f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
