@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 05:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 17:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴 뷰티 스팟]]></title>
+            <link>https://www.elle.co.kr/article/77059</link>
+            <guid>https://www.elle.co.kr/article/77059</guid>
+            <pubDate>Thu, 11 May 2023 17:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[보고 느끼고 사진 찍을 요소가 가득한 뷰티 공간 3.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/cca98d17-823e-41f7-9c04-9c44844d1fa8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 높은 곳을 향해]]></title>
+            <link>https://www.elle.co.kr/article/77464</link>
+            <guid>https://www.elle.co.kr/article/77464</guid>
+            <pubDate>Thu, 11 May 2023 17:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[투철한 탐험 정신과 경이로운 섬세함으로 탄생한 워치의 신세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/7f409901-0b52-4dad-a44a-5b454680509f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김세정도 방문한 곳! 롱샴 신세계 센텀 부티크]]></title>
+            <link>https://www.elle.co.kr/article/77434</link>
+            <guid>https://www.elle.co.kr/article/77434</guid>
+            <pubDate>Thu, 11 May 2023 17:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[롱샴이 신세계백화점 센텀시티점에 RISE 콘셉트 매장을 오픈했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/9d944781-36b2-49b1-83eb-f951a7a068e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신예은이 만든 필연적 순간]]></title>
             <link>https://www.elle.co.kr/article/77438</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 10 May 2023 05:40:08 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f14828d2-f3bb-4f18-a1b0-318707c34454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술의 경지에 오른 시계]]></title>
-            <link>https://www.elle.co.kr/article/77056</link>
-            <guid>https://www.elle.co.kr/article/77056</guid>
-            <pubDate>Wed, 10 May 2023 05:40:08 GMT</pubDate>
-            <content:encoded><![CDATA['땅부르' 워치와 함께 비상할 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f1e6fa46-8494-43fd-9f73-4b2e95b0e907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계 시계 덕후들이 모이는 이 곳]]></title>
-            <link>https://www.elle.co.kr/article/77420</link>
-            <guid>https://www.elle.co.kr/article/77420</guid>
-            <pubDate>Wed, 10 May 2023 05:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[워치스 앤 원더스 2023에서 생긴 일]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/dfcceddf-5f89-413c-9e18-2a927cc7055c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이트 미들턴의 대관식 스타일]]></title>
-            <link>https://www.elle.co.kr/article/77405</link>
-            <guid>https://www.elle.co.kr/article/77405</guid>
-            <pubDate>Tue, 09 May 2023 17:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[왕세자비의 패션으로 읽는 취향 뿐 아니라 가족 관계, 세계 정치.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/8b298dc9-6285-4137-976d-3158ea705e47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

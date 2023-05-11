@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 05:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 17:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중)]]></title>
+            <link>https://www.elle.co.kr/article/77479</link>
+            <guid>https://www.elle.co.kr/article/77479</guid>
+            <pubDate>Thu, 11 May 2023 17:40:48 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/8c86f61b-c5e2-4531-84ee-db263d3cbc5d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무려 네 명 하차?! 지금까지 나온 '놀면 뭐하니?' 위기설과 대책들.txt]]></title>
             <link>https://www.elle.co.kr/article/77454</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/77337</link>
             <guid>https://www.elle.co.kr/article/77337</guid>
             <pubDate>Thu, 04 May 2023 17:41:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/f1869e97-2ff1-4374-a690-322133d97315.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['댄스가수 유랑단', 5인 공식 포스터 공개! 지금까지 나온 스포 모음.zip]]></title>
@@ -84,13 +90,6 @@
             <link>https://www.elle.co.kr/article/76939</link>
             <guid>https://www.elle.co.kr/article/76939</guid>
             <pubDate>Mon, 24 Apr 2023 05:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[끊임없이 목마른 배우 전도연에게 ‘도취’란 없다_요주의여성 #84]]></title>
-            <link>https://www.elle.co.kr/article/76938</link>
-            <guid>https://www.elle.co.kr/article/76938</guid>
-            <pubDate>Mon, 24 Apr 2023 05:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;일타 스캔들&gt;과 &lt;길복순&gt;으로 감히 전도연의 ‘정점’을 논하지 말라.]]></content:encoded>
         </item>
     </channel>
 </rss>
