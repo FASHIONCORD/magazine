@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 17:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 05:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로제의 애착 슈즈는? 스타가 픽한 데일리 스니커즈 5]]></title>
+            <link>https://www.elle.co.kr/article/77448</link>
+            <guid>https://www.elle.co.kr/article/77448</guid>
+            <pubDate>Thu, 11 May 2023 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[잘 산 운동화 하나, 열 신발 부럽지 않다! 스타의 사복 패션에서 포착한 데일리 운동화를 눈여...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/d538cf34-b588-4de1-943a-c0890ee42f3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 글로리' 손명오는 어디에? 헤어컷 후 이미지 확 바뀐 김건우 근황.jpg]]></title>
             <link>https://www.elle.co.kr/article/77443</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/77404</guid>
             <pubDate>Tue, 09 May 2023 17:41:06 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/38bf9fde-aa1a-4d87-9790-b2f10d7bd9f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대길이가 거기서 왜 나와?! 세븐-이다해 결혼식에 모인 초호화 하객들.list]]></title>
-            <link>https://www.elle.co.kr/article/77400</link>
-            <guid>https://www.elle.co.kr/article/77400</guid>
-            <pubDate>Tue, 09 May 2023 17:41:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/a75feebb-73b3-46c8-98b5-88df1371ba8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

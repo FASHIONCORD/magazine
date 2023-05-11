@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 17:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 05:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["늘 영화 같던 누님": 故강수연 1주기에 봉준호가 공유한 기억]]></title>
+            <link>https://www.elle.co.kr/article/77432</link>
+            <guid>https://www.elle.co.kr/article/77432</guid>
+            <pubDate>Thu, 11 May 2023 05:40:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/07b562c0-20d1-4b66-babd-87f5c2f4e867.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
             <link>https://www.elle.co.kr/article/77430</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/77337</guid>
             <pubDate>Mon, 08 May 2023 17:40:38 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/f1869e97-2ff1-4374-a690-322133d97315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스테이 아키텍츠가 디자인하는 고요한 휴식과 위안]]></title>
-            <link>https://www.elle.co.kr/article/76277</link>
-            <guid>https://www.elle.co.kr/article/76277</guid>
-            <pubDate>Mon, 08 May 2023 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[스테이 아키텍츠의 고정석과 홍정희는 사람들이 머무는 곳에 대한 가치와 깊이를 끊임없이 탐구한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/91f3d800-8681-4afd-b9e8-a3089e682cf9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

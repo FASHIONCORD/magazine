@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 17:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 05:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신예은이 만든 필연적 순간]]></title>
+            <link>https://www.elle.co.kr/article/77438</link>
+            <guid>https://www.elle.co.kr/article/77438</guid>
+            <pubDate>Thu, 11 May 2023 05:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[모든 기회에 감사하며 묵묵히 겪어낸 노력은 결국 성공과 마주한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/589d81e2-a8af-4661-bd54-2f17913cc518.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로제의 애착 슈즈는? 스타가 픽한 데일리 스니커즈 5]]></title>
             <link>https://www.elle.co.kr/article/77448</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 May 2023 17:40:42 GMT</pubDate>
             <content:encoded><![CDATA[왕세자비의 패션으로 읽는 취향 뿐 아니라 가족 관계, 세계 정치.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/8b298dc9-6285-4137-976d-3158ea705e47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dear My Frineds, 할머니들이 만들어낸 황혼의 뷰티 신.344 351]]></title>
-            <link>https://www.elle.co.kr/article/77055</link>
-            <guid>https://www.elle.co.kr/article/77055</guid>
-            <pubDate>Tue, 09 May 2023 17:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[햇살이 내리쬐는 어느 오후, 할머니들의 수줍은 듯 모여 사진을 남겼다. 평균 나이 83세, 이들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/510a1a8c-8017-4bd8-8643-2d997993ba24.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
