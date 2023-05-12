@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 05:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 17:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중)]]></title>
+            <link>https://www.elle.co.kr/article/77479</link>
+            <guid>https://www.elle.co.kr/article/77479</guid>
+            <pubDate>Fri, 12 May 2023 17:40:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/8c86f61b-c5e2-4531-84ee-db263d3cbc5d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시스루 패션을 완벽 소화한 스타 8]]></title>
+            <link>https://www.elle.co.kr/article/77466</link>
+            <guid>https://www.elle.co.kr/article/77466</guid>
+            <pubDate>Fri, 12 May 2023 17:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[자신을 드러내는데 거침없는 셀러브리티들은 시스루 드레스를 입는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/f4fbdc1f-9532-4a0c-aa25-5c357320c9f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크와 카다시안의 다이어트 비결 '위고비', 국내 상륙 임박했다고?]]></title>
             <link>https://www.elle.co.kr/article/77462</link>
@@ -50,21 +65,6 @@
             <pubDate>Wed, 10 May 2023 17:42:58 GMT</pubDate>
             <content:encoded><![CDATA[앞서 단발도 완벽 소화했던 김건우!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/1c84a58e-6341-479f-8de3-233d32549198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["늘 영화 같던 누님": 故강수연 1주기에 봉준호가 공유한 기억]]></title>
-            <link>https://www.elle.co.kr/article/77432</link>
-            <guid>https://www.elle.co.kr/article/77432</guid>
-            <pubDate>Wed, 10 May 2023 17:42:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/07b562c0-20d1-4b66-babd-87f5c2f4e867.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
-            <link>https://www.elle.co.kr/article/77430</link>
-            <guid>https://www.elle.co.kr/article/77430</guid>
-            <pubDate>Wed, 10 May 2023 17:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f14828d2-f3bb-4f18-a1b0-318707c34454.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 05:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 17:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시스루 패션을 완벽 소화한 스타 8]]></title>
+            <link>https://www.elle.co.kr/article/77466</link>
+            <guid>https://www.elle.co.kr/article/77466</guid>
+            <pubDate>Fri, 12 May 2023 17:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[자신을 드러내는데 거침없는 셀러브리티들은 시스루 드레스를 입는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/f4fbdc1f-9532-4a0c-aa25-5c357320c9f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어노브로 완성한 신세경의 우아한 분위기]]></title>
             <link>https://www.elle.co.kr/article/77060</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/9d944781-36b2-49b1-83eb-f951a7a068e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신예은이 만든 필연적 순간]]></title>
+            <title><![CDATA[신예은이 이룬 필연적 순간]]></title>
             <link>https://www.elle.co.kr/article/77438</link>
             <guid>https://www.elle.co.kr/article/77438</guid>
             <pubDate>Thu, 11 May 2023 05:40:14 GMT</pubDate>
             <content:encoded><![CDATA[모든 기회에 감사하며 묵묵히 겪어낸 노력은 결국 성공과 마주한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/589d81e2-a8af-4661-bd54-2f17913cc518.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/589d81e2-a8af-4661-bd54-2f17913cc518.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로제의 애착 슈즈는? 스타가 픽한 데일리 스니커즈 5]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 May 2023 17:42:37 GMT</pubDate>
             <content:encoded><![CDATA[하우스의 영원한 뮤즈, 가브리엘 샤넬에게서 얻은 보석 같은 영감과 빛나는 아이디어를 결합했다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/4e1a79b4-85d0-431d-8799-57037ed07662.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터의 인생 첫 빈티지 시계 입문기]]></title>
-            <link>https://www.elle.co.kr/article/77057</link>
-            <guid>https://www.elle.co.kr/article/77057</guid>
-            <pubDate>Wed, 10 May 2023 17:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[누군가와 함께 시간을 견딘 시계의 가치에 대하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/35d18c81-16c6-43de-b939-504004f90eb1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 05:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 17:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화이트와 우드 톤의 인테리어가 포인트! 포토그래퍼 미아의 랜선집들이 #취향을담은집]]></title>
+            <link>https://www.elle.co.kr/article/77450</link>
+            <guid>https://www.elle.co.kr/article/77450</guid>
+            <pubDate>Fri, 12 May 2023 17:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[좋아하는 무언가에 애정을 쏟을 줄 알고, 분명한 취향을 바탕으로 자신만의 행복하고 풍요로운 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/4ef87cc1-a870-4532-a716-18749ee15c6f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5월 전국에 만개한 천만 송이 꽃의 향연! 전국 장미축제 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/77437</link>
+            <guid>https://www.elle.co.kr/article/77437</guid>
+            <pubDate>Fri, 12 May 2023 17:41:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/378ae501-e6f1-4029-b4ee-4d542bc7abe3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학]]></title>
             <link>https://www.elle.co.kr/article/76279</link>
@@ -53,21 +68,6 @@
             <pubDate>Mon, 08 May 2023 17:42:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈런을 부르는 추로스 맛집과 힙스터들의 성지같은 빈티지 숍, 그리고 윤승아의 찐 단골 맛집...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/78c377fa-8aff-4b15-832b-2847908dcd21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄맞이 드라이빙 스폿과 자동차들]]></title>
-            <link>https://www.elle.co.kr/article/77043</link>
-            <guid>https://www.elle.co.kr/article/77043</guid>
-            <pubDate>Fri, 05 May 2023 05:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[만연한 봄을 올바르게 누리는 드라이빙 스폿!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/653edf2d-3e35-4b07-84b8-112b6140fa5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RM도 다녀간 템플스테이부터 동심 가득한 전시까지! '가정의 달' 전국 여행지 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/77175</link>
-            <guid>https://www.elle.co.kr/article/77175</guid>
-            <pubDate>Thu, 04 May 2023 17:41:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/50875272-c948-4a85-be87-33b83b6a3758.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
