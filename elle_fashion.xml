@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 05:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 17:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[런던 서머싯 하우스에서 열린 오메가의 밤]]></title>
+            <link>https://www.elle.co.kr/article/77492</link>
+            <guid>https://www.elle.co.kr/article/77492</guid>
+            <pubDate>Sat, 13 May 2023 17:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[볼드한 컬러와 장인 정신이 더해져 워치 패러다임의 혁신을 가져온 오메가의 ' 아쿠아 테라 쉐...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/dc909891-a61c-4ab3-99ce-b7b6b4eb6ca4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치 칼럼니스트가 본 시계의 지금]]></title>
+            <link>https://www.elle.co.kr/article/77255</link>
+            <guid>https://www.elle.co.kr/article/77255</guid>
+            <pubDate>Sat, 13 May 2023 17:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[기나긴 팬데믹이 끝나고 보다 더 많은 이의 손목을 사로잡기 위한 워치 하우스들의 발 빠른 움...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/905e7bbc-5a3c-4c53-a5c3-739a95651991.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신이 이번 휴가에 레인부츠를 챙겨야만 하는 이유! 미리 준비하는 여름 휴가 에센셜 아이템 5]]></title>
             <link>https://www.elle.co.kr/article/77488</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 11 May 2023 17:40:01 GMT</pubDate>
             <content:encoded><![CDATA[롱샴이 신세계백화점 센텀시티점에 RISE 콘셉트 매장을 오픈했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/9d944781-36b2-49b1-83eb-f951a7a068e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신예은이 이룬 필연적 순간]]></title>
-            <link>https://www.elle.co.kr/article/77438</link>
-            <guid>https://www.elle.co.kr/article/77438</guid>
-            <pubDate>Thu, 11 May 2023 05:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[모든 기회에 감사하며 묵묵히 겪어낸 노력은 결국 성공과 마주한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/589d81e2-a8af-4661-bd54-2f17913cc518.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로제의 애착 슈즈는? 스타가 픽한 데일리 스니커즈 5]]></title>
-            <link>https://www.elle.co.kr/article/77448</link>
-            <guid>https://www.elle.co.kr/article/77448</guid>
-            <pubDate>Wed, 10 May 2023 17:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[잘 산 운동화 하나, 열 신발 부럽지 않다! 스타의 사복 패션에서 포착한 데일리 운동화를 눈여...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/d538cf34-b588-4de1-943a-c0890ee42f3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
