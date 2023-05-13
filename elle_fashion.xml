@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 17:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 05:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 이번 휴가에 레인부츠를 챙겨야만 하는 이유! 미리 준비하는 여름 휴가 에센셜 아이템 5]]></title>
+            <link>https://www.elle.co.kr/article/77488</link>
+            <guid>https://www.elle.co.kr/article/77488</guid>
+            <pubDate>Sat, 13 May 2023 05:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[비키니부터 보틀까지, 서둘러 여름이 오길 바라는 마음으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/6ba5d2ce-a638-41b2-948e-0fa5d692c0fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시스루 패션을 완벽 소화한 스타 8]]></title>
             <link>https://www.elle.co.kr/article/77466</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 May 2023 17:42:37 GMT</pubDate>
             <content:encoded><![CDATA[잘 산 운동화 하나, 열 신발 부럽지 않다! 스타의 사복 패션에서 포착한 데일리 운동화를 눈여...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/d538cf34-b588-4de1-943a-c0890ee42f3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손목 위에 작은 우주를 탄생시킨 샤넬 워치의 세계]]></title>
-            <link>https://www.elle.co.kr/article/77447</link>
-            <guid>https://www.elle.co.kr/article/77447</guid>
-            <pubDate>Wed, 10 May 2023 17:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[하우스의 영원한 뮤즈, 가브리엘 샤넬에게서 얻은 보석 같은 영감과 빛나는 아이디어를 결합했다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/4e1a79b4-85d0-431d-8799-57037ed07662.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

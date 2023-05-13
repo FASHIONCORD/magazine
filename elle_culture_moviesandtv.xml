@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 17:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 05:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베일에 싸여있던 ‘한국의 에리얼’, 주인공은 바로 뉴진스 다니엘!]]></title>
+            <link>https://www.elle.co.kr/article/77523</link>
+            <guid>https://www.elle.co.kr/article/77523</guid>
+            <pubDate>Sat, 13 May 2023 05:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[이토록 맑고 투명한 울림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/b8fa8258-bc77-41a3-b615-9e889d4f88d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중)]]></title>
             <link>https://www.elle.co.kr/article/77479</link>
@@ -33,7 +41,6 @@
             <link>https://www.elle.co.kr/article/77404</link>
             <guid>https://www.elle.co.kr/article/77404</guid>
             <pubDate>Mon, 08 May 2023 17:41:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/38bf9fde-aa1a-4d87-9790-b2f10d7bd9f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2억뷰 웹소설 '전지적 독자 시점' 영화화, 김독자X유중혁은 누가?]]></title>
@@ -84,12 +91,6 @@
             <link>https://www.elle.co.kr/article/76952</link>
             <guid>https://www.elle.co.kr/article/76952</guid>
             <pubDate>Mon, 24 Apr 2023 17:41:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[최고 시청률 70%! 레전드 드라마 '수사반장' 프리퀄 출연 확정한 '장르물 장인'의 정체]]></title>
-            <link>https://www.elle.co.kr/article/76939</link>
-            <guid>https://www.elle.co.kr/article/76939</guid>
-            <pubDate>Mon, 24 Apr 2023 05:40:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

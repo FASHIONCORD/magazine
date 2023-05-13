@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 17:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 05:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맛있는 소파부터 프랑스 정원까지! 인증샷을 부르는 용산-성수-압구정 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/77452</link>
+            <guid>https://www.elle.co.kr/article/77452</guid>
+            <pubDate>Sat, 13 May 2023 05:41:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/20294319-d686-4fca-bd70-5e3ffa11329f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화이트와 우드 톤의 인테리어가 포인트! 포토그래퍼 미아의 랜선집들이 #취향을담은집]]></title>
             <link>https://www.elle.co.kr/article/77450</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/77270</guid>
             <pubDate>Tue, 09 May 2023 17:42:04 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/8c13b226-8ff0-454e-82f5-0fd1772bafc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아가 다녀간 압구정 핫 플레이스 3]]></title>
-            <link>https://www.elle.co.kr/article/77208</link>
-            <guid>https://www.elle.co.kr/article/77208</guid>
-            <pubDate>Mon, 08 May 2023 17:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[오픈런을 부르는 추로스 맛집과 힙스터들의 성지같은 빈티지 숍, 그리고 윤승아의 찐 단골 맛집...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/78c377fa-8aff-4b15-832b-2847908dcd21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

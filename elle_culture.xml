@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 17:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 05:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무려 네 명 하차?! 지금까지 나온 '놀면 뭐하니?' 위기설과 대책들.txt]]></title>
+            <link>https://www.elle.co.kr/article/77454</link>
+            <guid>https://www.elle.co.kr/article/77454</guid>
+            <pubDate>Sat, 13 May 2023 05:40:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/fee8a168-ba72-4b62-90cf-cd2b3ca0f4d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg]]></title>
             <link>https://www.elle.co.kr/article/77444</link>
@@ -60,14 +67,6 @@
             <pubDate>Tue, 09 May 2023 17:41:18 GMT</pubDate>
             <content:encoded><![CDATA[프랑스 패션 디자인의 살아 있는 아이콘인 아네스 베. 그의 무한한 창의성이 마법처럼 펼쳐진 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/9528669e-4147-419a-a963-bec1edc1eacd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칼 라거펠트가 내게 알려준 것들]]></title>
-            <link>https://www.elle.co.kr/article/77339</link>
-            <guid>https://www.elle.co.kr/article/77339</guid>
-            <pubDate>Tue, 09 May 2023 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[2023 멧 갈라의 주인공. 그는 걸어다니는 명언 제조기였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b60833c2-1e40-4439-98a0-33cdc7882680.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
