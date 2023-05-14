@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 05:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 17:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선]]></title>
+            <link>https://www.elle.co.kr/article/77457</link>
+            <guid>https://www.elle.co.kr/article/77457</guid>
+            <pubDate>Sun, 14 May 2023 17:41:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/462c20c4-a29d-464c-879a-52331192f17f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무려 네 명 하차?! 지금까지 나온 '놀면 뭐하니?' 위기설과 대책들.txt]]></title>
             <link>https://www.elle.co.kr/article/77454</link>
@@ -59,14 +66,6 @@
             <pubDate>Tue, 09 May 2023 17:41:18 GMT</pubDate>
             <content:encoded><![CDATA[우리는 하나의 집에서 살아야만 하는 걸까? 근본적인 질문을 던지는 박우린의 세 집 살림.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/ae0df1e9-3b82-4239-b07a-bfd0a49e023a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 패션 아이콘 아네스 베의 마법 같은 저택]]></title>
-            <link>https://www.elle.co.kr/article/76278</link>
-            <guid>https://www.elle.co.kr/article/76278</guid>
-            <pubDate>Tue, 09 May 2023 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 패션 디자인의 살아 있는 아이콘인 아네스 베. 그의 무한한 창의성이 마법처럼 펼쳐진 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/9528669e-4147-419a-a963-bec1edc1eacd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

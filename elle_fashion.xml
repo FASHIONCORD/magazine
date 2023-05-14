@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 05:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 17:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박희정의 새로운 첫걸음]]></title>
+            <link>https://www.elle.co.kr/article/77508</link>
+            <guid>https://www.elle.co.kr/article/77508</guid>
+            <pubDate>Sun, 14 May 2023 17:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 12년 차 모델인 그녀는 배우로서 또 다른 시작을 알린다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/3cd4ee45-6c6f-40ff-bfc8-b62aad57fec3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트라이프 폴로셔츠 마스터]]></title>
+            <link>https://www.elle.co.kr/article/77084</link>
+            <guid>https://www.elle.co.kr/article/77084</guid>
+            <pubDate>Sun, 14 May 2023 17:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[같은 옷 다른 느낌, 리한나와 헤일리가 즐겨 입는 스트라이프 폴로 셔츠 따라잡기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/3820a653-5b67-4479-81e4-0e3cd0d5e4cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데일리 룩 치트키! 화이트 탱크톱 스타일링 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/77494</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 12 May 2023 05:40:41 GMT</pubDate>
             <content:encoded><![CDATA[헤어 케어 브랜드 어노브의 비현실적 부드러움에 스며든 신세경의 그림 같은 순간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/1555d674-ed3e-4904-94ba-ea0b4df70324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 뷰티 스팟]]></title>
-            <link>https://www.elle.co.kr/article/77059</link>
-            <guid>https://www.elle.co.kr/article/77059</guid>
-            <pubDate>Thu, 11 May 2023 17:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[보고 느끼고 사진 찍을 요소가 가득한 뷰티 공간 3.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/cca98d17-823e-41f7-9c04-9c44844d1fa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 높은 곳을 향해]]></title>
-            <link>https://www.elle.co.kr/article/77464</link>
-            <guid>https://www.elle.co.kr/article/77464</guid>
-            <pubDate>Thu, 11 May 2023 17:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[투철한 탐험 정신과 경이로운 섬세함으로 탄생한 워치의 신세계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/7f409901-0b52-4dad-a44a-5b454680509f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
