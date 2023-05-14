@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 17:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 05:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데일리 룩 치트키! 화이트 탱크톱 스타일링 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77494</link>
+            <guid>https://www.elle.co.kr/article/77494</guid>
+            <pubDate>Sun, 14 May 2023 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[지금부터 여름까지 쭉 활용할 수 있는 화이트 탱크톱, 왜 없어?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/a00328c1-08a0-4d7d-bf94-e3bcb4aea787.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[런던 서머싯 하우스에서 열린 오메가의 밤]]></title>
             <link>https://www.elle.co.kr/article/77492</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 May 2023 17:40:01 GMT</pubDate>
             <content:encoded><![CDATA[투철한 탐험 정신과 경이로운 섬세함으로 탄생한 워치의 신세계.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/7f409901-0b52-4dad-a44a-5b454680509f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김세정도 방문한 곳! 롱샴 신세계 센텀 부티크]]></title>
-            <link>https://www.elle.co.kr/article/77434</link>
-            <guid>https://www.elle.co.kr/article/77434</guid>
-            <pubDate>Thu, 11 May 2023 17:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[롱샴이 신세계백화점 센텀시티점에 RISE 콘셉트 매장을 오픈했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/9d944781-36b2-49b1-83eb-f951a7a068e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

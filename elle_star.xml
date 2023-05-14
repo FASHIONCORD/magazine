@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 17:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 05:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘리트 코스 밟던 대세 배우 아델 에넬, 돌연 은퇴를 선언한 슬픈 이유]]></title>
+            <link>https://www.elle.co.kr/article/77513</link>
+            <guid>https://www.elle.co.kr/article/77513</guid>
+            <pubDate>Sun, 14 May 2023 05:40:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/c91cadc7-6dfa-4164-a223-854d34ff6150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제 '연반인' 아니고 '방송인'! SBS에 사직서 낸 재재, 첫 행보는?]]></title>
             <link>https://www.elle.co.kr/article/77511</link>
@@ -57,13 +64,6 @@
             <guid>https://www.elle.co.kr/article/77462</guid>
             <pubDate>Fri, 12 May 2023 05:40:58 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/a56d074f-e246-4903-8353-fbb67deaf23d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[-9kg부터 +20kg 증량까지! '범죄도시3'로 컴백한 이준혁의 피지컬 노하우 총정리 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/77458</link>
-            <guid>https://www.elle.co.kr/article/77458</guid>
-            <pubDate>Thu, 11 May 2023 17:40:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/9c6e32f0-2810-4579-85e6-ed619f484e44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
