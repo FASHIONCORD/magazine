@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 17:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 05:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['성난 사람들'을 보며 현대인의 스트레스와 결혼 생활을 떠올리다_요주의여성 #85]]></title>
+            <link>https://www.elle.co.kr/article/77538</link>
+            <guid>https://www.elle.co.kr/article/77538</guid>
+            <pubDate>Mon, 15 May 2023 05:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[화가 나서 폭발해 버릴 것만 같은 당신에게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/42d3367d-d02e-4dc9-b0fa-d582535c9bb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베일에 싸여있던 ‘한국의 에리얼’, 주인공은 바로 뉴진스 다니엘!]]></title>
             <link>https://www.elle.co.kr/article/77523</link>
@@ -34,7 +42,6 @@
             <link>https://www.elle.co.kr/article/77432</link>
             <guid>https://www.elle.co.kr/article/77432</guid>
             <pubDate>Tue, 09 May 2023 17:41:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/07b562c0-20d1-4b66-babd-87f5c2f4e867.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라미란X이도현의 남다른 '모자' 케미로 주목! JTBC '나쁜 엄마' 관계성 탐구 #요즘드라마]]></title>
@@ -85,12 +92,6 @@
             <link>https://www.elle.co.kr/article/77113</link>
             <guid>https://www.elle.co.kr/article/77113</guid>
             <pubDate>Wed, 26 Apr 2023 17:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[엄정화 활약에 인생캐 경신까지? '닥터 차정숙' 인기 요인 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/76952</link>
-            <guid>https://www.elle.co.kr/article/76952</guid>
-            <pubDate>Mon, 24 Apr 2023 17:41:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
