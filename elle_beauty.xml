@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 05:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 17:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어노브로 완성한 신세경의 우아한 분위기]]></title>
+            <link>https://www.elle.co.kr/article/77060</link>
+            <guid>https://www.elle.co.kr/article/77060</guid>
+            <pubDate>Mon, 15 May 2023 17:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[헤어 케어 브랜드 어노브의 비현실적 부드러움에 스며든 신세경의 그림 같은 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/1555d674-ed3e-4904-94ba-ea0b4df70324.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크와 카다시안의 다이어트 비결 '위고비', 국내 상륙 임박했다고?]]></title>
             <link>https://www.elle.co.kr/article/77462</link>
@@ -60,14 +68,6 @@
             <pubDate>Wed, 10 May 2023 17:42:48 GMT</pubDate>
             <content:encoded><![CDATA[프로 다이어터 소유가 '운동 헤이터’들에게 추천하는 저탄고지 다이어트의 모든 것! 여름 비키니...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f1e39adc-cabd-4170-88ac-f2a73a2e7dbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산으로 들로! 아웃도어의 계절, 자외선 철벽 방어 TIP 3_선배’s 어드바이스 #167]]></title>
-            <link>https://www.elle.co.kr/article/77396</link>
-            <guid>https://www.elle.co.kr/article/77396</guid>
-            <pubDate>Tue, 09 May 2023 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[모자부터 자외선 차단제까지, 자외선을 제대로 피하는 방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/294dec5b-6dad-4aba-93f3-3f504ca0775c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

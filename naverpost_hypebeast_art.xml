@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 05:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 17:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 경매 Q&A: 예술 작품 수집 초심자를 위한 경매 가이드]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35941850&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35941850&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 15 May 2023 17:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTVfMTEg/MDAxNjg0MTQwODI5NTQ4.4QKkcGzBrbW8uPx1D-SJX4b1kQSF_THYaQ1m2jo-QM8g.SXLf4RB3qFZMngSuENBRhQxkVeB2xAlRX2x4NrMmjUwg.JPEG/I9Mq8s36rzkTL08GHvJOepAXr1tI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강문식, 미스치프, 말립이 광주로 간 까닭은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35882848&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfMTAg/MDAxNjI2MTY2NjI3NzY1.srnpPNYB7EgA1Bgi2wkIvA6PjqM8538bpsKB7zaitVwg.3lfJUImjt_c_SXjG5wXHFlxZMFdaxC40uylOHJXm3tkg.JPEG/INrpopwvgvdnclj5vSGTzxHl7yao.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['눈에 보이지 않는 조각상'이 표절 혐의로 고소당할 위기에?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31890794&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31890794&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MDJfMTcg/MDAxNjI1MjE4MjgxMDI2.Y1LSNHjQjwRTVF6cXg-mleCaO-j_up1kA9DxfxopnqAg.GyWaKBxNMjxhr4vmG-0fqFCy1IiDc_8en_2rFxOMQjQg.JPEG/IrX-wZW2RZtB1AbjOcrYsLpurrmc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

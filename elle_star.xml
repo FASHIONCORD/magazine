@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 05:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 17:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베일에 싸여있던 ‘한국의 에리얼’, 주인공은 바로 뉴진스 다니엘!]]></title>
+            <link>https://www.elle.co.kr/article/77523</link>
+            <guid>https://www.elle.co.kr/article/77523</guid>
+            <pubDate>Mon, 15 May 2023 17:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[이토록 맑고 투명한 울림.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/b8fa8258-bc77-41a3-b615-9e889d4f88d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["언니 보고 싶어요!" 송은이X송혜교, '더 글로리' 덕분에 20년 만에 연락이 닿았다고?]]></title>
+            <link>https://www.elle.co.kr/article/77522</link>
+            <guid>https://www.elle.co.kr/article/77522</guid>
+            <pubDate>Mon, 15 May 2023 17:42:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/33fe9f1b-a7b6-4779-aeed-56513b7354e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안소희가 다녀온 덕수궁 근처 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/77521</link>
@@ -50,21 +65,6 @@
             <guid>https://www.elle.co.kr/article/77486</guid>
             <pubDate>Sat, 13 May 2023 05:40:04 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/b9fd14d9-5764-4f1f-b115-749cd09b8348.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중)]]></title>
-            <link>https://www.elle.co.kr/article/77479</link>
-            <guid>https://www.elle.co.kr/article/77479</guid>
-            <pubDate>Fri, 12 May 2023 17:40:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/8c86f61b-c5e2-4531-84ee-db263d3cbc5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시스루 패션을 완벽 소화한 스타 8]]></title>
-            <link>https://www.elle.co.kr/article/77466</link>
-            <guid>https://www.elle.co.kr/article/77466</guid>
-            <pubDate>Fri, 12 May 2023 17:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[자신을 드러내는데 거침없는 셀러브리티들은 시스루 드레스를 입는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/f4fbdc1f-9532-4a0c-aa25-5c357320c9f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

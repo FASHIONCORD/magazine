@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 05:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 17:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[별별 톱 핸들 백]]></title>
+            <link>https://www.elle.co.kr/article/77062</link>
+            <guid>https://www.elle.co.kr/article/77062</guid>
+            <pubDate>Mon, 15 May 2023 17:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[손 안에 들어 온 아트피스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/e525b489-b447-42cd-894f-87f924deba94.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박희정의 새로운 첫걸음]]></title>
             <link>https://www.elle.co.kr/article/77508</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 May 2023 17:39:55 GMT</pubDate>
             <content:encoded><![CDATA[자신을 드러내는데 거침없는 셀러브리티들은 시스루 드레스를 입는다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/f4fbdc1f-9532-4a0c-aa25-5c357320c9f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어노브로 완성한 신세경의 우아한 분위기]]></title>
-            <link>https://www.elle.co.kr/article/77060</link>
-            <guid>https://www.elle.co.kr/article/77060</guid>
-            <pubDate>Fri, 12 May 2023 05:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[헤어 케어 브랜드 어노브의 비현실적 부드러움에 스며든 신세경의 그림 같은 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/1555d674-ed3e-4904-94ba-ea0b4df70324.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
