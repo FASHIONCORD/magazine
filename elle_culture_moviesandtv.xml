@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 17:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은?]]></title>
+            <link>https://www.elle.co.kr/article/77583</link>
+            <guid>https://www.elle.co.kr/article/77583</guid>
+            <pubDate>Tue, 16 May 2023 17:40:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/0aad8351-ac31-40f2-9fec-df5239b42ece.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엇갈린 사각관계의 결말은? '닥터 차정숙' 후반부 관전 포인트 총정리 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/77549</link>
@@ -35,7 +42,6 @@
             <link>https://www.elle.co.kr/article/77479</link>
             <guid>https://www.elle.co.kr/article/77479</guid>
             <pubDate>Thu, 11 May 2023 17:40:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/8c86f61b-c5e2-4531-84ee-db263d3cbc5d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무려 네 명 하차?! 지금까지 나온 '놀면 뭐하니?' 위기설과 대책들.txt]]></title>
@@ -85,13 +91,6 @@
             <link>https://www.elle.co.kr/article/77185</link>
             <guid>https://www.elle.co.kr/article/77185</guid>
             <pubDate>Fri, 28 Apr 2023 17:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[장고래 VS 전재준! 이쯤에서 다시 보는 박성훈의 인생 캐릭터는?]]></title>
-            <link>https://www.elle.co.kr/article/77139</link>
-            <guid>https://www.elle.co.kr/article/77139</guid>
-            <pubDate>Thu, 27 Apr 2023 17:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[제59회 백상예술대상 남우조연상 후보에 오른 박성훈.]]></content:encoded>
         </item>
     </channel>
 </rss>

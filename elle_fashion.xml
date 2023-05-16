@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 17:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페스티벌부터 휴가지까지! 어디에서나 유용한 #선글라스]]></title>
+            <link>https://www.elle.co.kr/article/77528</link>
+            <guid>https://www.elle.co.kr/article/77528</guid>
+            <pubDate>Tue, 16 May 2023 17:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[태양을 피하는 아이템을 넘어 스타일의 맛을 살려 줄 선글라스! 스타들의 SNS 속에서 힌트를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/9c394d53-2411-44ad-bf63-c995ae93f949.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올 여름엔 이 파랑]]></title>
+            <link>https://www.elle.co.kr/article/77527</link>
+            <guid>https://www.elle.co.kr/article/77527</guid>
+            <pubDate>Tue, 16 May 2023 17:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[짙고 깊은 코발트 블루 컬러 트렌드]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/5ff5c279-948b-40bd-94d0-65dfc4e2f11a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[별별 톱 핸들 백]]></title>
             <link>https://www.elle.co.kr/article/77062</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 13 May 2023 17:40:26 GMT</pubDate>
             <content:encoded><![CDATA[기나긴 팬데믹이 끝나고 보다 더 많은 이의 손목을 사로잡기 위한 워치 하우스들의 발 빠른 움...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/905e7bbc-5a3c-4c53-a5c3-739a95651991.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 이번 휴가에 레인부츠를 챙겨야만 하는 이유! 미리 준비하는 여름 휴가 에센셜 아이템 5]]></title>
-            <link>https://www.elle.co.kr/article/77488</link>
-            <guid>https://www.elle.co.kr/article/77488</guid>
-            <pubDate>Sat, 13 May 2023 05:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[비키니부터 보틀까지, 서둘러 여름이 오길 바라는 마음으로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/6ba5d2ce-a638-41b2-948e-0fa5d692c0fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시스루 패션을 완벽 소화한 스타 8]]></title>
-            <link>https://www.elle.co.kr/article/77466</link>
-            <guid>https://www.elle.co.kr/article/77466</guid>
-            <pubDate>Fri, 12 May 2023 17:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[자신을 드러내는데 거침없는 셀러브리티들은 시스루 드레스를 입는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/f4fbdc1f-9532-4a0c-aa25-5c357320c9f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

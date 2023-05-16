@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 05:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 17:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취향으로 연결된 느슨한 연대, 팀포지티브제로]]></title>
+            <link>https://www.elle.co.kr/article/76283</link>
+            <guid>https://www.elle.co.kr/article/76283</guid>
+            <pubDate>Tue, 16 May 2023 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[플라츠, 먼치스 앤 구디스, 웍스, 로비, 아파트먼트풀. 팀포지티브제로의 손길로 탄생한 취향의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/ac4199b2-bd8b-4747-a71a-7824bd3e451a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄을 부르는 책상과 의자]]></title>
+            <link>https://www.elle.co.kr/article/76282</link>
+            <guid>https://www.elle.co.kr/article/76282</guid>
+            <pubDate>Tue, 16 May 2023 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[봄의 서재를 밝히는 색색의 데스크 &amp; 체어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/d490b620-d237-4d35-9f3d-adcb55aa580e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알바 알토와 브루노 맛손의 미학, 탈로 제주]]></title>
             <link>https://www.elle.co.kr/article/76262</link>
@@ -29,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76280</guid>
             <pubDate>Wed, 10 May 2023 17:43:53 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/4e9252dc-2261-408a-9997-73da0ccc7ab5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg]]></title>
@@ -37,7 +52,6 @@
             <guid>https://www.elle.co.kr/article/77444</guid>
             <pubDate>Tue, 09 May 2023 17:41:54 GMT</pubDate>
             <content:encoded><![CDATA[이건 꼭 소장해야 해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0ef47921-7269-4e0f-b5c6-473cc6aede8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학]]></title>
@@ -87,20 +101,6 @@
             <guid>https://www.elle.co.kr/article/76274</guid>
             <pubDate>Wed, 26 Apr 2023 17:41:29 GMT</pubDate>
             <content:encoded><![CDATA[새집을 가득 채울, 크고 매혹적인 물건들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피카소라는 이름의 유명세 만큼은 모른다면? 폴 스미스의 '파블로 피카소 기념 전시'를 주목할 것]]></title>
-            <link>https://www.elle.co.kr/article/77000</link>
-            <guid>https://www.elle.co.kr/article/77000</guid>
-            <pubDate>Tue, 25 Apr 2023 17:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 놓치면 후회 할 전시 &lt;피카소 셀러브레이션&gt; 미적인 영감이 가득한 파리 피카소 미술관...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WGNB과 백종환의 직관]]></title>
-            <link>https://www.elle.co.kr/article/76272</link>
-            <guid>https://www.elle.co.kr/article/76272</guid>
-            <pubDate>Mon, 24 Apr 2023 17:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[교보문고, 준지 플래그십 스토어, 무신사 편집 숍 엠프 티. 건축에 담기는 모든 것을 디자인하...]]></content:encoded>
         </item>
     </channel>
 </rss>
