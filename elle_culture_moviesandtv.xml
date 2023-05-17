@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 17:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙과 웨이브, 이번엔 진짜로 살림 합칠까?]]></title>
+            <link>https://www.elle.co.kr/article/77618</link>
+            <guid>https://www.elle.co.kr/article/77618</guid>
+            <pubDate>Wed, 17 May 2023 17:41:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/d7cfd3cf-2011-4c11-8218-9684acc0fa52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은?]]></title>
             <link>https://www.elle.co.kr/article/77583</link>
@@ -35,7 +42,6 @@
             <guid>https://www.elle.co.kr/article/77523</guid>
             <pubDate>Sat, 13 May 2023 05:41:00 GMT</pubDate>
             <content:encoded><![CDATA[이토록 맑고 투명한 울림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/b8fa8258-bc77-41a3-b615-9e889d4f88d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중)]]></title>
@@ -84,12 +90,6 @@
             <title><![CDATA["연진아, 되게 신나": 송혜교부터 박은빈까지, 백상 여성 수상자들의 소감 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/77197</link>
             <guid>https://www.elle.co.kr/article/77197</guid>
-            <pubDate>Fri, 28 Apr 2023 17:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['슈퍼 마리오' 끝판왕 쿠파, 한국 음식에서 따 온 이름이라고?! (ft. 잭 블랙)]]></title>
-            <link>https://www.elle.co.kr/article/77185</link>
-            <guid>https://www.elle.co.kr/article/77185</guid>
             <pubDate>Fri, 28 Apr 2023 17:41:30 GMT</pubDate>
         </item>
     </channel>

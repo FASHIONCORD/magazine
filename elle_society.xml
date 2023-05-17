@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 17:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['종합소득세'의 세계에 진입하려면? 네이버 블로그로 쏠쏠한 수익 올리는 법 3_돈쓸신잡 #97]]></title>
+            <link>https://www.elle.co.kr/article/77471</link>
+            <guid>https://www.elle.co.kr/article/77471</guid>
+            <pubDate>Wed, 17 May 2023 17:42:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/0628ec1f-60c2-4669-8477-767ee2bec06b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 우리 강아지 이름은 왜 김정원이 됐을까? 우리가족을 소개합니다]]></title>
             <link>https://www.elle.co.kr/ellevoice/essay/77336</link>
@@ -61,14 +68,6 @@
             <pubDate>Sun, 07 May 2023 17:42:41 GMT</pubDate>
             <content:encoded><![CDATA[독서등부터 USB 포트까지, 집순이 필수템 모두 구비 완료.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/05109cc6-c00b-4bd2-8d6b-3b2f3112fa8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 아빠의 얼굴에서 아이를 보게 된 순간]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/77291</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/77291</guid>
-            <pubDate>Sat, 06 May 2023 17:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[작년 어버이날 할머니의 부고 전화를 받았다. 그리고 보게 된 아빠의 낯선 얼굴.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/bac35a02-73f8-4501-b894-11d154e6110c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
