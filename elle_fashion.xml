@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 17:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 05:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[까르띠에 크리에이티브 디렉터는 어떤 시계를 찰까?]]></title>
+            <link>https://www.elle.co.kr/article/77558</link>
+            <guid>https://www.elle.co.kr/article/77558</guid>
+            <pubDate>Wed, 17 May 2023 05:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[워치스 앤 원더스 2023에서 만난 까르띠에]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/9ceaa006-fa8f-4eac-91aa-b8bbcd29ac02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[훌라 '후프']]></title>
+            <link>https://www.elle.co.kr/article/77256</link>
+            <guid>https://www.elle.co.kr/article/77256</guid>
+            <pubDate>Wed, 17 May 2023 05:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[대담했던 80년대를 떠올리며.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/74979b19-1d18-4eec-a1f6-35e14d6388e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럭비 대전]]></title>
+            <link>https://www.elle.co.kr/article/77531</link>
+            <guid>https://www.elle.co.kr/article/77531</guid>
+            <pubDate>Wed, 17 May 2023 05:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[럭비 셔츠의 화려한 질주.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/c2494eb5-28d4-4d30-9ba7-5950309d9301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페스티벌부터 휴가지까지! 어디에서나 유용한 #선글라스]]></title>
             <link>https://www.elle.co.kr/article/77528</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 14 May 2023 17:40:32 GMT</pubDate>
             <content:encoded><![CDATA[같은 옷 다른 느낌, 리한나와 헤일리가 즐겨 입는 스트라이프 폴로 셔츠 따라잡기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/3820a653-5b67-4479-81e4-0e3cd0d5e4cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데일리 룩 치트키! 화이트 탱크톱 스타일링 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77494</link>
-            <guid>https://www.elle.co.kr/article/77494</guid>
-            <pubDate>Sun, 14 May 2023 05:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[지금부터 여름까지 쭉 활용할 수 있는 화이트 탱크톱, 왜 없어?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/a00328c1-08a0-4d7d-bf94-e3bcb4aea787.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런던 서머싯 하우스에서 열린 오메가의 밤]]></title>
-            <link>https://www.elle.co.kr/article/77492</link>
-            <guid>https://www.elle.co.kr/article/77492</guid>
-            <pubDate>Sat, 13 May 2023 17:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[볼드한 컬러와 장인 정신이 더해져 워치 패러다임의 혁신을 가져온 오메가의 ' 아쿠아 테라 쉐...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/dc909891-a61c-4ab3-99ce-b7b6b4eb6ca4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워치 칼럼니스트가 본 시계의 지금]]></title>
-            <link>https://www.elle.co.kr/article/77255</link>
-            <guid>https://www.elle.co.kr/article/77255</guid>
-            <pubDate>Sat, 13 May 2023 17:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[기나긴 팬데믹이 끝나고 보다 더 많은 이의 손목을 사로잡기 위한 워치 하우스들의 발 빠른 움...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/905e7bbc-5a3c-4c53-a5c3-739a95651991.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

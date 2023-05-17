@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 17:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 05:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안소희가 다녀온 덕수궁 근처 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/77521</link>
+            <guid>https://www.elle.co.kr/article/77521</guid>
+            <pubDate>Wed, 17 May 2023 05:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[줄 서는 노포부터 파노라마 시티 뷰를 감상할 수 있는 카페까지, 안소희가 가이드 해주는 덕수...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/5a3d1245-c495-4f55-8338-cc94eddd5692.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월에 가기 좋은 한옥 카페 두 곳!]]></title>
             <link>https://www.elle.co.kr/article/77061</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/77437</guid>
             <pubDate>Fri, 12 May 2023 17:41:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/378ae501-e6f1-4029-b4ee-4d542bc7abe3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공간 스튜디오 라보토리의 '프리즘' 미학]]></title>
-            <link>https://www.elle.co.kr/article/76279</link>
-            <guid>https://www.elle.co.kr/article/76279</guid>
-            <pubDate>Wed, 10 May 2023 17:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 스탠다드의 오프라인 스토어, 인크커피, 스테이지 바이 고디바, 중식당 Fei. 라보토리는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/2ad949ad-0f76-410e-953f-3873d2703ec2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
