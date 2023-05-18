@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 17:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 05:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?)]]></title>
+            <link>https://www.elle.co.kr/article/77632</link>
+            <guid>https://www.elle.co.kr/article/77632</guid>
+            <pubDate>Thu, 18 May 2023 05:42:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/543ec1a6-0436-431d-9a23-9f28521f9834.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙과 웨이브, 이번엔 진짜로 살림 합칠까?]]></title>
             <link>https://www.elle.co.kr/article/77618</link>
@@ -34,7 +41,6 @@
             <guid>https://www.elle.co.kr/article/77538</guid>
             <pubDate>Mon, 15 May 2023 05:41:10 GMT</pubDate>
             <content:encoded><![CDATA[화가 나서 폭발해 버릴 것만 같은 당신에게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/42d3367d-d02e-4dc9-b0fa-d582535c9bb8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베일에 싸여있던 ‘한국의 에리얼’, 주인공은 바로 뉴진스 다니엘!]]></title>
@@ -85,12 +91,6 @@
             <guid>https://www.elle.co.kr/article/77266</guid>
             <pubDate>Tue, 02 May 2023 17:40:31 GMT</pubDate>
             <content:encoded><![CDATA[한국 더빙 캐스트 공개 중.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["연진아, 되게 신나": 송혜교부터 박은빈까지, 백상 여성 수상자들의 소감 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77197</link>
-            <guid>https://www.elle.co.kr/article/77197</guid>
-            <pubDate>Fri, 28 Apr 2023 17:41:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
