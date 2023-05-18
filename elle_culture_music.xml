@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 05:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 17:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
+            <link>https://www.elle.co.kr/article/77654</link>
+            <guid>https://www.elle.co.kr/article/77654</guid>
+            <pubDate>Thu, 18 May 2023 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/189dcdb8-f7aa-4dc5-84b9-69275381f371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선]]></title>
             <link>https://www.elle.co.kr/article/77457</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/77021</guid>
             <pubDate>Tue, 25 Apr 2023 17:41:39 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/979dd7a9-4dc8-4702-a3ad-35bac753f75f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더욱 울림 깊어진 브루노 마스, 9년 만의 내한 콘서트! 최근 셋리스트는?]]></title>
@@ -88,12 +95,6 @@
             <link>https://www.elle.co.kr/article/75387</link>
             <guid>https://www.elle.co.kr/article/75387</guid>
             <pubDate>Tue, 28 Feb 2023 05:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[해체 NO! '역주행 걸그룹' 브레이브걸스가 계약만료에 전한 심경]]></title>
-            <link>https://www.elle.co.kr/article/75081</link>
-            <guid>https://www.elle.co.kr/article/75081</guid>
-            <pubDate>Wed, 22 Feb 2023 05:41:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 05:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 17:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은?]]></title>
+            <link>https://www.elle.co.kr/article/77583</link>
+            <guid>https://www.elle.co.kr/article/77583</guid>
+            <pubDate>Thu, 18 May 2023 17:40:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/0aad8351-ac31-40f2-9fec-df5239b42ece.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄을 부르는 책상과 의자]]></title>
+            <link>https://www.elle.co.kr/article/76282</link>
+            <guid>https://www.elle.co.kr/article/76282</guid>
+            <pubDate>Thu, 18 May 2023 17:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[봄의 서재를 밝히는 색색의 데스크 &amp; 체어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/d490b620-d237-4d35-9f3d-adcb55aa580e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엇갈린 사각관계의 결말은? '닥터 차정숙' 후반부 관전 포인트 총정리 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/77549</link>
@@ -52,21 +67,6 @@
             <pubDate>Mon, 15 May 2023 17:42:28 GMT</pubDate>
             <content:encoded><![CDATA[몽베베 대표 최지수에 집에는 세월이 담긴 가구와 예술 작품이 가득하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/b4b0b5d8-da66-4110-b1d9-e2a1da77a4e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서정화가 소재와 구조로 이뤄낸 극명한 밸런스 #더메이커스]]></title>
-            <link>https://www.elle.co.kr/article/76280</link>
-            <guid>https://www.elle.co.kr/article/76280</guid>
-            <pubDate>Mon, 15 May 2023 05:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/4e9252dc-2261-408a-9997-73da0ccc7ab5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선]]></title>
-            <link>https://www.elle.co.kr/article/77457</link>
-            <guid>https://www.elle.co.kr/article/77457</guid>
-            <pubDate>Sun, 14 May 2023 17:41:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/462c20c4-a29d-464c-879a-52331192f17f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
