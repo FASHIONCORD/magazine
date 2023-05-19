@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 17:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 05:42:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙과 웨이브, 이번엔 진짜로 살림 합칠까?]]></title>
+            <link>https://www.elle.co.kr/article/77618</link>
+            <guid>https://www.elle.co.kr/article/77618</guid>
+            <pubDate>Fri, 19 May 2023 05:41:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/d7cfd3cf-2011-4c11-8218-9684acc0fa52.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취향으로 연결된 느슨한 연대, 팀포지티브제로]]></title>
+            <link>https://www.elle.co.kr/article/76283</link>
+            <guid>https://www.elle.co.kr/article/76283</guid>
+            <pubDate>Fri, 19 May 2023 05:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[플라츠, 먼치스 앤 구디스, 웍스, 로비, 아파트먼트풀. 팀포지티브제로의 손길로 탄생한 취향의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/ac4199b2-bd8b-4747-a71a-7824bd3e451a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은?]]></title>
             <link>https://www.elle.co.kr/article/77583</link>
@@ -52,21 +67,6 @@
             <pubDate>Tue, 16 May 2023 17:40:31 GMT</pubDate>
             <content:encoded><![CDATA[이토록 맑고 투명한 울림.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/b8fa8258-bc77-41a3-b615-9e889d4f88d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중)]]></title>
-            <link>https://www.elle.co.kr/article/77479</link>
-            <guid>https://www.elle.co.kr/article/77479</guid>
-            <pubDate>Tue, 16 May 2023 17:40:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/8c86f61b-c5e2-4531-84ee-db263d3cbc5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곡선에서 곡선으로, 둥글게 그린 아름다움]]></title>
-            <link>https://www.elle.co.kr/article/76281</link>
-            <guid>https://www.elle.co.kr/article/76281</guid>
-            <pubDate>Mon, 15 May 2023 17:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[몽베베 대표 최지수에 집에는 세월이 담긴 가구와 예술 작품이 가득하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/b4b0b5d8-da66-4110-b1d9-e2a1da77a4e7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 17:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 05:42:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상상 그 이상! 호주를 새롭게 여행하는 법]]></title>
+            <link>https://www.elle.co.kr/article/77077</link>
+            <guid>https://www.elle.co.kr/article/77077</guid>
+            <pubDate>Fri, 19 May 2023 05:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[드넓은 바다를 따라 피어오르는 자유. 시드니 &amp; 뉴사우스웨일스 여행기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/330f0389-8cd9-4a75-b097-565638dca548.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉골레 쇼유라멘부터 비건 페스토, 커피까지! 따끈따끈한 마포구 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/77565</link>
+            <guid>https://www.elle.co.kr/article/77565</guid>
+            <pubDate>Fri, 19 May 2023 05:42:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/692960c9-b655-4da3-84d8-3f45a33d3a6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안소희가 다녀온 덕수궁 근처 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/77521</link>
@@ -53,21 +68,6 @@
             <guid>https://www.elle.co.kr/article/77452</guid>
             <pubDate>Sat, 13 May 2023 05:41:47 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/20294319-d686-4fca-bd70-5e3ffa11329f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트와 우드 톤의 인테리어가 포인트! 포토그래퍼 미아의 랜선집들이 #취향을담은집]]></title>
-            <link>https://www.elle.co.kr/article/77450</link>
-            <guid>https://www.elle.co.kr/article/77450</guid>
-            <pubDate>Fri, 12 May 2023 17:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[좋아하는 무언가에 애정을 쏟을 줄 알고, 분명한 취향을 바탕으로 자신만의 행복하고 풍요로운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/4ef87cc1-a870-4532-a716-18749ee15c6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 전국에 만개한 천만 송이 꽃의 향연! 전국 장미축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/77437</link>
-            <guid>https://www.elle.co.kr/article/77437</guid>
-            <pubDate>Fri, 12 May 2023 17:41:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/378ae501-e6f1-4029-b4ee-4d542bc7abe3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
