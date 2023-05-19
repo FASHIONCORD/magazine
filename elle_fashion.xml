@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 05:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 17:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
+            <link>https://www.elle.co.kr/article/77654</link>
+            <guid>https://www.elle.co.kr/article/77654</guid>
+            <pubDate>Fri, 19 May 2023 17:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/189dcdb8-f7aa-4dc5-84b9-69275381f371.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한강 잠수교에서 열린 루이 비통 프리폴 컬렉션]]></title>
+            <link>https://www.elle.co.kr/article/77638</link>
+            <guid>https://www.elle.co.kr/article/77638</guid>
+            <pubDate>Fri, 19 May 2023 17:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[오징어 게임 &lt;황동혁&gt; 감독이 참여한 환상적인 패션쇼 현장!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/b6c89194-69f4-40a9-b7f4-2a240dd0e9fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이거 안 읽고 시계 사러 가면 손해]]></title>
+            <link>https://www.elle.co.kr/article/77631</link>
+            <guid>https://www.elle.co.kr/article/77631</guid>
+            <pubDate>Fri, 19 May 2023 17:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[용어를 알아야 시계의 세계가 열립니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/0eed6cb7-e5c1-4d26-8288-6aa1b6157e63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이템 하나만으로 힙해지는 방법! #초커]]></title>
             <link>https://www.elle.co.kr/article/77626</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 18 May 2023 05:40:25 GMT</pubDate>
             <content:encoded><![CDATA[겨우내 고생한 내 발에 자유를 선물할 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/4dbf9a46-de6a-43f7-8512-cf840cc2174d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초여름이 성큼! 스타들의 산뜻한 블라우스 패션 5]]></title>
-            <link>https://www.elle.co.kr/article/77561</link>
-            <guid>https://www.elle.co.kr/article/77561</guid>
-            <pubDate>Thu, 18 May 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[웬디부터 효민까지 블라우스로 스타일리시하고 사랑스러운 순간을 연출한 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/f78bad31-fa8e-4cb4-8643-cfc56cbd6e35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까르띠에 크리에이티브 디렉터는 어떤 시계를 찰까?]]></title>
-            <link>https://www.elle.co.kr/article/77558</link>
-            <guid>https://www.elle.co.kr/article/77558</guid>
-            <pubDate>Wed, 17 May 2023 05:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[워치스 앤 원더스 2023에서 만난 까르띠에]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/9ceaa006-fa8f-4eac-91aa-b8bbcd29ac02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[훌라 '후프']]></title>
-            <link>https://www.elle.co.kr/article/77256</link>
-            <guid>https://www.elle.co.kr/article/77256</guid>
-            <pubDate>Wed, 17 May 2023 05:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[대담했던 80년대를 떠올리며.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/74979b19-1d18-4eec-a1f6-35e14d6388e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 05:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 17:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화려한 '무비스타'로 솔로 데뷔한 미주! 우월한 피지컬에 숨겨진 반전 매력은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/77616</link>
+            <guid>https://www.elle.co.kr/article/77616</guid>
+            <pubDate>Fri, 19 May 2023 17:40:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/4832b93b-8502-4dd6-8534-c80877a4be7a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블루 드 샤넬의 뉴 앰배서더! 티모시 샬라메]]></title>
             <link>https://www.elle.co.kr/article/77541</link>
@@ -61,13 +68,6 @@
             <pubDate>Mon, 15 May 2023 17:42:08 GMT</pubDate>
             <content:encoded><![CDATA[헤어 케어 브랜드 어노브의 비현실적 부드러움에 스며든 신세경의 그림 같은 순간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/1555d674-ed3e-4904-94ba-ea0b4df70324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크와 카다시안의 다이어트 비결 '위고비', 국내 상륙 임박했다고?]]></title>
-            <link>https://www.elle.co.kr/article/77462</link>
-            <guid>https://www.elle.co.kr/article/77462</guid>
-            <pubDate>Mon, 15 May 2023 05:40:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/a56d074f-e246-4903-8353-fbb67deaf23d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

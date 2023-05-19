@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 05:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 17:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 시스터]]></title>
+            <link>https://www.elle.co.kr/article/77085</link>
+            <guid>https://www.elle.co.kr/article/77085</guid>
+            <pubDate>Fri, 19 May 2023 17:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[옷으로 '서울 여자'를 표현하는 '더오픈 프로덕트' 디렉터 지영과 보영.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/61eb035f-dacd-4ba5-9abc-2330896cf3fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전효성부터 김혜수, 고민시까지! 5.18 의미 되새긴 스타들.list]]></title>
+            <link>https://www.elle.co.kr/article/77656</link>
+            <guid>https://www.elle.co.kr/article/77656</guid>
+            <pubDate>Fri, 19 May 2023 17:40:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/3797efff-398c-4ab1-a796-fffc5689a207.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출산 후 12kg 쪘다고 고충 전했던 서효림, 탄탄한 피지컬로 돌아온 비결은? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/77653</link>
@@ -50,21 +65,6 @@
             <pubDate>Thu, 18 May 2023 17:40:14 GMT</pubDate>
             <content:encoded><![CDATA[여성 예술가 박보마, 박론디, 우한나 그리고 이들을 모은 큐레이터 추스 마르티네스의 뜨거운 대...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/30d2aeff-02f2-4e82-af5f-f5388e12d568.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 꿈꾸는 민주킴 패밀리]]></title>
-            <link>https://www.elle.co.kr/article/77066</link>
-            <guid>https://www.elle.co.kr/article/77066</guid>
-            <pubDate>Thu, 18 May 2023 17:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너 김민주와 비주얼 디렉터 허세련이 그리는 '민주킴'이라는 내일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/f0a95b08-7afe-4e8c-bf34-d1909f967ad0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오겜과 더 글로리의 만남! 이정재X임지연 투샷은 이곳에서?]]></title>
-            <link>https://www.elle.co.kr/article/77622</link>
-            <guid>https://www.elle.co.kr/article/77622</guid>
-            <pubDate>Thu, 18 May 2023 05:41:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/75ba042d-b83b-431e-b2f7-ab1753685b24.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
