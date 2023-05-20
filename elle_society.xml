@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 05:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 17:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘리트 코스 밟던 대세 배우 아델 에넬, 돌연 은퇴를 선언한 슬픈 이유]]></title>
+            <link>https://www.elle.co.kr/article/77513</link>
+            <guid>https://www.elle.co.kr/article/77513</guid>
+            <pubDate>Sat, 20 May 2023 17:42:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/c91cadc7-6dfa-4164-a223-854d34ff6150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스승의 날 유래부터 세종대왕 탄신 기념까지 한번에! 5월 추천 명소 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/77509</link>
@@ -60,14 +67,6 @@
             <pubDate>Thu, 11 May 2023 05:41:33 GMT</pubDate>
             <content:encoded><![CDATA[왜 정지음 작가는 인간관계 문제로 두 번이나 정신과 치료를 받아야 했을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/ad8b9077-6cc8-424d-9477-ec2102d79cce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가정의 달=선물의 달! 부담 없이 전하는 스몰 기프트 5]]></title>
-            <link>https://www.elle.co.kr/article/77351</link>
-            <guid>https://www.elle.co.kr/article/77351</guid>
-            <pubDate>Thu, 11 May 2023 05:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[수북이 쌓인 핸드크림 선물은 이제 그만.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/2f84feda-10a6-42a9-9aec-9dd878cb43e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 05:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 17:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀잼은 국적을 가리지 않는다! 일본에 수출한 '환승연애' 리메이크판 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/77645</link>
+            <guid>https://www.elle.co.kr/article/77645</guid>
+            <pubDate>Sat, 20 May 2023 17:41:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/c459d662-fe96-4021-a464-f6a23d7423a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?)]]></title>
+            <link>https://www.elle.co.kr/article/77632</link>
+            <guid>https://www.elle.co.kr/article/77632</guid>
+            <pubDate>Sat, 20 May 2023 17:41:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/543ec1a6-0436-431d-9a23-9f28521f9834.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티빙과 웨이브, 이번엔 진짜로 살림 합칠까?]]></title>
             <link>https://www.elle.co.kr/article/77618</link>
@@ -51,22 +65,6 @@
             <pubDate>Wed, 17 May 2023 17:41:27 GMT</pubDate>
             <content:encoded><![CDATA[화가 나서 폭발해 버릴 것만 같은 당신에게.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/42d3367d-d02e-4dc9-b0fa-d582535c9bb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알바 알토와 브루노 맛손의 미학, 탈로 제주]]></title>
-            <link>https://www.elle.co.kr/article/76262</link>
-            <guid>https://www.elle.co.kr/article/76262</guid>
-            <pubDate>Tue, 16 May 2023 17:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[제주의 땅과 돌, 바람과 숲이 빚은 건축 그리고 디자인을 찾아서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/76a9fb25-af0e-4c50-b87c-ac70a3ee92e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베일에 싸여있던 ‘한국의 에리얼’, 주인공은 바로 뉴진스 다니엘!]]></title>
-            <link>https://www.elle.co.kr/article/77523</link>
-            <guid>https://www.elle.co.kr/article/77523</guid>
-            <pubDate>Tue, 16 May 2023 17:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[이토록 맑고 투명한 울림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/b8fa8258-bc77-41a3-b615-9e889d4f88d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

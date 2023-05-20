@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 05:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 17:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀피 타임! 컬러풀 거울]]></title>
+            <link>https://www.elle.co.kr/article/77069</link>
+            <guid>https://www.elle.co.kr/article/77069</guid>
+            <pubDate>Sat, 20 May 2023 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[색다른 나를 발견하는 순간, 톡톡 튀는 컬러플 거울.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/0f66bc69-dee3-42ae-a6ab-9300f831db05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브라질 국기를 패션으로 소화한다면?]]></title>
+            <link>https://www.elle.co.kr/article/77068</link>
+            <guid>https://www.elle.co.kr/article/77068</guid>
+            <pubDate>Sat, 20 May 2023 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[브라질 국기에서 영감받은 '브라질코어(Brazilcore)'가 새롭게 떠오르는 중이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/1edc273b-c54f-448d-8bc8-aa6b01d5a957.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경복궁의 밤을 물들인 구찌 패션쇼.]]></title>
+            <link>https://www.elle.co.kr/article/77666</link>
+            <guid>https://www.elle.co.kr/article/77666</guid>
+            <pubDate>Sat, 20 May 2023 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[아시아 최초로 열린 구찌 크루즈 패션쇼! 한국의 전통과 고유의 멋을 품은 경복궁을 배경으로 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/b9be03c3-4e3d-4665-befd-bf757ca34a1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
             <link>https://www.elle.co.kr/article/77604</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 19 May 2023 17:39:51 GMT</pubDate>
             <content:encoded><![CDATA[용어를 알아야 시계의 세계가 열립니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/0eed6cb7-e5c1-4d26-8288-6aa1b6157e63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이템 하나만으로 힙해지는 방법! #초커]]></title>
-            <link>https://www.elle.co.kr/article/77626</link>
-            <guid>https://www.elle.co.kr/article/77626</guid>
-            <pubDate>Fri, 19 May 2023 05:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 핫한 액세서리인 초커를 활용해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/59e859cf-2e5a-446e-94c9-14d2556c3812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛이 나는 백준영]]></title>
-            <link>https://www.elle.co.kr/article/77582</link>
-            <guid>https://www.elle.co.kr/article/77582</guid>
-            <pubDate>Thu, 18 May 2023 17:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[성공적인 해외 컬렉션 데뷔를 마친 모델 백준영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/c66d391f-7c2b-4999-ab20-464b625d804d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션보다 한 단계 위! 파인 주얼리]]></title>
-            <link>https://www.elle.co.kr/article/77601</link>
-            <guid>https://www.elle.co.kr/article/77601</guid>
-            <pubDate>Thu, 18 May 2023 17:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬의 질주에 루이 비통이 뒤따르고, 생 로랑이 동참했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/9200b619-8772-4b43-99fd-7183d09f91c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

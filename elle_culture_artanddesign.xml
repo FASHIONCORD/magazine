@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 05:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 17:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜버 김갈릭이 시골 집에서 사는 법 #아웃오브서울]]></title>
+            <link>https://www.elle.co.kr/article/77703</link>
+            <guid>https://www.elle.co.kr/article/77703</guid>
+            <pubDate>Sat, 20 May 2023 17:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 채널 '김갈릭'에서 평화로운 시골 브이로그를 연재 중이다. 서울을 떠나 과감한 시골 살...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/6dbf1be8-b9d7-43d3-ab8d-84cf25a4d952.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수묵화부터 픽셀, 추상화까지! 5월, 신록과 함께 찾아온 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/77701</link>
+            <guid>https://www.elle.co.kr/article/77701</guid>
+            <pubDate>Sat, 20 May 2023 17:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[미술 산책을 나서기에 더할 나위 없이 좋은 나날들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/fb4f0be4-b65d-4294-9de6-8fb2adfa8f22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아티스트 세츠코의 르 그랑 샬레]]></title>
             <link>https://www.elle.co.kr/article/76291</link>
@@ -29,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/77654</guid>
             <pubDate>Thu, 18 May 2023 17:41:04 GMT</pubDate>
             <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/189dcdb8-f7aa-4dc5-84b9-69275381f371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[취향으로 연결된 느슨한 연대, 팀포지티브제로]]></title>
@@ -37,7 +52,6 @@
             <guid>https://www.elle.co.kr/article/76283</guid>
             <pubDate>Tue, 16 May 2023 17:40:59 GMT</pubDate>
             <content:encoded><![CDATA[플라츠, 먼치스 앤 구디스, 웍스, 로비, 아파트먼트풀. 팀포지티브제로의 손길로 탄생한 취향의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/ac4199b2-bd8b-4747-a71a-7824bd3e451a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄을 부르는 책상과 의자]]></title>
@@ -87,20 +101,6 @@
             <guid>https://www.elle.co.kr/article/77377</guid>
             <pubDate>Sat, 06 May 2023 17:41:18 GMT</pubDate>
             <content:encoded><![CDATA[우리는 하나의 집에서 살아야만 하는 걸까? 근본적인 질문을 던지는 박우린의 세 집 살림.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 패션 아이콘 아네스 베의 마법 같은 저택]]></title>
-            <link>https://www.elle.co.kr/article/76278</link>
-            <guid>https://www.elle.co.kr/article/76278</guid>
-            <pubDate>Thu, 04 May 2023 17:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 패션 디자인의 살아 있는 아이콘인 아네스 베. 그의 무한한 창의성이 마법처럼 펼쳐진 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스테이 아키텍츠가 디자인하는 고요한 휴식과 위안]]></title>
-            <link>https://www.elle.co.kr/article/76277</link>
-            <guid>https://www.elle.co.kr/article/76277</guid>
-            <pubDate>Tue, 02 May 2023 17:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[스테이 아키텍츠의 고정석과 홍정희는 사람들이 머무는 곳에 대한 가치와 깊이를 끊임없이 탐구한...]]></content:encoded>
         </item>
     </channel>
 </rss>
