@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 17:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 05:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['성난 사람들'을 보며 현대인의 스트레스와 결혼 생활을 떠올리다_요주의여성 #85]]></title>
+            <link>https://www.elle.co.kr/article/77538</link>
+            <guid>https://www.elle.co.kr/article/77538</guid>
+            <pubDate>Mon, 22 May 2023 05:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[화가 나서 폭발해 버릴 것만 같은 당신에게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/42d3367d-d02e-4dc9-b0fa-d582535c9bb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘리트 코스 밟던 대세 배우 아델 에넬, 돌연 은퇴를 선언한 슬픈 이유]]></title>
             <link>https://www.elle.co.kr/article/77513</link>
@@ -59,14 +67,6 @@
             <pubDate>Fri, 12 May 2023 17:41:38 GMT</pubDate>
             <content:encoded><![CDATA[에디터에서 작가로, 팟캐스터로, 끝없이 확장 중인 황선우 작가가 말하는 직업의 미래]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/082400aa-8253-42a9-be8f-b22b1508d79c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 당신의 인생에 꼭 피해야 할 것. 바로 나르시시스트다!]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/77354</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/77354</guid>
-            <pubDate>Thu, 11 May 2023 05:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[왜 정지음 작가는 인간관계 문제로 두 번이나 정신과 치료를 받아야 했을까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/ad8b9077-6cc8-424d-9477-ec2102d79cce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

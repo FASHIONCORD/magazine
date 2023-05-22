@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 17:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 05:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다 아는 사람들이구먼? 60명 함께 한 BH엔터 워크숍 현장 (ft. 이병헌 전액 부담)]]></title>
+            <link>https://www.elle.co.kr/article/77692</link>
+            <guid>https://www.elle.co.kr/article/77692</guid>
+            <pubDate>Mon, 22 May 2023 05:40:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/1845ec56-de9d-49ec-8e88-51c205d5e67f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔하이픈, <엘르 맨 ELLE MAN> 6월호 커버 장식]]></title>
             <link>https://www.elle.co.kr/article/77658</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/77645</guid>
             <pubDate>Fri, 19 May 2023 05:40:47 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/c459d662-fe96-4021-a464-f6a23d7423a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곧 10년차 커플, 신민아-김우빈의 #발리 #럽스타그램]]></title>
-            <link>https://www.elle.co.kr/article/77633</link>
-            <guid>https://www.elle.co.kr/article/77633</guid>
-            <pubDate>Fri, 19 May 2023 05:40:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/6973e22c-b014-42c5-961e-51835c461d0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
