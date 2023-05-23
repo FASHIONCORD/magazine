@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 17:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 05:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유럽 여행을 계획중이라면 당장 클릭! 아이비의 여행 필수템 대방출 6]]></title>
+            <link>https://www.elle.co.kr/article/77705</link>
+            <guid>https://www.elle.co.kr/article/77705</guid>
+            <pubDate>Tue, 23 May 2023 05:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[유럽으로 혼자 여행을 떠나기 전 아이비가 캐리어에 챙기는 실용적인 아이템을 직접 공개합니다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/35c7cd35-2a64-4f82-a04c-f1bfbde5920e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울대가 낳은 최고의 아웃풋! 이하늬, 김태희의 보디가드가 된 사연은?]]></title>
+            <link>https://www.elle.co.kr/article/77700</link>
+            <guid>https://www.elle.co.kr/article/77700</guid>
+            <pubDate>Tue, 23 May 2023 05:41:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/a56edc12-cf36-48d4-8484-486c802ebb23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언제 입어도 기분 좋은 스트라이프 패션 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/77699</link>
@@ -52,21 +67,6 @@
             <pubDate>Sat, 20 May 2023 05:40:10 GMT</pubDate>
             <content:encoded><![CDATA[서촌부터 한남동까지, 스타가 방문 도장 찍고 간 분위기 좋은 테라스 카페를 공개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/bd19ea72-0410-430e-81c0-04fb8baf0685.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 시스터]]></title>
-            <link>https://www.elle.co.kr/article/77085</link>
-            <guid>https://www.elle.co.kr/article/77085</guid>
-            <pubDate>Fri, 19 May 2023 17:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[옷으로 '서울 여자'를 표현하는 '더오픈 프로덕트' 디렉터 지영과 보영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/61eb035f-dacd-4ba5-9abc-2330896cf3fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전효성부터 김혜수, 고민시까지! 5.18 의미 되새긴 스타들.list]]></title>
-            <link>https://www.elle.co.kr/article/77656</link>
-            <guid>https://www.elle.co.kr/article/77656</guid>
-            <pubDate>Fri, 19 May 2023 17:40:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/3797efff-398c-4ab1-a796-fffc5689a207.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
