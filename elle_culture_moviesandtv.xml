@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 05:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 17:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니부터 노윤서까지! 제76회 칸 영화제 속 한국 셀럽들의 빛나는 순간]]></title>
+            <link>https://www.elle.co.kr/article/77782</link>
+            <guid>https://www.elle.co.kr/article/77782</guid>
+            <pubDate>Tue, 23 May 2023 17:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[본격적으로 막이 오른 한국 영화의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/180176e6-f5e1-44f7-83ea-c9a7635f6f0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/77729</link>
@@ -33,7 +41,6 @@
             <link>https://www.elle.co.kr/article/77618</link>
             <guid>https://www.elle.co.kr/article/77618</guid>
             <pubDate>Wed, 17 May 2023 17:41:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/d7cfd3cf-2011-4c11-8218-9684acc0fa52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은?]]></title>
@@ -84,12 +91,6 @@
             <link>https://www.elle.co.kr/article/77404</link>
             <guid>https://www.elle.co.kr/article/77404</guid>
             <pubDate>Mon, 08 May 2023 17:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2억뷰 웹소설 '전지적 독자 시점' 영화화, 김독자X유중혁은 누가?]]></title>
-            <link>https://www.elle.co.kr/article/77337</link>
-            <guid>https://www.elle.co.kr/article/77337</guid>
-            <pubDate>Thu, 04 May 2023 17:41:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

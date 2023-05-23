@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 05:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 17:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아침 부기 굿바이! 배우 엄지원의 페이스 마사지 루틴]]></title>
+            <link>https://www.elle.co.kr/article/77710</link>
+            <guid>https://www.elle.co.kr/article/77710</guid>
+            <pubDate>Tue, 23 May 2023 17:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[딱 5분만 따라 해 보세요. 날렵한 페이스 라인을 위해 엄지원이 매일 하는 마사지 방법을 소개...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/0eaebd33-e733-4468-a6f0-d13e57a82a08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유럽 여행을 계획중이라면 당장 클릭! 아이비의 여행 필수템 대방출 6]]></title>
             <link>https://www.elle.co.kr/article/77705</link>
@@ -59,14 +67,6 @@
             <pubDate>Sat, 20 May 2023 05:40:10 GMT</pubDate>
             <content:encoded><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/b337ce93-8f8e-48f0-a6e1-5c3276be3779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가야 해! 광합성 하기 좋은 테라스 카페 3]]></title>
-            <link>https://www.elle.co.kr/article/77660</link>
-            <guid>https://www.elle.co.kr/article/77660</guid>
-            <pubDate>Sat, 20 May 2023 05:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[서촌부터 한남동까지, 스타가 방문 도장 찍고 간 분위기 좋은 테라스 카페를 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/bd19ea72-0410-430e-81c0-04fb8baf0685.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

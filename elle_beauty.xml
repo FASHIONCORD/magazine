@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 05:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 17:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[긴 생머리 헤어템 라인업]]></title>
+            <link>https://www.elle.co.kr/article/77071</link>
+            <guid>https://www.elle.co.kr/article/77071</guid>
+            <pubDate>Tue, 23 May 2023 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA['뉴진스'처럼 찰랑거리는 긴 생머리를 위한 헤어템 7.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/c2e97dc2-6405-4e33-8476-7bb2261c4a45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[날씨 좋은 주말에 딱 가기 좋을 NEW! 뷰티 팝업스토어 #갓구운신상]]></title>
             <link>https://www.elle.co.kr/article/77687</link>
@@ -60,14 +68,6 @@
             <pubDate>Fri, 19 May 2023 05:40:39 GMT</pubDate>
             <content:encoded><![CDATA[동시대를 대표하는 아이콘, 티모시 샬라메가 마침내 블루 드 샤넬의 새로운 얼굴이 됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/ae226c6b-0acd-4713-b051-c7658673fe27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화장품 믹솔로지 레서피]]></title>
-            <link>https://www.elle.co.kr/article/77063</link>
-            <guid>https://www.elle.co.kr/article/77063</guid>
-            <pubDate>Thu, 18 May 2023 17:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 내가, 화장품 요리사!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/1ca2598e-ce2d-41d3-a50f-dbe19567596b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

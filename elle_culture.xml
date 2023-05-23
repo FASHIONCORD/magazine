@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 05:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 17:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수묵화부터 픽셀, 추상화까지! 5월, 신록과 함께 찾아온 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/77701</link>
+            <guid>https://www.elle.co.kr/article/77701</guid>
+            <pubDate>Tue, 23 May 2023 17:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[미술 산책을 나서기에 더할 나위 없이 좋은 나날들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/fb4f0be4-b65d-4294-9de6-8fb2adfa8f22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아티스트 세츠코의 르 그랑 샬레]]></title>
             <link>https://www.elle.co.kr/article/76291</link>
@@ -59,13 +67,6 @@
             <pubDate>Fri, 19 May 2023 05:41:11 GMT</pubDate>
             <content:encoded><![CDATA[플라츠, 먼치스 앤 구디스, 웍스, 로비, 아파트먼트풀. 팀포지티브제로의 손길로 탄생한 취향의 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/ac4199b2-bd8b-4747-a71a-7824bd3e451a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은?]]></title>
-            <link>https://www.elle.co.kr/article/77583</link>
-            <guid>https://www.elle.co.kr/article/77583</guid>
-            <pubDate>Thu, 18 May 2023 17:40:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/0aad8351-ac31-40f2-9fec-df5239b42ece.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
