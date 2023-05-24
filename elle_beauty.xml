@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 05:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 17:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아침 부기 굿바이! 배우 엄지원의 페이스 마사지 루틴]]></title>
+            <link>https://www.elle.co.kr/article/77710</link>
+            <guid>https://www.elle.co.kr/article/77710</guid>
+            <pubDate>Wed, 24 May 2023 17:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[딱 5분만 따라 해 보세요. 날렵한 페이스 라인을 위해 엄지원이 매일 하는 마사지 방법을 소개...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/0eaebd33-e733-4468-a6f0-d13e57a82a08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긴 생머리 헤어템 라인업]]></title>
             <link>https://www.elle.co.kr/article/77071</link>
@@ -60,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/77616</guid>
             <pubDate>Fri, 19 May 2023 17:40:00 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/4832b93b-8502-4dd6-8534-c80877a4be7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블루 드 샤넬의 뉴 앰배서더! 티모시 샬라메]]></title>
-            <link>https://www.elle.co.kr/article/77541</link>
-            <guid>https://www.elle.co.kr/article/77541</guid>
-            <pubDate>Fri, 19 May 2023 05:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[동시대를 대표하는 아이콘, 티모시 샬라메가 마침내 블루 드 샤넬의 새로운 얼굴이 됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/ae226c6b-0acd-4713-b051-c7658673fe27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

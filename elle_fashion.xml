@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 05:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 17:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 멋쟁이들은 지금 롱부츠를 신지!]]></title>
+            <link>https://www.elle.co.kr/article/77784</link>
+            <guid>https://www.elle.co.kr/article/77784</guid>
+            <pubDate>Wed, 24 May 2023 17:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[더위를 이기는 서머 부츠의 매력, 블랙핑크 제니부터 아미송까지 옷 잘 입는 셀러브리티들의 스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/dbb39e16-40f2-41cc-bac1-1905d73a628a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌문화관 대표 김수연의 취향]]></title>
+            <link>https://www.elle.co.kr/article/77074</link>
+            <guid>https://www.elle.co.kr/article/77074</guid>
+            <pubDate>Wed, 24 May 2023 17:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[재미있고 유용한 것에 과감하게 빠져드는 사람, 신촌문화관 대표 김수연.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/6e7085d9-f27f-4535-99c8-8ea0129cb310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니부터 노윤서까지! 제76회 칸 영화제 속 한국 셀럽들의 빛나는 순간]]></title>
+            <link>https://www.elle.co.kr/article/77782</link>
+            <guid>https://www.elle.co.kr/article/77782</guid>
+            <pubDate>Wed, 24 May 2023 17:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[본격적으로 막이 오른 한국 영화의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/180176e6-f5e1-44f7-83ea-c9a7635f6f0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20대부터 70대 배우가 직접 알려준다! 모든 나이에서 빛나는 드레스 입는 법]]></title>
             <link>https://www.elle.co.kr/article/77779</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 23 May 2023 17:40:19 GMT</pubDate>
             <content:encoded><![CDATA[익숙한 듯 새로운 얼굴로 반짝인다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/19ab1fda-289c-4492-b2bb-acdfa9ce7e73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언제 입어도 기분 좋은 스트라이프 패션 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77699</link>
-            <guid>https://www.elle.co.kr/article/77699</guid>
-            <pubDate>Tue, 23 May 2023 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[데일리룩 ‘만능템’ 스트라이프, 스타들은 이렇게 소화한다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/c3a6a042-83bf-4aa1-9c8c-02477ba5f1c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀피 타임! 컬러풀 거울]]></title>
-            <link>https://www.elle.co.kr/article/77069</link>
-            <guid>https://www.elle.co.kr/article/77069</guid>
-            <pubDate>Sat, 20 May 2023 17:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[색다른 나를 발견하는 순간, 톡톡 튀는 컬러플 거울.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/0f66bc69-dee3-42ae-a6ab-9300f831db05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브라질 국기를 패션으로 소화한다면?]]></title>
-            <link>https://www.elle.co.kr/article/77068</link>
-            <guid>https://www.elle.co.kr/article/77068</guid>
-            <pubDate>Sat, 20 May 2023 17:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[브라질 국기에서 영감받은 '브라질코어(Brazilcore)'가 새롭게 떠오르는 중이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/1edc273b-c54f-448d-8bc8-aa6b01d5a957.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

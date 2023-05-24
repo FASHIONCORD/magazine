@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 05:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 17:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷔와 박보검, 리사가 한 자리에! 한국 셀럽들이 칸을 200% 즐기는 방법]]></title>
+            <link>https://www.elle.co.kr/article/77841</link>
+            <guid>https://www.elle.co.kr/article/77841</guid>
+            <pubDate>Wed, 24 May 2023 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[황홀한 프라이빗 디너와 뜨거운 애프터파티의 향연.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/23e00089-f53f-4c00-b8be-8e06af9f05cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["마흔 살 둘리야, 철 들지 말거라": 어른이들 눈물 나게 하는 고길동의 편지.txt]]></title>
             <link>https://www.elle.co.kr/article/77808</link>
@@ -27,14 +35,13 @@
             <guid>https://www.elle.co.kr/article/77782</guid>
             <pubDate>Tue, 23 May 2023 17:41:22 GMT</pubDate>
             <content:encoded><![CDATA[본격적으로 막이 오른 한국 영화의 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/180176e6-f5e1-44f7-83ea-c9a7635f6f0e.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/180176e6-f5e1-44f7-83ea-c9a7635f6f0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/77729</link>
             <guid>https://www.elle.co.kr/article/77729</guid>
             <pubDate>Mon, 22 May 2023 17:40:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/ebed0cc2-bb83-40d4-8e27-2f9e861efe0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꿀잼은 국적을 가리지 않는다! 일본에 수출한 '환승연애' 리메이크판 정보.txt]]></title>
@@ -85,12 +92,6 @@
             <link>https://www.elle.co.kr/article/77479</link>
             <guid>https://www.elle.co.kr/article/77479</guid>
             <pubDate>Thu, 11 May 2023 17:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[무려 네 명 하차?! 지금까지 나온 '놀면 뭐하니?' 위기설과 대책들.txt]]></title>
-            <link>https://www.elle.co.kr/article/77454</link>
-            <guid>https://www.elle.co.kr/article/77454</guid>
-            <pubDate>Wed, 10 May 2023 17:43:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
