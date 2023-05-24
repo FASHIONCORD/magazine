@@ -4,9 +4,31 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 17:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 05:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
+            <link>https://www.elle.co.kr/article/77737</link>
+            <guid>https://www.elle.co.kr/article/77737</guid>
+            <pubDate>Wed, 24 May 2023 05:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[세 끼 맛있게 먹어도 살이 빠지는 윤은혜의 10일 다이어트 식단으로 여름을 준비해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/96f3282c-1f10-4170-a51a-691b2bf70720.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원더걸스 유빈, 공개 연애 시작! 9살 연하 남친 권순우는 누구?]]></title>
+            <link>https://www.elle.co.kr/article/77733</link>
+            <guid>https://www.elle.co.kr/article/77733</guid>
+            <pubDate>Wed, 24 May 2023 05:40:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/95e180b3-0540-47c9-ae51-7e6b2392eb75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/77729</link>
+            <guid>https://www.elle.co.kr/article/77729</guid>
+            <pubDate>Wed, 24 May 2023 05:40:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/ebed0cc2-bb83-40d4-8e27-2f9e861efe0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아침 부기 굿바이! 배우 엄지원의 페이스 마사지 루틴]]></title>
             <link>https://www.elle.co.kr/article/77710</link>
@@ -44,29 +66,6 @@
             <guid>https://www.elle.co.kr/article/77697</guid>
             <pubDate>Mon, 22 May 2023 17:40:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/a2a8ef12-1cc7-48b3-9beb-6e0519217afd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다 아는 사람들이구먼? 60명 함께 한 BH엔터 워크숍 현장 (ft. 이병헌 전액 부담)]]></title>
-            <link>https://www.elle.co.kr/article/77692</link>
-            <guid>https://www.elle.co.kr/article/77692</guid>
-            <pubDate>Mon, 22 May 2023 05:40:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/1845ec56-de9d-49ec-8e88-51c205d5e67f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔하이픈, <엘르 맨 ELLE MAN> 6월호 커버 장식]]></title>
-            <link>https://www.elle.co.kr/article/77658</link>
-            <guid>https://www.elle.co.kr/article/77658</guid>
-            <pubDate>Sun, 21 May 2023 05:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[일곱 청춘의 가장 뜨거운 순간과 조우하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/d4748c9a-abc0-4e99-82d0-96a00ec777cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
-            <link>https://www.elle.co.kr/article/77604</link>
-            <guid>https://www.elle.co.kr/article/77604</guid>
-            <pubDate>Sat, 20 May 2023 05:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/b337ce93-8f8e-48f0-a6e1-5c3276be3779.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
