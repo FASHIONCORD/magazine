@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 05:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 17:42:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["마흔 살 둘리야, 철 들지 말거라": 어른이들 눈물 나게 하는 고길동의 편지.txt]]></title>
+            <link>https://www.elle.co.kr/article/77808</link>
+            <guid>https://www.elle.co.kr/article/77808</guid>
+            <pubDate>Thu, 25 May 2023 17:41:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/e179fcde-ceac-4c1f-8ce9-46b936066ccd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['범죄도시' 역대 빌런들이 모인 이유는?! 귀한 손석구X이준혁 투샷.jpg]]></title>
             <link>https://www.elle.co.kr/article/77788</link>
@@ -60,14 +67,6 @@
             <pubDate>Tue, 23 May 2023 17:41:02 GMT</pubDate>
             <content:encoded><![CDATA[미술 산책을 나서기에 더할 나위 없이 좋은 나날들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/fb4f0be4-b65d-4294-9de6-8fb2adfa8f22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아티스트 세츠코의 르 그랑 샬레]]></title>
-            <link>https://www.elle.co.kr/article/76291</link>
-            <guid>https://www.elle.co.kr/article/76291</guid>
-            <pubDate>Tue, 23 May 2023 05:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[스위스 로시니에르에 자리 잡은 ‘르 그랑 샬레’는 아티스트 세츠코 클로소프스카 드 롤라의 집...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/323a1f50-f754-4401-8b62-a67ebfc28d89.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 05:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 17:42:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
+            <link>https://www.elle.co.kr/article/77737</link>
+            <guid>https://www.elle.co.kr/article/77737</guid>
+            <pubDate>Thu, 25 May 2023 17:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[세 끼 맛있게 먹어도 살이 빠지는 윤은혜의 10일 다이어트 식단으로 여름을 준비해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/96f3282c-1f10-4170-a51a-691b2bf70720.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘헬시 글로’란 이런 것. 더 완벽해진 샤넬 레 베쥬 젤 쿠션!]]></title>
             <link>https://www.elle.co.kr/article/77650</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 22 May 2023 05:40:15 GMT</pubDate>
             <content:encoded><![CDATA[피부 시간을 되돌리는 제니피끄 한 병의 과학! 랑콤의 새로운 얼굴, 배우 크리스탈(정수정)이 제...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/139f3790-f55b-4721-94df-9fa47192e22e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메와 블루 드 샤넬의 만남이 ‘필연’적인 이유]]></title>
-            <link>https://www.elle.co.kr/article/77595</link>
-            <guid>https://www.elle.co.kr/article/77595</guid>
-            <pubDate>Sun, 21 May 2023 17:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 향수의 새로운 이정표가 될 티모시 샬라메와 블루 드 샤넬의 조우, 그 첫 번째 챕터 속...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/b95eaf8d-39d2-4dfd-b485-3c4ebc75c9cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
