@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 17:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 05:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새하얀 면과 수많은 직선이 수직 교차하는 집]]></title>
+            <link>https://www.elle.co.kr/article/76287</link>
+            <guid>https://www.elle.co.kr/article/76287</guid>
+            <pubDate>Thu, 25 May 2023 05:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[비주얼 디렉터 조미연이 만들어 낸 가장 미니멀한 공간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/a9c06df5-e5cf-4f10-8d37-38db18de4815.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑스니힐로의 코파운더 베누아 베르디에의 집]]></title>
             <link>https://www.elle.co.kr/article/76289</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/77701</guid>
             <pubDate>Sat, 20 May 2023 17:41:56 GMT</pubDate>
             <content:encoded><![CDATA[미술 산책을 나서기에 더할 나위 없이 좋은 나날들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/fb4f0be4-b65d-4294-9de6-8fb2adfa8f22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아티스트 세츠코의 르 그랑 샬레]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/76280</guid>
             <pubDate>Wed, 10 May 2023 17:43:53 GMT</pubDate>
             <content:encoded><![CDATA[디자이너와 아티스트 혹은 공예가 사이의 어딘가를 유유히 표류 중인한국의 동시대 ‘메이커’들이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg]]></title>
-            <link>https://www.elle.co.kr/article/77444</link>
-            <guid>https://www.elle.co.kr/article/77444</guid>
-            <pubDate>Tue, 09 May 2023 17:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[이건 꼭 소장해야 해.]]></content:encoded>
         </item>
     </channel>
 </rss>

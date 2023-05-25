@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 17:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 05:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸바오와 대화할 수 있다면? 이별을 준비하는 강철원 사육사의 뭉클한 진심]]></title>
+            <link>https://www.elle.co.kr/article/77857</link>
+            <guid>https://www.elle.co.kr/article/77857</guid>
+            <pubDate>Thu, 25 May 2023 05:42:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/c1461055-cb8c-43e2-afe7-0640a55fa2a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷔와 박보검, 리사가 한 자리에! 한국 셀럽들이 칸을 200% 즐기는 방법]]></title>
             <link>https://www.elle.co.kr/article/77841</link>
@@ -35,7 +42,6 @@
             <guid>https://www.elle.co.kr/article/77782</guid>
             <pubDate>Tue, 23 May 2023 17:41:22 GMT</pubDate>
             <content:encoded><![CDATA[본격적으로 막이 오른 한국 영화의 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/180176e6-f5e1-44f7-83ea-c9a7635f6f0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마]]></title>
@@ -86,12 +92,6 @@
             <guid>https://www.elle.co.kr/article/77523</guid>
             <pubDate>Sat, 13 May 2023 05:41:00 GMT</pubDate>
             <content:encoded><![CDATA[이토록 맑고 투명한 울림.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[긍정 그 자체인 김우빈의 비인두암 투병기 (ft. 프로 질문러 김현중)]]></title>
-            <link>https://www.elle.co.kr/article/77479</link>
-            <guid>https://www.elle.co.kr/article/77479</guid>
-            <pubDate>Thu, 11 May 2023 17:40:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

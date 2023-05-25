@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 17:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 05:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다다익선! 빛나는 뱅글]]></title>
+            <link>https://www.elle.co.kr/article/77738</link>
+            <guid>https://www.elle.co.kr/article/77738</guid>
+            <pubDate>Thu, 25 May 2023 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[무더운 여름, 가벼운 옷차림에 포인트가 되어줄 뱅글 스타일링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/d06413e6-c450-43af-96cf-59047cfed08f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['믿보' 배우들의 스타일 비교! <닥터 차정숙> 엄정화 VS <패밀리> 장나라 #VS드라마패션]]></title>
+            <link>https://www.elle.co.kr/article/77791</link>
+            <guid>https://www.elle.co.kr/article/77791</guid>
+            <pubDate>Thu, 25 May 2023 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[연기면 연기, 노래면 노래! 못 하는 게 없는 올 라운드 만등 엔터테이너 엄정화와 장나라. 각...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/c7a21204-ade5-44bc-a4d7-fce5b09e422a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진짜 멋쟁이들은 지금 롱부츠를 신지!]]></title>
             <link>https://www.elle.co.kr/article/77784</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 24 May 2023 05:40:01 GMT</pubDate>
             <content:encoded><![CDATA["어떤 방식으로든 현대적인 미감을 표현하고 싶어요." 곽철안이 굽이치는 곡선의 조형으로 이뤄낸 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/73131cb1-9f6a-4165-bfd3-8d8a5100958d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVE ON! 디올의 2024 크루즈 컬렉션 라이브]]></title>
-            <link>https://www.elle.co.kr/article/77683</link>
-            <guid>https://www.elle.co.kr/article/77683</guid>
-            <pubDate>Tue, 23 May 2023 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[5월 21일 일요일 오전 11시 30분 (KST) 멕시코에서 열리는 마리아 그라치아 치우리의 디올 크...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/becf7e84-6fd8-4f65-9ebf-fae44e6c453e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 눈길을 사로잡는 워치 & 주얼리]]></title>
-            <link>https://www.elle.co.kr/article/77562</link>
-            <guid>https://www.elle.co.kr/article/77562</guid>
-            <pubDate>Tue, 23 May 2023 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[익숙한 듯 새로운 얼굴로 반짝인다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/19ab1fda-289c-4492-b2bb-acdfa9ce7e73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

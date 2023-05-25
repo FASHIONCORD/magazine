@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 17:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 05:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘헬시 글로’란 이런 것. 더 완벽해진 샤넬 레 베쥬 젤 쿠션!]]></title>
+            <link>https://www.elle.co.kr/article/77650</link>
+            <guid>https://www.elle.co.kr/article/77650</guid>
+            <pubDate>Thu, 25 May 2023 05:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[언제 어디서나 유용한 샤넬 레 베쥬 젤 쿠션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/69105ad6-a233-4ffa-a2a2-ed74166df1b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아침 부기 굿바이! 배우 엄지원의 페이스 마사지 루틴]]></title>
             <link>https://www.elle.co.kr/article/77710</link>
@@ -61,13 +69,6 @@
             <pubDate>Sun, 21 May 2023 17:40:03 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 향수의 새로운 이정표가 될 티모시 샬라메와 블루 드 샤넬의 조우, 그 첫 번째 챕터 속...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/b95eaf8d-39d2-4dfd-b485-3c4ebc75c9cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화려한 '무비스타'로 솔로 데뷔한 미주! 우월한 피지컬에 숨겨진 반전 매력은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/77616</link>
-            <guid>https://www.elle.co.kr/article/77616</guid>
-            <pubDate>Fri, 19 May 2023 17:40:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/4832b93b-8502-4dd6-8534-c80877a4be7a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
