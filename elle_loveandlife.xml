@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 17:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산뜻한 월남쌈에 후식은 소프트콘! 시원한 여름을 담은 성수동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/77748</link>
+            <guid>https://www.elle.co.kr/article/77748</guid>
+            <pubDate>Fri, 26 May 2023 17:41:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/7c369630-36ea-4b4b-91e2-10f45094fc0a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
             <link>https://www.elle.co.kr/article/77737</link>
@@ -61,14 +68,6 @@
             <pubDate>Mon, 22 May 2023 17:41:20 GMT</pubDate>
             <content:encoded><![CDATA[채식 2년차 어시스턴트 에디터의 좌충우돌 제로웨이스트 &amp; 채식 라이프 실천 보고서!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/c65173cb-49b2-45f1-ac1d-d4feed49c4b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가야 해! 광합성 하기 좋은 테라스 카페 3]]></title>
-            <link>https://www.elle.co.kr/article/77660</link>
-            <guid>https://www.elle.co.kr/article/77660</guid>
-            <pubDate>Mon, 22 May 2023 17:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[서촌부터 한남동까지, 스타가 방문 도장 찍고 간 분위기 좋은 테라스 카페를 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/bd19ea72-0410-430e-81c0-04fb8baf0685.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

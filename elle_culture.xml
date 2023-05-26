@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 17:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷔와 박보검, 리사가 한 자리에! 한국 셀럽들이 칸을 200% 즐기는 방법]]></title>
+            <link>https://www.elle.co.kr/article/77841</link>
+            <guid>https://www.elle.co.kr/article/77841</guid>
+            <pubDate>Fri, 26 May 2023 17:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[황홀한 프라이빗 디너와 뜨거운 애프터파티의 향연.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/23e00089-f53f-4c00-b8be-8e06af9f05cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 두 권도 살 수 있어! 16년 만에 돌아오는 엠알케이 구성 미리보기]]></title>
+            <link>https://www.elle.co.kr/article/77819</link>
+            <guid>https://www.elle.co.kr/article/77819</guid>
+            <pubDate>Fri, 26 May 2023 17:40:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/151c4714-7d11-4a2d-be0f-20f14b3a44cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["마흔 살 둘리야, 철 들지 말거라": 어른이들 눈물 나게 하는 고길동의 편지.txt]]></title>
             <link>https://www.elle.co.kr/article/77808</link>
@@ -51,22 +66,6 @@
             <guid>https://www.elle.co.kr/article/77729</guid>
             <pubDate>Wed, 24 May 2023 05:40:33 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/ebed0cc2-bb83-40d4-8e27-2f9e861efe0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜버 김갈릭이 시골 집에서 사는 법 #아웃오브서울]]></title>
-            <link>https://www.elle.co.kr/article/77703</link>
-            <guid>https://www.elle.co.kr/article/77703</guid>
-            <pubDate>Wed, 24 May 2023 05:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브 채널 '김갈릭'에서 평화로운 시골 브이로그를 연재 중이다. 서울을 떠나 과감한 시골 살...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/6dbf1be8-b9d7-43d3-ab8d-84cf25a4d952.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수묵화부터 픽셀, 추상화까지! 5월, 신록과 함께 찾아온 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/77701</link>
-            <guid>https://www.elle.co.kr/article/77701</guid>
-            <pubDate>Tue, 23 May 2023 17:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[미술 산책을 나서기에 더할 나위 없이 좋은 나날들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/fb4f0be4-b65d-4294-9de6-8fb2adfa8f22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

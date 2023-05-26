@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 17:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023]]></title>
+            <link>https://www.elle.co.kr/article/77909</link>
+            <guid>https://www.elle.co.kr/article/77909</guid>
+            <pubDate>Fri, 26 May 2023 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/b515b5da-b4b6-4253-9604-e555d7eae095.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
             <link>https://www.elle.co.kr/article/77654</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/77430</guid>
             <pubDate>Tue, 09 May 2023 17:41:31 GMT</pubDate>
             <content:encoded><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f14828d2-f3bb-4f18-a1b0-318707c34454.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[90분의 라이브 밴드 '엘르 스테이지 콘서트' 김윤아, 10CM, 카더가든]]></title>
@@ -89,12 +96,6 @@
             <link>https://www.elle.co.kr/article/76026</link>
             <guid>https://www.elle.co.kr/article/76026</guid>
             <pubDate>Wed, 22 Mar 2023 05:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드와 뉴진스가 손 잡은 이유]]></title>
-            <link>https://www.elle.co.kr/article/75387</link>
-            <guid>https://www.elle.co.kr/article/75387</guid>
-            <pubDate>Tue, 28 Feb 2023 05:41:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 17:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세이모온도의 고유한 온도에 관하여]]></title>
+            <link>https://www.elle.co.kr/article/76288</link>
+            <guid>https://www.elle.co.kr/article/76288</guid>
+            <pubDate>Fri, 26 May 2023 17:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[세이모 온도를 이끄는 부부, 사현진과 강수연. 같은 온도로 따스하게 펼쳐질 그들의 미래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/bf93bddb-377b-411f-a0d2-f43e31be6c7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알고 있니? 서울에 상륙하는 ‘마르니 마켓’이 왜 재미난지! (feat.제품사진)]]></title>
             <link>https://www.elle.co.kr/article/77892</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/76286</guid>
             <pubDate>Mon, 22 May 2023 17:41:11 GMT</pubDate>
             <content:encoded><![CDATA[희소성, 상징성 그리고 갖고 싶다는 솔직한 욕망. 유럽과 미국 경매시장에서 서양 고전 미술의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/09434713-a4d3-40a0-af3a-3a5015de956a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유튜버 김갈릭이 시골 집에서 사는 법 #아웃오브서울]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/76262</guid>
             <pubDate>Sun, 14 May 2023 17:41:39 GMT</pubDate>
             <content:encoded><![CDATA[제주의 땅과 돌, 바람과 숲이 빚은 건축 그리고 디자인을 찾아서.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[곡선에서 곡선으로, 둥글게 그린 아름다움]]></title>
-            <link>https://www.elle.co.kr/article/76281</link>
-            <guid>https://www.elle.co.kr/article/76281</guid>
-            <pubDate>Thu, 11 May 2023 05:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[몽베베 대표 최지수에 집에는 세월이 담긴 가구와 예술 작품이 가득하다.]]></content:encoded>
         </item>
     </channel>
 </rss>
