@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 17:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 05:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
+            <link>https://www.elle.co.kr/article/77737</link>
+            <guid>https://www.elle.co.kr/article/77737</guid>
+            <pubDate>Fri, 26 May 2023 05:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[세 끼 맛있게 먹어도 살이 빠지는 윤은혜의 10일 다이어트 식단으로 여름을 준비해보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/96f3282c-1f10-4170-a51a-691b2bf70720.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해엔 여기! 지금 뜨는 여행지 4]]></title>
             <link>https://www.elle.co.kr/article/77736</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 22 May 2023 17:41:20 GMT</pubDate>
             <content:encoded><![CDATA[서촌부터 한남동까지, 스타가 방문 도장 찍고 간 분위기 좋은 테라스 카페를 공개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/bd19ea72-0410-430e-81c0-04fb8baf0685.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬러풀하고 비비드한 인테리어! 디자이너 아덴의 샌프란시스코 로프트 랜선집들이 #취향을담은집]]></title>
-            <link>https://www.elle.co.kr/article/77605</link>
-            <guid>https://www.elle.co.kr/article/77605</guid>
-            <pubDate>Sun, 21 May 2023 17:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[좋아하는 무언가에 애정을 쏟을 줄 알고, 분명한 취향을 바탕으로 자신만의 행복하고 풍요로운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/3f31d960-8e01-4333-9e24-14fee91af196.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
