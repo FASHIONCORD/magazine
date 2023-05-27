@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 05:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 17:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리한나의 둘째 아웃핏 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77896</link>
+            <guid>https://www.elle.co.kr/article/77896</guid>
+            <pubDate>Sat, 27 May 2023 17:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[끝나지 않았다! 첫째에 이어 무대와 레드 카펫에서 당당히 D라인을 뽐낸 리한나의 둘째 임신 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/01e6fd17-2e9e-4faf-ab52-7a1b660a3b5b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알고 있니? 서울에 상륙하는 ‘마르니 마켓’이 왜 재미난지! (feat.제품사진)]]></title>
             <link>https://www.elle.co.kr/article/77892</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 May 2023 05:40:32 GMT</pubDate>
             <content:encoded><![CDATA[무더운 여름, 가벼운 옷차림에 포인트가 되어줄 뱅글 스타일링.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/d06413e6-c450-43af-96cf-59047cfed08f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['믿보' 배우들의 스타일 비교! <닥터 차정숙> 엄정화 VS <패밀리> 장나라 #VS드라마패션]]></title>
-            <link>https://www.elle.co.kr/article/77791</link>
-            <guid>https://www.elle.co.kr/article/77791</guid>
-            <pubDate>Thu, 25 May 2023 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[연기면 연기, 노래면 노래! 못 하는 게 없는 올 라운드 만등 엔터테이너 엄정화와 장나라. 각...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/c7a21204-ade5-44bc-a4d7-fce5b09e422a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

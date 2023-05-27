@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 05:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 17:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월엔 여름꽃 구경! 보랏빛 물결 가득한 전국 라벤더 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/77763</link>
+            <guid>https://www.elle.co.kr/article/77763</guid>
+            <pubDate>Sat, 27 May 2023 17:41:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/3dc44142-fc32-41ba-bae1-2e9714d25e31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산뜻한 월남쌈에 후식은 소프트콘! 시원한 여름을 담은 성수동 #신상맛집 3]]></title>
             <link>https://www.elle.co.kr/article/77748</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/77682</guid>
             <pubDate>Tue, 23 May 2023 05:41:54 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/1d91c354-7088-4acc-bc69-41c24e484827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 딱 필요한 비건 선크림부터 업사이클링 키링까지! #무해한삶_1]]></title>
-            <link>https://www.elle.co.kr/article/77663</link>
-            <guid>https://www.elle.co.kr/article/77663</guid>
-            <pubDate>Mon, 22 May 2023 17:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[채식 2년차 어시스턴트 에디터의 좌충우돌 제로웨이스트 &amp; 채식 라이프 실천 보고서!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/c65173cb-49b2-45f1-ac1d-d4feed49c4b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

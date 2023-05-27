@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 05:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 17:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸바오와 대화할 수 있다면? 이별을 준비하는 강철원 사육사의 뭉클한 진심]]></title>
+            <link>https://www.elle.co.kr/article/77857</link>
+            <guid>https://www.elle.co.kr/article/77857</guid>
+            <pubDate>Sat, 27 May 2023 17:40:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/c1461055-cb8c-43e2-afe7-0640a55fa2a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새하얀 면과 수많은 직선이 수직 교차하는 집]]></title>
+            <link>https://www.elle.co.kr/article/76287</link>
+            <guid>https://www.elle.co.kr/article/76287</guid>
+            <pubDate>Sat, 27 May 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[비주얼 디렉터 조미연이 만들어 낸 가장 미니멀한 공간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/a9c06df5-e5cf-4f10-8d37-38db18de4815.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뷔와 박보검, 리사가 한 자리에! 한국 셀럽들이 칸을 200% 즐기는 방법]]></title>
             <link>https://www.elle.co.kr/article/77841</link>
@@ -51,21 +66,6 @@
             <pubDate>Wed, 24 May 2023 17:40:33 GMT</pubDate>
             <content:encoded><![CDATA[에토레 소트사스의 디자인과 빈티지 오브제로 악센트를 준 베누아 베르디에와 나탈리 루카스의 보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/98393793-1bdf-43ef-8228-99d944f1e881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메조틴트 판화 속 숨겨진 이야기]]></title>
-            <link>https://www.elle.co.kr/article/76286</link>
-            <guid>https://www.elle.co.kr/article/76286</guid>
-            <pubDate>Wed, 24 May 2023 05:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[희소성, 상징성 그리고 갖고 싶다는 솔직한 욕망. 유럽과 미국 경매시장에서 서양 고전 미술의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/09434713-a4d3-40a0-af3a-3a5015de956a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/77729</link>
-            <guid>https://www.elle.co.kr/article/77729</guid>
-            <pubDate>Wed, 24 May 2023 05:40:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/ebed0cc2-bb83-40d4-8e27-2f9e861efe0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
