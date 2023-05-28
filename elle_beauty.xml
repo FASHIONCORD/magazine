@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 05:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 17:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탱글탱글! 젤리 립 7]]></title>
+            <link>https://www.elle.co.kr/article/77075</link>
+            <guid>https://www.elle.co.kr/article/77075</guid>
+            <pubDate>Sun, 28 May 2023 17:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[탱글탱글! 꿀이 뚝뚝 떨어지는 입술을 만들어줄 '젤리 립' 라인업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/bb7bc3fa-366d-441a-a517-7a2c1b20194a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기름 공장 가동 시작! 지성 두피 & 모발 솔루션 STEP 3_선배’s 어드바이스 #169]]></title>
             <link>https://www.elle.co.kr/article/77743</link>
@@ -62,13 +70,6 @@
             <pubDate>Tue, 23 May 2023 05:40:52 GMT</pubDate>
             <content:encoded><![CDATA[채식 2년차 어시스턴트 에디터의 좌충우돌 제로웨이스트 &amp; 채식 라이프 실천 보고서!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/c65173cb-49b2-45f1-ac1d-d4feed49c4b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출산 후 12kg 쪘다고 고충 전했던 서효림, 탄탄한 피지컬로 돌아온 비결은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/77653</link>
-            <guid>https://www.elle.co.kr/article/77653</guid>
-            <pubDate>Mon, 22 May 2023 05:40:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/c7339625-5b74-4b06-a5b1-e796a010efc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
