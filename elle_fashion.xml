@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 17:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 05:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 패션의 현주소]]></title>
+            <link>https://www.elle.co.kr/article/77080</link>
+            <guid>https://www.elle.co.kr/article/77080</guid>
+            <pubDate>Sun, 28 May 2023 05:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[유머와 기술을 겸비한 AI 패션이 궁금하다면.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/01f3fe23-7106-4709-9692-1845a324e284.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리한나의 둘째 아웃핏 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/77896</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 May 2023 17:40:02 GMT</pubDate>
             <content:encoded><![CDATA[BTS 뷔와 블랙핑크 리사도 참석한 그 화제의 파티.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/b8591c44-439c-44c5-889c-7c0c39e80ade.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다다익선! 빛나는 뱅글]]></title>
-            <link>https://www.elle.co.kr/article/77738</link>
-            <guid>https://www.elle.co.kr/article/77738</guid>
-            <pubDate>Thu, 25 May 2023 05:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[무더운 여름, 가벼운 옷차림에 포인트가 되어줄 뱅글 스타일링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/d06413e6-c450-43af-96cf-59047cfed08f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
