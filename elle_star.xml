@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 17:41:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 05:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송중기와 김윤아, 빈지노 커플까지? 스타 부부의 칸 데이트 3]]></title>
+            <link>https://www.elle.co.kr/article/77914</link>
+            <guid>https://www.elle.co.kr/article/77914</guid>
+            <pubDate>Mon, 29 May 2023 05:40:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/a0e14153-e074-4a6b-9b28-33f6f5380018.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023]]></title>
             <link>https://www.elle.co.kr/article/77909</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/77857</guid>
             <pubDate>Fri, 26 May 2023 05:40:33 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/c1461055-cb8c-43e2-afe7-0640a55fa2a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알고 보니 8년차 절친, BTS 뷔와 박보검의 칸 영화제 투샷.jpg]]></title>
-            <link>https://www.elle.co.kr/article/77847</link>
-            <guid>https://www.elle.co.kr/article/77847</guid>
-            <pubDate>Fri, 26 May 2023 05:40:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/edb7225f-1133-4b57-86af-b134d882833d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

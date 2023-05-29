@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 17:41:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 05:42:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만삭 아내와 생애 첫 칸 영화제 찾은 송중기! 특별한 체력 관리법은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/77836</link>
+            <guid>https://www.elle.co.kr/article/77836</guid>
+            <pubDate>Mon, 29 May 2023 05:40:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/fb708b7d-e018-4a79-a287-3a4979f6a29c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탱글탱글! 젤리 립 7]]></title>
             <link>https://www.elle.co.kr/article/77075</link>
@@ -62,14 +69,6 @@
             <pubDate>Tue, 23 May 2023 05:40:52 GMT</pubDate>
             <content:encoded><![CDATA[성수부터 여의도까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/f0f019f6-3b95-4317-9fc3-e58dbfb4feb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 딱 필요한 비건 선크림부터 업사이클링 키링까지! #무해한삶_1]]></title>
-            <link>https://www.elle.co.kr/article/77663</link>
-            <guid>https://www.elle.co.kr/article/77663</guid>
-            <pubDate>Tue, 23 May 2023 05:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[채식 2년차 어시스턴트 에디터의 좌충우돌 제로웨이스트 &amp; 채식 라이프 실천 보고서!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/c65173cb-49b2-45f1-ac1d-d4feed49c4b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

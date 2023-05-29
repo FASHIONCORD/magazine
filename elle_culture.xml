@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 17:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 05:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세이모온도의 고유한 온도에 관하여]]></title>
+            <link>https://www.elle.co.kr/article/76288</link>
+            <guid>https://www.elle.co.kr/article/76288</guid>
+            <pubDate>Mon, 29 May 2023 05:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[세이모 온도를 이끄는 부부, 사현진과 강수연. 같은 온도로 따스하게 펼쳐질 그들의 미래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/bf93bddb-377b-411f-a0d2-f43e31be6c7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023]]></title>
             <link>https://www.elle.co.kr/article/77909</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/77808</guid>
             <pubDate>Thu, 25 May 2023 17:41:06 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/e179fcde-ceac-4c1f-8ce9-46b936066ccd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['범죄도시' 역대 빌런들이 모인 이유는?! 귀한 손석구X이준혁 투샷.jpg]]></title>
-            <link>https://www.elle.co.kr/article/77788</link>
-            <guid>https://www.elle.co.kr/article/77788</guid>
-            <pubDate>Thu, 25 May 2023 05:41:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/71b21b65-a2db-4280-9167-8fb5b2eabc0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
