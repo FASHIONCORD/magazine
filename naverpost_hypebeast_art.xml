@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 미술</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 17:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식스앤파이브 인터뷰: 디지털 아트 신을 이끌어가는 선구자]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36017701&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36017701&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 30 May 2023 17:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MzBfMjkx/MDAxNjg1NDM4MTA3Njcw.h1Jc37Z---BsNmln9xatlcSedHMSKBKIyvqfwZU08dgg.aPwaAqTafdeJplBpLbJL-qkYuSJyKvt_wBYE2FNqS9Eg.JPEG/IqTJ8WEEbmaH8r9SztOY_Yc4NnoQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국의 경매 Q&A: 예술 작품 수집 초심자를 위한 경매 가이드]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35941850&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjNfNzgg/MDAxNjMyMzg0MTkxOTg0.QmHaUF_JlEyHXr4xnfeLRM_vx5B5_0feuk14gSEI5Ncg.0XXy0HttgJeV99c1oZLVJI1GEKwhdmYsip3SSkSGocMg.JPEG/I-5qspd8BETkcySTmFx4LinHvNMk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 유일 문신 불법 국가, 한국도 타투 합법화가 이뤄질까?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31959972&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31959972&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MTNfMTAg/MDAxNjI2MTY2NjI3NzY1.srnpPNYB7EgA1Bgi2wkIvA6PjqM8538bpsKB7zaitVwg.3lfJUImjt_c_SXjG5wXHFlxZMFdaxC40uylOHJXm3tkg.JPEG/INrpopwvgvdnclj5vSGTzxHl7yao.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

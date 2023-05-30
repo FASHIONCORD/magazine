@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 17:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
+            <link>https://www.elle.co.kr/article/77968</link>
+            <guid>https://www.elle.co.kr/article/77968</guid>
+            <pubDate>Tue, 30 May 2023 17:41:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/1fe318ea-2eb8-4712-b9a5-30c7047b995b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023]]></title>
             <link>https://www.elle.co.kr/article/77909</link>
@@ -36,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/77444</guid>
             <pubDate>Tue, 09 May 2023 17:41:31 GMT</pubDate>
             <content:encoded><![CDATA[이건 꼭 소장해야 해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0ef47921-7269-4e0f-b5c6-473cc6aede8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
@@ -90,12 +96,6 @@
             <link>https://www.elle.co.kr/article/76129</link>
             <guid>https://www.elle.co.kr/article/76129</guid>
             <pubDate>Fri, 24 Mar 2023 17:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[전국의 효녀효자들 긴장해... 조용필 5년 만의 잠실 주경기장 콘서트, 시작은 언제?]]></title>
-            <link>https://www.elle.co.kr/article/76026</link>
-            <guid>https://www.elle.co.kr/article/76026</guid>
-            <pubDate>Wed, 22 Mar 2023 05:41:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

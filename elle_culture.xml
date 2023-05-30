@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 17:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호그와트 교복 한 벌에 무려 2억! 해리 포터부터 배트맨까지, ‘역대급’ 영화 소품 경매 라인업은?]]></title>
+            <link>https://www.elle.co.kr/article/77930</link>
+            <guid>https://www.elle.co.kr/article/77930</guid>
+            <pubDate>Tue, 30 May 2023 17:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[최대 160억 원! 전 세계에서 손꼽히는 대규모 영화 소품 경매의 막이 오른다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/d610ec22-64cb-461f-a31d-fc8e87f7fcd1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세이모온도의 고유한 온도에 관하여]]></title>
             <link>https://www.elle.co.kr/article/76288</link>
@@ -60,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/77819</guid>
             <pubDate>Fri, 26 May 2023 17:40:20 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/151c4714-7d11-4a2d-be0f-20f14b3a44cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["마흔 살 둘리야, 철 들지 말거라": 어른이들 눈물 나게 하는 고길동의 편지.txt]]></title>
-            <link>https://www.elle.co.kr/article/77808</link>
-            <guid>https://www.elle.co.kr/article/77808</guid>
-            <pubDate>Thu, 25 May 2023 17:41:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/e179fcde-ceac-4c1f-8ce9-46b936066ccd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

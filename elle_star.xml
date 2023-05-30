@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 17:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포츠 아나운서의 데일리 메이크업 HOW TO]]></title>
+            <link>https://www.elle.co.kr/article/77937</link>
+            <guid>https://www.elle.co.kr/article/77937</guid>
+            <pubDate>Tue, 30 May 2023 17:41:16 GMT</pubDate>
+            <content:encoded><![CDATA['분위기 여신' 이나연이 알려줄게요, 고급스럽고 청순한 무드를 자아내는 데일리 메이크업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/29/270647ee-9152-40ea-9591-a530add24b98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 거야! 한소희와 신현지가 '송혜교 쟁탈전'을 벌인 이유는?]]></title>
+            <link>https://www.elle.co.kr/article/77924</link>
+            <guid>https://www.elle.co.kr/article/77924</guid>
+            <pubDate>Tue, 30 May 2023 17:41:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/e3d8f40d-2dda-4d50-9ae6-4dbdaaed34eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[룩에 생기를 불어넣는 주얼리, 어디까지 해봤니?]]></title>
             <link>https://www.elle.co.kr/article/77923</link>
@@ -51,22 +66,7 @@
             <guid>https://www.elle.co.kr/article/77905</guid>
             <pubDate>Sat, 27 May 2023 05:40:09 GMT</pubDate>
             <content:encoded><![CDATA[“아직 진짜 도전은 마주하지 않았죠.” 달릴 준비는 모두 끝마쳤다. 엔진 풀 가동한 엔하이픈이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/9210f6d1-edb4-48b3-b805-c4b64e04df4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클러빙보다 핫한 운동 페스티벌? 시포레 2023]]></title>
-            <link>https://www.elle.co.kr/article/77900</link>
-            <guid>https://www.elle.co.kr/article/77900</guid>
-            <pubDate>Fri, 26 May 2023 17:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[시티포레스티벌 2023. 윤성빈, 서준맘과 장은실, 강하나, 김혜선의 클래스를 듣는 즐거움!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/f75c18f7-34e6-4b72-ba32-dab681aa122e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이다해가 신혼여행 갈 때 챙겼다는 반려동물 여권의 정체는?]]></title>
-            <link>https://www.elle.co.kr/article/77899</link>
-            <guid>https://www.elle.co.kr/article/77899</guid>
-            <pubDate>Fri, 26 May 2023 17:40:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/fb19db67-dfeb-48ce-8a81-96bb2dfbc977.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/9210f6d1-edb4-48b3-b805-c4b64e04df4a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
