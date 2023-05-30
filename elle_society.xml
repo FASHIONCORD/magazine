@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 17:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 05:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전효성부터 김혜수, 고민시까지! 5.18 의미 되새긴 스타들.list]]></title>
+            <link>https://www.elle.co.kr/article/77656</link>
+            <guid>https://www.elle.co.kr/article/77656</guid>
+            <pubDate>Tue, 30 May 2023 05:42:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/3797efff-398c-4ab1-a796-fffc5689a207.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[약은 약사에게, 부자가 되는 법은 부자에게! 그들이 돈을 잘 벌 수밖에 없는 이유는?_돈쓸신잡 #98]]></title>
             <link>https://www.elle.co.kr/article/77644</link>
@@ -57,14 +64,6 @@
             <guid>https://www.elle.co.kr/article/77471</guid>
             <pubDate>Wed, 17 May 2023 17:42:32 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/0628ec1f-60c2-4669-8477-767ee2bec06b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 우리 강아지 이름은 왜 김정원이 됐을까? 우리가족을 소개합니다]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/77336</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/77336</guid>
-            <pubDate>Mon, 15 May 2023 05:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[파워 결혼주의자인 엄마와 파워 비혼주의자인 딸 비혼세, 그러나 우리는 가족입니다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0d4b9762-7163-441a-9379-d5f3f4123c15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
