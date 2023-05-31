@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 17:42:51 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[다가오는 여름, 투명한 피부를 원한다면? 에트셀 멜라토닉 케어]]></title>
-            <link>https://www.elle.co.kr/article/77659</link>
-            <guid>https://www.elle.co.kr/article/77659</guid>
-            <pubDate>Tue, 30 May 2023 05:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 여름 볕에 칙칙해진 안색 때문에 고민이라면 효과 좋은 미백 제품을 선택할 것! 디마르...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/45c425c4-6931-41ef-9942-2c07dda02240.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만삭 아내와 생애 첫 칸 영화제 찾은 송중기! 특별한 체력 관리법은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/77836</link>
-            <guid>https://www.elle.co.kr/article/77836</guid>
-            <pubDate>Mon, 29 May 2023 05:40:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/fb708b7d-e018-4a79-a287-3a4979f6a29c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탱글탱글! 젤리 립 7]]></title>
-            <link>https://www.elle.co.kr/article/77075</link>
-            <guid>https://www.elle.co.kr/article/77075</guid>
-            <pubDate>Sun, 28 May 2023 17:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[탱글탱글! 꿀이 뚝뚝 떨어지는 입술을 만들어줄 '젤리 립' 라인업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/bb7bc3fa-366d-441a-a517-7a2c1b20194a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기름 공장 가동 시작! 지성 두피 & 모발 솔루션 STEP 3_선배’s 어드바이스 #169]]></title>
-            <link>https://www.elle.co.kr/article/77743</link>
-            <guid>https://www.elle.co.kr/article/77743</guid>
-            <pubDate>Fri, 26 May 2023 05:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[피지와 땀에 젖어 신음하는 지성인들의 두피와 모발을 구조하라!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/1614f0d2-43a6-4240-bc19-c622d6437b0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
-            <link>https://www.elle.co.kr/article/77737</link>
-            <guid>https://www.elle.co.kr/article/77737</guid>
-            <pubDate>Thu, 25 May 2023 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[세 끼 맛있게 먹어도 살이 빠지는 윤은혜의 10일 다이어트 식단으로 여름을 준비해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/96f3282c-1f10-4170-a51a-691b2bf70720.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘헬시 글로’란 이런 것. 더 완벽해진 샤넬 레 베쥬 젤 쿠션!]]></title>
-            <link>https://www.elle.co.kr/article/77650</link>
-            <guid>https://www.elle.co.kr/article/77650</guid>
-            <pubDate>Thu, 25 May 2023 05:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[언제 어디서나 유용한 샤넬 레 베쥬 젤 쿠션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/69105ad6-a233-4ffa-a2a2-ed74166df1b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아침 부기 굿바이! 배우 엄지원의 페이스 마사지 루틴]]></title>
-            <link>https://www.elle.co.kr/article/77710</link>
-            <guid>https://www.elle.co.kr/article/77710</guid>
-            <pubDate>Wed, 24 May 2023 17:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[딱 5분만 따라 해 보세요. 날렵한 페이스 라인을 위해 엄지원이 매일 하는 마사지 방법을 소개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/0eaebd33-e733-4468-a6f0-d13e57a82a08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긴 생머리 헤어템 라인업]]></title>
-            <link>https://www.elle.co.kr/article/77071</link>
-            <guid>https://www.elle.co.kr/article/77071</guid>
-            <pubDate>Tue, 23 May 2023 17:40:33 GMT</pubDate>
-            <content:encoded><![CDATA['뉴진스'처럼 찰랑거리는 긴 생머리를 위한 헤어템 7.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/c2e97dc2-6405-4e33-8476-7bb2261c4a45.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/beauty</id>
+    <title>엘르 코리아 ─ 뷰티</title>
+    <updated>2023-05-31T05:42:06.580Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다가오는 여름, 투명한 피부를 원한다면? 에트셀 멜라토닉 케어]]></title>
+        <id>https://www.elle.co.kr/article/77659</id>
+        <link href="https://www.elle.co.kr/article/77659"/>
+        <updated>2023-05-30T05:40:46.832Z</updated>
+        <content type="html"><![CDATA[뜨거운 여름 볕에 칙칙해진 안색 때문에 고민이라면 효과 좋은 미백 제품을 선택할 것! 디마르...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만삭 아내와 생애 첫 칸 영화제 찾은 송중기! 특별한 체력 관리법은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/77836</id>
+        <link href="https://www.elle.co.kr/article/77836"/>
+        <updated>2023-05-29T05:40:18.322Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탱글탱글! 젤리 립 7]]></title>
+        <id>https://www.elle.co.kr/article/77075</id>
+        <link href="https://www.elle.co.kr/article/77075"/>
+        <updated>2023-05-28T17:40:18.417Z</updated>
+        <content type="html"><![CDATA[탱글탱글! 꿀이 뚝뚝 떨어지는 입술을 만들어줄 '젤리 립' 라인업.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기름 공장 가동 시작! 지성 두피 & 모발 솔루션 STEP 3_선배’s 어드바이스 #169]]></title>
+        <id>https://www.elle.co.kr/article/77743</id>
+        <link href="https://www.elle.co.kr/article/77743"/>
+        <updated>2023-05-26T05:40:24.089Z</updated>
+        <content type="html"><![CDATA[피지와 땀에 젖어 신음하는 지성인들의 두피와 모발을 구조하라!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
+        <id>https://www.elle.co.kr/article/77737</id>
+        <link href="https://www.elle.co.kr/article/77737"/>
+        <updated>2023-05-25T17:40:38.979Z</updated>
+        <content type="html"><![CDATA[세 끼 맛있게 먹어도 살이 빠지는 윤은혜의 10일 다이어트 식단으로 여름을 준비해보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘헬시 글로’란 이런 것. 더 완벽해진 샤넬 레 베쥬 젤 쿠션!]]></title>
+        <id>https://www.elle.co.kr/article/77650</id>
+        <link href="https://www.elle.co.kr/article/77650"/>
+        <updated>2023-05-25T05:41:10.374Z</updated>
+        <content type="html"><![CDATA[언제 어디서나 유용한 샤넬 레 베쥬 젤 쿠션.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아침 부기 굿바이! 배우 엄지원의 페이스 마사지 루틴]]></title>
+        <id>https://www.elle.co.kr/article/77710</id>
+        <link href="https://www.elle.co.kr/article/77710"/>
+        <updated>2023-05-24T17:40:15.382Z</updated>
+        <content type="html"><![CDATA[딱 5분만 따라 해 보세요. 날렵한 페이스 라인을 위해 엄지원이 매일 하는 마사지 방법을 소개...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[긴 생머리 헤어템 라인업]]></title>
+        <id>https://www.elle.co.kr/article/77071</id>
+        <link href="https://www.elle.co.kr/article/77071"/>
+        <updated>2023-05-23T17:40:33.866Z</updated>
+        <content type="html"><![CDATA['뉴진스'처럼 찰랑거리는 긴 생머리를 위한 헤어템 7.]]></content>
+    </entry>
+</feed>

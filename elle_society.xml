@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 17:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 05:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 서울국제도서전과 <엘르>가 만났다]]></title>
+            <link>https://www.elle.co.kr/article/77717</link>
+            <guid>https://www.elle.co.kr/article/77717</guid>
+            <pubDate>Wed, 31 May 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 책 축제, ‘서울국제도서전’에 &lt;엘르보이스&gt;와 &lt;엘르 데코&gt;가 함께 합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/cff62f25-84e6-4e65-838b-c7689357c113.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수묵화부터 픽셀, 추상화까지! 5월, 신록과 함께 찾아온 전시 3]]></title>
             <link>https://www.elle.co.kr/article/77701</link>
@@ -58,13 +66,6 @@
             <pubDate>Thu, 18 May 2023 17:41:29 GMT</pubDate>
             <content:encoded><![CDATA[5월 15일은 스승의 날이자 세종대왕 탄신일!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/7f5b37df-2512-4c80-a2be-17e2664bba7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[27년 만의 승리: E. 진 캐롤이 도널드 트럼프에게 이겼다]]></title>
-            <link>https://www.elle.co.kr/article/77475</link>
-            <guid>https://www.elle.co.kr/article/77475</guid>
-            <pubDate>Thu, 18 May 2023 17:41:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/6e3303d6-ec27-42e6-a7d4-c64365fd09d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
