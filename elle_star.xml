@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-05-31T05:42:06.595Z</updated>
+    <updated>2023-05-31T17:42:34.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꾸러기미' 가득! 오버롤 팬츠를 입은 스타 5]]></title>
+        <id>https://www.elle.co.kr/article/78001</id>
+        <link href="https://www.elle.co.kr/article/78001"/>
+        <updated>2023-05-31T17:41:32.382Z</updated>
+        <content type="html"><![CDATA[단조로운 여름 데일리 룩에 변화를 주고 싶다면? 상큼발랄한 오버롤 팬츠에 도전해 보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍석천, 테이 결혼식에서 신부에게 사과한 이유는? (ft.후기 모음)]]></title>
+        <id>https://www.elle.co.kr/article/77989</id>
+        <link href="https://www.elle.co.kr/article/77989"/>
+        <updated>2023-05-31T17:41:32.385Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
+        <id>https://www.elle.co.kr/article/77968</id>
+        <link href="https://www.elle.co.kr/article/77968"/>
+        <updated>2023-05-31T17:41:32.386Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강형욱 유튜브에 제니가?! 처음 공개한 첫째 반려견 카이와의 슬픈 이별 이야기]]></title>
+        <id>https://www.elle.co.kr/article/77961</id>
+        <link href="https://www.elle.co.kr/article/77961"/>
+        <updated>2023-05-31T17:41:32.389Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올여름 핫한 수영복 스타일의 영감은 여기서!]]></title>
+        <id>https://www.elle.co.kr/article/77945</id>
+        <link href="https://www.elle.co.kr/article/77945"/>
+        <updated>2023-05-31T17:41:32.400Z</updated>
+        <content type="html"><![CDATA[셀러브리티들의 다채로운 스윔웨어 패션을 힌트 삼아 다가올 여름 바캉스를 준비해 보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로제의 내일을 빛나게 만드는 것들]]></title>
         <id>https://www.elle.co.kr/article/77875</id>
@@ -24,38 +56,5 @@
         <id>https://www.elle.co.kr/article/77924</id>
         <link href="https://www.elle.co.kr/article/77924"/>
         <updated>2023-05-30T17:41:16.459Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[룩에 생기를 불어넣는 주얼리, 어디까지 해봤니?]]></title>
-        <id>https://www.elle.co.kr/article/77923</id>
-        <link href="https://www.elle.co.kr/article/77923"/>
-        <updated>2023-05-30T05:40:56.306Z</updated>
-        <content type="html"><![CDATA[네크리스부터 후프 이어링까지! 스타들의 주얼리 스타일링 6.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온전한 백예린]]></title>
-        <id>https://www.elle.co.kr/article/77081</id>
-        <link href="https://www.elle.co.kr/article/77081"/>
-        <updated>2023-05-30T05:40:56.308Z</updated>
-        <content type="html"><![CDATA[스물일곱 살, 백예린이 가장 선명하게 빛나는 때. 지금 예린의 세계는 자신을 향해 빠르게 흐르...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무료 콘서트 아냐? BTS 정국이 1100만 명 시청자 앞에서 부른 노래들]]></title>
-        <id>https://www.elle.co.kr/article/77920</id>
-        <link href="https://www.elle.co.kr/article/77920"/>
-        <updated>2023-05-30T05:40:56.310Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송중기와 김윤아, 빈지노 커플까지? 스타 부부의 칸 데이트 3]]></title>
-        <id>https://www.elle.co.kr/article/77914</id>
-        <link href="https://www.elle.co.kr/article/77914"/>
-        <updated>2023-05-29T05:40:28.814Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023]]></title>
-        <id>https://www.elle.co.kr/article/77909</id>
-        <link href="https://www.elle.co.kr/article/77909"/>
-        <updated>2023-05-27T05:40:09.071Z</updated>
-        <content type="html"><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content>
     </entry>
 </feed>

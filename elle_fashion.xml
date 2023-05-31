@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-05-31T05:42:06.588Z</updated>
+    <updated>2023-05-31T17:42:34.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올여름 핫한 수영복 스타일의 영감은 여기서!]]></title>
+        <id>https://www.elle.co.kr/article/77945</id>
+        <link href="https://www.elle.co.kr/article/77945"/>
+        <updated>2023-05-31T17:41:09.028Z</updated>
+        <content type="html"><![CDATA[셀러브리티들의 다채로운 스윔웨어 패션을 힌트 삼아 다가올 여름 바캉스를 준비해 보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맑은 바닷가에서]]></title>
+        <id>https://www.elle.co.kr/article/77919</id>
+        <link href="https://www.elle.co.kr/article/77919"/>
+        <updated>2023-05-31T17:41:09.038Z</updated>
+        <content type="html"><![CDATA[말간 모습이 아름다운 청춘.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타들의 SNS 속 가볍고 귀여운 #미니백]]></title>
         <id>https://www.elle.co.kr/article/77931</id>
@@ -46,19 +60,5 @@
         <link href="https://www.elle.co.kr/article/77080"/>
         <updated>2023-05-28T05:40:20.191Z</updated>
         <content type="html"><![CDATA[유머와 기술을 겸비한 AI 패션이 궁금하다면.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리한나의 둘째 아웃핏 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/77896</id>
-        <link href="https://www.elle.co.kr/article/77896"/>
-        <updated>2023-05-27T17:40:08.631Z</updated>
-        <content type="html"><![CDATA[끝나지 않았다! 첫째에 이어 무대와 레드 카펫에서 당당히 D라인을 뽐낸 리한나의 둘째 임신 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알고 있니? 서울에 상륙하는 ‘마르니 마켓’이 왜 재미난지! (feat.제품사진)]]></title>
-        <id>https://www.elle.co.kr/article/77892</id>
-        <link href="https://www.elle.co.kr/article/77892"/>
-        <updated>2023-05-27T05:39:48.206Z</updated>
-        <content type="html"><![CDATA[리빙과 컬처, 패션을 사랑하는 이들 사이에선 소문난 ‘마르니 마켓’이 드디어 서울을 찾습니다...]]></content>
     </entry>
 </feed>

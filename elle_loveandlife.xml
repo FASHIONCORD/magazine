@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 05:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 17:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴가 계획은 지금부터! 6월에 풀리는 국내 여행 할인 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77781</link>
+            <guid>https://www.elle.co.kr/article/77781</guid>
+            <pubDate>Wed, 31 May 2023 17:42:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/b59ea290-3719-4711-a712-ceed1c95f2b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월엔 여름꽃 구경! 보랏빛 물결 가득한 전국 라벤더 명소 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/77763</link>
@@ -60,13 +67,6 @@
             <pubDate>Tue, 23 May 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[유럽으로 혼자 여행을 떠나기 전 아이비가 캐리어에 챙기는 실용적인 아이템을 직접 공개합니다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/35c7cd35-2a64-4f82-a04c-f1bfbde5920e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱한 한강 유람선부터 바이닐바 데이트까지! '부부의 날' 추천 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/77682</link>
-            <guid>https://www.elle.co.kr/article/77682</guid>
-            <pubDate>Tue, 23 May 2023 05:41:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/1d91c354-7088-4acc-bc69-41c24e484827.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-05-31T05:42:06.580Z</updated>
+    <updated>2023-05-31T17:42:34.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘겨터 파크’ 개장이 걱정된다면 주목!]]></title>
+        <id>https://www.elle.co.kr/article/77894</id>
+        <link href="https://www.elle.co.kr/article/77894"/>
+        <updated>2023-05-31T17:41:21.133Z</updated>
+        <content type="html"><![CDATA[‘겨터 파크’ 개장을 앞둔 지금, 새로운 데오도란트를 찾다가 눈을 의심했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클러빙보다 핫한 운동 페스티벌? 시포레 2023]]></title>
+        <id>https://www.elle.co.kr/article/77900</id>
+        <link href="https://www.elle.co.kr/article/77900"/>
+        <updated>2023-05-31T17:41:21.135Z</updated>
+        <content type="html"><![CDATA[시티포레스티벌 2023. 윤성빈, 서준맘과 장은실, 강하나, 김혜선의 클래스를 듣는 즐거움!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜소하다고 놀림 받았다는 마동석, 점점 우람해지는 팔뚝의 비결은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/77866</id>
+        <link href="https://www.elle.co.kr/article/77866"/>
+        <updated>2023-05-31T17:41:21.141Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다가오는 여름, 투명한 피부를 원한다면? 에트셀 멜라토닉 케어]]></title>
         <id>https://www.elle.co.kr/article/77659</id>
@@ -38,26 +58,5 @@
         <link href="https://www.elle.co.kr/article/77737"/>
         <updated>2023-05-25T17:40:38.979Z</updated>
         <content type="html"><![CDATA[세 끼 맛있게 먹어도 살이 빠지는 윤은혜의 10일 다이어트 식단으로 여름을 준비해보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘헬시 글로’란 이런 것. 더 완벽해진 샤넬 레 베쥬 젤 쿠션!]]></title>
-        <id>https://www.elle.co.kr/article/77650</id>
-        <link href="https://www.elle.co.kr/article/77650"/>
-        <updated>2023-05-25T05:41:10.374Z</updated>
-        <content type="html"><![CDATA[언제 어디서나 유용한 샤넬 레 베쥬 젤 쿠션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침 부기 굿바이! 배우 엄지원의 페이스 마사지 루틴]]></title>
-        <id>https://www.elle.co.kr/article/77710</id>
-        <link href="https://www.elle.co.kr/article/77710"/>
-        <updated>2023-05-24T17:40:15.382Z</updated>
-        <content type="html"><![CDATA[딱 5분만 따라 해 보세요. 날렵한 페이스 라인을 위해 엄지원이 매일 하는 마사지 방법을 소개...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긴 생머리 헤어템 라인업]]></title>
-        <id>https://www.elle.co.kr/article/77071</id>
-        <link href="https://www.elle.co.kr/article/77071"/>
-        <updated>2023-05-23T17:40:33.866Z</updated>
-        <content type="html"><![CDATA['뉴진스'처럼 찰랑거리는 긴 생머리를 위한 헤어템 7.]]></content>
     </entry>
 </feed>
