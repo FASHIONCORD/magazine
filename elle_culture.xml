@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-06-01T05:41:37.322Z</updated>
+    <updated>2023-06-01T17:42:06.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금 안보면 서운 할 전시, ‘입소문’으로 이번주까지 연장 된 '원계홍 기념전']]></title>
+        <id>https://www.elle.co.kr/article/77938</id>
+        <link href="https://www.elle.co.kr/article/77938"/>
+        <updated>2023-06-01T17:41:15.276Z</updated>
+        <content type="html"><![CDATA[탄생 100주년 기념전? 이번주 종료되는 '그&nbsp;너머_&nbsp;원계홍 회고전'은 종로 경희궁길 성곡미술관에...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김중업의 흔적을 좇아, 옛 소라의 성]]></title>
+        <id>https://www.elle.co.kr/article/76263</id>
+        <link href="https://www.elle.co.kr/article/76263"/>
+        <updated>2023-06-01T17:41:15.282Z</updated>
+        <content type="html"><![CDATA[제주의 땅과 돌, 바람과 숲이 빚은 건축 그리고 디자인을 찾아서.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밀란 디자인 위크를 만끽한 일주일]]></title>
         <id>https://www.elle.co.kr/article/77885</id>
@@ -46,18 +60,5 @@
         <link href="https://www.elle.co.kr/article/77892"/>
         <updated>2023-05-28T17:40:43.686Z</updated>
         <content type="html"><![CDATA[리빙과 컬처, 패션을 사랑하는 이들 사이에선 소문난 ‘마르니 마켓’이 드디어 서울을 찾습니다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸바오와 대화할 수 있다면? 이별을 준비하는 강철원 사육사의 뭉클한 진심]]></title>
-        <id>https://www.elle.co.kr/article/77857</id>
-        <link href="https://www.elle.co.kr/article/77857"/>
-        <updated>2023-05-27T17:40:40.083Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새하얀 면과 수많은 직선이 수직 교차하는 집]]></title>
-        <id>https://www.elle.co.kr/article/76287</id>
-        <link href="https://www.elle.co.kr/article/76287"/>
-        <updated>2023-05-27T17:40:40.095Z</updated>
-        <content type="html"><![CDATA[비주얼 디렉터 조미연이 만들어 낸 가장 미니멀한 공간.]]></content>
     </entry>
 </feed>

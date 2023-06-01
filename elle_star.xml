@@ -1,61 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-01T05:41:37.310Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[선미와 크리스탈이 더 예뻐져서 나타난 이유]]></title>
-        <id>https://www.elle.co.kr/article/78015</id>
-        <link href="https://www.elle.co.kr/article/78015"/>
-        <updated>2023-06-01T05:40:42.236Z</updated>
-        <content type="html"><![CDATA[선미가 선택하고, 크리스탈이 애정한 패션 브랜드에 비밀이 숨겨져 있습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꾸러기미' 가득! 오버롤 팬츠를 입은 스타 5]]></title>
-        <id>https://www.elle.co.kr/article/78001</id>
-        <link href="https://www.elle.co.kr/article/78001"/>
-        <updated>2023-05-31T17:41:32.382Z</updated>
-        <content type="html"><![CDATA[단조로운 여름 데일리 룩에 변화를 주고 싶다면? 상큼발랄한 오버롤 팬츠에 도전해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍석천, 테이 결혼식에서 신부에게 사과한 이유는? (ft.후기 모음)]]></title>
-        <id>https://www.elle.co.kr/article/77989</id>
-        <link href="https://www.elle.co.kr/article/77989"/>
-        <updated>2023-05-31T17:41:32.385Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
-        <id>https://www.elle.co.kr/article/77968</id>
-        <link href="https://www.elle.co.kr/article/77968"/>
-        <updated>2023-05-31T17:41:32.386Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강형욱 유튜브에 제니가?! 처음 공개한 첫째 반려견 카이와의 슬픈 이별 이야기]]></title>
-        <id>https://www.elle.co.kr/article/77961</id>
-        <link href="https://www.elle.co.kr/article/77961"/>
-        <updated>2023-05-31T17:41:32.389Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올여름 핫한 수영복 스타일의 영감은 여기서!]]></title>
-        <id>https://www.elle.co.kr/article/77945</id>
-        <link href="https://www.elle.co.kr/article/77945"/>
-        <updated>2023-05-31T17:41:32.400Z</updated>
-        <content type="html"><![CDATA[셀러브리티들의 다채로운 스윔웨어 패션을 힌트 삼아 다가올 여름 바캉스를 준비해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로제의 내일을 빛나게 만드는 것들]]></title>
-        <id>https://www.elle.co.kr/article/77875</id>
-        <link href="https://www.elle.co.kr/article/77875"/>
-        <updated>2023-05-31T05:40:58.661Z</updated>
-        <content type="html"><![CDATA[“제 노래는 스스로를 믿었을 때 완성돼요.” 로제의 내일을 빛나게 만드는 것들. 자기확신, 여...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포츠 아나운서의 데일리 메이크업 HOW TO]]></title>
-        <id>https://www.elle.co.kr/article/77937</id>
-        <link href="https://www.elle.co.kr/article/77937"/>
-        <updated>2023-05-30T17:41:16.457Z</updated>
-        <content type="html"><![CDATA['분위기 여신' 이나연이 알려줄게요, 고급스럽고 청순한 무드를 자아내는 데일리 메이크업.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 01 Jun 2023 17:42:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폴킴의 빛나는 계절]]></title>
+            <link>https://www.elle.co.kr/article/78016</link>
+            <guid>https://www.elle.co.kr/article/78016</guid>
+            <pubDate>Thu, 01 Jun 2023 17:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[“음악은 결국 기쁨이죠. 평생 웃고 싶어요.” 사계절 따스한 폴킴의 음악, 다정하게 흐르는 그...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/9b70e65c-acb8-4019-8c90-91d0d8e77795.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량)]]></title>
+            <link>https://www.elle.co.kr/article/78028</link>
+            <guid>https://www.elle.co.kr/article/78028</guid>
+            <pubDate>Thu, 01 Jun 2023 17:41:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/8dc0b476-6467-49c6-b43e-d01c35aa0ef2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지성미부터 퇴폐미까지, ‘블루 드 샤넬’의 남자 티모시 샬라메]]></title>
+            <link>https://www.elle.co.kr/article/78024</link>
+            <guid>https://www.elle.co.kr/article/78024</guid>
+            <pubDate>Thu, 01 Jun 2023 17:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[관습을 탈피하고 시대를 초월하는 가브리엘 샤넬의 신념은 ‘블루 드 샤넬’의 새로운 챕터와 블...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/1dc17084-318b-4dd6-866a-aa60fb01f738.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[12kg 감량한 에프엑스 루나! 하체 콤플렉스 이렇게 극복했다는데? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/78020</link>
+            <guid>https://www.elle.co.kr/article/78020</guid>
+            <pubDate>Thu, 01 Jun 2023 17:41:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/23ace928-0b33-4f02-a719-2dfea74c2a53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선미와 크리스탈이 더 예뻐져서 나타난 이유]]></title>
+            <link>https://www.elle.co.kr/article/78015</link>
+            <guid>https://www.elle.co.kr/article/78015</guid>
+            <pubDate>Thu, 01 Jun 2023 05:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[선미가 선택하고, 크리스탈이 애정한 패션 브랜드에 비밀이 숨겨져 있습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/94f3057d-b37e-46b9-b70a-d82ac14b2e84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['꾸러기미' 가득! 오버롤 팬츠를 입은 스타 5]]></title>
+            <link>https://www.elle.co.kr/article/78001</link>
+            <guid>https://www.elle.co.kr/article/78001</guid>
+            <pubDate>Wed, 31 May 2023 17:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[단조로운 여름 데일리 룩에 변화를 주고 싶다면? 상큼발랄한 오버롤 팬츠에 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/e1b6dce0-329b-497a-a8ce-c145f1ebd738.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍석천, 테이 결혼식에서 신부에게 사과한 이유는? (ft.후기 모음)]]></title>
+            <link>https://www.elle.co.kr/article/77989</link>
+            <guid>https://www.elle.co.kr/article/77989</guid>
+            <pubDate>Wed, 31 May 2023 17:41:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/4c690735-357d-4a23-8407-557abd26007e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
+            <link>https://www.elle.co.kr/article/77968</link>
+            <guid>https://www.elle.co.kr/article/77968</guid>
+            <pubDate>Wed, 31 May 2023 17:41:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/1fe318ea-2eb8-4712-b9a5-30c7047b995b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
