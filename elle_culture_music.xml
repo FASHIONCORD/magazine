@@ -1,94 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/music</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2023-05-31T17:42:34.746Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
-        <id>https://www.elle.co.kr/article/77968</id>
-        <link href="https://www.elle.co.kr/article/77968"/>
-        <updated>2023-05-30T17:41:34.902Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023]]></title>
-        <id>https://www.elle.co.kr/article/77909</id>
-        <link href="https://www.elle.co.kr/article/77909"/>
-        <updated>2023-05-26T17:40:33.455Z</updated>
-        <content type="html"><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
-        <id>https://www.elle.co.kr/article/77654</id>
-        <link href="https://www.elle.co.kr/article/77654"/>
-        <updated>2023-05-18T17:40:47.671Z</updated>
-        <content type="html"><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선]]></title>
-        <id>https://www.elle.co.kr/article/77457</id>
-        <link href="https://www.elle.co.kr/article/77457"/>
-        <updated>2023-05-10T17:43:24.146Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg]]></title>
-        <id>https://www.elle.co.kr/article/77444</id>
-        <link href="https://www.elle.co.kr/article/77444"/>
-        <updated>2023-05-09T17:41:31.198Z</updated>
-        <content type="html"><![CDATA[이건 꼭 소장해야 해.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
-        <id>https://www.elle.co.kr/article/77430</id>
-        <link href="https://www.elle.co.kr/article/77430"/>
-        <updated>2023-05-09T17:41:31.201Z</updated>
-        <content type="html"><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90분의 라이브 밴드 '엘르 스테이지 콘서트' 김윤아, 10CM, 카더가든]]></title>
-        <id>https://www.elle.co.kr/article/77021</id>
-        <link href="https://www.elle.co.kr/article/77021"/>
-        <updated>2023-04-25T17:41:39.031Z</updated>
-        <content type="html"><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더욱 울림 깊어진 브루노 마스, 9년 만의 내한 콘서트! 최근 셋리스트는?]]></title>
-        <id>https://www.elle.co.kr/article/76836</id>
-        <link href="https://www.elle.co.kr/article/76836"/>
-        <updated>2023-04-20T05:40:44.528Z</updated>
-        <content type="html"><![CDATA[잠실 주경기장이어도 불안한 내 좌석의 존재 여부.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백스테이지에서 무슨 일이?! 블랙핑크가 직접 전한 눈물의 코첼라 후기.txt]]></title>
-        <id>https://www.elle.co.kr/article/76815</id>
-        <link href="https://www.elle.co.kr/article/76815"/>
-        <updated>2023-04-19T17:40:26.466Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤성빈, 서준맘과 운동하고 10cm, 카더가든, 김윤아 공연을 즐기는 웰니스 페스티벌이 있다고?]]></title>
-        <id>https://www.elle.co.kr/article/76654</id>
-        <link href="https://www.elle.co.kr/article/76654"/>
-        <updated>2023-04-13T17:40:53.641Z</updated>
-        <content type="html"><![CDATA[시티 포레스티벌 2023의 티켓 판매는 오늘부터.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트']]></title>
-        <id>https://www.elle.co.kr/article/76493</id>
-        <link href="https://www.elle.co.kr/article/76493"/>
-        <updated>2023-04-05T17:41:27.584Z</updated>
-        <content type="html"><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/76459</id>
-        <link href="https://www.elle.co.kr/article/76459"/>
-        <updated>2023-04-04T17:41:35.943Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 솔로앨범 낸 BTS 지민, 美 '지미 팰런쇼' 뜨겁게 달군 한 마디는? (ft.최애 별명)]]></title>
-        <id>https://www.elle.co.kr/article/76129</id>
-        <link href="https://www.elle.co.kr/article/76129"/>
-        <updated>2023-03-24T17:41:07.038Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 01 Jun 2023 05:41:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
+            <link>https://www.elle.co.kr/article/77968</link>
+            <guid>https://www.elle.co.kr/article/77968</guid>
+            <pubDate>Tue, 30 May 2023 17:41:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/1fe318ea-2eb8-4712-b9a5-30c7047b995b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온도, 습도, 분위기 모두 완벽! 초여름 밤의 낭만과 함께 한 #엘르스테이지2023]]></title>
+            <link>https://www.elle.co.kr/article/77909</link>
+            <guid>https://www.elle.co.kr/article/77909</guid>
+            <pubDate>Fri, 26 May 2023 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/b515b5da-b4b6-4253-9604-e555d7eae095.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
+            <link>https://www.elle.co.kr/article/77654</link>
+            <guid>https://www.elle.co.kr/article/77654</guid>
+            <pubDate>Thu, 18 May 2023 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/189dcdb8-f7aa-4dc5-84b9-69275381f371.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선]]></title>
+            <link>https://www.elle.co.kr/article/77457</link>
+            <guid>https://www.elle.co.kr/article/77457</guid>
+            <pubDate>Wed, 10 May 2023 17:43:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/462c20c4-a29d-464c-879a-52331192f17f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg]]></title>
+            <link>https://www.elle.co.kr/article/77444</link>
+            <guid>https://www.elle.co.kr/article/77444</guid>
+            <pubDate>Tue, 09 May 2023 17:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[이건 꼭 소장해야 해.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[선글라스 너머로, 나일 로저스의 눈빛]]></title>
+            <link>https://www.elle.co.kr/article/77430</link>
+            <guid>https://www.elle.co.kr/article/77430</guid>
+            <pubDate>Tue, 09 May 2023 17:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 아이웨어 캠페인을 위해 나일 로저스가 카메라 앞에 섰다. 비비안 로너, 신현지와 함께 눈...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[90분의 라이브 밴드 '엘르 스테이지 콘서트' 김윤아, 10CM, 카더가든]]></title>
+            <link>https://www.elle.co.kr/article/77021</link>
+            <guid>https://www.elle.co.kr/article/77021</guid>
+            <pubDate>Tue, 25 Apr 2023 17:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더욱 울림 깊어진 브루노 마스, 9년 만의 내한 콘서트! 최근 셋리스트는?]]></title>
+            <link>https://www.elle.co.kr/article/76836</link>
+            <guid>https://www.elle.co.kr/article/76836</guid>
+            <pubDate>Thu, 20 Apr 2023 05:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[잠실 주경기장이어도 불안한 내 좌석의 존재 여부.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[백스테이지에서 무슨 일이?! 블랙핑크가 직접 전한 눈물의 코첼라 후기.txt]]></title>
+            <link>https://www.elle.co.kr/article/76815</link>
+            <guid>https://www.elle.co.kr/article/76815</guid>
+            <pubDate>Wed, 19 Apr 2023 17:40:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[윤성빈, 서준맘과 운동하고 10cm, 카더가든, 김윤아 공연을 즐기는 웰니스 페스티벌이 있다고?]]></title>
+            <link>https://www.elle.co.kr/article/76654</link>
+            <guid>https://www.elle.co.kr/article/76654</guid>
+            <pubDate>Thu, 13 Apr 2023 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[시티 포레스티벌 2023의 티켓 판매는 오늘부터.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트']]></title>
+            <link>https://www.elle.co.kr/article/76493</link>
+            <guid>https://www.elle.co.kr/article/76493</guid>
+            <pubDate>Wed, 05 Apr 2023 17:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/76459</link>
+            <guid>https://www.elle.co.kr/article/76459</guid>
+            <pubDate>Tue, 04 Apr 2023 17:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[첫 솔로앨범 낸 BTS 지민, 美 '지미 팰런쇼' 뜨겁게 달군 한 마디는? (ft.최애 별명)]]></title>
+            <link>https://www.elle.co.kr/article/76129</link>
+            <guid>https://www.elle.co.kr/article/76129</guid>
+            <pubDate>Fri, 24 Mar 2023 17:41:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
