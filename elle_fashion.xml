@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 17:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 05:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['꾸러기미' 가득! 오버롤 팬츠를 입은 스타 5]]></title>
+            <link>https://www.elle.co.kr/article/78001</link>
+            <guid>https://www.elle.co.kr/article/78001</guid>
+            <pubDate>Fri, 02 Jun 2023 05:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[단조로운 여름 데일리 룩에 변화를 주고 싶다면? 상큼발랄한 오버롤 팬츠에 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/e1b6dce0-329b-497a-a8ce-c145f1ebd738.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화적인 순간이 담긴 샤넬 2023/2024 크루즈 컬렉션]]></title>
             <link>https://www.elle.co.kr/article/77992</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 May 2023 05:40:38 GMT</pubDate>
             <content:encoded><![CDATA[네크리스부터 후프 이어링까지! 스타들의 주얼리 스타일링 6.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/ca7189b3-7a30-4611-bbc6-d0cf119311c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK8TER GIRL이 돌아왔다]]></title>
-            <link>https://www.elle.co.kr/article/77257</link>
-            <guid>https://www.elle.co.kr/article/77257</guid>
-            <pubDate>Mon, 29 May 2023 17:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[젠지들의 스타일 차트를 역주행 중인 에이브릴 라빈! 지금 참고하기 좋은 '스케이트 걸'의 레전...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/b040bb18-f4c4-49b2-b063-c70e3c8c46b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -1,96 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 17:42:06 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량)]]></title>
-            <link>https://www.elle.co.kr/article/78028</link>
-            <guid>https://www.elle.co.kr/article/78028</guid>
-            <pubDate>Wed, 31 May 2023 17:42:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/8dc0b476-6467-49c6-b43e-d01c35aa0ef2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
-            <link>https://www.elle.co.kr/article/77968</link>
-            <guid>https://www.elle.co.kr/article/77968</guid>
-            <pubDate>Tue, 30 May 2023 17:41:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/1fe318ea-2eb8-4712-b9a5-30c7047b995b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호그와트 교복 한 벌에 무려 2억! 해리 포터부터 배트맨까지, ‘역대급’ 영화 소품 경매 라인업은?]]></title>
-            <link>https://www.elle.co.kr/article/77930</link>
-            <guid>https://www.elle.co.kr/article/77930</guid>
-            <pubDate>Sat, 27 May 2023 17:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[최대 160억 원! 전 세계에서 손꼽히는 대규모 영화 소품 경매의 막이 오른다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/d610ec22-64cb-461f-a31d-fc8e87f7fcd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸바오와 대화할 수 있다면? 이별을 준비하는 강철원 사육사의 뭉클한 진심]]></title>
-            <link>https://www.elle.co.kr/article/77857</link>
-            <guid>https://www.elle.co.kr/article/77857</guid>
-            <pubDate>Thu, 25 May 2023 05:42:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/c1461055-cb8c-43e2-afe7-0640a55fa2a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷔와 박보검, 리사가 한 자리에! 한국 셀럽들이 칸을 200% 즐기는 방법]]></title>
-            <link>https://www.elle.co.kr/article/77841</link>
-            <guid>https://www.elle.co.kr/article/77841</guid>
-            <pubDate>Wed, 24 May 2023 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[황홀한 프라이빗 디너와 뜨거운 애프터파티의 향연.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["마흔 살 둘리야, 철 들지 말거라": 어른이들 눈물 나게 하는 고길동의 편지.txt]]></title>
-            <link>https://www.elle.co.kr/article/77808</link>
-            <guid>https://www.elle.co.kr/article/77808</guid>
-            <pubDate>Wed, 24 May 2023 05:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['범죄도시' 역대 빌런들이 모인 이유는?! 귀한 손석구X이준혁 투샷.jpg]]></title>
-            <link>https://www.elle.co.kr/article/77788</link>
-            <guid>https://www.elle.co.kr/article/77788</guid>
-            <pubDate>Wed, 24 May 2023 05:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[제니부터 노윤서까지! 제76회 칸 영화제 속 한국 셀럽들의 빛나는 순간]]></title>
-            <link>https://www.elle.co.kr/article/77782</link>
-            <guid>https://www.elle.co.kr/article/77782</guid>
-            <pubDate>Tue, 23 May 2023 17:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[본격적으로 막이 오른 한국 영화의 시간.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/77729</link>
-            <guid>https://www.elle.co.kr/article/77729</guid>
-            <pubDate>Mon, 22 May 2023 17:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[꿀잼은 국적을 가리지 않는다! 일본에 수출한 '환승연애' 리메이크판 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/77645</link>
-            <guid>https://www.elle.co.kr/article/77645</guid>
-            <pubDate>Thu, 18 May 2023 17:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?)]]></title>
-            <link>https://www.elle.co.kr/article/77632</link>
-            <guid>https://www.elle.co.kr/article/77632</guid>
-            <pubDate>Thu, 18 May 2023 05:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[티빙과 웨이브, 이번엔 진짜로 살림 합칠까?]]></title>
-            <link>https://www.elle.co.kr/article/77618</link>
-            <guid>https://www.elle.co.kr/article/77618</guid>
-            <pubDate>Wed, 17 May 2023 17:41:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[송중기부터 제니, 크리스탈까지! 처음으로 칸 영화제 레드카펫 밟는 한국인은?]]></title>
-            <link>https://www.elle.co.kr/article/77583</link>
-            <guid>https://www.elle.co.kr/article/77583</guid>
-            <pubDate>Tue, 16 May 2023 17:40:49 GMT</pubDate>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/moviesandtv</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+    <updated>2023-06-02T05:42:13.587Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로!]]></title>
+        <id>https://www.elle.co.kr/article/78078</id>
+        <link href="https://www.elle.co.kr/article/78078"/>
+        <updated>2023-06-02T05:41:26.866Z</updated>
+        <content type="html"><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량)]]></title>
+        <id>https://www.elle.co.kr/article/78028</id>
+        <link href="https://www.elle.co.kr/article/78028"/>
+        <updated>2023-05-31T17:42:03.218Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
+        <id>https://www.elle.co.kr/article/77968</id>
+        <link href="https://www.elle.co.kr/article/77968"/>
+        <updated>2023-05-30T17:41:55.484Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호그와트 교복 한 벌에 무려 2억! 해리 포터부터 배트맨까지, ‘역대급’ 영화 소품 경매 라인업은?]]></title>
+        <id>https://www.elle.co.kr/article/77930</id>
+        <link href="https://www.elle.co.kr/article/77930"/>
+        <updated>2023-05-27T17:40:58.070Z</updated>
+        <content type="html"><![CDATA[최대 160억 원! 전 세계에서 손꼽히는 대규모 영화 소품 경매의 막이 오른다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸바오와 대화할 수 있다면? 이별을 준비하는 강철원 사육사의 뭉클한 진심]]></title>
+        <id>https://www.elle.co.kr/article/77857</id>
+        <link href="https://www.elle.co.kr/article/77857"/>
+        <updated>2023-05-25T05:42:22.338Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷔와 박보검, 리사가 한 자리에! 한국 셀럽들이 칸을 200% 즐기는 방법]]></title>
+        <id>https://www.elle.co.kr/article/77841</id>
+        <link href="https://www.elle.co.kr/article/77841"/>
+        <updated>2023-05-24T17:40:53.882Z</updated>
+        <content type="html"><![CDATA[황홀한 프라이빗 디너와 뜨거운 애프터파티의 향연.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["마흔 살 둘리야, 철 들지 말거라": 어른이들 눈물 나게 하는 고길동의 편지.txt]]></title>
+        <id>https://www.elle.co.kr/article/77808</id>
+        <link href="https://www.elle.co.kr/article/77808"/>
+        <updated>2023-05-24T05:40:54.549Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['범죄도시' 역대 빌런들이 모인 이유는?! 귀한 손석구X이준혁 투샷.jpg]]></title>
+        <id>https://www.elle.co.kr/article/77788</id>
+        <link href="https://www.elle.co.kr/article/77788"/>
+        <updated>2023-05-24T05:40:54.579Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제니부터 노윤서까지! 제76회 칸 영화제 속 한국 셀럽들의 빛나는 순간]]></title>
+        <id>https://www.elle.co.kr/article/77782</id>
+        <link href="https://www.elle.co.kr/article/77782"/>
+        <updated>2023-05-23T17:41:22.753Z</updated>
+        <content type="html"><![CDATA[본격적으로 막이 오른 한국 영화의 시간.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[절친 케미부터 연상연하 로맨스까지! '닥터 차정숙' 엄정화 명드 3선 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/77729</id>
+        <link href="https://www.elle.co.kr/article/77729"/>
+        <updated>2023-05-22T17:40:58.413Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿀잼은 국적을 가리지 않는다! 일본에 수출한 '환승연애' 리메이크판 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/77645</id>
+        <link href="https://www.elle.co.kr/article/77645"/>
+        <updated>2023-05-18T17:40:56.215Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류승범이 아내와의 첫 만남에서 말도 걸지 못한 이유 (ft. 뽀뽀뽀 출연?)]]></title>
+        <id>https://www.elle.co.kr/article/77632</id>
+        <link href="https://www.elle.co.kr/article/77632"/>
+        <updated>2023-05-18T05:42:13.414Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티빙과 웨이브, 이번엔 진짜로 살림 합칠까?]]></title>
+        <id>https://www.elle.co.kr/article/77618</id>
+        <link href="https://www.elle.co.kr/article/77618"/>
+        <updated>2023-05-17T17:41:47.248Z</updated>
+    </entry>
+</feed>

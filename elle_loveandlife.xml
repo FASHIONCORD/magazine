@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 17:42:06 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[휴가 계획은 지금부터! 6월에 풀리는 국내 여행 할인 정보 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77781</link>
-            <guid>https://www.elle.co.kr/article/77781</guid>
-            <pubDate>Wed, 31 May 2023 17:42:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/b59ea290-3719-4711-a712-ceed1c95f2b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월엔 여름꽃 구경! 보랏빛 물결 가득한 전국 라벤더 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/77763</link>
-            <guid>https://www.elle.co.kr/article/77763</guid>
-            <pubDate>Sat, 27 May 2023 17:41:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/3dc44142-fc32-41ba-bae1-2e9714d25e31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산뜻한 월남쌈에 후식은 소프트콘! 시원한 여름을 담은 성수동 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/77748</link>
-            <guid>https://www.elle.co.kr/article/77748</guid>
-            <pubDate>Fri, 26 May 2023 17:41:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/7c369630-36ea-4b4b-91e2-10f45094fc0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
-            <link>https://www.elle.co.kr/article/77737</link>
-            <guid>https://www.elle.co.kr/article/77737</guid>
-            <pubDate>Fri, 26 May 2023 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[세 끼 맛있게 먹어도 살이 빠지는 윤은혜의 10일 다이어트 식단으로 여름을 준비해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/96f3282c-1f10-4170-a51a-691b2bf70720.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해엔 여기! 지금 뜨는 여행지 4]]></title>
-            <link>https://www.elle.co.kr/article/77736</link>
-            <guid>https://www.elle.co.kr/article/77736</guid>
-            <pubDate>Thu, 25 May 2023 17:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[나만의 낙원을 찾아 떠나고 싶다면, 약간의 모험심이 준비됐다면 올해는 이곳이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/419dd318-66fe-4fe8-8b88-fefac31b638b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄 밖에 안 가본 사람의 도쿄 호캉스]]></title>
-            <link>https://www.elle.co.kr/article/77073</link>
-            <guid>https://www.elle.co.kr/article/77073</guid>
-            <pubDate>Tue, 23 May 2023 17:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[엔데믹 이후 더 빠르게 돌아가는 세상의 시계, 그저 멈췄다 가고 싶다면.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/61a1f45c-e9db-4d51-80d6-c87d452889c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몰디브에 기대하는 모든 게 이곳에! 조알리 리조트]]></title>
-            <link>https://www.elle.co.kr/article/77072</link>
-            <guid>https://www.elle.co.kr/article/77072</guid>
-            <pubDate>Tue, 23 May 2023 17:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[브라이빗 비치, 코앞에 펼쳐진 바다, 낮의 열기를 시원하게 날려버릴 술과 음악까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/fcfd37bd-78c2-4ba0-b52e-d7755d9c477d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유럽 여행을 계획중이라면 당장 클릭! 아이비의 여행 필수템 대방출 6]]></title>
-            <link>https://www.elle.co.kr/article/77705</link>
-            <guid>https://www.elle.co.kr/article/77705</guid>
-            <pubDate>Tue, 23 May 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[유럽으로 혼자 여행을 떠나기 전 아이비가 캐리어에 챙기는 실용적인 아이템을 직접 공개합니다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/35c7cd35-2a64-4f82-a04c-f1bfbde5920e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-06-02T05:42:13.502Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이볼부터 숙성회까지! 스타가 방문한 이자카야 3]]></title>
+        <id>https://www.elle.co.kr/article/77897</id>
+        <link href="https://www.elle.co.kr/article/77897"/>
+        <updated>2023-06-02T05:42:01.944Z</updated>
+        <content type="html"><![CDATA[강민경이 인생 하이볼을 맛본 이자카야와 효민이 먹부림을 부린 프라이빗 선술집 등 일본 감성을...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸꾸옥에서 나는 몇살쯤일까?]]></title>
+        <id>https://www.elle.co.kr/article/77079</id>
+        <link href="https://www.elle.co.kr/article/77079"/>
+        <updated>2023-06-02T05:42:01.946Z</updated>
+        <content type="html"><![CDATA[에메랄드빛 바다, 그보다 더 알록달록 빛나는 푸꾸옥이란 세계.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴가 계획은 지금부터! 6월에 풀리는 국내 여행 할인 정보 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/77781</id>
+        <link href="https://www.elle.co.kr/article/77781"/>
+        <updated>2023-05-31T17:42:24.185Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6월엔 여름꽃 구경! 보랏빛 물결 가득한 전국 라벤더 명소 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/77763</id>
+        <link href="https://www.elle.co.kr/article/77763"/>
+        <updated>2023-05-27T17:41:16.344Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산뜻한 월남쌈에 후식은 소프트콘! 시원한 여름을 담은 성수동 #신상맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/77748</id>
+        <link href="https://www.elle.co.kr/article/77748"/>
+        <updated>2023-05-26T17:41:06.379Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
+        <id>https://www.elle.co.kr/article/77737</id>
+        <link href="https://www.elle.co.kr/article/77737"/>
+        <updated>2023-05-26T05:41:36.131Z</updated>
+        <content type="html"><![CDATA[세 끼 맛있게 먹어도 살이 빠지는 윤은혜의 10일 다이어트 식단으로 여름을 준비해보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해엔 여기! 지금 뜨는 여행지 4]]></title>
+        <id>https://www.elle.co.kr/article/77736</id>
+        <link href="https://www.elle.co.kr/article/77736"/>
+        <updated>2023-05-25T17:42:06.716Z</updated>
+        <content type="html"><![CDATA[나만의 낙원을 찾아 떠나고 싶다면, 약간의 모험심이 준비됐다면 올해는 이곳이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도쿄 밖에 안 가본 사람의 도쿄 호캉스]]></title>
+        <id>https://www.elle.co.kr/article/77073</id>
+        <link href="https://www.elle.co.kr/article/77073"/>
+        <updated>2023-05-23T17:41:43.634Z</updated>
+        <content type="html"><![CDATA[엔데믹 이후 더 빠르게 돌아가는 세상의 시계, 그저 멈췄다 가고 싶다면.]]></content>
+    </entry>
+</feed>
