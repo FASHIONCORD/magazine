@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-06-02T05:42:13.502Z</updated>
+    <updated>2023-06-02T17:42:28.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3]]></title>
+        <id>https://www.elle.co.kr/article/78073</id>
+        <link href="https://www.elle.co.kr/article/78073"/>
+        <updated>2023-06-02T17:42:17.389Z</updated>
+        <content type="html"><![CDATA[이혜영이 다녀온 노을 뷰 와인 바부터 맛으로 아이비를 황홀하게 만든 레스토랑까지 소개합니다....]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무더운 여름, 위스키 한 잔과 LP 음악으로 사색에 빠질 시간! 성수동-성북동-상수동 #신상맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/78021</id>
+        <link href="https://www.elle.co.kr/article/78021"/>
+        <updated>2023-06-02T17:42:17.389Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상하이에서 지금 가장 핫한 전시, '구찌 코스모스']]></title>
+        <id>https://www.elle.co.kr/article/77853</id>
+        <link href="https://www.elle.co.kr/article/77853"/>
+        <updated>2023-06-02T17:42:17.394Z</updated>
+        <content type="html"><![CDATA[102년간 차곡차곡 쌓인 역사는 하나의 우주가 된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울을 BTS 보랏빛으로 물들이는 축제가 있다?! 6월 이색 페스티벌 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/77910</id>
+        <link href="https://www.elle.co.kr/article/77910"/>
+        <updated>2023-06-02T17:42:17.396Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이볼부터 숙성회까지! 스타가 방문한 이자카야 3]]></title>
         <id>https://www.elle.co.kr/article/77897</id>
@@ -30,32 +56,5 @@
         <id>https://www.elle.co.kr/article/77763</id>
         <link href="https://www.elle.co.kr/article/77763"/>
         <updated>2023-05-27T17:41:16.344Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산뜻한 월남쌈에 후식은 소프트콘! 시원한 여름을 담은 성수동 #신상맛집 3]]></title>
-        <id>https://www.elle.co.kr/article/77748</id>
-        <link href="https://www.elle.co.kr/article/77748"/>
-        <updated>2023-05-26T17:41:06.379Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식단이 이렇게 다채로울 수 있다고? 윤은혜의 맛있는 다이어트 레서피]]></title>
-        <id>https://www.elle.co.kr/article/77737</id>
-        <link href="https://www.elle.co.kr/article/77737"/>
-        <updated>2023-05-26T05:41:36.131Z</updated>
-        <content type="html"><![CDATA[세 끼 맛있게 먹어도 살이 빠지는 윤은혜의 10일 다이어트 식단으로 여름을 준비해보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해엔 여기! 지금 뜨는 여행지 4]]></title>
-        <id>https://www.elle.co.kr/article/77736</id>
-        <link href="https://www.elle.co.kr/article/77736"/>
-        <updated>2023-05-25T17:42:06.716Z</updated>
-        <content type="html"><![CDATA[나만의 낙원을 찾아 떠나고 싶다면, 약간의 모험심이 준비됐다면 올해는 이곳이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄 밖에 안 가본 사람의 도쿄 호캉스]]></title>
-        <id>https://www.elle.co.kr/article/77073</id>
-        <link href="https://www.elle.co.kr/article/77073"/>
-        <updated>2023-05-23T17:41:43.634Z</updated>
-        <content type="html"><![CDATA[엔데믹 이후 더 빠르게 돌아가는 세상의 시계, 그저 멈췄다 가고 싶다면.]]></content>
     </entry>
 </feed>

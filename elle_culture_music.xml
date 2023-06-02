@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 05:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 17:42:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 해외 머글들이 뉴진스와 피프티피프티의 노래를 듣게 된 걸까?]]></title>
+            <link>https://www.elle.co.kr/article/78082</link>
+            <guid>https://www.elle.co.kr/article/78082</guid>
+            <pubDate>Fri, 02 Jun 2023 17:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[스포티파이와 빌보드핫100 에서 써내려가고 있는 K팝 아티스트들의 놀라운 기록. K팝은 이제 '듣...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/27a14e91-6cf9-401c-bd4b-b3db8a0d8279.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 부활한 락 페스티벌과 혼네, 샘 스미스 내한까지! 2023 공연 라인업.list]]></title>
+            <link>https://www.elle.co.kr/article/78098</link>
+            <guid>https://www.elle.co.kr/article/78098</guid>
+            <pubDate>Fri, 02 Jun 2023 17:41:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/7e0132ae-5c89-415b-88fd-123455d4221e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
             <link>https://www.elle.co.kr/article/77968</link>
@@ -28,14 +43,12 @@
             <guid>https://www.elle.co.kr/article/77654</guid>
             <pubDate>Thu, 18 May 2023 17:40:47 GMT</pubDate>
             <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/189dcdb8-f7aa-4dc5-84b9-69275381f371.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선]]></title>
             <link>https://www.elle.co.kr/article/77457</link>
             <guid>https://www.elle.co.kr/article/77457</guid>
             <pubDate>Wed, 10 May 2023 17:43:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/462c20c4-a29d-464c-879a-52331192f17f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구찌가 디자인한 바이닐의 가격은? 켄드릭 라마의 특별한 한정판 바이닐 비주얼.jpg]]></title>
@@ -84,18 +97,6 @@
             <guid>https://www.elle.co.kr/article/76493</guid>
             <pubDate>Wed, 05 Apr 2023 17:41:27 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[따사로운 봄기운 물씬! 감성 아티스트 총출동한 2023 뮤직 페스티벌 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/76459</link>
-            <guid>https://www.elle.co.kr/article/76459</guid>
-            <pubDate>Tue, 04 Apr 2023 17:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[첫 솔로앨범 낸 BTS 지민, 美 '지미 팰런쇼' 뜨겁게 달군 한 마디는? (ft.최애 별명)]]></title>
-            <link>https://www.elle.co.kr/article/76129</link>
-            <guid>https://www.elle.co.kr/article/76129</guid>
-            <pubDate>Fri, 24 Mar 2023 17:41:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
