@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-06-03T05:42:26.312Z</updated>
+    <updated>2023-06-03T17:42:06.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름엔 향수 대신 이거!]]></title>
+        <id>https://www.elle.co.kr/article/78030</id>
+        <link href="https://www.elle.co.kr/article/78030"/>
+        <updated>2023-06-03T17:40:37.367Z</updated>
+        <content type="html"><![CDATA[여름철, 진한 향수 대신 온몸에 은은한 향기를 입혀줄 ‘꾸안꾸’ 여름 향기템 7]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지성미부터 퇴폐미까지, ‘블루 드 샤넬’의 남자 티모시 샬라메]]></title>
         <id>https://www.elle.co.kr/article/78024</id>
@@ -51,12 +58,5 @@
         <id>https://www.elle.co.kr/article/77866</id>
         <link href="https://www.elle.co.kr/article/77866"/>
         <updated>2023-05-31T17:41:21.141Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다가오는 여름, 투명한 피부를 원한다면? 에트셀 멜라토닉 케어]]></title>
-        <id>https://www.elle.co.kr/article/77659</id>
-        <link href="https://www.elle.co.kr/article/77659"/>
-        <updated>2023-05-30T05:40:46.832Z</updated>
-        <content type="html"><![CDATA[뜨거운 여름 볕에 칙칙해진 안색 때문에 고민이라면 효과 좋은 미백 제품을 선택할 것! 디마르...]]></content>
     </entry>
 </feed>
