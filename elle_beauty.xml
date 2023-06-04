@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-06-04T05:42:51.947Z</updated>
+    <updated>2023-06-04T17:41:05.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 지수와 함께한 미스 디올 전시]]></title>
+        <id>https://www.elle.co.kr/article/78054</id>
+        <link href="https://www.elle.co.kr/article/78054"/>
+        <updated>2023-06-04T17:39:59.544Z</updated>
+        <content type="html"><![CDATA[꽃과 예술에 대한 향기로운 이야기를 전하는 ‘미스 디올 서울 전시&amp;팝업’]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름엔 향수 대신 이거!]]></title>
         <id>https://www.elle.co.kr/article/78030</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/77900"/>
         <updated>2023-05-31T17:41:21.135Z</updated>
         <content type="html"><![CDATA[시티포레스티벌 2023. 윤성빈, 서준맘과 장은실, 강하나, 김혜선의 클래스를 듣는 즐거움!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜소하다고 놀림 받았다는 마동석, 점점 우람해지는 팔뚝의 비결은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/77866</id>
-        <link href="https://www.elle.co.kr/article/77866"/>
-        <updated>2023-05-31T17:41:21.141Z</updated>
     </entry>
 </feed>
