@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-05T05:41:14.505Z</updated>
+    <updated>2023-06-05T17:42:49.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뻔한 메이크업에 질렸다면? 스타들의 컬러플 아이 메이크업 5]]></title>
+        <id>https://www.elle.co.kr/article/78119</id>
+        <link href="https://www.elle.co.kr/article/78119"/>
+        <updated>2023-06-05T17:41:23.041Z</updated>
+        <content type="html"><![CDATA[컬러 아이라이너 사용법부터 형형색색의 아이섀도우까지! 스타들의 독특한 아이 메이크업을 확인해...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울에서 열린 루이 비통 쇼에서 만난 뉴진스 혜인]]></title>
+        <id>https://www.elle.co.kr/article/78118</id>
+        <link href="https://www.elle.co.kr/article/78118"/>
+        <updated>2023-06-05T17:41:23.043Z</updated>
+        <content type="html"><![CDATA[서울에서 열린 첫 번째 루이 비통 쇼, 2023 프리폴 컬렉션에 뉴진스 혜인이 참석했다. 뜨거운 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 자체로 재밌다고 소문난 ‘자우림, 더 원더랜드’]]></title>
+        <id>https://www.elle.co.kr/article/78113</id>
+        <link href="https://www.elle.co.kr/article/78113"/>
+        <updated>2023-06-05T17:41:23.051Z</updated>
+        <content type="html"><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 하이틴 영화 속 퀸카 그 자체! 요즘 여자 아이돌 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/78110</id>
+        <link href="https://www.elle.co.kr/article/78110"/>
+        <updated>2023-06-05T17:41:23.066Z</updated>
+        <content type="html"><![CDATA[(여자)아이들부터 에스파와 아이브, 스테이씨까지! 하이틴 영화 속 퀸카 같은 요즘 ‘여돌’ 스타...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체?]]></title>
+        <id>https://www.elle.co.kr/article/78102</id>
+        <link href="https://www.elle.co.kr/article/78102"/>
+        <updated>2023-06-05T17:41:23.066Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흰 티에 청바지, 센스 있게 입어볼까?]]></title>
         <id>https://www.elle.co.kr/article/78101</id>
@@ -24,36 +58,5 @@
         <link href="https://www.elle.co.kr/article/78078"/>
         <updated>2023-06-04T05:40:18.341Z</updated>
         <content type="html"><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3]]></title>
-        <id>https://www.elle.co.kr/article/78073</id>
-        <link href="https://www.elle.co.kr/article/78073"/>
-        <updated>2023-06-04T05:40:18.344Z</updated>
-        <content type="html"><![CDATA[이혜영이 다녀온 노을 뷰 와인 바부터 맛으로 아이비를 황홀하게 만든 레스토랑까지 소개합니다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리, 지하철서 만난 팬 '손편지'에 하트로 화답? (ft.근황 모음)]]></title>
-        <id>https://www.elle.co.kr/article/78070</id>
-        <link href="https://www.elle.co.kr/article/78070"/>
-        <updated>2023-06-03T05:40:56.300Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소유진, 남편 백종원 요리 실력에도 '슬림한' 체형 유지하는 비결은 바로 이것? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/78069</id>
-        <link href="https://www.elle.co.kr/article/78069"/>
-        <updated>2023-06-03T05:40:56.301Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사상 세 번째 국방부 유해발굴감식단 홍보대사 된 RM의 늠름 그 자체 소감.txt]]></title>
-        <id>https://www.elle.co.kr/article/78066</id>
-        <link href="https://www.elle.co.kr/article/78066"/>
-        <updated>2023-06-02T17:40:59.531Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김연경이 한국 최초 여성 IOC 위원에 도전한다 (ft. 경쟁 선수들)]]></title>
-        <id>https://www.elle.co.kr/article/78062</id>
-        <link href="https://www.elle.co.kr/article/78062"/>
-        <updated>2023-06-02T05:40:26.713Z</updated>
     </entry>
 </feed>

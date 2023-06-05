@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-06-05T05:41:14.525Z</updated>
+    <updated>2023-06-05T17:42:49.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유연석 컴백부터 안효섭X이성경의 단짠 로맨스까지! '낭만닥터 김사부3' 인기 요인 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/78134</id>
+        <link href="https://www.elle.co.kr/article/78134"/>
+        <updated>2023-06-05T17:41:55.822Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 자체로 재밌다고 소문난 ‘자우림, 더 원더랜드’]]></title>
         <id>https://www.elle.co.kr/article/78113</id>
@@ -81,11 +87,5 @@
         <id>https://www.elle.co.kr/article/77729</id>
         <link href="https://www.elle.co.kr/article/77729"/>
         <updated>2023-05-22T17:40:58.413Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿀잼은 국적을 가리지 않는다! 일본에 수출한 '환승연애' 리메이크판 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/77645</id>
-        <link href="https://www.elle.co.kr/article/77645"/>
-        <updated>2023-05-18T17:40:56.215Z</updated>
     </entry>
 </feed>
