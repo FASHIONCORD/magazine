@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 05:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 17:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체?]]></title>
+            <link>https://www.elle.co.kr/article/78102</link>
+            <guid>https://www.elle.co.kr/article/78102</guid>
+            <pubDate>Tue, 06 Jun 2023 17:40:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/5af70eec-a929-4935-8da0-4b57b669d187.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왜 해외 머글들이 뉴진스와 피프티피프티의 노래를 듣게 된 걸까?]]></title>
             <link>https://www.elle.co.kr/article/78082</link>
@@ -59,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/78028</guid>
             <pubDate>Fri, 02 Jun 2023 17:41:21 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/8dc0b476-6467-49c6-b43e-d01c35aa0ef2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
-            <link>https://www.elle.co.kr/article/77968</link>
-            <guid>https://www.elle.co.kr/article/77968</guid>
-            <pubDate>Fri, 02 Jun 2023 05:40:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/1fe318ea-2eb8-4712-b9a5-30c7047b995b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
