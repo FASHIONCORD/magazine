@@ -1,60 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/loveandlife</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-06-05T17:42:49.727Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3]]></title>
-        <id>https://www.elle.co.kr/article/78073</id>
-        <link href="https://www.elle.co.kr/article/78073"/>
-        <updated>2023-06-02T17:42:17.389Z</updated>
-        <content type="html"><![CDATA[이혜영이 다녀온 노을 뷰 와인 바부터 맛으로 아이비를 황홀하게 만든 레스토랑까지 소개합니다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무더운 여름, 위스키 한 잔과 LP 음악으로 사색에 빠질 시간! 성수동-성북동-상수동 #신상맛집 3]]></title>
-        <id>https://www.elle.co.kr/article/78021</id>
-        <link href="https://www.elle.co.kr/article/78021"/>
-        <updated>2023-06-02T17:42:17.389Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상하이에서 지금 가장 핫한 전시, '구찌 코스모스']]></title>
-        <id>https://www.elle.co.kr/article/77853</id>
-        <link href="https://www.elle.co.kr/article/77853"/>
-        <updated>2023-06-02T17:42:17.394Z</updated>
-        <content type="html"><![CDATA[102년간 차곡차곡 쌓인 역사는 하나의 우주가 된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울을 BTS 보랏빛으로 물들이는 축제가 있다?! 6월 이색 페스티벌 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/77910</id>
-        <link href="https://www.elle.co.kr/article/77910"/>
-        <updated>2023-06-02T17:42:17.396Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이볼부터 숙성회까지! 스타가 방문한 이자카야 3]]></title>
-        <id>https://www.elle.co.kr/article/77897</id>
-        <link href="https://www.elle.co.kr/article/77897"/>
-        <updated>2023-06-02T05:42:01.944Z</updated>
-        <content type="html"><![CDATA[강민경이 인생 하이볼을 맛본 이자카야와 효민이 먹부림을 부린 프라이빗 선술집 등 일본 감성을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸꾸옥에서 나는 몇살쯤일까?]]></title>
-        <id>https://www.elle.co.kr/article/77079</id>
-        <link href="https://www.elle.co.kr/article/77079"/>
-        <updated>2023-06-02T05:42:01.946Z</updated>
-        <content type="html"><![CDATA[에메랄드빛 바다, 그보다 더 알록달록 빛나는 푸꾸옥이란 세계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴가 계획은 지금부터! 6월에 풀리는 국내 여행 할인 정보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/77781</id>
-        <link href="https://www.elle.co.kr/article/77781"/>
-        <updated>2023-05-31T17:42:24.185Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월엔 여름꽃 구경! 보랏빛 물결 가득한 전국 라벤더 명소 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/77763</id>
-        <link href="https://www.elle.co.kr/article/77763"/>
-        <updated>2023-05-27T17:41:16.344Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 06 Jun 2023 05:41:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3만원대 비건 한식 레스토랑을 가봤다 #무해한삶_2]]></title>
+            <link>https://www.elle.co.kr/article/78075</link>
+            <guid>https://www.elle.co.kr/article/78075</guid>
+            <pubDate>Tue, 06 Jun 2023 05:41:34 GMT</pubDate>
+            <content:encoded><![CDATA[기념일에 가기 좋은 비건 한식 레스토랑과 플라스틱 지옥에서 구원할 간이 정수기 추천]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/2ea83f7c-7893-4573-8499-34f97a9f367d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3]]></title>
+            <link>https://www.elle.co.kr/article/78073</link>
+            <guid>https://www.elle.co.kr/article/78073</guid>
+            <pubDate>Fri, 02 Jun 2023 17:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[이혜영이 다녀온 노을 뷰 와인 바부터 맛으로 아이비를 황홀하게 만든 레스토랑까지 소개합니다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/0acb8f4e-e61a-4183-a921-f18c3c3c8265.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무더운 여름, 위스키 한 잔과 LP 음악으로 사색에 빠질 시간! 성수동-성북동-상수동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/78021</link>
+            <guid>https://www.elle.co.kr/article/78021</guid>
+            <pubDate>Fri, 02 Jun 2023 17:42:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/4df84ee0-abac-46ab-a0b5-c346f5f19dfc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상하이에서 지금 가장 핫한 전시, '구찌 코스모스']]></title>
+            <link>https://www.elle.co.kr/article/77853</link>
+            <guid>https://www.elle.co.kr/article/77853</guid>
+            <pubDate>Fri, 02 Jun 2023 17:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[102년간 차곡차곡 쌓인 역사는 하나의 우주가 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/dbe36bfb-ce50-4b21-b096-008b80d67a47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울을 BTS 보랏빛으로 물들이는 축제가 있다?! 6월 이색 페스티벌 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/77910</link>
+            <guid>https://www.elle.co.kr/article/77910</guid>
+            <pubDate>Fri, 02 Jun 2023 17:42:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/16ea4684-2470-4aa6-b98c-b68997644390.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이볼부터 숙성회까지! 스타가 방문한 이자카야 3]]></title>
+            <link>https://www.elle.co.kr/article/77897</link>
+            <guid>https://www.elle.co.kr/article/77897</guid>
+            <pubDate>Fri, 02 Jun 2023 05:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[강민경이 인생 하이볼을 맛본 이자카야와 효민이 먹부림을 부린 프라이빗 선술집 등 일본 감성을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/c40f8799-2c4e-4095-b01e-5100356222aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸꾸옥에서 나는 몇살쯤일까?]]></title>
+            <link>https://www.elle.co.kr/article/77079</link>
+            <guid>https://www.elle.co.kr/article/77079</guid>
+            <pubDate>Fri, 02 Jun 2023 05:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[에메랄드빛 바다, 그보다 더 알록달록 빛나는 푸꾸옥이란 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/d4d144a0-4728-4bbc-9065-618f8e06b762.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴가 계획은 지금부터! 6월에 풀리는 국내 여행 할인 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/77781</link>
+            <guid>https://www.elle.co.kr/article/77781</guid>
+            <pubDate>Wed, 31 May 2023 17:42:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/b59ea290-3719-4711-a712-ceed1c95f2b3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

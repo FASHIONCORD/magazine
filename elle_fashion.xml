@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-05T17:42:49.734Z</updated>
+    <updated>2023-06-06T05:41:44.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코첼라를 강타한 셀럽들의 페스티벌 룩]]></title>
+        <id>https://www.elle.co.kr/article/78080</id>
+        <link href="https://www.elle.co.kr/article/78080"/>
+        <updated>2023-06-06T05:39:58.651Z</updated>
+        <content type="html"><![CDATA[뜨거운 사막 위에 펼쳐진 강렬한 존재감.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젊은 디렉터에게 빠른 작별을 고하는 브랜드, 그 후 앤 드뮐미스터와 발리의 새 얼굴들]]></title>
         <id>https://www.elle.co.kr/article/78097</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78001"/>
         <updated>2023-06-02T05:39:56.960Z</updated>
         <content type="html"><![CDATA[단조로운 여름 데일리 룩에 변화를 주고 싶다면? 상큼발랄한 오버롤 팬츠에 도전해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화적인 순간이 담긴 샤넬 2023/2024 크루즈 컬렉션]]></title>
-        <id>https://www.elle.co.kr/article/77992</id>
-        <link href="https://www.elle.co.kr/article/77992"/>
-        <updated>2023-06-01T05:40:25.205Z</updated>
-        <content type="html"><![CDATA[역동적인 도시 로스앤젤레스의 자유를 담은 샤넬의 꿈 같은 장면들.]]></content>
     </entry>
 </feed>
