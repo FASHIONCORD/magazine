@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 05:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 17:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커피 못 마시는 사람들을 위한 논커피 음료 맛집 2 #마실마실]]></title>
+            <link>https://www.elle.co.kr/article/78093</link>
+            <guid>https://www.elle.co.kr/article/78093</guid>
+            <pubDate>Wed, 07 Jun 2023 17:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[메뉴판 구석에 자리잡은 논커피가 아냐! 논커피 중심의 음료 가게와 티 카페를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/7218633f-7eee-4a2f-bad9-9aaa902466bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3만원대 비건 한식 레스토랑을 가봤다 #무해한삶_2]]></title>
             <link>https://www.elle.co.kr/article/78075</link>
@@ -60,13 +68,6 @@
             <pubDate>Fri, 02 Jun 2023 05:42:01 GMT</pubDate>
             <content:encoded><![CDATA[에메랄드빛 바다, 그보다 더 알록달록 빛나는 푸꾸옥이란 세계.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/d4d144a0-4728-4bbc-9065-618f8e06b762.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴가 계획은 지금부터! 6월에 풀리는 국내 여행 할인 정보 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/77781</link>
-            <guid>https://www.elle.co.kr/article/77781</guid>
-            <pubDate>Wed, 31 May 2023 17:42:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/b59ea290-3719-4711-a712-ceed1c95f2b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

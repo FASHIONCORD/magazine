@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 05:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 17:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’]]></title>
+            <link>https://www.elle.co.kr/article/78194</link>
+            <guid>https://www.elle.co.kr/article/78194</guid>
+            <pubDate>Wed, 07 Jun 2023 17:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[헤드셋이 아닌 컴퓨터라고 불러주세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d751c85b-8ab9-4b7f-bf56-443aee21d033.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왜 해외 머글들이 뉴진스와 피프티피프티의 노래를 듣게 된 걸까?]]></title>
             <link>https://www.elle.co.kr/article/78082</link>
@@ -35,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/77909</guid>
             <pubDate>Fri, 26 May 2023 17:40:33 GMT</pubDate>
             <content:encoded><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/26/b515b5da-b4b6-4253-9604-e555d7eae095.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
@@ -90,13 +97,6 @@
             <guid>https://www.elle.co.kr/article/76654</guid>
             <pubDate>Thu, 13 Apr 2023 17:40:53 GMT</pubDate>
             <content:encoded><![CDATA[시티 포레스티벌 2023의 티켓 판매는 오늘부터.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김윤아! 10CM! 카더가든! 라이브 밴드가 4만원대에 한강에서? '엘르 스테이지 콘서트']]></title>
-            <link>https://www.elle.co.kr/article/76493</link>
-            <guid>https://www.elle.co.kr/article/76493</guid>
-            <pubDate>Wed, 05 Apr 2023 17:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르 스테이지 콘서트&gt;가 5월 20일, 노을이 지는 한강 노들섬에서 김윤아, 10CM, 카더가든의 ...]]></content:encoded>
         </item>
     </channel>
 </rss>
