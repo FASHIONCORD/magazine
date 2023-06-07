@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-06T17:41:16.772Z</updated>
+    <updated>2023-06-07T05:42:25.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도쿄에서 만난 제니와 샤넬]]></title>
+        <id>https://www.elle.co.kr/article/78143</id>
+        <link href="https://www.elle.co.kr/article/78143"/>
+        <updated>2023-06-07T05:41:14.280Z</updated>
+        <content type="html"><![CDATA[지난 12월 세네갈 다카르에서 선보인 샤넬의 2022/23 공방 컬렉션이 6월 1일 도쿄 빅사이트에서...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숨길 수 없는 조현아]]></title>
+        <id>https://www.elle.co.kr/article/78137</id>
+        <link href="https://www.elle.co.kr/article/78137"/>
+        <updated>2023-06-07T05:41:14.282Z</updated>
+        <content type="html"><![CDATA[단어 하나에 공감하며 눈물 흘리고, 친구 고민 들어주느라 10시간 통화하는 조현아. 솔직한 그가...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군대에서 아빠 되는 차서원! 엄현경과의 결혼-임신 시그널 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/78132</id>
@@ -45,18 +59,5 @@
         <link href="https://www.elle.co.kr/article/78110"/>
         <updated>2023-06-05T17:41:23.066Z</updated>
         <content type="html"><![CDATA[(여자)아이들부터 에스파와 아이브, 스테이씨까지! 하이틴 영화 속 퀸카 같은 요즘 ‘여돌’ 스타...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체?]]></title>
-        <id>https://www.elle.co.kr/article/78102</id>
-        <link href="https://www.elle.co.kr/article/78102"/>
-        <updated>2023-06-05T17:41:23.066Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흰 티에 청바지, 센스 있게 입어볼까?]]></title>
-        <id>https://www.elle.co.kr/article/78101</id>
-        <link href="https://www.elle.co.kr/article/78101"/>
-        <updated>2023-06-05T05:40:20.592Z</updated>
-        <content type="html"><![CDATA[심플한데 가장 스타일리시한 패션! 화이트 티셔츠에 데님 팬츠면 충분합니다~]]></content>
     </entry>
 </feed>

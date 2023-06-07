@@ -4,7 +4,7 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 17:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 05:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://www.elle.co.kr/article/78069</link>
             <guid>https://www.elle.co.kr/article/78069</guid>
             <pubDate>Mon, 05 Jun 2023 05:40:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/b249fca6-88ed-4bad-b863-fcc479079be0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빈틈없는 한겹 커버로 완성하는 매끈 결광 깐 달걀 피부]]></title>
@@ -19,6 +20,7 @@
             <guid>https://www.elle.co.kr/article/77798</guid>
             <pubDate>Mon, 05 Jun 2023 05:40:12 GMT</pubDate>
             <content:encoded><![CDATA[오후만 되면 무너지는 베이스가 고민이라면 프레시안 ‘에그라이크 쿠션’을 주목할 것. 얇고 촘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/05947e50-3655-4e47-8b31-383253352c3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크 지수와 함께한 미스 디올 전시]]></title>
