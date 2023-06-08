@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-07T17:41:12.909Z</updated>
+    <updated>2023-06-08T05:41:33.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프린세스 미연의 핑크 유니버스]]></title>
+        <id>https://www.elle.co.kr/article/78167</id>
+        <link href="https://www.elle.co.kr/article/78167"/>
+        <updated>2023-06-08T05:40:22.206Z</updated>
+        <content type="html"><![CDATA[미연, 질스튜어트 뷰티의 향기에 둘러싸인 채 뽐내던 공주 아우라.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10CM와 부동의 첫사랑]]></title>
+        <id>https://www.elle.co.kr/article/78158</id>
+        <link href="https://www.elle.co.kr/article/78158"/>
+        <updated>2023-06-08T05:40:22.208Z</updated>
+        <content type="html"><![CDATA[누군가의 이야기를 오래 귀담아 듣는 것, 그들의 시선에 맞춰 노래를 짓는 10CM의 노력, 그렇...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이템 하나로 멋진 여름 데일리 룩을 즐기고 싶다면! #프린트티셔츠]]></title>
+        <id>https://www.elle.co.kr/article/78154</id>
+        <link href="https://www.elle.co.kr/article/78154"/>
+        <updated>2023-06-08T05:40:22.210Z</updated>
+        <content type="html"><![CDATA[슬기부터 태연까지, 프린트 티셔츠를 입고 스타일리시한 아웃핏을 완성한 스타들.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일주일 만에 피부 톤이 달라진다고? 윤은혜가 공개한 '가성비' 피부관리 꿀팁]]></title>
         <id>https://www.elle.co.kr/article/78150</id>
@@ -37,26 +58,5 @@
         <link href="https://www.elle.co.kr/article/78127"/>
         <updated>2023-06-06T05:40:24.474Z</updated>
         <content type="html"><![CDATA[늙어가는 몸은 자신에게도 낯선 존재다. 시인 신달자가 팔순에야 비로소 기록한 몸의 말, 그 낱...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뻔한 메이크업에 질렸다면? 스타들의 컬러플 아이 메이크업 5]]></title>
-        <id>https://www.elle.co.kr/article/78119</id>
-        <link href="https://www.elle.co.kr/article/78119"/>
-        <updated>2023-06-05T17:41:23.041Z</updated>
-        <content type="html"><![CDATA[컬러 아이라이너 사용법부터 형형색색의 아이섀도우까지! 스타들의 독특한 아이 메이크업을 확인해...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울에서 열린 루이 비통 쇼에서 만난 뉴진스 혜인]]></title>
-        <id>https://www.elle.co.kr/article/78118</id>
-        <link href="https://www.elle.co.kr/article/78118"/>
-        <updated>2023-06-05T17:41:23.043Z</updated>
-        <content type="html"><![CDATA[서울에서 열린 첫 번째 루이 비통 쇼, 2023 프리폴 컬렉션에 뉴진스 혜인이 참석했다. 뜨거운 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 자체로 재밌다고 소문난 ‘자우림, 더 원더랜드’]]></title>
-        <id>https://www.elle.co.kr/article/78113</id>
-        <link href="https://www.elle.co.kr/article/78113"/>
-        <updated>2023-06-05T17:41:23.051Z</updated>
-        <content type="html"><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content>
     </entry>
 </feed>

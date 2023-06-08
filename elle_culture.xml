@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 17:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 05:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi]]></title>
+            <link>https://www.elle.co.kr/article/78186</link>
+            <guid>https://www.elle.co.kr/article/78186</guid>
+            <pubDate>Thu, 08 Jun 2023 05:40:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d177a2ae-3357-478d-a7e1-b5c0168350f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아티스트 피에르 샤르팽의 상상하는 본능]]></title>
             <link>https://www.elle.co.kr/article/78166</link>
@@ -60,13 +67,6 @@
             <pubDate>Mon, 05 Jun 2023 17:41:34 GMT</pubDate>
             <content:encoded><![CDATA[스포티파이와 빌보드핫100 에서 써내려가고 있는 K팝 아티스트들의 놀라운 기록. K팝은 이제 '듣...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/385c9062-96c9-4e9d-848c-eabbf0256946.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 부활한 락 페스티벌과 혼네, 샘 스미스 내한까지! 2023 공연 라인업.list]]></title>
-            <link>https://www.elle.co.kr/article/78098</link>
-            <guid>https://www.elle.co.kr/article/78098</guid>
-            <pubDate>Sun, 04 Jun 2023 05:40:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/7e0132ae-5c89-415b-88fd-123455d4221e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
