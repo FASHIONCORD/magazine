@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 05:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 17:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78275</link>
+            <guid>https://www.elle.co.kr/article/78275</guid>
+            <pubDate>Fri, 09 Jun 2023 17:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/07964b0e-701f-47c6-8e5c-4966243c3834.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi]]></title>
             <link>https://www.elle.co.kr/article/78186</link>
@@ -34,7 +42,6 @@
             <link>https://www.elle.co.kr/article/78102</link>
             <guid>https://www.elle.co.kr/article/78102</guid>
             <pubDate>Sat, 03 Jun 2023 05:41:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/5af70eec-a929-4935-8da0-4b57b669d187.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로!]]></title>
@@ -86,13 +93,6 @@
             <link>https://www.elle.co.kr/article/77788</link>
             <guid>https://www.elle.co.kr/article/77788</guid>
             <pubDate>Wed, 24 May 2023 05:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[제니부터 노윤서까지! 제76회 칸 영화제 속 한국 셀럽들의 빛나는 순간]]></title>
-            <link>https://www.elle.co.kr/article/77782</link>
-            <guid>https://www.elle.co.kr/article/77782</guid>
-            <pubDate>Tue, 23 May 2023 17:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[본격적으로 막이 오른 한국 영화의 시간.]]></content:encoded>
         </item>
     </channel>
 </rss>

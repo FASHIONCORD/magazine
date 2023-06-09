@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-09T05:41:11.335Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[아디오스 라프 시몬스]]></title>
-        <id>https://www.elle.co.kr/article/78164</id>
-        <link href="https://www.elle.co.kr/article/78164"/>
-        <updated>2023-06-08T17:40:45.122Z</updated>
-        <content type="html"><![CDATA[작년 라프 시몬스 추종자들에게 청천벽력 같은 소식이 전해졌다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이템 하나로 멋진 여름 데일리 룩을 즐기고 싶다면! #프린트티셔츠]]></title>
-        <id>https://www.elle.co.kr/article/78154</id>
-        <link href="https://www.elle.co.kr/article/78154"/>
-        <updated>2023-06-08T17:40:45.136Z</updated>
-        <content type="html"><![CDATA[슬기부터 태연까지, 프린트 티셔츠를 입고 스타일리시한 아웃핏을 완성한 스타들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄에서 만난 제니와 샤넬]]></title>
-        <id>https://www.elle.co.kr/article/78143</id>
-        <link href="https://www.elle.co.kr/article/78143"/>
-        <updated>2023-06-08T17:40:45.136Z</updated>
-        <content type="html"><![CDATA[지난 12월 세네갈 다카르에서 선보인 샤넬의 2022/23 공방 컬렉션이 6월 1일 도쿄 빅사이트에서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 하이틴 영화 속 퀸카 그 자체! 요즘 여자 아이돌 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/78110</id>
-        <link href="https://www.elle.co.kr/article/78110"/>
-        <updated>2023-06-07T17:39:56.185Z</updated>
-        <content type="html"><![CDATA[(여자)아이들부터 에스파와 아이브, 스테이씨까지! 하이틴 영화 속 퀸카 같은 요즘 ‘여돌’ 스타...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스프레소와 다이아몬드의 깊고 우아한 시간]]></title>
-        <id>https://www.elle.co.kr/article/77563</id>
-        <link href="https://www.elle.co.kr/article/77563"/>
-        <updated>2023-06-07T05:40:24.936Z</updated>
-        <content type="html"><![CDATA[절제된 아름다움으로 빛나는 다이아몬드와 한 잔의 짙은 에스프레소를 담았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흰 티에 청바지, 센스 있게 입어볼까?]]></title>
-        <id>https://www.elle.co.kr/article/78101</id>
-        <link href="https://www.elle.co.kr/article/78101"/>
-        <updated>2023-06-06T17:39:47.941Z</updated>
-        <content type="html"><![CDATA[심플한데 가장 스타일리시한 패션! 화이트 티셔츠에 데님 팬츠면 충분합니다~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코첼라를 강타한 셀럽들의 페스티벌 룩]]></title>
-        <id>https://www.elle.co.kr/article/78080</id>
-        <link href="https://www.elle.co.kr/article/78080"/>
-        <updated>2023-06-06T05:39:58.651Z</updated>
-        <content type="html"><![CDATA[뜨거운 사막 위에 펼쳐진 강렬한 존재감.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젊은 디렉터에게 빠른 작별을 고하는 브랜드, 그 후 앤 드뮐미스터와 발리의 새 얼굴들]]></title>
-        <id>https://www.elle.co.kr/article/78097</id>
-        <link href="https://www.elle.co.kr/article/78097"/>
-        <updated>2023-06-05T17:40:34.467Z</updated>
-        <content type="html"><![CDATA[빈자리를 채우는 새로운 가능성.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 09 Jun 2023 17:41:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민낯 가림용은 옛말! 안경에 푹 빠진 셀러브리티 5]]></title>
+            <link>https://www.elle.co.kr/article/78168</link>
+            <guid>https://www.elle.co.kr/article/78168</guid>
+            <pubDate>Fri, 09 Jun 2023 17:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[문별, 슈화, 예리 등 패션 센스 좋은 스타들의 안경 스타일링을 모아봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d730748c-878a-442e-a58a-21284f2320c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아디오스 라프 시몬스]]></title>
+            <link>https://www.elle.co.kr/article/78164</link>
+            <guid>https://www.elle.co.kr/article/78164</guid>
+            <pubDate>Thu, 08 Jun 2023 17:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[작년 라프 시몬스 추종자들에게 청천벽력 같은 소식이 전해졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/76b7ad86-6b27-4e98-9aaa-6f6b10a3d973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이템 하나로 멋진 여름 데일리 룩을 즐기고 싶다면! #프린트티셔츠]]></title>
+            <link>https://www.elle.co.kr/article/78154</link>
+            <guid>https://www.elle.co.kr/article/78154</guid>
+            <pubDate>Thu, 08 Jun 2023 17:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[슬기부터 태연까지, 프린트 티셔츠를 입고 스타일리시한 아웃핏을 완성한 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/06/64b4d52d-b164-45b5-949c-3922607add88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도쿄에서 만난 제니와 샤넬]]></title>
+            <link>https://www.elle.co.kr/article/78143</link>
+            <guid>https://www.elle.co.kr/article/78143</guid>
+            <pubDate>Thu, 08 Jun 2023 17:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[지난 12월 세네갈 다카르에서 선보인 샤넬의 2022/23 공방 컬렉션이 6월 1일 도쿄 빅사이트에서...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/9a013169-8409-4d0a-aec5-eeee668ede70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 하이틴 영화 속 퀸카 그 자체! 요즘 여자 아이돌 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78110</link>
+            <guid>https://www.elle.co.kr/article/78110</guid>
+            <pubDate>Wed, 07 Jun 2023 17:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[(여자)아이들부터 에스파와 아이브, 스테이씨까지! 하이틴 영화 속 퀸카 같은 요즘 ‘여돌’ 스타...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/33db6bdc-e4bf-4091-b25e-029930bb3020.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스프레소와 다이아몬드의 깊고 우아한 시간]]></title>
+            <link>https://www.elle.co.kr/article/77563</link>
+            <guid>https://www.elle.co.kr/article/77563</guid>
+            <pubDate>Wed, 07 Jun 2023 05:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[절제된 아름다움으로 빛나는 다이아몬드와 한 잔의 짙은 에스프레소를 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/7b3617fa-a291-478e-ab60-96f67717da6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흰 티에 청바지, 센스 있게 입어볼까?]]></title>
+            <link>https://www.elle.co.kr/article/78101</link>
+            <guid>https://www.elle.co.kr/article/78101</guid>
+            <pubDate>Tue, 06 Jun 2023 17:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[심플한데 가장 스타일리시한 패션! 화이트 티셔츠에 데님 팬츠면 충분합니다~]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/37c1c979-b4de-4cf1-87f5-8c5e5e2cffb6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코첼라를 강타한 셀럽들의 페스티벌 룩]]></title>
+            <link>https://www.elle.co.kr/article/78080</link>
+            <guid>https://www.elle.co.kr/article/78080</guid>
+            <pubDate>Tue, 06 Jun 2023 05:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 사막 위에 펼쳐진 강렬한 존재감.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/7283a609-ddae-4111-8976-de1d6df33114.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-06-09T05:41:11.301Z</updated>
+    <updated>2023-06-09T17:41:17.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’]]></title>
+        <id>https://www.elle.co.kr/article/78194</id>
+        <link href="https://www.elle.co.kr/article/78194"/>
+        <updated>2023-06-09T17:40:25.997Z</updated>
+        <content type="html"><![CDATA[헤드셋이 아닌 컴퓨터라고 불러주세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi]]></title>
         <id>https://www.elle.co.kr/article/78186</id>
@@ -50,12 +57,5 @@
         <id>https://www.elle.co.kr/article/78102</id>
         <link href="https://www.elle.co.kr/article/78102"/>
         <updated>2023-06-06T17:40:21.934Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 해외 머글들이 뉴진스와 피프티피프티의 노래를 듣게 된 걸까?]]></title>
-        <id>https://www.elle.co.kr/article/78082</id>
-        <link href="https://www.elle.co.kr/article/78082"/>
-        <updated>2023-06-05T17:41:34.618Z</updated>
-        <content type="html"><![CDATA[스포티파이와 빌보드핫100 에서 써내려가고 있는 K팝 아티스트들의 놀라운 기록. K팝은 이제 '듣...]]></content>
     </entry>
 </feed>
