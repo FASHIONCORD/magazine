@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-06-11T05:41:38.102Z</updated>
+    <updated>2023-06-11T17:42:02.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[17살에 받아 평생 쓰는 주민등록증, 이제 재발급 필수? 변경 예정인 신분증 정책]]></title>
+        <id>https://www.elle.co.kr/article/78203</id>
+        <link href="https://www.elle.co.kr/article/78203"/>
+        <updated>2023-06-11T17:42:01.718Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’]]></title>
         <id>https://www.elle.co.kr/article/78194</id>
@@ -48,12 +54,5 @@
         <id>https://www.elle.co.kr/article/77990</id>
         <link href="https://www.elle.co.kr/article/77990"/>
         <updated>2023-06-05T17:42:48.651Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 늦둥이 워킹맘이 창업에 도전하게 된 이유는? 내 아이들과 내 일이 교차하는 미래]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/77944</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/77944"/>
-        <updated>2023-06-02T17:42:27.735Z</updated>
-        <content type="html"><![CDATA[삼성물산 최연소 임원이 창업에 도전하게 된 이유?]]></content>
     </entry>
 </feed>

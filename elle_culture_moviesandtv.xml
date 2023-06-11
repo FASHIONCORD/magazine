@@ -1,91 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/moviesandtv</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-06-11T05:41:38.109Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/78275</id>
-        <link href="https://www.elle.co.kr/article/78275"/>
-        <updated>2023-06-09T17:40:46.062Z</updated>
-        <content type="html"><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi]]></title>
-        <id>https://www.elle.co.kr/article/78186</id>
-        <link href="https://www.elle.co.kr/article/78186"/>
-        <updated>2023-06-07T17:40:43.925Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석 컴백부터 안효섭X이성경의 단짠 로맨스까지! '낭만닥터 김사부3' 인기 요인 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/78134</id>
-        <link href="https://www.elle.co.kr/article/78134"/>
-        <updated>2023-06-05T17:41:55.822Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 자체로 재밌다고 소문난 ‘자우림, 더 원더랜드’]]></title>
-        <id>https://www.elle.co.kr/article/78113</id>
-        <link href="https://www.elle.co.kr/article/78113"/>
-        <updated>2023-06-04T05:41:20.077Z</updated>
-        <content type="html"><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체?]]></title>
-        <id>https://www.elle.co.kr/article/78102</id>
-        <link href="https://www.elle.co.kr/article/78102"/>
-        <updated>2023-06-03T05:41:28.268Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로!]]></title>
-        <id>https://www.elle.co.kr/article/78078</id>
-        <link href="https://www.elle.co.kr/article/78078"/>
-        <updated>2023-06-02T05:41:26.866Z</updated>
-        <content type="html"><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량)]]></title>
-        <id>https://www.elle.co.kr/article/78028</id>
-        <link href="https://www.elle.co.kr/article/78028"/>
-        <updated>2023-05-31T17:42:03.218Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
-        <id>https://www.elle.co.kr/article/77968</id>
-        <link href="https://www.elle.co.kr/article/77968"/>
-        <updated>2023-05-30T17:41:55.484Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호그와트 교복 한 벌에 무려 2억! 해리 포터부터 배트맨까지, ‘역대급’ 영화 소품 경매 라인업은?]]></title>
-        <id>https://www.elle.co.kr/article/77930</id>
-        <link href="https://www.elle.co.kr/article/77930"/>
-        <updated>2023-05-27T17:40:58.070Z</updated>
-        <content type="html"><![CDATA[최대 160억 원! 전 세계에서 손꼽히는 대규모 영화 소품 경매의 막이 오른다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸바오와 대화할 수 있다면? 이별을 준비하는 강철원 사육사의 뭉클한 진심]]></title>
-        <id>https://www.elle.co.kr/article/77857</id>
-        <link href="https://www.elle.co.kr/article/77857"/>
-        <updated>2023-05-25T05:42:22.338Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷔와 박보검, 리사가 한 자리에! 한국 셀럽들이 칸을 200% 즐기는 방법]]></title>
-        <id>https://www.elle.co.kr/article/77841</id>
-        <link href="https://www.elle.co.kr/article/77841"/>
-        <updated>2023-05-24T17:40:53.882Z</updated>
-        <content type="html"><![CDATA[황홀한 프라이빗 디너와 뜨거운 애프터파티의 향연.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마흔 살 둘리야, 철 들지 말거라": 어른이들 눈물 나게 하는 고길동의 편지.txt]]></title>
-        <id>https://www.elle.co.kr/article/77808</id>
-        <link href="https://www.elle.co.kr/article/77808"/>
-        <updated>2023-05-24T05:40:54.549Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시' 역대 빌런들이 모인 이유는?! 귀한 손석구X이준혁 투샷.jpg]]></title>
-        <id>https://www.elle.co.kr/article/77788</id>
-        <link href="https://www.elle.co.kr/article/77788"/>
-        <updated>2023-05-24T05:40:54.579Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 11 Jun 2023 17:42:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78275</link>
+            <guid>https://www.elle.co.kr/article/78275</guid>
+            <pubDate>Fri, 09 Jun 2023 17:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/07964b0e-701f-47c6-8e5c-4966243c3834.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi]]></title>
+            <link>https://www.elle.co.kr/article/78186</link>
+            <guid>https://www.elle.co.kr/article/78186</guid>
+            <pubDate>Wed, 07 Jun 2023 17:40:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d177a2ae-3357-478d-a7e1-b5c0168350f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유연석 컴백부터 안효섭X이성경의 단짠 로맨스까지! '낭만닥터 김사부3' 인기 요인 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/78134</link>
+            <guid>https://www.elle.co.kr/article/78134</guid>
+            <pubDate>Mon, 05 Jun 2023 17:41:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/29b7a008-4c94-4aeb-8b3b-7b09a0015746.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 자체로 재밌다고 소문난 ‘자우림, 더 원더랜드’]]></title>
+            <link>https://www.elle.co.kr/article/78113</link>
+            <guid>https://www.elle.co.kr/article/78113</guid>
+            <pubDate>Sun, 04 Jun 2023 05:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/137dc7ca-fc86-4a00-9554-0764033c851d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체?]]></title>
+            <link>https://www.elle.co.kr/article/78102</link>
+            <guid>https://www.elle.co.kr/article/78102</guid>
+            <pubDate>Sat, 03 Jun 2023 05:41:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로!]]></title>
+            <link>https://www.elle.co.kr/article/78078</link>
+            <guid>https://www.elle.co.kr/article/78078</guid>
+            <pubDate>Fri, 02 Jun 2023 05:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마동석의 '범죄도시3', 개봉 당일부터 대박 조짐 보이는 이유 (ft.사전 예매량)]]></title>
+            <link>https://www.elle.co.kr/article/78028</link>
+            <guid>https://www.elle.co.kr/article/78028</guid>
+            <pubDate>Wed, 31 May 2023 17:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[마크 론슨, 두아 리파, 그리고 피프티피프티?! '바비' OST까지 참여한 K-걸그룹의 기록.list]]></title>
+            <link>https://www.elle.co.kr/article/77968</link>
+            <guid>https://www.elle.co.kr/article/77968</guid>
+            <pubDate>Tue, 30 May 2023 17:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[호그와트 교복 한 벌에 무려 2억! 해리 포터부터 배트맨까지, ‘역대급’ 영화 소품 경매 라인업은?]]></title>
+            <link>https://www.elle.co.kr/article/77930</link>
+            <guid>https://www.elle.co.kr/article/77930</guid>
+            <pubDate>Sat, 27 May 2023 17:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[최대 160억 원! 전 세계에서 손꼽히는 대규모 영화 소품 경매의 막이 오른다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[푸바오와 대화할 수 있다면? 이별을 준비하는 강철원 사육사의 뭉클한 진심]]></title>
+            <link>https://www.elle.co.kr/article/77857</link>
+            <guid>https://www.elle.co.kr/article/77857</guid>
+            <pubDate>Thu, 25 May 2023 05:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[뷔와 박보검, 리사가 한 자리에! 한국 셀럽들이 칸을 200% 즐기는 방법]]></title>
+            <link>https://www.elle.co.kr/article/77841</link>
+            <guid>https://www.elle.co.kr/article/77841</guid>
+            <pubDate>Wed, 24 May 2023 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[황홀한 프라이빗 디너와 뜨거운 애프터파티의 향연.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["마흔 살 둘리야, 철 들지 말거라": 어른이들 눈물 나게 하는 고길동의 편지.txt]]></title>
+            <link>https://www.elle.co.kr/article/77808</link>
+            <guid>https://www.elle.co.kr/article/77808</guid>
+            <pubDate>Wed, 24 May 2023 05:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시' 역대 빌런들이 모인 이유는?! 귀한 손석구X이준혁 투샷.jpg]]></title>
+            <link>https://www.elle.co.kr/article/77788</link>
+            <guid>https://www.elle.co.kr/article/77788</guid>
+            <pubDate>Wed, 24 May 2023 05:40:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
