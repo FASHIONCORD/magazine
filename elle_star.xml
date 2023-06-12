@@ -1,63 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 05:42:11 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['아저씨'가 벌써 13년 전이라고? 이나영이 직접 밝힌 남편 원빈의 복귀 이야기]]></title>
-            <link>https://www.elle.co.kr/article/78277</link>
-            <guid>https://www.elle.co.kr/article/78277</guid>
-            <pubDate>Mon, 12 Jun 2023 05:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/78275</link>
-            <guid>https://www.elle.co.kr/article/78275</guid>
-            <pubDate>Sun, 11 Jun 2023 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[예쁘게 태어난 걸 어떡해? 퀸카 그 자체 (여자)아이들 미연의 솔직귀염 이모지 인터뷰]]></title>
-            <link>https://www.elle.co.kr/article/78267</link>
-            <guid>https://www.elle.co.kr/article/78267</guid>
-            <pubDate>Sun, 11 Jun 2023 05:40:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민이 데뷔 10주년 맞아 팬들을 위해 준비한 깜짝 선물은?]]></title>
-            <link>https://www.elle.co.kr/article/78256</link>
-            <guid>https://www.elle.co.kr/article/78256</guid>
-            <pubDate>Sat, 10 Jun 2023 05:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이제 엄마 스케줄도 따라다닌다고? 생후 50일 된 허니제이 딸 러브 근황]]></title>
-            <link>https://www.elle.co.kr/article/78242</link>
-            <guid>https://www.elle.co.kr/article/78242</guid>
-            <pubDate>Sat, 10 Jun 2023 05:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 나연이 '살 빠지는 춤' BGM으로 추천한 노래는? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/78241</link>
-            <guid>https://www.elle.co.kr/article/78241</guid>
-            <pubDate>Fri, 09 Jun 2023 17:40:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/73ebd8a7-451f-45b2-9b5e-4940cc454515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 후 첫 생일 맞은 티아라 지연! 꿀 떨어지는 럽스타 근황]]></title>
-            <link>https://www.elle.co.kr/article/78240</link>
-            <guid>https://www.elle.co.kr/article/78240</guid>
-            <pubDate>Fri, 09 Jun 2023 17:40:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/8ce44e07-0310-48d2-87dd-2665b75f7b48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리 떠난 메시, 바르샤 안 간다?! 깜짝 마이애미행 결정한 이유]]></title>
-            <link>https://www.elle.co.kr/article/78237</link>
-            <guid>https://www.elle.co.kr/article/78237</guid>
-            <pubDate>Fri, 09 Jun 2023 17:40:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/99d6cf10-db2f-48d6-82e8-ac0d38dbc665.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-06-12T17:41:19.298Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타들의 손끝에서 찾은 여름 네일 힌트 6]]></title>
+        <id>https://www.elle.co.kr/article/78279</id>
+        <link href="https://www.elle.co.kr/article/78279"/>
+        <updated>2023-06-12T17:40:29.433Z</updated>
+        <content type="html"><![CDATA[기분 전환도 되고 스타일 지수까지 높이는 네일 아트! 스타들의 손끝에서 영감을 얻어보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아저씨'가 벌써 13년 전이라고? 이나영이 직접 밝힌 남편 원빈의 복귀 이야기]]></title>
+        <id>https://www.elle.co.kr/article/78277</id>
+        <link href="https://www.elle.co.kr/article/78277"/>
+        <updated>2023-06-12T05:40:52.693Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/78275</id>
+        <link href="https://www.elle.co.kr/article/78275"/>
+        <updated>2023-06-11T17:40:35.316Z</updated>
+        <content type="html"><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예쁘게 태어난 걸 어떡해? 퀸카 그 자체 (여자)아이들 미연의 솔직귀염 이모지 인터뷰]]></title>
+        <id>https://www.elle.co.kr/article/78267</id>
+        <link href="https://www.elle.co.kr/article/78267"/>
+        <updated>2023-06-11T05:40:22.264Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 지민이 데뷔 10주년 맞아 팬들을 위해 준비한 깜짝 선물은?]]></title>
+        <id>https://www.elle.co.kr/article/78256</id>
+        <link href="https://www.elle.co.kr/article/78256"/>
+        <updated>2023-06-10T05:40:09.082Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 엄마 스케줄도 따라다닌다고? 생후 50일 된 허니제이 딸 러브 근황]]></title>
+        <id>https://www.elle.co.kr/article/78242</id>
+        <link href="https://www.elle.co.kr/article/78242"/>
+        <updated>2023-06-10T05:40:09.085Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트와이스 나연이 '살 빠지는 춤' BGM으로 추천한 노래는? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78241</id>
+        <link href="https://www.elle.co.kr/article/78241"/>
+        <updated>2023-06-09T17:40:15.741Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결혼 후 첫 생일 맞은 티아라 지연! 꿀 떨어지는 럽스타 근황]]></title>
+        <id>https://www.elle.co.kr/article/78240</id>
+        <link href="https://www.elle.co.kr/article/78240"/>
+        <updated>2023-06-09T17:40:15.749Z</updated>
+    </entry>
+</feed>

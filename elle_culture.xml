@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-06-12T05:42:11.030Z</updated>
+    <updated>2023-06-12T17:41:19.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마가렛 호웰이 모아온 내밀한 사물들 #더컬렉터스]]></title>
+        <id>https://www.elle.co.kr/article/78172</id>
+        <link href="https://www.elle.co.kr/article/78172"/>
+        <updated>2023-06-12T17:40:37.509Z</updated>
+        <content type="html"><![CDATA[숲속 커다란 나무 사이에 가려진 듯한 런던 아파트와 꼭 맞는 사물들. 모두 그녀, 마가렛 호웰...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’]]></title>
         <id>https://www.elle.co.kr/article/78194</id>
@@ -51,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/78085"/>
         <updated>2023-06-07T17:40:26.557Z</updated>
         <content type="html"><![CDATA[많은 것이 사라지고 변하는 세상에서 변치 않는 전통과 지역 장인의 정신을 품은 아주 현대적인...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체?]]></title>
-        <id>https://www.elle.co.kr/article/78102</id>
-        <link href="https://www.elle.co.kr/article/78102"/>
-        <updated>2023-06-06T17:40:21.934Z</updated>
     </entry>
 </feed>
