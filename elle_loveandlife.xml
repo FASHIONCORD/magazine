@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-06-12T17:41:19.317Z</updated>
+    <updated>2023-06-13T05:41:31.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 작가도 작가로 치나요? 네이버-카카오 웹툰 플랫폼이 보인 반응]]></title>
+        <id>https://www.elle.co.kr/article/78095</id>
+        <link href="https://www.elle.co.kr/article/78095"/>
+        <updated>2023-06-13T05:41:21.843Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['여름꽃의 여왕' 수국 만개! 싱그러움 그 자체인 전국 명소 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/78094</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/77910</id>
         <link href="https://www.elle.co.kr/article/77910"/>
         <updated>2023-06-02T17:42:17.396Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이볼부터 숙성회까지! 스타가 방문한 이자카야 3]]></title>
-        <id>https://www.elle.co.kr/article/77897</id>
-        <link href="https://www.elle.co.kr/article/77897"/>
-        <updated>2023-06-02T05:42:01.944Z</updated>
-        <content type="html"><![CDATA[강민경이 인생 하이볼을 맛본 이자카야와 효민이 먹부림을 부린 프라이빗 선술집 등 일본 감성을...]]></content>
     </entry>
 </feed>
