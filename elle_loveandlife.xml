@@ -1,60 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/loveandlife</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-06-13T05:41:31.780Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[AI 작가도 작가로 치나요? 네이버-카카오 웹툰 플랫폼이 보인 반응]]></title>
-        <id>https://www.elle.co.kr/article/78095</id>
-        <link href="https://www.elle.co.kr/article/78095"/>
-        <updated>2023-06-13T05:41:21.843Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['여름꽃의 여왕' 수국 만개! 싱그러움 그 자체인 전국 명소 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/78094</id>
-        <link href="https://www.elle.co.kr/article/78094"/>
-        <updated>2023-06-08T17:42:14.937Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피 못 마시는 사람들을 위한 논커피 음료 맛집 2 #마실마실]]></title>
-        <id>https://www.elle.co.kr/article/78093</id>
-        <link href="https://www.elle.co.kr/article/78093"/>
-        <updated>2023-06-07T17:41:03.299Z</updated>
-        <content type="html"><![CDATA[메뉴판 구석에 자리잡은 논커피가 아냐! 논커피 중심의 음료 가게와 티 카페를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3만원대 비건 한식 레스토랑을 가봤다 #무해한삶_2]]></title>
-        <id>https://www.elle.co.kr/article/78075</id>
-        <link href="https://www.elle.co.kr/article/78075"/>
-        <updated>2023-06-06T05:41:34.348Z</updated>
-        <content type="html"><![CDATA[기념일에 가기 좋은 비건 한식 레스토랑과 플라스틱 지옥에서 구원할 간이 정수기 추천]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3]]></title>
-        <id>https://www.elle.co.kr/article/78073</id>
-        <link href="https://www.elle.co.kr/article/78073"/>
-        <updated>2023-06-02T17:42:17.389Z</updated>
-        <content type="html"><![CDATA[이혜영이 다녀온 노을 뷰 와인 바부터 맛으로 아이비를 황홀하게 만든 레스토랑까지 소개합니다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무더운 여름, 위스키 한 잔과 LP 음악으로 사색에 빠질 시간! 성수동-성북동-상수동 #신상맛집 3]]></title>
-        <id>https://www.elle.co.kr/article/78021</id>
-        <link href="https://www.elle.co.kr/article/78021"/>
-        <updated>2023-06-02T17:42:17.389Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상하이에서 지금 가장 핫한 전시, '구찌 코스모스']]></title>
-        <id>https://www.elle.co.kr/article/77853</id>
-        <link href="https://www.elle.co.kr/article/77853"/>
-        <updated>2023-06-02T17:42:17.394Z</updated>
-        <content type="html"><![CDATA[102년간 차곡차곡 쌓인 역사는 하나의 우주가 된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울을 BTS 보랏빛으로 물들이는 축제가 있다?! 6월 이색 페스티벌 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/77910</id>
-        <link href="https://www.elle.co.kr/article/77910"/>
-        <updated>2023-06-02T17:42:17.396Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 13 Jun 2023 17:43:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 부활한 락 페스티벌과 혼네, 샘 스미스 내한까지! 2023 공연 라인업.list]]></title>
+            <link>https://www.elle.co.kr/article/78098</link>
+            <guid>https://www.elle.co.kr/article/78098</guid>
+            <pubDate>Tue, 13 Jun 2023 17:43:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/7e0132ae-5c89-415b-88fd-123455d4221e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 작가도 작가로 치나요? 네이버-카카오 웹툰 플랫폼이 보인 반응]]></title>
+            <link>https://www.elle.co.kr/article/78095</link>
+            <guid>https://www.elle.co.kr/article/78095</guid>
+            <pubDate>Tue, 13 Jun 2023 05:41:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/42d4c74b-bcec-4bfc-a191-62197fdc455a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['여름꽃의 여왕' 수국 만개! 싱그러움 그 자체인 전국 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/78094</link>
+            <guid>https://www.elle.co.kr/article/78094</guid>
+            <pubDate>Thu, 08 Jun 2023 17:42:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/cd8a42a4-43c4-411b-9fdd-1d52fe645de4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커피 못 마시는 사람들을 위한 논커피 음료 맛집 2 #마실마실]]></title>
+            <link>https://www.elle.co.kr/article/78093</link>
+            <guid>https://www.elle.co.kr/article/78093</guid>
+            <pubDate>Wed, 07 Jun 2023 17:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[메뉴판 구석에 자리잡은 논커피가 아냐! 논커피 중심의 음료 가게와 티 카페를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/7218633f-7eee-4a2f-bad9-9aaa902466bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3만원대 비건 한식 레스토랑을 가봤다 #무해한삶_2]]></title>
+            <link>https://www.elle.co.kr/article/78075</link>
+            <guid>https://www.elle.co.kr/article/78075</guid>
+            <pubDate>Tue, 06 Jun 2023 05:41:34 GMT</pubDate>
+            <content:encoded><![CDATA[기념일에 가기 좋은 비건 한식 레스토랑과 플라스틱 지옥에서 구원할 간이 정수기 추천]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/2ea83f7c-7893-4573-8499-34f97a9f367d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6월의 첫 주말엔 여기로! 로맨틱한 디너를 위한 레스토랑 3]]></title>
+            <link>https://www.elle.co.kr/article/78073</link>
+            <guid>https://www.elle.co.kr/article/78073</guid>
+            <pubDate>Fri, 02 Jun 2023 17:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[이혜영이 다녀온 노을 뷰 와인 바부터 맛으로 아이비를 황홀하게 만든 레스토랑까지 소개합니다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/0acb8f4e-e61a-4183-a921-f18c3c3c8265.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무더운 여름, 위스키 한 잔과 LP 음악으로 사색에 빠질 시간! 성수동-성북동-상수동 #신상맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/78021</link>
+            <guid>https://www.elle.co.kr/article/78021</guid>
+            <pubDate>Fri, 02 Jun 2023 17:42:17 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/4df84ee0-abac-46ab-a0b5-c346f5f19dfc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상하이에서 지금 가장 핫한 전시, '구찌 코스모스']]></title>
+            <link>https://www.elle.co.kr/article/77853</link>
+            <guid>https://www.elle.co.kr/article/77853</guid>
+            <pubDate>Fri, 02 Jun 2023 17:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[102년간 차곡차곡 쌓인 역사는 하나의 우주가 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/dbe36bfb-ce50-4b21-b096-008b80d67a47.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

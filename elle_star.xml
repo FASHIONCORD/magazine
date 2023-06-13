@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 05:41:31 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[배우 남보라의 가방 속 뷰티 아이템 8]]></title>
-            <link>https://www.elle.co.kr/article/78292</link>
-            <guid>https://www.elle.co.kr/article/78292</guid>
-            <pubDate>Tue, 13 Jun 2023 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[핸드크림부터 고체 향수까지! 당장 따라 사고 싶은 남보라의 뷰티 아이템을 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/14ccd3a8-7dd6-4adc-9cfd-b61b08a693ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로이킴에게 새로운 바람이 불어왔다]]></title>
-            <link>https://www.elle.co.kr/article/78288</link>
-            <guid>https://www.elle.co.kr/article/78288</guid>
-            <pubDate>Tue, 13 Jun 2023 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[로이킴은 정주할 수도 있었다. 시간과 진심의 힘을 믿는 로이킴이 노래하는 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/537cce56-5c17-4549-b36f-6c457a067103.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일리시한 스타들은 '이것'을 입는다! 다리가 2m처럼 보이는 마법 #부츠컷팬츠]]></title>
-            <link>https://www.elle.co.kr/article/78286</link>
-            <guid>https://www.elle.co.kr/article/78286</guid>
-            <pubDate>Tue, 13 Jun 2023 05:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[손나은부터 민니, 채영까지. 다리가 더 길고 날씬해 보이는 치트키, 부츠컷 팬츠를 입어요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/11/d495323d-5826-4ee9-90cc-b079270218cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이영지가 1600만 원짜리 롤렉스 시계를 '최애' 박재범에게 선물한 사연은?!]]></title>
-            <link>https://www.elle.co.kr/article/78280</link>
-            <guid>https://www.elle.co.kr/article/78280</guid>
-            <pubDate>Tue, 13 Jun 2023 05:40:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/10/8e9d7fd6-9b2c-4124-b4f0-9f8383381f39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들의 손끝에서 찾은 여름 네일 힌트 6]]></title>
-            <link>https://www.elle.co.kr/article/78279</link>
-            <guid>https://www.elle.co.kr/article/78279</guid>
-            <pubDate>Mon, 12 Jun 2023 17:40:29 GMT</pubDate>
-            <content:encoded><![CDATA[기분 전환도 되고 스타일 지수까지 높이는 네일 아트! 스타들의 손끝에서 영감을 얻어보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/10/2079af40-fffc-40f7-80e8-93ae3eeaf883.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아저씨'가 벌써 13년 전이라고? 이나영이 직접 밝힌 남편 원빈의 복귀 이야기]]></title>
-            <link>https://www.elle.co.kr/article/78277</link>
-            <guid>https://www.elle.co.kr/article/78277</guid>
-            <pubDate>Mon, 12 Jun 2023 05:40:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/56c866f7-c884-4ecb-9a1b-5321fa61f370.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/78275</link>
-            <guid>https://www.elle.co.kr/article/78275</guid>
-            <pubDate>Sun, 11 Jun 2023 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/07964b0e-701f-47c6-8e5c-4966243c3834.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예쁘게 태어난 걸 어떡해? 퀸카 그 자체 (여자)아이들 미연의 솔직귀염 이모지 인터뷰]]></title>
-            <link>https://www.elle.co.kr/article/78267</link>
-            <guid>https://www.elle.co.kr/article/78267</guid>
-            <pubDate>Sun, 11 Jun 2023 05:40:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/f6ceb878-ead5-4f3f-9ddc-ded4ae057b97.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-06-13T17:43:17.828Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올여름 장마 대비를 위한 레인부츠 #쇼핑리스트]]></title>
+        <id>https://www.elle.co.kr/article/78321</id>
+        <link href="https://www.elle.co.kr/article/78321"/>
+        <updated>2023-06-13T17:42:04.277Z</updated>
+        <content type="html"><![CDATA[귀엽고 예쁜 디자인의 레인부츠와 함께라면 장마도 두렵지 않아!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유종의 미 거둔 '닥터 차정숙'! 주연 배우들이 꼽은 명장면·명대사 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/78306</id>
+        <link href="https://www.elle.co.kr/article/78306"/>
+        <updated>2023-06-13T17:42:04.285Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 남보라의 가방 속 뷰티 아이템 8]]></title>
+        <id>https://www.elle.co.kr/article/78292</id>
+        <link href="https://www.elle.co.kr/article/78292"/>
+        <updated>2023-06-13T05:40:23.556Z</updated>
+        <content type="html"><![CDATA[핸드크림부터 고체 향수까지! 당장 따라 사고 싶은 남보라의 뷰티 아이템을 확인해 보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로이킴에게 새로운 바람이 불어왔다]]></title>
+        <id>https://www.elle.co.kr/article/78288</id>
+        <link href="https://www.elle.co.kr/article/78288"/>
+        <updated>2023-06-13T05:40:23.564Z</updated>
+        <content type="html"><![CDATA[로이킴은 정주할 수도 있었다. 시간과 진심의 힘을 믿는 로이킴이 노래하는 이유.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타일리시한 스타들은 '이것'을 입는다! 다리가 2m처럼 보이는 마법 #부츠컷팬츠]]></title>
+        <id>https://www.elle.co.kr/article/78286</id>
+        <link href="https://www.elle.co.kr/article/78286"/>
+        <updated>2023-06-13T05:40:23.565Z</updated>
+        <content type="html"><![CDATA[손나은부터 민니, 채영까지. 다리가 더 길고 날씬해 보이는 치트키, 부츠컷 팬츠를 입어요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이영지가 1600만 원짜리 롤렉스 시계를 '최애' 박재범에게 선물한 사연은?!]]></title>
+        <id>https://www.elle.co.kr/article/78280</id>
+        <link href="https://www.elle.co.kr/article/78280"/>
+        <updated>2023-06-13T05:40:23.566Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타들의 손끝에서 찾은 여름 네일 힌트 6]]></title>
+        <id>https://www.elle.co.kr/article/78279</id>
+        <link href="https://www.elle.co.kr/article/78279"/>
+        <updated>2023-06-12T17:40:29.433Z</updated>
+        <content type="html"><![CDATA[기분 전환도 되고 스타일 지수까지 높이는 네일 아트! 스타들의 손끝에서 영감을 얻어보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아저씨'가 벌써 13년 전이라고? 이나영이 직접 밝힌 남편 원빈의 복귀 이야기]]></title>
+        <id>https://www.elle.co.kr/article/78277</id>
+        <link href="https://www.elle.co.kr/article/78277"/>
+        <updated>2023-06-12T05:40:52.693Z</updated>
+    </entry>
+</feed>
