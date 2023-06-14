@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-13T17:43:17.828Z</updated>
+    <updated>2023-06-14T05:41:41.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10년차 부부 이효리-이상순, 세상 힙하고 달달한 스위스 럽스타 폭탄.jpg]]></title>
+        <id>https://www.elle.co.kr/article/78323</id>
+        <link href="https://www.elle.co.kr/article/78323"/>
+        <updated>2023-06-14T05:40:34.115Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연아 남편 고우림이 롤모델로 백종원을 꼽은 이유]]></title>
+        <id>https://www.elle.co.kr/article/78322</id>
+        <link href="https://www.elle.co.kr/article/78322"/>
+        <updated>2023-06-14T05:40:34.125Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올여름 장마 대비를 위한 레인부츠 #쇼핑리스트]]></title>
         <id>https://www.elle.co.kr/article/78321</id>
@@ -44,18 +56,5 @@
         <id>https://www.elle.co.kr/article/78280</id>
         <link href="https://www.elle.co.kr/article/78280"/>
         <updated>2023-06-13T05:40:23.566Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타들의 손끝에서 찾은 여름 네일 힌트 6]]></title>
-        <id>https://www.elle.co.kr/article/78279</id>
-        <link href="https://www.elle.co.kr/article/78279"/>
-        <updated>2023-06-12T17:40:29.433Z</updated>
-        <content type="html"><![CDATA[기분 전환도 되고 스타일 지수까지 높이는 네일 아트! 스타들의 손끝에서 영감을 얻어보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아저씨'가 벌써 13년 전이라고? 이나영이 직접 밝힌 남편 원빈의 복귀 이야기]]></title>
-        <id>https://www.elle.co.kr/article/78277</id>
-        <link href="https://www.elle.co.kr/article/78277"/>
-        <updated>2023-06-12T05:40:52.693Z</updated>
     </entry>
 </feed>
