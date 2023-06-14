@@ -1,60 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-14T05:41:41.400Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[10년차 부부 이효리-이상순, 세상 힙하고 달달한 스위스 럽스타 폭탄.jpg]]></title>
-        <id>https://www.elle.co.kr/article/78323</id>
-        <link href="https://www.elle.co.kr/article/78323"/>
-        <updated>2023-06-14T05:40:34.115Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김연아 남편 고우림이 롤모델로 백종원을 꼽은 이유]]></title>
-        <id>https://www.elle.co.kr/article/78322</id>
-        <link href="https://www.elle.co.kr/article/78322"/>
-        <updated>2023-06-14T05:40:34.125Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올여름 장마 대비를 위한 레인부츠 #쇼핑리스트]]></title>
-        <id>https://www.elle.co.kr/article/78321</id>
-        <link href="https://www.elle.co.kr/article/78321"/>
-        <updated>2023-06-13T17:42:04.277Z</updated>
-        <content type="html"><![CDATA[귀엽고 예쁜 디자인의 레인부츠와 함께라면 장마도 두렵지 않아!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유종의 미 거둔 '닥터 차정숙'! 주연 배우들이 꼽은 명장면·명대사 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/78306</id>
-        <link href="https://www.elle.co.kr/article/78306"/>
-        <updated>2023-06-13T17:42:04.285Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 남보라의 가방 속 뷰티 아이템 8]]></title>
-        <id>https://www.elle.co.kr/article/78292</id>
-        <link href="https://www.elle.co.kr/article/78292"/>
-        <updated>2023-06-13T05:40:23.556Z</updated>
-        <content type="html"><![CDATA[핸드크림부터 고체 향수까지! 당장 따라 사고 싶은 남보라의 뷰티 아이템을 확인해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로이킴에게 새로운 바람이 불어왔다]]></title>
-        <id>https://www.elle.co.kr/article/78288</id>
-        <link href="https://www.elle.co.kr/article/78288"/>
-        <updated>2023-06-13T05:40:23.564Z</updated>
-        <content type="html"><![CDATA[로이킴은 정주할 수도 있었다. 시간과 진심의 힘을 믿는 로이킴이 노래하는 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타일리시한 스타들은 '이것'을 입는다! 다리가 2m처럼 보이는 마법 #부츠컷팬츠]]></title>
-        <id>https://www.elle.co.kr/article/78286</id>
-        <link href="https://www.elle.co.kr/article/78286"/>
-        <updated>2023-06-13T05:40:23.565Z</updated>
-        <content type="html"><![CDATA[손나은부터 민니, 채영까지. 다리가 더 길고 날씬해 보이는 치트키, 부츠컷 팬츠를 입어요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영지가 1600만 원짜리 롤렉스 시계를 '최애' 박재범에게 선물한 사연은?!]]></title>
-        <id>https://www.elle.co.kr/article/78280</id>
-        <link href="https://www.elle.co.kr/article/78280"/>
-        <updated>2023-06-13T05:40:23.566Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 14 Jun 2023 17:42:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행 가서 뭐 입을까 고민된다면? 스타들의 해외여행 룩 대방출!]]></title>
+            <link>https://www.elle.co.kr/article/78359</link>
+            <guid>https://www.elle.co.kr/article/78359</guid>
+            <pubDate>Wed, 14 Jun 2023 17:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[핫걸로 변신한 서현부터 로맨틱한 신혼여행 룩을 선보인 이다해까지, 스타일리시한 여행 패션의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/ba14a87a-901c-4ba0-afd8-c6e2c4d587eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딱 한 걸음의 용기]]></title>
+            <link>https://www.elle.co.kr/article/78302</link>
+            <guid>https://www.elle.co.kr/article/78302</guid>
+            <pubDate>Wed, 14 Jun 2023 17:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[미투, 그 이후의 이야기를 전하는 팀 ‘상-여자의 착지술’을 기획한 마민지는 오늘도 용맹한 걸...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/2801b5b9-3cb8-4895-bb65-f7913d317298.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단이 데뷔 10주년! 팬들에게 선물한 편지와 역조공 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78355</link>
+            <guid>https://www.elle.co.kr/article/78355</guid>
+            <pubDate>Wed, 14 Jun 2023 17:40:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/b55772d2-62ec-4bee-b9e1-b7dffb87d0ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['MI7' 톰 크루즈 11번째 내한 VS. '바비' 마고 로비-라이언 고슬링 첫 내한]]></title>
+            <link>https://www.elle.co.kr/article/78328</link>
+            <guid>https://www.elle.co.kr/article/78328</guid>
+            <pubDate>Wed, 14 Jun 2023 17:40:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/e5822e61-dd29-4d36-bad6-681ed512f3a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10년차 부부 이효리-이상순, 세상 힙하고 달달한 스위스 럽스타 폭탄.jpg]]></title>
+            <link>https://www.elle.co.kr/article/78323</link>
+            <guid>https://www.elle.co.kr/article/78323</guid>
+            <pubDate>Wed, 14 Jun 2023 05:40:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/bd77eaee-ec83-45d6-b644-eb1f8a442ae1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김연아 남편 고우림이 롤모델로 백종원을 꼽은 이유]]></title>
+            <link>https://www.elle.co.kr/article/78322</link>
+            <guid>https://www.elle.co.kr/article/78322</guid>
+            <pubDate>Wed, 14 Jun 2023 05:40:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/25bd323c-e71a-4712-bc5c-6d2b60a9e33f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올여름 장마 대비를 위한 레인부츠 #쇼핑리스트]]></title>
+            <link>https://www.elle.co.kr/article/78321</link>
+            <guid>https://www.elle.co.kr/article/78321</guid>
+            <pubDate>Tue, 13 Jun 2023 17:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[귀엽고 예쁜 디자인의 레인부츠와 함께라면 장마도 두렵지 않아!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/460d13f8-01ac-494d-9ec9-fa64fddbc546.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유종의 미 거둔 '닥터 차정숙'! 주연 배우들이 꼽은 명장면·명대사 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/78306</link>
+            <guid>https://www.elle.co.kr/article/78306</guid>
+            <pubDate>Tue, 13 Jun 2023 17:42:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/9aa0a4c2-b307-428f-a713-e1f23b755bff.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
