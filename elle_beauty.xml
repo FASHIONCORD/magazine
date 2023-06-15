@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-06-14T17:42:30.629Z</updated>
+    <updated>2023-06-15T05:42:19.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페스티벌엔 '트윙클' 메이크업!]]></title>
+        <id>https://www.elle.co.kr/article/78244</id>
+        <link href="https://www.elle.co.kr/article/78244"/>
+        <updated>2023-06-15T05:40:27.191Z</updated>
+        <content type="html"><![CDATA[뮤직 페스티벌 시즌이 돌아왔다. 블링블링한 파츠와 알록달록한 비즈의 힘을 빌려 완성한 ‘힙’...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타들의 손끝에서 찾은 여름 네일 힌트 6]]></title>
+        <id>https://www.elle.co.kr/article/78279</id>
+        <link href="https://www.elle.co.kr/article/78279"/>
+        <updated>2023-06-15T05:40:27.193Z</updated>
+        <content type="html"><![CDATA[기분 전환도 되고 스타일 지수까지 높이는 네일 아트! 스타들의 손끝에서 영감을 얻어보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최고의 니플패드를 찾아라]]></title>
         <id>https://www.elle.co.kr/article/78246</id>
@@ -44,19 +58,5 @@
         <link href="https://www.elle.co.kr/article/78117"/>
         <updated>2023-06-09T05:40:14.450Z</updated>
         <content type="html"><![CDATA[여름의 초입을 싱그럽게 채워줄 6월의 뷰티 신상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페스티벌 무드의 뷰티 신]]></title>
-        <id>https://www.elle.co.kr/article/78084</id>
-        <link href="https://www.elle.co.kr/article/78084"/>
-        <updated>2023-06-08T17:40:57.102Z</updated>
-        <content type="html"><![CDATA[뮤직 페스티벌의 열기를 품은 얼굴 위에 그린 색과 감정의 조각.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스탈의 피부 자신감]]></title>
-        <id>https://www.elle.co.kr/article/78064</id>
-        <link href="https://www.elle.co.kr/article/78064"/>
-        <updated>2023-06-08T05:40:11.871Z</updated>
-        <content type="html"><![CDATA[랑콤 제니피끄로 피부 시간을 되돌리다! 크리스탈의 드라마틱한 안티에이징 모멘트를 포착하다.]]></content>
     </entry>
 </feed>

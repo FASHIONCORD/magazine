@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-14T17:42:30.726Z</updated>
+    <updated>2023-06-15T05:42:19.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올여름 장마 대비를 위한 레인부츠 #쇼핑리스트]]></title>
+        <id>https://www.elle.co.kr/article/78321</id>
+        <link href="https://www.elle.co.kr/article/78321"/>
+        <updated>2023-06-15T05:40:15.506Z</updated>
+        <content type="html"><![CDATA[귀엽고 예쁜 디자인의 레인부츠와 함께라면 장마도 두렵지 않아!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패션에도 옴브레가 유행?]]></title>
         <id>https://www.elle.co.kr/article/78305</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78274"/>
         <updated>2023-06-12T17:40:11.444Z</updated>
         <content type="html"><![CDATA[코페르니의 뿔 달린 유리 ‘스와이프 백’에 이어 루이스 폴센을 접수하러 온 홈 인 헤븐.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[침대 밖으로 탈출한 파자마 쇼츠]]></title>
-        <id>https://www.elle.co.kr/article/78198</id>
-        <link href="https://www.elle.co.kr/article/78198"/>
-        <updated>2023-06-11T17:40:17.473Z</updated>
-        <content type="html"><![CDATA[잠옷의 재발견.]]></content>
     </entry>
 </feed>
