@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 17:41:50 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[통통해서 스트레스였다고?! 태연이 체중 감량에 효과 본 운동과 마음가짐 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/78368</link>
-            <guid>https://www.elle.co.kr/article/78368</guid>
-            <pubDate>Thu, 15 Jun 2023 17:40:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/f2f9f6a6-51dc-454b-8a99-c4b66082d4a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공개 연애 시작 2개월 차, 이도현은 연인 임지연을 뭐라고 부를까?]]></title>
-            <link>https://www.elle.co.kr/article/78367</link>
-            <guid>https://www.elle.co.kr/article/78367</guid>
-            <pubDate>Thu, 15 Jun 2023 17:40:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/d97ee71b-a548-4d8b-8f14-7377bba6e93c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송혜교 vs. 문가영 화이트 룩 대결의 승자는?]]></title>
-            <link>https://www.elle.co.kr/article/78360</link>
-            <guid>https://www.elle.co.kr/article/78360</guid>
-            <pubDate>Thu, 15 Jun 2023 05:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[콘셉트도, 스타일도 다른 2인2색 화이트 룩.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/7543aa71-51d2-4ac6-8aa4-306f208c2757.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행 가서 뭐 입을까 고민된다면? 스타들의 해외여행 룩 대방출!]]></title>
-            <link>https://www.elle.co.kr/article/78359</link>
-            <guid>https://www.elle.co.kr/article/78359</guid>
-            <pubDate>Wed, 14 Jun 2023 17:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[핫걸로 변신한 서현부터 로맨틱한 신혼여행 룩을 선보인 이다해까지, 스타일리시한 여행 패션의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/ba14a87a-901c-4ba0-afd8-c6e2c4d587eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딱 한 걸음의 용기]]></title>
-            <link>https://www.elle.co.kr/article/78302</link>
-            <guid>https://www.elle.co.kr/article/78302</guid>
-            <pubDate>Wed, 14 Jun 2023 17:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[미투, 그 이후의 이야기를 전하는 팀 ‘상-여자의 착지술’을 기획한 마민지는 오늘도 용맹한 걸...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/2801b5b9-3cb8-4895-bb65-f7913d317298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단이 데뷔 10주년! 팬들에게 선물한 편지와 역조공 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/78355</link>
-            <guid>https://www.elle.co.kr/article/78355</guid>
-            <pubDate>Wed, 14 Jun 2023 17:40:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/b55772d2-62ec-4bee-b9e1-b7dffb87d0ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['MI7' 톰 크루즈 11번째 내한 VS. '바비' 마고 로비-라이언 고슬링 첫 내한]]></title>
-            <link>https://www.elle.co.kr/article/78328</link>
-            <guid>https://www.elle.co.kr/article/78328</guid>
-            <pubDate>Wed, 14 Jun 2023 17:40:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/e5822e61-dd29-4d36-bad6-681ed512f3a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년차 부부 이효리-이상순, 세상 힙하고 달달한 스위스 럽스타 폭탄.jpg]]></title>
-            <link>https://www.elle.co.kr/article/78323</link>
-            <guid>https://www.elle.co.kr/article/78323</guid>
-            <pubDate>Wed, 14 Jun 2023 05:40:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/bd77eaee-ec83-45d6-b644-eb1f8a442ae1.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-06-16T05:41:31.845Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누구 닮았을까? 로마에서 아빠 된 송중기가 직접 전한 아들 사진과 편지]]></title>
+        <id>https://www.elle.co.kr/article/78387</id>
+        <link href="https://www.elle.co.kr/article/78387"/>
+        <updated>2023-06-16T05:40:30.487Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다]]></title>
+        <id>https://www.elle.co.kr/article/78371</id>
+        <link href="https://www.elle.co.kr/article/78371"/>
+        <updated>2023-06-16T05:40:30.488Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마요르카 에이스 이강인, 300억 원에 라리가 떠난다? 지금까지 알려진 이적 정보]]></title>
+        <id>https://www.elle.co.kr/article/78370</id>
+        <link href="https://www.elle.co.kr/article/78370"/>
+        <updated>2023-06-16T05:40:30.489Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통통해서 스트레스였다고?! 태연이 체중 감량에 효과 본 운동과 마음가짐 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78368</id>
+        <link href="https://www.elle.co.kr/article/78368"/>
+        <updated>2023-06-15T17:40:25.341Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공개 연애 시작 2개월 차, 이도현은 연인 임지연을 뭐라고 부를까?]]></title>
+        <id>https://www.elle.co.kr/article/78367</id>
+        <link href="https://www.elle.co.kr/article/78367"/>
+        <updated>2023-06-15T17:40:25.343Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송혜교 vs. 문가영 화이트 룩 대결의 승자는?]]></title>
+        <id>https://www.elle.co.kr/article/78360</id>
+        <link href="https://www.elle.co.kr/article/78360"/>
+        <updated>2023-06-15T05:40:38.882Z</updated>
+        <content type="html"><![CDATA[콘셉트도, 스타일도 다른 2인2색 화이트 룩.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여행 가서 뭐 입을까 고민된다면? 스타들의 해외여행 룩 대방출!]]></title>
+        <id>https://www.elle.co.kr/article/78359</id>
+        <link href="https://www.elle.co.kr/article/78359"/>
+        <updated>2023-06-14T17:40:45.002Z</updated>
+        <content type="html"><![CDATA[핫걸로 변신한 서현부터 로맨틱한 신혼여행 룩을 선보인 이다해까지, 스타일리시한 여행 패션의 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딱 한 걸음의 용기]]></title>
+        <id>https://www.elle.co.kr/article/78302</id>
+        <link href="https://www.elle.co.kr/article/78302"/>
+        <updated>2023-06-14T17:40:45.004Z</updated>
+        <content type="html"><![CDATA[미투, 그 이후의 이야기를 전하는 팀 ‘상-여자의 착지술’을 기획한 마민지는 오늘도 용맹한 걸...]]></content>
+    </entry>
+</feed>

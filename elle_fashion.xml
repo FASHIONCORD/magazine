@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-15T17:41:50.555Z</updated>
+    <updated>2023-06-16T05:41:31.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여행 가서 뭐 입을까 고민된다면? 스타들의 해외여행 룩 대방출!]]></title>
+        <id>https://www.elle.co.kr/article/78359</id>
+        <link href="https://www.elle.co.kr/article/78359"/>
+        <updated>2023-06-16T05:40:12.128Z</updated>
+        <content type="html"><![CDATA[핫걸로 변신한 서현부터 로맨틱한 신혼여행 룩을 선보인 이다해까지, 스타일리시한 여행 패션의 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발칙한 남자들]]></title>
         <id>https://www.elle.co.kr/article/78316</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78227"/>
         <updated>2023-06-13T05:40:01.875Z</updated>
         <content type="html"><![CDATA[해변의 주인공은 나야 나.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타일리시한 스타들은 '이것'을 입는다! 다리가 2m처럼 보이는 마법 #부츠컷팬츠]]></title>
-        <id>https://www.elle.co.kr/article/78286</id>
-        <link href="https://www.elle.co.kr/article/78286"/>
-        <updated>2023-06-13T05:40:01.882Z</updated>
-        <content type="html"><![CDATA[손나은부터 민니, 채영까지. 다리가 더 길고 날씬해 보이는 치트키, 부츠컷 팬츠를 입어요.]]></content>
     </entry>
 </feed>
