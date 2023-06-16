@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-06-16T05:41:31.843Z</updated>
+    <updated>2023-06-16T17:42:04.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셔누가 파이트 저지로? 2년 만에 돌아오는 '스우파' 시즌2 정보 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/78427</id>
+        <link href="https://www.elle.co.kr/article/78427"/>
+        <updated>2023-06-16T17:41:28.158Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진짜일까? 임시완이 '오징어게임' 시즌2의 주연을 맡을지도 모른다]]></title>
         <id>https://www.elle.co.kr/article/78391</id>
@@ -79,12 +85,5 @@
         <id>https://www.elle.co.kr/article/77968</id>
         <link href="https://www.elle.co.kr/article/77968"/>
         <updated>2023-05-30T17:41:55.484Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호그와트 교복 한 벌에 무려 2억! 해리 포터부터 배트맨까지, ‘역대급’ 영화 소품 경매 라인업은?]]></title>
-        <id>https://www.elle.co.kr/article/77930</id>
-        <link href="https://www.elle.co.kr/article/77930"/>
-        <updated>2023-05-27T17:40:58.070Z</updated>
-        <content type="html"><![CDATA[최대 160억 원! 전 세계에서 손꼽히는 대규모 영화 소품 경매의 막이 오른다.]]></content>
     </entry>
 </feed>

@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-16T05:41:31.844Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[여행 가서 뭐 입을까 고민된다면? 스타들의 해외여행 룩 대방출!]]></title>
-        <id>https://www.elle.co.kr/article/78359</id>
-        <link href="https://www.elle.co.kr/article/78359"/>
-        <updated>2023-06-16T05:40:12.128Z</updated>
-        <content type="html"><![CDATA[핫걸로 변신한 서현부터 로맨틱한 신혼여행 룩을 선보인 이다해까지, 스타일리시한 여행 패션의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발칙한 남자들]]></title>
-        <id>https://www.elle.co.kr/article/78316</id>
-        <link href="https://www.elle.co.kr/article/78316"/>
-        <updated>2023-06-15T17:40:04.285Z</updated>
-        <content type="html"><![CDATA[리본과 장미, 파스텔 톤의 드레스를 입은 남자들이 거리로 나섰다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 마틴 로즈가 누군지 몰라?]]></title>
-        <id>https://www.elle.co.kr/article/78326</id>
-        <link href="https://www.elle.co.kr/article/78326"/>
-        <updated>2023-06-15T17:40:04.287Z</updated>
-        <content type="html"><![CDATA[리한나가 10년 넘게 애정하고, 올해만 스투시 나이키, 클락스와 협업한 그 브랜드를!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올여름 장마 대비를 위한 레인부츠 #쇼핑리스트]]></title>
-        <id>https://www.elle.co.kr/article/78321</id>
-        <link href="https://www.elle.co.kr/article/78321"/>
-        <updated>2023-06-15T05:40:15.506Z</updated>
-        <content type="html"><![CDATA[귀엽고 예쁜 디자인의 레인부츠와 함께라면 장마도 두렵지 않아!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션에도 옴브레가 유행?]]></title>
-        <id>https://www.elle.co.kr/article/78305</id>
-        <link href="https://www.elle.co.kr/article/78305"/>
-        <updated>2023-06-14T05:40:14.853Z</updated>
-        <content type="html"><![CDATA[올 여름 더 강렬하게 우리를 매료시킬 옴브레 컬러에 대하여]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와인과 함께 즐기는 초여름날의 피크닉 속 필수 아이템 4]]></title>
-        <id>https://www.elle.co.kr/article/78320</id>
-        <link href="https://www.elle.co.kr/article/78320"/>
-        <updated>2023-06-14T05:40:14.856Z</updated>
-        <content type="html"><![CDATA[와인잔부터 트레이, 네트백까지, 이것저것 챙기기 귀찮은 당신을 위한 아이템은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런웨이에 휘몰아친 은빛 물결]]></title>
-        <id>https://www.elle.co.kr/article/78276</id>
-        <link href="https://www.elle.co.kr/article/78276"/>
-        <updated>2023-06-13T17:41:40.633Z</updated>
-        <content type="html"><![CDATA[실버의 계절이 돌아왔다. 눈이 부시게.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시선강탈을 책임질 원피스 수영복]]></title>
-        <id>https://www.elle.co.kr/article/78227</id>
-        <link href="https://www.elle.co.kr/article/78227"/>
-        <updated>2023-06-13T05:40:01.875Z</updated>
-        <content type="html"><![CDATA[해변의 주인공은 나야 나.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 16 Jun 2023 17:42:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송혜교 vs. 문가영 화이트 룩 대결의 승자는?]]></title>
+            <link>https://www.elle.co.kr/article/78360</link>
+            <guid>https://www.elle.co.kr/article/78360</guid>
+            <pubDate>Fri, 16 Jun 2023 17:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[콘셉트도, 스타일도 다른 2인2색 화이트 룩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/7543aa71-51d2-4ac6-8aa4-306f208c2757.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여행 가서 뭐 입을까 고민된다면? 스타들의 해외여행 룩 대방출!]]></title>
+            <link>https://www.elle.co.kr/article/78359</link>
+            <guid>https://www.elle.co.kr/article/78359</guid>
+            <pubDate>Fri, 16 Jun 2023 05:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[핫걸로 변신한 서현부터 로맨틱한 신혼여행 룩을 선보인 이다해까지, 스타일리시한 여행 패션의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/ba14a87a-901c-4ba0-afd8-c6e2c4d587eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발칙한 남자들]]></title>
+            <link>https://www.elle.co.kr/article/78316</link>
+            <guid>https://www.elle.co.kr/article/78316</guid>
+            <pubDate>Thu, 15 Jun 2023 17:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[리본과 장미, 파스텔 톤의 드레스를 입은 남자들이 거리로 나섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/7b310472-932d-4ef8-a5cd-6044afc395cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직도 마틴 로즈가 누군지 몰라?]]></title>
+            <link>https://www.elle.co.kr/article/78326</link>
+            <guid>https://www.elle.co.kr/article/78326</guid>
+            <pubDate>Thu, 15 Jun 2023 17:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[리한나가 10년 넘게 애정하고, 올해만 스투시 나이키, 클락스와 협업한 그 브랜드를!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/f1c3d019-9270-4c0e-ad96-7e0041ab3f51.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올여름 장마 대비를 위한 레인부츠 #쇼핑리스트]]></title>
+            <link>https://www.elle.co.kr/article/78321</link>
+            <guid>https://www.elle.co.kr/article/78321</guid>
+            <pubDate>Thu, 15 Jun 2023 05:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[귀엽고 예쁜 디자인의 레인부츠와 함께라면 장마도 두렵지 않아!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/460d13f8-01ac-494d-9ec9-fa64fddbc546.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션에도 옴브레가 유행?]]></title>
+            <link>https://www.elle.co.kr/article/78305</link>
+            <guid>https://www.elle.co.kr/article/78305</guid>
+            <pubDate>Wed, 14 Jun 2023 05:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[올 여름 더 강렬하게 우리를 매료시킬 옴브레 컬러에 대하여]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/0a2608bb-9658-47b5-8d23-0e9f8d3c03af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와인과 함께 즐기는 초여름날의 피크닉 속 필수 아이템 4]]></title>
+            <link>https://www.elle.co.kr/article/78320</link>
+            <guid>https://www.elle.co.kr/article/78320</guid>
+            <pubDate>Wed, 14 Jun 2023 05:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[와인잔부터 트레이, 네트백까지, 이것저것 챙기기 귀찮은 당신을 위한 아이템은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/a2b8f19a-1858-429e-bc11-eb6684c2a4f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[런웨이에 휘몰아친 은빛 물결]]></title>
+            <link>https://www.elle.co.kr/article/78276</link>
+            <guid>https://www.elle.co.kr/article/78276</guid>
+            <pubDate>Tue, 13 Jun 2023 17:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[실버의 계절이 돌아왔다. 눈이 부시게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/0cb3c864-0565-44c9-8d20-cb9f96c2017f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

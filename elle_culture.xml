@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-06-16T05:41:31.841Z</updated>
+    <updated>2023-06-16T17:42:04.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[본질의 회귀! 에르메스 홈 컬렉션]]></title>
+        <id>https://www.elle.co.kr/article/78253</id>
+        <link href="https://www.elle.co.kr/article/78253"/>
+        <updated>2023-06-16T17:41:10.146Z</updated>
+        <content type="html"><![CDATA[에르메스가 2023 밀란 디자인 위크를 맞아 &lt;엘르 데코&gt;를 다시 밀란으로 초대했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['MI7' 톰 크루즈 11번째 내한 VS. '바비' 마고 로비-라이언 고슬링 첫 내한]]></title>
+        <id>https://www.elle.co.kr/article/78328</id>
+        <link href="https://www.elle.co.kr/article/78328"/>
+        <updated>2023-06-16T17:41:10.148Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유종의 미 거둔 '닥터 차정숙'! 주연 배우들이 꼽은 명장면·명대사 총정리 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/78306</id>
@@ -45,18 +58,5 @@
         <link href="https://www.elle.co.kr/article/78172"/>
         <updated>2023-06-12T17:40:37.509Z</updated>
         <content type="html"><![CDATA[숲속 커다란 나무 사이에 가려진 듯한 런던 아파트와 꼭 맞는 사물들. 모두 그녀, 마거 호웰이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’]]></title>
-        <id>https://www.elle.co.kr/article/78194</id>
-        <link href="https://www.elle.co.kr/article/78194"/>
-        <updated>2023-06-11T17:40:44.386Z</updated>
-        <content type="html"><![CDATA[헤드셋이 아닌 컴퓨터라고 불러주세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi]]></title>
-        <id>https://www.elle.co.kr/article/78186</id>
-        <link href="https://www.elle.co.kr/article/78186"/>
-        <updated>2023-06-08T05:40:31.319Z</updated>
     </entry>
 </feed>
