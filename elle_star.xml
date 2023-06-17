@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-17T05:42:09.517Z</updated>
+    <updated>2023-06-17T17:41:30.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 슈가-RM이 타블로를 '초통령'으로 만든 사연 (ft. 하루 근황)]]></title>
+        <id>https://www.elle.co.kr/article/78402</id>
+        <link href="https://www.elle.co.kr/article/78402"/>
+        <updated>2023-06-17T17:40:28.900Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여전히 유일무이한 아이콘 지드래곤! 엘르 7월호 커버 장식]]></title>
+        <id>https://www.elle.co.kr/article/78401</id>
+        <link href="https://www.elle.co.kr/article/78401"/>
+        <updated>2023-06-17T17:40:28.902Z</updated>
+        <content type="html"><![CDATA[지드래곤이 뿜어내는 그 에너지에 대하여.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독도새우부터 약과 쿠키까지! 우혜림이 픽한 강남 맛집.list]]></title>
         <id>https://www.elle.co.kr/article/78400</id>
@@ -41,17 +54,5 @@
         <id>https://www.elle.co.kr/article/78370</id>
         <link href="https://www.elle.co.kr/article/78370"/>
         <updated>2023-06-16T05:40:30.489Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통통해서 스트레스였다고?! 태연이 체중 감량에 효과 본 운동과 마음가짐 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/78368</id>
-        <link href="https://www.elle.co.kr/article/78368"/>
-        <updated>2023-06-15T17:40:25.341Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공개 연애 시작 2개월 차, 이도현은 연인 임지연을 뭐라고 부를까?]]></title>
-        <id>https://www.elle.co.kr/article/78367</id>
-        <link href="https://www.elle.co.kr/article/78367"/>
-        <updated>2023-06-15T17:40:25.343Z</updated>
     </entry>
 </feed>
