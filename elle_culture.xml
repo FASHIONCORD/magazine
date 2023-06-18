@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-06-18T05:42:12.331Z</updated>
+    <updated>2023-06-18T17:41:29.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다]]></title>
+        <id>https://www.elle.co.kr/article/78371</id>
+        <link href="https://www.elle.co.kr/article/78371"/>
+        <updated>2023-06-18T17:40:41.829Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마요르카 에이스 이강인, 300억 원에 라리가 떠난다? 지금까지 알려진 이적 정보]]></title>
+        <id>https://www.elle.co.kr/article/78370</id>
+        <link href="https://www.elle.co.kr/article/78370"/>
+        <updated>2023-06-18T17:40:41.830Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[본질의 회귀! 에르메스 홈 컬렉션]]></title>
         <id>https://www.elle.co.kr/article/78253</id>
@@ -44,19 +56,5 @@
         <link href="https://www.elle.co.kr/article/78207"/>
         <updated>2023-06-13T17:42:13.704Z</updated>
         <content type="html"><![CDATA[일상에 새로운 자극과 영감이 필요하다면 주목! 셀러브리티가 방문 도장 찍고 온 핫한 전시를 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오초량, 오래된 장소가 품은 기억]]></title>
-        <id>https://www.elle.co.kr/article/78181</id>
-        <link href="https://www.elle.co.kr/article/78181"/>
-        <updated>2023-06-13T17:42:13.705Z</updated>
-        <content type="html"><![CDATA[지금, 여기. 부산의 '오초량'이 대도시에서 자신의 자리를 지키는 가치에 대하여.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마거릿 호웰이 모아온 내밀한 사물들 #더컬렉터스]]></title>
-        <id>https://www.elle.co.kr/article/78172</id>
-        <link href="https://www.elle.co.kr/article/78172"/>
-        <updated>2023-06-12T17:40:37.509Z</updated>
-        <content type="html"><![CDATA[숲속 커다란 나무 사이에 가려진 듯한 런던 아파트와 꼭 맞는 사물들. 모두 그녀, 마거 호웰이...]]></content>
     </entry>
 </feed>
