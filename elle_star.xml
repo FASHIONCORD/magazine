@@ -1,58 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-18T17:41:29.591Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['범죄도시3 초롱이' 고규필, 9년째 열애 중이었다고?!]]></title>
-        <id>https://www.elle.co.kr/article/78425</id>
-        <link href="https://www.elle.co.kr/article/78425"/>
-        <updated>2023-06-18T05:41:07.073Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리가 20년 지기 매니저 결혼식에서 눈물의 '유 고 걸' 부른 이유]]></title>
-        <id>https://www.elle.co.kr/article/78420</id>
-        <link href="https://www.elle.co.kr/article/78420"/>
-        <updated>2023-06-18T05:41:07.080Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 슈가-RM이 타블로를 '초통령'으로 만든 사연 (ft. 하루 근황)]]></title>
-        <id>https://www.elle.co.kr/article/78402</id>
-        <link href="https://www.elle.co.kr/article/78402"/>
-        <updated>2023-06-17T17:40:28.900Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여전히 유일무이한 아이콘 지드래곤! 엘르 7월호 커버 장식]]></title>
-        <id>https://www.elle.co.kr/article/78401</id>
-        <link href="https://www.elle.co.kr/article/78401"/>
-        <updated>2023-06-17T17:40:28.902Z</updated>
-        <content type="html"><![CDATA[지드래곤이 뿜어내는 그 에너지에 대하여.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독도새우부터 약과 쿠키까지! 우혜림이 픽한 강남 맛집.list]]></title>
-        <id>https://www.elle.co.kr/article/78400</id>
-        <link href="https://www.elle.co.kr/article/78400"/>
-        <updated>2023-06-16T17:40:54.790Z</updated>
-        <content type="html"><![CDATA[우혜림의 SNS에서 포착한 강남구 핫 플레이스 세 곳을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함께 운동하는 한고은 부부! 커플끼리 하기 좋은 운동은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/78396</id>
-        <link href="https://www.elle.co.kr/article/78396"/>
-        <updated>2023-06-16T17:40:54.790Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진짜일까? 임시완이 '오징어게임' 시즌2의 주연을 맡을지도 모른다]]></title>
-        <id>https://www.elle.co.kr/article/78391</id>
-        <link href="https://www.elle.co.kr/article/78391"/>
-        <updated>2023-06-16T17:40:54.797Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누구 닮았을까? 로마에서 아빠 된 송중기가 직접 전한 아들 사진과 편지]]></title>
-        <id>https://www.elle.co.kr/article/78387</id>
-        <link href="https://www.elle.co.kr/article/78387"/>
-        <updated>2023-06-16T05:40:30.487Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 19 Jun 2023 05:42:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['짱구와 철수' 실사판! 티격태격 황광희X임시완, 뜻밖의 훈훈한 순간]]></title>
+            <link>https://www.elle.co.kr/article/78432</link>
+            <guid>https://www.elle.co.kr/article/78432</guid>
+            <pubDate>Mon, 19 Jun 2023 05:41:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/17/f7fcf673-85a8-43e7-938e-8294be0ed09e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 눈에 띄는 헤어 액세서리는? 헤드 스카프 스타일 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78431</link>
+            <guid>https://www.elle.co.kr/article/78431</guid>
+            <pubDate>Mon, 19 Jun 2023 05:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[벨라 하디드부터 김나영까지 옷 잘 입는 스타들이 즐기는 헤드 스카프 스타일링을 모아봤어요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/17/32f76909-3d06-4ddd-995a-4293fb51f9c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셔누가 파이트 저지로? 2년 만에 돌아오는 '스우파' 시즌2 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78427</link>
+            <guid>https://www.elle.co.kr/article/78427</guid>
+            <pubDate>Mon, 19 Jun 2023 05:41:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/ec220cb6-196b-4059-84df-5ae8f6a136d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시3 초롱이' 고규필, 9년째 열애 중이었다고?!]]></title>
+            <link>https://www.elle.co.kr/article/78425</link>
+            <guid>https://www.elle.co.kr/article/78425</guid>
+            <pubDate>Sun, 18 Jun 2023 05:41:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/da4b8e04-d5a1-4bec-8cd8-6c3906ead7d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리가 20년 지기 매니저 결혼식에서 눈물의 '유 고 걸' 부른 이유]]></title>
+            <link>https://www.elle.co.kr/article/78420</link>
+            <guid>https://www.elle.co.kr/article/78420</guid>
+            <pubDate>Sun, 18 Jun 2023 05:41:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/bdfbbce1-85d4-4157-a0b0-09720dbb684f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 슈가-RM이 타블로를 '초통령'으로 만든 사연 (ft. 하루 근황)]]></title>
+            <link>https://www.elle.co.kr/article/78402</link>
+            <guid>https://www.elle.co.kr/article/78402</guid>
+            <pubDate>Sat, 17 Jun 2023 17:40:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/03d77cb6-eaa5-43d9-9ddc-a376303f66aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여전히 유일무이한 아이콘 지드래곤! 엘르 7월호 커버 장식]]></title>
+            <link>https://www.elle.co.kr/article/78401</link>
+            <guid>https://www.elle.co.kr/article/78401</guid>
+            <pubDate>Sat, 17 Jun 2023 17:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[지드래곤이 뿜어내는 그 에너지에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/2bf9babe-1bcd-42b6-8459-789ca7beedbe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독도새우부터 약과 쿠키까지! 우혜림이 픽한 강남 맛집.list]]></title>
+            <link>https://www.elle.co.kr/article/78400</link>
+            <guid>https://www.elle.co.kr/article/78400</guid>
+            <pubDate>Fri, 16 Jun 2023 17:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[우혜림의 SNS에서 포착한 강남구 핫 플레이스 세 곳을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/8a947866-f025-4e16-85f3-d45782ff0cdf.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
