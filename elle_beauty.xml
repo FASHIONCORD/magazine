@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 05:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 17:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 무드 100%! 주목해야 할 뷰티 신상 3 #갓구운신상]]></title>
+            <link>https://www.elle.co.kr/article/78395</link>
+            <guid>https://www.elle.co.kr/article/78395</guid>
+            <pubDate>Mon, 19 Jun 2023 17:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[에스투파, 나스, 이니스프리X데이즈데이즈의 따끈따끈한 신제품]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/4ddf2327-1770-4e1b-be7b-f4ed0de78280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너 이름이 뭐니?]]></title>
             <link>https://www.elle.co.kr/article/78378</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 15 Jun 2023 05:40:27 GMT</pubDate>
             <content:encoded><![CDATA[기분 전환도 되고 스타일 지수까지 높이는 네일 아트! 스타들의 손끝에서 영감을 얻어보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/10/2079af40-fffc-40f7-80e8-93ae3eeaf883.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최고의 니플패드를 찾아라]]></title>
-            <link>https://www.elle.co.kr/article/78246</link>
-            <guid>https://www.elle.co.kr/article/78246</guid>
-            <pubDate>Mon, 12 Jun 2023 17:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[흰 티셔츠나 수영복, 얇은 드레스에도. 에디터가 직접 써보고 추천하는 니플커버.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/f9725a10-696d-43d1-8bd3-85751cbdfd22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

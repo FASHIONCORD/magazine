@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-19T05:42:44.414Z</updated>
+    <updated>2023-06-19T17:41:04.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘에어팟 맥스 가방’과 코페르니의 ‘이어폰 귀걸이’의 정체는? 이어폰의 변신은 무죄 3]]></title>
+        <id>https://www.elle.co.kr/article/78426</id>
+        <link href="https://www.elle.co.kr/article/78426"/>
+        <updated>2023-06-19T17:40:01.665Z</updated>
+        <content type="html"><![CDATA[귀걸이부터 가방, 스카프까지! 그 어떤 것으로도 변신할 수 있는 이어폰의 무한한 가능성.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패션에서 딱 하나만 알아야 된다면: 콰이어트 럭셔리]]></title>
         <id>https://www.elle.co.kr/article/78404</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78316"/>
         <updated>2023-06-15T17:40:04.285Z</updated>
         <content type="html"><![CDATA[리본과 장미, 파스텔 톤의 드레스를 입은 남자들이 거리로 나섰다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 마틴 로즈가 누군지 몰라?]]></title>
-        <id>https://www.elle.co.kr/article/78326</id>
-        <link href="https://www.elle.co.kr/article/78326"/>
-        <updated>2023-06-15T17:40:04.287Z</updated>
-        <content type="html"><![CDATA[리한나가 10년 넘게 애정하고, 올해만 스투시 나이키, 클락스와 협업한 그 브랜드를!]]></content>
     </entry>
 </feed>
