@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-06-19T17:41:04.934Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[패션과 음악의 유기적 모멘트]]></title>
-        <id>https://www.elle.co.kr/article/78250</id>
-        <link href="https://www.elle.co.kr/article/78250"/>
-        <updated>2023-06-19T17:40:24.264Z</updated>
-        <content type="html"><![CDATA[런웨이와 무대 위에서 펼쳐지는 패션과 음악의 상관관계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누적된 이야기들]]></title>
-        <id>https://www.elle.co.kr/article/78361</id>
-        <link href="https://www.elle.co.kr/article/78361"/>
-        <updated>2023-06-19T17:40:24.267Z</updated>
-        <content type="html"><![CDATA[오랜 시간 애정을 갖고 쌓아온 이야기들이 책이 되어 나왔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셔누가 파이트 저지로? 2년 만에 돌아오는 '스우파' 시즌2 정보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/78427</id>
-        <link href="https://www.elle.co.kr/article/78427"/>
-        <updated>2023-06-19T17:40:24.269Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진짜일까? 임시완이 '오징어게임' 시즌2의 주연을 맡을지도 모른다]]></title>
-        <id>https://www.elle.co.kr/article/78391</id>
-        <link href="https://www.elle.co.kr/article/78391"/>
-        <updated>2023-06-19T17:40:24.271Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다]]></title>
-        <id>https://www.elle.co.kr/article/78371</id>
-        <link href="https://www.elle.co.kr/article/78371"/>
-        <updated>2023-06-18T17:40:41.829Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마요르카 에이스 이강인, 300억 원에 라리가 떠난다? 지금까지 알려진 이적 정보]]></title>
-        <id>https://www.elle.co.kr/article/78370</id>
-        <link href="https://www.elle.co.kr/article/78370"/>
-        <updated>2023-06-18T17:40:41.830Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본질의 회귀! 에르메스 홈 컬렉션]]></title>
-        <id>https://www.elle.co.kr/article/78253</id>
-        <link href="https://www.elle.co.kr/article/78253"/>
-        <updated>2023-06-16T17:41:10.146Z</updated>
-        <content type="html"><![CDATA[에르메스가 2023 밀란 디자인 위크를 맞아 &lt;엘르 데코&gt;를 다시 밀란으로 초대했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['MI7' 톰 크루즈 11번째 내한 VS. '바비' 마고 로비-라이언 고슬링 첫 내한]]></title>
-        <id>https://www.elle.co.kr/article/78328</id>
-        <link href="https://www.elle.co.kr/article/78328"/>
-        <updated>2023-06-16T17:41:10.148Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 20 Jun 2023 05:41:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션과 음악의 유기적 모멘트]]></title>
+            <link>https://www.elle.co.kr/article/78250</link>
+            <guid>https://www.elle.co.kr/article/78250</guid>
+            <pubDate>Mon, 19 Jun 2023 17:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[런웨이와 무대 위에서 펼쳐지는 패션과 음악의 상관관계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/a2eadd33-3011-4a40-898c-8ec12bb3ceaa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누적된 이야기들]]></title>
+            <link>https://www.elle.co.kr/article/78361</link>
+            <guid>https://www.elle.co.kr/article/78361</guid>
+            <pubDate>Mon, 19 Jun 2023 17:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[오랜 시간 애정을 갖고 쌓아온 이야기들이 책이 되어 나왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/17/9e8fb284-2495-4905-a87b-e5e812a12c92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셔누가 파이트 저지로? 2년 만에 돌아오는 '스우파' 시즌2 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78427</link>
+            <guid>https://www.elle.co.kr/article/78427</guid>
+            <pubDate>Mon, 19 Jun 2023 17:40:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/ec220cb6-196b-4059-84df-5ae8f6a136d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진짜일까? 임시완이 '오징어게임' 시즌2의 주연을 맡을지도 모른다]]></title>
+            <link>https://www.elle.co.kr/article/78391</link>
+            <guid>https://www.elle.co.kr/article/78391</guid>
+            <pubDate>Mon, 19 Jun 2023 17:40:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/69a46902-9b6e-4a5b-84a6-35f4cb7fdb69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다]]></title>
+            <link>https://www.elle.co.kr/article/78371</link>
+            <guid>https://www.elle.co.kr/article/78371</guid>
+            <pubDate>Sun, 18 Jun 2023 17:40:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/fae9e72b-9f51-476d-80bb-fb674372bfb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마요르카 에이스 이강인, 300억 원에 라리가 떠난다? 지금까지 알려진 이적 정보]]></title>
+            <link>https://www.elle.co.kr/article/78370</link>
+            <guid>https://www.elle.co.kr/article/78370</guid>
+            <pubDate>Sun, 18 Jun 2023 17:40:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/208e373b-ec23-4464-901e-8a596144e301.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본질의 회귀! 에르메스 홈 컬렉션]]></title>
+            <link>https://www.elle.co.kr/article/78253</link>
+            <guid>https://www.elle.co.kr/article/78253</guid>
+            <pubDate>Fri, 16 Jun 2023 17:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[에르메스가 2023 밀란 디자인 위크를 맞아 &lt;엘르 데코&gt;를 다시 밀란으로 초대했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/dec8b378-3bea-4dbf-bdfd-bd65b943ab4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['MI7' 톰 크루즈 11번째 내한 VS. '바비' 마고 로비-라이언 고슬링 첫 내한]]></title>
+            <link>https://www.elle.co.kr/article/78328</link>
+            <guid>https://www.elle.co.kr/article/78328</guid>
+            <pubDate>Fri, 16 Jun 2023 17:41:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/e5822e61-dd29-4d36-bad6-681ed512f3a5.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -1,89 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/moviesandtv</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-06-19T17:41:04.936Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이준호X임윤아, 이 케미 무엇? '킹더랜드'가 첫 방송부터 화제 일으킨 이유]]></title>
-        <id>https://www.elle.co.kr/article/78466</id>
-        <link href="https://www.elle.co.kr/article/78466"/>
-        <updated>2023-06-19T17:40:39.716Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라미란X이도현의 살벌한 연기력! '나쁜 엄마' 명장면 모음 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/78465</id>
-        <link href="https://www.elle.co.kr/article/78465"/>
-        <updated>2023-06-19T17:40:39.717Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셔누가 파이트 저지로? 2년 만에 돌아오는 '스우파' 시즌2 정보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/78427</id>
-        <link href="https://www.elle.co.kr/article/78427"/>
-        <updated>2023-06-16T17:41:28.158Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진짜일까? 임시완이 '오징어게임' 시즌2의 주연을 맡을지도 모른다]]></title>
-        <id>https://www.elle.co.kr/article/78391</id>
-        <link href="https://www.elle.co.kr/article/78391"/>
-        <updated>2023-06-16T05:41:01.380Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다]]></title>
-        <id>https://www.elle.co.kr/article/78371</id>
-        <link href="https://www.elle.co.kr/article/78371"/>
-        <updated>2023-06-14T17:41:48.055Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['MI7' 톰 크루즈 11번째 내한 VS. '바비' 마고 로비-라이언 고슬링 첫 내한]]></title>
-        <id>https://www.elle.co.kr/article/78328</id>
-        <link href="https://www.elle.co.kr/article/78328"/>
-        <updated>2023-06-13T05:40:54.813Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유종의 미 거둔 '닥터 차정숙'! 주연 배우들이 꼽은 명장면·명대사 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/78306</id>
-        <link href="https://www.elle.co.kr/article/78306"/>
-        <updated>2023-06-12T17:40:53.314Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/78275</id>
-        <link href="https://www.elle.co.kr/article/78275"/>
-        <updated>2023-06-09T17:40:46.062Z</updated>
-        <content type="html"><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi]]></title>
-        <id>https://www.elle.co.kr/article/78186</id>
-        <link href="https://www.elle.co.kr/article/78186"/>
-        <updated>2023-06-07T17:40:43.925Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석 컴백부터 안효섭X이성경의 단짠 로맨스까지! '낭만닥터 김사부3' 인기 요인 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/78134</id>
-        <link href="https://www.elle.co.kr/article/78134"/>
-        <updated>2023-06-05T17:41:55.822Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 자체로 재밌다고 소문난 ‘자우림, 더 원더랜드’]]></title>
-        <id>https://www.elle.co.kr/article/78113</id>
-        <link href="https://www.elle.co.kr/article/78113"/>
-        <updated>2023-06-04T05:41:20.077Z</updated>
-        <content type="html"><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체?]]></title>
-        <id>https://www.elle.co.kr/article/78102</id>
-        <link href="https://www.elle.co.kr/article/78102"/>
-        <updated>2023-06-03T05:41:28.268Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로!]]></title>
-        <id>https://www.elle.co.kr/article/78078</id>
-        <link href="https://www.elle.co.kr/article/78078"/>
-        <updated>2023-06-02T05:41:26.866Z</updated>
-        <content type="html"><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 20 Jun 2023 05:41:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이준호X임윤아, 이 케미 무엇? '킹더랜드'가 첫 방송부터 화제 일으킨 이유]]></title>
+            <link>https://www.elle.co.kr/article/78466</link>
+            <guid>https://www.elle.co.kr/article/78466</guid>
+            <pubDate>Mon, 19 Jun 2023 17:40:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/6a84eef8-1d79-4566-9160-7cb6d83e888e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라미란X이도현의 살벌한 연기력! '나쁜 엄마' 명장면 모음 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/78465</link>
+            <guid>https://www.elle.co.kr/article/78465</guid>
+            <pubDate>Mon, 19 Jun 2023 17:40:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/364ad08a-563f-4f7b-aed3-6dd1f3e33d31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셔누가 파이트 저지로? 2년 만에 돌아오는 '스우파' 시즌2 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78427</link>
+            <guid>https://www.elle.co.kr/article/78427</guid>
+            <pubDate>Fri, 16 Jun 2023 17:41:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/ec220cb6-196b-4059-84df-5ae8f6a136d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진짜일까? 임시완이 '오징어게임' 시즌2의 주연을 맡을지도 모른다]]></title>
+            <link>https://www.elle.co.kr/article/78391</link>
+            <guid>https://www.elle.co.kr/article/78391</guid>
+            <pubDate>Fri, 16 Jun 2023 05:41:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/69a46902-9b6e-4a5b-84a6-35f4cb7fdb69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다]]></title>
+            <link>https://www.elle.co.kr/article/78371</link>
+            <guid>https://www.elle.co.kr/article/78371</guid>
+            <pubDate>Wed, 14 Jun 2023 17:41:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['MI7' 톰 크루즈 11번째 내한 VS. '바비' 마고 로비-라이언 고슬링 첫 내한]]></title>
+            <link>https://www.elle.co.kr/article/78328</link>
+            <guid>https://www.elle.co.kr/article/78328</guid>
+            <pubDate>Tue, 13 Jun 2023 05:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[유종의 미 거둔 '닥터 차정숙'! 주연 배우들이 꼽은 명장면·명대사 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/78306</link>
+            <guid>https://www.elle.co.kr/article/78306</guid>
+            <pubDate>Mon, 12 Jun 2023 17:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[캐스팅 무슨 일? 강동원이 노비 된다는 넷플릭스 영화 '전, 란' 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/78275</link>
+            <guid>https://www.elle.co.kr/article/78275</guid>
+            <pubDate>Fri, 09 Jun 2023 17:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi]]></title>
+            <link>https://www.elle.co.kr/article/78186</link>
+            <guid>https://www.elle.co.kr/article/78186</guid>
+            <pubDate>Wed, 07 Jun 2023 17:40:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[유연석 컴백부터 안효섭X이성경의 단짠 로맨스까지! '낭만닥터 김사부3' 인기 요인 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/78134</link>
+            <guid>https://www.elle.co.kr/article/78134</guid>
+            <pubDate>Mon, 05 Jun 2023 17:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[영화 자체로 재밌다고 소문난 ‘자우림, 더 원더랜드’]]></title>
+            <link>https://www.elle.co.kr/article/78113</link>
+            <guid>https://www.elle.co.kr/article/78113</guid>
+            <pubDate>Sun, 04 Jun 2023 05:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배우 이주승과 십년지기 절친 천우희, 알고 보니 친척 누나 바이브 그 자체?]]></title>
+            <link>https://www.elle.co.kr/article/78102</link>
+            <guid>https://www.elle.co.kr/article/78102</guid>
+            <pubDate>Sat, 03 Jun 2023 05:41:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[왕따설로 '섹스 앤 더 시티'를 떠난 사만다가 돌아온다? 무려 캐리와의 화해 신으로!]]></title>
+            <link>https://www.elle.co.kr/article/78078</link>
+            <guid>https://www.elle.co.kr/article/78078</guid>
+            <pubDate>Fri, 02 Jun 2023 05:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[다시는 사만다 역을 맡지 않겠다던 그였다.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
