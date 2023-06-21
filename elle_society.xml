@@ -1,60 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/society</id>
-    <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-06-21T05:41:28.152Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 세상을 이루는 수학과 음악]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/78212</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/78212"/>
-        <updated>2023-06-21T05:41:27.339Z</updated>
-        <content type="html"><![CDATA[음악을 동경한다. 음악 그 자체에 느끼는 경이와 음악 하는 사람에 대한 경외심이 함께 어우러...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '1987' 촬영을 이 곳에서? 6·10 민주항쟁 기념 명소 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/78254</id>
-        <link href="https://www.elle.co.kr/article/78254"/>
-        <updated>2023-06-15T17:41:49.678Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시간이 없어서 돈을 못 번다고? 화려한 'N잡러' 뒤에 숨겨진 치열한 노력 따라잡기_돈쓸신잡 #101]]></title>
-        <id>https://www.elle.co.kr/article/78211</id>
-        <link href="https://www.elle.co.kr/article/78211"/>
-        <updated>2023-06-15T05:42:18.484Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 유튜브 오느른 의 주인공, 최별 PD가 자연 속에서 깨달은 것]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/78195</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/78195"/>
-        <updated>2023-06-13T17:43:16.952Z</updated>
-        <content type="html"><![CDATA[오랜 인연이 결혼이 됐다! 어떻게? 최별 PD가 초여름 조금씩 달리기 시작한 이유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17살에 받아 평생 쓰는 주민등록증, 이제 재발급 필수? 변경 예정인 신분증 정책]]></title>
-        <id>https://www.elle.co.kr/article/78203</id>
-        <link href="https://www.elle.co.kr/article/78203"/>
-        <updated>2023-06-11T17:42:01.718Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’]]></title>
-        <id>https://www.elle.co.kr/article/78194</id>
-        <link href="https://www.elle.co.kr/article/78194"/>
-        <updated>2023-06-09T17:41:16.702Z</updated>
-        <content type="html"><![CDATA[헤드셋이 아닌 컴퓨터라고 불러주세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 운동코치 에리카가 힙합을 좋아하게 된 이유]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/78153</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/78153"/>
-        <updated>2023-06-09T17:41:16.707Z</updated>
-        <content type="html"><![CDATA['여자어'에서 벗어나 솔직하고 명확한 언어로.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 작가도 작가로 치나요? 네이버-카카오 웹툰 플랫폼이 보인 반응]]></title>
-        <id>https://www.elle.co.kr/article/78095</id>
-        <link href="https://www.elle.co.kr/article/78095"/>
-        <updated>2023-06-08T05:41:32.424Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 소사이어티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Jun 2023 17:42:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 세상을 이루는 수학과 음악]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/78212</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/78212</guid>
+            <pubDate>Wed, 21 Jun 2023 05:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[음악을 동경한다. 음악 그 자체에 느끼는 경이와 음악 하는 사람에 대한 경외심이 함께 어우러...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/10/00f9ef73-c724-4ac2-a98f-0a41ab835d0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '1987' 촬영을 이 곳에서? 6·10 민주항쟁 기념 명소 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/78254</link>
+            <guid>https://www.elle.co.kr/article/78254</guid>
+            <pubDate>Thu, 15 Jun 2023 17:41:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/d035e6bc-3b38-483c-991a-0dacc18549b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간이 없어서 돈을 못 번다고? 화려한 'N잡러' 뒤에 숨겨진 치열한 노력 따라잡기_돈쓸신잡 #101]]></title>
+            <link>https://www.elle.co.kr/article/78211</link>
+            <guid>https://www.elle.co.kr/article/78211</guid>
+            <pubDate>Thu, 15 Jun 2023 05:42:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/4a7882a9-796c-4bf2-bce2-e21051ad8a3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 유튜브 오느른 의 주인공, 최별 PD가 자연 속에서 깨달은 것]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/78195</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/78195</guid>
+            <pubDate>Tue, 13 Jun 2023 17:43:16 GMT</pubDate>
+            <content:encoded><![CDATA[오랜 인연이 결혼이 됐다! 어떻게? 최별 PD가 초여름 조금씩 달리기 시작한 이유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/1409be00-b13c-4da4-84c2-996d2ee81e1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[17살에 받아 평생 쓰는 주민등록증, 이제 재발급 필수? 변경 예정인 신분증 정책]]></title>
+            <link>https://www.elle.co.kr/article/78203</link>
+            <guid>https://www.elle.co.kr/article/78203</guid>
+            <pubDate>Sun, 11 Jun 2023 17:42:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/acced2d1-2c73-43f7-ab5c-5745cac6ad61.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’]]></title>
+            <link>https://www.elle.co.kr/article/78194</link>
+            <guid>https://www.elle.co.kr/article/78194</guid>
+            <pubDate>Fri, 09 Jun 2023 17:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[헤드셋이 아닌 컴퓨터라고 불러주세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/d751c85b-8ab9-4b7f-bf56-443aee21d033.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 운동코치 에리카가 힙합을 좋아하게 된 이유]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/78153</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/78153</guid>
+            <pubDate>Fri, 09 Jun 2023 17:41:16 GMT</pubDate>
+            <content:encoded><![CDATA['여자어'에서 벗어나 솔직하고 명확한 언어로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/bebfef8f-b3d6-40e2-a26b-85b0b9eeddea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 작가도 작가로 치나요? 네이버-카카오 웹툰 플랫폼이 보인 반응]]></title>
+            <link>https://www.elle.co.kr/article/78095</link>
+            <guid>https://www.elle.co.kr/article/78095</guid>
+            <pubDate>Thu, 08 Jun 2023 05:41:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/42d4c74b-bcec-4bfc-a191-62197fdc455a.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
