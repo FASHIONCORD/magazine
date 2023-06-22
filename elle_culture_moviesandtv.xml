@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-06-22T05:42:06.157Z</updated>
+    <updated>2023-06-22T17:41:33.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제?]]></title>
+        <id>https://www.elle.co.kr/article/78607</id>
+        <link href="https://www.elle.co.kr/article/78607"/>
+        <updated>2023-06-22T17:41:04.681Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은?]]></title>
         <id>https://www.elle.co.kr/article/78510</id>
@@ -77,12 +83,5 @@
         <id>https://www.elle.co.kr/article/78134</id>
         <link href="https://www.elle.co.kr/article/78134"/>
         <updated>2023-06-05T17:41:55.822Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 자체로 재밌다고 소문난 ‘자우림, 더 원더랜드’]]></title>
-        <id>https://www.elle.co.kr/article/78113</id>
-        <link href="https://www.elle.co.kr/article/78113"/>
-        <updated>2023-06-04T05:41:20.077Z</updated>
-        <content type="html"><![CDATA[“120분은 너무 짧아요.” 밴드 자우림의 25주년의 역사를 다 알지 못하더라도 재밌다고 소문난 ...]]></content>
     </entry>
 </feed>

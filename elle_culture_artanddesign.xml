@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 05:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 17:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닮은 듯 다른 두 작가의 그림]]></title>
+            <link>https://www.elle.co.kr/article/78224</link>
+            <guid>https://www.elle.co.kr/article/78224</guid>
+            <pubDate>Thu, 22 Jun 2023 17:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[미술가 이수경과 정수정은 예전에 한 번도 만난 적 없다. 세대는 다르지만 두 작가의 화폭에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/4cbdb0f8-2d98-4796-9931-79303e5cf192.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알바 알토가 살아 숨쉬는 집 #더컬렉터스]]></title>
+            <link>https://www.elle.co.kr/article/78331</link>
+            <guid>https://www.elle.co.kr/article/78331</guid>
+            <pubDate>Thu, 22 Jun 2023 17:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[볕으로 가득 차는 서울 부암동의 작은 빌라. 이곳에 알바 알토와 아이노 알토의 디자인이 나란...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/72405053-3741-4cdd-b7e7-a241896abbcf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘르 데코 픽! 센스 있는 선물 리스트]]></title>
             <link>https://www.elle.co.kr/article/78266</link>
@@ -29,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/78253</guid>
             <pubDate>Tue, 13 Jun 2023 17:42:58 GMT</pubDate>
             <content:encoded><![CDATA[에르메스가 2023 밀란 디자인 위크를 맞아 &lt;엘르 데코&gt;를 다시 밀란으로 초대했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/dec8b378-3bea-4dbf-bdfd-bd65b943ab4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 밀란 디자인 위크에서 생긴 일]]></title>
@@ -37,7 +52,6 @@
             <guid>https://www.elle.co.kr/article/78251</guid>
             <pubDate>Sun, 11 Jun 2023 17:41:14 GMT</pubDate>
             <content:encoded><![CDATA[4월에 열린 밀란 디자인 위크와 살로네 델 모빌레 페어에서 가장 열렬히 호명된 이름과 그들의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/7bc906f6-cbe6-4975-92d5-ee6cdf83eb15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타가 다녀간 전시회는 어디? 지금 꼭 봐야하는 전시 3]]></title>
@@ -87,20 +101,6 @@
             <guid>https://www.elle.co.kr/article/78085</guid>
             <pubDate>Sat, 03 Jun 2023 17:41:44 GMT</pubDate>
             <content:encoded><![CDATA[많은 것이 사라지고 변하는 세상에서 변치 않는 전통과 지역 장인의 정신을 품은 아주 현대적인...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안녕 피터!]]></title>
-            <link>https://www.elle.co.kr/article/78053</link>
-            <guid>https://www.elle.co.kr/article/78053</guid>
-            <pubDate>Thu, 01 Jun 2023 17:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[새 시대의 문을 열, 두 명의 피터에 주목하자.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 서울국제도서전에서 '엘르 데코' #같이읽어요]]></title>
-            <link>https://www.elle.co.kr/article/78036</link>
-            <guid>https://www.elle.co.kr/article/78036</guid>
-            <pubDate>Thu, 01 Jun 2023 05:41:17 GMT</pubDate>
-            <content:encoded><![CDATA['엘르 데코'와 레어로우가 함께 준비한 ‘코-리딩 라운지’ 미리보기.]]></content:encoded>
         </item>
     </channel>
 </rss>

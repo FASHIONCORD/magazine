@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-22T05:42:06.159Z</updated>
+    <updated>2023-06-22T17:41:33.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비키니 입고 헤엄쳐요]]></title>
+        <id>https://www.elle.co.kr/article/78229</id>
+        <link href="https://www.elle.co.kr/article/78229"/>
+        <updated>2023-06-22T17:40:15.618Z</updated>
+        <content type="html"><![CDATA[바다 너머로 모험을 떠나는 인어공주처럼.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이세영과 오니츠카타이거의 '멕시코 66 캑트풀' 화보]]></title>
         <id>https://www.elle.co.kr/article/78515</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78431"/>
         <updated>2023-06-20T05:39:58.565Z</updated>
         <content type="html"><![CDATA[벨라 하디드부터 김나영까지 옷 잘 입는 스타들이 즐기는 헤드 스카프 스타일링을 모아봤어요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘에어팟 맥스 가방’과 코페르니의 ‘이어폰 귀걸이’의 정체는? 이어폰의 변신은 무죄 3]]></title>
-        <id>https://www.elle.co.kr/article/78426</id>
-        <link href="https://www.elle.co.kr/article/78426"/>
-        <updated>2023-06-19T17:40:01.665Z</updated>
-        <content type="html"><![CDATA[귀걸이부터 가방, 스카프까지! 그 어떤 것으로도 변신할 수 있는 이어폰의 무한한 가능성.]]></content>
     </entry>
 </feed>
