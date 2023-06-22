@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-21T17:42:04.116Z</updated>
+    <updated>2023-06-22T05:42:06.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 제니부터 정호연까지! 셀럽들의 친구 '수스'의 활약 모아보기]]></title>
+        <id>https://www.elle.co.kr/article/78528</id>
+        <link href="https://www.elle.co.kr/article/78528"/>
+        <updated>2023-06-22T05:40:55.163Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름엔 가방도 다이어트를! Y2K 스타일 숄더백 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/78521</id>
+        <link href="https://www.elle.co.kr/article/78521"/>
+        <updated>2023-06-22T05:40:55.170Z</updated>
+        <content type="html"><![CDATA[서머 백 쇼핑을 계획하고 있다면? 스타들이 애정하는 세기말 분위기 가득한 숄더백을 확인해 보...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이세영과 오니츠카타이거의 '멕시코 66 캑트풀' 화보]]></title>
+        <id>https://www.elle.co.kr/article/78515</id>
+        <link href="https://www.elle.co.kr/article/78515"/>
+        <updated>2023-06-22T05:40:55.172Z</updated>
+        <content type="html"><![CDATA[오니츠카타이거의 신제품 멕시코 66 캑트풀(MEXICO 66 CACTFUL)을 신고, 폴짝! 뛰어오르는 배...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은?]]></title>
         <id>https://www.elle.co.kr/article/78510</id>
@@ -37,24 +57,5 @@
         <id>https://www.elle.co.kr/article/78466</id>
         <link href="https://www.elle.co.kr/article/78466"/>
         <updated>2023-06-21T05:40:26.302Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라미란X이도현의 살벌한 연기력! '나쁜 엄마' 명장면 모음 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/78465</id>
-        <link href="https://www.elle.co.kr/article/78465"/>
-        <updated>2023-06-21T05:40:26.303Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연기-연예-가요대상급 관객석! 브루노 마스 내한 콘서트 관람 포착된 셀럽은?]]></title>
-        <id>https://www.elle.co.kr/article/78463</id>
-        <link href="https://www.elle.co.kr/article/78463"/>
-        <updated>2023-06-20T05:40:36.506Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<마당이 있는 집> 김태희X임지연, 역대급 뜨거운 조우]]></title>
-        <id>https://www.elle.co.kr/article/78442</id>
-        <link href="https://www.elle.co.kr/article/78442"/>
-        <updated>2023-06-20T05:40:36.508Z</updated>
-        <content type="html"><![CDATA[아름답고 강렬한 케미스트리 담은 &lt;엘르&gt; 화보 공개.]]></content>
     </entry>
 </feed>
