@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 05:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 17:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사물(사람과 물건) 인터뷰 #1 스타일리스트 엄아름]]></title>
+            <link>https://www.elle.co.kr/article/78555</link>
+            <guid>https://www.elle.co.kr/article/78555</guid>
+            <pubDate>Fri, 23 Jun 2023 17:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[태연의 스타일리스트 엄아름이 애정하는 물건과 그 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/f2ad807c-6abb-408a-98e7-61e0746b335b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비싼 만큼 신중하게 선택할 것! 모델 김성희가 추천하는 인생 가방 11]]></title>
+            <link>https://www.elle.co.kr/article/78551</link>
+            <guid>https://www.elle.co.kr/article/78551</guid>
+            <pubDate>Fri, 23 Jun 2023 17:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[김성희가 추천하는 11가지 명품 백을 크기별로 나누어 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/83aee937-c8e4-4c50-90b0-417cf85a9c4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크의 아티스틱 디렉터로 발탁된 베르디는 누구?]]></title>
             <link>https://www.elle.co.kr/article/78535</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 21 Jun 2023 05:40:06 GMT</pubDate>
             <content:encoded><![CDATA[여름을 건강하게 준비하는 완벽한 방법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/6072f69e-6444-4439-8a67-6efedb206573.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시원한 손맛의 크로쉐 아이템]]></title>
-            <link>https://www.elle.co.kr/article/78307</link>
-            <guid>https://www.elle.co.kr/article/78307</guid>
-            <pubDate>Wed, 21 Jun 2023 05:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[그 어떤 여행이라도 괜찮다. 당신의 여정에 동행할 완벽한 뷰티 트래블 키트만 있다면.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/ec068d6a-8c03-431d-ba7e-7c1b4686a4ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션과 음악의 유기적 모멘트]]></title>
-            <link>https://www.elle.co.kr/article/78250</link>
-            <guid>https://www.elle.co.kr/article/78250</guid>
-            <pubDate>Tue, 20 Jun 2023 17:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[런웨이와 무대 위에서 펼쳐지는 패션과 음악의 상관관계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/a2eadd33-3011-4a40-898c-8ec12bb3ceaa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

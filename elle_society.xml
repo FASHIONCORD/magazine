@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-06-23T05:43:10.674Z</updated>
+    <updated>2023-06-23T17:42:05.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능은 패션을 대체할 수 있을까.]]></title>
+        <id>https://www.elle.co.kr/article/78330</id>
+        <link href="https://www.elle.co.kr/article/78330"/>
+        <updated>2023-06-23T17:42:04.666Z</updated>
+        <content type="html"><![CDATA[AI가 패션을?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이것’ 없는 주식 투자는 99.9% 실패! 후회 없이 투자하는 방법은?_돈쓸신잡 #102]]></title>
+        <id>https://www.elle.co.kr/article/78383</id>
+        <link href="https://www.elle.co.kr/article/78383"/>
+        <updated>2023-06-23T17:42:04.676Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딱 한 걸음의 용기]]></title>
+        <id>https://www.elle.co.kr/article/78302</id>
+        <link href="https://www.elle.co.kr/article/78302"/>
+        <updated>2023-06-23T17:42:04.677Z</updated>
+        <content type="html"><![CDATA[미투, 그 이후의 이야기를 전하는 팀 ‘상-여자의 착지술’을 기획한 마민지는 오늘도 용맹한 걸...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나는 북한이주민과 결혼했다! 남편이 북한이주민이라면?]]></title>
         <id>https://www.elle.co.kr/article/78289</id>
@@ -37,25 +57,5 @@
         <link href="https://www.elle.co.kr/ellevoice/essay/78195"/>
         <updated>2023-06-13T17:43:16.952Z</updated>
         <content type="html"><![CDATA[오랜 인연이 결혼이 됐다! 어떻게? 최별 PD가 초여름 조금씩 달리기 시작한 이유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17살에 받아 평생 쓰는 주민등록증, 이제 재발급 필수? 변경 예정인 신분증 정책]]></title>
-        <id>https://www.elle.co.kr/article/78203</id>
-        <link href="https://www.elle.co.kr/article/78203"/>
-        <updated>2023-06-11T17:42:01.718Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’]]></title>
-        <id>https://www.elle.co.kr/article/78194</id>
-        <link href="https://www.elle.co.kr/article/78194"/>
-        <updated>2023-06-09T17:41:16.702Z</updated>
-        <content type="html"><![CDATA[헤드셋이 아닌 컴퓨터라고 불러주세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 운동코치 에리카가 힙합을 좋아하게 된 이유]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/78153</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/78153"/>
-        <updated>2023-06-09T17:41:16.707Z</updated>
-        <content type="html"><![CDATA['여자어'에서 벗어나 솔직하고 명확한 언어로.]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 05:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 17:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용하고 따뜻한 떨림, 윤여동의 금속 공예]]></title>
+            <link>https://www.elle.co.kr/article/78223</link>
+            <guid>https://www.elle.co.kr/article/78223</guid>
+            <pubDate>Fri, 23 Jun 2023 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[윤여동이 찾아낸, 가장 따뜻함에 가까운 금속.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/24/05c462c5-c1df-4c4b-9fb3-1c2d2357981d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닮은 듯 다른 두 작가의 그림]]></title>
             <link>https://www.elle.co.kr/article/78224</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/78255</guid>
             <pubDate>Sun, 18 Jun 2023 17:41:10 GMT</pubDate>
             <content:encoded><![CDATA[축제의 장에서 가장 열렬히 호명된 이름과 그들의 디자인 세계관.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/c2a386ac-526e-47db-bbcb-6ef1ced165f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[본질의 회귀! 에르메스 홈 컬렉션]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/78083</guid>
             <pubDate>Sat, 03 Jun 2023 17:41:44 GMT</pubDate>
             <content:encoded><![CDATA[만화가 실키는 어느 날 프랑스로 향했다. 그곳에서 반드시 그려야 할 이야기가 있었으므로.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지역의 전통과 장인 정신을 품은 현대적인 물건들]]></title>
-            <link>https://www.elle.co.kr/article/78085</link>
-            <guid>https://www.elle.co.kr/article/78085</guid>
-            <pubDate>Sat, 03 Jun 2023 17:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[많은 것이 사라지고 변하는 세상에서 변치 않는 전통과 지역 장인의 정신을 품은 아주 현대적인...]]></content:encoded>
         </item>
     </channel>
 </rss>
