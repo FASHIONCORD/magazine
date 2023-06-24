@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-06-23T17:42:05.545Z</updated>
+    <updated>2023-06-24T05:43:16.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘리틀 포레스트’ 느낌 물씬! 여름 요리 레서피 3]]></title>
+        <id>https://www.elle.co.kr/article/78438</id>
+        <link href="https://www.elle.co.kr/article/78438"/>
+        <updated>2023-06-24T05:43:05.653Z</updated>
+        <content type="html"><![CDATA[무더운 날씨에 집 나간 입맛을 되찾는 방법! 미각을 상큼하게 깨워 줄 정재형표 여름 요리 레...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드라마 성지순례부터 오션뷰 힐링까지, 6월 '여행 가는 달' 추천 코스 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/78421</id>
@@ -50,12 +57,5 @@
         <id>https://www.elle.co.kr/article/78337</id>
         <link href="https://www.elle.co.kr/article/78337"/>
         <updated>2023-06-16T05:41:22.457Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름의 서울, 네 곳의 드링크 신]]></title>
-        <id>https://www.elle.co.kr/article/78217</id>
-        <link href="https://www.elle.co.kr/article/78217"/>
-        <updated>2023-06-16T05:41:22.458Z</updated>
-        <content type="html"><![CDATA[기꺼이 들이켜고 싶은 여름의 서울 풍경, 그 달콤하고 씁쓸한 한 잔.]]></content>
     </entry>
 </feed>
