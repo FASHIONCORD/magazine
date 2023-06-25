@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 05:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 17:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선크림부터 향수까지! 장희령이 꼽은 일곱 가지 뷰티 아이템]]></title>
+            <link>https://www.elle.co.kr/article/78443</link>
+            <guid>https://www.elle.co.kr/article/78443</guid>
+            <pubDate>Sun, 25 Jun 2023 17:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[청초한 매력을 가진 장희령이 ‘찐’으로 애정하는 뷰티템을 구경해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/82901112-ee1a-4723-b06e-5a0bff6c8cad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갓벽한 여행을 원한다면? 뷰티 트래블 키트 4]]></title>
             <link>https://www.elle.co.kr/article/78261</link>
@@ -60,14 +68,6 @@
             <pubDate>Fri, 16 Jun 2023 17:40:46 GMT</pubDate>
             <content:encoded><![CDATA[컨실러 하나로 베이스 메이크업 끝! 꿉꿉한 여름에 딱 필요한 멀티 유즈 컨실러 리스트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/6d10788b-abc6-48d4-8a38-8ea04fca5568.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이것만 지켜도 꿀피부 보장! '기본 중의 기본' 스킨케어 5대 법칙_선배’s 어드바이스 #172]]></title>
-            <link>https://www.elle.co.kr/article/78299</link>
-            <guid>https://www.elle.co.kr/article/78299</guid>
-            <pubDate>Thu, 15 Jun 2023 17:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[게으름뱅이도 피부 미인으로 거듭날 수 있는 스킨케어 팁.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/adcc9035-517d-4938-a46b-e682b1709357.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
