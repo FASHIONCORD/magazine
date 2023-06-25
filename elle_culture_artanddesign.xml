@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-06-24T17:41:23.715Z</updated>
+    <updated>2023-06-25T05:43:43.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[조용하고 따뜻한 떨림, 윤여동의 금속 공예]]></title>
-        <id>https://www.elle.co.kr/article/78223</id>
-        <link href="https://www.elle.co.kr/article/78223"/>
-        <updated>2023-06-23T17:41:45.867Z</updated>
-        <content type="html"><![CDATA[윤여동이 찾아낸, 가장 따뜻함에 가까운 금속.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닮은 듯 다른 두 작가의 그림]]></title>
-        <id>https://www.elle.co.kr/article/78224</id>
-        <link href="https://www.elle.co.kr/article/78224"/>
-        <updated>2023-06-22T17:41:14.298Z</updated>
-        <content type="html"><![CDATA[미술가 이수경과 정수정은 예전에 한 번도 만난 적 없다. 세대는 다르지만 두 작가의 화폭에 ...]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[알바 알토가 살아 숨쉬는 집 #더컬렉터스]]></title>
         <id>https://www.elle.co.kr/article/78331</id>
@@ -95,5 +81,19 @@
         <link href="https://www.elle.co.kr/article/78083"/>
         <updated>2023-06-03T17:41:44.991Z</updated>
         <content type="html"><![CDATA[만화가 실키는 어느 날 프랑스로 향했다. 그곳에서 반드시 그려야 할 이야기가 있었으므로.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지역의 전통과 장인 정신을 품은 현대적인 물건들]]></title>
+        <id>https://www.elle.co.kr/article/78085</id>
+        <link href="https://www.elle.co.kr/article/78085"/>
+        <updated>2023-06-25T05:43:19.303Z</updated>
+        <content type="html"><![CDATA[많은 것이 사라지고 변하는 세상에서 변치 않는 전통과 지역 장인의 정신을 품은 아주 현대적인...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안녕 피터!]]></title>
+        <id>https://www.elle.co.kr/article/78053</id>
+        <link href="https://www.elle.co.kr/article/78053"/>
+        <updated>2023-06-25T05:43:19.325Z</updated>
+        <content type="html"><![CDATA[새 시대의 문을 열, 두 명의 피터에 주목하자.]]></content>
     </entry>
 </feed>
