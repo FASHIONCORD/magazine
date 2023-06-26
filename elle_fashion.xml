@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-26T05:42:47.567Z</updated>
+    <updated>2023-06-26T17:42:14.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신의 애창곡]]></title>
+        <id>https://www.elle.co.kr/article/78196</id>
+        <link href="https://www.elle.co.kr/article/78196"/>
+        <updated>2023-06-26T17:40:38.109Z</updated>
+        <content type="html"><![CDATA[익숙한 그 번호를 눌러.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매혹적인 색에 머무는 순간]]></title>
+        <id>https://www.elle.co.kr/article/78222</id>
+        <link href="https://www.elle.co.kr/article/78222"/>
+        <updated>2023-06-26T17:40:38.109Z</updated>
+        <content type="html"><![CDATA[기하학적인 아름다움을 가진 디올의 젬 디올 컬렉션.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파리의 퐁네프를 수놓은 루이 비통의 새로운 패턴은? 2024 SS 파리 남성복 패션위크 속 순간들 3]]></title>
         <id>https://www.elle.co.kr/article/78633</id>
@@ -46,19 +60,5 @@
         <link href="https://www.elle.co.kr/article/78551"/>
         <updated>2023-06-23T17:40:44.930Z</updated>
         <content type="html"><![CDATA[김성희가 추천하는 11가지 명품 백을 크기별로 나누어 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크의 아티스틱 디렉터로 발탁된 베르디는 누구?]]></title>
-        <id>https://www.elle.co.kr/article/78535</id>
-        <link href="https://www.elle.co.kr/article/78535"/>
-        <updated>2023-06-23T05:40:46.076Z</updated>
-        <content type="html"><![CDATA[‘걸스 돈 크라이’부터 ‘웨이스티드 유스’까지, 뇌리에 꽂히는 강렬한 슬로건의 주인공.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름엔 가방도 다이어트를! Y2K 스타일 숄더백 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/78521</id>
-        <link href="https://www.elle.co.kr/article/78521"/>
-        <updated>2023-06-23T05:40:46.078Z</updated>
-        <content type="html"><![CDATA[서머 백 쇼핑을 계획하고 있다면? 스타들이 애정하는 세기말 분위기 가득한 숄더백을 확인해 보...]]></content>
     </entry>
 </feed>

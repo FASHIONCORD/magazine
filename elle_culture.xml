@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-06-26T05:42:47.571Z</updated>
+    <updated>2023-06-26T17:42:14.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제?]]></title>
+        <id>https://www.elle.co.kr/article/78607</id>
+        <link href="https://www.elle.co.kr/article/78607"/>
+        <updated>2023-06-26T17:41:10.399Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알바 알토가 살아 숨쉬는 집 #더컬렉터스]]></title>
+        <id>https://www.elle.co.kr/article/78331</id>
+        <link href="https://www.elle.co.kr/article/78331"/>
+        <updated>2023-06-26T17:41:10.400Z</updated>
+        <content type="html"><![CDATA[볕으로 가득 차는 서울 부암동의 작은 빌라. 이곳에 알바 알토와 아이노 알토의 디자인이 나란...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘르 데코 픽! 센스 있는 선물 리스트]]></title>
         <id>https://www.elle.co.kr/article/78266</id>
@@ -41,19 +54,5 @@
         <id>https://www.elle.co.kr/article/78463</id>
         <link href="https://www.elle.co.kr/article/78463"/>
         <updated>2023-06-21T05:40:36.619Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
-        <id>https://www.elle.co.kr/article/78460</id>
-        <link href="https://www.elle.co.kr/article/78460"/>
-        <updated>2023-06-20T17:40:32.132Z</updated>
-        <content type="html"><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 시티포레스티벌 2023의 기분 좋은 바이브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에르메스의 홈 텍스타일 총괄 크리에이티브 디렉터 플로랑스 라파르주와 나눈 대화]]></title>
-        <id>https://www.elle.co.kr/article/78255</id>
-        <link href="https://www.elle.co.kr/article/78255"/>
-        <updated>2023-06-20T17:40:32.137Z</updated>
-        <content type="html"><![CDATA[축제의 장에서 가장 열렬히 호명된 이름과 그들의 디자인 세계관.]]></content>
     </entry>
 </feed>
