@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-06-25T17:41:52.457Z</updated>
+    <updated>2023-06-26T05:42:47.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7]]></title>
+        <id>https://www.elle.co.kr/article/78640</id>
+        <link href="https://www.elle.co.kr/article/78640"/>
+        <updated>2023-06-26T05:41:53.223Z</updated>
+        <content type="html"><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS 인증샷 각! 윤은혜표 ‘크룽지’ 레서피]]></title>
+        <id>https://www.elle.co.kr/article/78641</id>
+        <link href="https://www.elle.co.kr/article/78641"/>
+        <updated>2023-06-26T05:41:53.224Z</updated>
+        <content type="html"><![CDATA[크루아상 좋아! 누룽지 좋아! 크루아상과 누룽지의 실패 없는 조합이 궁금하다면? 윤은혜의 크룽...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출연료도 필요 없는 끈끈한 우정! '사냥개들' 우도환과 '낭만닥터 김사부3' 김민재의 절친 모먼트]]></title>
+        <id>https://www.elle.co.kr/article/78636</id>
+        <link href="https://www.elle.co.kr/article/78636"/>
+        <updated>2023-06-26T05:41:53.226Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산에 가면 들러야 할 김나영의 '찐' 로컬 맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/78635</id>
+        <link href="https://www.elle.co.kr/article/78635"/>
+        <updated>2023-06-26T05:41:53.227Z</updated>
+        <content type="html"><![CDATA[40년 전통의 해장국집부터 숙성회를 백반으로 즐길 수 있는 횟집까지, 김나영의 입맛을 사로잡은...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 설리 유작, '페르소나'가 4년 만에 세상에 공개될지도 모른다]]></title>
         <id>https://www.elle.co.kr/article/78632</id>
@@ -30,30 +57,5 @@
         <link href="https://www.elle.co.kr/article/78538"/>
         <updated>2023-06-24T05:41:35.737Z</updated>
         <content type="html"><![CDATA[한 가지 색, 한 가지 단어로는 부족한 깊고도 신비로운 김연아의 매력.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 아이돌 사이에서 유행 중! 스모키 메이크업 (2023 ver.)]]></title>
-        <id>https://www.elle.co.kr/article/78608</id>
-        <link href="https://www.elle.co.kr/article/78608"/>
-        <updated>2023-06-24T05:41:35.752Z</updated>
-        <content type="html"><![CDATA[재유행각?! 미모 ‘포텐’ 터진 요즘 아이돌들의 공통점은 바로 스모키 메이크업!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제?]]></title>
-        <id>https://www.elle.co.kr/article/78607</id>
-        <link href="https://www.elle.co.kr/article/78607"/>
-        <updated>2023-06-23T17:41:06.443Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한예종 몸짱' 출신 김건우가 '더 글로리' 손명오 피지컬을 만들기 위해 한 일 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/78577</id>
-        <link href="https://www.elle.co.kr/article/78577"/>
-        <updated>2023-06-23T17:41:06.444Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이장우, 숏컷이 매력적인 후배 조혜원과 공개 연애 시작! (feat. 우동집 럽스타)]]></title>
-        <id>https://www.elle.co.kr/article/78573</id>
-        <link href="https://www.elle.co.kr/article/78573"/>
-        <updated>2023-06-23T17:41:06.447Z</updated>
     </entry>
 </feed>

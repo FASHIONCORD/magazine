@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-06-25T17:41:52.456Z</updated>
+    <updated>2023-06-26T05:42:47.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['스우파2', 벌써 시작된 K-POP 데스매치 영상과 크루 라인업 모음.zip (feat. 셀럽의 원픽은?)]]></title>
+        <id>https://www.elle.co.kr/article/78658</id>
+        <link href="https://www.elle.co.kr/article/78658"/>
+        <updated>2023-06-26T05:42:17.192Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['한국 영화 덕후' 아리 에스터가 봉준호와 만나 영화 이야기를 한다고?!]]></title>
+        <id>https://www.elle.co.kr/article/78651</id>
+        <link href="https://www.elle.co.kr/article/78651"/>
+        <updated>2023-06-26T05:42:17.193Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제?]]></title>
         <id>https://www.elle.co.kr/article/78607</id>
@@ -71,17 +83,5 @@
         <link href="https://www.elle.co.kr/article/78275"/>
         <updated>2023-06-09T17:40:46.062Z</updated>
         <content type="html"><![CDATA[제작-각본에는 박찬욱 감독이 참여.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무지개 회원 출신 커플, 엄현경-차서원! 다시 보는 '나 혼자 산다' 출연 모습.avi]]></title>
-        <id>https://www.elle.co.kr/article/78186</id>
-        <link href="https://www.elle.co.kr/article/78186"/>
-        <updated>2023-06-07T17:40:43.925Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유연석 컴백부터 안효섭X이성경의 단짠 로맨스까지! '낭만닥터 김사부3' 인기 요인 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/78134</id>
-        <link href="https://www.elle.co.kr/article/78134"/>
-        <updated>2023-06-05T17:41:55.822Z</updated>
     </entry>
 </feed>
