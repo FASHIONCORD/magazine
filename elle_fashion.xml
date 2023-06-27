@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-26T17:42:14.688Z</updated>
+    <updated>2023-06-27T05:41:55.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7]]></title>
+        <id>https://www.elle.co.kr/article/78640</id>
+        <link href="https://www.elle.co.kr/article/78640"/>
+        <updated>2023-06-27T05:40:34.075Z</updated>
+        <content type="html"><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신의 애창곡]]></title>
         <id>https://www.elle.co.kr/article/78196</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/78555"/>
         <updated>2023-06-23T17:40:44.928Z</updated>
         <content type="html"><![CDATA[태연의 스타일리스트 엄아름이 애정하는 물건과 그 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비싼 만큼 신중하게 선택할 것! 모델 김성희가 추천하는 인생 가방 11]]></title>
-        <id>https://www.elle.co.kr/article/78551</id>
-        <link href="https://www.elle.co.kr/article/78551"/>
-        <updated>2023-06-23T17:40:44.930Z</updated>
-        <content type="html"><![CDATA[김성희가 추천하는 11가지 명품 백을 크기별로 나누어 소개합니다.]]></content>
     </entry>
 </feed>

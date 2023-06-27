@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-06-26T17:42:14.388Z</updated>
+    <updated>2023-06-27T05:41:55.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대식가+고무줄 몸무게라는 에스파 카리나의 관리 비결 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78542</id>
+        <link href="https://www.elle.co.kr/article/78542"/>
+        <updated>2023-06-27T05:40:43.718Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤넬 N°5부터 디올의 첫 번째 향수까지, 패션 디자이너의 영혼이 담긴 뷰티 이야기 5_선배’s 어드바이스 #173]]></title>
         <id>https://www.elle.co.kr/article/78457</id>
@@ -52,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/78378"/>
         <updated>2023-06-19T05:40:58.699Z</updated>
         <content type="html"><![CDATA[MZ세대의 라이프스타일에 새로운 ‘뷰티 코어’를 형성 하고 있는 어뮤즈. 버추얼 휴먼 '아마라...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통통해서 스트레스였다고?! 태연이 체중 감량에 효과 본 운동과 마음가짐 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/78368</id>
-        <link href="https://www.elle.co.kr/article/78368"/>
-        <updated>2023-06-18T17:40:15.961Z</updated>
     </entry>
 </feed>
