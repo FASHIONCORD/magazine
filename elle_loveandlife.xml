@@ -1,73 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 05:43:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[오피신 유니버셀 불리가 그린 정원의 향]]></title>
-            <link>https://www.elle.co.kr/article/78570</link>
-            <guid>https://www.elle.co.kr/article/78570</guid>
-            <pubDate>Tue, 27 Jun 2023 17:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[빅투아 드 타야크가 '레 자뎅 프랑세 컬렉션(Les Jardins Français Collection)' 출시를 기념...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/6b03b897-a8e9-41d2-b7f5-5c23f67b2dae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS 인증샷 각! 윤은혜표 ‘크룽지’ 레서피]]></title>
-            <link>https://www.elle.co.kr/article/78641</link>
-            <guid>https://www.elle.co.kr/article/78641</guid>
-            <pubDate>Tue, 27 Jun 2023 17:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[크루아상 좋아! 누룽지 좋아! 크루아상과 누룽지의 실패 없는 조합이 궁금하다면? 윤은혜의 크룽...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/3065dfe3-64d7-46b7-b42f-eb1762691114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산에 가면 들러야 할 김나영의 '찐' 로컬 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/78635</link>
-            <guid>https://www.elle.co.kr/article/78635</guid>
-            <pubDate>Tue, 27 Jun 2023 17:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[40년 전통의 해장국집부터 숙성회를 백반으로 즐길 수 있는 횟집까지, 김나영의 입맛을 사로잡은...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/24/e11fd38b-5399-4483-9552-5c2c95121d8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우아함이 깃든 뵈브 클리코의 라 그랑 담 빈티지 2015]]></title>
-            <link>https://www.elle.co.kr/article/78550</link>
-            <guid>https://www.elle.co.kr/article/78550</guid>
-            <pubDate>Tue, 27 Jun 2023 17:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[뵈브 클리코가 말하는 정교하고 우아한 맛의 아름다움이란 바로 이런 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/7f557e7a-34f6-45a2-856e-bb10df5222a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천년의 축제에서 한방 청량음료 마시며 씨름 구경! 2023 전국 단오 행사 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/78497</link>
-            <guid>https://www.elle.co.kr/article/78497</guid>
-            <pubDate>Tue, 27 Jun 2023 17:42:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/7fcafb60-f1ab-4ccd-ba5c-9d00f1599e00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[목장에서 공수한 신선한 치즈부터 데판 다이닝까지, 특별한 날을 더욱 빛내줄 다이닝 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/78478</link>
-            <guid>https://www.elle.co.kr/article/78478</guid>
-            <pubDate>Tue, 27 Jun 2023 05:41:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/6a60aec7-5026-4e19-9115-a3280e6d4270.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
-            <link>https://www.elle.co.kr/article/78460</link>
-            <guid>https://www.elle.co.kr/article/78460</guid>
-            <pubDate>Mon, 26 Jun 2023 05:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 시티포레스티벌 2023의 기분 좋은 바이브]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/8c8e2f20-c1cb-4949-aa34-e214d6aafabf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘리틀 포레스트’ 느낌 물씬! 여름 요리 레서피 3]]></title>
-            <link>https://www.elle.co.kr/article/78438</link>
-            <guid>https://www.elle.co.kr/article/78438</guid>
-            <pubDate>Sat, 24 Jun 2023 05:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[무더운 날씨에 집 나간 입맛을 되찾는 방법! 미각을 상큼하게 깨워 줄 정재형표 여름 요리 레...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/18/cf3d1d0c-a22f-45eb-be2b-1011c654e7f5.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-06-28T17:41:40.196Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시원한 내추럴 와인과 분위기에 취하는 여름밤! 성수-이태원-을지로 와인바 #신상맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/78683</id>
+        <link href="https://www.elle.co.kr/article/78683"/>
+        <updated>2023-06-28T17:41:30.897Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오피신 유니버셀 불리가 그린 정원의 향]]></title>
+        <id>https://www.elle.co.kr/article/78570</id>
+        <link href="https://www.elle.co.kr/article/78570"/>
+        <updated>2023-06-27T17:42:26.732Z</updated>
+        <content type="html"><![CDATA[빅투아 드 타야크가 '레 자뎅 프랑세 컬렉션(Les Jardins Français Collection)' 출시를 기념...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS 인증샷 각! 윤은혜표 ‘크룽지’ 레서피]]></title>
+        <id>https://www.elle.co.kr/article/78641</id>
+        <link href="https://www.elle.co.kr/article/78641"/>
+        <updated>2023-06-27T17:42:26.735Z</updated>
+        <content type="html"><![CDATA[크루아상 좋아! 누룽지 좋아! 크루아상과 누룽지의 실패 없는 조합이 궁금하다면? 윤은혜의 크룽...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산에 가면 들러야 할 김나영의 '찐' 로컬 맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/78635</id>
+        <link href="https://www.elle.co.kr/article/78635"/>
+        <updated>2023-06-27T17:42:26.741Z</updated>
+        <content type="html"><![CDATA[40년 전통의 해장국집부터 숙성회를 백반으로 즐길 수 있는 횟집까지, 김나영의 입맛을 사로잡은...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우아함이 깃든 뵈브 클리코의 라 그랑 담 빈티지 2015]]></title>
+        <id>https://www.elle.co.kr/article/78550</id>
+        <link href="https://www.elle.co.kr/article/78550"/>
+        <updated>2023-06-27T17:42:26.744Z</updated>
+        <content type="html"><![CDATA[뵈브 클리코가 말하는 정교하고 우아한 맛의 아름다움이란 바로 이런 것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천년의 축제에서 한방 청량음료 마시며 씨름 구경! 2023 전국 단오 행사 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/78497</id>
+        <link href="https://www.elle.co.kr/article/78497"/>
+        <updated>2023-06-27T17:42:26.746Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[목장에서 공수한 신선한 치즈부터 데판 다이닝까지, 특별한 날을 더욱 빛내줄 다이닝 #신상맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/78478</id>
+        <link href="https://www.elle.co.kr/article/78478"/>
+        <updated>2023-06-27T05:41:44.387Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
+        <id>https://www.elle.co.kr/article/78460</id>
+        <link href="https://www.elle.co.kr/article/78460"/>
+        <updated>2023-06-26T05:42:38.297Z</updated>
+        <content type="html"><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 시티포레스티벌 2023의 기분 좋은 바이브]]></content>
+    </entry>
+</feed>

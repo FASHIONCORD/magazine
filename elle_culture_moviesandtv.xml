@@ -1,93 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 05:43:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[21년 전 '뉴논스톱' 연상연하 커플, 조인성X박경림이 재회했다!]]></title>
-            <link>https://www.elle.co.kr/article/78668</link>
-            <guid>https://www.elle.co.kr/article/78668</guid>
-            <pubDate>Mon, 26 Jun 2023 17:41:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/9120637b-2fa7-4a03-86d1-77dd5590733b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임윤아X이준호 케미에 아는 맛이라 더 무서운 로맨스까지! '킹더랜드' 인기 요인 3 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/78664</link>
-            <guid>https://www.elle.co.kr/article/78664</guid>
-            <pubDate>Mon, 26 Jun 2023 17:41:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/24329c30-71bd-4e2f-9c2b-5d11abbdcca5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파2', 벌써 시작된 K-POP 데스매치 영상과 크루 라인업 모음.zip (feat. 셀럽의 원픽은?)]]></title>
-            <link>https://www.elle.co.kr/article/78658</link>
-            <guid>https://www.elle.co.kr/article/78658</guid>
-            <pubDate>Mon, 26 Jun 2023 05:42:17 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/8573e16c-7c5b-4a7c-b7b2-0352f8f4cf57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한국 영화 덕후' 아리 에스터가 봉준호와 만나 영화 이야기를 한다고?!]]></title>
-            <link>https://www.elle.co.kr/article/78651</link>
-            <guid>https://www.elle.co.kr/article/78651</guid>
-            <pubDate>Mon, 26 Jun 2023 05:42:17 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/3f3b61c5-0b54-4bb4-92b2-5b2605f6a331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제?]]></title>
-            <link>https://www.elle.co.kr/article/78607</link>
-            <guid>https://www.elle.co.kr/article/78607</guid>
-            <pubDate>Thu, 22 Jun 2023 17:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은?]]></title>
-            <link>https://www.elle.co.kr/article/78510</link>
-            <guid>https://www.elle.co.kr/article/78510</guid>
-            <pubDate>Tue, 20 Jun 2023 17:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[공개 앞둔 '원피스' 실사판 드라마, '고무고무 피스톨'은 어떻게 재현했을까?]]></title>
-            <link>https://www.elle.co.kr/article/78509</link>
-            <guid>https://www.elle.co.kr/article/78509</guid>
-            <pubDate>Tue, 20 Jun 2023 17:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이준호X임윤아, 이 케미 무엇? '킹더랜드'가 첫 방송부터 화제 일으킨 이유]]></title>
-            <link>https://www.elle.co.kr/article/78466</link>
-            <guid>https://www.elle.co.kr/article/78466</guid>
-            <pubDate>Mon, 19 Jun 2023 17:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[라미란X이도현의 살벌한 연기력! '나쁜 엄마' 명장면 모음 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/78465</link>
-            <guid>https://www.elle.co.kr/article/78465</guid>
-            <pubDate>Mon, 19 Jun 2023 17:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[셔누가 파이트 저지로? 2년 만에 돌아오는 '스우파' 시즌2 정보 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/78427</link>
-            <guid>https://www.elle.co.kr/article/78427</guid>
-            <pubDate>Fri, 16 Jun 2023 17:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[진짜일까? 임시완이 '오징어게임' 시즌2의 주연을 맡을지도 모른다]]></title>
-            <link>https://www.elle.co.kr/article/78391</link>
-            <guid>https://www.elle.co.kr/article/78391</guid>
-            <pubDate>Fri, 16 Jun 2023 05:41:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다]]></title>
-            <link>https://www.elle.co.kr/article/78371</link>
-            <guid>https://www.elle.co.kr/article/78371</guid>
-            <pubDate>Wed, 14 Jun 2023 17:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['MI7' 톰 크루즈 11번째 내한 VS. '바비' 마고 로비-라이언 고슬링 첫 내한]]></title>
-            <link>https://www.elle.co.kr/article/78328</link>
-            <guid>https://www.elle.co.kr/article/78328</guid>
-            <pubDate>Tue, 13 Jun 2023 05:40:54 GMT</pubDate>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/moviesandtv</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+    <updated>2023-06-28T17:41:40.203Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[21년 전 '뉴논스톱' 연상연하 커플, 조인성X박경림이 재회했다!]]></title>
+        <id>https://www.elle.co.kr/article/78668</id>
+        <link href="https://www.elle.co.kr/article/78668"/>
+        <updated>2023-06-26T17:41:32.101Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임윤아X이준호 케미에 아는 맛이라 더 무서운 로맨스까지! '킹더랜드' 인기 요인 3 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/78664</id>
+        <link href="https://www.elle.co.kr/article/78664"/>
+        <updated>2023-06-26T17:41:32.147Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스우파2', 벌써 시작된 K-POP 데스매치 영상과 크루 라인업 모음.zip (feat. 셀럽의 원픽은?)]]></title>
+        <id>https://www.elle.co.kr/article/78658</id>
+        <link href="https://www.elle.co.kr/article/78658"/>
+        <updated>2023-06-26T05:42:17.192Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['한국 영화 덕후' 아리 에스터가 봉준호와 만나 영화 이야기를 한다고?!]]></title>
+        <id>https://www.elle.co.kr/article/78651</id>
+        <link href="https://www.elle.co.kr/article/78651"/>
+        <updated>2023-06-26T05:42:17.193Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 쇄신한다는 '놀면 뭐하니', 새 멤버는 주우재! 첫 방송은 언제?]]></title>
+        <id>https://www.elle.co.kr/article/78607</id>
+        <link href="https://www.elle.co.kr/article/78607"/>
+        <updated>2023-06-22T17:41:04.681Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태희X임지연의 스릴러, 긴장감 미쳤다! '마당이 있는 집' 첫 방송 내용은?]]></title>
+        <id>https://www.elle.co.kr/article/78510</id>
+        <link href="https://www.elle.co.kr/article/78510"/>
+        <updated>2023-06-20T17:40:52.031Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공개 앞둔 '원피스' 실사판 드라마, '고무고무 피스톨'은 어떻게 재현했을까?]]></title>
+        <id>https://www.elle.co.kr/article/78509</id>
+        <link href="https://www.elle.co.kr/article/78509"/>
+        <updated>2023-06-20T17:40:52.033Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호X임윤아, 이 케미 무엇? '킹더랜드'가 첫 방송부터 화제 일으킨 이유]]></title>
+        <id>https://www.elle.co.kr/article/78466</id>
+        <link href="https://www.elle.co.kr/article/78466"/>
+        <updated>2023-06-19T17:40:39.716Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라미란X이도현의 살벌한 연기력! '나쁜 엄마' 명장면 모음 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/78465</id>
+        <link href="https://www.elle.co.kr/article/78465"/>
+        <updated>2023-06-19T17:40:39.717Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셔누가 파이트 저지로? 2년 만에 돌아오는 '스우파' 시즌2 정보 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/78427</id>
+        <link href="https://www.elle.co.kr/article/78427"/>
+        <updated>2023-06-16T17:41:28.158Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진짜일까? 임시완이 '오징어게임' 시즌2의 주연을 맡을지도 모른다]]></title>
+        <id>https://www.elle.co.kr/article/78391</id>
+        <link href="https://www.elle.co.kr/article/78391"/>
+        <updated>2023-06-16T05:41:01.380Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지X김우빈, 김은숙 로코 <다 이루어질지니>에서 7년 만에 재회한다]]></title>
+        <id>https://www.elle.co.kr/article/78371</id>
+        <link href="https://www.elle.co.kr/article/78371"/>
+        <updated>2023-06-14T17:41:48.055Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['MI7' 톰 크루즈 11번째 내한 VS. '바비' 마고 로비-라이언 고슬링 첫 내한]]></title>
+        <id>https://www.elle.co.kr/article/78328</id>
+        <link href="https://www.elle.co.kr/article/78328"/>
+        <updated>2023-06-13T05:40:54.813Z</updated>
+    </entry>
+</feed>
