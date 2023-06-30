@@ -1,64 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-06-28T17:41:40.197Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[헤엄칠 결심]]></title>
-        <id>https://www.elle.co.kr/article/78571</id>
-        <link href="https://www.elle.co.kr/article/78571"/>
-        <updated>2023-06-28T17:40:25.230Z</updated>
-        <content type="html"><![CDATA[해변 분위기를 업그레이드해 줄 바캉스 아이템.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸에서 만난 크리스탈]]></title>
-        <id>https://www.elle.co.kr/article/78559</id>
-        <link href="https://www.elle.co.kr/article/78559"/>
-        <updated>2023-06-28T05:42:07.832Z</updated>
-        <content type="html"><![CDATA[선명하게 부서지는 햇빛과 건조한 바람, 낯설고도 아름다운 도시에서 만난 크리스탈.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤넬의 도쿄 익스프레스]]></title>
-        <id>https://www.elle.co.kr/article/78588</id>
-        <link href="https://www.elle.co.kr/article/78588"/>
-        <updated>2023-06-28T05:42:07.834Z</updated>
-        <content type="html"><![CDATA[가브리엘 샤넬은 보이 카펠의 소개로 일본 예술의 아름다움과 특유의 분위기에 매혹된다. 2023년...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다 가져도 될까요?]]></title>
-        <id>https://www.elle.co.kr/article/78262</id>
-        <link href="https://www.elle.co.kr/article/78262"/>
-        <updated>2023-06-27T17:40:10.844Z</updated>
-        <content type="html"><![CDATA[선택 불가! 샤넬 공방컬렉션의 낭만적인 액세서리.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7]]></title>
-        <id>https://www.elle.co.kr/article/78640</id>
-        <link href="https://www.elle.co.kr/article/78640"/>
-        <updated>2023-06-27T05:40:34.075Z</updated>
-        <content type="html"><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 애창곡]]></title>
-        <id>https://www.elle.co.kr/article/78196</id>
-        <link href="https://www.elle.co.kr/article/78196"/>
-        <updated>2023-06-26T17:40:38.109Z</updated>
-        <content type="html"><![CDATA[익숙한 그 번호를 눌러.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매혹적인 색에 머무는 순간]]></title>
-        <id>https://www.elle.co.kr/article/78222</id>
-        <link href="https://www.elle.co.kr/article/78222"/>
-        <updated>2023-06-26T17:40:38.109Z</updated>
-        <content type="html"><![CDATA[기하학적인 아름다움을 가진 디올의 젬 디올 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파리의 퐁네프를 수놓은 루이 비통의 새로운 패턴은? 2024 SS 파리 남성복 패션위크 속 순간들 3]]></title>
-        <id>https://www.elle.co.kr/article/78633</id>
-        <link href="https://www.elle.co.kr/article/78633"/>
-        <updated>2023-06-25T17:40:05.278Z</updated>
-        <content type="html"><![CDATA[퍼렐 윌리엄스의 역사적인 데뷔 컬렉션부터 오늘날의 남성성과 부두교에 관한 번뜩이는 탐구까지.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 30 Jun 2023 05:42:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타들의 복근은 열일중! 크롭트 톱 유행이 불러온 복근 자랑 패션]]></title>
+            <link>https://www.elle.co.kr/article/78677</link>
+            <guid>https://www.elle.co.kr/article/78677</guid>
+            <pubDate>Fri, 30 Jun 2023 05:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[탄탄한 복근으로 스타일 지수를 높인 스타들을 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[헤엄칠 결심]]></title>
+            <link>https://www.elle.co.kr/article/78571</link>
+            <guid>https://www.elle.co.kr/article/78571</guid>
+            <pubDate>Wed, 28 Jun 2023 17:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[해변 분위기를 업그레이드해 줄 바캉스 아이템.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[칸에서 만난 크리스탈]]></title>
+            <link>https://www.elle.co.kr/article/78559</link>
+            <guid>https://www.elle.co.kr/article/78559</guid>
+            <pubDate>Wed, 28 Jun 2023 05:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[선명하게 부서지는 햇빛과 건조한 바람, 낯설고도 아름다운 도시에서 만난 크리스탈.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샤넬의 도쿄 익스프레스]]></title>
+            <link>https://www.elle.co.kr/article/78588</link>
+            <guid>https://www.elle.co.kr/article/78588</guid>
+            <pubDate>Wed, 28 Jun 2023 05:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[가브리엘 샤넬은 보이 카펠의 소개로 일본 예술의 아름다움과 특유의 분위기에 매혹된다. 2023년...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/6f31964f-b7ab-4973-b679-6c8f4052830b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다 가져도 될까요?]]></title>
+            <link>https://www.elle.co.kr/article/78262</link>
+            <guid>https://www.elle.co.kr/article/78262</guid>
+            <pubDate>Tue, 27 Jun 2023 17:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[선택 불가! 샤넬 공방컬렉션의 낭만적인 액세서리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/34b07612-45be-4d38-aca1-d7b3086752d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7]]></title>
+            <link>https://www.elle.co.kr/article/78640</link>
+            <guid>https://www.elle.co.kr/article/78640</guid>
+            <pubDate>Tue, 27 Jun 2023 05:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/9aae2306-6596-4b8c-bb21-a9d9c2b523a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 애창곡]]></title>
+            <link>https://www.elle.co.kr/article/78196</link>
+            <guid>https://www.elle.co.kr/article/78196</guid>
+            <pubDate>Mon, 26 Jun 2023 17:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[익숙한 그 번호를 눌러.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/250397be-3ad3-41f3-aad5-ce0065b80788.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매혹적인 색에 머무는 순간]]></title>
+            <link>https://www.elle.co.kr/article/78222</link>
+            <guid>https://www.elle.co.kr/article/78222</guid>
+            <pubDate>Mon, 26 Jun 2023 17:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[기하학적인 아름다움을 가진 디올의 젬 디올 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/24/c83f65e9-dd4e-455b-aa2e-2bee079b3c4b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

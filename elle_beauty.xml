@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 17:41:40 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['한예종 몸짱' 출신 김건우가 '더 글로리' 손명오 피지컬을 만들기 위해 한 일 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/78577</link>
-            <guid>https://www.elle.co.kr/article/78577</guid>
-            <pubDate>Wed, 28 Jun 2023 17:40:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/49a14788-f75d-4e40-be76-32606ad9a614.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대식가+고무줄 몸무게라는 에스파 카리나의 관리 비결 총정리 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/78542</link>
-            <guid>https://www.elle.co.kr/article/78542</guid>
-            <pubDate>Tue, 27 Jun 2023 05:40:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/ef09b4f8-59b0-47d7-953b-719797947d82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 N°5부터 디올의 첫 번째 향수까지, 패션 디자이너의 영혼이 담긴 뷰티 이야기 5_선배’s 어드바이스 #173]]></title>
-            <link>https://www.elle.co.kr/article/78457</link>
-            <guid>https://www.elle.co.kr/article/78457</guid>
-            <pubDate>Mon, 26 Jun 2023 05:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[단순한 명품 브랜드가 아니다! 패션 디자이너가 사랑한 화장품과 비하인드 스토리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/b0b4fc45-30fe-4d1f-a7f8-4c2762c5ebed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선크림부터 향수까지! 장희령이 꼽은 일곱 가지 뷰티 아이템]]></title>
-            <link>https://www.elle.co.kr/article/78443</link>
-            <guid>https://www.elle.co.kr/article/78443</guid>
-            <pubDate>Sun, 25 Jun 2023 17:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[청초한 매력을 가진 장희령이 ‘찐’으로 애정하는 뷰티템을 구경해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/82901112-ee1a-4723-b06e-5a0bff6c8cad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓벽한 여행을 원한다면? 뷰티 트래블 키트 4]]></title>
-            <link>https://www.elle.co.kr/article/78261</link>
-            <guid>https://www.elle.co.kr/article/78261</guid>
-            <pubDate>Fri, 23 Jun 2023 05:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[그 어떤 여행이라도 괜찮다. 당신의 여정에 동행할 완벽한 뷰티 트래블 키트만 있다면.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/352a1340-3507-47ff-a0fa-62a29640f127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙하다 힙해! YOSM 화장품]]></title>
-            <link>https://www.elle.co.kr/article/78335</link>
-            <guid>https://www.elle.co.kr/article/78335</guid>
-            <pubDate>Thu, 22 Jun 2023 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[감성적인 컬러와 볼드해진 로고를 입고 생동감 있게 변신한 요즘 화장품 5.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/17/9805611a-b219-41d3-9024-a69d8c6a07e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 운동하는 한고은 부부! 커플끼리 하기 좋은 운동은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/78396</link>
-            <guid>https://www.elle.co.kr/article/78396</guid>
-            <pubDate>Wed, 21 Jun 2023 17:40:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/349e7d67-f3ed-4b92-a5a5-4718ef4cf1fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 무드 100%! 주목해야 할 뷰티 신상 3 #갓구운신상]]></title>
-            <link>https://www.elle.co.kr/article/78395</link>
-            <guid>https://www.elle.co.kr/article/78395</guid>
-            <pubDate>Mon, 19 Jun 2023 17:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[에스투파, 나스, 이니스프리X데이즈데이즈의 따끈따끈한 신제품]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/4ddf2327-1770-4e1b-be7b-f4ed0de78280.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/beauty</id>
+    <title>엘르 코리아 ─ 뷰티</title>
+    <updated>2023-06-30T05:42:23.841Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 아이돌 사이에서 유행 중! 스모키 메이크업 (2023 ver.)]]></title>
+        <id>https://www.elle.co.kr/article/78608</id>
+        <link href="https://www.elle.co.kr/article/78608"/>
+        <updated>2023-06-30T05:40:51.333Z</updated>
+        <content type="html"><![CDATA[재유행각?! 미모 ‘포텐’ 터진 요즘 아이돌들의 공통점은 바로 스모키 메이크업!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['한예종 몸짱' 출신 김건우가 '더 글로리' 손명오 피지컬을 만들기 위해 한 일 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78577</id>
+        <link href="https://www.elle.co.kr/article/78577"/>
+        <updated>2023-06-28T17:40:35.575Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대식가+고무줄 몸무게라는 에스파 카리나의 관리 비결 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78542</id>
+        <link href="https://www.elle.co.kr/article/78542"/>
+        <updated>2023-06-27T05:40:43.718Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤넬 N°5부터 디올의 첫 번째 향수까지, 패션 디자이너의 영혼이 담긴 뷰티 이야기 5_선배’s 어드바이스 #173]]></title>
+        <id>https://www.elle.co.kr/article/78457</id>
+        <link href="https://www.elle.co.kr/article/78457"/>
+        <updated>2023-06-26T05:41:45.243Z</updated>
+        <content type="html"><![CDATA[단순한 명품 브랜드가 아니다! 패션 디자이너가 사랑한 화장품과 비하인드 스토리.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선크림부터 향수까지! 장희령이 꼽은 일곱 가지 뷰티 아이템]]></title>
+        <id>https://www.elle.co.kr/article/78443</id>
+        <link href="https://www.elle.co.kr/article/78443"/>
+        <updated>2023-06-25T17:40:17.898Z</updated>
+        <content type="html"><![CDATA[청초한 매력을 가진 장희령이 ‘찐’으로 애정하는 뷰티템을 구경해 보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갓벽한 여행을 원한다면? 뷰티 트래블 키트 4]]></title>
+        <id>https://www.elle.co.kr/article/78261</id>
+        <link href="https://www.elle.co.kr/article/78261"/>
+        <updated>2023-06-23T05:40:55.447Z</updated>
+        <content type="html"><![CDATA[그 어떤 여행이라도 괜찮다. 당신의 여정에 동행할 완벽한 뷰티 트래블 키트만 있다면.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힙하다 힙해! YOSM 화장품]]></title>
+        <id>https://www.elle.co.kr/article/78335</id>
+        <link href="https://www.elle.co.kr/article/78335"/>
+        <updated>2023-06-22T17:40:25.599Z</updated>
+        <content type="html"><![CDATA[감성적인 컬러와 볼드해진 로고를 입고 생동감 있게 변신한 요즘 화장품 5.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[함께 운동하는 한고은 부부! 커플끼리 하기 좋은 운동은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78396</id>
+        <link href="https://www.elle.co.kr/article/78396"/>
+        <updated>2023-06-21T17:40:33.772Z</updated>
+    </entry>
+</feed>
