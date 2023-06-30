@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 05:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 17:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채소를 요리하는 팜 퀴진, 르 두아예네]]></title>
+            <link>https://www.elle.co.kr/article/78344</link>
+            <guid>https://www.elle.co.kr/article/78344</guid>
+            <pubDate>Fri, 30 Jun 2023 17:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[파리 중심지에서 차로 1시간 남짓 달리면 도착하는 샤토 드 생브랑(Cha^teau de Saint-Vrain). ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/6f96ab66-be7d-45b4-be01-7459cb9cff58.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바비의 핑크빛 드림하우스에서 하룻밤을? 심지어 모든 것이 무료!]]></title>
             <link>https://www.elle.co.kr/article/78767</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/78340</guid>
             <pubDate>Tue, 27 Jun 2023 05:41:33 GMT</pubDate>
             <content:encoded><![CDATA[인간과 동물의 공존을 그리는 스튜디오 오시디아나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/8f916cbe-8e10-40bb-ad29-27715e5c7397.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알바 알토가 살아 숨쉬는 집 #더컬렉터스]]></title>
@@ -94,13 +101,6 @@
             <guid>https://www.elle.co.kr/article/78172</guid>
             <pubDate>Wed, 07 Jun 2023 17:40:53 GMT</pubDate>
             <content:encoded><![CDATA[숲속 커다란 나무 사이에 가려진 듯한 런던 아파트와 꼭 맞는 사물들. 모두 그녀, 마거 호웰이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[믿기지 않는 가격! 드디어 베일 벗은 애플의 야심작 ‘비전 프로’]]></title>
-            <link>https://www.elle.co.kr/article/78194</link>
-            <guid>https://www.elle.co.kr/article/78194</guid>
-            <pubDate>Wed, 07 Jun 2023 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[헤드셋이 아닌 컴퓨터라고 불러주세요.]]></content:encoded>
         </item>
     </channel>
 </rss>

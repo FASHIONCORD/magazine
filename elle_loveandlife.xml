@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 05:42:23 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[바비의 핑크빛 드림하우스에서 하룻밤을? 심지어 모든 것이 무료!]]></title>
-            <link>https://www.elle.co.kr/article/78767</link>
-            <guid>https://www.elle.co.kr/article/78767</guid>
-            <pubDate>Fri, 30 Jun 2023 05:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[말리부 해안선이 내려다보이는 대저택을 전세 낼 수 있는 절호의 기회.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/f75adf31-6954-4681-8383-315a077b7a1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리모와에 담긴 가장 사적인 여행 이야기]]></title>
-            <link>https://www.elle.co.kr/article/78675</link>
-            <guid>https://www.elle.co.kr/article/78675</guid>
-            <pubDate>Fri, 30 Jun 2023 05:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[여행자와 함께 세계를 누비며 긁히고 닳고 찌그러지는 물리적 상흔으로 수많은 여행을 아카이빙해...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/8fe57c67-8701-41b5-99c6-20e3eeddab93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 가장 근사한 디너의 정답은 메리어트가 갖고 있다!]]></title>
-            <link>https://www.elle.co.kr/article/78660</link>
-            <guid>https://www.elle.co.kr/article/78660</guid>
-            <pubDate>Fri, 30 Jun 2023 05:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[미식의 결전지 파리를 접수한 셰프 파스칼 바흐보가 올여름 메리어트 서울과 제주를 찾는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/1706c226-de29-467f-813f-bc7fdaf3ec8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 오사카 난바 말고, 더 힙하고 새로운 곳 있나요? 오사카 나라 여행 정보.zip]]></title>
-            <link>https://www.elle.co.kr/article/78726</link>
-            <guid>https://www.elle.co.kr/article/78726</guid>
-            <pubDate>Fri, 30 Jun 2023 05:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[JW 메리어트 나라와 W 오사카와 함께한 특별한 일본 여행]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/75772348-dd15-4bed-b913-ddb3f3efde43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[700년 만에 피어난 '아라홍련' 보러 갈래? 국내 연꽃 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/78707</link>
-            <guid>https://www.elle.co.kr/article/78707</guid>
-            <pubDate>Fri, 30 Jun 2023 05:42:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/9e721072-0a19-4129-a7cc-61d248d36782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시원한 내추럴 와인과 분위기에 취하는 여름밤! 성수-이태원-을지로 와인바 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/78683</link>
-            <guid>https://www.elle.co.kr/article/78683</guid>
-            <pubDate>Wed, 28 Jun 2023 17:41:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/7ef6d18e-837d-434f-bdd9-5bf40dc1b851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오피신 유니버셀 불리가 그린 정원의 향]]></title>
-            <link>https://www.elle.co.kr/article/78570</link>
-            <guid>https://www.elle.co.kr/article/78570</guid>
-            <pubDate>Tue, 27 Jun 2023 17:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[빅투아 드 타야크가 '레 자뎅 프랑세 컬렉션(Les Jardins Français Collection)' 출시를 기념...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/6b03b897-a8e9-41d2-b7f5-5c23f67b2dae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS 인증샷 각! 윤은혜표 ‘크룽지’ 레서피]]></title>
-            <link>https://www.elle.co.kr/article/78641</link>
-            <guid>https://www.elle.co.kr/article/78641</guid>
-            <pubDate>Tue, 27 Jun 2023 17:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[크루아상 좋아! 누룽지 좋아! 크루아상과 누룽지의 실패 없는 조합이 궁금하다면? 윤은혜의 크룽...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/3065dfe3-64d7-46b7-b42f-eb1762691114.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-06-30T17:43:54.527Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바비의 핑크빛 드림하우스에서 하룻밤을? 심지어 모든 것이 무료!]]></title>
+        <id>https://www.elle.co.kr/article/78767</id>
+        <link href="https://www.elle.co.kr/article/78767"/>
+        <updated>2023-06-30T05:42:11.911Z</updated>
+        <content type="html"><![CDATA[말리부 해안선이 내려다보이는 대저택을 전세 낼 수 있는 절호의 기회.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리모와에 담긴 가장 사적인 여행 이야기]]></title>
+        <id>https://www.elle.co.kr/article/78675</id>
+        <link href="https://www.elle.co.kr/article/78675"/>
+        <updated>2023-06-30T05:42:11.912Z</updated>
+        <content type="html"><![CDATA[여행자와 함께 세계를 누비며 긁히고 닳고 찌그러지는 물리적 상흔으로 수많은 여행을 아카이빙해...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올여름 가장 근사한 디너의 정답은 메리어트가 갖고 있다!]]></title>
+        <id>https://www.elle.co.kr/article/78660</id>
+        <link href="https://www.elle.co.kr/article/78660"/>
+        <updated>2023-06-30T05:42:11.918Z</updated>
+        <content type="html"><![CDATA[미식의 결전지 파리를 접수한 셰프 파스칼 바흐보가 올여름 메리어트 서울과 제주를 찾는다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 오사카 난바 말고, 더 힙하고 새로운 곳 있나요? 오사카 나라 여행 정보.zip]]></title>
+        <id>https://www.elle.co.kr/article/78726</id>
+        <link href="https://www.elle.co.kr/article/78726"/>
+        <updated>2023-06-30T05:42:11.919Z</updated>
+        <content type="html"><![CDATA[JW 메리어트 나라와 W 오사카와 함께한 특별한 일본 여행]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[700년 만에 피어난 '아라홍련' 보러 갈래? 국내 연꽃 명소 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/78707</id>
+        <link href="https://www.elle.co.kr/article/78707"/>
+        <updated>2023-06-30T05:42:11.922Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시원한 내추럴 와인과 분위기에 취하는 여름밤! 성수-이태원-을지로 와인바 #신상맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/78683</id>
+        <link href="https://www.elle.co.kr/article/78683"/>
+        <updated>2023-06-28T17:41:30.897Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오피신 유니버셀 불리가 그린 정원의 향]]></title>
+        <id>https://www.elle.co.kr/article/78570</id>
+        <link href="https://www.elle.co.kr/article/78570"/>
+        <updated>2023-06-27T17:42:26.732Z</updated>
+        <content type="html"><![CDATA[빅투아 드 타야크가 '레 자뎅 프랑세 컬렉션(Les Jardins Français Collection)' 출시를 기념...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS 인증샷 각! 윤은혜표 ‘크룽지’ 레서피]]></title>
+        <id>https://www.elle.co.kr/article/78641</id>
+        <link href="https://www.elle.co.kr/article/78641"/>
+        <updated>2023-06-27T17:42:26.735Z</updated>
+        <content type="html"><![CDATA[크루아상 좋아! 누룽지 좋아! 크루아상과 누룽지의 실패 없는 조합이 궁금하다면? 윤은혜의 크룽...]]></content>
+    </entry>
+</feed>
