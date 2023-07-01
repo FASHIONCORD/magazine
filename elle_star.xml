@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 05:41:18 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[야구장에서 스타를 만난다면?]]></title>
-            <link>https://www.elle.co.kr/article/78819</link>
-            <guid>https://www.elle.co.kr/article/78819</guid>
-            <pubDate>Sat, 01 Jul 2023 05:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[미국 메이저리그에서 시구에 도전한 에스파부터 조인성, 더 보이즈, 손나은 등 찐 야구팬임을 인...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/fd82c2a0-5e79-4e34-9b7a-70b822c31b47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김서형이라는 역사가 쌓아온 오늘의 풍경]]></title>
-            <link>https://www.elle.co.kr/article/78541</link>
-            <guid>https://www.elle.co.kr/article/78541</guid>
-            <pubDate>Sat, 01 Jul 2023 05:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 &lt;종이달&gt;을 보내고 영화 &lt;비닐하우스&gt;로 우리를 찾아올 김서형의 시선은 여전히 세상을 향...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/bcd0429a-07f9-4cca-b82e-724dfa97a56e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름의 샴페인을 찾고 있다면? 모엣 & 샹동 그랑 빈티지 2015는 가장 훌륭한 선택이다]]></title>
-            <link>https://www.elle.co.kr/article/78671</link>
-            <guid>https://www.elle.co.kr/article/78671</guid>
-            <pubDate>Fri, 30 Jun 2023 17:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[20년 넘게 모엣 &amp; 샹동의 샴페인을 책임지고 있는 셀러 마스터, 베누아 구에즈가 서울의 밤을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/f0584144-a297-47ee-8040-242de6bdd14c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연아가 은퇴 후 지도자의 길을 걷지 않는 이유 (feat. 2세가 운동을 한다면?)]]></title>
-            <link>https://www.elle.co.kr/article/78811</link>
-            <guid>https://www.elle.co.kr/article/78811</guid>
-            <pubDate>Fri, 30 Jun 2023 17:41:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/46db217f-6bd8-4a23-8d1f-a5e825b43cce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토)]]></title>
-            <link>https://www.elle.co.kr/article/78808</link>
-            <guid>https://www.elle.co.kr/article/78808</guid>
-            <pubDate>Fri, 30 Jun 2023 17:41:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/4531ae00-52a1-4ece-b3d9-ca615fba934f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니와 송혜교의 절친, 톱 모델 신현지가 48kg 유지 위해 아침마다 하는 운동은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/78806</link>
-            <guid>https://www.elle.co.kr/article/78806</guid>
-            <pubDate>Fri, 30 Jun 2023 05:41:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/743b0e88-6870-45b7-9a88-27940dd3d4ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은퇴한 탑이 '오징어게임2'에 나온다? 전체 캐스팅 라인업과 대본 리딩 현장.jpg]]></title>
-            <link>https://www.elle.co.kr/article/78788</link>
-            <guid>https://www.elle.co.kr/article/78788</guid>
-            <pubDate>Fri, 30 Jun 2023 05:41:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/662e5e51-b707-4971-baf9-9ef16416fa7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[졸리의 패션 아틀리에]]></title>
-            <link>https://www.elle.co.kr/article/78690</link>
-            <guid>https://www.elle.co.kr/article/78690</guid>
-            <pubDate>Fri, 30 Jun 2023 05:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[배우 안젤리나 졸리가 패션계에 입성했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/feaee341-a187-4286-83eb-ae400faa0aab.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-07-01T17:41:30.664Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야구장에서 스타를 만난다면?]]></title>
+        <id>https://www.elle.co.kr/article/78819</id>
+        <link href="https://www.elle.co.kr/article/78819"/>
+        <updated>2023-07-01T05:40:17.412Z</updated>
+        <content type="html"><![CDATA[미국 메이저리그에서 시구에 도전한 에스파부터 조인성, 더 보이즈, 손나은 등 찐 야구팬임을 인...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김서형이라는 역사가 쌓아온 오늘의 풍경]]></title>
+        <id>https://www.elle.co.kr/article/78541</id>
+        <link href="https://www.elle.co.kr/article/78541"/>
+        <updated>2023-07-01T05:40:17.414Z</updated>
+        <content type="html"><![CDATA[드라마 &lt;종이달&gt;을 보내고 영화 &lt;비닐하우스&gt;로 우리를 찾아올 김서형의 시선은 여전히 세상을 향...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름의 샴페인을 찾고 있다면? 모엣 & 샹동 그랑 빈티지 2015는 가장 훌륭한 선택이다]]></title>
+        <id>https://www.elle.co.kr/article/78671</id>
+        <link href="https://www.elle.co.kr/article/78671"/>
+        <updated>2023-06-30T17:41:02.973Z</updated>
+        <content type="html"><![CDATA[20년 넘게 모엣 &amp; 샹동의 샴페인을 책임지고 있는 셀러 마스터, 베누아 구에즈가 서울의 밤을...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연아가 은퇴 후 지도자의 길을 걷지 않는 이유 (feat. 2세가 운동을 한다면?)]]></title>
+        <id>https://www.elle.co.kr/article/78811</id>
+        <link href="https://www.elle.co.kr/article/78811"/>
+        <updated>2023-06-30T17:41:02.976Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토)]]></title>
+        <id>https://www.elle.co.kr/article/78808</id>
+        <link href="https://www.elle.co.kr/article/78808"/>
+        <updated>2023-06-30T17:41:02.979Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제니와 송혜교의 절친, 톱 모델 신현지가 48kg 유지 위해 아침마다 하는 운동은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/78806</id>
+        <link href="https://www.elle.co.kr/article/78806"/>
+        <updated>2023-06-30T05:41:02.456Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은퇴한 탑이 '오징어게임2'에 나온다? 전체 캐스팅 라인업과 대본 리딩 현장.jpg]]></title>
+        <id>https://www.elle.co.kr/article/78788</id>
+        <link href="https://www.elle.co.kr/article/78788"/>
+        <updated>2023-06-30T05:41:02.458Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[졸리의 패션 아틀리에]]></title>
+        <id>https://www.elle.co.kr/article/78690</id>
+        <link href="https://www.elle.co.kr/article/78690"/>
+        <updated>2023-06-30T05:41:02.461Z</updated>
+        <content type="html"><![CDATA[배우 안젤리나 졸리가 패션계에 입성했다.]]></content>
+    </entry>
+</feed>
