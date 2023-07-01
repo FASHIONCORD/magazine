@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 17:43:54 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[코트 위에서도 스타일리시하게! 셀러브리티의 테니스 룩 5]]></title>
-            <link>https://www.elle.co.kr/article/78730</link>
-            <guid>https://www.elle.co.kr/article/78730</guid>
-            <pubDate>Fri, 30 Jun 2023 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[테니스 열풍이 거세게 부는 요즘, 패션과 테니스를 사랑하는 셀럽의 아웃핏에서 패셔너블한 테니...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/ffbb0ca4-f0f5-43c0-9ca7-bf8ecb56e25a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런웨이에 천연히 피어난 꽃, 패션 브랜드가 사랑한 플로리스트 루이-제로드 카스토르]]></title>
-            <link>https://www.elle.co.kr/article/78727</link>
-            <guid>https://www.elle.co.kr/article/78727</guid>
-            <pubDate>Fri, 30 Jun 2023 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[생 로랑부터 루브르 박물관에 이르기까지, 모두를 매료시킨 그만의 황홀한 작품 세계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/9ca9c5b4-82ed-44c9-a587-304152b78c6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들의 복근은 열일중! 크롭트 톱 유행이 불러온 복근 자랑 패션]]></title>
-            <link>https://www.elle.co.kr/article/78677</link>
-            <guid>https://www.elle.co.kr/article/78677</guid>
-            <pubDate>Fri, 30 Jun 2023 05:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[탄탄한 복근으로 스타일 지수를 높인 스타들을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/98b70f6e-6c4b-4793-9f30-2715e211fa2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤엄칠 결심]]></title>
-            <link>https://www.elle.co.kr/article/78571</link>
-            <guid>https://www.elle.co.kr/article/78571</guid>
-            <pubDate>Wed, 28 Jun 2023 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[해변 분위기를 업그레이드해 줄 바캉스 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/088d5152-991f-4918-be1b-72a363072911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸에서 만난 크리스탈]]></title>
-            <link>https://www.elle.co.kr/article/78559</link>
-            <guid>https://www.elle.co.kr/article/78559</guid>
-            <pubDate>Wed, 28 Jun 2023 05:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[선명하게 부서지는 햇빛과 건조한 바람, 낯설고도 아름다운 도시에서 만난 크리스탈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/6a01ff9f-b40d-4baf-83d0-58bb41e8ac03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬의 도쿄 익스프레스]]></title>
-            <link>https://www.elle.co.kr/article/78588</link>
-            <guid>https://www.elle.co.kr/article/78588</guid>
-            <pubDate>Wed, 28 Jun 2023 05:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[가브리엘 샤넬은 보이 카펠의 소개로 일본 예술의 아름다움과 특유의 분위기에 매혹된다. 2023년...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/6f31964f-b7ab-4973-b679-6c8f4052830b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다 가져도 될까요?]]></title>
-            <link>https://www.elle.co.kr/article/78262</link>
-            <guid>https://www.elle.co.kr/article/78262</guid>
-            <pubDate>Tue, 27 Jun 2023 17:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[선택 불가! 샤넬 공방컬렉션의 낭만적인 액세서리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/34b07612-45be-4d38-aca1-d7b3086752d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 미니 원피스지! 스타들이 사랑한 미니 원피스 스타일 7]]></title>
-            <link>https://www.elle.co.kr/article/78640</link>
-            <guid>https://www.elle.co.kr/article/78640</guid>
-            <pubDate>Tue, 27 Jun 2023 05:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[제니부터 카즈하, 백예린 등 따라 입고 싶은 스타들의 미니 원피스 스타일. 미니 드레스로 쉽고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/9aae2306-6596-4b8c-bb21-a9d9c2b523a5.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-07-01T05:41:18.990Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #2 모델 박경진]]></title>
+        <id>https://www.elle.co.kr/article/78739</id>
+        <link href="https://www.elle.co.kr/article/78739"/>
+        <updated>2023-07-01T05:39:57.629Z</updated>
+        <content type="html"><![CDATA[모델 박경진이 애정하는 물건과 그 이유.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코트 위에서도 스타일리시하게! 셀러브리티의 테니스 룩 5]]></title>
+        <id>https://www.elle.co.kr/article/78730</id>
+        <link href="https://www.elle.co.kr/article/78730"/>
+        <updated>2023-06-30T17:40:38.745Z</updated>
+        <content type="html"><![CDATA[테니스 열풍이 거세게 부는 요즘, 패션과 테니스를 사랑하는 셀럽의 아웃핏에서 패셔너블한 테니...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[런웨이에 천연히 피어난 꽃, 패션 브랜드가 사랑한 플로리스트 루이-제로드 카스토르]]></title>
+        <id>https://www.elle.co.kr/article/78727</id>
+        <link href="https://www.elle.co.kr/article/78727"/>
+        <updated>2023-06-30T17:40:38.746Z</updated>
+        <content type="html"><![CDATA[생 로랑부터 루브르 박물관에 이르기까지, 모두를 매료시킨 그만의 황홀한 작품 세계.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타들의 복근은 열일중! 크롭트 톱 유행이 불러온 복근 자랑 패션]]></title>
+        <id>https://www.elle.co.kr/article/78677</id>
+        <link href="https://www.elle.co.kr/article/78677"/>
+        <updated>2023-06-30T05:40:41.177Z</updated>
+        <content type="html"><![CDATA[탄탄한 복근으로 스타일 지수를 높인 스타들을 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헤엄칠 결심]]></title>
+        <id>https://www.elle.co.kr/article/78571</id>
+        <link href="https://www.elle.co.kr/article/78571"/>
+        <updated>2023-06-28T17:40:25.230Z</updated>
+        <content type="html"><![CDATA[해변 분위기를 업그레이드해 줄 바캉스 아이템.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칸에서 만난 크리스탈]]></title>
+        <id>https://www.elle.co.kr/article/78559</id>
+        <link href="https://www.elle.co.kr/article/78559"/>
+        <updated>2023-06-28T05:42:07.832Z</updated>
+        <content type="html"><![CDATA[선명하게 부서지는 햇빛과 건조한 바람, 낯설고도 아름다운 도시에서 만난 크리스탈.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤넬의 도쿄 익스프레스]]></title>
+        <id>https://www.elle.co.kr/article/78588</id>
+        <link href="https://www.elle.co.kr/article/78588"/>
+        <updated>2023-06-28T05:42:07.834Z</updated>
+        <content type="html"><![CDATA[가브리엘 샤넬은 보이 카펠의 소개로 일본 예술의 아름다움과 특유의 분위기에 매혹된다. 2023년...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다 가져도 될까요?]]></title>
+        <id>https://www.elle.co.kr/article/78262</id>
+        <link href="https://www.elle.co.kr/article/78262"/>
+        <updated>2023-06-27T17:40:10.844Z</updated>
+        <content type="html"><![CDATA[선택 불가! 샤넬 공방컬렉션의 낭만적인 액세서리.]]></content>
+    </entry>
+</feed>
