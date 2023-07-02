@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-07-02T05:41:37.768Z</updated>
+    <updated>2023-07-02T17:41:44.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산역 근처 이곳]]></title>
+        <id>https://www.elle.co.kr/article/78781</id>
+        <link href="https://www.elle.co.kr/article/78781"/>
+        <updated>2023-07-02T17:41:29.188Z</updated>
+        <content type="html"><![CDATA[마지막까지 부산을 즐길 수 있는 곳. 100년이 넘은 식당까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바비의 핑크빛 드림하우스에서 하룻밤을? 심지어 모든 것이 무료!]]></title>
         <id>https://www.elle.co.kr/article/78767</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/78570"/>
         <updated>2023-06-27T17:42:26.732Z</updated>
         <content type="html"><![CDATA[빅투아 드 타야크가 '레 자뎅 프랑세 컬렉션(Les Jardins Français Collection)' 출시를 기념...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNS 인증샷 각! 윤은혜표 ‘크룽지’ 레서피]]></title>
-        <id>https://www.elle.co.kr/article/78641</id>
-        <link href="https://www.elle.co.kr/article/78641"/>
-        <updated>2023-06-27T17:42:26.735Z</updated>
-        <content type="html"><![CDATA[크루아상 좋아! 누룽지 좋아! 크루아상과 누룽지의 실패 없는 조합이 궁금하다면? 윤은혜의 크룽...]]></content>
     </entry>
 </feed>
