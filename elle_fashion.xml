@@ -1,64 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-03T05:42:21.633Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[챗 GPT가 쇼 노트를 작성한다면? AI와 패션이 조우한 순간 3]]></title>
-        <id>https://www.elle.co.kr/article/78845</id>
-        <link href="https://www.elle.co.kr/article/78845"/>
-        <updated>2023-07-03T05:40:52.283Z</updated>
-        <content type="html"><![CDATA[베트멍의 ‘안티-AI’ 정신부터 마크 제이콥스, 더블렛까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[속옷인 듯 일상복인 듯 속옷 같은 패션]]></title>
-        <id>https://www.elle.co.kr/article/78775</id>
-        <link href="https://www.elle.co.kr/article/78775"/>
-        <updated>2023-07-02T17:40:00.404Z</updated>
-        <content type="html"><![CDATA[옷 덜 입은 것 아닙니다~ 리본, 레이스 등 디테일이 돋보이는 속옷 같은 패션이 눈에 띄는 지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에디 슬리먼의 추억이 담긴 장소에서,]]></title>
-        <id>https://www.elle.co.kr/article/78758</id>
-        <link href="https://www.elle.co.kr/article/78758"/>
-        <updated>2023-07-01T17:39:49.318Z</updated>
-        <content type="html"><![CDATA[2000년대 일렉트로닉 음악을 탐닉한 셀린느의 ‘파리 신드롬’.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #2 모델 박경진]]></title>
-        <id>https://www.elle.co.kr/article/78739</id>
-        <link href="https://www.elle.co.kr/article/78739"/>
-        <updated>2023-07-01T05:39:57.629Z</updated>
-        <content type="html"><![CDATA[모델 박경진이 애정하는 물건과 그 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코트 위에서도 스타일리시하게! 셀러브리티의 테니스 룩 5]]></title>
-        <id>https://www.elle.co.kr/article/78730</id>
-        <link href="https://www.elle.co.kr/article/78730"/>
-        <updated>2023-06-30T17:40:38.745Z</updated>
-        <content type="html"><![CDATA[테니스 열풍이 거세게 부는 요즘, 패션과 테니스를 사랑하는 셀럽의 아웃핏에서 패셔너블한 테니...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런웨이에 천연히 피어난 꽃, 패션 브랜드가 사랑한 플로리스트 루이-제로드 카스토르]]></title>
-        <id>https://www.elle.co.kr/article/78727</id>
-        <link href="https://www.elle.co.kr/article/78727"/>
-        <updated>2023-06-30T17:40:38.746Z</updated>
-        <content type="html"><![CDATA[생 로랑부터 루브르 박물관에 이르기까지, 모두를 매료시킨 그만의 황홀한 작품 세계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타들의 복근은 열일중! 크롭트 톱 유행이 불러온 복근 자랑 패션]]></title>
-        <id>https://www.elle.co.kr/article/78677</id>
-        <link href="https://www.elle.co.kr/article/78677"/>
-        <updated>2023-06-30T05:40:41.177Z</updated>
-        <content type="html"><![CDATA[탄탄한 복근으로 스타일 지수를 높인 스타들을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤엄칠 결심]]></title>
-        <id>https://www.elle.co.kr/article/78571</id>
-        <link href="https://www.elle.co.kr/article/78571"/>
-        <updated>2023-06-28T17:40:25.230Z</updated>
-        <content type="html"><![CDATA[해변 분위기를 업그레이드해 줄 바캉스 아이템.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 03 Jul 2023 17:41:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗 GPT가 쇼 노트를 작성한다면? AI와 패션이 조우한 순간 3]]></title>
+            <link>https://www.elle.co.kr/article/78845</link>
+            <guid>https://www.elle.co.kr/article/78845</guid>
+            <pubDate>Mon, 03 Jul 2023 05:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[베트멍의 ‘안티-AI’ 정신부터 마크 제이콥스, 더블렛까지.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[속옷인 듯 일상복인 듯 속옷 같은 패션]]></title>
+            <link>https://www.elle.co.kr/article/78775</link>
+            <guid>https://www.elle.co.kr/article/78775</guid>
+            <pubDate>Sun, 02 Jul 2023 17:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[옷 덜 입은 것 아닙니다~ 리본, 레이스 등 디테일이 돋보이는 속옷 같은 패션이 눈에 띄는 지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/c673b42c-b3ec-4bc4-968a-adbbe147c418.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에디 슬리먼의 추억이 담긴 장소에서,]]></title>
+            <link>https://www.elle.co.kr/article/78758</link>
+            <guid>https://www.elle.co.kr/article/78758</guid>
+            <pubDate>Sat, 01 Jul 2023 17:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[2000년대 일렉트로닉 음악을 탐닉한 셀린느의 ‘파리 신드롬’.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/f1c0720f-ce0a-43cb-871b-7fbea272531e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사물(사람과 물건) 인터뷰 #2 모델 박경진]]></title>
+            <link>https://www.elle.co.kr/article/78739</link>
+            <guid>https://www.elle.co.kr/article/78739</guid>
+            <pubDate>Sat, 01 Jul 2023 05:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[모델 박경진이 애정하는 물건과 그 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/45d1b44b-d8ac-48bc-bf9a-57957632bec6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코트 위에서도 스타일리시하게! 셀러브리티의 테니스 룩 5]]></title>
+            <link>https://www.elle.co.kr/article/78730</link>
+            <guid>https://www.elle.co.kr/article/78730</guid>
+            <pubDate>Fri, 30 Jun 2023 17:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[테니스 열풍이 거세게 부는 요즘, 패션과 테니스를 사랑하는 셀럽의 아웃핏에서 패셔너블한 테니...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/ffbb0ca4-f0f5-43c0-9ca7-bf8ecb56e25a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[런웨이에 천연히 피어난 꽃, 패션 브랜드가 사랑한 플로리스트 루이-제로드 카스토르]]></title>
+            <link>https://www.elle.co.kr/article/78727</link>
+            <guid>https://www.elle.co.kr/article/78727</guid>
+            <pubDate>Fri, 30 Jun 2023 17:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[생 로랑부터 루브르 박물관에 이르기까지, 모두를 매료시킨 그만의 황홀한 작품 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/9ca9c5b4-82ed-44c9-a587-304152b78c6f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타들의 복근은 열일중! 크롭트 톱 유행이 불러온 복근 자랑 패션]]></title>
+            <link>https://www.elle.co.kr/article/78677</link>
+            <guid>https://www.elle.co.kr/article/78677</guid>
+            <pubDate>Fri, 30 Jun 2023 05:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[탄탄한 복근으로 스타일 지수를 높인 스타들을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/98b70f6e-6c4b-4793-9f30-2715e211fa2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤엄칠 결심]]></title>
+            <link>https://www.elle.co.kr/article/78571</link>
+            <guid>https://www.elle.co.kr/article/78571</guid>
+            <pubDate>Wed, 28 Jun 2023 17:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[해변 분위기를 업그레이드해 줄 바캉스 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/088d5152-991f-4918-be1b-72a363072911.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

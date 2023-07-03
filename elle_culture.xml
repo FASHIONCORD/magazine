@@ -1,60 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-07-03T05:42:21.659Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[한국인 최초 '레바뮌' 입성 임박! '나폴리 철기둥' 김민재의 이적 타임라인.txt]]></title>
-        <id>https://www.elle.co.kr/article/78839</id>
-        <link href="https://www.elle.co.kr/article/78839"/>
-        <updated>2023-07-03T05:41:24.033Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숙명의 U-17 월드컵 한일 결승전, 몇 시에 어디서 한다고?]]></title>
-        <id>https://www.elle.co.kr/article/78835</id>
-        <link href="https://www.elle.co.kr/article/78835"/>
-        <updated>2023-07-02T17:40:54.499Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토)]]></title>
-        <id>https://www.elle.co.kr/article/78808</id>
-        <link href="https://www.elle.co.kr/article/78808"/>
-        <updated>2023-07-02T17:40:54.504Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은퇴한 탑이 '오징어게임2'에 나온다? 전체 캐스팅 라인업과 대본 리딩 현장.jpg]]></title>
-        <id>https://www.elle.co.kr/article/78788</id>
-        <link href="https://www.elle.co.kr/article/78788"/>
-        <updated>2023-07-01T05:40:27.502Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바비의 핑크빛 드림하우스에서 하룻밤을? 심지어 모든 것이 무료!]]></title>
-        <id>https://www.elle.co.kr/article/78767</id>
-        <link href="https://www.elle.co.kr/article/78767"/>
-        <updated>2023-06-30T17:41:22.307Z</updated>
-        <content type="html"><![CDATA[말리부 해안선이 내려다보이는 대저택을 전세 낼 수 있는 절호의 기회.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국적과 시대를 넘나드는 고리원의 잔칫상 #더컬렉터스]]></title>
-        <id>https://www.elle.co.kr/article/78342</id>
-        <link href="https://www.elle.co.kr/article/78342"/>
-        <updated>2023-06-30T17:41:22.307Z</updated>
-        <content type="html"><![CDATA[상상과 호기심으로 발굴해 온 사물들의 고상한 운치. '고취소관' 대표 고리원의 특별한 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런웨이에 천연히 피어난 꽃, 패션 브랜드가 사랑한 플로리스트 루이-제로드 카스토르]]></title>
-        <id>https://www.elle.co.kr/article/78727</id>
-        <link href="https://www.elle.co.kr/article/78727"/>
-        <updated>2023-06-30T05:41:21.970Z</updated>
-        <content type="html"><![CDATA[생 로랑부터 루브르 박물관에 이르기까지, 모두를 매료시킨 그만의 황홀한 작품 세계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암스테르담 한복판, 떠다니는 정원이 등장했다 #스튜디오 오시디아나]]></title>
-        <id>https://www.elle.co.kr/article/78340</id>
-        <link href="https://www.elle.co.kr/article/78340"/>
-        <updated>2023-06-30T05:41:21.973Z</updated>
-        <content type="html"><![CDATA[인간과 동물의 공존을 그리는 스튜디오 오시디아나.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 03 Jul 2023 17:41:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국인 최초 '레바뮌' 입성 임박! '나폴리 철기둥' 김민재의 이적 타임라인.txt]]></title>
+            <link>https://www.elle.co.kr/article/78839</link>
+            <guid>https://www.elle.co.kr/article/78839</guid>
+            <pubDate>Mon, 03 Jul 2023 05:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[숙명의 U-17 월드컵 한일 결승전, 몇 시에 어디서 한다고?]]></title>
+            <link>https://www.elle.co.kr/article/78835</link>
+            <guid>https://www.elle.co.kr/article/78835</guid>
+            <pubDate>Sun, 02 Jul 2023 17:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토)]]></title>
+            <link>https://www.elle.co.kr/article/78808</link>
+            <guid>https://www.elle.co.kr/article/78808</guid>
+            <pubDate>Sun, 02 Jul 2023 17:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[은퇴한 탑이 '오징어게임2'에 나온다? 전체 캐스팅 라인업과 대본 리딩 현장.jpg]]></title>
+            <link>https://www.elle.co.kr/article/78788</link>
+            <guid>https://www.elle.co.kr/article/78788</guid>
+            <pubDate>Sat, 01 Jul 2023 05:40:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[바비의 핑크빛 드림하우스에서 하룻밤을? 심지어 모든 것이 무료!]]></title>
+            <link>https://www.elle.co.kr/article/78767</link>
+            <guid>https://www.elle.co.kr/article/78767</guid>
+            <pubDate>Fri, 30 Jun 2023 17:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[말리부 해안선이 내려다보이는 대저택을 전세 낼 수 있는 절호의 기회.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국적과 시대를 넘나드는 고리원의 잔칫상 #더컬렉터스]]></title>
+            <link>https://www.elle.co.kr/article/78342</link>
+            <guid>https://www.elle.co.kr/article/78342</guid>
+            <pubDate>Fri, 30 Jun 2023 17:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[상상과 호기심으로 발굴해 온 사물들의 고상한 운치. '고취소관' 대표 고리원의 특별한 컬렉션.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[런웨이에 천연히 피어난 꽃, 패션 브랜드가 사랑한 플로리스트 루이-제로드 카스토르]]></title>
+            <link>https://www.elle.co.kr/article/78727</link>
+            <guid>https://www.elle.co.kr/article/78727</guid>
+            <pubDate>Fri, 30 Jun 2023 05:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[생 로랑부터 루브르 박물관에 이르기까지, 모두를 매료시킨 그만의 황홀한 작품 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/9ca9c5b4-82ed-44c9-a587-304152b78c6f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[암스테르담 한복판, 떠다니는 정원이 등장했다 #스튜디오 오시디아나]]></title>
+            <link>https://www.elle.co.kr/article/78340</link>
+            <guid>https://www.elle.co.kr/article/78340</guid>
+            <pubDate>Fri, 30 Jun 2023 05:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[인간과 동물의 공존을 그리는 스튜디오 오시디아나.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/8f916cbe-8e10-40bb-ad29-27715e5c7397.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

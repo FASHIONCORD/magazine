@@ -4,17 +4,9 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 05:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 17:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[부산역 근처 이곳]]></title>
-            <link>https://www.elle.co.kr/article/78781</link>
-            <guid>https://www.elle.co.kr/article/78781</guid>
-            <pubDate>Sun, 02 Jul 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[마지막까지 부산을 즐길 수 있는 곳. 100년이 넘은 식당까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/c5f91e5a-2f85-4f10-9cfd-1b7f4da48a32.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[바비의 핑크빛 드림하우스에서 하룻밤을? 심지어 모든 것이 무료!]]></title>
             <link>https://www.elle.co.kr/article/78767</link>
@@ -68,6 +60,14 @@
             <pubDate>Tue, 27 Jun 2023 17:42:26 GMT</pubDate>
             <content:encoded><![CDATA[빅투아 드 타야크가 '레 자뎅 프랑세 컬렉션(Les Jardins Français Collection)' 출시를 기념...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/6b03b897-a8e9-41d2-b7f5-5c23f67b2dae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS 인증샷 각! 윤은혜표 ‘크룽지’ 레서피]]></title>
+            <link>https://www.elle.co.kr/article/78641</link>
+            <guid>https://www.elle.co.kr/article/78641</guid>
+            <pubDate>Mon, 03 Jul 2023 17:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[크루아상 좋아! 누룽지 좋아! 크루아상과 누룽지의 실패 없는 조합이 궁금하다면? 윤은혜의 크룽...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/3065dfe3-64d7-46b7-b42f-eb1762691114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
