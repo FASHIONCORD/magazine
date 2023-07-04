@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 05:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 17:43:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조석봉 사건 이후, 군대는 바뀌었을까?  시즌2 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/78875</link>
+            <guid>https://www.elle.co.kr/article/78875</guid>
+            <pubDate>Tue, 04 Jul 2023 17:41:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/e5106004-e9d7-496b-b3bc-f8e9ef2506b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언제나 맑은 강말금]]></title>
             <link>https://www.elle.co.kr/article/78860</link>
@@ -60,14 +67,6 @@
             <guid>https://www.elle.co.kr/article/78839</guid>
             <pubDate>Sun, 02 Jul 2023 05:40:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/47f584c1-49c0-479a-997f-d772786c7541.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야구장에서 스타를 만난다면?]]></title>
-            <link>https://www.elle.co.kr/article/78819</link>
-            <guid>https://www.elle.co.kr/article/78819</guid>
-            <pubDate>Sat, 01 Jul 2023 05:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[미국 메이저리그에서 시구에 도전한 에스파부터 조인성, 더 보이즈, 손나은 등 찐 야구팬임을 인...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/fd82c2a0-5e79-4e34-9b7a-70b822c31b47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
