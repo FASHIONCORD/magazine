@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-07-04T17:43:37.739Z</updated>
+    <updated>2023-07-05T05:43:24.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[습하고 끈적한 장마철, 하루 종일 보송한 무적의 베이스 메이크업 TIP 5_선배’s 어드바이스 #174]]></title>
+        <id>https://www.elle.co.kr/article/78681</id>
+        <link href="https://www.elle.co.kr/article/78681"/>
+        <updated>2023-07-05T05:42:04.540Z</updated>
+        <content type="html"><![CDATA[절대 무너지지 않는 베이스를 완성시켜줄 아이템, 똑똑하게 바르는 법은?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손끝까지 스타일리시하게! 서머 네일 아이디어]]></title>
         <id>https://www.elle.co.kr/article/78645</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/78443"/>
         <updated>2023-06-25T17:40:17.898Z</updated>
         <content type="html"><![CDATA[청초한 매력을 가진 장희령이 ‘찐’으로 애정하는 뷰티템을 구경해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓벽한 여행을 원한다면? 뷰티 트래블 키트 4]]></title>
-        <id>https://www.elle.co.kr/article/78261</id>
-        <link href="https://www.elle.co.kr/article/78261"/>
-        <updated>2023-06-23T05:40:55.447Z</updated>
-        <content type="html"><![CDATA[그 어떤 여행이라도 괜찮다. 당신의 여정에 동행할 완벽한 뷰티 트래블 키트만 있다면.]]></content>
     </entry>
 </feed>
