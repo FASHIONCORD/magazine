@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/society</id>
-    <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-07-05T05:43:24.324Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[엔화가 너무 저렴한데, 미리 사둬도 될까요?_돈쓸신잡 #104]]></title>
-        <id>https://www.elle.co.kr/article/78779</id>
-        <link href="https://www.elle.co.kr/article/78779"/>
-        <updated>2023-07-05T05:43:23.491Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28일부터 전 국민 만 나이로 통일! 헷갈리는 나이 계산법과 예외 상황 정리.txt]]></title>
-        <id>https://www.elle.co.kr/article/78697</id>
-        <link href="https://www.elle.co.kr/article/78697"/>
-        <updated>2023-07-03T17:41:13.528Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 잊었던 언어를 키우는 법]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/78647</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/78647"/>
-        <updated>2023-07-03T05:42:20.465Z</updated>
-        <content type="html"><![CDATA[나의 앎이 실천과 멀어지지 않도록 !]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네가 가라, 라스베가스?! 일론 머스크 vs. 마크 저커버그 격투기 성사될까 (실화)]]></title>
-        <id>https://www.elle.co.kr/article/78631</id>
-        <link href="https://www.elle.co.kr/article/78631"/>
-        <updated>2023-07-01T17:41:29.872Z</updated>
-        <content type="html"><![CDATA[진짜 왜 저래...?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[참전 용사들의 희생과 분단의 아픔 되새길 수 있는 6·25 전쟁 기념 명소 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/78627</id>
-        <link href="https://www.elle.co.kr/article/78627"/>
-        <updated>2023-06-30T17:43:53.348Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결국 돌아오지 못한 잠수정 타이탄, 심해로 33번 내려갔던 제임스 카메론의 한 마디]]></title>
-        <id>https://www.elle.co.kr/article/78623</id>
-        <link href="https://www.elle.co.kr/article/78623"/>
-        <updated>2023-06-30T05:42:22.677Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닮은 듯 다른 두 작가의 그림]]></title>
-        <id>https://www.elle.co.kr/article/78224</id>
-        <link href="https://www.elle.co.kr/article/78224"/>
-        <updated>2023-06-27T17:42:53.489Z</updated>
-        <content type="html"><![CDATA[미술가 이수경과 정수정은 예전에 한 번도 만난 적 없다. 세대는 다르지만 두 작가의 화폭에 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 이 순간, 주식 시장이 그 어느 때보다도 뜨거운 이유 3_돈쓸신잡 #103]]></title>
-        <id>https://www.elle.co.kr/article/78558</id>
-        <link href="https://www.elle.co.kr/article/78558"/>
-        <updated>2023-06-26T17:42:13.304Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 소사이어티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 05 Jul 2023 17:42:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔화가 너무 저렴한데, 미리 사둬도 될까요?_돈쓸신잡 #104]]></title>
+            <link>https://www.elle.co.kr/article/78779</link>
+            <guid>https://www.elle.co.kr/article/78779</guid>
+            <pubDate>Wed, 05 Jul 2023 17:42:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/2662ce70-7cb7-43be-b5fb-26afdd20c95a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[28일부터 전 국민 만 나이로 통일! 헷갈리는 나이 계산법과 예외 상황 정리.txt]]></title>
+            <link>https://www.elle.co.kr/article/78697</link>
+            <guid>https://www.elle.co.kr/article/78697</guid>
+            <pubDate>Mon, 03 Jul 2023 17:41:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/64ccf38f-84db-445b-99da-d2cb00c9bac0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 잊었던 언어를 키우는 법]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/78647</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/78647</guid>
+            <pubDate>Mon, 03 Jul 2023 05:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[나의 앎이 실천과 멀어지지 않도록 !]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/3c99380a-be7d-47f2-aa45-5e43ebdc5ce5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네가 가라, 라스베가스?! 일론 머스크 vs. 마크 저커버그 격투기 성사될까 (실화)]]></title>
+            <link>https://www.elle.co.kr/article/78631</link>
+            <guid>https://www.elle.co.kr/article/78631</guid>
+            <pubDate>Sat, 01 Jul 2023 17:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 왜 저래...?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/ff1ace5f-55a9-423c-9208-4fcbd9144446.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[참전 용사들의 희생과 분단의 아픔 되새길 수 있는 6·25 전쟁 기념 명소 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/78627</link>
+            <guid>https://www.elle.co.kr/article/78627</guid>
+            <pubDate>Fri, 30 Jun 2023 17:43:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/b7bc04cd-21fa-44af-9f90-d3caeb735210.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[결국 돌아오지 못한 잠수정 타이탄, 심해로 33번 내려갔던 제임스 카메론의 한 마디]]></title>
+            <link>https://www.elle.co.kr/article/78623</link>
+            <guid>https://www.elle.co.kr/article/78623</guid>
+            <pubDate>Fri, 30 Jun 2023 05:42:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/02526411-23cf-4f21-ac0b-aba92842467d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닮은 듯 다른 두 작가의 그림]]></title>
+            <link>https://www.elle.co.kr/article/78224</link>
+            <guid>https://www.elle.co.kr/article/78224</guid>
+            <pubDate>Tue, 27 Jun 2023 17:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[미술가 이수경과 정수정은 예전에 한 번도 만난 적 없다. 세대는 다르지만 두 작가의 화폭에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/4cbdb0f8-2d98-4796-9931-79303e5cf192.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 이 순간, 주식 시장이 그 어느 때보다도 뜨거운 이유 3_돈쓸신잡 #103]]></title>
+            <link>https://www.elle.co.kr/article/78558</link>
+            <guid>https://www.elle.co.kr/article/78558</guid>
+            <pubDate>Mon, 26 Jun 2023 17:42:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/3f04acd4-2570-4031-8850-dcdf32c8391f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
