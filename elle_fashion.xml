@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 05:44:33 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스타의 서머 룩 최애 조합, 원피스와 모자]]></title>
-            <link>https://www.elle.co.kr/article/78861</link>
-            <guid>https://www.elle.co.kr/article/78861</guid>
-            <pubDate>Thu, 06 Jul 2023 05:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[실패 없는 서머 패션 공식을 사복 천재 셀러브리티들의 OOTD에서 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/5878a1f2-98ad-4782-99a8-40deab723080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 핫한 '시미헤이즈 뷰티'가 궁금해?]]></title>
-            <link>https://www.elle.co.kr/article/78789</link>
-            <guid>https://www.elle.co.kr/article/78789</guid>
-            <pubDate>Thu, 06 Jul 2023 05:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[직구 사이트에 수시로 드나드는 코덕들의 마음을 설레게 할 소식! 시미&amp;헤이즈 자매의 키치한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/9166f35c-50c9-4cee-9d88-0e5207ba738d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸 영화제의 공주들]]></title>
-            <link>https://www.elle.co.kr/article/78584</link>
-            <guid>https://www.elle.co.kr/article/78584</guid>
-            <pubDate>Wed, 05 Jul 2023 17:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[레드 카펫을 휘황찬란하게 수놓은 셀러브리티 6.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/1c203866-e2dd-409e-ac1b-808a6b99370a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여름 만능템' 화이트 원피스를 입은 스타 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/78852</link>
-            <guid>https://www.elle.co.kr/article/78852</guid>
-            <pubDate>Tue, 04 Jul 2023 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[일상부터 휴양지까지 활용도 높은 화이트 원피스 스타일을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/3ad9da66-e819-4e73-a1ff-2dbf20b03a47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핑크에 담긴 페라가모]]></title>
-            <link>https://www.elle.co.kr/article/78851</link>
-            <guid>https://www.elle.co.kr/article/78851</guid>
-            <pubDate>Tue, 04 Jul 2023 05:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[짙은 핑크빛으로 바라본 페라가모의 색다른 면.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/ad18876f-a3ab-4725-9f29-1bd85be43f23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗 GPT가 쇼 노트를 작성한다면? AI와 패션이 조우한 순간 3]]></title>
-            <link>https://www.elle.co.kr/article/78845</link>
-            <guid>https://www.elle.co.kr/article/78845</guid>
-            <pubDate>Mon, 03 Jul 2023 05:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[베트멍의 ‘안티-AI’ 정신부터 마크 제이콥스, 더블렛까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/32403e27-4ec2-44c1-96fc-8d2218535c1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속옷인 듯 일상복인 듯 속옷 같은 패션]]></title>
-            <link>https://www.elle.co.kr/article/78775</link>
-            <guid>https://www.elle.co.kr/article/78775</guid>
-            <pubDate>Sun, 02 Jul 2023 17:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[옷 덜 입은 것 아닙니다~ 리본, 레이스 등 디테일이 돋보이는 속옷 같은 패션이 눈에 띄는 지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/c673b42c-b3ec-4bc4-968a-adbbe147c418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디 슬리먼의 추억이 담긴 장소에서,]]></title>
-            <link>https://www.elle.co.kr/article/78758</link>
-            <guid>https://www.elle.co.kr/article/78758</guid>
-            <pubDate>Sat, 01 Jul 2023 17:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[2000년대 일렉트로닉 음악을 탐닉한 셀린느의 ‘파리 신드롬’.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/f1c0720f-ce0a-43cb-871b-7fbea272531e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-07-06T17:42:37.460Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여성 축구 선수 유니폼과 정장이 만난다면?]]></title>
+        <id>https://www.elle.co.kr/article/78927</id>
+        <link href="https://www.elle.co.kr/article/78927"/>
+        <updated>2023-07-06T17:41:16.843Z</updated>
+        <content type="html"><![CDATA[“남성뿐만 아니라 여성 또한 스스로 강인함을 느끼길 바랍니다.”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 핫한 '실버 아이템' 쇼핑 리스트]]></title>
+        <id>https://www.elle.co.kr/article/78895</id>
+        <link href="https://www.elle.co.kr/article/78895"/>
+        <updated>2023-07-06T17:41:16.846Z</updated>
+        <content type="html"><![CDATA[패션 인싸라면 실버 아이템은 필수! 드레스, 가방, 주얼리 등 보기만 해도 시원한 실버 컬러 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타의 서머 룩 최애 조합, 원피스와 모자]]></title>
+        <id>https://www.elle.co.kr/article/78861</id>
+        <link href="https://www.elle.co.kr/article/78861"/>
+        <updated>2023-07-06T05:42:52.320Z</updated>
+        <content type="html"><![CDATA[실패 없는 서머 패션 공식을 사복 천재 셀러브리티들의 OOTD에서 확인해 보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 핫한 '시미헤이즈 뷰티'가 궁금해?]]></title>
+        <id>https://www.elle.co.kr/article/78789</id>
+        <link href="https://www.elle.co.kr/article/78789"/>
+        <updated>2023-07-06T05:42:52.322Z</updated>
+        <content type="html"><![CDATA[직구 사이트에 수시로 드나드는 코덕들의 마음을 설레게 할 소식! 시미&amp;헤이즈 자매의 키치한 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칸 영화제의 공주들]]></title>
+        <id>https://www.elle.co.kr/article/78584</id>
+        <link href="https://www.elle.co.kr/article/78584"/>
+        <updated>2023-07-05T17:40:59.243Z</updated>
+        <content type="html"><![CDATA[레드 카펫을 휘황찬란하게 수놓은 셀러브리티 6.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['여름 만능템' 화이트 원피스를 입은 스타 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/78852</id>
+        <link href="https://www.elle.co.kr/article/78852"/>
+        <updated>2023-07-04T17:41:18.791Z</updated>
+        <content type="html"><![CDATA[일상부터 휴양지까지 활용도 높은 화이트 원피스 스타일을 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핑크에 담긴 페라가모]]></title>
+        <id>https://www.elle.co.kr/article/78851</id>
+        <link href="https://www.elle.co.kr/article/78851"/>
+        <updated>2023-07-04T05:41:44.948Z</updated>
+        <content type="html"><![CDATA[짙은 핑크빛으로 바라본 페라가모의 색다른 면.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챗 GPT가 쇼 노트를 작성한다면? AI와 패션이 조우한 순간 3]]></title>
+        <id>https://www.elle.co.kr/article/78845</id>
+        <link href="https://www.elle.co.kr/article/78845"/>
+        <updated>2023-07-03T05:40:52.283Z</updated>
+        <content type="html"><![CDATA[베트멍의 ‘안티-AI’ 정신부터 마크 제이콥스, 더블렛까지.]]></content>
+    </entry>
+</feed>
