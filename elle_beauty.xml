@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-07-05T17:42:59.739Z</updated>
+    <updated>2023-07-06T05:44:33.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이거 뿌리면 사람들이 다 물어볼걸? 강민경의 상황별 추천 향수 9]]></title>
+        <id>https://www.elle.co.kr/article/78857</id>
+        <link href="https://www.elle.co.kr/article/78857"/>
+        <updated>2023-07-06T05:43:02.195Z</updated>
+        <content type="html"><![CDATA[강민경이 추천하고 이해리가 보증하는 향수 아홉 가지! 그날의 기분에 따라 매치해 보세요~]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제니와 송혜교의 절친, 톱 모델 신현지가 48kg 유지 위해 아침마다 하는 운동은? #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/78806</id>
@@ -50,11 +57,5 @@
         <id>https://www.elle.co.kr/article/78577</id>
         <link href="https://www.elle.co.kr/article/78577"/>
         <updated>2023-06-28T17:40:35.575Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대식가+고무줄 몸무게라는 에스파 카리나의 관리 비결 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/78542</id>
-        <link href="https://www.elle.co.kr/article/78542"/>
-        <updated>2023-06-27T05:40:43.718Z</updated>
     </entry>
 </feed>
