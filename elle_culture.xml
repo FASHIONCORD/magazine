@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-07-07T05:43:08.884Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[나만의 홈 오피스 만들기]]></title>
-        <id>https://www.elle.co.kr/article/78771</id>
-        <link href="https://www.elle.co.kr/article/78771"/>
-        <updated>2023-07-06T17:41:47.916Z</updated>
-        <content type="html"><![CDATA[홈 오피스를 위한 아름답고 다재다능한 가구들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/78948</id>
-        <link href="https://www.elle.co.kr/article/78948"/>
-        <updated>2023-07-06T17:41:47.919Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 정국, 솔로 활동 앞두고 3년 전 자작곡 역주행한 이유는?]]></title>
-        <id>https://www.elle.co.kr/article/78933</id>
-        <link href="https://www.elle.co.kr/article/78933"/>
-        <updated>2023-07-06T17:41:47.921Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿉꿉했다가 쨍쨍했다가, 변덕스런 여름 날씨에 추천! 서울 전시회 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/78932</id>
-        <link href="https://www.elle.co.kr/article/78932"/>
-        <updated>2023-07-06T17:41:47.923Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우먼 인 골드]]></title>
-        <id>https://www.elle.co.kr/article/78769</id>
-        <link href="https://www.elle.co.kr/article/78769"/>
-        <updated>2023-07-05T17:41:41.615Z</updated>
-        <content type="html"><![CDATA[뜨거운 금속이 천천히 식으며 드러나는 자태. 단단하고 유연한 금속에 매료된 다섯 명의 여성 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화계의 초인싸, 백은하 소장이 직접 엘르에 전해온 칸 국제영화제의 고유하고 생생한 기록]]></title>
-        <id>https://www.elle.co.kr/article/78880</id>
-        <link href="https://www.elle.co.kr/article/78880"/>
-        <updated>2023-07-05T17:41:41.620Z</updated>
-        <content type="html"><![CDATA[우리는 계속 영화를 사랑할 수 있을까? 정답은 그렇다이다! 그 어느 때보다 마법 같았던 칸느에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승범이 20년 만에 선택한 드라마 '무빙'! 성공한 국산 히어로물 될까?]]></title>
-        <id>https://www.elle.co.kr/article/78906</id>
-        <link href="https://www.elle.co.kr/article/78906"/>
-        <updated>2023-07-05T17:41:41.623Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리X오정세의 기묘한 공조로 시선 집중! '악귀' 흥행 요인 2 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/78897</id>
-        <link href="https://www.elle.co.kr/article/78897"/>
-        <updated>2023-07-05T17:41:41.625Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 07 Jul 2023 17:42:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
+            <link>https://www.elle.co.kr/article/78983</link>
+            <guid>https://www.elle.co.kr/article/78983</guid>
+            <pubDate>Fri, 07 Jul 2023 17:41:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/03ca0294-d275-4388-b572-0e50b27a12de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킹더랜드' 재벌 3세 이준호, 수트 입고 '뉴스룸' 출근! 방송은 언제?]]></title>
+            <link>https://www.elle.co.kr/article/78982</link>
+            <guid>https://www.elle.co.kr/article/78982</guid>
+            <pubDate>Fri, 07 Jul 2023 17:41:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/7375c3c3-7c94-4aa2-a5ba-bc135b8f6efe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닉 퓨리의 동료 요원이 되다! 올리비아 콜맨]]></title>
+            <link>https://www.elle.co.kr/article/78889</link>
+            <guid>https://www.elle.co.kr/article/78889</guid>
+            <pubDate>Fri, 07 Jul 2023 17:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;더 페이버릿: 여왕의 여자&gt;로 아카데미를 거머쥔 올리비아콜맨. 그의 영역은 MCU로 깜짝 확장됐...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/67fc63d8-6190-4eb2-b1c3-4804b061cbbb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만의 홈 오피스 만들기]]></title>
+            <link>https://www.elle.co.kr/article/78771</link>
+            <guid>https://www.elle.co.kr/article/78771</guid>
+            <pubDate>Thu, 06 Jul 2023 17:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[홈 오피스를 위한 아름답고 다재다능한 가구들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/28d23411-f66c-4d0e-9245-31fd664c1ddf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/78948</link>
+            <guid>https://www.elle.co.kr/article/78948</guid>
+            <pubDate>Thu, 06 Jul 2023 17:41:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/e53c6c2c-d719-4b44-9c5f-52ccc39d5e07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국, 솔로 활동 앞두고 3년 전 자작곡 역주행한 이유는?]]></title>
+            <link>https://www.elle.co.kr/article/78933</link>
+            <guid>https://www.elle.co.kr/article/78933</guid>
+            <pubDate>Thu, 06 Jul 2023 17:41:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/57ebd01e-53e9-4593-8d81-75a126b90414.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿉꿉했다가 쨍쨍했다가, 변덕스런 여름 날씨에 추천! 서울 전시회 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/78932</link>
+            <guid>https://www.elle.co.kr/article/78932</guid>
+            <pubDate>Thu, 06 Jul 2023 17:41:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/fc6f1e5f-9e4a-4c3a-98be-e5646b0e9cb5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우먼 인 골드]]></title>
+            <link>https://www.elle.co.kr/article/78769</link>
+            <guid>https://www.elle.co.kr/article/78769</guid>
+            <pubDate>Wed, 05 Jul 2023 17:41:41 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 금속이 천천히 식으며 드러나는 자태. 단단하고 유연한 금속에 매료된 다섯 명의 여성 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/862b568e-1469-4ee0-a6cf-ba82c9aa586e.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

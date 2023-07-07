@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 05:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 17:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계가 주목한 프로방스 예술, 아뜰리에 빔]]></title>
+            <link>https://www.elle.co.kr/article/78942</link>
+            <guid>https://www.elle.co.kr/article/78942</guid>
+            <pubDate>Fri, 07 Jul 2023 17:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[완벽한 퀄리티와 진정성이 만든 럭셔리. 세계적 주목을 받아온 디자인 스튜디오 '아틀리에 빔'의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/9a3122ea-3c48-4dfb-b627-16c51f460757.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오]]></title>
             <link>https://www.elle.co.kr/article/78939</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/78769</guid>
             <pubDate>Tue, 04 Jul 2023 17:42:44 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 금속이 천천히 식으며 드러나는 자태. 단단하고 유연한 금속에 매료된 다섯 명의 여성 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/862b568e-1469-4ee0-a6cf-ba82c9aa586e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동독 문화의 중심지는 이곳! 라이프치히의 마이스터 침머 #호텔미감]]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/78331</guid>
             <pubDate>Thu, 22 Jun 2023 17:41:14 GMT</pubDate>
             <content:encoded><![CDATA[볕으로 가득 차는 서울 부암동의 작은 빌라. 이곳에 알바 알토와 아이노 알토의 디자인이 나란...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엘르 데코 픽! 센스 있는 선물 리스트]]></title>
-            <link>https://www.elle.co.kr/article/78266</link>
-            <guid>https://www.elle.co.kr/article/78266</guid>
-            <pubDate>Wed, 21 Jun 2023 05:41:08 GMT</pubDate>
-            <content:encoded><![CDATA[엘르 데코가 꼽은 선물하기 좋은 리빙 아이템.]]></content:encoded>
         </item>
     </channel>
 </rss>
