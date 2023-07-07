@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-07-06T17:42:37.472Z</updated>
+    <updated>2023-07-07T05:43:08.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바비의 핑크빛 드림하우스에서 하룻밤을? 심지어 모든 것이 무료!]]></title>
+        <id>https://www.elle.co.kr/article/78767</id>
+        <link href="https://www.elle.co.kr/article/78767"/>
+        <updated>2023-07-07T05:42:56.371Z</updated>
+        <content type="html"><![CDATA[말리부 해안선이 내려다보이는 대저택을 전세 낼 수 있는 절호의 기회.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리모와에 담긴 가장 사적인 여행 이야기]]></title>
         <id>https://www.elle.co.kr/article/78675</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/78641"/>
         <updated>2023-07-03T17:41:04.092Z</updated>
         <content type="html"><![CDATA[크루아상 좋아! 누룽지 좋아! 크루아상과 누룽지의 실패 없는 조합이 궁금하다면? 윤은혜의 크룽...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산에 가면 들러야 할 김나영의 '찐' 로컬 맛집 3]]></title>
-        <id>https://www.elle.co.kr/article/78635</id>
-        <link href="https://www.elle.co.kr/article/78635"/>
-        <updated>2023-07-05T17:42:48.565Z</updated>
-        <content type="html"><![CDATA[40년 전통의 해장국집부터 숙성회를 백반으로 즐길 수 있는 횟집까지, 김나영의 입맛을 사로잡은...]]></content>
     </entry>
 </feed>
