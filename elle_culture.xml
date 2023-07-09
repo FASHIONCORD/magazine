@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 05:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 17:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오]]></title>
+            <link>https://www.elle.co.kr/article/78939</link>
+            <guid>https://www.elle.co.kr/article/78939</guid>
+            <pubDate>Sun, 09 Jul 2023 17:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[두수고방, 카페 온양, 카라멜리에오, LCDC 카페 이페메라. 검박한 아름다움을 꿈꾸는 임태희 디...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/da01a8b5-91a3-467e-aa19-ab259e13484b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!]]></title>
+            <link>https://www.elle.co.kr/article/78984</link>
+            <guid>https://www.elle.co.kr/article/78984</guid>
+            <pubDate>Sun, 09 Jul 2023 17:40:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/269fffad-1182-46c1-be64-ee42d0ff5a50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
             <link>https://www.elle.co.kr/article/78983</link>
@@ -50,21 +65,6 @@
             <guid>https://www.elle.co.kr/article/78933</guid>
             <pubDate>Thu, 06 Jul 2023 17:41:47 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/57ebd01e-53e9-4593-8d81-75a126b90414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿉꿉했다가 쨍쨍했다가, 변덕스런 여름 날씨에 추천! 서울 전시회 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/78932</link>
-            <guid>https://www.elle.co.kr/article/78932</guid>
-            <pubDate>Thu, 06 Jul 2023 17:41:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/fc6f1e5f-9e4a-4c3a-98be-e5646b0e9cb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우먼 인 골드]]></title>
-            <link>https://www.elle.co.kr/article/78769</link>
-            <guid>https://www.elle.co.kr/article/78769</guid>
-            <pubDate>Wed, 05 Jul 2023 17:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 금속이 천천히 식으며 드러나는 자태. 단단하고 유연한 금속에 매료된 다섯 명의 여성 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/862b568e-1469-4ee0-a6cf-ba82c9aa586e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
