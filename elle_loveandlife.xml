@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 17:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 05:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만 알고 싶은 특별한 맛! 독특한 레서피의 논커피 카페 2 #마실마실]]></title>
+            <link>https://www.elle.co.kr/article/78830</link>
+            <guid>https://www.elle.co.kr/article/78830</guid>
+            <pubDate>Sun, 09 Jul 2023 05:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[궁금한 건 못 참는 어시스턴트 에디터가 녹차 에이드와 바닐라 소다를 직접 마셔봤습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/b965b2e3-ee35-4fdf-ae1f-d619640e3a67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제철과일을 즐길 수 있는 가장 무해한 방법2 #무해한삶_4]]></title>
             <link>https://www.elle.co.kr/article/78820</link>
@@ -61,13 +69,6 @@
             <guid>https://www.elle.co.kr/article/78707</guid>
             <pubDate>Fri, 30 Jun 2023 05:42:11 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/9e721072-0a19-4129-a7cc-61d248d36782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시원한 내추럴 와인과 분위기에 취하는 여름밤! 성수-이태원-을지로 와인바 #신상맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/78683</link>
-            <guid>https://www.elle.co.kr/article/78683</guid>
-            <pubDate>Wed, 28 Jun 2023 17:41:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/7ef6d18e-837d-434f-bdd9-5bf40dc1b851.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
