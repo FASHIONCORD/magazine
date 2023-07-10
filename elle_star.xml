@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-09T17:41:42.034Z</updated>
+    <updated>2023-07-10T05:42:12.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!]]></title>
+        <id>https://www.elle.co.kr/article/78984</id>
+        <link href="https://www.elle.co.kr/article/78984"/>
+        <updated>2023-07-10T05:41:06.572Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
+        <id>https://www.elle.co.kr/article/78983</id>
+        <link href="https://www.elle.co.kr/article/78983"/>
+        <updated>2023-07-10T05:41:06.574Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹더랜드' 재벌 3세 이준호, 수트 입고 '뉴스룸' 출근! 방송은 언제?]]></title>
         <id>https://www.elle.co.kr/article/78982</id>
@@ -43,18 +55,5 @@
         <id>https://www.elle.co.kr/article/78948</id>
         <link href="https://www.elle.co.kr/article/78948"/>
         <updated>2023-07-06T17:41:39.279Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 정국, 솔로 활동 앞두고 3년 전 자작곡 역주행한 이유는?]]></title>
-        <id>https://www.elle.co.kr/article/78933</id>
-        <link href="https://www.elle.co.kr/article/78933"/>
-        <updated>2023-07-06T05:43:11.807Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤승아가 N년째 애용하는 공병템 5]]></title>
-        <id>https://www.elle.co.kr/article/78931</id>
-        <link href="https://www.elle.co.kr/article/78931"/>
-        <updated>2023-07-06T05:43:11.814Z</updated>
-        <content type="html"><![CDATA[10년 넘게 윤승아의 화장대 위에 꾸준히 자리하고 있는 아이템은 무엇? 매일 사용하는 보습 크...]]></content>
     </entry>
 </feed>

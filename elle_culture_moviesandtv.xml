@@ -1,96 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 17:41:42 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[K-무비의 또다른 감각을 만드는 사람들]]></title>
-            <link>https://www.elle.co.kr/article/79004</link>
-            <guid>https://www.elle.co.kr/article/79004</guid>
-            <pubDate>Sun, 09 Jul 2023 17:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[K무비의 지금에 감독과 배우만 있는 게 아니다. 영화의 시작과 끝에서 또 다른 감각으로 영화를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/5be0ec79-7937-40dd-b11d-492b6526a6d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?]]></title>
-            <link>https://www.elle.co.kr/article/79018</link>
-            <guid>https://www.elle.co.kr/article/79018</guid>
-            <pubDate>Fri, 07 Jul 2023 17:41:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/72df0ef1-605c-4297-8780-0309a04daa93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list]]></title>
-            <link>https://www.elle.co.kr/article/79017</link>
-            <guid>https://www.elle.co.kr/article/79017</guid>
-            <pubDate>Fri, 07 Jul 2023 17:41:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/f4ec992d-6978-4546-b1e2-3ec5f8b03235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!]]></title>
-            <link>https://www.elle.co.kr/article/78984</link>
-            <guid>https://www.elle.co.kr/article/78984</guid>
-            <pubDate>Thu, 06 Jul 2023 17:42:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/269fffad-1182-46c1-be64-ee42d0ff5a50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
-            <link>https://www.elle.co.kr/article/78983</link>
-            <guid>https://www.elle.co.kr/article/78983</guid>
-            <pubDate>Thu, 06 Jul 2023 17:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['킹더랜드' 재벌 3세 이준호, 수트 입고 '뉴스룸' 출근! 방송은 언제?]]></title>
-            <link>https://www.elle.co.kr/article/78982</link>
-            <guid>https://www.elle.co.kr/article/78982</guid>
-            <pubDate>Thu, 06 Jul 2023 17:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[닉 퓨리의 동료 요원이 되다! 올리비아 콜맨]]></title>
-            <link>https://www.elle.co.kr/article/78889</link>
-            <guid>https://www.elle.co.kr/article/78889</guid>
-            <pubDate>Wed, 05 Jul 2023 17:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;더 페이버릿: 여왕의 여자&gt;로 아카데미를 거머쥔 올리비아콜맨. 그의 영역은 MCU로 깜짝 확장됐...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/78948</link>
-            <guid>https://www.elle.co.kr/article/78948</guid>
-            <pubDate>Wed, 05 Jul 2023 17:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[영화계의 초인싸, 백은하 소장이 직접 엘르에 전해온 칸 국제영화제의 고유하고 생생한 기록]]></title>
-            <link>https://www.elle.co.kr/article/78880</link>
-            <guid>https://www.elle.co.kr/article/78880</guid>
-            <pubDate>Tue, 04 Jul 2023 17:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 계속 영화를 사랑할 수 있을까? 정답은 그렇다이다! 그 어느 때보다 마법 같았던 칸느에...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[류승범이 20년 만에 선택한 드라마 '무빙'! 성공한 국산 히어로물 될까?]]></title>
-            <link>https://www.elle.co.kr/article/78906</link>
-            <guid>https://www.elle.co.kr/article/78906</guid>
-            <pubDate>Tue, 04 Jul 2023 05:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[김태리X오정세의 기묘한 공조로 시선 집중! '악귀' 흥행 요인 2 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/78897</link>
-            <guid>https://www.elle.co.kr/article/78897</guid>
-            <pubDate>Tue, 04 Jul 2023 05:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[임시완 '오징어게임2' 캐스팅 소식에 황광희가 뿔났다?!]]></title>
-            <link>https://www.elle.co.kr/article/78896</link>
-            <guid>https://www.elle.co.kr/article/78896</guid>
-            <pubDate>Tue, 04 Jul 2023 05:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[조석봉 사건 이후, 군대는 바뀌었을까?  시즌2 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/78875</link>
-            <guid>https://www.elle.co.kr/article/78875</guid>
-            <pubDate>Mon, 03 Jul 2023 05:41:45 GMT</pubDate>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/moviesandtv</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+    <updated>2023-07-10T05:42:12.989Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-무비의 또다른 감각을 만드는 사람들]]></title>
+        <id>https://www.elle.co.kr/article/79004</id>
+        <link href="https://www.elle.co.kr/article/79004"/>
+        <updated>2023-07-09T17:41:02.464Z</updated>
+        <content type="html"><![CDATA[K무비의 지금에 감독과 배우만 있는 게 아니다. 영화의 시작과 끝에서 또 다른 감각으로 영화를...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?]]></title>
+        <id>https://www.elle.co.kr/article/79018</id>
+        <link href="https://www.elle.co.kr/article/79018"/>
+        <updated>2023-07-07T17:41:30.735Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list]]></title>
+        <id>https://www.elle.co.kr/article/79017</id>
+        <link href="https://www.elle.co.kr/article/79017"/>
+        <updated>2023-07-07T17:41:30.736Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!]]></title>
+        <id>https://www.elle.co.kr/article/78984</id>
+        <link href="https://www.elle.co.kr/article/78984"/>
+        <updated>2023-07-06T17:42:08.691Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
+        <id>https://www.elle.co.kr/article/78983</id>
+        <link href="https://www.elle.co.kr/article/78983"/>
+        <updated>2023-07-06T17:42:08.693Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드' 재벌 3세 이준호, 수트 입고 '뉴스룸' 출근! 방송은 언제?]]></title>
+        <id>https://www.elle.co.kr/article/78982</id>
+        <link href="https://www.elle.co.kr/article/78982"/>
+        <updated>2023-07-06T17:42:08.696Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닉 퓨리의 동료 요원이 되다! 올리비아 콜맨]]></title>
+        <id>https://www.elle.co.kr/article/78889</id>
+        <link href="https://www.elle.co.kr/article/78889"/>
+        <updated>2023-07-05T17:42:31.718Z</updated>
+        <content type="html"><![CDATA[&lt;더 페이버릿: 여왕의 여자&gt;로 아카데미를 거머쥔 올리비아콜맨. 그의 영역은 MCU로 깜짝 확장됐...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/78948</id>
+        <link href="https://www.elle.co.kr/article/78948"/>
+        <updated>2023-07-05T17:42:31.721Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화계의 초인싸, 백은하 소장이 직접 엘르에 전해온 칸 국제영화제의 고유하고 생생한 기록]]></title>
+        <id>https://www.elle.co.kr/article/78880</id>
+        <link href="https://www.elle.co.kr/article/78880"/>
+        <updated>2023-07-04T17:42:34.011Z</updated>
+        <content type="html"><![CDATA[우리는 계속 영화를 사랑할 수 있을까? 정답은 그렇다이다! 그 어느 때보다 마법 같았던 칸느에...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류승범이 20년 만에 선택한 드라마 '무빙'! 성공한 국산 히어로물 될까?]]></title>
+        <id>https://www.elle.co.kr/article/78906</id>
+        <link href="https://www.elle.co.kr/article/78906"/>
+        <updated>2023-07-04T05:42:58.478Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리X오정세의 기묘한 공조로 시선 집중! '악귀' 흥행 요인 2 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/78897</id>
+        <link href="https://www.elle.co.kr/article/78897"/>
+        <updated>2023-07-04T05:42:58.484Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임시완 '오징어게임2' 캐스팅 소식에 황광희가 뿔났다?!]]></title>
+        <id>https://www.elle.co.kr/article/78896</id>
+        <link href="https://www.elle.co.kr/article/78896"/>
+        <updated>2023-07-04T05:42:58.488Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조석봉 사건 이후, 군대는 바뀌었을까?  시즌2 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/78875</id>
+        <link href="https://www.elle.co.kr/article/78875"/>
+        <updated>2023-07-03T05:41:45.049Z</updated>
+    </entry>
+</feed>

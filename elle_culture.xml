@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 17:41:42 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오]]></title>
-            <link>https://www.elle.co.kr/article/78939</link>
-            <guid>https://www.elle.co.kr/article/78939</guid>
-            <pubDate>Sun, 09 Jul 2023 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[두수고방, 카페 온양, 카라멜리에오, LCDC 카페 이페메라. 검박한 아름다움을 꿈꾸는 임태희 디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/da01a8b5-91a3-467e-aa19-ab259e13484b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!]]></title>
-            <link>https://www.elle.co.kr/article/78984</link>
-            <guid>https://www.elle.co.kr/article/78984</guid>
-            <pubDate>Sun, 09 Jul 2023 17:40:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/269fffad-1182-46c1-be64-ee42d0ff5a50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
-            <link>https://www.elle.co.kr/article/78983</link>
-            <guid>https://www.elle.co.kr/article/78983</guid>
-            <pubDate>Fri, 07 Jul 2023 17:41:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/03ca0294-d275-4388-b572-0e50b27a12de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹더랜드' 재벌 3세 이준호, 수트 입고 '뉴스룸' 출근! 방송은 언제?]]></title>
-            <link>https://www.elle.co.kr/article/78982</link>
-            <guid>https://www.elle.co.kr/article/78982</guid>
-            <pubDate>Fri, 07 Jul 2023 17:41:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/7375c3c3-7c94-4aa2-a5ba-bc135b8f6efe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닉 퓨리의 동료 요원이 되다! 올리비아 콜맨]]></title>
-            <link>https://www.elle.co.kr/article/78889</link>
-            <guid>https://www.elle.co.kr/article/78889</guid>
-            <pubDate>Fri, 07 Jul 2023 17:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;더 페이버릿: 여왕의 여자&gt;로 아카데미를 거머쥔 올리비아콜맨. 그의 영역은 MCU로 깜짝 확장됐...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/67fc63d8-6190-4eb2-b1c3-4804b061cbbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만의 홈 오피스 만들기]]></title>
-            <link>https://www.elle.co.kr/article/78771</link>
-            <guid>https://www.elle.co.kr/article/78771</guid>
-            <pubDate>Thu, 06 Jul 2023 17:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[홈 오피스를 위한 아름답고 다재다능한 가구들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/28d23411-f66c-4d0e-9245-31fd664c1ddf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/78948</link>
-            <guid>https://www.elle.co.kr/article/78948</guid>
-            <pubDate>Thu, 06 Jul 2023 17:41:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/e53c6c2c-d719-4b44-9c5f-52ccc39d5e07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 솔로 활동 앞두고 3년 전 자작곡 역주행한 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/78933</link>
-            <guid>https://www.elle.co.kr/article/78933</guid>
-            <pubDate>Thu, 06 Jul 2023 17:41:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/57ebd01e-53e9-4593-8d81-75a126b90414.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-07-10T05:42:12.973Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오]]></title>
+        <id>https://www.elle.co.kr/article/78939</id>
+        <link href="https://www.elle.co.kr/article/78939"/>
+        <updated>2023-07-09T17:40:39.324Z</updated>
+        <content type="html"><![CDATA[두수고방, 카페 온양, 카라멜리에오, LCDC 카페 이페메라. 검박한 아름다움을 꿈꾸는 임태희 디...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!]]></title>
+        <id>https://www.elle.co.kr/article/78984</id>
+        <link href="https://www.elle.co.kr/article/78984"/>
+        <updated>2023-07-09T17:40:39.326Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
+        <id>https://www.elle.co.kr/article/78983</id>
+        <link href="https://www.elle.co.kr/article/78983"/>
+        <updated>2023-07-07T17:41:11.300Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드' 재벌 3세 이준호, 수트 입고 '뉴스룸' 출근! 방송은 언제?]]></title>
+        <id>https://www.elle.co.kr/article/78982</id>
+        <link href="https://www.elle.co.kr/article/78982"/>
+        <updated>2023-07-07T17:41:11.301Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닉 퓨리의 동료 요원이 되다! 올리비아 콜맨]]></title>
+        <id>https://www.elle.co.kr/article/78889</id>
+        <link href="https://www.elle.co.kr/article/78889"/>
+        <updated>2023-07-07T17:41:11.303Z</updated>
+        <content type="html"><![CDATA[&lt;더 페이버릿: 여왕의 여자&gt;로 아카데미를 거머쥔 올리비아콜맨. 그의 영역은 MCU로 깜짝 확장됐...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만의 홈 오피스 만들기]]></title>
+        <id>https://www.elle.co.kr/article/78771</id>
+        <link href="https://www.elle.co.kr/article/78771"/>
+        <updated>2023-07-06T17:41:47.916Z</updated>
+        <content type="html"><![CDATA[홈 오피스를 위한 아름답고 다재다능한 가구들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/78948</id>
+        <link href="https://www.elle.co.kr/article/78948"/>
+        <updated>2023-07-06T17:41:47.919Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국, 솔로 활동 앞두고 3년 전 자작곡 역주행한 이유는?]]></title>
+        <id>https://www.elle.co.kr/article/78933</id>
+        <link href="https://www.elle.co.kr/article/78933"/>
+        <updated>2023-07-06T17:41:47.921Z</updated>
+    </entry>
+</feed>
