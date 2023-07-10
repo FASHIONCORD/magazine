@@ -1,64 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-10T05:42:12.979Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[프렌치 시크는 바로 이런 것]]></title>
-        <id>https://www.elle.co.kr/article/79016</id>
-        <link href="https://www.elle.co.kr/article/79016"/>
-        <updated>2023-07-10T05:40:43.215Z</updated>
-        <content type="html"><![CDATA[샤넬의 오트 쿠튀르 패션쇼는 파리지앵의 정석 그 자체. 이게 바로 프렌치 시크다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아니스트 손열음의 시간]]></title>
-        <id>https://www.elle.co.kr/article/78891</id>
-        <link href="https://www.elle.co.kr/article/78891"/>
-        <updated>2023-07-09T17:40:03.124Z</updated>
-        <content type="html"><![CDATA[도시에서 또 다른 도시로, 피아니스트 손열음은 시간을 넘나들며 연주한다. 빠르게, 느리게. 그녀...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비키니를 입고 여름햇살에 흠뻑 빠져야 할 때]]></title>
-        <id>https://www.elle.co.kr/article/78669</id>
-        <link href="https://www.elle.co.kr/article/78669"/>
-        <updated>2023-07-09T05:39:55.455Z</updated>
-        <content type="html"><![CDATA[해변과 수영장, 요트 위에 펼쳐진 인간 여름이들의 비키니 룩.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[켄달 제너의 블랙보다 모던한 그레이]]></title>
-        <id>https://www.elle.co.kr/article/78972</id>
-        <link href="https://www.elle.co.kr/article/78972"/>
-        <updated>2023-07-09T05:39:55.456Z</updated>
-        <content type="html"><![CDATA[LBD의 아성을 위협하는 LGD의 힘.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨개 모자 트렌드 #메쉬모자 #크로셰비니]]></title>
-        <id>https://www.elle.co.kr/article/78964</id>
-        <link href="https://www.elle.co.kr/article/78964"/>
-        <updated>2023-07-08T05:40:34.921Z</updated>
-        <content type="html"><![CDATA[머리에 꼭 맞는 골무 같은 뜨개 모자가 핫 아이템!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션쇼를 망치러 온 구원자 토미 캐시, 알고 보니 그의 본업은?]]></title>
-        <id>https://www.elle.co.kr/article/78961</id>
-        <link href="https://www.elle.co.kr/article/78961"/>
-        <updated>2023-07-07T17:40:35.136Z</updated>
-        <content type="html"><![CDATA[프런트 로에서 뜨개질하고 덤벨을 들던 수상한 인물의 정체.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성 축구 선수 유니폼과 정장이 만난다면?]]></title>
-        <id>https://www.elle.co.kr/article/78927</id>
-        <link href="https://www.elle.co.kr/article/78927"/>
-        <updated>2023-07-06T17:41:16.843Z</updated>
-        <content type="html"><![CDATA[“남성뿐만 아니라 여성 또한 스스로 강인함을 느끼길 바랍니다.”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 핫한 '실버 아이템' 쇼핑 리스트]]></title>
-        <id>https://www.elle.co.kr/article/78895</id>
-        <link href="https://www.elle.co.kr/article/78895"/>
-        <updated>2023-07-06T17:41:16.846Z</updated>
-        <content type="html"><![CDATA[패션 인싸라면 실버 아이템은 필수! 드레스, 가방, 주얼리 등 보기만 해도 시원한 실버 컬러 ...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 10 Jul 2023 17:42:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발편한 세상을 위한 컴포트 샌들]]></title>
+            <link>https://www.elle.co.kr/article/78901</link>
+            <guid>https://www.elle.co.kr/article/78901</guid>
+            <pubDate>Mon, 10 Jul 2023 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[무더위에도 흔들리지 않는 편안함.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비키니 말고 모노키니 #수영복 #쇼핑리스트]]></title>
+            <link>https://www.elle.co.kr/article/79023</link>
+            <guid>https://www.elle.co.kr/article/79023</guid>
+            <pubDate>Mon, 10 Jul 2023 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[몸매를 보정해 주는 모노키니의 활약상! 예리, 김나영 등 스타들도 사랑에 빠진 모노키니 쇼핑리...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프렌치 시크는 바로 이런 것]]></title>
+            <link>https://www.elle.co.kr/article/79016</link>
+            <guid>https://www.elle.co.kr/article/79016</guid>
+            <pubDate>Mon, 10 Jul 2023 05:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬의 오트 쿠튀르 패션쇼는 파리지앵의 정석 그 자체. 이게 바로 프렌치 시크다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피아니스트 손열음의 시간]]></title>
+            <link>https://www.elle.co.kr/article/78891</link>
+            <guid>https://www.elle.co.kr/article/78891</guid>
+            <pubDate>Sun, 09 Jul 2023 17:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[도시에서 또 다른 도시로, 피아니스트 손열음은 시간을 넘나들며 연주한다. 빠르게, 느리게. 그녀...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비키니를 입고 여름햇살에 흠뻑 빠져야 할 때]]></title>
+            <link>https://www.elle.co.kr/article/78669</link>
+            <guid>https://www.elle.co.kr/article/78669</guid>
+            <pubDate>Sun, 09 Jul 2023 05:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[해변과 수영장, 요트 위에 펼쳐진 인간 여름이들의 비키니 룩.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[켄달 제너의 블랙보다 모던한 그레이]]></title>
+            <link>https://www.elle.co.kr/article/78972</link>
+            <guid>https://www.elle.co.kr/article/78972</guid>
+            <pubDate>Sun, 09 Jul 2023 05:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[LBD의 아성을 위협하는 LGD의 힘.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뜨개 모자 트렌드 #메쉬모자 #크로셰비니]]></title>
+            <link>https://www.elle.co.kr/article/78964</link>
+            <guid>https://www.elle.co.kr/article/78964</guid>
+            <pubDate>Sat, 08 Jul 2023 05:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[머리에 꼭 맞는 골무 같은 뜨개 모자가 핫 아이템!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[패션쇼를 망치러 온 구원자 토미 캐시, 알고 보니 그의 본업은?]]></title>
+            <link>https://www.elle.co.kr/article/78961</link>
+            <guid>https://www.elle.co.kr/article/78961</guid>
+            <pubDate>Fri, 07 Jul 2023 17:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[프런트 로에서 뜨개질하고 덤벨을 들던 수상한 인물의 정체.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/d44cf850-1fc4-41bb-8b1b-39bcc4ab7532.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
