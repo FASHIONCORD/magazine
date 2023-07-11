@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-07-11T05:41:30.387Z</updated>
+    <updated>2023-07-11T17:41:53.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조용한 골목에서 만난 에르메스 홈 컬렉션]]></title>
+        <id>https://www.elle.co.kr/article/78946</id>
+        <link href="https://www.elle.co.kr/article/78946"/>
+        <updated>2023-07-11T17:41:02.234Z</updated>
+        <content type="html"><![CDATA[낡고 바랜 골목에서 마주친 에르메스 홈 컬렉션.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계가 주목한 프로방스 예술, 아틀리에 빔]]></title>
         <id>https://www.elle.co.kr/article/78942</id>
@@ -48,12 +55,5 @@
         <id>https://www.elle.co.kr/article/78982</id>
         <link href="https://www.elle.co.kr/article/78982"/>
         <updated>2023-07-07T17:41:11.301Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닉 퓨리의 동료 요원이 되다! 올리비아 콜맨]]></title>
-        <id>https://www.elle.co.kr/article/78889</id>
-        <link href="https://www.elle.co.kr/article/78889"/>
-        <updated>2023-07-07T17:41:11.303Z</updated>
-        <content type="html"><![CDATA[&lt;더 페이버릿: 여왕의 여자&gt;로 아카데미를 거머쥔 올리비아콜맨. 그의 영역은 MCU로 깜짝 확장됐...]]></content>
     </entry>
 </feed>

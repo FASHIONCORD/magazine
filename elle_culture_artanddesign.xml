@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-07-11T05:41:30.483Z</updated>
+    <updated>2023-07-11T17:41:53.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조각가 에르빈 부름의 세 번째 집 #더컬렉터스]]></title>
+        <id>https://www.elle.co.kr/article/78970</id>
+        <link href="https://www.elle.co.kr/article/78970"/>
+        <updated>2023-07-11T17:41:29.697Z</updated>
+        <content type="html"><![CDATA[조각 같은 사물로 가득한 아티스트 에르빈 부름의 집에 가다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[겨울 베니스에 꼭 가봐야할 호텔, 아만 베니스 #호텔미감]]></title>
         <id>https://www.elle.co.kr/article/78951</id>
@@ -87,12 +94,5 @@
         <link href="https://www.elle.co.kr/article/78342"/>
         <updated>2023-06-27T17:42:17.774Z</updated>
         <content type="html"><![CDATA[상상과 호기심으로 발굴해 온 사물들의 고상한 운치. '고취소관' 대표 고리원의 특별한 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런웨이에 천연히 피어난 꽃, 패션 브랜드가 사랑한 플로리스트 루이-제로드 카스토르]]></title>
-        <id>https://www.elle.co.kr/article/78727</id>
-        <link href="https://www.elle.co.kr/article/78727"/>
-        <updated>2023-06-27T17:42:17.785Z</updated>
-        <content type="html"><![CDATA[생 로랑부터 루브르 박물관에 이르기까지, 모두를 매료시킨 그만의 황홀한 작품 세계.]]></content>
     </entry>
 </feed>
