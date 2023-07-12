@@ -1,58 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-11T17:41:53.725Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이강인 PSG 입단 확정! 데뷔전은 언제? (feat. 故 유상철)]]></title>
-        <id>https://www.elle.co.kr/article/79045</id>
-        <link href="https://www.elle.co.kr/article/79045"/>
-        <updated>2023-07-11T17:40:50.234Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[축가는 '30년 지기' 개코! 유쾌 그 자체였던 최자 결혼식 현장.jpg]]></title>
-        <id>https://www.elle.co.kr/article/79043</id>
-        <link href="https://www.elle.co.kr/article/79043"/>
-        <updated>2023-07-11T05:40:35.084Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀프 마사지 루틴부터 헤어 관리까지! 스포츠 아나운서 이나연의 뷰티 케어 Tip]]></title>
-        <id>https://www.elle.co.kr/article/79033</id>
-        <link href="https://www.elle.co.kr/article/79033"/>
-        <updated>2023-07-11T05:40:35.086Z</updated>
-        <content type="html"><![CDATA[고급스러운 분위기의 비결은 꾸준한 관리로부터! 분위기 여신 이나연이 알려주는 뷰티 꿀팁을 확...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?]]></title>
-        <id>https://www.elle.co.kr/article/79018</id>
-        <link href="https://www.elle.co.kr/article/79018"/>
-        <updated>2023-07-10T17:40:55.760Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list]]></title>
-        <id>https://www.elle.co.kr/article/79017</id>
-        <link href="https://www.elle.co.kr/article/79017"/>
-        <updated>2023-07-10T17:40:55.762Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아니스트 손열음의 시간]]></title>
-        <id>https://www.elle.co.kr/article/78891</id>
-        <link href="https://www.elle.co.kr/article/78891"/>
-        <updated>2023-07-10T17:40:55.764Z</updated>
-        <content type="html"><![CDATA[도시에서 또 다른 도시로, 피아니스트 손열음은 시간을 넘나들며 연주한다. 빠르게, 느리게. 그녀...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!]]></title>
-        <id>https://www.elle.co.kr/article/78984</id>
-        <link href="https://www.elle.co.kr/article/78984"/>
-        <updated>2023-07-10T05:41:06.572Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
-        <id>https://www.elle.co.kr/article/78983</id>
-        <link href="https://www.elle.co.kr/article/78983"/>
-        <updated>2023-07-10T05:41:06.574Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 12 Jul 2023 05:42:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹더랜드' 구원에 앞서 '옷소매' 이산이 있었다?! 이준호 인생캐 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79047</link>
+            <guid>https://www.elle.co.kr/article/79047</guid>
+            <pubDate>Wed, 12 Jul 2023 05:41:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/2280719e-5ccd-4b95-b51b-ac0aa58843f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이강인 PSG 입단 확정! 데뷔전은 언제? (feat. 故 유상철)]]></title>
+            <link>https://www.elle.co.kr/article/79045</link>
+            <guid>https://www.elle.co.kr/article/79045</guid>
+            <pubDate>Tue, 11 Jul 2023 17:40:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/4c258253-b846-4780-9d8a-6eb5f4d77eb0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[축가는 '30년 지기' 개코! 유쾌 그 자체였던 최자 결혼식 현장.jpg]]></title>
+            <link>https://www.elle.co.kr/article/79043</link>
+            <guid>https://www.elle.co.kr/article/79043</guid>
+            <pubDate>Tue, 11 Jul 2023 05:40:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/7c6e22b8-540f-4abe-9e4a-776e6343a1a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셀프 마사지 루틴부터 헤어 관리까지! 스포츠 아나운서 이나연의 뷰티 케어 Tip]]></title>
+            <link>https://www.elle.co.kr/article/79033</link>
+            <guid>https://www.elle.co.kr/article/79033</guid>
+            <pubDate>Tue, 11 Jul 2023 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[고급스러운 분위기의 비결은 꾸준한 관리로부터! 분위기 여신 이나연이 알려주는 뷰티 꿀팁을 확...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/02ddee30-1df0-4c5e-af20-ede1c5c11416.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?]]></title>
+            <link>https://www.elle.co.kr/article/79018</link>
+            <guid>https://www.elle.co.kr/article/79018</guid>
+            <pubDate>Mon, 10 Jul 2023 17:40:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/72df0ef1-605c-4297-8780-0309a04daa93.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list]]></title>
+            <link>https://www.elle.co.kr/article/79017</link>
+            <guid>https://www.elle.co.kr/article/79017</guid>
+            <pubDate>Mon, 10 Jul 2023 17:40:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/f4ec992d-6978-4546-b1e2-3ec5f8b03235.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피아니스트 손열음의 시간]]></title>
+            <link>https://www.elle.co.kr/article/78891</link>
+            <guid>https://www.elle.co.kr/article/78891</guid>
+            <pubDate>Mon, 10 Jul 2023 17:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[도시에서 또 다른 도시로, 피아니스트 손열음은 시간을 넘나들며 연주한다. 빠르게, 느리게. 그녀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/e35d908d-ac87-4e2d-83c1-53781d2dc14b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!]]></title>
+            <link>https://www.elle.co.kr/article/78984</link>
+            <guid>https://www.elle.co.kr/article/78984</guid>
+            <pubDate>Mon, 10 Jul 2023 05:41:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/269fffad-1182-46c1-be64-ee42d0ff5a50.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

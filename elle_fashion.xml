@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 17:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 05:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사물(사람과 물건) 인터뷰 #3 뮤지션 윤석철]]></title>
+            <link>https://www.elle.co.kr/article/79038</link>
+            <guid>https://www.elle.co.kr/article/79038</guid>
+            <pubDate>Wed, 12 Jul 2023 05:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[재즈 피아노를 연주하기도 하고 곡도 만드는 뮤지션 윤석철이 애정하는 물건과 그 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/cff40969-3fa8-4bcb-96d5-d295d47ccf0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누가 오고 누가 갔나?]]></title>
             <link>https://www.elle.co.kr/article/78911</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 09 Jul 2023 05:39:55 GMT</pubDate>
             <content:encoded><![CDATA[해변과 수영장, 요트 위에 펼쳐진 인간 여름이들의 비키니 룩.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/68f4ad5d-4043-4cbe-af6b-1ebb7bd4c332.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[켄달 제너의 블랙보다 모던한 그레이]]></title>
-            <link>https://www.elle.co.kr/article/78972</link>
-            <guid>https://www.elle.co.kr/article/78972</guid>
-            <pubDate>Sun, 09 Jul 2023 05:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[LBD의 아성을 위협하는 LGD의 힘.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/19a2300b-acc6-4ec6-889f-5df16f805d89.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
