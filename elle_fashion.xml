@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-13T05:49:03.761Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[초록빛깔 파타고니아!]]></title>
-        <id>https://www.elle.co.kr/article/78670</id>
-        <link href="https://www.elle.co.kr/article/78670"/>
-        <updated>2023-07-12T17:40:51.992Z</updated>
-        <content type="html"><![CDATA[환경을 향한 파타고니아의 열정과 진심은 계속된다! 파타고니아가 ‘세계 해양의 날’을 맞아 기...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올드 머니 룩이 뭐길래]]></title>
-        <id>https://www.elle.co.kr/article/78969</id>
-        <link href="https://www.elle.co.kr/article/78969"/>
-        <updated>2023-07-12T17:40:51.995Z</updated>
-        <content type="html"><![CDATA[‘조용한 럭셔리’로 불리는 올드 머니 시대가 새로운 방식으로 돌아왔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #3 뮤지션 윤석철]]></title>
-        <id>https://www.elle.co.kr/article/79038</id>
-        <link href="https://www.elle.co.kr/article/79038"/>
-        <updated>2023-07-12T05:40:53.101Z</updated>
-        <content type="html"><![CDATA[재즈 피아노를 연주하기도 하고 곡도 만드는 뮤지션 윤석철이 애정하는 물건과 그 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 오고 누가 갔나?]]></title>
-        <id>https://www.elle.co.kr/article/78911</id>
-        <link href="https://www.elle.co.kr/article/78911"/>
-        <updated>2023-07-11T17:40:28.296Z</updated>
-        <content type="html"><![CDATA[다시 한 번 판도가 바뀌고 있는 패션계에서 우리가 기억해야 할 이별과 만남들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키링 패션의 진화! 벨트 고리에 키링을 달아요]]></title>
-        <id>https://www.elle.co.kr/article/79030</id>
-        <link href="https://www.elle.co.kr/article/79030"/>
-        <updated>2023-07-11T05:40:17.403Z</updated>
-        <content type="html"><![CDATA[2% 부족했던 아웃핏을 트렌디하게 탈바꿈시키는 액세서리는 바로 키링! 벨트 고리에 달아주면 완...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발편한 세상을 위한 컴포트 샌들]]></title>
-        <id>https://www.elle.co.kr/article/78901</id>
-        <link href="https://www.elle.co.kr/article/78901"/>
-        <updated>2023-07-10T17:40:33.305Z</updated>
-        <content type="html"><![CDATA[무더위에도 흔들리지 않는 편안함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비키니 말고 모노키니 #수영복 #쇼핑리스트]]></title>
-        <id>https://www.elle.co.kr/article/79023</id>
-        <link href="https://www.elle.co.kr/article/79023"/>
-        <updated>2023-07-10T17:40:33.308Z</updated>
-        <content type="html"><![CDATA[몸매를 보정해 주는 모노키니의 활약상! 예리, 김나영 등 스타들도 사랑에 빠진 모노키니 쇼핑리...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프렌치 시크는 바로 이런 것]]></title>
-        <id>https://www.elle.co.kr/article/79016</id>
-        <link href="https://www.elle.co.kr/article/79016"/>
-        <updated>2023-07-10T05:40:43.215Z</updated>
-        <content type="html"><![CDATA[샤넬의 오트 쿠튀르 패션쇼는 파리지앵의 정석 그 자체. 이게 바로 프렌치 시크다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 13 Jul 2023 17:42:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼음처럼 투명한 매력! 올여름을 지배할 클리어 패션]]></title>
+            <link>https://www.elle.co.kr/article/79084</link>
+            <guid>https://www.elle.co.kr/article/79084</guid>
+            <pubDate>Thu, 13 Jul 2023 17:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[맑고 깨끗하고 자신있게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/e4c6ebb9-0049-4618-8a76-8dbebc829efe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옷 잘 입는 스타들의 시크한 수트 베스트 패션 6]]></title>
+            <link>https://www.elle.co.kr/article/79066</link>
+            <guid>https://www.elle.co.kr/article/79066</guid>
+            <pubDate>Thu, 13 Jul 2023 17:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[이너 없이 수트 베스트 단독으로 입는 것이 포인트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/214ff7ab-5a5d-453e-8e9e-df280ac4e267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초록빛깔 파타고니아!]]></title>
+            <link>https://www.elle.co.kr/article/78670</link>
+            <guid>https://www.elle.co.kr/article/78670</guid>
+            <pubDate>Wed, 12 Jul 2023 17:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[환경을 향한 파타고니아의 열정과 진심은 계속된다! 파타고니아가 ‘세계 해양의 날’을 맞아 기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/084508c7-cda4-4e2b-81b8-4156debed660.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올드 머니 룩이 뭐길래]]></title>
+            <link>https://www.elle.co.kr/article/78969</link>
+            <guid>https://www.elle.co.kr/article/78969</guid>
+            <pubDate>Wed, 12 Jul 2023 17:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[‘조용한 럭셔리’로 불리는 올드 머니 시대가 새로운 방식으로 돌아왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/162148b4-82e0-49f8-aaa9-2fcc9b3ebfbc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사물(사람과 물건) 인터뷰 #3 뮤지션 윤석철]]></title>
+            <link>https://www.elle.co.kr/article/79038</link>
+            <guid>https://www.elle.co.kr/article/79038</guid>
+            <pubDate>Wed, 12 Jul 2023 05:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[재즈 피아노를 연주하기도 하고 곡도 만드는 뮤지션 윤석철이 애정하는 물건과 그 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/cff40969-3fa8-4bcb-96d5-d295d47ccf0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누가 오고 누가 갔나?]]></title>
+            <link>https://www.elle.co.kr/article/78911</link>
+            <guid>https://www.elle.co.kr/article/78911</guid>
+            <pubDate>Tue, 11 Jul 2023 17:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[다시 한 번 판도가 바뀌고 있는 패션계에서 우리가 기억해야 할 이별과 만남들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/500bc933-9cb3-40c2-9e9d-add2e0b64b3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키링 패션의 진화! 벨트 고리에 키링을 달아요]]></title>
+            <link>https://www.elle.co.kr/article/79030</link>
+            <guid>https://www.elle.co.kr/article/79030</guid>
+            <pubDate>Tue, 11 Jul 2023 05:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[2% 부족했던 아웃핏을 트렌디하게 탈바꿈시키는 액세서리는 바로 키링! 벨트 고리에 달아주면 완...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/ba2ce215-0363-4b7d-9ce0-4db3f45f1bbb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발편한 세상을 위한 컴포트 샌들]]></title>
+            <link>https://www.elle.co.kr/article/78901</link>
+            <guid>https://www.elle.co.kr/article/78901</guid>
+            <pubDate>Mon, 10 Jul 2023 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[무더위에도 흔들리지 않는 편안함.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/09/a5505de5-4da5-4ef4-990d-c9923e9f9b18.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
