@@ -4,21 +4,30 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 05:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 17:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월부터 음주운전자 차량 압수 시작! 진짜로 차 뺏기는 사례는?]]></title>
+            <link>https://www.elle.co.kr/article/78940</link>
+            <guid>https://www.elle.co.kr/article/78940</guid>
+            <pubDate>Fri, 14 Jul 2023 17:42:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/8e1898be-4035-4eda-8bf8-115503fb3b22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 우리는 모두 청소년이었다]]></title>
             <link>https://www.elle.co.kr/ellevoice/essay/78823</link>
             <guid>https://www.elle.co.kr/ellevoice/essay/78823</guid>
             <pubDate>Thu, 13 Jul 2023 17:42:23 GMT</pubDate>
             <content:encoded><![CDATA[청소년 시절의 나와 지금의 나는 얼마나 이어져있을까? 지금을 살아가는 소녀들을 이해하는 방법...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/b24c9888-a4b3-4b37-af82-d6b0d5620191.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트친 글 보려면 돈 내세요?! 트위터, 갑자기 열람 가능 트윗 개수 제한한 배경]]></title>
             <link>https://www.elle.co.kr/article/78874</link>
             <guid>https://www.elle.co.kr/article/78874</guid>
             <pubDate>Tue, 11 Jul 2023 05:41:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/8ef60027-5026-4063-822e-9e32ce313d0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엘르보이스] 왜 대한민국에는 이렇게 멋진 여자들이 많을까?]]></title>
@@ -56,14 +65,6 @@
             <pubDate>Mon, 03 Jul 2023 05:42:20 GMT</pubDate>
             <content:encoded><![CDATA[나의 앎이 실천과 멀어지지 않도록 !]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/3c99380a-be7d-47f2-aa45-5e43ebdc5ce5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네가 가라, 라스베가스?! 일론 머스크 vs. 마크 저커버그 격투기 성사될까 (실화)]]></title>
-            <link>https://www.elle.co.kr/article/78631</link>
-            <guid>https://www.elle.co.kr/article/78631</guid>
-            <pubDate>Sat, 01 Jul 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 왜 저래...?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/23/ff1ace5f-55a9-423c-9208-4fcbd9144446.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
