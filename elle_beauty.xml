@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-07-15T05:41:42.680Z</updated>
+    <updated>2023-07-15T17:41:27.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이어트 자꾸 실패하는 사람들의 공통점 #다이어터디터]]></title>
+        <id>https://www.elle.co.kr/article/79086</id>
+        <link href="https://www.elle.co.kr/article/79086"/>
+        <updated>2023-07-15T17:40:25.100Z</updated>
+        <content type="html"><![CDATA[-22kg 감량 성공한 에디터의 조언]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보부상은 주목! 똑똑하게 여행 파우치 꾸리는 법 8_선배’s 어드바이스 #176]]></title>
         <id>https://www.elle.co.kr/article/79072</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/78893"/>
         <updated>2023-07-10T05:40:55.422Z</updated>
         <content type="html"><![CDATA[머리부터 발끝까지 번아웃 위기에 빠진 내 몸을 구하라!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이거 뿌리면 사람들이 다 물어볼걸? 강민경의 상황별 추천 향수 9]]></title>
-        <id>https://www.elle.co.kr/article/78857</id>
-        <link href="https://www.elle.co.kr/article/78857"/>
-        <updated>2023-07-06T05:43:02.195Z</updated>
-        <content type="html"><![CDATA[강민경이 추천하고 이해리가 보증하는 향수 아홉 가지! 그날의 기분에 따라 매치해 보세요~]]></content>
     </entry>
 </feed>
