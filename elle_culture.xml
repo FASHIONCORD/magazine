@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 17:42:06 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[전북 현대에서 덴마크 미트윌란으로! 이적 직후 조규성이 전한 영상 편지]]></title>
-            <link>https://www.elle.co.kr/article/79115</link>
-            <guid>https://www.elle.co.kr/article/79115</guid>
-            <pubDate>Fri, 14 Jul 2023 17:41:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/d75b9a03-8ed2-4662-b09e-9b2cb1aad7a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/79106</link>
-            <guid>https://www.elle.co.kr/article/79106</guid>
-            <pubDate>Thu, 13 Jul 2023 17:40:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/08103458-0249-41e7-b166-73fa17872e6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조각가 에르빈 부름의 세 번째 집 #더컬렉터스]]></title>
-            <link>https://www.elle.co.kr/article/78970</link>
-            <guid>https://www.elle.co.kr/article/78970</guid>
-            <pubDate>Wed, 12 Jul 2023 17:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[조각 같은 사물로 가득한 아티스트 에르빈 부름의 집에 가다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/2f05c046-6de4-4171-bf23-351230bc0216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 베니스에 꼭 가봐야할 호텔, 아만 베니스 #호텔미감]]></title>
-            <link>https://www.elle.co.kr/article/78951</link>
-            <guid>https://www.elle.co.kr/article/78951</guid>
-            <pubDate>Wed, 12 Jul 2023 17:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[아만 베니스는 베니스적 찬란함과 어둠이 공존하는 호텔이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/1da2db55-418f-4d35-b4eb-8cb618f618e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹더랜드' 구원에 앞서 '옷소매' 이산이 있었다?! 이준호 인생캐 3선 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79047</link>
-            <guid>https://www.elle.co.kr/article/79047</guid>
-            <pubDate>Wed, 12 Jul 2023 17:41:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/2280719e-5ccd-4b95-b51b-ac0aa58843f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이강인 PSG 입단 확정! 데뷔전은 언제? (feat. 故 유상철)]]></title>
-            <link>https://www.elle.co.kr/article/79045</link>
-            <guid>https://www.elle.co.kr/article/79045</guid>
-            <pubDate>Wed, 12 Jul 2023 17:41:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/4c258253-b846-4780-9d8a-6eb5f4d77eb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-무비의 또다른 감각을 만드는 사람들]]></title>
-            <link>https://www.elle.co.kr/article/79004</link>
-            <guid>https://www.elle.co.kr/article/79004</guid>
-            <pubDate>Wed, 12 Jul 2023 05:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[K무비의 지금에 감독과 배우만 있는 게 아니다. 영화의 시작과 끝에서 또 다른 감각으로 영화를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/5be0ec79-7937-40dd-b11d-492b6526a6d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용한 골목에서 만난 에르메스 홈 컬렉션]]></title>
-            <link>https://www.elle.co.kr/article/78946</link>
-            <guid>https://www.elle.co.kr/article/78946</guid>
-            <pubDate>Tue, 11 Jul 2023 17:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[낡고 바랜 골목에서 마주친 에르메스 홈 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/50d59c40-99ef-4c15-aaf0-183fa78bcfd6.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-07-15T05:41:42.686Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전북 현대에서 덴마크 미트윌란으로! 이적 직후 조규성이 전한 영상 편지]]></title>
+        <id>https://www.elle.co.kr/article/79115</id>
+        <link href="https://www.elle.co.kr/article/79115"/>
+        <updated>2023-07-14T17:41:12.037Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/79106</id>
+        <link href="https://www.elle.co.kr/article/79106"/>
+        <updated>2023-07-13T17:40:58.696Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조각가 에르빈 부름의 세 번째 집 #더컬렉터스]]></title>
+        <id>https://www.elle.co.kr/article/78970</id>
+        <link href="https://www.elle.co.kr/article/78970"/>
+        <updated>2023-07-12T17:41:28.867Z</updated>
+        <content type="html"><![CDATA[조각 같은 사물로 가득한 아티스트 에르빈 부름의 집에 가다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겨울 베니스에 꼭 가봐야할 호텔, 아만 베니스 #호텔미감]]></title>
+        <id>https://www.elle.co.kr/article/78951</id>
+        <link href="https://www.elle.co.kr/article/78951"/>
+        <updated>2023-07-12T17:41:28.870Z</updated>
+        <content type="html"><![CDATA[아만 베니스는 베니스적 찬란함과 어둠이 공존하는 호텔이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드' 구원에 앞서 '옷소매' 이산이 있었다?! 이준호 인생캐 3선 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79047</id>
+        <link href="https://www.elle.co.kr/article/79047"/>
+        <updated>2023-07-12T17:41:28.872Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이강인 PSG 입단 확정! 데뷔전은 언제? (feat. 故 유상철)]]></title>
+        <id>https://www.elle.co.kr/article/79045</id>
+        <link href="https://www.elle.co.kr/article/79045"/>
+        <updated>2023-07-12T17:41:28.874Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-무비의 또다른 감각을 만드는 사람들]]></title>
+        <id>https://www.elle.co.kr/article/79004</id>
+        <link href="https://www.elle.co.kr/article/79004"/>
+        <updated>2023-07-12T05:41:33.541Z</updated>
+        <content type="html"><![CDATA[K무비의 지금에 감독과 배우만 있는 게 아니다. 영화의 시작과 끝에서 또 다른 감각으로 영화를...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조용한 골목에서 만난 에르메스 홈 컬렉션]]></title>
+        <id>https://www.elle.co.kr/article/78946</id>
+        <link href="https://www.elle.co.kr/article/78946"/>
+        <updated>2023-07-11T17:41:02.234Z</updated>
+        <content type="html"><![CDATA[낡고 바랜 골목에서 마주친 에르메스 홈 컬렉션.]]></content>
+    </entry>
+</feed>

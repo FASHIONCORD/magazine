@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-14T17:42:06.889Z</updated>
+    <updated>2023-07-15T05:41:42.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름에는 스트라이프]]></title>
+        <id>https://www.elle.co.kr/article/78977</id>
+        <link href="https://www.elle.co.kr/article/78977"/>
+        <updated>2023-07-15T05:40:21.156Z</updated>
+        <content type="html"><![CDATA[매 시즌 유연하게 넘는 ‘선’들에 대하여.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?]]></title>
         <id>https://www.elle.co.kr/article/79125</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79038"/>
         <updated>2023-07-12T05:40:53.101Z</updated>
         <content type="html"><![CDATA[재즈 피아노를 연주하기도 하고 곡도 만드는 뮤지션 윤석철이 애정하는 물건과 그 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 오고 누가 갔나?]]></title>
-        <id>https://www.elle.co.kr/article/78911</id>
-        <link href="https://www.elle.co.kr/article/78911"/>
-        <updated>2023-07-11T17:40:28.296Z</updated>
-        <content type="html"><![CDATA[다시 한 번 판도가 바뀌고 있는 패션계에서 우리가 기억해야 할 이별과 만남들.]]></content>
     </entry>
 </feed>

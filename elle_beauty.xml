@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-07-14T17:42:06.890Z</updated>
+    <updated>2023-07-15T05:41:42.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보부상은 주목! 똑똑하게 여행 파우치 꾸리는 법 8_선배’s 어드바이스 #176]]></title>
+        <id>https://www.elle.co.kr/article/79072</id>
+        <link href="https://www.elle.co.kr/article/79072"/>
+        <updated>2023-07-15T05:40:32.011Z</updated>
+        <content type="html"><![CDATA[바리바리 보부상은 이제 그만.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀프 마사지 루틴부터 헤어 관리까지! 스포츠 아나운서 이나연의 뷰티 케어 Tip]]></title>
         <id>https://www.elle.co.kr/article/79033</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/78857"/>
         <updated>2023-07-06T05:43:02.195Z</updated>
         <content type="html"><![CDATA[강민경이 추천하고 이해리가 보증하는 향수 아홉 가지! 그날의 기분에 따라 매치해 보세요~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니와 송혜교의 절친, 톱 모델 신현지가 48kg 유지 위해 아침마다 하는 운동은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/78806</id>
-        <link href="https://www.elle.co.kr/article/78806"/>
-        <updated>2023-07-05T17:41:08.681Z</updated>
     </entry>
 </feed>
