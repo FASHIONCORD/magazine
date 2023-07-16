@@ -2,15 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-07-16T05:42:09.659Z</updated>
+    <updated>2023-07-16T17:41:48.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[전북 현대에서 덴마크 미트윌란으로! 이적 직후 조규성이 전한 영상 편지]]></title>
-        <id>https://www.elle.co.kr/article/79115</id>
-        <link href="https://www.elle.co.kr/article/79115"/>
-        <updated>2023-07-14T17:41:12.037Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
         <id>https://www.elle.co.kr/article/79106</id>
@@ -56,5 +50,12 @@
         <link href="https://www.elle.co.kr/article/78946"/>
         <updated>2023-07-11T17:41:02.234Z</updated>
         <content type="html"><![CDATA[낡고 바랜 골목에서 마주친 에르메스 홈 컬렉션.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계가 주목한 프로방스 예술, 아틀리에 빔]]></title>
+        <id>https://www.elle.co.kr/article/78942</id>
+        <link href="https://www.elle.co.kr/article/78942"/>
+        <updated>2023-07-16T17:40:54.225Z</updated>
+        <content type="html"><![CDATA[완벽한 퀄리티와 진정성이 만든 럭셔리. 세계적 주목을 받아온 디자인 스튜디오 '아틀리에 빔'의...]]></content>
     </entry>
 </feed>

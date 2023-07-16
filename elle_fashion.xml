@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 05:42:09 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제니퍼 로렌스의 스타일 전성기]]></title>
-            <link>https://www.elle.co.kr/article/79131</link>
-            <guid>https://www.elle.co.kr/article/79131</guid>
-            <pubDate>Sat, 15 Jul 2023 17:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[새 스타일리스트와 케미 200%. 제니퍼 로렌스가 패션 르네상스를 맞았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/7c95a7c6-4b1b-4850-9801-cc150c6e6bed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름에는 스트라이프]]></title>
-            <link>https://www.elle.co.kr/article/78977</link>
-            <guid>https://www.elle.co.kr/article/78977</guid>
-            <pubDate>Sat, 15 Jul 2023 05:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[매 시즌 유연하게 넘는 ‘선’들에 대하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/7f85940f-f5af-4a04-845d-c28265862c54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?]]></title>
-            <link>https://www.elle.co.kr/article/79125</link>
-            <guid>https://www.elle.co.kr/article/79125</guid>
-            <pubDate>Fri, 14 Jul 2023 17:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[나오미 캠벨, 신디 크로포드, 린다 에반젤리스타, 크리스티 털링턴의 발자취를 조명한 다큐멘터리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/6b06f08c-fc2d-4ef4-8158-0c129fa3342a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일 지수 업! 펜던트 네크리스 구매 좌표 7]]></title>
-            <link>https://www.elle.co.kr/article/79092</link>
-            <guid>https://www.elle.co.kr/article/79092</guid>
-            <pubDate>Fri, 14 Jul 2023 05:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[단순한 서머 룩에 활기를 불어넣어 줄 치트키! 펜던트 네크리스는 옷 잘 입는 셀러브리티들도 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/61261aa2-05d1-4720-ba6d-8c396ab81cd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼음처럼 투명한 매력! 올여름을 지배할 클리어 패션]]></title>
-            <link>https://www.elle.co.kr/article/79084</link>
-            <guid>https://www.elle.co.kr/article/79084</guid>
-            <pubDate>Thu, 13 Jul 2023 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[맑고 깨끗하고 자신있게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/e4c6ebb9-0049-4618-8a76-8dbebc829efe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷 잘 입는 스타들의 시크한 수트 베스트 패션 6]]></title>
-            <link>https://www.elle.co.kr/article/79066</link>
-            <guid>https://www.elle.co.kr/article/79066</guid>
-            <pubDate>Thu, 13 Jul 2023 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[이너 없이 수트 베스트 단독으로 입는 것이 포인트!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/214ff7ab-5a5d-453e-8e9e-df280ac4e267.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초록빛깔 파타고니아!]]></title>
-            <link>https://www.elle.co.kr/article/78670</link>
-            <guid>https://www.elle.co.kr/article/78670</guid>
-            <pubDate>Wed, 12 Jul 2023 17:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[환경을 향한 파타고니아의 열정과 진심은 계속된다! 파타고니아가 ‘세계 해양의 날’을 맞아 기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/084508c7-cda4-4e2b-81b8-4156debed660.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올드 머니 룩이 뭐길래]]></title>
-            <link>https://www.elle.co.kr/article/78969</link>
-            <guid>https://www.elle.co.kr/article/78969</guid>
-            <pubDate>Wed, 12 Jul 2023 17:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[‘조용한 럭셔리’로 불리는 올드 머니 시대가 새로운 방식으로 돌아왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/162148b4-82e0-49f8-aaa9-2fcc9b3ebfbc.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-07-16T17:41:48.158Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제대로 배워보자! 제니가 알려주는 Y2K 리얼 바이브]]></title>
+        <id>https://www.elle.co.kr/article/79151</id>
+        <link href="https://www.elle.co.kr/article/79151"/>
+        <updated>2023-07-16T17:40:12.817Z</updated>
+        <content type="html"><![CDATA[2006년생 패션 모델, 제니와 나눈 요즘 'Y2K'.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제니퍼 로렌스의 스타일 전성기]]></title>
+        <id>https://www.elle.co.kr/article/79131</id>
+        <link href="https://www.elle.co.kr/article/79131"/>
+        <updated>2023-07-15T17:40:15.285Z</updated>
+        <content type="html"><![CDATA[새 스타일리스트와 케미 200%. 제니퍼 로렌스가 패션 르네상스를 맞았다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름에는 스트라이프]]></title>
+        <id>https://www.elle.co.kr/article/78977</id>
+        <link href="https://www.elle.co.kr/article/78977"/>
+        <updated>2023-07-15T05:40:21.156Z</updated>
+        <content type="html"><![CDATA[매 시즌 유연하게 넘는 ‘선’들에 대하여.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?]]></title>
+        <id>https://www.elle.co.kr/article/79125</id>
+        <link href="https://www.elle.co.kr/article/79125"/>
+        <updated>2023-07-14T17:40:20.788Z</updated>
+        <content type="html"><![CDATA[나오미 캠벨, 신디 크로포드, 린다 에반젤리스타, 크리스티 털링턴의 발자취를 조명한 다큐멘터리...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타일 지수 업! 펜던트 네크리스 구매 좌표 7]]></title>
+        <id>https://www.elle.co.kr/article/79092</id>
+        <link href="https://www.elle.co.kr/article/79092"/>
+        <updated>2023-07-14T05:40:33.866Z</updated>
+        <content type="html"><![CDATA[단순한 서머 룩에 활기를 불어넣어 줄 치트키! 펜던트 네크리스는 옷 잘 입는 셀러브리티들도 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼음처럼 투명한 매력! 올여름을 지배할 클리어 패션]]></title>
+        <id>https://www.elle.co.kr/article/79084</id>
+        <link href="https://www.elle.co.kr/article/79084"/>
+        <updated>2023-07-13T17:40:25.146Z</updated>
+        <content type="html"><![CDATA[맑고 깨끗하고 자신있게.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옷 잘 입는 스타들의 시크한 수트 베스트 패션 6]]></title>
+        <id>https://www.elle.co.kr/article/79066</id>
+        <link href="https://www.elle.co.kr/article/79066"/>
+        <updated>2023-07-13T17:40:25.157Z</updated>
+        <content type="html"><![CDATA[이너 없이 수트 베스트 단독으로 입는 것이 포인트!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초록빛깔 파타고니아!]]></title>
+        <id>https://www.elle.co.kr/article/78670</id>
+        <link href="https://www.elle.co.kr/article/78670"/>
+        <updated>2023-07-12T17:40:51.992Z</updated>
+        <content type="html"><![CDATA[환경을 향한 파타고니아의 열정과 진심은 계속된다! 파타고니아가 ‘세계 해양의 날’을 맞아 기...]]></content>
+    </entry>
+</feed>
