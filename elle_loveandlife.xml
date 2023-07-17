@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-07-17T05:43:37.711Z</updated>
+    <updated>2023-07-17T17:42:57.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독특한 아이스크림 메뉴가 있는 카페 2]]></title>
+        <id>https://www.elle.co.kr/article/78968</id>
+        <link href="https://www.elle.co.kr/article/78968"/>
+        <updated>2023-07-17T17:42:43.848Z</updated>
+        <content type="html"><![CDATA[비로소 입안에 당도한 여름 한 스쿱.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부드러운 장어에 새콤한 파김치를 돌돌! 복날 맞이 이색 보양식 맛집 추천 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/79078</id>
@@ -50,12 +57,5 @@
         <id>https://www.elle.co.kr/article/78834</id>
         <link href="https://www.elle.co.kr/article/78834"/>
         <updated>2023-07-09T17:41:30.026Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나만 알고 싶은 특별한 맛! 독특한 레서피의 논커피 카페 2 #마실마실]]></title>
-        <id>https://www.elle.co.kr/article/78830</id>
-        <link href="https://www.elle.co.kr/article/78830"/>
-        <updated>2023-07-09T05:40:55.044Z</updated>
-        <content type="html"><![CDATA[궁금한 건 못 참는 어시스턴트 에디터가 녹차 에이드와 바닐라 소다를 직접 마셔봤습니다.]]></content>
     </entry>
 </feed>

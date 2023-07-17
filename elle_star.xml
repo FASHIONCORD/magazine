@@ -1,58 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-17T05:43:37.719Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[아이돌 부부 탄생?! 천둥-미미가 4년 열애 공개한 이유 (feat. 최수종)]]></title>
-        <id>https://www.elle.co.kr/article/79170</id>
-        <link href="https://www.elle.co.kr/article/79170"/>
-        <updated>2023-07-17T05:41:11.933Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허니제이-정담, 역시 힙한 러브 100일 잔치 패션.jpg]]></title>
-        <id>https://www.elle.co.kr/article/79165</id>
-        <link href="https://www.elle.co.kr/article/79165"/>
-        <updated>2023-07-17T05:41:11.940Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
-        <id>https://www.elle.co.kr/article/79147</id>
-        <link href="https://www.elle.co.kr/article/79147"/>
-        <updated>2023-07-17T05:41:11.942Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이효리가 11년 동안 상업 광고를 찍지 않았던 이유 (feat. 난리난 광고주들)]]></title>
-        <id>https://www.elle.co.kr/article/79142</id>
-        <link href="https://www.elle.co.kr/article/79142"/>
-        <updated>2023-07-17T05:41:11.944Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미지 변신 성공한 브브걸 유정, 건강미의 비결은 이 운동?  #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79139</id>
-        <link href="https://www.elle.co.kr/article/79139"/>
-        <updated>2023-07-16T17:40:29.364Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니퍼 로렌스의 스타일 전성기]]></title>
-        <id>https://www.elle.co.kr/article/79131</id>
-        <link href="https://www.elle.co.kr/article/79131"/>
-        <updated>2023-07-14T17:40:44.868Z</updated>
-        <content type="html"><![CDATA[새 스타일리스트와 케미 200%. 제니퍼 로렌스가 패션 르네상스를 맞았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종영한 '마당집', 원작과 결말 달랐다?!]]></title>
-        <id>https://www.elle.co.kr/article/79129</id>
-        <link href="https://www.elle.co.kr/article/79129"/>
-        <updated>2023-07-14T17:40:44.871Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름하면 콩국수! 맛잘알 성시경의 콩국수 맛집 투어 3]]></title>
-        <id>https://www.elle.co.kr/article/79127</id>
-        <link href="https://www.elle.co.kr/article/79127"/>
-        <updated>2023-07-13T17:40:47.805Z</updated>
-        <content type="html"><![CDATA[콩국수를 먹기 위해 여름을 기다린 사람 모여라! ‘믿먹’ 성시경이 고른 맛집 좌표를 참고해 ...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 17 Jul 2023 17:42:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장마철을 현명하게 이겨낼 채정안의 장마 아이템 7]]></title>
+            <link>https://www.elle.co.kr/article/79196</link>
+            <guid>https://www.elle.co.kr/article/79196</guid>
+            <pubDate>Mon, 17 Jul 2023 17:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[7월 중 사흘 빼고 매일 비가 올 거라던 ‘장마 괴담’이 현실로? 채정안이 알려주는 패션 비...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/727dc885-1f31-49a3-aa52-4f4645d264dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 입만! 도시락을 기웃거리는 두 강아지 이야기]]></title>
+            <link>https://www.elle.co.kr/article/78985</link>
+            <guid>https://www.elle.co.kr/article/78985</guid>
+            <pubDate>Mon, 17 Jul 2023 17:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[사랑스러운 두 눈동자를 담은 우리의 찰나.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/16/92a02642-0ce7-4983-b666-493bf6b51bce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 부부 탄생?! 천둥-미미가 4년 열애 공개한 이유 (feat. 최수종)]]></title>
+            <link>https://www.elle.co.kr/article/79170</link>
+            <guid>https://www.elle.co.kr/article/79170</guid>
+            <pubDate>Mon, 17 Jul 2023 05:41:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/31ccb517-f3cf-4706-a735-d704cb18bede.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허니제이-정담, 역시 힙한 러브 100일 잔치 패션.jpg]]></title>
+            <link>https://www.elle.co.kr/article/79165</link>
+            <guid>https://www.elle.co.kr/article/79165</guid>
+            <pubDate>Mon, 17 Jul 2023 05:41:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/b0f0547b-66af-46fe-8fe9-6d2bf2d6f6d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
+            <link>https://www.elle.co.kr/article/79147</link>
+            <guid>https://www.elle.co.kr/article/79147</guid>
+            <pubDate>Mon, 17 Jul 2023 05:41:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/196009b7-47f9-4408-8a06-132aecaebf36.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리가 11년 동안 상업 광고를 찍지 않았던 이유 (feat. 난리난 광고주들)]]></title>
+            <link>https://www.elle.co.kr/article/79142</link>
+            <guid>https://www.elle.co.kr/article/79142</guid>
+            <pubDate>Mon, 17 Jul 2023 05:41:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/eb9825bc-3332-43ed-b6fe-6942c81a3abb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이미지 변신 성공한 브브걸 유정, 건강미의 비결은 이 운동?  #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/79139</link>
+            <guid>https://www.elle.co.kr/article/79139</guid>
+            <pubDate>Sun, 16 Jul 2023 17:40:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/269fe444-7a44-45c2-ae5b-62daad68d374.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니퍼 로렌스의 스타일 전성기]]></title>
+            <link>https://www.elle.co.kr/article/79131</link>
+            <guid>https://www.elle.co.kr/article/79131</guid>
+            <pubDate>Fri, 14 Jul 2023 17:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[새 스타일리스트와 케미 200%. 제니퍼 로렌스가 패션 르네상스를 맞았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/7c95a7c6-4b1b-4850-9801-cc150c6e6bed.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
