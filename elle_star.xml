@@ -1,69 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 05:41:56 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김우빈-신민아, 가장 먼저 수해 이웃 돕기 나선 기부 커플]]></title>
-            <link>https://www.elle.co.kr/article/79197</link>
-            <guid>https://www.elle.co.kr/article/79197</guid>
-            <pubDate>Tue, 18 Jul 2023 05:40:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/e41fb1d2-c9c3-4a3e-a097-a86caaf52646.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장마철을 현명하게 이겨낼 채정안의 장마 아이템 7]]></title>
-            <link>https://www.elle.co.kr/article/79196</link>
-            <guid>https://www.elle.co.kr/article/79196</guid>
-            <pubDate>Mon, 17 Jul 2023 17:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[7월 중 사흘 빼고 매일 비가 올 거라던 ‘장마 괴담’이 현실로? 채정안이 알려주는 패션 비...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/727dc885-1f31-49a3-aa52-4f4645d264dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 입만! 도시락을 기웃거리는 두 강아지 이야기]]></title>
-            <link>https://www.elle.co.kr/article/78985</link>
-            <guid>https://www.elle.co.kr/article/78985</guid>
-            <pubDate>Mon, 17 Jul 2023 17:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[사랑스러운 두 눈동자를 담은 우리의 찰나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/16/92a02642-0ce7-4983-b666-493bf6b51bce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 부부 탄생?! 천둥-미미가 4년 열애 공개한 이유 (feat. 최수종)]]></title>
-            <link>https://www.elle.co.kr/article/79170</link>
-            <guid>https://www.elle.co.kr/article/79170</guid>
-            <pubDate>Mon, 17 Jul 2023 05:41:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/31ccb517-f3cf-4706-a735-d704cb18bede.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허니제이-정담, 역시 힙한 러브 100일 잔치 패션.jpg]]></title>
-            <link>https://www.elle.co.kr/article/79165</link>
-            <guid>https://www.elle.co.kr/article/79165</guid>
-            <pubDate>Mon, 17 Jul 2023 05:41:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/b0f0547b-66af-46fe-8fe9-6d2bf2d6f6d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
-            <link>https://www.elle.co.kr/article/79147</link>
-            <guid>https://www.elle.co.kr/article/79147</guid>
-            <pubDate>Mon, 17 Jul 2023 05:41:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/196009b7-47f9-4408-8a06-132aecaebf36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리가 11년 동안 상업 광고를 찍지 않았던 이유 (feat. 난리난 광고주들)]]></title>
-            <link>https://www.elle.co.kr/article/79142</link>
-            <guid>https://www.elle.co.kr/article/79142</guid>
-            <pubDate>Mon, 17 Jul 2023 05:41:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/eb9825bc-3332-43ed-b6fe-6942c81a3abb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미지 변신 성공한 브브걸 유정, 건강미의 비결은 이 운동?  #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/79139</link>
-            <guid>https://www.elle.co.kr/article/79139</guid>
-            <pubDate>Sun, 16 Jul 2023 17:40:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/269fe444-7a44-45c2-ae5b-62daad68d374.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-07-18T17:41:29.685Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조권이 11년 만에 광고 재개 선언한 이효리를 패러디한 까닭]]></title>
+        <id>https://www.elle.co.kr/article/79222</id>
+        <link href="https://www.elle.co.kr/article/79222"/>
+        <updated>2023-07-18T17:40:27.951Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마지막 순간까지 예술과 함께 했던 제인 버킨이 세상을 떠났다]]></title>
+        <id>https://www.elle.co.kr/article/79200</id>
+        <link href="https://www.elle.co.kr/article/79200"/>
+        <updated>2023-07-18T17:40:27.952Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지니(JINI)와 글로벌 메이크업 브랜드 M∙A∙C이 만났다]]></title>
+        <id>https://www.elle.co.kr/article/79189</id>
+        <link href="https://www.elle.co.kr/article/79189"/>
+        <updated>2023-07-18T17:40:27.957Z</updated>
+        <content type="html"><![CDATA[반짝반짝 빛나는 지니 메이크업의 비밀은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김우빈-신민아, 가장 먼저 수해 이웃 돕기 나선 기부 커플]]></title>
+        <id>https://www.elle.co.kr/article/79197</id>
+        <link href="https://www.elle.co.kr/article/79197"/>
+        <updated>2023-07-18T05:40:29.081Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장마철을 현명하게 이겨낼 채정안의 장마 아이템 7]]></title>
+        <id>https://www.elle.co.kr/article/79196</id>
+        <link href="https://www.elle.co.kr/article/79196"/>
+        <updated>2023-07-17T17:41:16.819Z</updated>
+        <content type="html"><![CDATA[7월 중 사흘 빼고 매일 비가 올 거라던 ‘장마 괴담’이 현실로? 채정안이 알려주는 패션 비...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 입만! 도시락을 기웃거리는 두 강아지 이야기]]></title>
+        <id>https://www.elle.co.kr/article/78985</id>
+        <link href="https://www.elle.co.kr/article/78985"/>
+        <updated>2023-07-17T17:41:16.835Z</updated>
+        <content type="html"><![CDATA[사랑스러운 두 눈동자를 담은 우리의 찰나.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이돌 부부 탄생?! 천둥-미미가 4년 열애 공개한 이유 (feat. 최수종)]]></title>
+        <id>https://www.elle.co.kr/article/79170</id>
+        <link href="https://www.elle.co.kr/article/79170"/>
+        <updated>2023-07-17T05:41:11.933Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허니제이-정담, 역시 힙한 러브 100일 잔치 패션.jpg]]></title>
+        <id>https://www.elle.co.kr/article/79165</id>
+        <link href="https://www.elle.co.kr/article/79165"/>
+        <updated>2023-07-17T05:41:11.940Z</updated>
+    </entry>
+</feed>
