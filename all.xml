@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 17:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 05:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1863,6 +1863,7 @@
             <guid>https://www.elle.co.kr/article/79092</guid>
             <pubDate>Fri, 14 Jul 2023 05:40:33 GMT</pubDate>
             <content:encoded><![CDATA[단순한 서머 룩에 활기를 불어넣어 줄 치트키! 펜던트 네크리스는 옷 잘 입는 셀러브리티들도 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/61261aa2-05d1-4720-ba6d-8c396ab81cd4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[얼음처럼 투명한 매력! 올여름을 지배할 클리어 패션 (엘르 코리아 ─ 패션)]]></title>
@@ -1870,6 +1871,15 @@
             <guid>https://www.elle.co.kr/article/79084</guid>
             <pubDate>Thu, 13 Jul 2023 17:40:25 GMT</pubDate>
             <content:encoded><![CDATA[맑고 깨끗하고 자신있게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/e4c6ebb9-0049-4618-8a76-8dbebc829efe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서머 무드 찰떡! 네일&페디 디자인 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/78987</link>
+            <guid>https://www.elle.co.kr/article/78987</guid>
+            <pubDate>Tue, 18 Jul 2023 05:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[손끝과 발끝에 물든 뜨겁고 강렬한 여름의 색채.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/7606e1ab-32b9-4dc2-a120-0d4a67771fb2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이미지 변신 성공한 브브걸 유정, 건강미의 비결은 이 운동?  #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1927,11 +1937,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/b102901f-fd19-4228-9e9b-3e2026f69338.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['1인 1닭' 가능? 대식가 문가영의 체형 유지 비결! #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/78957</link>
-            <guid>https://www.elle.co.kr/article/78957</guid>
-            <pubDate>Tue, 11 Jul 2023 17:40:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/7698f7d7-3ee0-4bb1-b86e-65f18e960e5e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김우빈-신민아, 가장 먼저 수해 이웃 돕기 나선 기부 커플 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/79197</link>
+            <guid>https://www.elle.co.kr/article/79197</guid>
+            <pubDate>Tue, 18 Jul 2023 05:40:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/e41fb1d2-c9c3-4a3e-a097-a86caaf52646.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장마철을 현명하게 이겨낼 채정안의 장마 아이템 7 (엘르 코리아 ─ 스타)]]></title>
@@ -1983,14 +1993,6 @@
             <guid>https://www.elle.co.kr/article/79139</guid>
             <pubDate>Sun, 16 Jul 2023 17:40:29 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/269fe444-7a44-45c2-ae5b-62daad68d374.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니퍼 로렌스의 스타일 전성기 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/79131</link>
-            <guid>https://www.elle.co.kr/article/79131</guid>
-            <pubDate>Fri, 14 Jul 2023 17:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[새 스타일리스트와 케미 200%. 제니퍼 로렌스가 패션 르네상스를 맞았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/7c95a7c6-4b1b-4850-9801-cc150c6e6bed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전북 현대에서 덴마크 미트윌란으로! 이적 직후 조규성이 전한 영상 편지 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2145,6 +2147,7 @@
             <link>https://www.elle.co.kr/article/79223</link>
             <guid>https://www.elle.co.kr/article/79223</guid>
             <pubDate>Mon, 17 Jul 2023 17:41:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/1f2ba5a8-660d-4724-aa0b-cc5de2e67364.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 덕후들의 인생작 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -2152,6 +2155,7 @@
             <guid>https://www.elle.co.kr/article/79063</guid>
             <pubDate>Wed, 12 Jul 2023 17:41:50 GMT</pubDate>
             <content:encoded><![CDATA[한 작품을 N차 관람한 자들이 말하는 영화들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/2414cc73-aa2a-43a3-a51d-e1d6039f04e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -2159,12 +2163,14 @@
             <guid>https://www.elle.co.kr/article/79125</guid>
             <pubDate>Wed, 12 Jul 2023 17:41:50 GMT</pubDate>
             <content:encoded><![CDATA[나오미 캠벨, 신디 크로포드, 린다 에반젤리스타, 크리스티 털링턴의 발자취를 조명한 다큐멘터리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/6b06f08c-fc2d-4ef4-8158-0c129fa3342a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[집밥 예찬론자라는 '마당집' 김태희의 자기 관리 비법 & 식단 #스타다이어트 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/79117</link>
             <guid>https://www.elle.co.kr/article/79117</guid>
             <pubDate>Wed, 12 Jul 2023 17:41:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/d8ac32d9-3e0e-47aa-abff-ec8cfb09e0ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
