@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-19T05:41:26.750Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/79223</id>
-        <link href="https://www.elle.co.kr/article/79223"/>
-        <updated>2023-07-19T05:40:30.168Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조권이 11년 만에 광고 재개 선언한 이효리를 패러디한 까닭]]></title>
-        <id>https://www.elle.co.kr/article/79222</id>
-        <link href="https://www.elle.co.kr/article/79222"/>
-        <updated>2023-07-18T17:40:27.951Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 순간까지 예술과 함께 했던 제인 버킨이 세상을 떠났다]]></title>
-        <id>https://www.elle.co.kr/article/79200</id>
-        <link href="https://www.elle.co.kr/article/79200"/>
-        <updated>2023-07-18T17:40:27.952Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지니(JINI)와 글로벌 메이크업 브랜드 M∙A∙C이 만났다]]></title>
-        <id>https://www.elle.co.kr/article/79189</id>
-        <link href="https://www.elle.co.kr/article/79189"/>
-        <updated>2023-07-18T17:40:27.957Z</updated>
-        <content type="html"><![CDATA[반짝반짝 빛나는 지니 메이크업의 비밀은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우빈-신민아, 가장 먼저 수해 이웃 돕기 나선 기부 커플]]></title>
-        <id>https://www.elle.co.kr/article/79197</id>
-        <link href="https://www.elle.co.kr/article/79197"/>
-        <updated>2023-07-18T05:40:29.081Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장마철을 현명하게 이겨낼 채정안의 장마 아이템 7]]></title>
-        <id>https://www.elle.co.kr/article/79196</id>
-        <link href="https://www.elle.co.kr/article/79196"/>
-        <updated>2023-07-17T17:41:16.819Z</updated>
-        <content type="html"><![CDATA[7월 중 사흘 빼고 매일 비가 올 거라던 ‘장마 괴담’이 현실로? 채정안이 알려주는 패션 비...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 입만! 도시락을 기웃거리는 두 강아지 이야기]]></title>
-        <id>https://www.elle.co.kr/article/78985</id>
-        <link href="https://www.elle.co.kr/article/78985"/>
-        <updated>2023-07-17T17:41:16.835Z</updated>
-        <content type="html"><![CDATA[사랑스러운 두 눈동자를 담은 우리의 찰나.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이돌 부부 탄생?! 천둥-미미가 4년 열애 공개한 이유 (feat. 최수종)]]></title>
-        <id>https://www.elle.co.kr/article/79170</id>
-        <link href="https://www.elle.co.kr/article/79170"/>
-        <updated>2023-07-17T05:41:11.933Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 19 Jul 2023 17:42:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
+            <link>https://www.elle.co.kr/article/79255</link>
+            <guid>https://www.elle.co.kr/article/79255</guid>
+            <pubDate>Wed, 19 Jul 2023 17:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[무려 7년 만.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/0678b77f-47e3-4a7a-bd73-3421854daafb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티파니 덩크 맞춰 신은 사랑꾼 부부 션-정혜영 #럽스타그램]]></title>
+            <link>https://www.elle.co.kr/article/79252</link>
+            <guid>https://www.elle.co.kr/article/79252</guid>
+            <pubDate>Wed, 19 Jul 2023 17:40:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/8dbf318e-65c6-4ce2-bb0a-5478f0a48e75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴 원우, 엘르맨으로 여름 한복판에 서다]]></title>
+            <link>https://www.elle.co.kr/article/79195</link>
+            <guid>https://www.elle.co.kr/article/79195</guid>
+            <pubDate>Wed, 19 Jul 2023 17:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[스물 일곱 살. 원우가 되고 싶은 것과 바라는 것들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/0130235d-5967-4daf-9358-4137f1ee62f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79223</link>
+            <guid>https://www.elle.co.kr/article/79223</guid>
+            <pubDate>Wed, 19 Jul 2023 05:40:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/1f2ba5a8-660d-4724-aa0b-cc5de2e67364.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조권이 11년 만에 광고 재개 선언한 이효리를 패러디한 까닭]]></title>
+            <link>https://www.elle.co.kr/article/79222</link>
+            <guid>https://www.elle.co.kr/article/79222</guid>
+            <pubDate>Tue, 18 Jul 2023 17:40:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/51d254bf-2a8e-439a-aa21-92c94ea130b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마지막 순간까지 예술과 함께 했던 제인 버킨이 세상을 떠났다]]></title>
+            <link>https://www.elle.co.kr/article/79200</link>
+            <guid>https://www.elle.co.kr/article/79200</guid>
+            <pubDate>Tue, 18 Jul 2023 17:40:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/f05186b6-1207-40c6-8b49-dcbca70c7879.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지니(JINI)와 글로벌 메이크업 브랜드 M∙A∙C이 만났다]]></title>
+            <link>https://www.elle.co.kr/article/79189</link>
+            <guid>https://www.elle.co.kr/article/79189</guid>
+            <pubDate>Tue, 18 Jul 2023 17:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[반짝반짝 빛나는 지니 메이크업의 비밀은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/99b5d94f-263d-4b9a-a029-33ee1305401e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김우빈-신민아, 가장 먼저 수해 이웃 돕기 나선 기부 커플]]></title>
+            <link>https://www.elle.co.kr/article/79197</link>
+            <guid>https://www.elle.co.kr/article/79197</guid>
+            <pubDate>Tue, 18 Jul 2023 05:40:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/e41fb1d2-c9c3-4a3e-a097-a86caaf52646.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

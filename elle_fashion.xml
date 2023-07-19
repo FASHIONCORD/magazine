@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 05:41:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[해변의 양탄자, 비치타올]]></title>
-            <link>https://www.elle.co.kr/article/79048</link>
-            <guid>https://www.elle.co.kr/article/79048</guid>
-            <pubDate>Wed, 19 Jul 2023 05:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[여름 감성 넘치는 해변 여행을 위하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/550bc51f-2af6-413c-8ada-55d4a4fba919.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[훤히 보이는 틴티드 선글라스]]></title>
-            <link>https://www.elle.co.kr/article/79002</link>
-            <guid>https://www.elle.co.kr/article/79002</guid>
-            <pubDate>Tue, 18 Jul 2023 17:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[무더운 여름, 눈이 보여서 더 시원해!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/16/5008a209-0c3f-42b7-8c92-61f85fa99ca0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임지연부터 김도연까지! 여름에 더 잘 어울리는 히피펌 스타일 6]]></title>
-            <link>https://www.elle.co.kr/article/79182</link>
-            <guid>https://www.elle.co.kr/article/79182</guid>
-            <pubDate>Tue, 18 Jul 2023 17:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[습한 여름 날씨에 헤어 스타일 고민이라면 주목! 반곱슬 헤어에게 더 추천하는 자유분방하고 사...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/d7e707f4-9295-4c0d-82bf-55011585211e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헐크부터 고양이까지, 새로운 어글리 슈즈의 시대!]]></title>
-            <link>https://www.elle.co.kr/article/79167</link>
-            <guid>https://www.elle.co.kr/article/79167</guid>
-            <pubDate>Mon, 17 Jul 2023 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[그때 그 시절 어글리 슈즈가 아닙니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/244cfa6e-d3d4-4358-8f09-9ffee2f387c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바비 열풍이 몰고 온 핑크 패션 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/79156</link>
-            <guid>https://www.elle.co.kr/article/79156</guid>
-            <pubDate>Mon, 17 Jul 2023 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[왠지 모르게 핑크가 끌리는 요즘! 바비 인형처럼 핑크 패션을 멋지게 소화한 스타들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/151e431a-dfa3-4ae1-b319-592c9f817825.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제대로 배워보자! 제니가 알려주는 Y2K 리얼 바이브]]></title>
-            <link>https://www.elle.co.kr/article/79151</link>
-            <guid>https://www.elle.co.kr/article/79151</guid>
-            <pubDate>Sun, 16 Jul 2023 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[2006년생 패션 모델, 제니와 나눈 요즘 'Y2K'.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/b2058faa-dcbd-4185-afab-9c702414729a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니퍼 로렌스의 스타일 전성기]]></title>
-            <link>https://www.elle.co.kr/article/79131</link>
-            <guid>https://www.elle.co.kr/article/79131</guid>
-            <pubDate>Sat, 15 Jul 2023 17:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[새 스타일리스트와 케미 200%. 제니퍼 로렌스가 패션 르네상스를 맞았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/7c95a7c6-4b1b-4850-9801-cc150c6e6bed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름에는 스트라이프]]></title>
-            <link>https://www.elle.co.kr/article/78977</link>
-            <guid>https://www.elle.co.kr/article/78977</guid>
-            <pubDate>Sat, 15 Jul 2023 05:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[매 시즌 유연하게 넘는 ‘선’들에 대하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/7f85940f-f5af-4a04-845d-c28265862c54.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-07-19T17:42:09.822Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[깅엄 체크 아이템 마스터!]]></title>
+        <id>https://www.elle.co.kr/article/79193</id>
+        <link href="https://www.elle.co.kr/article/79193"/>
+        <updated>2023-07-19T17:40:33.082Z</updated>
+        <content type="html"><![CDATA[산뜻한 깅엄 체크를 입고 피크닉 갈 시간.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #4 비주얼 디렉터 김소연]]></title>
+        <id>https://www.elle.co.kr/article/79207</id>
+        <link href="https://www.elle.co.kr/article/79207"/>
+        <updated>2023-07-19T17:40:33.083Z</updated>
+        <content type="html"><![CDATA[K 팝스타의 비주얼을 기획하고 감독하는 비주얼 디렉터 김소연이 애정하는 물건과 그 이유.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해변의 양탄자, 비치타올]]></title>
+        <id>https://www.elle.co.kr/article/79048</id>
+        <link href="https://www.elle.co.kr/article/79048"/>
+        <updated>2023-07-19T05:40:09.425Z</updated>
+        <content type="html"><![CDATA[여름 감성 넘치는 해변 여행을 위하여.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[훤히 보이는 틴티드 선글라스]]></title>
+        <id>https://www.elle.co.kr/article/79002</id>
+        <link href="https://www.elle.co.kr/article/79002"/>
+        <updated>2023-07-18T17:40:05.416Z</updated>
+        <content type="html"><![CDATA[무더운 여름, 눈이 보여서 더 시원해!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임지연부터 김도연까지! 여름에 더 잘 어울리는 히피펌 스타일 6]]></title>
+        <id>https://www.elle.co.kr/article/79182</id>
+        <link href="https://www.elle.co.kr/article/79182"/>
+        <updated>2023-07-18T17:40:05.418Z</updated>
+        <content type="html"><![CDATA[습한 여름 날씨에 헤어 스타일 고민이라면 주목! 반곱슬 헤어에게 더 추천하는 자유분방하고 사...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헐크부터 고양이까지, 새로운 어글리 슈즈의 시대!]]></title>
+        <id>https://www.elle.co.kr/article/79167</id>
+        <link href="https://www.elle.co.kr/article/79167"/>
+        <updated>2023-07-17T17:40:53.633Z</updated>
+        <content type="html"><![CDATA[그때 그 시절 어글리 슈즈가 아닙니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바비 열풍이 몰고 온 핑크 패션 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/79156</id>
+        <link href="https://www.elle.co.kr/article/79156"/>
+        <updated>2023-07-17T17:40:53.635Z</updated>
+        <content type="html"><![CDATA[왠지 모르게 핑크가 끌리는 요즘! 바비 인형처럼 핑크 패션을 멋지게 소화한 스타들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제대로 배워보자! 제니가 알려주는 Y2K 리얼 바이브]]></title>
+        <id>https://www.elle.co.kr/article/79151</id>
+        <link href="https://www.elle.co.kr/article/79151"/>
+        <updated>2023-07-16T17:40:12.817Z</updated>
+        <content type="html"><![CDATA[2006년생 패션 모델, 제니와 나눈 요즘 'Y2K'.]]></content>
+    </entry>
+</feed>

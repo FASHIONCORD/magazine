@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-07-19T05:41:26.771Z</updated>
+    <updated>2023-07-19T17:42:09.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['감독 겸 배우' 정우성의 장편 데뷔작 '보호자' 정보 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/79295</id>
+        <link href="https://www.elle.co.kr/article/79295"/>
+        <updated>2023-07-19T17:41:34.215Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약자라고 안 봐줘! 파이트 저지 모니카X셔누가 꼽은 '스우파2' 관전 포인트]]></title>
+        <id>https://www.elle.co.kr/article/79294</id>
+        <link href="https://www.elle.co.kr/article/79294"/>
+        <updated>2023-07-19T17:41:34.219Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
         <id>https://www.elle.co.kr/article/79255</id>
@@ -74,17 +86,5 @@
         <id>https://www.elle.co.kr/article/78984</id>
         <link href="https://www.elle.co.kr/article/78984"/>
         <updated>2023-07-06T17:42:08.691Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
-        <id>https://www.elle.co.kr/article/78983</id>
-        <link href="https://www.elle.co.kr/article/78983"/>
-        <updated>2023-07-06T17:42:08.693Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드' 재벌 3세 이준호, 수트 입고 '뉴스룸' 출근! 방송은 언제?]]></title>
-        <id>https://www.elle.co.kr/article/78982</id>
-        <link href="https://www.elle.co.kr/article/78982"/>
-        <updated>2023-07-06T17:42:08.696Z</updated>
     </entry>
 </feed>
