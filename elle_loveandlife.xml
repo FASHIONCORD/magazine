@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 17:41:29 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[여름하면 콩국수! 맛잘알 성시경의 콩국수 맛집 투어 3]]></title>
-            <link>https://www.elle.co.kr/article/79127</link>
-            <guid>https://www.elle.co.kr/article/79127</guid>
-            <pubDate>Tue, 18 Jul 2023 17:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[콩국수를 먹기 위해 여름을 기다린 사람 모여라! ‘믿먹’ 성시경이 고른 맛집 좌표를 참고해 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/088a5ca9-53bb-4077-bb8a-63a94df9a6b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독특한 아이스크림 메뉴가 있는 카페 2]]></title>
-            <link>https://www.elle.co.kr/article/78968</link>
-            <guid>https://www.elle.co.kr/article/78968</guid>
-            <pubDate>Mon, 17 Jul 2023 17:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[비로소 입안에 당도한 여름 한 스쿱.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/be6c57b1-db2d-45e1-a21e-bcf23ca54791.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부드러운 장어에 새콤한 파김치를 돌돌! 복날 맞이 이색 보양식 맛집 추천 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79078</link>
-            <guid>https://www.elle.co.kr/article/79078</guid>
-            <pubDate>Sun, 16 Jul 2023 05:41:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/bb971755-4727-4210-84f6-c8ea149f6a0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미지 생성형 AI인 '달리'와 함께 공간 디자인 화보에 도전했다]]></title>
-            <link>https://www.elle.co.kr/article/78913</link>
-            <guid>https://www.elle.co.kr/article/78913</guid>
-            <pubDate>Fri, 14 Jul 2023 17:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[‘달리(DALL · E)’와 벌인 일주일간의 사투 끝에 얻은 결과는 만족스럽지 않았다. 묘한 기분...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/e8d50508-1475-42d1-af9e-9b5ecf0d82f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울로 모인 패션 & 하이 주얼리 전시]]></title>
-            <link>https://www.elle.co.kr/article/78908</link>
-            <guid>https://www.elle.co.kr/article/78908</guid>
-            <pubDate>Fri, 14 Jul 2023 17:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[문화 예술의 가치를 다루는 패션 브랜드들의 전시가 서울에서 열리고 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/09/51eeeea0-2e6d-4af2-94d7-fa35aa4b2c4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트먼트뎁, 티컬렉티브 대표 김미재의 취향]]></title>
-            <link>https://www.elle.co.kr/article/78956</link>
-            <guid>https://www.elle.co.kr/article/78956</guid>
-            <pubDate>Thu, 13 Jul 2023 17:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[디테일의 힘, 아트먼트뎁 &amp; 티컬렉티브 대표 김미재.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/d17927e7-b912-474d-8360-cfdd7cdc6a59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구워 먹는 삼계탕이 있다고? 초복에 들러 볼 이색 몸보신 맛집 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79014</link>
-            <guid>https://www.elle.co.kr/article/79014</guid>
-            <pubDate>Tue, 11 Jul 2023 17:41:41 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/08b7db18-5424-462f-bbf6-8f2389275c46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들이 맛있는 주말을 즐기는 곳은? 신사동 브런치 레스토랑 3]]></title>
-            <link>https://www.elle.co.kr/article/78998</link>
-            <guid>https://www.elle.co.kr/article/78998</guid>
-            <pubDate>Tue, 11 Jul 2023 17:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[주말을 제대로 즐기고 싶다면 신사동으로 발걸음을 옮겨보세요. 트와이스 쯔위, 손연재와 장희령이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/0f7051f6-c464-4061-a4d0-9aa86310134b.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-07-19T05:41:26.765Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름하면 콩국수! 맛잘알 성시경의 콩국수 맛집 투어 3]]></title>
+        <id>https://www.elle.co.kr/article/79127</id>
+        <link href="https://www.elle.co.kr/article/79127"/>
+        <updated>2023-07-18T17:41:18.919Z</updated>
+        <content type="html"><![CDATA[콩국수를 먹기 위해 여름을 기다린 사람 모여라! ‘믿먹’ 성시경이 고른 맛집 좌표를 참고해 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독특한 아이스크림 메뉴가 있는 카페 2]]></title>
+        <id>https://www.elle.co.kr/article/78968</id>
+        <link href="https://www.elle.co.kr/article/78968"/>
+        <updated>2023-07-17T17:42:43.848Z</updated>
+        <content type="html"><![CDATA[비로소 입안에 당도한 여름 한 스쿱.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부드러운 장어에 새콤한 파김치를 돌돌! 복날 맞이 이색 보양식 맛집 추천 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/79078</id>
+        <link href="https://www.elle.co.kr/article/79078"/>
+        <updated>2023-07-16T05:41:56.598Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이미지 생성형 AI인 '달리'와 함께 공간 디자인 화보에 도전했다]]></title>
+        <id>https://www.elle.co.kr/article/78913</id>
+        <link href="https://www.elle.co.kr/article/78913"/>
+        <updated>2023-07-14T17:41:55.745Z</updated>
+        <content type="html"><![CDATA[‘달리(DALL · E)’와 벌인 일주일간의 사투 끝에 얻은 결과는 만족스럽지 않았다. 묘한 기분...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울로 모인 패션 & 하이 주얼리 전시]]></title>
+        <id>https://www.elle.co.kr/article/78908</id>
+        <link href="https://www.elle.co.kr/article/78908"/>
+        <updated>2023-07-14T17:41:55.748Z</updated>
+        <content type="html"><![CDATA[문화 예술의 가치를 다루는 패션 브랜드들의 전시가 서울에서 열리고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아트먼트뎁, 티컬렉티브 대표 김미재의 취향]]></title>
+        <id>https://www.elle.co.kr/article/78956</id>
+        <link href="https://www.elle.co.kr/article/78956"/>
+        <updated>2023-07-13T17:42:15.051Z</updated>
+        <content type="html"><![CDATA[디테일의 힘, 아트먼트뎁 &amp; 티컬렉티브 대표 김미재.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구워 먹는 삼계탕이 있다고? 초복에 들러 볼 이색 몸보신 맛집 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/79014</id>
+        <link href="https://www.elle.co.kr/article/79014"/>
+        <updated>2023-07-11T17:41:41.045Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타들이 맛있는 주말을 즐기는 곳은? 신사동 브런치 레스토랑 3]]></title>
+        <id>https://www.elle.co.kr/article/78998</id>
+        <link href="https://www.elle.co.kr/article/78998"/>
+        <updated>2023-07-11T17:41:41.047Z</updated>
+        <content type="html"><![CDATA[주말을 제대로 즐기고 싶다면 신사동으로 발걸음을 옮겨보세요. 트와이스 쯔위, 손연재와 장희령이...]]></content>
+    </entry>
+</feed>
