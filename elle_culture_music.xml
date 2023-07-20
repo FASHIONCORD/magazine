@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 17:43:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유]]></title>
+            <link>https://www.elle.co.kr/article/79325</link>
+            <guid>https://www.elle.co.kr/article/79325</guid>
+            <pubDate>Thu, 20 Jul 2023 17:41:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/f12fc349-f3aa-4a0b-8e61-c7fea618cb41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
             <link>https://www.elle.co.kr/article/79147</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/78463</link>
             <guid>https://www.elle.co.kr/article/78463</guid>
             <pubDate>Mon, 19 Jun 2023 17:40:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/8b70c0d0-7a52-4ffc-b6d7-d6d206d6dfce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
@@ -88,12 +94,6 @@
             <guid>https://www.elle.co.kr/article/77654</guid>
             <pubDate>Thu, 18 May 2023 17:40:47 GMT</pubDate>
             <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[베를린 필하모닉 사상 첫 동양인 여성 지휘자, 한국의 김은선]]></title>
-            <link>https://www.elle.co.kr/article/77457</link>
-            <guid>https://www.elle.co.kr/article/77457</guid>
-            <pubDate>Wed, 10 May 2023 17:43:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

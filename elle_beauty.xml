@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-07-20T05:41:58.473Z</updated>
+    <updated>2023-07-20T17:43:01.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고물가 극복 프로젝트! 1만 원 이하 초가성비 화장품 List 6_선배’s 어드바이스 #177]]></title>
+        <id>https://www.elle.co.kr/article/79203</id>
+        <link href="https://www.elle.co.kr/article/79203"/>
+        <updated>2023-07-20T17:40:45.211Z</updated>
+        <content type="html"><![CDATA[1만 원으로 살 게 없는 세상! 착한 가격으로 얇은 지갑 채워주는 기특한 제품들을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장마철을 현명하게 이겨낼 채정안의 장마 아이템 7]]></title>
         <id>https://www.elle.co.kr/article/79196</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/79086"/>
         <updated>2023-07-15T17:40:25.100Z</updated>
         <content type="html"><![CDATA[-22kg 감량 성공한 에디터의 조언]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보부상은 주목! 똑똑하게 여행 파우치 꾸리는 법 8_선배’s 어드바이스 #176]]></title>
-        <id>https://www.elle.co.kr/article/79072</id>
-        <link href="https://www.elle.co.kr/article/79072"/>
-        <updated>2023-07-15T05:40:32.011Z</updated>
-        <content type="html"><![CDATA[바리바리 보부상은 이제 그만.]]></content>
     </entry>
 </feed>
