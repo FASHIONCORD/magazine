@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/beauty</id>
-    <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-07-21T17:41:13.300Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[고물가 극복 프로젝트! 1만 원 이하 초가성비 화장품 List 6_선배’s 어드바이스 #177]]></title>
-        <id>https://www.elle.co.kr/article/79203</id>
-        <link href="https://www.elle.co.kr/article/79203"/>
-        <updated>2023-07-20T17:40:45.211Z</updated>
-        <content type="html"><![CDATA[1만 원으로 살 게 없는 세상! 착한 가격으로 얇은 지갑 채워주는 기특한 제품들을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장마철을 현명하게 이겨낼 채정안의 장마 아이템 7]]></title>
-        <id>https://www.elle.co.kr/article/79196</id>
-        <link href="https://www.elle.co.kr/article/79196"/>
-        <updated>2023-07-19T17:40:41.618Z</updated>
-        <content type="html"><![CDATA[7월 중 사흘 빼고 매일 비가 올 거라던 ‘장마 괴담’이 현실로? 채정안이 알려주는 패션 비...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어디서 냄새 안 나요? '부내' 나는 상속녀 st 서머 뷰티 팁]]></title>
-        <id>https://www.elle.co.kr/article/79046</id>
-        <link href="https://www.elle.co.kr/article/79046"/>
-        <updated>2023-07-19T05:40:21.025Z</updated>
-        <content type="html"><![CDATA[소위 ‘다이아몬드 수저’를 뜻하는 올드 머니(Old Money) 바이브가 화제다. AI가 만든 가상인...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지연부터 김도연까지! 여름에 더 잘 어울리는 히피펌 스타일 6]]></title>
-        <id>https://www.elle.co.kr/article/79182</id>
-        <link href="https://www.elle.co.kr/article/79182"/>
-        <updated>2023-07-18T17:40:18.325Z</updated>
-        <content type="html"><![CDATA[습한 여름 날씨에 헤어 스타일 고민이라면 주목! 반곱슬 헤어에게 더 추천하는 자유분방하고 사...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서머 무드 찰떡! 네일&페디 디자인]]></title>
-        <id>https://www.elle.co.kr/article/78987</id>
-        <link href="https://www.elle.co.kr/article/78987"/>
-        <updated>2023-07-18T05:40:17.716Z</updated>
-        <content type="html"><![CDATA[손끝과 발끝에 물든 뜨겁고 강렬한 여름의 색채.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미지 변신 성공한 브브걸 유정, 건강미의 비결은 이 운동?  #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79139</id>
-        <link href="https://www.elle.co.kr/article/79139"/>
-        <updated>2023-07-17T05:41:01.280Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름엔 무조건 쿨링템!]]></title>
-        <id>https://www.elle.co.kr/article/78921</id>
-        <link href="https://www.elle.co.kr/article/78921"/>
-        <updated>2023-07-17T05:41:01.289Z</updated>
-        <content type="html"><![CDATA[무더위에 한껏 달아오른 피부를 차갑게 식혀줄 ‘쿨’한 뷰티템 7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이어트 자꾸 실패하는 사람들의 공통점 #다이어터디터]]></title>
-        <id>https://www.elle.co.kr/article/79086</id>
-        <link href="https://www.elle.co.kr/article/79086"/>
-        <updated>2023-07-15T17:40:25.100Z</updated>
-        <content type="html"><![CDATA[-22kg 감량 성공한 에디터의 조언]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 22 Jul 2023 05:42:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고물가 극복 프로젝트! 1만 원 이하 초가성비 화장품 List 6_선배’s 어드바이스 #177]]></title>
+            <link>https://www.elle.co.kr/article/79203</link>
+            <guid>https://www.elle.co.kr/article/79203</guid>
+            <pubDate>Thu, 20 Jul 2023 17:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[1만 원으로 살 게 없는 세상! 착한 가격으로 얇은 지갑 채워주는 기특한 제품들을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/d33203ef-1227-48b7-8ec3-74e89416d3be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장마철을 현명하게 이겨낼 채정안의 장마 아이템 7]]></title>
+            <link>https://www.elle.co.kr/article/79196</link>
+            <guid>https://www.elle.co.kr/article/79196</guid>
+            <pubDate>Wed, 19 Jul 2023 17:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[7월 중 사흘 빼고 매일 비가 올 거라던 ‘장마 괴담’이 현실로? 채정안이 알려주는 패션 비...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/727dc885-1f31-49a3-aa52-4f4645d264dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어디서 냄새 안 나요? '부내' 나는 상속녀 st 서머 뷰티 팁]]></title>
+            <link>https://www.elle.co.kr/article/79046</link>
+            <guid>https://www.elle.co.kr/article/79046</guid>
+            <pubDate>Wed, 19 Jul 2023 05:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[소위 ‘다이아몬드 수저’를 뜻하는 올드 머니(Old Money) 바이브가 화제다. AI가 만든 가상인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/16/47403806-13fe-40fe-b84e-185bdcc076eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임지연부터 김도연까지! 여름에 더 잘 어울리는 히피펌 스타일 6]]></title>
+            <link>https://www.elle.co.kr/article/79182</link>
+            <guid>https://www.elle.co.kr/article/79182</guid>
+            <pubDate>Tue, 18 Jul 2023 17:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[습한 여름 날씨에 헤어 스타일 고민이라면 주목! 반곱슬 헤어에게 더 추천하는 자유분방하고 사...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/d7e707f4-9295-4c0d-82bf-55011585211e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서머 무드 찰떡! 네일&페디 디자인]]></title>
+            <link>https://www.elle.co.kr/article/78987</link>
+            <guid>https://www.elle.co.kr/article/78987</guid>
+            <pubDate>Tue, 18 Jul 2023 05:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[손끝과 발끝에 물든 뜨겁고 강렬한 여름의 색채.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/7606e1ab-32b9-4dc2-a120-0d4a67771fb2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이미지 변신 성공한 브브걸 유정, 건강미의 비결은 이 운동?  #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/79139</link>
+            <guid>https://www.elle.co.kr/article/79139</guid>
+            <pubDate>Mon, 17 Jul 2023 05:41:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/269fe444-7a44-45c2-ae5b-62daad68d374.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름엔 무조건 쿨링템!]]></title>
+            <link>https://www.elle.co.kr/article/78921</link>
+            <guid>https://www.elle.co.kr/article/78921</guid>
+            <pubDate>Mon, 17 Jul 2023 05:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[무더위에 한껏 달아오른 피부를 차갑게 식혀줄 ‘쿨’한 뷰티템 7.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/2a044f7d-5654-4f7b-8c2d-b04f4275eb0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이어트 자꾸 실패하는 사람들의 공통점 #다이어터디터]]></title>
+            <link>https://www.elle.co.kr/article/79086</link>
+            <guid>https://www.elle.co.kr/article/79086</guid>
+            <pubDate>Sat, 15 Jul 2023 17:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[-22kg 감량 성공한 에디터의 조언]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/f260e08f-f2c1-4b3c-bb3e-72fc0f50f49f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

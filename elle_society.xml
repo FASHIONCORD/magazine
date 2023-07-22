@@ -1,58 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/society</id>
-    <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-07-21T17:41:13.317Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[교통비 1년에 30만 원 줄이는 법! 알뜰교통카드 A to Z_돈쓸신잡 #105]]></title>
-        <id>https://www.elle.co.kr/article/78973</id>
-        <link href="https://www.elle.co.kr/article/78973"/>
-        <updated>2023-07-20T05:41:57.366Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월부터 음주운전자 차량 압수 시작! 진짜로 차 뺏기는 사례는?]]></title>
-        <id>https://www.elle.co.kr/article/78940</id>
-        <link href="https://www.elle.co.kr/article/78940"/>
-        <updated>2023-07-14T17:42:05.890Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 우리는 모두 청소년이었다]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/78823</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/78823"/>
-        <updated>2023-07-13T17:42:23.944Z</updated>
-        <content type="html"><![CDATA[청소년 시절의 나와 지금의 나는 얼마나 이어져있을까? 지금을 살아가는 소녀들을 이해하는 방법...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트친 글 보려면 돈 내세요?! 트위터, 갑자기 열람 가능 트윗 개수 제한한 배경]]></title>
-        <id>https://www.elle.co.kr/article/78874</id>
-        <link href="https://www.elle.co.kr/article/78874"/>
-        <updated>2023-07-11T05:41:29.577Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 왜 대한민국에는 이렇게 멋진 여자들이 많을까?]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/78821</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/78821"/>
-        <updated>2023-07-07T17:42:10.925Z</updated>
-        <content type="html"><![CDATA[강하고 프로페셔널한 여자들이 우리에게 제시한 어떤 멋진 미래.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대한민국 국적 오픈리 레즈비언 유부녀' 김규진의 임신 이야기]]></title>
-        <id>https://www.elle.co.kr/article/78841</id>
-        <link href="https://www.elle.co.kr/article/78841"/>
-        <updated>2023-07-06T05:44:32.563Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔화가 너무 저렴한데, 미리 사둬도 될까요?_돈쓸신잡 #104]]></title>
-        <id>https://www.elle.co.kr/article/78779</id>
-        <link href="https://www.elle.co.kr/article/78779"/>
-        <updated>2023-07-05T17:42:58.688Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28일부터 전 국민 만 나이로 통일! 헷갈리는 나이 계산법과 예외 상황 정리.txt]]></title>
-        <id>https://www.elle.co.kr/article/78697</id>
-        <link href="https://www.elle.co.kr/article/78697"/>
-        <updated>2023-07-03T17:41:13.528Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 소사이어티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 22 Jul 2023 05:42:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교통비 1년에 30만 원 줄이는 법! 알뜰교통카드 A to Z_돈쓸신잡 #105]]></title>
+            <link>https://www.elle.co.kr/article/78973</link>
+            <guid>https://www.elle.co.kr/article/78973</guid>
+            <pubDate>Thu, 20 Jul 2023 05:41:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/54c976a1-3f84-4d1a-ad46-5a4ce7d24199.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7월부터 음주운전자 차량 압수 시작! 진짜로 차 뺏기는 사례는?]]></title>
+            <link>https://www.elle.co.kr/article/78940</link>
+            <guid>https://www.elle.co.kr/article/78940</guid>
+            <pubDate>Fri, 14 Jul 2023 17:42:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/8e1898be-4035-4eda-8bf8-115503fb3b22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 우리는 모두 청소년이었다]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/78823</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/78823</guid>
+            <pubDate>Thu, 13 Jul 2023 17:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[청소년 시절의 나와 지금의 나는 얼마나 이어져있을까? 지금을 살아가는 소녀들을 이해하는 방법...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/b24c9888-a4b3-4b37-af82-d6b0d5620191.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트친 글 보려면 돈 내세요?! 트위터, 갑자기 열람 가능 트윗 개수 제한한 배경]]></title>
+            <link>https://www.elle.co.kr/article/78874</link>
+            <guid>https://www.elle.co.kr/article/78874</guid>
+            <pubDate>Tue, 11 Jul 2023 05:41:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/8ef60027-5026-4063-822e-9e32ce313d0e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 왜 대한민국에는 이렇게 멋진 여자들이 많을까?]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/78821</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/78821</guid>
+            <pubDate>Fri, 07 Jul 2023 17:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[강하고 프로페셔널한 여자들이 우리에게 제시한 어떤 멋진 미래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/7f07d4d2-85bf-4e70-92fb-45bd460facf5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대한민국 국적 오픈리 레즈비언 유부녀' 김규진의 임신 이야기]]></title>
+            <link>https://www.elle.co.kr/article/78841</link>
+            <guid>https://www.elle.co.kr/article/78841</guid>
+            <pubDate>Thu, 06 Jul 2023 05:44:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/91d666aa-c307-458e-8a39-44722fe2d6f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔화가 너무 저렴한데, 미리 사둬도 될까요?_돈쓸신잡 #104]]></title>
+            <link>https://www.elle.co.kr/article/78779</link>
+            <guid>https://www.elle.co.kr/article/78779</guid>
+            <pubDate>Wed, 05 Jul 2023 17:42:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/2662ce70-7cb7-43be-b5fb-26afdd20c95a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[28일부터 전 국민 만 나이로 통일! 헷갈리는 나이 계산법과 예외 상황 정리.txt]]></title>
+            <link>https://www.elle.co.kr/article/78697</link>
+            <guid>https://www.elle.co.kr/article/78697</guid>
+            <pubDate>Mon, 03 Jul 2023 17:41:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/64ccf38f-84db-445b-99da-d2cb00c9bac0.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

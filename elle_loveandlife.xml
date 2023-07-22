@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-07-21T17:41:13.321Z</updated>
+    <updated>2023-07-22T05:42:08.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이우환과 인터뷰하기 위해 찾은 호텔, 더 칼라일 뉴욕 #호텔미감]]></title>
+        <id>https://www.elle.co.kr/article/79119</id>
+        <link href="https://www.elle.co.kr/article/79119"/>
+        <updated>2023-07-22T05:41:56.632Z</updated>
+        <content type="html"><![CDATA[1930년 맨해튼 어퍼 이스트 사이드에 문을 연 유서 깊은 호텔 더 칼라일 뉴욕.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
         <id>https://www.elle.co.kr/article/79319</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/79127"/>
         <updated>2023-07-18T17:41:18.919Z</updated>
         <content type="html"><![CDATA[콩국수를 먹기 위해 여름을 기다린 사람 모여라! ‘믿먹’ 성시경이 고른 맛집 좌표를 참고해 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독특한 아이스크림 메뉴가 있는 카페 2]]></title>
-        <id>https://www.elle.co.kr/article/78968</id>
-        <link href="https://www.elle.co.kr/article/78968"/>
-        <updated>2023-07-17T17:42:43.848Z</updated>
-        <content type="html"><![CDATA[비로소 입안에 당도한 여름 한 스쿱.]]></content>
     </entry>
 </feed>

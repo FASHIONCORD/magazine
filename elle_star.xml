@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-21T17:41:13.303Z</updated>
+    <updated>2023-07-22T05:42:08.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유]]></title>
+        <id>https://www.elle.co.kr/article/79325</id>
+        <link href="https://www.elle.co.kr/article/79325"/>
+        <updated>2023-07-22T05:40:28.147Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그 누구보다도 알차게 청룡어워즈 즐긴 '환연2' 해은-현규 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/79322</id>
@@ -47,11 +53,5 @@
         <link href="https://www.elle.co.kr/article/79241"/>
         <updated>2023-07-20T17:40:57.087Z</updated>
         <content type="html"><![CDATA[드라마 '남남'에서 철부지 엄마와 쿨한 딸로 마주한 이들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떡잎부터 달랐던 윤상 아들 이찬영, 수영 유망주에서 진로 변경한 이유]]></title>
-        <id>https://www.elle.co.kr/article/79256</id>
-        <link href="https://www.elle.co.kr/article/79256"/>
-        <updated>2023-07-20T05:40:46.499Z</updated>
     </entry>
 </feed>
