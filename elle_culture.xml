@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-07-22T17:41:17.345Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
-        <id>https://www.elle.co.kr/article/79255</id>
-        <link href="https://www.elle.co.kr/article/79255"/>
-        <updated>2023-07-21T17:40:31.753Z</updated>
-        <content type="html"><![CDATA[무려 7년 만.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/79223</id>
-        <link href="https://www.elle.co.kr/article/79223"/>
-        <updated>2023-07-20T17:41:08.737Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
-        <id>https://www.elle.co.kr/article/79147</id>
-        <link href="https://www.elle.co.kr/article/79147"/>
-        <updated>2023-07-20T17:41:08.737Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 덕후들의 인생작]]></title>
-        <id>https://www.elle.co.kr/article/79063</id>
-        <link href="https://www.elle.co.kr/article/79063"/>
-        <updated>2023-07-19T17:41:16.079Z</updated>
-        <content type="html"><![CDATA[한 작품을 N차 관람한 자들이 말하는 영화들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?]]></title>
-        <id>https://www.elle.co.kr/article/79125</id>
-        <link href="https://www.elle.co.kr/article/79125"/>
-        <updated>2023-07-19T17:41:16.084Z</updated>
-        <content type="html"><![CDATA[나오미 캠벨, 신디 크로포드, 린다 에반젤리스타, 크리스티 털링턴의 발자취를 조명한 다큐멘터리...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집밥 예찬론자라는 '마당집' 김태희의 자기 관리 비법 & 식단 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79117</id>
-        <link href="https://www.elle.co.kr/article/79117"/>
-        <updated>2023-07-18T17:40:38.769Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전북 현대에서 덴마크 미트윌란으로! 이적 직후 조규성이 전한 영상 편지]]></title>
-        <id>https://www.elle.co.kr/article/79115</id>
-        <link href="https://www.elle.co.kr/article/79115"/>
-        <updated>2023-07-17T17:41:30.124Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/79106</id>
-        <link href="https://www.elle.co.kr/article/79106"/>
-        <updated>2023-07-13T17:40:58.696Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 23 Jul 2023 05:41:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
+            <link>https://www.elle.co.kr/article/79255</link>
+            <guid>https://www.elle.co.kr/article/79255</guid>
+            <pubDate>Fri, 21 Jul 2023 17:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[무려 7년 만.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/0678b77f-47e3-4a7a-bd73-3421854daafb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79223</link>
+            <guid>https://www.elle.co.kr/article/79223</guid>
+            <pubDate>Thu, 20 Jul 2023 17:41:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/1f2ba5a8-660d-4724-aa0b-cc5de2e67364.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
+            <link>https://www.elle.co.kr/article/79147</link>
+            <guid>https://www.elle.co.kr/article/79147</guid>
+            <pubDate>Thu, 20 Jul 2023 17:41:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/196009b7-47f9-4408-8a06-132aecaebf36.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 덕후들의 인생작]]></title>
+            <link>https://www.elle.co.kr/article/79063</link>
+            <guid>https://www.elle.co.kr/article/79063</guid>
+            <pubDate>Wed, 19 Jul 2023 17:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[한 작품을 N차 관람한 자들이 말하는 영화들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/2414cc73-aa2a-43a3-a51d-e1d6039f04e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?]]></title>
+            <link>https://www.elle.co.kr/article/79125</link>
+            <guid>https://www.elle.co.kr/article/79125</guid>
+            <pubDate>Wed, 19 Jul 2023 17:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[나오미 캠벨, 신디 크로포드, 린다 에반젤리스타, 크리스티 털링턴의 발자취를 조명한 다큐멘터리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/6b06f08c-fc2d-4ef4-8158-0c129fa3342a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집밥 예찬론자라는 '마당집' 김태희의 자기 관리 비법 & 식단 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/79117</link>
+            <guid>https://www.elle.co.kr/article/79117</guid>
+            <pubDate>Tue, 18 Jul 2023 17:40:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/d8ac32d9-3e0e-47aa-abff-ec8cfb09e0ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전북 현대에서 덴마크 미트윌란으로! 이적 직후 조규성이 전한 영상 편지]]></title>
+            <link>https://www.elle.co.kr/article/79115</link>
+            <guid>https://www.elle.co.kr/article/79115</guid>
+            <pubDate>Mon, 17 Jul 2023 17:41:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/d75b9a03-8ed2-4662-b09e-9b2cb1aad7a0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/79106</link>
+            <guid>https://www.elle.co.kr/article/79106</guid>
+            <pubDate>Thu, 13 Jul 2023 17:40:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/08103458-0249-41e7-b166-73fa17872e6f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
