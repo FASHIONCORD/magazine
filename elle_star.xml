@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-23T05:41:22.931Z</updated>
+    <updated>2023-07-23T17:42:01.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리한나와 에이셉 라키의 2세]]></title>
+        <id>https://www.elle.co.kr/article/79149</id>
+        <link href="https://www.elle.co.kr/article/79149"/>
+        <updated>2023-07-23T17:40:48.597Z</updated>
+        <content type="html"><![CDATA[또 한 명의 슈퍼스타 베이비가 탄생했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유]]></title>
         <id>https://www.elle.co.kr/article/79325</id>
@@ -46,12 +53,5 @@
         <id>https://www.elle.co.kr/article/79288</id>
         <link href="https://www.elle.co.kr/article/79288"/>
         <updated>2023-07-20T17:40:57.085Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['남남' 전혜진과 최수영, 숨길 수 없는 존재감]]></title>
-        <id>https://www.elle.co.kr/article/79241</id>
-        <link href="https://www.elle.co.kr/article/79241"/>
-        <updated>2023-07-20T17:40:57.087Z</updated>
-        <content type="html"><![CDATA[드라마 '남남'에서 철부지 엄마와 쿨한 딸로 마주한 이들.]]></content>
     </entry>
 </feed>

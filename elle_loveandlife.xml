@@ -1,69 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 05:41:22 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[떠나요, 워케이션]]></title>
-            <link>https://www.elle.co.kr/article/79148</link>
-            <guid>https://www.elle.co.kr/article/79148</guid>
-            <pubDate>Sat, 22 Jul 2023 17:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[일과 휴식 사이에서 새로운 균형을 찾고 싶다면? 산 넘고 물 건너 나에게 꼭 맞는 ‘워케이션...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이우환과 인터뷰하기 위해 찾은 호텔, 더 칼라일 뉴욕 #호텔미감]]></title>
-            <link>https://www.elle.co.kr/article/79119</link>
-            <guid>https://www.elle.co.kr/article/79119</guid>
-            <pubDate>Sat, 22 Jul 2023 05:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[1930년 맨해튼 어퍼 이스트 사이드에 문을 연 유서 깊은 호텔 더 칼라일 뉴욕.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
-            <link>https://www.elle.co.kr/article/79319</link>
-            <guid>https://www.elle.co.kr/article/79319</guid>
-            <pubDate>Fri, 21 Jul 2023 17:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전시부터 만화책방까지, 장마철 실내 데이트 핫플 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79242</link>
-            <guid>https://www.elle.co.kr/article/79242</guid>
-            <pubDate>Fri, 21 Jul 2023 17:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[브랜드 '판게아'의 그녀! 일상을 해방시키는 레티티아 후제]]></title>
-            <link>https://www.elle.co.kr/article/79062</link>
-            <guid>https://www.elle.co.kr/article/79062</guid>
-            <pubDate>Fri, 21 Jul 2023 05:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[예술적이고 직관적인 영감을 일상에 도입하며 라이프스타일 신에서 열렬한 지지를 받아온 얼굴들!...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/15fa0c2c-58b7-44e5-a749-cffe26cb3b32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘발리댁’ 가희가 알려주는 발리 여행 Tip]]></title>
-            <link>https://www.elle.co.kr/article/79190</link>
-            <guid>https://www.elle.co.kr/article/79190</guid>
-            <pubDate>Fri, 21 Jul 2023 05:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[발리에서 주의해야 하는 10가지 행동은? 현지 생활 4년 차, 가희가 알아두면 쓸모 있는 발리 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/d82fe198-f386-4160-850f-3556ce611069.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 헌법은 어떻게 만들어졌을까? 제75주년 제헌절 기념 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79166</link>
-            <guid>https://www.elle.co.kr/article/79166</guid>
-            <pubDate>Fri, 21 Jul 2023 05:41:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/a52b6dc6-ca3e-4aa5-8b6d-75a33c5588d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 아니면 즐길 수 없는 초당옥수수와 복숭아! 제철 음료 맛집 in 삼각지 #마실마실]]></title>
-            <link>https://www.elle.co.kr/article/79164</link>
-            <guid>https://www.elle.co.kr/article/79164</guid>
-            <pubDate>Fri, 21 Jul 2023 05:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 맛이 날 춤추게 해~ 삼각지에서 만난 초당옥수수 슬러시와 복숭아 사워.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/c0df9bcd-14c6-42ad-9660-a45aaeeb949f.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-07-23T17:42:01.412Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기력 회복 끝판왕! 윤은혜표 누룽지 닭백숙 레서피]]></title>
+        <id>https://www.elle.co.kr/article/79326</id>
+        <link href="https://www.elle.co.kr/article/79326"/>
+        <updated>2023-07-23T17:41:49.212Z</updated>
+        <content type="html"><![CDATA[진한 육수의 누룽지 닭백숙을 집에서? 이번 중복에는 윤은혜가 알려주는 요리비법을 따라 몸보신...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[떠나요, 워케이션]]></title>
+        <id>https://www.elle.co.kr/article/79148</id>
+        <link href="https://www.elle.co.kr/article/79148"/>
+        <updated>2023-07-22T17:41:05.752Z</updated>
+        <content type="html"><![CDATA[일과 휴식 사이에서 새로운 균형을 찾고 싶다면? 산 넘고 물 건너 나에게 꼭 맞는 ‘워케이션...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이우환과 인터뷰하기 위해 찾은 호텔, 더 칼라일 뉴욕 #호텔미감]]></title>
+        <id>https://www.elle.co.kr/article/79119</id>
+        <link href="https://www.elle.co.kr/article/79119"/>
+        <updated>2023-07-22T05:41:56.632Z</updated>
+        <content type="html"><![CDATA[1930년 맨해튼 어퍼 이스트 사이드에 문을 연 유서 깊은 호텔 더 칼라일 뉴욕.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
+        <id>https://www.elle.co.kr/article/79319</id>
+        <link href="https://www.elle.co.kr/article/79319"/>
+        <updated>2023-07-21T17:41:04.312Z</updated>
+        <content type="html"><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전시부터 만화책방까지, 장마철 실내 데이트 핫플 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/79242</id>
+        <link href="https://www.elle.co.kr/article/79242"/>
+        <updated>2023-07-21T17:41:04.314Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브랜드 '판게아'의 그녀! 일상을 해방시키는 레티티아 후제]]></title>
+        <id>https://www.elle.co.kr/article/79062</id>
+        <link href="https://www.elle.co.kr/article/79062"/>
+        <updated>2023-07-21T05:41:38.615Z</updated>
+        <content type="html"><![CDATA[예술적이고 직관적인 영감을 일상에 도입하며 라이프스타일 신에서 열렬한 지지를 받아온 얼굴들!...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘발리댁’ 가희가 알려주는 발리 여행 Tip]]></title>
+        <id>https://www.elle.co.kr/article/79190</id>
+        <link href="https://www.elle.co.kr/article/79190"/>
+        <updated>2023-07-21T05:41:38.624Z</updated>
+        <content type="html"><![CDATA[발리에서 주의해야 하는 10가지 행동은? 현지 생활 4년 차, 가희가 알아두면 쓸모 있는 발리 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한민국 헌법은 어떻게 만들어졌을까? 제75주년 제헌절 기념 명소 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/79166</id>
+        <link href="https://www.elle.co.kr/article/79166"/>
+        <updated>2023-07-21T05:41:38.626Z</updated>
+    </entry>
+</feed>

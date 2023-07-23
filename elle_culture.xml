@@ -4,23 +4,27 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 05:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 17:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약자라고 안 봐줘! 파이트 저지 모니카X셔누가 꼽은 '스우파2' 관전 포인트]]></title>
+            <link>https://www.elle.co.kr/article/79294</link>
+            <guid>https://www.elle.co.kr/article/79294</guid>
+            <pubDate>Sun, 23 Jul 2023 17:40:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
             <link>https://www.elle.co.kr/article/79255</link>
             <guid>https://www.elle.co.kr/article/79255</guid>
             <pubDate>Fri, 21 Jul 2023 17:40:31 GMT</pubDate>
             <content:encoded><![CDATA[무려 7년 만.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/0678b77f-47e3-4a7a-bd73-3421854daafb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/79223</link>
             <guid>https://www.elle.co.kr/article/79223</guid>
             <pubDate>Thu, 20 Jul 2023 17:41:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/1f2ba5a8-660d-4724-aa0b-cc5de2e67364.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
@@ -58,13 +62,6 @@
             <guid>https://www.elle.co.kr/article/79115</guid>
             <pubDate>Mon, 17 Jul 2023 17:41:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/d75b9a03-8ed2-4662-b09e-9b2cb1aad7a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/79106</link>
-            <guid>https://www.elle.co.kr/article/79106</guid>
-            <pubDate>Thu, 13 Jul 2023 17:40:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/08103458-0249-41e7-b166-73fa17872e6f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

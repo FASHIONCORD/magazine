@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 05:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 17:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
+            <link>https://www.elle.co.kr/article/78414</link>
+            <guid>https://www.elle.co.kr/article/78414</guid>
+            <pubDate>Sun, 23 Jul 2023 17:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/613ffa2d-2ef2-4519-8d00-c3ce31749e4a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버려진 쇼핑백으로 만든 소파? 비 오는 주말, 들러볼 전시 3]]></title>
             <link>https://www.elle.co.kr/article/79371</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/78946</guid>
             <pubDate>Sun, 09 Jul 2023 17:41:20 GMT</pubDate>
             <content:encoded><![CDATA[낡고 바랜 골목에서 마주친 에르메스 홈 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/50d59c40-99ef-4c15-aaf0-183fa78bcfd6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세계가 주목한 프로방스 예술, 아틀리에 빔]]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/78344</guid>
             <pubDate>Fri, 30 Jun 2023 17:43:29 GMT</pubDate>
             <content:encoded><![CDATA[파리 중심지에서 차로 1시간 남짓 달리면 도착하는 샤토 드 생브랑(Cha^teau de Saint-Vrain). ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바비의 핑크빛 드림하우스에서 하룻밤을? 심지어 모든 것이 무료!]]></title>
-            <link>https://www.elle.co.kr/article/78767</link>
-            <guid>https://www.elle.co.kr/article/78767</guid>
-            <pubDate>Wed, 28 Jun 2023 17:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[말리부 해안선이 내려다보이는 대저택을 전세 낼 수 있는 절호의 기회.]]></content:encoded>
         </item>
     </channel>
 </rss>
