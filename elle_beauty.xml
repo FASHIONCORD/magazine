@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 05:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 17:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘뷰잘알’ 이사배 픽! 삶의 질을 높이는 여름 뷰티템 9]]></title>
+            <link>https://www.elle.co.kr/article/79226</link>
+            <guid>https://www.elle.co.kr/article/79226</guid>
+            <pubDate>Mon, 24 Jul 2023 17:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[끈적끈적 습하고 더운 날씨 때문에 신경 써야 할 것들이 더 많아지는 여름을 위해 이사배의 ‘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/de03d7b6-68a1-4658-93e8-2bf777273190.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고물가 극복 프로젝트! 1만 원 이하 초가성비 화장품 List 6_선배’s 어드바이스 #177]]></title>
             <link>https://www.elle.co.kr/article/79203</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 17 Jul 2023 05:41:01 GMT</pubDate>
             <content:encoded><![CDATA[무더위에 한껏 달아오른 피부를 차갑게 식혀줄 ‘쿨’한 뷰티템 7.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/2a044f7d-5654-4f7b-8c2d-b04f4275eb0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 자꾸 실패하는 사람들의 공통점 #다이어터디터]]></title>
-            <link>https://www.elle.co.kr/article/79086</link>
-            <guid>https://www.elle.co.kr/article/79086</guid>
-            <pubDate>Sat, 15 Jul 2023 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[-22kg 감량 성공한 에디터의 조언]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/f260e08f-f2c1-4b3c-bb3e-72fc0f50f49f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
