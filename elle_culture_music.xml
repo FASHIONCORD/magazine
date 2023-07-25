@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 05:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 17:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/79434</link>
+            <guid>https://www.elle.co.kr/article/79434</guid>
+            <pubDate>Tue, 25 Jul 2023 17:41:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/2a9887ca-816c-4ea6-90b0-fbc36ed50393.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유]]></title>
             <link>https://www.elle.co.kr/article/79325</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/78808</link>
             <guid>https://www.elle.co.kr/article/78808</guid>
             <pubDate>Fri, 30 Jun 2023 05:41:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/4531ae00-52a1-4ece-b3d9-ca615fba934f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연기-연예-가요대상급 관객석! 브루노 마스 내한 콘서트 관람 포착된 셀럽은?]]></title>
@@ -87,13 +93,6 @@
             <guid>https://www.elle.co.kr/article/77909</guid>
             <pubDate>Fri, 26 May 2023 17:40:33 GMT</pubDate>
             <content:encoded><![CDATA[김윤아와 카더가든, 10cm가 꾸민 90분 간의 라이브 밴드 무대.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이토록 앙증맞은 레코더, 지금은 패션 브랜드로 거듭난 ‘이곳’에서 만들었다고?]]></title>
-            <link>https://www.elle.co.kr/article/77654</link>
-            <guid>https://www.elle.co.kr/article/77654</guid>
-            <pubDate>Thu, 18 May 2023 17:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[아크네 스튜디오의 전신에서 출발한 스톡홀름 기반 오디오 브랜드, 틴에이지 엔지니어링.]]></content:encoded>
         </item>
     </channel>
 </rss>
