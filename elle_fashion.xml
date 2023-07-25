@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-24T17:41:56.541Z</updated>
+    <updated>2023-07-25T05:41:12.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금발이 너무해]]></title>
+        <id>https://www.elle.co.kr/article/78902</id>
+        <link href="https://www.elle.co.kr/article/78902"/>
+        <updated>2023-07-25T05:39:58.878Z</updated>
+        <content type="html"><![CDATA[아이돌 헤어 따라잡기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에리얼이 왜 거기서 나와!]]></title>
         <id>https://www.elle.co.kr/article/78574</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79048"/>
         <updated>2023-07-19T05:40:09.425Z</updated>
         <content type="html"><![CDATA[여름 감성 넘치는 해변 여행을 위하여.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[훤히 보이는 틴티드 선글라스]]></title>
-        <id>https://www.elle.co.kr/article/79002</id>
-        <link href="https://www.elle.co.kr/article/79002"/>
-        <updated>2023-07-18T17:40:05.416Z</updated>
-        <content type="html"><![CDATA[무더운 여름, 눈이 보여서 더 시원해!]]></content>
     </entry>
 </feed>
