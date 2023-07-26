@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-26T05:42:00.827Z</updated>
+    <updated>2023-07-26T17:41:10.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두툼한 플랫폼 슈즈의 매력]]></title>
+        <id>https://www.elle.co.kr/article/79297</id>
+        <link href="https://www.elle.co.kr/article/79297"/>
+        <updated>2023-07-26T17:39:45.676Z</updated>
+        <content type="html"><![CDATA[올여름에도 강세를 보이는 플랫폼 슈즈! 다리를 더 길고 아름답게 보이도록 하는 데일리룩 치트...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금발이 너무해]]></title>
         <id>https://www.elle.co.kr/article/78902</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79207"/>
         <updated>2023-07-19T17:40:33.083Z</updated>
         <content type="html"><![CDATA[K 팝스타의 비주얼을 기획하고 감독하는 비주얼 디렉터 김소연이 애정하는 물건과 그 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해변의 양탄자, 비치타올]]></title>
-        <id>https://www.elle.co.kr/article/79048</id>
-        <link href="https://www.elle.co.kr/article/79048"/>
-        <updated>2023-07-19T05:40:09.425Z</updated>
-        <content type="html"><![CDATA[여름 감성 넘치는 해변 여행을 위하여.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-07-26T05:42:00.825Z</updated>
+    <updated>2023-07-26T17:41:10.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
+        <id>https://www.elle.co.kr/article/78414</id>
+        <link href="https://www.elle.co.kr/article/78414"/>
+        <updated>2023-07-26T17:40:59.013Z</updated>
+        <content type="html"><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교토에 우뚝 선 아사이 교토 시조 호텔]]></title>
+        <id>https://www.elle.co.kr/article/79134</id>
+        <link href="https://www.elle.co.kr/article/79134"/>
+        <updated>2023-07-26T17:40:59.018Z</updated>
+        <content type="html"><![CDATA[일본과 태국을 넘나드는 경험을 선사해 줄 아사이 교토 시조로 향하다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘쉼’이 필요한 스타들의 제주살이 3]]></title>
         <id>https://www.elle.co.kr/article/79373</id>
@@ -45,18 +59,5 @@
         <link href="https://www.elle.co.kr/article/79119"/>
         <updated>2023-07-22T05:41:56.632Z</updated>
         <content type="html"><![CDATA[1930년 맨해튼 어퍼 이스트 사이드에 문을 연 유서 깊은 호텔 더 칼라일 뉴욕.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
-        <id>https://www.elle.co.kr/article/79319</id>
-        <link href="https://www.elle.co.kr/article/79319"/>
-        <updated>2023-07-21T17:41:04.312Z</updated>
-        <content type="html"><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전시부터 만화책방까지, 장마철 실내 데이트 핫플 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/79242</id>
-        <link href="https://www.elle.co.kr/article/79242"/>
-        <updated>2023-07-21T17:41:04.314Z</updated>
     </entry>
 </feed>

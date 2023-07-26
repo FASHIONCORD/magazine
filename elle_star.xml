@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-26T05:42:00.807Z</updated>
+    <updated>2023-07-26T17:41:10.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[표정에서 느껴지는 '찐' 행복? 최자가 전한 탄자니아 신혼여행 리얼 후기]]></title>
+        <id>https://www.elle.co.kr/article/79435</id>
+        <link href="https://www.elle.co.kr/article/79435"/>
+        <updated>2023-07-26T17:40:08.154Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리 열연에 역대급 반전까지! '악귀' 후반부 관전 포인트 2 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79422</id>
+        <link href="https://www.elle.co.kr/article/79422"/>
+        <updated>2023-07-26T17:40:08.156Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최초 공개! 평화 그 자체인 에이핑크 윤보미의 3층 전원주택.avi]]></title>
+        <id>https://www.elle.co.kr/article/79408</id>
+        <link href="https://www.elle.co.kr/article/79408"/>
+        <updated>2023-07-26T17:40:08.161Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소현과 황민현이 그린 동화]]></title>
         <id>https://www.elle.co.kr/article/79320</id>
@@ -37,24 +55,5 @@
         <link href="https://www.elle.co.kr/article/79244"/>
         <updated>2023-07-24T17:40:54.748Z</updated>
         <content type="html"><![CDATA[자신만의 속도로 필모그래피를 쌓아가고 있는 윤서의 시간.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리한나와 에이셉 라키의 2세]]></title>
-        <id>https://www.elle.co.kr/article/79149</id>
-        <link href="https://www.elle.co.kr/article/79149"/>
-        <updated>2023-07-23T17:40:48.597Z</updated>
-        <content type="html"><![CDATA[또 한 명의 슈퍼스타 베이비가 탄생했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유]]></title>
-        <id>https://www.elle.co.kr/article/79325</id>
-        <link href="https://www.elle.co.kr/article/79325"/>
-        <updated>2023-07-22T05:40:28.147Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그 누구보다도 알차게 청룡어워즈 즐긴 '환연2' 해은-현규 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/79322</id>
-        <link href="https://www.elle.co.kr/article/79322"/>
-        <updated>2023-07-21T17:40:23.205Z</updated>
     </entry>
 </feed>
