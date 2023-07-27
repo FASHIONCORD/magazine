@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-07-27T05:42:06.495Z</updated>
+    <updated>2023-07-27T17:41:10.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시인이 운영하는 식물 가게, 큐이디]]></title>
+        <id>https://www.elle.co.kr/article/79132</id>
+        <link href="https://www.elle.co.kr/article/79132"/>
+        <updated>2023-07-27T17:40:21.421Z</updated>
+        <content type="html"><![CDATA['시인이 운영하는 식물 가게'라는 문장은 단어의 나열만으로도 한 편의 시처럼 다가온다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리 열연에 역대급 반전까지! '악귀' 후반부 관전 포인트 2 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79422</id>
+        <link href="https://www.elle.co.kr/article/79422"/>
+        <updated>2023-07-27T17:40:21.423Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중요한 건 꺾여도 이겨내는 마음: 콜롬비아전 앞둔 조소현-홍혜지의 각오]]></title>
+        <id>https://www.elle.co.kr/article/79407</id>
+        <link href="https://www.elle.co.kr/article/79407"/>
+        <updated>2023-07-27T17:40:21.424Z</updated>
+        <content type="html"><![CDATA[한국 여자 축구의 '황금 세대', 대표팀 조소현과 홍혜지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
         <id>https://www.elle.co.kr/article/78414</id>
@@ -37,24 +57,5 @@
         <id>https://www.elle.co.kr/article/79295</id>
         <link href="https://www.elle.co.kr/article/79295"/>
         <updated>2023-07-24T17:41:06.829Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약자라고 안 봐줘! 파이트 저지 모니카X셔누가 꼽은 '스우파2' 관전 포인트]]></title>
-        <id>https://www.elle.co.kr/article/79294</id>
-        <link href="https://www.elle.co.kr/article/79294"/>
-        <updated>2023-07-23T17:40:58.901Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
-        <id>https://www.elle.co.kr/article/79255</id>
-        <link href="https://www.elle.co.kr/article/79255"/>
-        <updated>2023-07-21T17:40:31.753Z</updated>
-        <content type="html"><![CDATA[무려 7년 만.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/79223</id>
-        <link href="https://www.elle.co.kr/article/79223"/>
-        <updated>2023-07-20T17:41:08.737Z</updated>
     </entry>
 </feed>

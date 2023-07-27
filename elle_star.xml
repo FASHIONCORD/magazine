@@ -2,9 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-27T05:42:06.465Z</updated>
+    <updated>2023-07-27T17:41:10.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이렇게 풋풋할 수는 없어! 넷플릭스 열아홉스물 19/20 주인공들의 생애 첫 화보]]></title>
+        <id>https://www.elle.co.kr/article/79337</id>
+        <link href="https://www.elle.co.kr/article/79337"/>
+        <updated>2023-07-27T17:40:10.895Z</updated>
+        <content type="html"><![CDATA[열아홉의 마지막과 스무 살의 첫날을 함께 보낸 열아홉스물의 열 사람. 그 반짝이는 마음이 폭...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손예진이 공개한 '생후 8개월' 아들 근황 (ft.이민정 댓글)]]></title>
+        <id>https://www.elle.co.kr/article/79478</id>
+        <link href="https://www.elle.co.kr/article/79478"/>
+        <updated>2023-07-27T17:40:10.900Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[운동 없이 -8kg! 소유가 공개한 '무탄고지' 식단은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/79477</id>
+        <link href="https://www.elle.co.kr/article/79477"/>
+        <updated>2023-07-27T17:40:10.902Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 19/20 (열아홉 스물) 주인공들의 생애 첫 화보]]></title>
+        <id>https://www.elle.co.kr/article/79437</id>
+        <link href="https://www.elle.co.kr/article/79437"/>
+        <updated>2023-07-27T17:40:10.904Z</updated>
+        <content type="html"><![CDATA[열아홉의 마지막과 스무 살의 첫날을 함께 보낸 19/20의 열 사람, 그 반짝이는 마음이 폭죽처럼...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지수는 닻을 내린 배처럼 단단하다. 흔들림 없이 항해하는 지수의 마음]]></title>
+        <id>https://www.elle.co.kr/article/79272</id>
+        <link href="https://www.elle.co.kr/article/79272"/>
+        <updated>2023-07-27T17:40:10.907Z</updated>
+        <content type="html"><![CDATA[일렁이는 질문과 호기심 어린 시선 속에서도 지수는 망설임 없이 나아간다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[표정에서 느껴지는 '찐' 행복? 최자가 전한 탄자니아 신혼여행 리얼 후기]]></title>
         <id>https://www.elle.co.kr/article/79435</id>
@@ -22,38 +55,5 @@
         <id>https://www.elle.co.kr/article/79408</id>
         <link href="https://www.elle.co.kr/article/79408"/>
         <updated>2023-07-26T17:40:08.161Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소현과 황민현이 그린 동화]]></title>
-        <id>https://www.elle.co.kr/article/79320</id>
-        <link href="https://www.elle.co.kr/article/79320"/>
-        <updated>2023-07-26T05:40:41.928Z</updated>
-        <content type="html"><![CDATA[드라마 '소용없어 거짓말'에서 로맨틱한 순간 속 마주한 두 사람.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쉼’이 필요한 스타들의 제주살이 3]]></title>
-        <id>https://www.elle.co.kr/article/79373</id>
-        <link href="https://www.elle.co.kr/article/79373"/>
-        <updated>2023-07-25T17:40:43.737Z</updated>
-        <content type="html"><![CDATA[최소 보름부터 두 달까지, 도시의 분주한 일상에 잠시 쉼표를 찍고 소소한 행복을 찾아 제주로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스가 선배 아이유에게 감사 인사를?]]></title>
-        <id>https://www.elle.co.kr/article/79353</id>
-        <link href="https://www.elle.co.kr/article/79353"/>
-        <updated>2023-07-25T17:40:43.739Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유빈-권순우, 공개 열애 시작 후 첫 테니스장 럽스타.jpg]]></title>
-        <id>https://www.elle.co.kr/article/79341</id>
-        <link href="https://www.elle.co.kr/article/79341"/>
-        <updated>2023-07-24T17:40:54.746Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<엘르 워치> 커버걸이 된 배우 노윤서]]></title>
-        <id>https://www.elle.co.kr/article/79244</id>
-        <link href="https://www.elle.co.kr/article/79244"/>
-        <updated>2023-07-24T17:40:54.748Z</updated>
-        <content type="html"><![CDATA[자신만의 속도로 필모그래피를 쌓아가고 있는 윤서의 시간.]]></content>
     </entry>
 </feed>

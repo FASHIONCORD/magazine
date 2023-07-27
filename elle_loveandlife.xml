@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/loveandlife</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-07-27T05:42:06.478Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
-        <id>https://www.elle.co.kr/article/78414</id>
-        <link href="https://www.elle.co.kr/article/78414"/>
-        <updated>2023-07-26T17:40:59.013Z</updated>
-        <content type="html"><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교토에 우뚝 선 아사이 교토 시조 호텔]]></title>
-        <id>https://www.elle.co.kr/article/79134</id>
-        <link href="https://www.elle.co.kr/article/79134"/>
-        <updated>2023-07-26T17:40:59.018Z</updated>
-        <content type="html"><![CDATA[일본과 태국을 넘나드는 경험을 선사해 줄 아사이 교토 시조로 향하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쉼’이 필요한 스타들의 제주살이 3]]></title>
-        <id>https://www.elle.co.kr/article/79373</id>
-        <link href="https://www.elle.co.kr/article/79373"/>
-        <updated>2023-07-26T05:41:43.417Z</updated>
-        <content type="html"><![CDATA[최소 보름부터 두 달까지, 도시의 분주한 일상에 잠시 쉼표를 찍고 소소한 행복을 찾아 제주로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라스베이거스에서 오감만족 하는 방법]]></title>
-        <id>https://www.elle.co.kr/article/79143</id>
-        <link href="https://www.elle.co.kr/article/79143"/>
-        <updated>2023-07-25T17:42:05.050Z</updated>
-        <content type="html"><![CDATA[메마른 오감을 채워주는 본격적인 여행지, 라스베이거스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름 담장 위에 펼쳐진 주황빛 물결! 전국 능소화 명소 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/79352</id>
-        <link href="https://www.elle.co.kr/article/79352"/>
-        <updated>2023-07-25T17:42:05.051Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기력 회복 끝판왕! 윤은혜표 누룽지 닭백숙 레서피]]></title>
-        <id>https://www.elle.co.kr/article/79326</id>
-        <link href="https://www.elle.co.kr/article/79326"/>
-        <updated>2023-07-23T17:41:49.212Z</updated>
-        <content type="html"><![CDATA[진한 육수의 누룽지 닭백숙을 집에서? 이번 중복에는 윤은혜가 알려주는 요리비법을 따라 몸보신...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떠나요, 워케이션]]></title>
-        <id>https://www.elle.co.kr/article/79148</id>
-        <link href="https://www.elle.co.kr/article/79148"/>
-        <updated>2023-07-22T17:41:05.752Z</updated>
-        <content type="html"><![CDATA[일과 휴식 사이에서 새로운 균형을 찾고 싶다면? 산 넘고 물 건너 나에게 꼭 맞는 ‘워케이션...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이우환과 인터뷰하기 위해 찾은 호텔, 더 칼라일 뉴욕 #호텔미감]]></title>
-        <id>https://www.elle.co.kr/article/79119</id>
-        <link href="https://www.elle.co.kr/article/79119"/>
-        <updated>2023-07-22T05:41:56.632Z</updated>
-        <content type="html"><![CDATA[1930년 맨해튼 어퍼 이스트 사이드에 문을 연 유서 깊은 호텔 더 칼라일 뉴욕.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Jul 2023 17:41:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
+            <link>https://www.elle.co.kr/article/78414</link>
+            <guid>https://www.elle.co.kr/article/78414</guid>
+            <pubDate>Wed, 26 Jul 2023 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/613ffa2d-2ef2-4519-8d00-c3ce31749e4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교토에 우뚝 선 아사이 교토 시조 호텔]]></title>
+            <link>https://www.elle.co.kr/article/79134</link>
+            <guid>https://www.elle.co.kr/article/79134</guid>
+            <pubDate>Wed, 26 Jul 2023 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[일본과 태국을 넘나드는 경험을 선사해 줄 아사이 교토 시조로 향하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/23/c9275f16-0e52-4533-b891-0c88819678ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘쉼’이 필요한 스타들의 제주살이 3]]></title>
+            <link>https://www.elle.co.kr/article/79373</link>
+            <guid>https://www.elle.co.kr/article/79373</guid>
+            <pubDate>Wed, 26 Jul 2023 05:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[최소 보름부터 두 달까지, 도시의 분주한 일상에 잠시 쉼표를 찍고 소소한 행복을 찾아 제주로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/03a3e6cd-089c-4f5d-8f2d-cab011ab6f68.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라스베이거스에서 오감만족 하는 방법]]></title>
+            <link>https://www.elle.co.kr/article/79143</link>
+            <guid>https://www.elle.co.kr/article/79143</guid>
+            <pubDate>Tue, 25 Jul 2023 17:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[메마른 오감을 채워주는 본격적인 여행지, 라스베이거스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/0eee4e1c-6801-427e-b18c-00991824dd26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 담장 위에 펼쳐진 주황빛 물결! 전국 능소화 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/79352</link>
+            <guid>https://www.elle.co.kr/article/79352</guid>
+            <pubDate>Tue, 25 Jul 2023 17:42:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/3decfbf7-cbe5-4727-b9e9-87e5a6ca5daf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기력 회복 끝판왕! 윤은혜표 누룽지 닭백숙 레서피]]></title>
+            <link>https://www.elle.co.kr/article/79326</link>
+            <guid>https://www.elle.co.kr/article/79326</guid>
+            <pubDate>Sun, 23 Jul 2023 17:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[진한 육수의 누룽지 닭백숙을 집에서? 이번 중복에는 윤은혜가 알려주는 요리비법을 따라 몸보신...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/7b9714f7-b206-4b0b-bd44-004f5a5fb6b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[떠나요, 워케이션]]></title>
+            <link>https://www.elle.co.kr/article/79148</link>
+            <guid>https://www.elle.co.kr/article/79148</guid>
+            <pubDate>Sat, 22 Jul 2023 17:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[일과 휴식 사이에서 새로운 균형을 찾고 싶다면? 산 넘고 물 건너 나에게 꼭 맞는 ‘워케이션...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/29922abf-9701-4eb0-8574-d04606ea58b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이우환과 인터뷰하기 위해 찾은 호텔, 더 칼라일 뉴욕 #호텔미감]]></title>
+            <link>https://www.elle.co.kr/article/79119</link>
+            <guid>https://www.elle.co.kr/article/79119</guid>
+            <pubDate>Sat, 22 Jul 2023 05:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[1930년 맨해튼 어퍼 이스트 사이드에 문을 연 유서 깊은 호텔 더 칼라일 뉴욕.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/37aae5ee-1b29-4354-9664-6eb191bb333d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

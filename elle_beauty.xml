@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-07-27T05:42:06.494Z</updated>
+    <updated>2023-07-27T17:41:10.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소유의 꿀 바른 듯한 피부 비결은? 물광 스킨케어 루틴 Tip]]></title>
+        <id>https://www.elle.co.kr/article/79257</id>
+        <link href="https://www.elle.co.kr/article/79257"/>
+        <updated>2023-07-27T17:40:00.343Z</updated>
+        <content type="html"><![CDATA[피부관리숍에 가지 않아도 반짝반짝 ‘광’나는 피부를 유지하는 비법을 지금 확인해 보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름을 위한 블러셔 쇼핑]]></title>
         <id>https://www.elle.co.kr/article/79174</id>
@@ -53,11 +60,5 @@
         <link href="https://www.elle.co.kr/article/78987"/>
         <updated>2023-07-18T05:40:17.716Z</updated>
         <content type="html"><![CDATA[손끝과 발끝에 물든 뜨겁고 강렬한 여름의 색채.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미지 변신 성공한 브브걸 유정, 건강미의 비결은 이 운동?  #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79139</id>
-        <link href="https://www.elle.co.kr/article/79139"/>
-        <updated>2023-07-17T05:41:01.280Z</updated>
     </entry>
 </feed>
