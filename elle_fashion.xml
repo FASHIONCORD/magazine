@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-07-26T17:41:10.563Z</updated>
+    <updated>2023-07-27T05:42:06.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름 맛 테이블 웨어]]></title>
+        <id>https://www.elle.co.kr/article/79136</id>
+        <link href="https://www.elle.co.kr/article/79136"/>
+        <updated>2023-07-27T05:40:31.235Z</updated>
+        <content type="html"><![CDATA[찬란한 햇살을 머금은 여름 맛 테이블웨어.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
+        <id>https://www.elle.co.kr/article/79319</id>
+        <link href="https://www.elle.co.kr/article/79319"/>
+        <updated>2023-07-27T05:40:31.237Z</updated>
+        <content type="html"><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두툼한 플랫폼 슈즈의 매력]]></title>
         <id>https://www.elle.co.kr/article/79297</id>
@@ -46,19 +60,5 @@
         <link href="https://www.elle.co.kr/article/79240"/>
         <updated>2023-07-20T05:40:22.344Z</updated>
         <content type="html"><![CDATA[주렁주렁 대신 딱 하나! 헤일리 비버의 주얼리 연출법을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[깅엄 체크 아이템 마스터!]]></title>
-        <id>https://www.elle.co.kr/article/79193</id>
-        <link href="https://www.elle.co.kr/article/79193"/>
-        <updated>2023-07-19T17:40:33.082Z</updated>
-        <content type="html"><![CDATA[산뜻한 깅엄 체크를 입고 피크닉 갈 시간.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #4 비주얼 디렉터 김소연]]></title>
-        <id>https://www.elle.co.kr/article/79207</id>
-        <link href="https://www.elle.co.kr/article/79207"/>
-        <updated>2023-07-19T17:40:33.083Z</updated>
-        <content type="html"><![CDATA[K 팝스타의 비주얼을 기획하고 감독하는 비주얼 디렉터 김소연이 애정하는 물건과 그 이유.]]></content>
     </entry>
 </feed>

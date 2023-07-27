@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 17:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 05:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소비자에서 생산자로! 당신은 회사 밖에서 어떤 일을 하고 있나요?_돈쓸신잡 #106]]></title>
+            <link>https://www.elle.co.kr/article/79146</link>
+            <guid>https://www.elle.co.kr/article/79146</guid>
+            <pubDate>Thu, 27 Jul 2023 05:42:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/0c8f4797-aa3c-4f96-be8b-685553103501.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초록빛깔 파타고니아!]]></title>
             <link>https://www.elle.co.kr/article/78670</link>
@@ -59,13 +66,6 @@
             <pubDate>Fri, 07 Jul 2023 17:42:10 GMT</pubDate>
             <content:encoded><![CDATA[강하고 프로페셔널한 여자들이 우리에게 제시한 어떤 멋진 미래.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/7f07d4d2-85bf-4e70-92fb-45bd460facf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대한민국 국적 오픈리 레즈비언 유부녀' 김규진의 임신 이야기]]></title>
-            <link>https://www.elle.co.kr/article/78841</link>
-            <guid>https://www.elle.co.kr/article/78841</guid>
-            <pubDate>Thu, 06 Jul 2023 05:44:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/91d666aa-c307-458e-8a39-44722fe2d6f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
