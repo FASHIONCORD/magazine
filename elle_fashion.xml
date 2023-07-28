@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 05:42:19 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
-            <link>https://www.elle.co.kr/article/79502</link>
-            <guid>https://www.elle.co.kr/article/79502</guid>
-            <pubDate>Fri, 28 Jul 2023 05:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/fb1cf0dc-976e-4b84-9aef-52fce304095b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누구세요? 몰라볼 정도로 청순해진 카일리 제너]]></title>
-            <link>https://www.elle.co.kr/article/79487</link>
-            <guid>https://www.elle.co.kr/article/79487</guid>
-            <pubDate>Fri, 28 Jul 2023 05:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[낯설지만 오히려 좋아.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/70def440-56d5-425a-b069-1291222e32b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셔츠 덕후라면 주목! 여름을 위한 화이트 셔츠 패션 5]]></title>
-            <link>https://www.elle.co.kr/article/79484</link>
-            <guid>https://www.elle.co.kr/article/79484</guid>
-            <pubDate>Fri, 28 Jul 2023 05:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[에어컨 빵빵한 실내에서 걸쳐도 좋고 햇볕이 내리쬐는 야외에서 활용해도 좋은 화이트 셔츠. 일...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/ee514445-740c-4089-a71c-da5b2e18748d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이 비통 파라솔, 디올 선베드와 즐기는 휴가! 패션 브랜드의 여름 맞이 팝업 스토어 5]]></title>
-            <link>https://www.elle.co.kr/article/79481</link>
-            <guid>https://www.elle.co.kr/article/79481</guid>
-            <pubDate>Thu, 27 Jul 2023 17:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[자크뮈스, 디올, 루이 비통, 펜디, 구찌의 여름나기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/44a29925-a707-4650-9728-8d01d7540b20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름을 위한 모자 스타일 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/79425</link>
-            <guid>https://www.elle.co.kr/article/79425</guid>
-            <pubDate>Thu, 27 Jul 2023 17:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[볼캡부터 스트로 햇까지! 스타일 지수를 높이는 멋지고 실용적인 모자 스타일을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/e20429c9-49a2-4b28-977c-9bcd40639453.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치아 위 반짝반짝 빛나는 #투스젬]]></title>
-            <link>https://www.elle.co.kr/article/79380</link>
-            <guid>https://www.elle.co.kr/article/79380</guid>
-            <pubDate>Thu, 27 Jul 2023 17:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[충치 아님 주의! 치아를 점령한 투스젬으로 힙하고 화려한 인상을 연출한 스타들을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/9d5a19fb-53bb-4731-af34-badfdbfd1382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 맛 테이블 웨어]]></title>
-            <link>https://www.elle.co.kr/article/79136</link>
-            <guid>https://www.elle.co.kr/article/79136</guid>
-            <pubDate>Thu, 27 Jul 2023 05:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[찬란한 햇살을 머금은 여름 맛 테이블웨어.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/23/8c86e204-8f1e-4494-96f3-30d5fa41a8cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
-            <link>https://www.elle.co.kr/article/79319</link>
-            <guid>https://www.elle.co.kr/article/79319</guid>
-            <pubDate>Thu, 27 Jul 2023 05:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/0b5d3a61-1f90-42cb-b348-6d7f4eb4e955.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-07-28T17:41:19.680Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에디 슬리먼이 해석한 인디 슬리즈 정신]]></title>
+        <id>https://www.elle.co.kr/article/79521</id>
+        <link href="https://www.elle.co.kr/article/79521"/>
+        <updated>2023-07-28T17:40:02.783Z</updated>
+        <content type="html"><![CDATA[LA 윌턴 극장을 가득 메운 셀린느 2023 F/W 쇼의 열기.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
+        <id>https://www.elle.co.kr/article/79502</id>
+        <link href="https://www.elle.co.kr/article/79502"/>
+        <updated>2023-07-28T05:40:45.526Z</updated>
+        <content type="html"><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누구세요? 몰라볼 정도로 청순해진 카일리 제너]]></title>
+        <id>https://www.elle.co.kr/article/79487</id>
+        <link href="https://www.elle.co.kr/article/79487"/>
+        <updated>2023-07-28T05:40:45.529Z</updated>
+        <content type="html"><![CDATA[낯설지만 오히려 좋아.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셔츠 덕후라면 주목! 여름을 위한 화이트 셔츠 패션 5]]></title>
+        <id>https://www.elle.co.kr/article/79484</id>
+        <link href="https://www.elle.co.kr/article/79484"/>
+        <updated>2023-07-28T05:40:45.531Z</updated>
+        <content type="html"><![CDATA[에어컨 빵빵한 실내에서 걸쳐도 좋고 햇볕이 내리쬐는 야외에서 활용해도 좋은 화이트 셔츠. 일...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루이 비통 파라솔, 디올 선베드와 즐기는 휴가! 패션 브랜드의 여름 맞이 팝업 스토어 5]]></title>
+        <id>https://www.elle.co.kr/article/79481</id>
+        <link href="https://www.elle.co.kr/article/79481"/>
+        <updated>2023-07-27T17:39:48.530Z</updated>
+        <content type="html"><![CDATA[자크뮈스, 디올, 루이 비통, 펜디, 구찌의 여름나기.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름을 위한 모자 스타일 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/79425</id>
+        <link href="https://www.elle.co.kr/article/79425"/>
+        <updated>2023-07-27T17:39:48.536Z</updated>
+        <content type="html"><![CDATA[볼캡부터 스트로 햇까지! 스타일 지수를 높이는 멋지고 실용적인 모자 스타일을 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치아 위 반짝반짝 빛나는 #투스젬]]></title>
+        <id>https://www.elle.co.kr/article/79380</id>
+        <link href="https://www.elle.co.kr/article/79380"/>
+        <updated>2023-07-27T17:39:48.540Z</updated>
+        <content type="html"><![CDATA[충치 아님 주의! 치아를 점령한 투스젬으로 힙하고 화려한 인상을 연출한 스타들을 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름 맛 테이블 웨어]]></title>
+        <id>https://www.elle.co.kr/article/79136</id>
+        <link href="https://www.elle.co.kr/article/79136"/>
+        <updated>2023-07-27T05:40:31.235Z</updated>
+        <content type="html"><![CDATA[찬란한 햇살을 머금은 여름 맛 테이블웨어.]]></content>
+    </entry>
+</feed>

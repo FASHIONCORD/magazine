@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-07-28T05:42:19.567Z</updated>
+    <updated>2023-07-28T17:41:19.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
+        <id>https://www.elle.co.kr/article/79502</id>
+        <link href="https://www.elle.co.kr/article/79502"/>
+        <updated>2023-07-28T17:40:23.379Z</updated>
+        <content type="html"><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이렇게 풋풋할 수는 없어! 넷플릭스 열아홉스물 19/20 주인공들의 생애 첫 화보]]></title>
         <id>https://www.elle.co.kr/article/79337</id>
@@ -49,11 +56,5 @@
         <id>https://www.elle.co.kr/article/79422</id>
         <link href="https://www.elle.co.kr/article/79422"/>
         <updated>2023-07-26T17:40:08.156Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최초 공개! 평화 그 자체인 에이핑크 윤보미의 3층 전원주택.avi]]></title>
-        <id>https://www.elle.co.kr/article/79408</id>
-        <link href="https://www.elle.co.kr/article/79408"/>
-        <updated>2023-07-26T17:40:08.161Z</updated>
     </entry>
 </feed>
