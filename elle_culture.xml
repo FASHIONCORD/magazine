@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 05:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 17:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
+            <link>https://www.elle.co.kr/article/79502</link>
+            <guid>https://www.elle.co.kr/article/79502</guid>
+            <pubDate>Sat, 29 Jul 2023 17:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/fb1cf0dc-976e-4b84-9aef-52fce304095b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/79434</link>
+            <guid>https://www.elle.co.kr/article/79434</guid>
+            <pubDate>Sat, 29 Jul 2023 17:41:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/2a9887ca-816c-4ea6-90b0-fbc36ed50393.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박물관이 살아있다]]></title>
             <link>https://www.elle.co.kr/article/78409</link>
@@ -53,21 +68,6 @@
             <pubDate>Tue, 25 Jul 2023 05:40:26 GMT</pubDate>
             <content:encoded><![CDATA[사카모토 류이치부터 '진격의 거인'까지, 취향껏 골라 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/9d8886a2-98c7-45b9-937e-978e0c168081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유]]></title>
-            <link>https://www.elle.co.kr/article/79325</link>
-            <guid>https://www.elle.co.kr/article/79325</guid>
-            <pubDate>Mon, 24 Jul 2023 17:41:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/f12fc349-f3aa-4a0b-8e61-c7fea618cb41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좌우가 다른 오드삭스, 요즘 제일 뜨거운 ‘최강야구’와 만났다!]]></title>
-            <link>https://www.elle.co.kr/article/79319</link>
-            <guid>https://www.elle.co.kr/article/79319</guid>
-            <pubDate>Mon, 24 Jul 2023 17:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[더현대 서울에서 단 10일간 펼쳐지는 최강 팝업스토어의 정체는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/0b5d3a61-1f90-42cb-b348-6d7f4eb4e955.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

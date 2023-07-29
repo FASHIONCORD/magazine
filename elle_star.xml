@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 05:41:40 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
-            <link>https://www.elle.co.kr/article/79502</link>
-            <guid>https://www.elle.co.kr/article/79502</guid>
-            <pubDate>Fri, 28 Jul 2023 17:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/fb1cf0dc-976e-4b84-9aef-52fce304095b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 풋풋할 수는 없어! 넷플릭스 열아홉스물 19/20 주인공들의 생애 첫 화보]]></title>
-            <link>https://www.elle.co.kr/article/79337</link>
-            <guid>https://www.elle.co.kr/article/79337</guid>
-            <pubDate>Thu, 27 Jul 2023 17:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[열아홉의 마지막과 스무 살의 첫날을 함께 보낸 열아홉스물의 열 사람. 그 반짝이는 마음이 폭...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/2b647b53-4bf6-4efb-bf1d-1f4f2c6aeca9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손예진이 공개한 '생후 8개월' 아들 근황 (ft.이민정 댓글)]]></title>
-            <link>https://www.elle.co.kr/article/79478</link>
-            <guid>https://www.elle.co.kr/article/79478</guid>
-            <pubDate>Thu, 27 Jul 2023 17:40:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/afb8fba2-f9e9-4d10-84bf-4924084138be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운동 없이 -8kg! 소유가 공개한 '무탄고지' 식단은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/79477</link>
-            <guid>https://www.elle.co.kr/article/79477</guid>
-            <pubDate>Thu, 27 Jul 2023 17:40:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/17314d6a-4b40-4c50-98c4-3bc7a8c65322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 19/20 (열아홉 스물) 주인공들의 생애 첫 화보]]></title>
-            <link>https://www.elle.co.kr/article/79437</link>
-            <guid>https://www.elle.co.kr/article/79437</guid>
-            <pubDate>Thu, 27 Jul 2023 17:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[열아홉의 마지막과 스무 살의 첫날을 함께 보낸 19/20의 열 사람, 그 반짝이는 마음이 폭죽처럼...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/fb92e7d9-c756-4713-b0eb-7731fa5104ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지수는 닻을 내린 배처럼 단단하다. 흔들림 없이 항해하는 지수의 마음]]></title>
-            <link>https://www.elle.co.kr/article/79272</link>
-            <guid>https://www.elle.co.kr/article/79272</guid>
-            <pubDate>Thu, 27 Jul 2023 17:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[일렁이는 질문과 호기심 어린 시선 속에서도 지수는 망설임 없이 나아간다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/aa57a281-c725-4037-a927-733aeafa2c02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[표정에서 느껴지는 '찐' 행복? 최자가 전한 탄자니아 신혼여행 리얼 후기]]></title>
-            <link>https://www.elle.co.kr/article/79435</link>
-            <guid>https://www.elle.co.kr/article/79435</guid>
-            <pubDate>Wed, 26 Jul 2023 17:40:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/72dd8c12-9aa7-460d-b117-c8bff252c761.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태리 열연에 역대급 반전까지! '악귀' 후반부 관전 포인트 2 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79422</link>
-            <guid>https://www.elle.co.kr/article/79422</guid>
-            <pubDate>Wed, 26 Jul 2023 17:40:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/b8fd8822-f335-42a3-9b54-4e004ecd75a5.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-07-29T17:41:53.164Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이강인, 알고 보니 지드래곤의 성공한 덕후?!]]></title>
+        <id>https://www.elle.co.kr/article/79518</id>
+        <link href="https://www.elle.co.kr/article/79518"/>
+        <updated>2023-07-29T17:40:42.062Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
+        <id>https://www.elle.co.kr/article/79502</id>
+        <link href="https://www.elle.co.kr/article/79502"/>
+        <updated>2023-07-28T17:40:23.379Z</updated>
+        <content type="html"><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이렇게 풋풋할 수는 없어! 넷플릭스 열아홉스물 19/20 주인공들의 생애 첫 화보]]></title>
+        <id>https://www.elle.co.kr/article/79337</id>
+        <link href="https://www.elle.co.kr/article/79337"/>
+        <updated>2023-07-27T17:40:10.895Z</updated>
+        <content type="html"><![CDATA[열아홉의 마지막과 스무 살의 첫날을 함께 보낸 열아홉스물의 열 사람. 그 반짝이는 마음이 폭...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손예진이 공개한 '생후 8개월' 아들 근황 (ft.이민정 댓글)]]></title>
+        <id>https://www.elle.co.kr/article/79478</id>
+        <link href="https://www.elle.co.kr/article/79478"/>
+        <updated>2023-07-27T17:40:10.900Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[운동 없이 -8kg! 소유가 공개한 '무탄고지' 식단은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/79477</id>
+        <link href="https://www.elle.co.kr/article/79477"/>
+        <updated>2023-07-27T17:40:10.902Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 19/20 (열아홉 스물) 주인공들의 생애 첫 화보]]></title>
+        <id>https://www.elle.co.kr/article/79437</id>
+        <link href="https://www.elle.co.kr/article/79437"/>
+        <updated>2023-07-27T17:40:10.904Z</updated>
+        <content type="html"><![CDATA[열아홉의 마지막과 스무 살의 첫날을 함께 보낸 19/20의 열 사람, 그 반짝이는 마음이 폭죽처럼...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지수는 닻을 내린 배처럼 단단하다. 흔들림 없이 항해하는 지수의 마음]]></title>
+        <id>https://www.elle.co.kr/article/79272</id>
+        <link href="https://www.elle.co.kr/article/79272"/>
+        <updated>2023-07-27T17:40:10.907Z</updated>
+        <content type="html"><![CDATA[일렁이는 질문과 호기심 어린 시선 속에서도 지수는 망설임 없이 나아간다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[표정에서 느껴지는 '찐' 행복? 최자가 전한 탄자니아 신혼여행 리얼 후기]]></title>
+        <id>https://www.elle.co.kr/article/79435</id>
+        <link href="https://www.elle.co.kr/article/79435"/>
+        <updated>2023-07-26T17:40:08.154Z</updated>
+    </entry>
+</feed>
