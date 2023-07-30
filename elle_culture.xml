@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-07-30T05:41:18.048Z</updated>
+    <updated>2023-07-30T17:41:15.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이강인, 알고 보니 지드래곤의 성공한 덕후?!]]></title>
+        <id>https://www.elle.co.kr/article/79518</id>
+        <link href="https://www.elle.co.kr/article/79518"/>
+        <updated>2023-07-30T17:40:19.798Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
         <id>https://www.elle.co.kr/article/79502</id>
@@ -51,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/78414"/>
         <updated>2023-07-25T17:40:53.322Z</updated>
         <content type="html"><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버려진 쇼핑백으로 만든 소파? 비 오는 주말, 들러볼 전시 3]]></title>
-        <id>https://www.elle.co.kr/article/79371</id>
-        <link href="https://www.elle.co.kr/article/79371"/>
-        <updated>2023-07-25T05:40:26.564Z</updated>
-        <content type="html"><![CDATA[사카모토 류이치부터 '진격의 거인'까지, 취향껏 골라 보세요.]]></content>
     </entry>
 </feed>
