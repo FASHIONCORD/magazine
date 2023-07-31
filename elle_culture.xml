@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 05:42:03 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이강인, 알고 보니 지드래곤의 성공한 덕후?!]]></title>
-            <link>https://www.elle.co.kr/article/79518</link>
-            <guid>https://www.elle.co.kr/article/79518</guid>
-            <pubDate>Sun, 30 Jul 2023 17:40:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/c3bd98b5-7f4b-4c6d-8802-2ca5aa50e69a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
-            <link>https://www.elle.co.kr/article/79502</link>
-            <guid>https://www.elle.co.kr/article/79502</guid>
-            <pubDate>Sat, 29 Jul 2023 17:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/fb1cf0dc-976e-4b84-9aef-52fce304095b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79434</link>
-            <guid>https://www.elle.co.kr/article/79434</guid>
-            <pubDate>Sat, 29 Jul 2023 17:41:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/2a9887ca-816c-4ea6-90b0-fbc36ed50393.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박물관이 살아있다]]></title>
-            <link>https://www.elle.co.kr/article/78409</link>
-            <guid>https://www.elle.co.kr/article/78409</guid>
-            <pubDate>Fri, 28 Jul 2023 05:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[색다른 영감을 불어 넣어 줄 공간으로의 초대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/bf7f66bf-a603-49b1-b058-035ddb6ecf36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시인이 운영하는 식물 가게, 큐이디]]></title>
-            <link>https://www.elle.co.kr/article/79132</link>
-            <guid>https://www.elle.co.kr/article/79132</guid>
-            <pubDate>Thu, 27 Jul 2023 17:40:21 GMT</pubDate>
-            <content:encoded><![CDATA['시인이 운영하는 식물 가게'라는 문장은 단어의 나열만으로도 한 편의 시처럼 다가온다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/813a79b5-ed8a-4465-96e1-6e7414d4b1bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태리 열연에 역대급 반전까지! '악귀' 후반부 관전 포인트 2 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79422</link>
-            <guid>https://www.elle.co.kr/article/79422</guid>
-            <pubDate>Thu, 27 Jul 2023 17:40:21 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/b8fd8822-f335-42a3-9b54-4e004ecd75a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중요한 건 꺾여도 이겨내는 마음: 콜롬비아전 앞둔 조소현-홍혜지의 각오]]></title>
-            <link>https://www.elle.co.kr/article/79407</link>
-            <guid>https://www.elle.co.kr/article/79407</guid>
-            <pubDate>Thu, 27 Jul 2023 17:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[한국 여자 축구의 '황금 세대', 대표팀 조소현과 홍혜지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/70a5a3e0-35da-4579-ad64-0e8ccebf4860.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
-            <link>https://www.elle.co.kr/article/78414</link>
-            <guid>https://www.elle.co.kr/article/78414</guid>
-            <pubDate>Tue, 25 Jul 2023 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/613ffa2d-2ef2-4519-8d00-c3ce31749e4a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-07-31T17:41:32.328Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노엘 갤러거, 11월 내한 확정! 한국 팬들에게 던진 그 다운 한마디 (ft. South)]]></title>
+        <id>https://www.elle.co.kr/article/79576</id>
+        <link href="https://www.elle.co.kr/article/79576"/>
+        <updated>2023-07-31T17:40:45.916Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채식인은 복날을 어떻게 보낼까? #무해한삶_5]]></title>
+        <id>https://www.elle.co.kr/article/79531</id>
+        <link href="https://www.elle.co.kr/article/79531"/>
+        <updated>2023-07-31T17:40:45.918Z</updated>
+        <content type="html"><![CDATA[비건 보양식과 제로웨이스트 카페까지. 채식 2년차 어시스턴트 에디터의 무해한 여름나기 프로젝트...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소녀 vs. 12살 작은 인간]]></title>
+        <id>https://www.elle.co.kr/article/79507</id>
+        <link href="https://www.elle.co.kr/article/79507"/>
+        <updated>2023-07-31T17:40:45.920Z</updated>
+        <content type="html"><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이강인, 알고 보니 지드래곤의 성공한 덕후?!]]></title>
+        <id>https://www.elle.co.kr/article/79518</id>
+        <link href="https://www.elle.co.kr/article/79518"/>
+        <updated>2023-07-30T17:40:19.798Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
+        <id>https://www.elle.co.kr/article/79502</id>
+        <link href="https://www.elle.co.kr/article/79502"/>
+        <updated>2023-07-29T17:41:00.119Z</updated>
+        <content type="html"><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/79434</id>
+        <link href="https://www.elle.co.kr/article/79434"/>
+        <updated>2023-07-29T17:41:00.148Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박물관이 살아있다]]></title>
+        <id>https://www.elle.co.kr/article/78409</id>
+        <link href="https://www.elle.co.kr/article/78409"/>
+        <updated>2023-07-28T05:41:22.044Z</updated>
+        <content type="html"><![CDATA[색다른 영감을 불어 넣어 줄 공간으로의 초대.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시인이 운영하는 식물 가게, 큐이디]]></title>
+        <id>https://www.elle.co.kr/article/79132</id>
+        <link href="https://www.elle.co.kr/article/79132"/>
+        <updated>2023-07-27T17:40:21.421Z</updated>
+        <content type="html"><![CDATA['시인이 운영하는 식물 가게'라는 문장은 단어의 나열만으로도 한 편의 시처럼 다가온다.]]></content>
+    </entry>
+</feed>
