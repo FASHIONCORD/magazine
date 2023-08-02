@@ -1,60 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/beauty</id>
-    <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-08-02T05:42:05.950Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[식을 줄 모르는 히메컷 유행! 히메컷을 한 셀러브리티 11]]></title>
-        <id>https://www.elle.co.kr/article/79569</id>
-        <link href="https://www.elle.co.kr/article/79569"/>
-        <updated>2023-08-01T17:41:45.805Z</updated>
-        <content type="html"><![CDATA[히메컷 할까 말까 고민 중이라면 적극 추천! 아이돌부터 배우까지 히메컷을 한 스타들을 모아봤...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름 흔적 지우개! 마스크팩 레서피]]></title>
-        <id>https://www.elle.co.kr/article/79560</id>
-        <link href="https://www.elle.co.kr/article/79560"/>
-        <updated>2023-08-01T17:41:45.809Z</updated>
-        <content type="html"><![CDATA[피부에 남은 뜨거운 여름의 흔적을 지우기 위한 마스크팩을 추천합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤일리 비버도 푹 빠졌다? 라떼 트렌드!]]></title>
-        <id>https://www.elle.co.kr/article/79532</id>
-        <link href="https://www.elle.co.kr/article/79532"/>
-        <updated>2023-08-01T17:41:45.811Z</updated>
-        <content type="html"><![CDATA[뷰티부터 패션까지, 라떼 트렌드에 대해 알아야할 모든 것.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톱모델 장윤주가 체형 유지를 위해 반드시 챙겨 먹는다는 음식 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79519</id>
-        <link href="https://www.elle.co.kr/article/79519"/>
-        <updated>2023-07-31T17:40:26.393Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운동 없이 -8kg! 소유가 공개한 '무탄고지' 식단은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79477</id>
-        <link href="https://www.elle.co.kr/article/79477"/>
-        <updated>2023-07-31T05:40:42.720Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자차로 여름철 햇빛 사냥하는 법]]></title>
-        <id>https://www.elle.co.kr/article/79083</id>
-        <link href="https://www.elle.co.kr/article/79083"/>
-        <updated>2023-07-29T05:40:11.114Z</updated>
-        <content type="html"><![CDATA[그 어느 때보다 꼼꼼한 자외선 차단으로 피부를 철벽 보호해야 하는 계절, 여름. 신상 자차부터...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월드 클래스 모델 겸 배우 정호연이 금식 대신 추천한 식단은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79321</id>
-        <link href="https://www.elle.co.kr/article/79321"/>
-        <updated>2023-07-28T17:40:13.952Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김사랑의 탄탄한 체형 비결 '크라브마가'는 무엇? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79288</id>
-        <link href="https://www.elle.co.kr/article/79288"/>
-        <updated>2023-07-28T05:40:55.654Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 02 Aug 2023 17:41:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바쁜 아침엔? 아이비의 초스피드 출근 메이크업 HOW TO]]></title>
+            <link>https://www.elle.co.kr/article/79581</link>
+            <guid>https://www.elle.co.kr/article/79581</guid>
+            <pubDate>Wed, 02 Aug 2023 17:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[단 10분 안에 퓨어하고 생기있는 무드를 완성하는 메이크업 노하우를 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/88a6dbf2-6986-4e77-9a23-4d252e9f574f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[식을 줄 모르는 히메컷 유행! 히메컷을 한 셀러브리티 11]]></title>
+            <link>https://www.elle.co.kr/article/79569</link>
+            <guid>https://www.elle.co.kr/article/79569</guid>
+            <pubDate>Tue, 01 Aug 2023 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[히메컷 할까 말까 고민 중이라면 적극 추천! 아이돌부터 배우까지 히메컷을 한 스타들을 모아봤...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/a6f61a60-1674-4b97-a4de-fbb047291f66.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 흔적 지우개! 마스크팩 레서피]]></title>
+            <link>https://www.elle.co.kr/article/79560</link>
+            <guid>https://www.elle.co.kr/article/79560</guid>
+            <pubDate>Tue, 01 Aug 2023 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[피부에 남은 뜨거운 여름의 흔적을 지우기 위한 마스크팩을 추천합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/4c971c13-2b7e-4679-8113-61f9093a922b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤일리 비버도 푹 빠졌다? 라떼 트렌드!]]></title>
+            <link>https://www.elle.co.kr/article/79532</link>
+            <guid>https://www.elle.co.kr/article/79532</guid>
+            <pubDate>Tue, 01 Aug 2023 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[뷰티부터 패션까지, 라떼 트렌드에 대해 알아야할 모든 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/ba7f59ac-f2dd-41ce-9754-7a0835ecf33a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[톱모델 장윤주가 체형 유지를 위해 반드시 챙겨 먹는다는 음식 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/79519</link>
+            <guid>https://www.elle.co.kr/article/79519</guid>
+            <pubDate>Mon, 31 Jul 2023 17:40:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/5103ea1a-ae14-4ba7-92b0-bbe959fb322d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[운동 없이 -8kg! 소유가 공개한 '무탄고지' 식단은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/79477</link>
+            <guid>https://www.elle.co.kr/article/79477</guid>
+            <pubDate>Mon, 31 Jul 2023 05:40:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/17314d6a-4b40-4c50-98c4-3bc7a8c65322.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자차로 여름철 햇빛 사냥하는 법]]></title>
+            <link>https://www.elle.co.kr/article/79083</link>
+            <guid>https://www.elle.co.kr/article/79083</guid>
+            <pubDate>Sat, 29 Jul 2023 05:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[그 어느 때보다 꼼꼼한 자외선 차단으로 피부를 철벽 보호해야 하는 계절, 여름. 신상 자차부터...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/fa580746-7ea3-48ea-81b8-4634cedd372c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월드 클래스 모델 겸 배우 정호연이 금식 대신 추천한 식단은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/79321</link>
+            <guid>https://www.elle.co.kr/article/79321</guid>
+            <pubDate>Fri, 28 Jul 2023 17:40:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/adad3eaf-02f1-4432-ae50-f216d179ab03.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
