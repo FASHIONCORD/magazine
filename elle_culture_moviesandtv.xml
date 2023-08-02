@@ -1,99 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 17:43:18 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79611</link>
-            <guid>https://www.elle.co.kr/article/79611</guid>
-            <pubDate>Mon, 31 Jul 2023 17:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7d3ce265-5645-48bf-8329-b8b1a727bc2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
-            <link>https://www.elle.co.kr/article/79610</link>
-            <guid>https://www.elle.co.kr/article/79610</guid>
-            <pubDate>Mon, 31 Jul 2023 17:41:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d946c28a-d1d9-498b-9ffc-5058324527b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀 vs. 12살 작은 인간]]></title>
-            <link>https://www.elle.co.kr/article/79507</link>
-            <guid>https://www.elle.co.kr/article/79507</guid>
-            <pubDate>Thu, 27 Jul 2023 17:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/e5ba49a8-d9f3-4e41-bd99-2846103382e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
-            <link>https://www.elle.co.kr/article/79502</link>
-            <guid>https://www.elle.co.kr/article/79502</guid>
-            <pubDate>Thu, 27 Jul 2023 17:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/fb1cf0dc-976e-4b84-9aef-52fce304095b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태리 열연에 역대급 반전까지! '악귀' 후반부 관전 포인트 2 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79422</link>
-            <guid>https://www.elle.co.kr/article/79422</guid>
-            <pubDate>Mon, 24 Jul 2023 17:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['감독 겸 배우' 정우성의 장편 데뷔작 '보호자' 정보 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/79295</link>
-            <guid>https://www.elle.co.kr/article/79295</guid>
-            <pubDate>Wed, 19 Jul 2023 17:41:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[약자라고 안 봐줘! 파이트 저지 모니카X셔누가 꼽은 '스우파2' 관전 포인트]]></title>
-            <link>https://www.elle.co.kr/article/79294</link>
-            <guid>https://www.elle.co.kr/article/79294</guid>
-            <pubDate>Wed, 19 Jul 2023 17:41:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
-            <link>https://www.elle.co.kr/article/79255</link>
-            <guid>https://www.elle.co.kr/article/79255</guid>
-            <pubDate>Tue, 18 Jul 2023 17:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[무려 7년 만.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79223</link>
-            <guid>https://www.elle.co.kr/article/79223</guid>
-            <pubDate>Mon, 17 Jul 2023 17:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[영화 덕후들의 인생작]]></title>
-            <link>https://www.elle.co.kr/article/79063</link>
-            <guid>https://www.elle.co.kr/article/79063</guid>
-            <pubDate>Wed, 12 Jul 2023 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[한 작품을 N차 관람한 자들이 말하는 영화들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?]]></title>
-            <link>https://www.elle.co.kr/article/79125</link>
-            <guid>https://www.elle.co.kr/article/79125</guid>
-            <pubDate>Wed, 12 Jul 2023 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[나오미 캠벨, 신디 크로포드, 린다 에반젤리스타, 크리스티 털링턴의 발자취를 조명한 다큐멘터리...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[집밥 예찬론자라는 '마당집' 김태희의 자기 관리 비법 & 식단 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/79117</link>
-            <guid>https://www.elle.co.kr/article/79117</guid>
-            <pubDate>Wed, 12 Jul 2023 17:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/79106</link>
-            <guid>https://www.elle.co.kr/article/79106</guid>
-            <pubDate>Wed, 12 Jul 2023 05:41:56 GMT</pubDate>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/moviesandtv</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+    <updated>2023-08-02T05:42:05.958Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79611</id>
+        <link href="https://www.elle.co.kr/article/79611"/>
+        <updated>2023-07-31T17:41:03.158Z</updated>
+        <content type="html"><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
+        <id>https://www.elle.co.kr/article/79610</id>
+        <link href="https://www.elle.co.kr/article/79610"/>
+        <updated>2023-07-31T17:41:03.161Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소녀 vs. 12살 작은 인간]]></title>
+        <id>https://www.elle.co.kr/article/79507</id>
+        <link href="https://www.elle.co.kr/article/79507"/>
+        <updated>2023-07-27T17:40:40.745Z</updated>
+        <content type="html"><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
+        <id>https://www.elle.co.kr/article/79502</id>
+        <link href="https://www.elle.co.kr/article/79502"/>
+        <updated>2023-07-27T17:40:40.746Z</updated>
+        <content type="html"><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리 열연에 역대급 반전까지! '악귀' 후반부 관전 포인트 2 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79422</id>
+        <link href="https://www.elle.co.kr/article/79422"/>
+        <updated>2023-07-24T17:41:26.950Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['감독 겸 배우' 정우성의 장편 데뷔작 '보호자' 정보 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/79295</id>
+        <link href="https://www.elle.co.kr/article/79295"/>
+        <updated>2023-07-19T17:41:34.215Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약자라고 안 봐줘! 파이트 저지 모니카X셔누가 꼽은 '스우파2' 관전 포인트]]></title>
+        <id>https://www.elle.co.kr/article/79294</id>
+        <link href="https://www.elle.co.kr/article/79294"/>
+        <updated>2023-07-19T17:41:34.219Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
+        <id>https://www.elle.co.kr/article/79255</id>
+        <link href="https://www.elle.co.kr/article/79255"/>
+        <updated>2023-07-18T17:40:59.994Z</updated>
+        <content type="html"><![CDATA[무려 7년 만.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79223</id>
+        <link href="https://www.elle.co.kr/article/79223"/>
+        <updated>2023-07-17T17:41:49.683Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 덕후들의 인생작]]></title>
+        <id>https://www.elle.co.kr/article/79063</id>
+        <link href="https://www.elle.co.kr/article/79063"/>
+        <updated>2023-07-12T17:41:50.191Z</updated>
+        <content type="html"><![CDATA[한 작품을 N차 관람한 자들이 말하는 영화들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?]]></title>
+        <id>https://www.elle.co.kr/article/79125</id>
+        <link href="https://www.elle.co.kr/article/79125"/>
+        <updated>2023-07-12T17:41:50.201Z</updated>
+        <content type="html"><![CDATA[나오미 캠벨, 신디 크로포드, 린다 에반젤리스타, 크리스티 털링턴의 발자취를 조명한 다큐멘터리...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집밥 예찬론자라는 '마당집' 김태희의 자기 관리 비법 & 식단 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/79117</id>
+        <link href="https://www.elle.co.kr/article/79117"/>
+        <updated>2023-07-12T17:41:50.205Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/79106</id>
+        <link href="https://www.elle.co.kr/article/79106"/>
+        <updated>2023-07-12T05:41:56.420Z</updated>
+    </entry>
+</feed>
