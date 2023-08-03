@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-08-02T17:41:18.986Z</updated>
+    <updated>2023-08-03T05:42:10.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[언제까지 월급만 믿을 건가요? AI가 호시탐탐 넘보는 인간의 영역_돈쓸신잡 #107]]></title>
+        <id>https://www.elle.co.kr/article/79305</id>
+        <link href="https://www.elle.co.kr/article/79305"/>
+        <updated>2023-08-03T05:42:09.452Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대한민국 헌법은 어떻게 만들어졌을까? 제75주년 제헌절 기념 명소 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/79166</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/ellevoice/essay/78823"/>
         <updated>2023-07-13T17:42:23.944Z</updated>
         <content type="html"><![CDATA[청소년 시절의 나와 지금의 나는 얼마나 이어져있을까? 지금을 살아가는 소녀들을 이해하는 방법...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트친 글 보려면 돈 내세요?! 트위터, 갑자기 열람 가능 트윗 개수 제한한 배경]]></title>
-        <id>https://www.elle.co.kr/article/78874</id>
-        <link href="https://www.elle.co.kr/article/78874"/>
-        <updated>2023-07-11T05:41:29.577Z</updated>
     </entry>
 </feed>

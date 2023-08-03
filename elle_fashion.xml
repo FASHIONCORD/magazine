@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-02T17:41:18.967Z</updated>
+    <updated>2023-08-03T05:42:10.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작가의 세상을 들여다볼 수 있도록 매개체가 돼주는 사람, 갤러리스트 최수연의 시간]]></title>
+        <id>https://www.elle.co.kr/article/79607</id>
+        <link href="https://www.elle.co.kr/article/79607"/>
+        <updated>2023-08-03T05:40:39.240Z</updated>
+        <content type="html"><![CDATA[쾨닉 서울, P21의 갤러리스트 최수연에게 시간에 대해 물었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름 헤어 스타일링? 준비물은 이것!]]></title>
         <id>https://www.elle.co.kr/article/79604</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79522"/>
         <updated>2023-07-31T05:40:32.710Z</updated>
         <content type="html"><![CDATA[비가 오네. 비만 오네.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[똑같은 반팔티가 지겨울 땐? 링거 티셔츠로 한 끗 디테일 더하기!]]></title>
-        <id>https://www.elle.co.kr/article/79542</id>
-        <link href="https://www.elle.co.kr/article/79542"/>
-        <updated>2023-07-30T17:39:45.042Z</updated>
-        <content type="html"><![CDATA[로살리아, 해리 스타일스, 두아 리파, 배드 버니도 빠진 링거 티셔츠의 무한한 매력.]]></content>
     </entry>
 </feed>
