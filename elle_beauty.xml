@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-08-03T05:42:10.688Z</updated>
+    <updated>2023-08-03T17:41:15.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최고의 스킨케어는 결국 클렌징! 저자극 딥 클렌저 16_선배’s 어드바이스 #179]]></title>
+        <id>https://www.elle.co.kr/article/79627</id>
+        <link href="https://www.elle.co.kr/article/79627"/>
+        <updated>2023-08-03T17:40:04.919Z</updated>
+        <content type="html"><![CDATA[폭염의 불청객! 땀부터 피지, 각질, 워터프루프 메이크업까지 싹 지워주는 클렌저 모음.zip]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피부과학 연구의 끝판왕, 끌레드뽀 보떼 '스킨 인텔리전스']]></title>
         <id>https://www.elle.co.kr/article/79608</id>
@@ -51,12 +58,5 @@
         <id>https://www.elle.co.kr/article/79477</id>
         <link href="https://www.elle.co.kr/article/79477"/>
         <updated>2023-07-31T05:40:42.720Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자차로 여름철 햇빛 사냥하는 법]]></title>
-        <id>https://www.elle.co.kr/article/79083</id>
-        <link href="https://www.elle.co.kr/article/79083"/>
-        <updated>2023-07-29T05:40:11.114Z</updated>
-        <content type="html"><![CDATA[그 어느 때보다 꼼꼼한 자외선 차단으로 피부를 철벽 보호해야 하는 계절, 여름. 신상 자차부터...]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 05:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 17:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
+            <link>https://www.elle.co.kr/article/79610</link>
+            <guid>https://www.elle.co.kr/article/79610</guid>
+            <pubDate>Thu, 03 Aug 2023 17:40:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d946c28a-d1d9-498b-9ffc-5058324527b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도심 속 식물 섬, 내추럴리 내추럴]]></title>
             <link>https://www.elle.co.kr/article/79120</link>
@@ -60,13 +67,6 @@
             <pubDate>Sat, 29 Jul 2023 17:41:00 GMT</pubDate>
             <content:encoded><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/fb1cf0dc-976e-4b84-9aef-52fce304095b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79434</link>
-            <guid>https://www.elle.co.kr/article/79434</guid>
-            <pubDate>Sat, 29 Jul 2023 17:41:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/2a9887ca-816c-4ea6-90b0-fbc36ed50393.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
