@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 05:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 17:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘얼죽따’파라면 손! 여름엔 짜이로 이열치열 #마실마실]]></title>
+            <link>https://www.elle.co.kr/article/79554</link>
+            <guid>https://www.elle.co.kr/article/79554</guid>
+            <pubDate>Fri, 04 Aug 2023 17:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[성수동과 망원동에서 만나는 인도식 밀크티 ‘짜이’ 전문점을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/e317884f-42be-458c-a151-3047c3f3e8f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채식인은 복날을 어떻게 보낼까? #무해한삶_5]]></title>
             <link>https://www.elle.co.kr/article/79531</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 26 Jul 2023 17:40:59 GMT</pubDate>
             <content:encoded><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/613ffa2d-2ef2-4519-8d00-c3ce31749e4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교토에 우뚝 선 아사이 교토 시조 호텔]]></title>
-            <link>https://www.elle.co.kr/article/79134</link>
-            <guid>https://www.elle.co.kr/article/79134</guid>
-            <pubDate>Wed, 26 Jul 2023 17:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[일본과 태국을 넘나드는 경험을 선사해 줄 아사이 교토 시조로 향하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/23/c9275f16-0e52-4533-b891-0c88819678ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

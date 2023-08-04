@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-04T05:42:05.132Z</updated>
+    <updated>2023-08-04T17:42:08.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[살랑살랑! 올여름, 러플 드레스를 가장 쿨하게 소화하는 법]]></title>
+        <id>https://www.elle.co.kr/article/79681</id>
+        <link href="https://www.elle.co.kr/article/79681"/>
+        <updated>2023-08-04T17:40:37.526Z</updated>
+        <content type="html"><![CDATA[작열하는 태양 아래 나부끼는 러플 드레스와 나.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름 메이크업의 킥! #주근깨메이크업]]></title>
+        <id>https://www.elle.co.kr/article/79662</id>
+        <link href="https://www.elle.co.kr/article/79662"/>
+        <updated>2023-08-04T17:40:37.530Z</updated>
+        <content type="html"><![CDATA[열심히 가릴 필요 없습니다. 일부러 그려 넣는 주근깨 메이크업이 트렌드니까요!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잠옷인데, 잠옷은 아니에요! 거리로 뛰쳐나온 파자마 팬츠]]></title>
         <id>https://www.elle.co.kr/article/79650</id>
@@ -46,19 +60,5 @@
         <link href="https://www.elle.co.kr/article/79604"/>
         <updated>2023-08-02T17:39:58.030Z</updated>
         <content type="html"><![CDATA[캐롤린 베셋의 후예들. 헤어밴드를 착용한 셀럽을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 김수현의 손목 위에서 빛나는 존재감]]></title>
-        <id>https://www.elle.co.kr/article/79590</id>
-        <link href="https://www.elle.co.kr/article/79590"/>
-        <updated>2023-08-02T17:39:58.033Z</updated>
-        <content type="html"><![CDATA[더 대담하고 우아해진 미도의 새로운 워치 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여행자의 시선이 깃든 반클리프 아펠의 하이 주얼리]]></title>
-        <id>https://www.elle.co.kr/article/79556</id>
-        <link href="https://www.elle.co.kr/article/79556"/>
-        <updated>2023-08-02T05:39:53.548Z</updated>
-        <content type="html"><![CDATA[여행에서 가져온 기념품처럼, 반클리프 아펠이 하이 주얼리를 통해 전하는 다채로운 순간.]]></content>
     </entry>
 </feed>
