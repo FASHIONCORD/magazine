@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-03T17:41:15.835Z</updated>
+    <updated>2023-08-04T05:42:05.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잠옷인데, 잠옷은 아니에요! 거리로 뛰쳐나온 파자마 팬츠]]></title>
+        <id>https://www.elle.co.kr/article/79650</id>
+        <link href="https://www.elle.co.kr/article/79650"/>
+        <updated>2023-08-04T05:40:30.166Z</updated>
+        <content type="html"><![CDATA[청량한 블루 스트라이프와 서늘한 포플린 소재가 만나면 여름이 돼요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀러브리티의 서머 셔츠 스타일링 Tip]]></title>
         <id>https://www.elle.co.kr/article/79647</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79556"/>
         <updated>2023-08-02T05:39:53.548Z</updated>
         <content type="html"><![CDATA[여행에서 가져온 기념품처럼, 반클리프 아펠이 하이 주얼리를 통해 전하는 다채로운 순간.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름에도 니트를 즐기는 방법 #니트베스트]]></title>
-        <id>https://www.elle.co.kr/article/79578</id>
-        <link href="https://www.elle.co.kr/article/79578"/>
-        <updated>2023-08-01T05:40:15.725Z</updated>
-        <content type="html"><![CDATA[니트 베스트 하나로 여름 데일리룩 완성하기!]]></content>
     </entry>
 </feed>

@@ -1,99 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/artanddesign</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-08-03T17:41:15.860Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[노마드라는 치트키 #프리워커]]></title>
-        <id>https://www.elle.co.kr/article/79355</id>
-        <link href="https://www.elle.co.kr/article/79355"/>
-        <updated>2023-08-03T17:40:53.240Z</updated>
-        <content type="html"><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
-        <id>https://www.elle.co.kr/article/79121</id>
-        <link href="https://www.elle.co.kr/article/79121"/>
-        <updated>2023-08-02T17:40:58.868Z</updated>
-        <content type="html"><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나 혼자 일해요 #프리워커]]></title>
-        <id>https://www.elle.co.kr/article/79351</id>
-        <link href="https://www.elle.co.kr/article/79351"/>
-        <updated>2023-08-01T17:42:56.689Z</updated>
-        <content type="html"><![CDATA[노마드맵 커뮤니티 기획자, 영어강사, '코워킹 클럽' 운영자 윤소현. 세 가지 직업을 가지며 워...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도심 속 식물 섬, 내추럴리 내추럴]]></title>
-        <id>https://www.elle.co.kr/article/79120</id>
-        <link href="https://www.elle.co.kr/article/79120"/>
-        <updated>2023-07-30T17:40:49.001Z</updated>
-        <content type="html"><![CDATA[내추럴리 내추럴이 만들어나가는 자연스럽고 따뜻한 시선.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박물관이 살아있다]]></title>
-        <id>https://www.elle.co.kr/article/78409</id>
-        <link href="https://www.elle.co.kr/article/78409"/>
-        <updated>2023-07-25T05:40:54.430Z</updated>
-        <content type="html"><![CDATA[색다른 영감을 불어 넣어 줄 공간으로의 초대.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시인이 운영하는 식물 가게, 큐이디]]></title>
-        <id>https://www.elle.co.kr/article/79132</id>
-        <link href="https://www.elle.co.kr/article/79132"/>
-        <updated>2023-07-24T17:41:36.289Z</updated>
-        <content type="html"><![CDATA['시인이 운영하는 식물 가게'라는 문장은 단어의 나열만으로도 한 편의 시처럼 다가온다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
-        <id>https://www.elle.co.kr/article/78414</id>
-        <link href="https://www.elle.co.kr/article/78414"/>
-        <updated>2023-07-23T17:41:38.246Z</updated>
-        <content type="html"><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버려진 쇼핑백으로 만든 소파? 비 오는 주말, 들러볼 전시 3]]></title>
-        <id>https://www.elle.co.kr/article/79371</id>
-        <link href="https://www.elle.co.kr/article/79371"/>
-        <updated>2023-07-21T17:40:55.672Z</updated>
-        <content type="html"><![CDATA[사카모토 류이치부터 '진격의 거인'까지, 취향껏 골라 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조각가 에르빈 부름의 세 번째 집 #더컬렉터스]]></title>
-        <id>https://www.elle.co.kr/article/78970</id>
-        <link href="https://www.elle.co.kr/article/78970"/>
-        <updated>2023-07-11T17:41:29.697Z</updated>
-        <content type="html"><![CDATA[조각 같은 사물로 가득한 아티스트 에르빈 부름의 집에 가다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 베니스에 꼭 가봐야할 호텔, 아만 베니스 #호텔미감]]></title>
-        <id>https://www.elle.co.kr/article/78951</id>
-        <link href="https://www.elle.co.kr/article/78951"/>
-        <updated>2023-07-10T17:41:40.315Z</updated>
-        <content type="html"><![CDATA[아만 베니스는 베니스적 찬란함과 어둠이 공존하는 호텔이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조용한 골목에서 만난 에르메스 홈 컬렉션]]></title>
-        <id>https://www.elle.co.kr/article/78946</id>
-        <link href="https://www.elle.co.kr/article/78946"/>
-        <updated>2023-07-09T17:41:20.314Z</updated>
-        <content type="html"><![CDATA[낡고 바랜 골목에서 마주친 에르메스 홈 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계가 주목한 프로방스 예술, 아틀리에 빔]]></title>
-        <id>https://www.elle.co.kr/article/78942</id>
-        <link href="https://www.elle.co.kr/article/78942"/>
-        <updated>2023-07-07T17:41:39.414Z</updated>
-        <content type="html"><![CDATA[완벽한 퀄리티와 진정성이 만든 럭셔리. 세계적 주목을 받아온 디자인 스튜디오 '아틀리에 빔'의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오]]></title>
-        <id>https://www.elle.co.kr/article/78939</id>
-        <link href="https://www.elle.co.kr/article/78939"/>
-        <updated>2023-07-06T17:42:18.745Z</updated>
-        <content type="html"><![CDATA[두수고방, 카페 온양, 카라멜리에오, LCDC 카페 이페메라. 검박한 아름다움을 꿈꾸는 임태희 디...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Aug 2023 05:42:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노마드라는 치트키 #프리워커]]></title>
+            <link>https://www.elle.co.kr/article/79355</link>
+            <guid>https://www.elle.co.kr/article/79355</guid>
+            <pubDate>Thu, 03 Aug 2023 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/2d45ca8f-782b-45f4-add3-6a73a352cbec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
+            <link>https://www.elle.co.kr/article/79121</link>
+            <guid>https://www.elle.co.kr/article/79121</guid>
+            <pubDate>Wed, 02 Aug 2023 17:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/168ba103-ebdf-4f43-b98c-d0de9cb2d602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나 혼자 일해요 #프리워커]]></title>
+            <link>https://www.elle.co.kr/article/79351</link>
+            <guid>https://www.elle.co.kr/article/79351</guid>
+            <pubDate>Tue, 01 Aug 2023 17:42:56 GMT</pubDate>
+            <content:encoded><![CDATA[노마드맵 커뮤니티 기획자, 영어강사, '코워킹 클럽' 운영자 윤소현. 세 가지 직업을 가지며 워...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/881725df-84fe-49cd-bcac-8181c9097873.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도심 속 식물 섬, 내추럴리 내추럴]]></title>
+            <link>https://www.elle.co.kr/article/79120</link>
+            <guid>https://www.elle.co.kr/article/79120</guid>
+            <pubDate>Sun, 30 Jul 2023 17:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[내추럴리 내추럴이 만들어나가는 자연스럽고 따뜻한 시선.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/0b465ea0-4a69-4fe4-bd22-ff94ed37ec14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박물관이 살아있다]]></title>
+            <link>https://www.elle.co.kr/article/78409</link>
+            <guid>https://www.elle.co.kr/article/78409</guid>
+            <pubDate>Tue, 25 Jul 2023 05:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[색다른 영감을 불어 넣어 줄 공간으로의 초대.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시인이 운영하는 식물 가게, 큐이디]]></title>
+            <link>https://www.elle.co.kr/article/79132</link>
+            <guid>https://www.elle.co.kr/article/79132</guid>
+            <pubDate>Mon, 24 Jul 2023 17:41:36 GMT</pubDate>
+            <content:encoded><![CDATA['시인이 운영하는 식물 가게'라는 문장은 단어의 나열만으로도 한 편의 시처럼 다가온다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
+            <link>https://www.elle.co.kr/article/78414</link>
+            <guid>https://www.elle.co.kr/article/78414</guid>
+            <pubDate>Sun, 23 Jul 2023 17:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[버려진 쇼핑백으로 만든 소파? 비 오는 주말, 들러볼 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/79371</link>
+            <guid>https://www.elle.co.kr/article/79371</guid>
+            <pubDate>Fri, 21 Jul 2023 17:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[사카모토 류이치부터 '진격의 거인'까지, 취향껏 골라 보세요.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조각가 에르빈 부름의 세 번째 집 #더컬렉터스]]></title>
+            <link>https://www.elle.co.kr/article/78970</link>
+            <guid>https://www.elle.co.kr/article/78970</guid>
+            <pubDate>Tue, 11 Jul 2023 17:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[조각 같은 사물로 가득한 아티스트 에르빈 부름의 집에 가다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[겨울 베니스에 꼭 가봐야할 호텔, 아만 베니스 #호텔미감]]></title>
+            <link>https://www.elle.co.kr/article/78951</link>
+            <guid>https://www.elle.co.kr/article/78951</guid>
+            <pubDate>Mon, 10 Jul 2023 17:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[아만 베니스는 베니스적 찬란함과 어둠이 공존하는 호텔이다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조용한 골목에서 만난 에르메스 홈 컬렉션]]></title>
+            <link>https://www.elle.co.kr/article/78946</link>
+            <guid>https://www.elle.co.kr/article/78946</guid>
+            <pubDate>Sun, 09 Jul 2023 17:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[낡고 바랜 골목에서 마주친 에르메스 홈 컬렉션.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세계가 주목한 프로방스 예술, 아틀리에 빔]]></title>
+            <link>https://www.elle.co.kr/article/78942</link>
+            <guid>https://www.elle.co.kr/article/78942</guid>
+            <pubDate>Fri, 07 Jul 2023 17:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[완벽한 퀄리티와 진정성이 만든 럭셔리. 세계적 주목을 받아온 디자인 스튜디오 '아틀리에 빔'의...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[검박한 아름다움, 임태희 디자인 스튜디오]]></title>
+            <link>https://www.elle.co.kr/article/78939</link>
+            <guid>https://www.elle.co.kr/article/78939</guid>
+            <pubDate>Thu, 06 Jul 2023 17:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[두수고방, 카페 온양, 카라멜리에오, LCDC 카페 이페메라. 검박한 아름다움을 꿈꾸는 임태희 디...]]></content:encoded>
+        </item>
+    </channel>
+</rss>
