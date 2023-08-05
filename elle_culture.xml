@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 17:42:08 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79611</link>
-            <guid>https://www.elle.co.kr/article/79611</guid>
-            <pubDate>Fri, 04 Aug 2023 17:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7d3ce265-5645-48bf-8329-b8b1a727bc2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
-            <link>https://www.elle.co.kr/article/79610</link>
-            <guid>https://www.elle.co.kr/article/79610</guid>
-            <pubDate>Thu, 03 Aug 2023 17:40:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d946c28a-d1d9-498b-9ffc-5058324527b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도심 속 식물 섬, 내추럴리 내추럴]]></title>
-            <link>https://www.elle.co.kr/article/79120</link>
-            <guid>https://www.elle.co.kr/article/79120</guid>
-            <pubDate>Wed, 02 Aug 2023 17:40:29 GMT</pubDate>
-            <content:encoded><![CDATA[내추럴리 내추럴이 만들어나가는 자연스럽고 따뜻한 시선.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/0b465ea0-4a69-4fe4-bd22-ff94ed37ec14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 첫 타투 사진집! <가장 밝은 검정으로>]]></title>
-            <link>https://www.elle.co.kr/article/79563</link>
-            <guid>https://www.elle.co.kr/article/79563</guid>
-            <pubDate>Tue, 01 Aug 2023 17:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[상처를 다독인 검정색 잉크와 그 위로 새긴 영원한 이야기. 사진가 류한경은 '타투'를 향해 셔...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/30/9cb07169-08d1-4ca9-bcdd-2ee281c72eb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노엘 갤러거, 11월 내한 확정! 한국 팬들에게 던진 그 다운 한마디 (ft. South)]]></title>
-            <link>https://www.elle.co.kr/article/79576</link>
-            <guid>https://www.elle.co.kr/article/79576</guid>
-            <pubDate>Mon, 31 Jul 2023 17:40:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/ea442e13-f0d9-454c-8afc-5c558fb6f3bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채식인은 복날을 어떻게 보낼까? #무해한삶_5]]></title>
-            <link>https://www.elle.co.kr/article/79531</link>
-            <guid>https://www.elle.co.kr/article/79531</guid>
-            <pubDate>Mon, 31 Jul 2023 17:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[비건 보양식과 제로웨이스트 카페까지. 채식 2년차 어시스턴트 에디터의 무해한 여름나기 프로젝트...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/a5efd115-0f6e-4ab8-8e3f-11debfacaf9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀 vs. 12살 작은 인간]]></title>
-            <link>https://www.elle.co.kr/article/79507</link>
-            <guid>https://www.elle.co.kr/article/79507</guid>
-            <pubDate>Mon, 31 Jul 2023 17:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/e5ba49a8-d9f3-4e41-bd99-2846103382e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이강인, 알고 보니 지드래곤의 성공한 덕후?!]]></title>
-            <link>https://www.elle.co.kr/article/79518</link>
-            <guid>https://www.elle.co.kr/article/79518</guid>
-            <pubDate>Sun, 30 Jul 2023 17:40:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/c3bd98b5-7f4b-4c6d-8802-2ca5aa50e69a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-08-05T05:41:06.235Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79611</id>
+        <link href="https://www.elle.co.kr/article/79611"/>
+        <updated>2023-08-04T17:41:12.955Z</updated>
+        <content type="html"><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
+        <id>https://www.elle.co.kr/article/79610</id>
+        <link href="https://www.elle.co.kr/article/79610"/>
+        <updated>2023-08-03T17:40:23.833Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도심 속 식물 섬, 내추럴리 내추럴]]></title>
+        <id>https://www.elle.co.kr/article/79120</id>
+        <link href="https://www.elle.co.kr/article/79120"/>
+        <updated>2023-08-02T17:40:29.500Z</updated>
+        <content type="html"><![CDATA[내추럴리 내추럴이 만들어나가는 자연스럽고 따뜻한 시선.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 첫 타투 사진집! <가장 밝은 검정으로>]]></title>
+        <id>https://www.elle.co.kr/article/79563</id>
+        <link href="https://www.elle.co.kr/article/79563"/>
+        <updated>2023-08-01T17:42:08.489Z</updated>
+        <content type="html"><![CDATA[상처를 다독인 검정색 잉크와 그 위로 새긴 영원한 이야기. 사진가 류한경은 '타투'를 향해 셔...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노엘 갤러거, 11월 내한 확정! 한국 팬들에게 던진 그 다운 한마디 (ft. South)]]></title>
+        <id>https://www.elle.co.kr/article/79576</id>
+        <link href="https://www.elle.co.kr/article/79576"/>
+        <updated>2023-07-31T17:40:45.916Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채식인은 복날을 어떻게 보낼까? #무해한삶_5]]></title>
+        <id>https://www.elle.co.kr/article/79531</id>
+        <link href="https://www.elle.co.kr/article/79531"/>
+        <updated>2023-07-31T17:40:45.918Z</updated>
+        <content type="html"><![CDATA[비건 보양식과 제로웨이스트 카페까지. 채식 2년차 어시스턴트 에디터의 무해한 여름나기 프로젝트...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소녀 vs. 12살 작은 인간]]></title>
+        <id>https://www.elle.co.kr/article/79507</id>
+        <link href="https://www.elle.co.kr/article/79507"/>
+        <updated>2023-07-31T17:40:45.920Z</updated>
+        <content type="html"><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이강인, 알고 보니 지드래곤의 성공한 덕후?!]]></title>
+        <id>https://www.elle.co.kr/article/79518</id>
+        <link href="https://www.elle.co.kr/article/79518"/>
+        <updated>2023-07-30T17:40:19.798Z</updated>
+    </entry>
+</feed>

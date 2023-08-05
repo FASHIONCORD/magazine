@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-04T17:42:08.202Z</updated>
+    <updated>2023-08-05T05:41:06.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루이 비통이 하이주얼리를 만들면]]></title>
+        <id>https://www.elle.co.kr/article/79634</id>
+        <link href="https://www.elle.co.kr/article/79634"/>
+        <updated>2023-08-05T05:39:59.209Z</updated>
+        <content type="html"><![CDATA[고대 문화유산이 고스란히 남아 있는 곳, 아테네에서 루이 비통의 다섯 번째 하이 주얼리 컬렉...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[살랑살랑! 올여름, 러플 드레스를 가장 쿨하게 소화하는 법]]></title>
         <id>https://www.elle.co.kr/article/79681</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79607"/>
         <updated>2023-08-03T05:40:39.240Z</updated>
         <content type="html"><![CDATA[쾨닉 서울, P21의 갤러리스트 최수연에게 시간에 대해 물었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름 헤어 스타일링? 준비물은 이것!]]></title>
-        <id>https://www.elle.co.kr/article/79604</id>
-        <link href="https://www.elle.co.kr/article/79604"/>
-        <updated>2023-08-02T17:39:58.030Z</updated>
-        <content type="html"><![CDATA[캐롤린 베셋의 후예들. 헤어밴드를 착용한 셀럽을 소개합니다.]]></content>
     </entry>
 </feed>
