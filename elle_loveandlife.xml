@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/loveandlife</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-08-06T05:42:18.158Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[‘얼죽따’파라면 손! 여름엔 짜이로 이열치열 #마실마실]]></title>
-        <id>https://www.elle.co.kr/article/79554</id>
-        <link href="https://www.elle.co.kr/article/79554"/>
-        <updated>2023-08-04T17:41:57.860Z</updated>
-        <content type="html"><![CDATA[성수동과 망원동에서 만나는 인도식 밀크티 ‘짜이’ 전문점을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채식인은 복날을 어떻게 보낼까? #무해한삶_5]]></title>
-        <id>https://www.elle.co.kr/article/79531</id>
-        <link href="https://www.elle.co.kr/article/79531"/>
-        <updated>2023-08-04T05:41:54.869Z</updated>
-        <content type="html"><![CDATA[비건 보양식과 제로웨이스트 카페까지. 채식 2년차 어시스턴트 에디터의 무해한 여름나기 프로젝트...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜션 왜 가? 완벽한 여름휴가의 대체제, 오션월드 빌리지!]]></title>
-        <id>https://www.elle.co.kr/article/79480</id>
-        <link href="https://www.elle.co.kr/article/79480"/>
-        <updated>2023-08-04T05:41:54.871Z</updated>
-        <content type="html"><![CDATA[올여름, 맨 첫 번째로 오션월드빌리지를 즐기는 주인공이 되어야 하는 이유. 걸스나잇 완전 환영...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루이 비통 파라솔, 디올 선베드와 즐기는 휴가! 패션 브랜드의 여름 맞이 팝업 스토어 5]]></title>
-        <id>https://www.elle.co.kr/article/79481</id>
-        <link href="https://www.elle.co.kr/article/79481"/>
-        <updated>2023-08-01T17:43:06.251Z</updated>
-        <content type="html"><![CDATA[자크뮈스, 디올, 루이 비통, 펜디, 구찌의 여름나기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이틴 감성 끝판왕! 성수동 소품숍 3]]></title>
-        <id>https://www.elle.co.kr/article/79440</id>
-        <link href="https://www.elle.co.kr/article/79440"/>
-        <updated>2023-07-28T17:41:09.443Z</updated>
-        <content type="html"><![CDATA['어머 이건 사야 해!' 모델 박제니가 어른이 취향 저격하는 성수동 소품숍을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어쩌다 마주친, 근대 서울 #두도시이야기]]></title>
-        <id>https://www.elle.co.kr/article/78412</id>
-        <link href="https://www.elle.co.kr/article/78412"/>
-        <updated>2023-07-28T17:41:09.449Z</updated>
-        <content type="html"><![CDATA[철학적 사유와 예술적 영감, 역사적 교훈을 불러일으키는 서울의 모더니즘. 근대건축 연구자 박건...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/79434</id>
-        <link href="https://www.elle.co.kr/article/79434"/>
-        <updated>2023-07-28T05:42:09.095Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
-        <id>https://www.elle.co.kr/article/78414</id>
-        <link href="https://www.elle.co.kr/article/78414"/>
-        <updated>2023-07-26T17:40:59.013Z</updated>
-        <content type="html"><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 06 Aug 2023 17:41:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘얼죽따’파라면 손! 여름엔 짜이로 이열치열 #마실마실]]></title>
+            <link>https://www.elle.co.kr/article/79554</link>
+            <guid>https://www.elle.co.kr/article/79554</guid>
+            <pubDate>Fri, 04 Aug 2023 17:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[성수동과 망원동에서 만나는 인도식 밀크티 ‘짜이’ 전문점을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/e317884f-42be-458c-a151-3047c3f3e8f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채식인은 복날을 어떻게 보낼까? #무해한삶_5]]></title>
+            <link>https://www.elle.co.kr/article/79531</link>
+            <guid>https://www.elle.co.kr/article/79531</guid>
+            <pubDate>Fri, 04 Aug 2023 05:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[비건 보양식과 제로웨이스트 카페까지. 채식 2년차 어시스턴트 에디터의 무해한 여름나기 프로젝트...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/a5efd115-0f6e-4ab8-8e3f-11debfacaf9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[펜션 왜 가? 완벽한 여름휴가의 대체제, 오션월드 빌리지!]]></title>
+            <link>https://www.elle.co.kr/article/79480</link>
+            <guid>https://www.elle.co.kr/article/79480</guid>
+            <pubDate>Fri, 04 Aug 2023 05:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[올여름, 맨 첫 번째로 오션월드빌리지를 즐기는 주인공이 되어야 하는 이유. 걸스나잇 완전 환영...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/0ce2304c-9001-45b8-ae07-94ca379ef66f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루이 비통 파라솔, 디올 선베드와 즐기는 휴가! 패션 브랜드의 여름 맞이 팝업 스토어 5]]></title>
+            <link>https://www.elle.co.kr/article/79481</link>
+            <guid>https://www.elle.co.kr/article/79481</guid>
+            <pubDate>Tue, 01 Aug 2023 17:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[자크뮈스, 디올, 루이 비통, 펜디, 구찌의 여름나기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/44a29925-a707-4650-9728-8d01d7540b20.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이틴 감성 끝판왕! 성수동 소품숍 3]]></title>
+            <link>https://www.elle.co.kr/article/79440</link>
+            <guid>https://www.elle.co.kr/article/79440</guid>
+            <pubDate>Fri, 28 Jul 2023 17:41:09 GMT</pubDate>
+            <content:encoded><![CDATA['어머 이건 사야 해!' 모델 박제니가 어른이 취향 저격하는 성수동 소품숍을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/15e98490-7158-4df6-b171-601f9b6cabf6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어쩌다 마주친, 근대 서울 #두도시이야기]]></title>
+            <link>https://www.elle.co.kr/article/78412</link>
+            <guid>https://www.elle.co.kr/article/78412</guid>
+            <pubDate>Fri, 28 Jul 2023 17:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[철학적 사유와 예술적 영감, 역사적 교훈을 불러일으키는 서울의 모더니즘. 근대건축 연구자 박건...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/a47e7bb1-13b8-464c-a745-f1fdce736f38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/79434</link>
+            <guid>https://www.elle.co.kr/article/79434</guid>
+            <pubDate>Fri, 28 Jul 2023 05:42:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/2a9887ca-816c-4ea6-90b0-fbc36ed50393.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
+            <link>https://www.elle.co.kr/article/78414</link>
+            <guid>https://www.elle.co.kr/article/78414</guid>
+            <pubDate>Wed, 26 Jul 2023 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/613ffa2d-2ef2-4519-8d00-c3ce31749e4a.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
