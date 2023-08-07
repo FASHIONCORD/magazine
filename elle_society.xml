@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 05:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 17:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 당장 '간헐적 절약'을 시작해야 하는 이유_돈쓸신잡 #108]]></title>
+            <link>https://www.elle.co.kr/article/79489</link>
+            <guid>https://www.elle.co.kr/article/79489</guid>
+            <pubDate>Mon, 07 Aug 2023 17:42:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/2ed3b380-49db-4669-8c43-a5141e6b5c70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중요한 건 꺾여도 이겨내는 마음: 콜롬비아전 앞둔 조소현-홍혜지의 각오]]></title>
             <link>https://www.elle.co.kr/article/79407</link>
@@ -59,13 +66,6 @@
             <pubDate>Mon, 24 Jul 2023 05:42:06 GMT</pubDate>
             <content:encoded><![CDATA[카카오임팩트 매니저 홍진아가 새롭게 정의한 '우아하게' 일한다는 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/714a7c8c-4794-461e-b82e-5d8ec5f4cf63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교통비 1년에 30만 원 줄이는 법! 알뜰교통카드 A to Z_돈쓸신잡 #105]]></title>
-            <link>https://www.elle.co.kr/article/78973</link>
-            <guid>https://www.elle.co.kr/article/78973</guid>
-            <pubDate>Thu, 20 Jul 2023 05:41:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/54c976a1-3f84-4d1a-ad46-5a4ce7d24199.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

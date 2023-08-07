@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 05:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 17:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜드 인터뷰: 사랑을 위해, 사랑에 의해]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36368696&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36368696&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 07 Aug 2023 17:39:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfMjk5/MDAxNjkxMzkyMjg1Mjg4.atIDwXzFVrgfjDzYIp5LehxD7dQa3dVcrO_XPQOiyM0g.iMslPEzG8DJugaXYr8K-Q144hvHx0t_3HgFC7qFY68Ug.JPEG/Iyy2w1Bd_qJ1E8WL4loIHuYxbSIU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스트릭틀리 바이닐 인터뷰: 10년 넘게 변치 않는 네 DJ의 멋]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36088308&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 24 Dec 2022 17:41:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTlfMTY0/MDAxNjcxNDMxNTgyOTc3.tPMOz0PfVi0_xo6snZGWZ6S7SuIQhqu8q2sYXZ2r_H0g.-kHrzC-ViyfHPBDzbXCoP0490m-1Dv-j057rq-rzpiUg.JPEG/IPZO2Qub3-cL4YeAN2MUFNfcDHFM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 x 퍼렐 윌리엄스, 협업 트랙 발표한다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34723407&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34723407&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 07 Nov 2022 05:48:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDJfMjM2/MDAxNjY3MzYwNzU4NzEx.BpoqOjQDamfmTdQOxp1E2amLNgig4i2WrZ6BiMQZ7Bog.9RU5GBi0Qcp1Vq8PTiCCuy-BctOmUv3qXeYFJtUpMkEg.JPEG/IHGKnMvoGltr8r5NFAGLh2U1q7CI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
