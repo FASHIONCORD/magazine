@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 17:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 05:42:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 휴가의 클래식! 보기만 해도 시원한 동해안 자연 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/79566</link>
+            <guid>https://www.elle.co.kr/article/79566</guid>
+            <pubDate>Mon, 07 Aug 2023 05:41:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/4bf3ff30-802f-4ea3-9356-fcaa76a4ee8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘얼죽따’파라면 손! 여름엔 짜이로 이열치열 #마실마실]]></title>
             <link>https://www.elle.co.kr/article/79554</link>
@@ -61,14 +68,6 @@
             <guid>https://www.elle.co.kr/article/79434</guid>
             <pubDate>Fri, 28 Jul 2023 05:42:09 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/2a9887ca-816c-4ea6-90b0-fbc36ed50393.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
-            <link>https://www.elle.co.kr/article/78414</link>
-            <guid>https://www.elle.co.kr/article/78414</guid>
-            <pubDate>Wed, 26 Jul 2023 17:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/613ffa2d-2ef2-4519-8d00-c3ce31749e4a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

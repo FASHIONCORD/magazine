@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-06T17:41:28.361Z</updated>
+    <updated>2023-08-07T05:42:19.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 하니, <엘르>D에디션 커버 공개 #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/79687</id>
+        <link href="https://www.elle.co.kr/article/79687"/>
+        <updated>2023-08-07T05:41:03.381Z</updated>
+        <content type="html"><![CDATA[하니의 무심한 듯 세련된 비주얼, 시크한 분위기 완벽 소화]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['워터밤 여신' 권은비! 건강미의 핵심 비결은 바로 이것? #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/79678</id>
@@ -49,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/79430"/>
         <updated>2023-08-03T17:40:13.893Z</updated>
         <content type="html"><![CDATA[그 어느 때보다 빛나는 지니(Jini)와 M•A•C 러스터글래스 립스틱이 그려낸 더없이 반짝이는 순...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대식가 BTS 정국, 탄탄한 피지컬 유지하는 비결 (feat. 이론 박사)]]></title>
-        <id>https://www.elle.co.kr/article/79646</id>
-        <link href="https://www.elle.co.kr/article/79646"/>
-        <updated>2023-08-02T17:40:20.611Z</updated>
     </entry>
 </feed>
