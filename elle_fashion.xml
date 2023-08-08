@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 17:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 05:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서머 데일리룩 만능템! 데님 쇼츠 스타일 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/79715</link>
+            <guid>https://www.elle.co.kr/article/79715</guid>
+            <pubDate>Tue, 08 Aug 2023 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[꾸안꾸 데일리룩을 완성해 줄 데님 쇼츠 스타일을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/4aa63cff-104b-4d4e-9c19-4a2376a97fb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼렐 전성시대]]></title>
             <link>https://www.elle.co.kr/article/79698</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 04 Aug 2023 17:40:37 GMT</pubDate>
             <content:encoded><![CDATA[열심히 가릴 필요 없습니다. 일부러 그려 넣는 주근깨 메이크업이 트렌드니까요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/73a56941-388a-40a3-97d1-3afec5f144f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠옷인데, 잠옷은 아니에요! 거리로 뛰쳐나온 파자마 팬츠]]></title>
-            <link>https://www.elle.co.kr/article/79650</link>
-            <guid>https://www.elle.co.kr/article/79650</guid>
-            <pubDate>Fri, 04 Aug 2023 05:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[청량한 블루 스트라이프와 서늘한 포플린 소재가 만나면 여름이 돼요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/5783cf84-c71b-48d0-992e-9739b98ebb6f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 17:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 05:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스부터 빵빵이, 모코코까지! 덕후 설레게 하는 이색 팝업스토어 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/79644</link>
+            <guid>https://www.elle.co.kr/article/79644</guid>
+            <pubDate>Tue, 08 Aug 2023 05:41:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/12c82c9a-897f-4552-966e-95c956057f1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 휴가의 클래식! 보기만 해도 시원한 동해안 자연 명소 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/79566</link>
@@ -61,13 +68,6 @@
             <pubDate>Fri, 28 Jul 2023 17:41:09 GMT</pubDate>
             <content:encoded><![CDATA[철학적 사유와 예술적 영감, 역사적 교훈을 불러일으키는 서울의 모더니즘. 근대건축 연구자 박건...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/a47e7bb1-13b8-464c-a745-f1fdce736f38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79434</link>
-            <guid>https://www.elle.co.kr/article/79434</guid>
-            <pubDate>Fri, 28 Jul 2023 05:42:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/2a9887ca-816c-4ea6-90b0-fbc36ed50393.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
