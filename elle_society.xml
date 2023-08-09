@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-08-09T05:42:22.099Z</updated>
+    <updated>2023-08-09T17:42:13.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 자궁근종 제거 수술을 했습니다만]]></title>
+        <id>https://www.elle.co.kr/ellevoice/essay/79550</id>
+        <link href="https://www.elle.co.kr/ellevoice/essay/79550"/>
+        <updated>2023-08-09T17:42:12.878Z</updated>
+        <content type="html"><![CDATA[생애 첫 입원! 생각보다 '별 일'이었던 자궁근종 제거수술기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금 당장 '간헐적 절약'을 시작해야 하는 이유_돈쓸신잡 #108]]></title>
         <id>https://www.elle.co.kr/article/79489</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/78670"/>
         <updated>2023-07-24T17:41:55.567Z</updated>
         <content type="html"><![CDATA[환경을 향한 파타고니아의 열정과 진심은 계속된다! 파타고니아가 ‘세계 해양의 날’을 맞아 기...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 우리는 얼마든지 치열한 동시에 우아하게 일할 수 있다]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/78836</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/78836"/>
-        <updated>2023-07-24T05:42:06.613Z</updated>
-        <content type="html"><![CDATA[카카오임팩트 매니저 홍진아가 새롭게 정의한 '우아하게' 일한다는 것.]]></content>
     </entry>
 </feed>

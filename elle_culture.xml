@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-08-09T05:42:22.106Z</updated>
+    <updated>2023-08-09T17:42:13.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꽉 닫힌 해피엔딩, '킹더랜드'! 설렘 폭발한 명장면 3 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79740</id>
+        <link href="https://www.elle.co.kr/article/79740"/>
+        <updated>2023-08-09T17:40:40.992Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건축가와 무용가가 함께 사는 집]]></title>
         <id>https://www.elle.co.kr/article/79701</id>
@@ -38,7 +44,7 @@
         <id>https://www.elle.co.kr/article/79351</id>
         <link href="https://www.elle.co.kr/article/79351"/>
         <updated>2023-08-07T17:41:12.186Z</updated>
-        <content type="html"><![CDATA[노마드맵 커뮤니티 기획자, 영어강사, '코워킹 클럽' 운영자 윤소현. 세 가지 직업을 가지며 워...]]></content>
+        <content type="html"><![CDATA[세 가지 직업을 가진 윤소현에게 노마드 라이프는 어떤 모습인지 물었다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5만 장의 사진에 담긴 현대 서울 #두도시이야기]]></title>
@@ -53,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/79611"/>
         <updated>2023-08-04T17:41:12.955Z</updated>
         <content type="html"><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
-        <id>https://www.elle.co.kr/article/79610</id>
-        <link href="https://www.elle.co.kr/article/79610"/>
-        <updated>2023-08-03T17:40:23.833Z</updated>
     </entry>
 </feed>

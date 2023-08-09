@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-08-09T05:42:22.102Z</updated>
+    <updated>2023-08-09T17:42:13.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일상에 하트 더하기! 스타의 하트 모티프 패션 6]]></title>
+        <id>https://www.elle.co.kr/article/79720</id>
+        <link href="https://www.elle.co.kr/article/79720"/>
+        <updated>2023-08-09T17:40:21.930Z</updated>
+        <content type="html"><![CDATA[하트 덕후 모여라~ 가방부터 티셔츠, 얼굴에 붙인 포인트 파츠까지 하트로 가득한 패션을 소개합...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['워터밤 여신' 권은비! 건강미의 핵심 비결은 바로 이것? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/79678</id>
+        <link href="https://www.elle.co.kr/article/79678"/>
+        <updated>2023-08-09T17:40:21.931Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름 메이크업의 킥! #주근깨메이크업]]></title>
         <id>https://www.elle.co.kr/article/79662</id>
@@ -44,19 +57,5 @@
         <link href="https://www.elle.co.kr/article/79608"/>
         <updated>2023-08-03T05:40:51.506Z</updated>
         <content type="html"><![CDATA[끌레드뽀 보떼의 끝없는 피부과학 연구와 그 결실인 '스킨 인텔리전스'를 체험하는 글로벌 이벤...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바쁜 아침엔? 아이비의 초스피드 출근 메이크업 HOW TO]]></title>
-        <id>https://www.elle.co.kr/article/79581</id>
-        <link href="https://www.elle.co.kr/article/79581"/>
-        <updated>2023-08-02T17:40:09.589Z</updated>
-        <content type="html"><![CDATA[단 10분 안에 퓨어하고 생기있는 무드를 완성하는 메이크업 노하우를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식을 줄 모르는 히메컷 유행! 히메컷을 한 셀러브리티 11]]></title>
-        <id>https://www.elle.co.kr/article/79569</id>
-        <link href="https://www.elle.co.kr/article/79569"/>
-        <updated>2023-08-01T17:41:45.805Z</updated>
-        <content type="html"><![CDATA[히메컷 할까 말까 고민 중이라면 적극 추천! 아이돌부터 배우까지 히메컷을 한 스타들을 모아봤...]]></content>
     </entry>
 </feed>
