@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 17:41:46 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[건축가와 무용가가 함께 사는 집]]></title>
-            <link>https://www.elle.co.kr/article/79701</link>
-            <guid>https://www.elle.co.kr/article/79701</guid>
-            <pubDate>Tue, 08 Aug 2023 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[바이아키텍츠 이병엽, 콜렉티브A 차진엽 부부의 차분하고 현대적인 정물화가 떠오르는 집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/2d52212d-a8ec-4bc3-b5e3-949381c184d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 영국 스타의 만남! 데이비드 호크니가 그려낸 해리 스타일스의 모습은?]]></title>
-            <link>https://www.elle.co.kr/article/79704</link>
-            <guid>https://www.elle.co.kr/article/79704</guid>
-            <pubDate>Tue, 08 Aug 2023 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/fa3d5dd9-df47-4c38-8c0c-e6873498a242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노마드라는 치트키 #프리워커]]></title>
-            <link>https://www.elle.co.kr/article/79355</link>
-            <guid>https://www.elle.co.kr/article/79355</guid>
-            <pubDate>Tue, 08 Aug 2023 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/2d45ca8f-782b-45f4-add3-6a73a352cbec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
-            <link>https://www.elle.co.kr/article/79121</link>
-            <guid>https://www.elle.co.kr/article/79121</guid>
-            <pubDate>Mon, 07 Aug 2023 17:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/168ba103-ebdf-4f43-b98c-d0de9cb2d602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 혼자 일해요 #프리워커]]></title>
-            <link>https://www.elle.co.kr/article/79351</link>
-            <guid>https://www.elle.co.kr/article/79351</guid>
-            <pubDate>Mon, 07 Aug 2023 17:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[노마드맵 커뮤니티 기획자, 영어강사, '코워킹 클럽' 운영자 윤소현. 세 가지 직업을 가지며 워...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/881725df-84fe-49cd-bcac-8181c9097873.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5만 장의 사진에 담긴 현대 서울 #두도시이야기]]></title>
-            <link>https://www.elle.co.kr/article/78407</link>
-            <guid>https://www.elle.co.kr/article/78407</guid>
-            <pubDate>Sun, 06 Aug 2023 17:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[#서울의현대를찾아서, #강남을만든빌딩들, #도시계획유산, #서울맨홀... 매일매일 자신이 딛고 서 있...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/8115ab78-5a69-4a5f-a899-b62c77d6fc84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79611</link>
-            <guid>https://www.elle.co.kr/article/79611</guid>
-            <pubDate>Fri, 04 Aug 2023 17:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7d3ce265-5645-48bf-8329-b8b1a727bc2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
-            <link>https://www.elle.co.kr/article/79610</link>
-            <guid>https://www.elle.co.kr/article/79610</guid>
-            <pubDate>Thu, 03 Aug 2023 17:40:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d946c28a-d1d9-498b-9ffc-5058324527b0.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-08-09T05:42:22.106Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건축가와 무용가가 함께 사는 집]]></title>
+        <id>https://www.elle.co.kr/article/79701</id>
+        <link href="https://www.elle.co.kr/article/79701"/>
+        <updated>2023-08-08T17:40:49.270Z</updated>
+        <content type="html"><![CDATA[바이아키텍츠 이병엽, 콜렉티브A 차진엽 부부의 차분하고 현대적인 정물화가 떠오르는 집.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두 영국 스타의 만남! 데이비드 호크니가 그려낸 해리 스타일스의 모습은?]]></title>
+        <id>https://www.elle.co.kr/article/79704</id>
+        <link href="https://www.elle.co.kr/article/79704"/>
+        <updated>2023-08-08T17:40:49.308Z</updated>
+        <content type="html"><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노마드라는 치트키 #프리워커]]></title>
+        <id>https://www.elle.co.kr/article/79355</id>
+        <link href="https://www.elle.co.kr/article/79355"/>
+        <updated>2023-08-08T17:40:49.308Z</updated>
+        <content type="html"><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
+        <id>https://www.elle.co.kr/article/79121</id>
+        <link href="https://www.elle.co.kr/article/79121"/>
+        <updated>2023-08-07T17:41:12.181Z</updated>
+        <content type="html"><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나 혼자 일해요 #프리워커]]></title>
+        <id>https://www.elle.co.kr/article/79351</id>
+        <link href="https://www.elle.co.kr/article/79351"/>
+        <updated>2023-08-07T17:41:12.186Z</updated>
+        <content type="html"><![CDATA[노마드맵 커뮤니티 기획자, 영어강사, '코워킹 클럽' 운영자 윤소현. 세 가지 직업을 가지며 워...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5만 장의 사진에 담긴 현대 서울 #두도시이야기]]></title>
+        <id>https://www.elle.co.kr/article/78407</id>
+        <link href="https://www.elle.co.kr/article/78407"/>
+        <updated>2023-08-06T17:40:36.111Z</updated>
+        <content type="html"><![CDATA[#서울의현대를찾아서, #강남을만든빌딩들, #도시계획유산, #서울맨홀... 매일매일 자신이 딛고 서 있...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79611</id>
+        <link href="https://www.elle.co.kr/article/79611"/>
+        <updated>2023-08-04T17:41:12.955Z</updated>
+        <content type="html"><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
+        <id>https://www.elle.co.kr/article/79610</id>
+        <link href="https://www.elle.co.kr/article/79610"/>
+        <updated>2023-08-03T17:40:23.833Z</updated>
+    </entry>
+</feed>

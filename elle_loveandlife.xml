@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 17:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 05:42:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문별이 여름밤을 즐기는 방법! 집에서 만들어 먹는 칵테일 3]]></title>
+            <link>https://www.elle.co.kr/article/79686</link>
+            <guid>https://www.elle.co.kr/article/79686</guid>
+            <pubDate>Wed, 09 Aug 2023 05:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[편의점에서 파는 재료로 뚝딱! 문별이 소개하는 초간단 홈 칵테일 레서피에 도전해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/4967febe-de6c-4db9-894c-baf8af567544.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 쓰리 데이즈 오브 디자인에서 생긴 일]]></title>
             <link>https://www.elle.co.kr/article/79670</link>
@@ -60,14 +68,6 @@
             <pubDate>Tue, 01 Aug 2023 17:43:06 GMT</pubDate>
             <content:encoded><![CDATA[자크뮈스, 디올, 루이 비통, 펜디, 구찌의 여름나기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/44a29925-a707-4650-9728-8d01d7540b20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이틴 감성 끝판왕! 성수동 소품숍 3]]></title>
-            <link>https://www.elle.co.kr/article/79440</link>
-            <guid>https://www.elle.co.kr/article/79440</guid>
-            <pubDate>Fri, 28 Jul 2023 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA['어머 이건 사야 해!' 모델 박제니가 어른이 취향 저격하는 성수동 소품숍을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/15e98490-7158-4df6-b171-601f9b6cabf6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

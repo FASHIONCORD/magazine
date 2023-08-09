@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-08T17:41:46.540Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[일상에 하트 더하기! 스타의 하트 모티프 패션 6]]></title>
-        <id>https://www.elle.co.kr/article/79720</id>
-        <link href="https://www.elle.co.kr/article/79720"/>
-        <updated>2023-08-08T17:39:45.382Z</updated>
-        <content type="html"><![CDATA[하트 덕후 모여라~ 가방부터 티셔츠, 얼굴에 붙인 포인트 파츠까지 하트로 가득한 패션을 소개합...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 서울로 모이고 있는 미국 스트리트 브랜드]]></title>
-        <id>https://www.elle.co.kr/article/79718</id>
-        <link href="https://www.elle.co.kr/article/79718"/>
-        <updated>2023-08-08T17:39:45.385Z</updated>
-        <content type="html"><![CDATA[해외 직구 실패로 더 이상 좌절 금지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무더위 속 시원한 그늘을 내어줄 색색의 파라솔]]></title>
-        <id>https://www.elle.co.kr/article/79702</id>
-        <link href="https://www.elle.co.kr/article/79702"/>
-        <updated>2023-08-08T17:39:45.388Z</updated>
-        <content type="html"><![CDATA[바다로 떠나기 전이라면 주목!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서머 데일리룩 만능템! 데님 쇼츠 스타일 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/79715</id>
-        <link href="https://www.elle.co.kr/article/79715"/>
-        <updated>2023-08-08T05:40:01.611Z</updated>
-        <content type="html"><![CDATA[꾸안꾸 데일리룩을 완성해 줄 데님 쇼츠 스타일을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼렐 전성시대]]></title>
-        <id>https://www.elle.co.kr/article/79698</id>
-        <link href="https://www.elle.co.kr/article/79698"/>
-        <updated>2023-08-07T17:40:35.884Z</updated>
-        <content type="html"><![CDATA[파리 패션위크에 퍼렐 윌리엄스가 남긴 것.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멘즈 패션위크에서 만난 훈남들]]></title>
-        <id>https://www.elle.co.kr/article/79688</id>
-        <link href="https://www.elle.co.kr/article/79688"/>
-        <updated>2023-08-06T05:40:42.561Z</updated>
-        <content type="html"><![CDATA[훈훈한 비주얼로 프런트로에 앉은 셀러브리티.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #5 더블랙레이블 김세준]]></title>
-        <id>https://www.elle.co.kr/article/79691</id>
-        <link href="https://www.elle.co.kr/article/79691"/>
-        <updated>2023-08-05T17:39:54.814Z</updated>
-        <content type="html"><![CDATA[더블랙레이블의 비주얼디렉터이자 스타일리스트 김세준이 애정하는 물건과 그 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 하니, <엘르>D에디션 커버 공개 #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/79687</id>
-        <link href="https://www.elle.co.kr/article/79687"/>
-        <updated>2023-08-05T17:39:54.816Z</updated>
-        <content type="html"><![CDATA[하니의 무심한 듯 세련된 비주얼, 시크한 분위기 완벽 소화]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 09 Aug 2023 05:42:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상에 하트 더하기! 스타의 하트 모티프 패션 6]]></title>
+            <link>https://www.elle.co.kr/article/79720</link>
+            <guid>https://www.elle.co.kr/article/79720</guid>
+            <pubDate>Tue, 08 Aug 2023 17:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[하트 덕후 모여라~ 가방부터 티셔츠, 얼굴에 붙인 포인트 파츠까지 하트로 가득한 패션을 소개합...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/06/a9abff36-3269-45d5-a606-b613527f1be3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 서울로 모이고 있는 미국 스트리트 브랜드]]></title>
+            <link>https://www.elle.co.kr/article/79718</link>
+            <guid>https://www.elle.co.kr/article/79718</guid>
+            <pubDate>Tue, 08 Aug 2023 17:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[해외 직구 실패로 더 이상 좌절 금지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/06/a12b8097-3609-4515-a63a-d2aabfe7a44b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무더위 속 시원한 그늘을 내어줄 색색의 파라솔]]></title>
+            <link>https://www.elle.co.kr/article/79702</link>
+            <guid>https://www.elle.co.kr/article/79702</guid>
+            <pubDate>Tue, 08 Aug 2023 17:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[바다로 떠나기 전이라면 주목!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/bbbe75c9-4c1b-446e-9c7b-6e4e7a44d09b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서머 데일리룩 만능템! 데님 쇼츠 스타일 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/79715</link>
+            <guid>https://www.elle.co.kr/article/79715</guid>
+            <pubDate>Tue, 08 Aug 2023 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[꾸안꾸 데일리룩을 완성해 줄 데님 쇼츠 스타일을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/4aa63cff-104b-4d4e-9c19-4a2376a97fb2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼렐 전성시대]]></title>
+            <link>https://www.elle.co.kr/article/79698</link>
+            <guid>https://www.elle.co.kr/article/79698</guid>
+            <pubDate>Mon, 07 Aug 2023 17:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[파리 패션위크에 퍼렐 윌리엄스가 남긴 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/05/9caacdd2-32f3-4274-9fa0-ec8e3bb3d02d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멘즈 패션위크에서 만난 훈남들]]></title>
+            <link>https://www.elle.co.kr/article/79688</link>
+            <guid>https://www.elle.co.kr/article/79688</guid>
+            <pubDate>Sun, 06 Aug 2023 05:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[훈훈한 비주얼로 프런트로에 앉은 셀러브리티.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/05/28c2c09d-1638-435a-8b13-ceb85edd23ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사물(사람과 물건) 인터뷰 #5 더블랙레이블 김세준]]></title>
+            <link>https://www.elle.co.kr/article/79691</link>
+            <guid>https://www.elle.co.kr/article/79691</guid>
+            <pubDate>Sat, 05 Aug 2023 17:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[더블랙레이블의 비주얼디렉터이자 스타일리스트 김세준이 애정하는 물건과 그 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/5c5e3a0a-7d6d-4e4f-9d8b-390927ee9b0e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스 하니, <엘르>D에디션 커버 공개 #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/79687</link>
+            <guid>https://www.elle.co.kr/article/79687</guid>
+            <pubDate>Sat, 05 Aug 2023 17:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[하니의 무심한 듯 세련된 비주얼, 시크한 분위기 완벽 소화]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/378a1716-cd0c-4b0b-a627-fe8b2fa70e80.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
