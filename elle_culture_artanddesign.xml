@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 05:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 17:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미술관을 닮은 집 #더컬렉터스]]></title>
+            <link>https://www.elle.co.kr/article/79785</link>
+            <guid>https://www.elle.co.kr/article/79785</guid>
+            <pubDate>Thu, 10 Aug 2023 17:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/25180fc3-d251-411b-aa1c-fc6143f9c9fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WEB 3.0 시대에 일하는 법 #프리워커]]></title>
             <link>https://www.elle.co.kr/article/79356</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/79704</guid>
             <pubDate>Fri, 04 Aug 2023 17:41:47 GMT</pubDate>
             <content:encoded><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/fa3d5dd9-df47-4c38-8c0c-e6873498a242.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노마드라는 치트키 #프리워커]]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/79371</guid>
             <pubDate>Fri, 21 Jul 2023 17:40:55 GMT</pubDate>
             <content:encoded><![CDATA[사카모토 류이치부터 '진격의 거인'까지, 취향껏 골라 보세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조각가 에르빈 부름의 세 번째 집 #더컬렉터스]]></title>
-            <link>https://www.elle.co.kr/article/78970</link>
-            <guid>https://www.elle.co.kr/article/78970</guid>
-            <pubDate>Tue, 11 Jul 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[조각 같은 사물로 가득한 아티스트 에르빈 부름의 집에 가다.]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 05:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 17:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[농부가 되고 싶어? 노트북 앞 여자들이 텃밭으로 떠난 이유를 담은 두 권의 책]]></title>
+            <link>https://www.elle.co.kr/article/79735</link>
+            <guid>https://www.elle.co.kr/article/79735</guid>
+            <pubDate>Thu, 10 Aug 2023 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[신간 '도시농부'와 '메주월령가'가 말하는 또다른 삶.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/9a0b988d-2ba4-4705-bdd5-5d4f3ab55146.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽉 닫힌 해피엔딩, '킹더랜드'! 설렘 폭발한 명장면 3 #요즘드라마]]></title>
             <link>https://www.elle.co.kr/article/79740</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 06 Aug 2023 17:40:36 GMT</pubDate>
             <content:encoded><![CDATA[#서울의현대를찾아서, #강남을만든빌딩들, #도시계획유산, #서울맨홀... 매일매일 자신이 딛고 서 있...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/8115ab78-5a69-4a5f-a899-b62c77d6fc84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79611</link>
-            <guid>https://www.elle.co.kr/article/79611</guid>
-            <pubDate>Fri, 04 Aug 2023 17:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7d3ce265-5645-48bf-8329-b8b1a727bc2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
