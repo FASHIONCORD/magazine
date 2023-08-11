@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-10T17:41:15.199Z</updated>
+    <updated>2023-08-11T05:42:41.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시선을 사로잡는 로고 이어링]]></title>
+        <id>https://www.elle.co.kr/article/79773</id>
+        <link href="https://www.elle.co.kr/article/79773"/>
+        <updated>2023-08-11T05:41:09.650Z</updated>
+        <content type="html"><![CDATA[프레임을 가득 채운 브랜드의 아이덴티티.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어서와, 서울은 처음이지?]]></title>
         <id>https://www.elle.co.kr/article/79771</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79702"/>
         <updated>2023-08-08T17:39:45.388Z</updated>
         <content type="html"><![CDATA[바다로 떠나기 전이라면 주목!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서머 데일리룩 만능템! 데님 쇼츠 스타일 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/79715</id>
-        <link href="https://www.elle.co.kr/article/79715"/>
-        <updated>2023-08-08T05:40:01.611Z</updated>
-        <content type="html"><![CDATA[꾸안꾸 데일리룩을 완성해 줄 데님 쇼츠 스타일을 소개합니다.]]></content>
     </entry>
 </feed>

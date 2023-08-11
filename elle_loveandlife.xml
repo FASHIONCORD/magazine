@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 17:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 05:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식탁의 꽃! 정재형의 테이블 웨어 10]]></title>
+            <link>https://www.elle.co.kr/article/79723</link>
+            <guid>https://www.elle.co.kr/article/79723</guid>
+            <pubDate>Fri, 11 Aug 2023 05:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[음식을 담는 도구를 넘어 스타일리시한 라이프스타일을 완성해 주는 콜렉팅의 대상! 식사를 하는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/a04db053-2129-4578-a649-8d0cff67b4c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭염엔 시원한 극장에서 영화 볼까? 8월 이색 영화제 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/79708</link>
@@ -59,14 +67,6 @@
             <pubDate>Fri, 04 Aug 2023 05:41:54 GMT</pubDate>
             <content:encoded><![CDATA[비건 보양식과 제로웨이스트 카페까지. 채식 2년차 어시스턴트 에디터의 무해한 여름나기 프로젝트...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/a5efd115-0f6e-4ab8-8e3f-11debfacaf9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펜션 왜 가? 완벽한 여름휴가의 대체제, 오션월드 빌리지!]]></title>
-            <link>https://www.elle.co.kr/article/79480</link>
-            <guid>https://www.elle.co.kr/article/79480</guid>
-            <pubDate>Fri, 04 Aug 2023 05:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[올여름, 맨 첫 번째로 오션월드빌리지를 즐기는 주인공이 되어야 하는 이유. 걸스나잇 완전 환영...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/0ce2304c-9001-45b8-ae07-94ca379ef66f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
