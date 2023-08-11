@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 05:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 17:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 내가 좋아하는 우리 동네]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/79565</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/79565</guid>
+            <pubDate>Fri, 11 Aug 2023 17:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[강서구 주민 주목! 30년 넘게 강서구에서 살아온 최지은 작가의 동네 애착기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/bf4a8f0a-4091-4b60-a451-b495a55fac34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴턴도 전 재산을 잃었다! 빚내서 주식 투자하는 이의 최후는?_돈쓸신잡 #109]]></title>
             <link>https://www.elle.co.kr/article/79664</link>
@@ -58,13 +66,6 @@
             <guid>https://www.elle.co.kr/article/79166</guid>
             <pubDate>Mon, 31 Jul 2023 17:41:31 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/a52b6dc6-ca3e-4aa5-8b6d-75a33c5588d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자에서 생산자로! 당신은 회사 밖에서 어떤 일을 하고 있나요?_돈쓸신잡 #106]]></title>
-            <link>https://www.elle.co.kr/article/79146</link>
-            <guid>https://www.elle.co.kr/article/79146</guid>
-            <pubDate>Thu, 27 Jul 2023 05:42:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/0c8f4797-aa3c-4f96-be8b-685553103501.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
