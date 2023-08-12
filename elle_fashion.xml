@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 05:41:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[작지만 큰 존재감, 서머 주얼리 스타일링 Tip]]></title>
-            <link>https://www.elle.co.kr/article/79806</link>
-            <guid>https://www.elle.co.kr/article/79806</guid>
-            <pubDate>Sat, 12 Aug 2023 05:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[서머 룩, 어딘지 모르게 밋밋했다면? 해답은 주얼리에 있습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/8be1bfa1-f500-4956-a561-be37d983518d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름으로 물든 아웃도어 체어]]></title>
-            <link>https://www.elle.co.kr/article/79780</link>
-            <guid>https://www.elle.co.kr/article/79780</guid>
-            <pubDate>Fri, 11 Aug 2023 17:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[바깥은 여름. 강렬한 햇빛 아래 더욱 빛나는 아웃도어 체어.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/d955c1fc-667c-4666-a46c-636639f282f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시선을 사로잡는 로고 이어링]]></title>
-            <link>https://www.elle.co.kr/article/79773</link>
-            <guid>https://www.elle.co.kr/article/79773</guid>
-            <pubDate>Fri, 11 Aug 2023 05:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[프레임을 가득 채운 브랜드의 아이덴티티.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/65c86214-16d9-43f4-a414-7a010a0bda62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어서와, 서울은 처음이지?]]></title>
-            <link>https://www.elle.co.kr/article/79771</link>
-            <guid>https://www.elle.co.kr/article/79771</guid>
-            <pubDate>Thu, 10 Aug 2023 17:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계가 서울을 주목하는 지금, 패션계도 예외는 아니다. 지금 지구상에서 가장 스타일리시한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/30de799e-2848-4df8-81b4-4d357709de98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너드미라는 것이 폭발한다! 그때 그 시절 레트로 안경의 재림]]></title>
-            <link>https://www.elle.co.kr/article/79770</link>
-            <guid>https://www.elle.co.kr/article/79770</guid>
-            <pubDate>Thu, 10 Aug 2023 17:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[전교 회장 안경이 돌아왔다?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/c7b936f4-6e19-44dd-8cea-13eb616737be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 화이트 블라우스가 국룰!]]></title>
-            <link>https://www.elle.co.kr/article/79751</link>
-            <guid>https://www.elle.co.kr/article/79751</guid>
-            <pubDate>Thu, 10 Aug 2023 05:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[이주명부터 수영까지, 스타가 사랑한 화이트 블라우스 스타일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/1b4c63d1-592c-4231-801f-52745b20b941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라피아 전성시대]]></title>
-            <link>https://www.elle.co.kr/article/79733</link>
-            <guid>https://www.elle.co.kr/article/79733</guid>
-            <pubDate>Wed, 09 Aug 2023 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[자연을 머금은 라피아 백의 향연]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/7260f204-81b2-4800-beb7-50b5c7d5b40d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상에 하트 더하기! 스타의 하트 모티프 패션 6]]></title>
-            <link>https://www.elle.co.kr/article/79720</link>
-            <guid>https://www.elle.co.kr/article/79720</guid>
-            <pubDate>Tue, 08 Aug 2023 17:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[하트 덕후 모여라~ 가방부터 티셔츠, 얼굴에 붙인 포인트 파츠까지 하트로 가득한 패션을 소개합...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/06/a9abff36-3269-45d5-a606-b613527f1be3.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-08-12T17:41:52.065Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올드 머니와 Y2K를 오가는 만능 아이템! 플런지 홀터넥 200% 활용하기]]></title>
+        <id>https://www.elle.co.kr/article/79814</id>
+        <link href="https://www.elle.co.kr/article/79814"/>
+        <updated>2023-08-12T17:40:19.817Z</updated>
+        <content type="html"><![CDATA[신화 속 여신에서 순식간에 2000년대 테크노 여전사로 변신하는 법?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[작지만 큰 존재감, 서머 주얼리 스타일링 Tip]]></title>
+        <id>https://www.elle.co.kr/article/79806</id>
+        <link href="https://www.elle.co.kr/article/79806"/>
+        <updated>2023-08-12T05:39:48.777Z</updated>
+        <content type="html"><![CDATA[서머 룩, 어딘지 모르게 밋밋했다면? 해답은 주얼리에 있습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름으로 물든 아웃도어 체어]]></title>
+        <id>https://www.elle.co.kr/article/79780</id>
+        <link href="https://www.elle.co.kr/article/79780"/>
+        <updated>2023-08-11T17:40:07.398Z</updated>
+        <content type="html"><![CDATA[바깥은 여름. 강렬한 햇빛 아래 더욱 빛나는 아웃도어 체어.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시선을 사로잡는 로고 이어링]]></title>
+        <id>https://www.elle.co.kr/article/79773</id>
+        <link href="https://www.elle.co.kr/article/79773"/>
+        <updated>2023-08-11T05:41:09.650Z</updated>
+        <content type="html"><![CDATA[프레임을 가득 채운 브랜드의 아이덴티티.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어서와, 서울은 처음이지?]]></title>
+        <id>https://www.elle.co.kr/article/79771</id>
+        <link href="https://www.elle.co.kr/article/79771"/>
+        <updated>2023-08-10T17:39:51.071Z</updated>
+        <content type="html"><![CDATA[전 세계가 서울을 주목하는 지금, 패션계도 예외는 아니다. 지금 지구상에서 가장 스타일리시한 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너드미라는 것이 폭발한다! 그때 그 시절 레트로 안경의 재림]]></title>
+        <id>https://www.elle.co.kr/article/79770</id>
+        <link href="https://www.elle.co.kr/article/79770"/>
+        <updated>2023-08-10T17:39:51.074Z</updated>
+        <content type="html"><![CDATA[전교 회장 안경이 돌아왔다?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름엔 화이트 블라우스가 국룰!]]></title>
+        <id>https://www.elle.co.kr/article/79751</id>
+        <link href="https://www.elle.co.kr/article/79751"/>
+        <updated>2023-08-10T05:40:46.262Z</updated>
+        <content type="html"><![CDATA[이주명부터 수영까지, 스타가 사랑한 화이트 블라우스 스타일.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라피아 전성시대]]></title>
+        <id>https://www.elle.co.kr/article/79733</id>
+        <link href="https://www.elle.co.kr/article/79733"/>
+        <updated>2023-08-09T17:40:12.918Z</updated>
+        <content type="html"><![CDATA[자연을 머금은 라피아 백의 향연]]></content>
+    </entry>
+</feed>
