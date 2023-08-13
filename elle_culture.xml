@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 17:41:51 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한여름을 호리는 이야기꾼, 제이다 차의 개인전 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/79679</link>
-            <guid>https://www.elle.co.kr/article/79679</guid>
-            <pubDate>Fri, 11 Aug 2023 17:41:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/102a5cf1-3881-4067-97b8-fd6771f0eea7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농부가 되고 싶어? 노트북 앞 여자들이 텃밭으로 떠난 이유를 담은 두 권의 책]]></title>
-            <link>https://www.elle.co.kr/article/79735</link>
-            <guid>https://www.elle.co.kr/article/79735</guid>
-            <pubDate>Thu, 10 Aug 2023 17:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[신간 '도시농부'와 '메주월령가'가 말하는 또다른 삶.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/9a0b988d-2ba4-4705-bdd5-5d4f3ab55146.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽉 닫힌 해피엔딩, '킹더랜드'! 설렘 폭발한 명장면 3 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79740</link>
-            <guid>https://www.elle.co.kr/article/79740</guid>
-            <pubDate>Wed, 09 Aug 2023 17:40:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/0b003236-09bf-4e5f-b885-0a9b23b7d23f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건축가와 무용가가 함께 사는 집]]></title>
-            <link>https://www.elle.co.kr/article/79701</link>
-            <guid>https://www.elle.co.kr/article/79701</guid>
-            <pubDate>Tue, 08 Aug 2023 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[바이아키텍츠 이병엽, 콜렉티브A 차진엽 부부의 차분하고 현대적인 정물화가 떠오르는 집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/2d52212d-a8ec-4bc3-b5e3-949381c184d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 영국 스타의 만남! 데이비드 호크니가 그려낸 해리 스타일스의 모습은?]]></title>
-            <link>https://www.elle.co.kr/article/79704</link>
-            <guid>https://www.elle.co.kr/article/79704</guid>
-            <pubDate>Tue, 08 Aug 2023 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/fa3d5dd9-df47-4c38-8c0c-e6873498a242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노마드라는 치트키 #프리워커]]></title>
-            <link>https://www.elle.co.kr/article/79355</link>
-            <guid>https://www.elle.co.kr/article/79355</guid>
-            <pubDate>Tue, 08 Aug 2023 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/034aa167-d5d2-42f7-9f3e-edcbcefc564f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
-            <link>https://www.elle.co.kr/article/79121</link>
-            <guid>https://www.elle.co.kr/article/79121</guid>
-            <pubDate>Mon, 07 Aug 2023 17:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/168ba103-ebdf-4f43-b98c-d0de9cb2d602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 혼자 일해요 #프리워커]]></title>
-            <link>https://www.elle.co.kr/article/79351</link>
-            <guid>https://www.elle.co.kr/article/79351</guid>
-            <pubDate>Mon, 07 Aug 2023 17:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[세 가지 직업을 가진 윤소현에게 노마드 라이프는 어떤 모습인지 물었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/881725df-84fe-49cd-bcac-8181c9097873.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-08-13T05:42:41.930Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한여름을 호리는 이야기꾼, 제이다 차의 개인전 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/79679</id>
+        <link href="https://www.elle.co.kr/article/79679"/>
+        <updated>2023-08-11T17:41:12.665Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[농부가 되고 싶어? 노트북 앞 여자들이 텃밭으로 떠난 이유를 담은 두 권의 책]]></title>
+        <id>https://www.elle.co.kr/article/79735</id>
+        <link href="https://www.elle.co.kr/article/79735"/>
+        <updated>2023-08-10T17:40:21.427Z</updated>
+        <content type="html"><![CDATA[신간 '도시농부'와 '메주월령가'가 말하는 또다른 삶.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽉 닫힌 해피엔딩, '킹더랜드'! 설렘 폭발한 명장면 3 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79740</id>
+        <link href="https://www.elle.co.kr/article/79740"/>
+        <updated>2023-08-09T17:40:40.992Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건축가와 무용가가 함께 사는 집]]></title>
+        <id>https://www.elle.co.kr/article/79701</id>
+        <link href="https://www.elle.co.kr/article/79701"/>
+        <updated>2023-08-08T17:40:49.270Z</updated>
+        <content type="html"><![CDATA[바이아키텍츠 이병엽, 콜렉티브A 차진엽 부부의 차분하고 현대적인 정물화가 떠오르는 집.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두 영국 스타의 만남! 데이비드 호크니가 그려낸 해리 스타일스의 모습은?]]></title>
+        <id>https://www.elle.co.kr/article/79704</id>
+        <link href="https://www.elle.co.kr/article/79704"/>
+        <updated>2023-08-08T17:40:49.308Z</updated>
+        <content type="html"><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노마드라는 치트키 #프리워커]]></title>
+        <id>https://www.elle.co.kr/article/79355</id>
+        <link href="https://www.elle.co.kr/article/79355"/>
+        <updated>2023-08-08T17:40:49.308Z</updated>
+        <content type="html"><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
+        <id>https://www.elle.co.kr/article/79121</id>
+        <link href="https://www.elle.co.kr/article/79121"/>
+        <updated>2023-08-07T17:41:12.181Z</updated>
+        <content type="html"><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나 혼자 일해요 #프리워커]]></title>
+        <id>https://www.elle.co.kr/article/79351</id>
+        <link href="https://www.elle.co.kr/article/79351"/>
+        <updated>2023-08-07T17:41:12.186Z</updated>
+        <content type="html"><![CDATA[세 가지 직업을 가진 윤소현에게 노마드 라이프는 어떤 모습인지 물었다.]]></content>
+    </entry>
+</feed>
