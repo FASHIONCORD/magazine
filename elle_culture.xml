@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-08-13T05:42:41.930Z</updated>
+    <updated>2023-08-13T17:41:51.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구교환이 상상한 'D.P. 2' 한호열 전역 후의 미래  (feat. 시즌2 분량)]]></title>
+        <id>https://www.elle.co.kr/article/79768</id>
+        <link href="https://www.elle.co.kr/article/79768"/>
+        <updated>2023-08-13T17:40:47.217Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한여름을 호리는 이야기꾼, 제이다 차의 개인전 #요즘전시]]></title>
         <id>https://www.elle.co.kr/article/79679</id>
@@ -51,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/79121"/>
         <updated>2023-08-07T17:41:12.181Z</updated>
         <content type="html"><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나 혼자 일해요 #프리워커]]></title>
-        <id>https://www.elle.co.kr/article/79351</id>
-        <link href="https://www.elle.co.kr/article/79351"/>
-        <updated>2023-08-07T17:41:12.186Z</updated>
-        <content type="html"><![CDATA[세 가지 직업을 가진 윤소현에게 노마드 라이프는 어떤 모습인지 물었다.]]></content>
     </entry>
 </feed>

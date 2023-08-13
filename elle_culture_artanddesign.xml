@@ -1,98 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/artanddesign</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-08-13T05:42:41.942Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
-        <id>https://www.elle.co.kr/article/79835</id>
-        <link href="https://www.elle.co.kr/article/79835"/>
-        <updated>2023-08-11T17:41:44.534Z</updated>
-        <content type="html"><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미술관을 닮은 집 #더컬렉터스]]></title>
-        <id>https://www.elle.co.kr/article/79785</id>
-        <link href="https://www.elle.co.kr/article/79785"/>
-        <updated>2023-08-10T17:40:52.391Z</updated>
-        <content type="html"><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEB 3.0 시대에 일하는 법 #프리워커]]></title>
-        <id>https://www.elle.co.kr/article/79356</id>
-        <link href="https://www.elle.co.kr/article/79356"/>
-        <updated>2023-08-08T17:41:23.351Z</updated>
-        <content type="html"><![CDATA[스타트업 '마인드터치' CEO이자 커뮤니티 '하이노마드' 리더 조승래가 이야기하는 노마드 라이프...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한여름을 호리는 이야기꾼, 제이다 차의 개인전 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/79679</id>
-        <link href="https://www.elle.co.kr/article/79679"/>
-        <updated>2023-08-08T17:41:23.357Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건축가와 무용가가 함께 사는 집]]></title>
-        <id>https://www.elle.co.kr/article/79701</id>
-        <link href="https://www.elle.co.kr/article/79701"/>
-        <updated>2023-08-06T17:41:07.607Z</updated>
-        <content type="html"><![CDATA[바이아키텍츠 이병엽, 콜렉티브A 차진엽 부부의 차분하고 현대적인 정물화가 떠오르는 집.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두 영국 스타의 만남! 데이비드 호크니가 그려낸 해리 스타일스의 모습은?]]></title>
-        <id>https://www.elle.co.kr/article/79704</id>
-        <link href="https://www.elle.co.kr/article/79704"/>
-        <updated>2023-08-04T17:41:47.564Z</updated>
-        <content type="html"><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노마드라는 치트키 #프리워커]]></title>
-        <id>https://www.elle.co.kr/article/79355</id>
-        <link href="https://www.elle.co.kr/article/79355"/>
-        <updated>2023-08-03T17:40:53.240Z</updated>
-        <content type="html"><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
-        <id>https://www.elle.co.kr/article/79121</id>
-        <link href="https://www.elle.co.kr/article/79121"/>
-        <updated>2023-08-02T17:40:58.868Z</updated>
-        <content type="html"><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나 혼자 일해요 #프리워커]]></title>
-        <id>https://www.elle.co.kr/article/79351</id>
-        <link href="https://www.elle.co.kr/article/79351"/>
-        <updated>2023-08-01T17:42:56.689Z</updated>
-        <content type="html"><![CDATA[세 가지 직업을 가진 윤소현에게 노마드 라이프는 어떤 모습인지 물었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도심 속 식물 섬, 내추럴리 내추럴]]></title>
-        <id>https://www.elle.co.kr/article/79120</id>
-        <link href="https://www.elle.co.kr/article/79120"/>
-        <updated>2023-07-30T17:40:49.001Z</updated>
-        <content type="html"><![CDATA[내추럴리 내추럴이 만들어나가는 자연스럽고 따뜻한 시선.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박물관이 살아있다]]></title>
-        <id>https://www.elle.co.kr/article/78409</id>
-        <link href="https://www.elle.co.kr/article/78409"/>
-        <updated>2023-07-25T05:40:54.430Z</updated>
-        <content type="html"><![CDATA[색다른 영감을 불어 넣어 줄 공간으로의 초대.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시인이 운영하는 식물 가게, 큐이디]]></title>
-        <id>https://www.elle.co.kr/article/79132</id>
-        <link href="https://www.elle.co.kr/article/79132"/>
-        <updated>2023-07-24T17:41:36.289Z</updated>
-        <content type="html"><![CDATA['시인이 운영하는 식물 가게'라는 문장은 단어의 나열만으로도 한 편의 시처럼 다가온다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿨한 여름을 닮은 아트 디저트]]></title>
-        <id>https://www.elle.co.kr/article/78414</id>
-        <link href="https://www.elle.co.kr/article/78414"/>
-        <updated>2023-07-23T17:41:38.246Z</updated>
-        <content type="html"><![CDATA[디저트를 마주하고 보는 시간, 그 관조의 즐거움.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 13 Aug 2023 17:41:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진가 제임스 넬슨의 싱그러운 텃밭]]></title>
+            <link>https://www.elle.co.kr/article/79829</link>
+            <guid>https://www.elle.co.kr/article/79829</guid>
+            <pubDate>Sun, 13 Aug 2023 17:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[누구에게나 나만의 텃밭이 필요하다. 땅을 파고, 씨를 뿌리고, 물을 주며 얻은 생명력 넘치는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/a630ef16-87f2-4e44-9bb0-f76544ae8f00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
+            <link>https://www.elle.co.kr/article/79835</link>
+            <guid>https://www.elle.co.kr/article/79835</guid>
+            <pubDate>Fri, 11 Aug 2023 17:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/74a7707e-fe94-4f04-9f0f-e87411fa65ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미술관을 닮은 집 #더컬렉터스]]></title>
+            <link>https://www.elle.co.kr/article/79785</link>
+            <guid>https://www.elle.co.kr/article/79785</guid>
+            <pubDate>Thu, 10 Aug 2023 17:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/25180fc3-d251-411b-aa1c-fc6143f9c9fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WEB 3.0 시대에 일하는 법 #프리워커]]></title>
+            <link>https://www.elle.co.kr/article/79356</link>
+            <guid>https://www.elle.co.kr/article/79356</guid>
+            <pubDate>Tue, 08 Aug 2023 17:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[스타트업 '마인드터치' CEO이자 커뮤니티 '하이노마드' 리더 조승래가 이야기하는 노마드 라이프...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/70c7c51b-1eb6-47a8-96cd-cde126f31275.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한여름을 호리는 이야기꾼, 제이다 차의 개인전 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/79679</link>
+            <guid>https://www.elle.co.kr/article/79679</guid>
+            <pubDate>Tue, 08 Aug 2023 17:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[건축가와 무용가가 함께 사는 집]]></title>
+            <link>https://www.elle.co.kr/article/79701</link>
+            <guid>https://www.elle.co.kr/article/79701</guid>
+            <pubDate>Sun, 06 Aug 2023 17:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[바이아키텍츠 이병엽, 콜렉티브A 차진엽 부부의 차분하고 현대적인 정물화가 떠오르는 집.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[두 영국 스타의 만남! 데이비드 호크니가 그려낸 해리 스타일스의 모습은?]]></title>
+            <link>https://www.elle.co.kr/article/79704</link>
+            <guid>https://www.elle.co.kr/article/79704</guid>
+            <pubDate>Fri, 04 Aug 2023 17:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노마드라는 치트키 #프리워커]]></title>
+            <link>https://www.elle.co.kr/article/79355</link>
+            <guid>https://www.elle.co.kr/article/79355</guid>
+            <pubDate>Thu, 03 Aug 2023 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[마케터 킴제이는 30개국을 여행하며 3000여 개의 브랜드를 컨설팅했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정성 어린 화원을 빚는 '오이타']]></title>
+            <link>https://www.elle.co.kr/article/79121</link>
+            <guid>https://www.elle.co.kr/article/79121</guid>
+            <pubDate>Wed, 02 Aug 2023 17:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[바람과 햇빛이 오가는 한옥에서 '오이타'는 정성껏 식물을 가꾼다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나 혼자 일해요 #프리워커]]></title>
+            <link>https://www.elle.co.kr/article/79351</link>
+            <guid>https://www.elle.co.kr/article/79351</guid>
+            <pubDate>Tue, 01 Aug 2023 17:42:56 GMT</pubDate>
+            <content:encoded><![CDATA[세 가지 직업을 가진 윤소현에게 노마드 라이프는 어떤 모습인지 물었다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도심 속 식물 섬, 내추럴리 내추럴]]></title>
+            <link>https://www.elle.co.kr/article/79120</link>
+            <guid>https://www.elle.co.kr/article/79120</guid>
+            <pubDate>Sun, 30 Jul 2023 17:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[내추럴리 내추럴이 만들어나가는 자연스럽고 따뜻한 시선.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박물관이 살아있다]]></title>
+            <link>https://www.elle.co.kr/article/78409</link>
+            <guid>https://www.elle.co.kr/article/78409</guid>
+            <pubDate>Tue, 25 Jul 2023 05:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[색다른 영감을 불어 넣어 줄 공간으로의 초대.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시인이 운영하는 식물 가게, 큐이디]]></title>
+            <link>https://www.elle.co.kr/article/79132</link>
+            <guid>https://www.elle.co.kr/article/79132</guid>
+            <pubDate>Mon, 24 Jul 2023 17:41:36 GMT</pubDate>
+            <content:encoded><![CDATA['시인이 운영하는 식물 가게'라는 문장은 단어의 나열만으로도 한 편의 시처럼 다가온다.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
