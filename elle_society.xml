@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 17:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 서울을 떠도는 사람의 희한한 집 취향]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/79692</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/79692</guid>
+            <pubDate>Mon, 14 Aug 2023 17:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[우리 모두는 서울을 떠돈다. 출판사 봄알람 이두루 대표도 마찬가지다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/f5be6f16-769a-43f7-a6e4-ac55191b4f97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 내가 좋아하는 우리 동네]]></title>
             <link>https://www.elle.co.kr/ellevoice/essay/79565</link>
@@ -59,13 +67,6 @@
             <guid>https://www.elle.co.kr/article/79305</guid>
             <pubDate>Thu, 03 Aug 2023 05:42:09 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/8ba4220a-9dd2-4a67-a3f4-f54321552b3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 헌법은 어떻게 만들어졌을까? 제75주년 제헌절 기념 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79166</link>
-            <guid>https://www.elle.co.kr/article/79166</guid>
-            <pubDate>Mon, 31 Jul 2023 17:41:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/a52b6dc6-ca3e-4aa5-8b6d-75a33c5588d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

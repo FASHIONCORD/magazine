@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 17:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 방송부터 대박! 박해진X박성웅X임지연의 '국민사형투표' 인기 요인 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79871</link>
+            <guid>https://www.elle.co.kr/article/79871</guid>
+            <pubDate>Mon, 14 Aug 2023 17:41:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/ffeac689-9883-487d-88a2-8330e76a2916.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['민희진 감성' 어떻게 소화했을까? 뷔가 직접 전한 첫 솔로 앨범 소식]]></title>
             <link>https://www.elle.co.kr/article/79791</link>
@@ -34,7 +41,6 @@
             <guid>https://www.elle.co.kr/article/79611</guid>
             <pubDate>Mon, 31 Jul 2023 17:41:03 GMT</pubDate>
             <content:encoded><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7d3ce265-5645-48bf-8329-b8b1a727bc2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
@@ -86,13 +92,6 @@
             <link>https://www.elle.co.kr/article/79223</link>
             <guid>https://www.elle.co.kr/article/79223</guid>
             <pubDate>Mon, 17 Jul 2023 17:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[영화 덕후들의 인생작]]></title>
-            <link>https://www.elle.co.kr/article/79063</link>
-            <guid>https://www.elle.co.kr/article/79063</guid>
-            <pubDate>Wed, 12 Jul 2023 17:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[한 작품을 N차 관람한 자들이 말하는 영화들.]]></content:encoded>
         </item>
     </channel>
 </rss>

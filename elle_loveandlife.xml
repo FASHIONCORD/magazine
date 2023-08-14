@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 17:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷잘알 셀럽들이 휴가를 즐기는 방법! 도시 ver.]]></title>
+            <link>https://www.elle.co.kr/article/79822</link>
+            <guid>https://www.elle.co.kr/article/79822</guid>
+            <pubDate>Mon, 14 Aug 2023 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[도시 여행에 어울리는 스타일을 따로 있어요. 티파니, 슬기, 한소희 등 당장 따라 입고 싶은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/4e2449fc-0be9-44a2-bca3-da30dfc26ce7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흐엉 도딘과 시야오 왕의 '선']]></title>
             <link>https://www.elle.co.kr/article/79790</link>
@@ -60,14 +68,6 @@
             <pubDate>Wed, 09 Aug 2023 05:42:04 GMT</pubDate>
             <content:encoded><![CDATA[편의점에서 파는 재료로 뚝딱! 문별이 소개하는 초간단 홈 칵테일 레서피에 도전해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/4967febe-de6c-4db9-894c-baf8af567544.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 쓰리 데이즈 오브 디자인에서 생긴 일]]></title>
-            <link>https://www.elle.co.kr/article/79670</link>
-            <guid>https://www.elle.co.kr/article/79670</guid>
-            <pubDate>Tue, 08 Aug 2023 17:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[코펜하겐의 여름을 수놓는 디자인 축제! 올해로 10주년을 맞은 '3 데이즈 오브 디자인(3 Days ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/b8a80654-f81e-4619-b86b-5b7b4d7e2184.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
