@@ -1,61 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/society</id>
-    <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-08-15T05:41:31.413Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 서울을 떠도는 사람의 희한한 집 취향]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/79692</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/79692"/>
-        <updated>2023-08-14T17:41:56.027Z</updated>
-        <content type="html"><![CDATA[우리 모두는 서울을 떠돈다. 출판사 봄알람 이두루 대표도 마찬가지다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 내가 좋아하는 우리 동네]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/79565</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/79565"/>
-        <updated>2023-08-11T17:42:06.365Z</updated>
-        <content type="html"><![CDATA[강서구 주민 주목! 30년 넘게 강서구에서 살아온 최지은 작가의 동네 애착기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴턴도 전 재산을 잃었다! 빚내서 주식 투자하는 이의 최후는?_돈쓸신잡 #109]]></title>
-        <id>https://www.elle.co.kr/article/79664</id>
-        <link href="https://www.elle.co.kr/article/79664"/>
-        <updated>2023-08-10T17:41:14.138Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 자궁근종 제거 수술을 했습니다만]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/79550</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/79550"/>
-        <updated>2023-08-09T17:42:12.878Z</updated>
-        <content type="html"><![CDATA[생애 첫 입원! 생각보다 '별 일'이었던 자궁근종 제거수술기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 당장 '간헐적 절약'을 시작해야 하는 이유_돈쓸신잡 #108]]></title>
-        <id>https://www.elle.co.kr/article/79489</id>
-        <link href="https://www.elle.co.kr/article/79489"/>
-        <updated>2023-08-07T17:42:14.560Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중요한 건 꺾여도 이겨내는 마음: 콜롬비아전 앞둔 조소현-홍혜지의 각오]]></title>
-        <id>https://www.elle.co.kr/article/79407</id>
-        <link href="https://www.elle.co.kr/article/79407"/>
-        <updated>2023-08-06T17:41:27.338Z</updated>
-        <content type="html"><![CDATA[한국 여자 축구의 '황금 세대', 대표팀 조소현과 홍혜지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 집에 식중독균이? 꿉꿉한 장마철, 세균 제로 딥 클리닝 TIP 7_선배’s 어드바이스 #178]]></title>
-        <id>https://www.elle.co.kr/article/79394</id>
-        <link href="https://www.elle.co.kr/article/79394"/>
-        <updated>2023-08-03T17:41:14.869Z</updated>
-        <content type="html"><![CDATA[어떤 세제로 어떻게 청소해야 곰팡이 없이 깨끗해질까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언제까지 월급만 믿을 건가요? AI가 호시탐탐 넘보는 인간의 영역_돈쓸신잡 #107]]></title>
-        <id>https://www.elle.co.kr/article/79305</id>
-        <link href="https://www.elle.co.kr/article/79305"/>
-        <updated>2023-08-03T05:42:09.452Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 소사이어티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 15 Aug 2023 17:41:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 서울을 떠도는 사람의 희한한 집 취향]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/79692</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/79692</guid>
+            <pubDate>Mon, 14 Aug 2023 17:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[우리 모두는 서울을 떠돈다. 출판사 봄알람 이두루 대표도 마찬가지다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/f5be6f16-769a-43f7-a6e4-ac55191b4f97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 내가 좋아하는 우리 동네]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/79565</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/79565</guid>
+            <pubDate>Fri, 11 Aug 2023 17:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[강서구 주민 주목! 30년 넘게 강서구에서 살아온 최지은 작가의 동네 애착기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/bf4a8f0a-4091-4b60-a451-b495a55fac34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴턴도 전 재산을 잃었다! 빚내서 주식 투자하는 이의 최후는?_돈쓸신잡 #109]]></title>
+            <link>https://www.elle.co.kr/article/79664</link>
+            <guid>https://www.elle.co.kr/article/79664</guid>
+            <pubDate>Thu, 10 Aug 2023 17:41:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/e4734b25-517f-431e-9d11-44dede1ad934.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 자궁근종 제거 수술을 했습니다만]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/79550</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/79550</guid>
+            <pubDate>Wed, 09 Aug 2023 17:42:12 GMT</pubDate>
+            <content:encoded><![CDATA[생애 첫 입원! 생각보다 '별 일'이었던 자궁근종 제거수술기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/485e5bb6-8115-4684-92b2-0035662a0269.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 당장 '간헐적 절약'을 시작해야 하는 이유_돈쓸신잡 #108]]></title>
+            <link>https://www.elle.co.kr/article/79489</link>
+            <guid>https://www.elle.co.kr/article/79489</guid>
+            <pubDate>Mon, 07 Aug 2023 17:42:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/2ed3b380-49db-4669-8c43-a5141e6b5c70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중요한 건 꺾여도 이겨내는 마음: 콜롬비아전 앞둔 조소현-홍혜지의 각오]]></title>
+            <link>https://www.elle.co.kr/article/79407</link>
+            <guid>https://www.elle.co.kr/article/79407</guid>
+            <pubDate>Sun, 06 Aug 2023 17:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[한국 여자 축구의 '황금 세대', 대표팀 조소현과 홍혜지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/70a5a3e0-35da-4579-ad64-0e8ccebf4860.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 집에 식중독균이? 꿉꿉한 장마철, 세균 제로 딥 클리닝 TIP 7_선배’s 어드바이스 #178]]></title>
+            <link>https://www.elle.co.kr/article/79394</link>
+            <guid>https://www.elle.co.kr/article/79394</guid>
+            <pubDate>Thu, 03 Aug 2023 17:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 세제로 어떻게 청소해야 곰팡이 없이 깨끗해질까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/019f9e48-4bea-4f1f-a3cc-d58754be7b4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언제까지 월급만 믿을 건가요? AI가 호시탐탐 넘보는 인간의 영역_돈쓸신잡 #107]]></title>
+            <link>https://www.elle.co.kr/article/79305</link>
+            <guid>https://www.elle.co.kr/article/79305</guid>
+            <pubDate>Thu, 03 Aug 2023 05:42:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/8ba4220a-9dd2-4a67-a3f4-f54321552b3b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
