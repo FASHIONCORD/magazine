@@ -1,90 +1,383 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/moviesandtv</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-08-15T17:41:56.190Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[첫 방송부터 대박! 박해진X박성웅X임지연의 '국민사형투표' 인기 요인 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/79871</id>
-        <link href="https://www.elle.co.kr/article/79871"/>
-        <updated>2023-08-14T17:41:22.707Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['민희진 감성' 어떻게 소화했을까? 뷔가 직접 전한 첫 솔로 앨범 소식]]></title>
-        <id>https://www.elle.co.kr/article/79791</id>
-        <link href="https://www.elle.co.kr/article/79791"/>
-        <updated>2023-08-09T17:41:30.240Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구교환이 상상한 'D.P. 2' 한호열 전역 후의 미래  (feat. 시즌2 분량)]]></title>
-        <id>https://www.elle.co.kr/article/79768</id>
-        <link href="https://www.elle.co.kr/article/79768"/>
-        <updated>2023-08-08T17:41:11.565Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽉 닫힌 해피엔딩, '킹더랜드'! 설렘 폭발한 명장면 3 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/79740</id>
-        <link href="https://www.elle.co.kr/article/79740"/>
-        <updated>2023-08-07T17:41:35.018Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/79611</id>
-        <link href="https://www.elle.co.kr/article/79611"/>
-        <updated>2023-07-31T17:41:03.158Z</updated>
-        <content type="html"><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
-        <id>https://www.elle.co.kr/article/79610</id>
-        <link href="https://www.elle.co.kr/article/79610"/>
-        <updated>2023-07-31T17:41:03.161Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소녀 vs. 12살 작은 인간]]></title>
-        <id>https://www.elle.co.kr/article/79507</id>
-        <link href="https://www.elle.co.kr/article/79507"/>
-        <updated>2023-07-27T17:40:40.745Z</updated>
-        <content type="html"><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
-        <id>https://www.elle.co.kr/article/79502</id>
-        <link href="https://www.elle.co.kr/article/79502"/>
-        <updated>2023-07-27T17:40:40.746Z</updated>
-        <content type="html"><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태리 열연에 역대급 반전까지! '악귀' 후반부 관전 포인트 2 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/79422</id>
-        <link href="https://www.elle.co.kr/article/79422"/>
-        <updated>2023-07-24T17:41:26.950Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감독 겸 배우' 정우성의 장편 데뷔작 '보호자' 정보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/79295</id>
-        <link href="https://www.elle.co.kr/article/79295"/>
-        <updated>2023-07-19T17:41:34.215Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약자라고 안 봐줘! 파이트 저지 모니카X셔누가 꼽은 '스우파2' 관전 포인트]]></title>
-        <id>https://www.elle.co.kr/article/79294</id>
-        <link href="https://www.elle.co.kr/article/79294"/>
-        <updated>2023-07-19T17:41:34.219Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
-        <id>https://www.elle.co.kr/article/79255</id>
-        <link href="https://www.elle.co.kr/article/79255"/>
-        <updated>2023-07-18T17:40:59.994Z</updated>
-        <content type="html"><![CDATA[무려 7년 만.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/79223</id>
-        <link href="https://www.elle.co.kr/article/79223"/>
-        <updated>2023-07-17T17:41:49.683Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Aug 2023 05:42:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 방송부터 대박! 박해진X박성웅X임지연의 '국민사형투표' 인기 요인 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79871</link>
+            <guid>https://www.elle.co.kr/article/79871</guid>
+            <pubDate>Mon, 14 Aug 2023 17:41:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/ffeac689-9883-487d-88a2-8330e76a2916.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['민희진 감성' 어떻게 소화했을까? 뷔가 직접 전한 첫 솔로 앨범 소식]]></title>
+            <link>https://www.elle.co.kr/article/79791</link>
+            <guid>https://www.elle.co.kr/article/79791</guid>
+            <pubDate>Wed, 09 Aug 2023 17:41:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/35db52cb-768b-4c69-9a4a-3aed33f49909.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구교환이 상상한 'D.P. 2' 한호열 전역 후의 미래  (feat. 시즌2 분량)]]></title>
+            <link>https://www.elle.co.kr/article/79768</link>
+            <guid>https://www.elle.co.kr/article/79768</guid>
+            <pubDate>Tue, 08 Aug 2023 17:41:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/b87d5203-912b-4044-9071-ffc5f4e156e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽉 닫힌 해피엔딩, '킹더랜드'! 설렘 폭발한 명장면 3 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79740</link>
+            <guid>https://www.elle.co.kr/article/79740</guid>
+            <pubDate>Mon, 07 Aug 2023 17:41:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/0b003236-09bf-4e5f-b885-0a9b23b7d23f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김태리도 대본 보다가 놀랐다는 '악귀' 명장면은? #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79611</link>
+            <guid>https://www.elle.co.kr/article/79611</guid>
+            <pubDate>Mon, 31 Jul 2023 17:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
+            <link>https://www.elle.co.kr/article/79610</link>
+            <guid>https://www.elle.co.kr/article/79610</guid>
+            <pubDate>Mon, 31 Jul 2023 17:41:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[소녀 vs. 12살 작은 인간]]></title>
+            <link>https://www.elle.co.kr/article/79507</link>
+            <guid>https://www.elle.co.kr/article/79507</guid>
+            <pubDate>Thu, 27 Jul 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
+            <link>https://www.elle.co.kr/article/79502</link>
+            <guid>https://www.elle.co.kr/article/79502</guid>
+            <pubDate>Thu, 27 Jul 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김태리 열연에 역대급 반전까지! '악귀' 후반부 관전 포인트 2 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79422</link>
+            <guid>https://www.elle.co.kr/article/79422</guid>
+            <pubDate>Mon, 24 Jul 2023 17:41:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['감독 겸 배우' 정우성의 장편 데뷔작 '보호자' 정보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/79295</link>
+            <guid>https://www.elle.co.kr/article/79295</guid>
+            <pubDate>Wed, 19 Jul 2023 17:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[약자라고 안 봐줘! 파이트 저지 모니카X셔누가 꼽은 '스우파2' 관전 포인트]]></title>
+            <link>https://www.elle.co.kr/article/79294</link>
+            <guid>https://www.elle.co.kr/article/79294</guid>
+            <pubDate>Wed, 19 Jul 2023 17:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
+            <link>https://www.elle.co.kr/article/79255</link>
+            <guid>https://www.elle.co.kr/article/79255</guid>
+            <pubDate>Tue, 18 Jul 2023 17:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[무려 7년 만.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['킹더랜드'도 대박 난 임윤아의 인생캐 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79223</link>
+            <guid>https://www.elle.co.kr/article/79223</guid>
+            <pubDate>Mon, 17 Jul 2023 17:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[영화 덕후들의 인생작]]></title>
+            <link>https://www.elle.co.kr/article/79063</link>
+            <guid>https://www.elle.co.kr/article/79063</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/79063">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/2414cc73-aa2a-43a3-a51d-e1d6039f04e2.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/79063">
+                        영화 덕후들의 인생작                    </a>
+                </em>
+                <p class="excerpt">한 작품을 N차 관람한 자들이 말하는 영화들.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?]]></title>
+            <link>https://www.elle.co.kr/article/79125</link>
+            <guid>https://www.elle.co.kr/article/79125</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/79125">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/6b06f08c-fc2d-4ef4-8158-0c129fa3342a.jpg" alt=".">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/79125">
+                        전설적인 슈퍼모델 4인방의 이야기가 다큐멘터리로! ‘더 슈퍼모델’ 공개일은?                    </a>
+                </em>
+                <p class="excerpt">나오미 캠벨, 신디 크로포드, 린다 에반젤리스타, 크리스티 털링턴의 발자취를 조명한 다큐멘터리...</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[집밥 예찬론자라는 '마당집' 김태희의 자기 관리 비법 & 식단 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/79117</link>
+            <guid>https://www.elle.co.kr/article/79117</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/79117">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/d8ac32d9-3e0e-47aa-abff-ec8cfb09e0ac.jpg" alt="김태희 ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/79117">
+                        집밥 예찬론자라는 '마당집' 김태희의 자기 관리 비법 &amp; 식단 #스타다이어트                     </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/79106</link>
+            <guid>https://www.elle.co.kr/article/79106</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/79106">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/08103458-0249-41e7-b166-73fa17872e6f.jpg" alt="t">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/79106">
+                        시사회는 커녕 예고편도 없는 82세 미야자키 하야오의 은퇴작 정보.txt                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['킹더랜드' 구원에 앞서 '옷소매' 이산이 있었다?! 이준호 인생캐 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79047</link>
+            <guid>https://www.elle.co.kr/article/79047</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/79047">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/2280719e-5ccd-4b95-b51b-ac0aa58843f6.jpg" alt="이준호 ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/79047">
+                        '킹더랜드' 구원에 앞서 '옷소매' 이산이 있었다?! 이준호 인생캐 3선 #요즘드라마                     </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[K-무비의 또다른 감각을 만드는 사람들]]></title>
+            <link>https://www.elle.co.kr/article/79004</link>
+            <guid>https://www.elle.co.kr/article/79004</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/79004">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/5be0ec79-7937-40dd-b11d-492b6526a6d0.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/79004">
+                        K-무비의 또다른 감각을 만드는 사람들                    </a>
+                </em>
+                <p class="excerpt">K무비의 지금에 감독과 배우만 있는 게 아니다. 영화의 시작과 끝에서 또 다른 감각으로 영화를...</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?]]></title>
+            <link>https://www.elle.co.kr/article/79018</link>
+            <guid>https://www.elle.co.kr/article/79018</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/79018">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/72df0ef1-605c-4297-8780-0309a04daa93.jpg" alt="보아와 엄정화 ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/79018">
+                        드디어 공개된 보아의 '초대' 커버 풀버전! 첫 섹시 콘셉트 소화한 소감은?                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list]]></title>
+            <link>https://www.elle.co.kr/article/79017</link>
+            <guid>https://www.elle.co.kr/article/79017</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/79017">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/f4ec992d-6978-4546-b1e2-3ec5f8b03235.jpg" alt="t">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/79017">
+                        언니들과 최강 케미! 송혜교와 김태희, 전도연까지 섭렵한 임지연 스케줄.list                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!]]></title>
+            <link>https://www.elle.co.kr/article/78984</link>
+            <guid>https://www.elle.co.kr/article/78984</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/78984">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/269fffad-1182-46c1-be64-ee42d0ff5a50.jpg" alt="심형탁, 사야 부부와 정국 ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/78984">
+                        BTS 정국과 심형탁 아내 사야, 서로가 인정한 닮은꼴?!                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치]]></title>
+            <link>https://www.elle.co.kr/article/78983</link>
+            <guid>https://www.elle.co.kr/article/78983</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/78983">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/03ca0294-d275-4388-b572-0e50b27a12de.jpg" alt="d">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/78983">
+                        '경이로운 소문2' 첫 방송 전 무조건 예습해야 하는 카운터즈 VS. 악귀 능력치                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['킹더랜드' 재벌 3세 이준호, 수트 입고 '뉴스룸' 출근! 방송은 언제?]]></title>
+            <link>https://www.elle.co.kr/article/78982</link>
+            <guid>https://www.elle.co.kr/article/78982</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/78982">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/7375c3c3-7c94-4aa2-a5ba-bc135b8f6efe.jpg" alt="이준호 ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/78982">
+                        '킹더랜드' 재벌 3세 이준호, 수트 입고 '뉴스룸' 출근! 방송은 언제?                     </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[닉 퓨리의 동료 요원이 되다! 올리비아 콜맨]]></title>
+            <link>https://www.elle.co.kr/article/78889</link>
+            <guid>https://www.elle.co.kr/article/78889</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/78889">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/67fc63d8-6190-4eb2-b1c3-4804b061cbbb.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/78889">
+                        닉 퓨리의 동료 요원이 되다! 올리비아 콜맨                    </a>
+                </em>
+                <p class="excerpt">&lt;더 페이버릿: 여왕의 여자&gt;로 아카데미를 거머쥔 올리비아콜맨. 그의 영역은 MCU로 깜짝 확장됐...</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/78948</link>
+            <guid>https://www.elle.co.kr/article/78948</guid>
+            <pubDate>Wed, 16 Aug 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/78948">
+                    <img src="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/e53c6c2c-d719-4b44-9c5f-52ccc39d5e07.jpg" alt="ㅅ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/78948">
+                        유해진 첫 로맨틱 코미디, 상대가 김희선?! 영화 '달짝지근해' 정보.txt                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
