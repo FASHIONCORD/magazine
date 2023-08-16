@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-16T05:42:38.252Z</updated>
+    <updated>2023-08-16T17:41:53.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 방송부터 대박! 박해진X박성웅X임지연의 '국민사형투표' 인기 요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79871</id>
+        <link href="https://www.elle.co.kr/article/79871"/>
+        <updated>2023-08-16T17:40:43.530Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최장수 국가대표 캡틴 손흥민, 토트넘 캡틴 됐다! (ft. 주장 데뷔전)]]></title>
+        <id>https://www.elle.co.kr/article/79859</id>
+        <link href="https://www.elle.co.kr/article/79859"/>
+        <updated>2023-08-16T17:40:43.536Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소년미 뿜뿜! 로에베 글로벌 앰배서더 태용과 엘르의 전무후무한 조우]]></title>
         <id>https://www.elle.co.kr/article/79851</id>
@@ -41,17 +53,5 @@
         <id>https://www.elle.co.kr/article/79807</id>
         <link href="https://www.elle.co.kr/article/79807"/>
         <updated>2023-08-14T17:40:48.025Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보검에 이어 규현까지? 남자들도 자궁경부암 예방 주사 맞아야 하는 이유]]></title>
-        <id>https://www.elle.co.kr/article/79801</id>
-        <link href="https://www.elle.co.kr/article/79801"/>
-        <updated>2023-08-11T17:41:00.817Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소미가 슬림 탄탄 체형 완성에 적극 추천한 운동법은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79796</id>
-        <link href="https://www.elle.co.kr/article/79796"/>
-        <updated>2023-08-11T17:41:00.819Z</updated>
     </entry>
 </feed>

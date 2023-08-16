@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 05:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 17:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[느슨한 연대의 맛 #프리워커]]></title>
+            <link>https://www.elle.co.kr/article/79359</link>
+            <guid>https://www.elle.co.kr/article/79359</guid>
+            <pubDate>Wed, 16 Aug 2023 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/73bc2203-51c2-4bd9-9125-7369d7b02ceb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['위대한 이탈리아 비전: 파르네시나 컬렉션' 답이 아닌 질문인 예술을 만나다 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/79904</link>
+            <guid>https://www.elle.co.kr/article/79904</guid>
+            <pubDate>Wed, 16 Aug 2023 17:41:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/a4a412f0-bd74-4c8b-bda7-bb6aeba500a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 달리에게 데커레이션 화보를 만들라고 했더니]]></title>
             <link>https://www.elle.co.kr/article/79830</link>
@@ -29,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/79835</guid>
             <pubDate>Fri, 11 Aug 2023 17:41:44 GMT</pubDate>
             <content:encoded><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/74a7707e-fe94-4f04-9f0f-e87411fa65ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미술관을 닮은 집 #더컬렉터스]]></title>
@@ -37,7 +51,6 @@
             <guid>https://www.elle.co.kr/article/79785</guid>
             <pubDate>Thu, 10 Aug 2023 17:40:52 GMT</pubDate>
             <content:encoded><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/25180fc3-d251-411b-aa1c-fc6143f9c9fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WEB 3.0 시대에 일하는 법 #프리워커]]></title>
@@ -47,7 +60,7 @@
             <content:encoded><![CDATA[스타트업 '마인드터치' CEO이자 커뮤니티 '하이노마드' 리더 조승래가 이야기하는 노마드 라이프...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한여름을 호리는 이야기꾼, 제이다 차의 개인전 #요즘전시]]></title>
+            <title><![CDATA[한여름을 호리는 이야기꾼, 제이디 차의 개인전 #요즘전시]]></title>
             <link>https://www.elle.co.kr/article/79679</link>
             <guid>https://www.elle.co.kr/article/79679</guid>
             <pubDate>Tue, 08 Aug 2023 17:41:23 GMT</pubDate>
@@ -86,20 +99,6 @@
             <guid>https://www.elle.co.kr/article/79351</guid>
             <pubDate>Tue, 01 Aug 2023 17:42:56 GMT</pubDate>
             <content:encoded><![CDATA[세 가지 직업을 가진 윤소현에게 노마드 라이프는 어떤 모습인지 물었다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도심 속 식물 섬, 내추럴리 내추럴]]></title>
-            <link>https://www.elle.co.kr/article/79120</link>
-            <guid>https://www.elle.co.kr/article/79120</guid>
-            <pubDate>Sun, 30 Jul 2023 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[내추럴리 내추럴이 만들어나가는 자연스럽고 따뜻한 시선.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박물관이 살아있다]]></title>
-            <link>https://www.elle.co.kr/article/78409</link>
-            <guid>https://www.elle.co.kr/article/78409</guid>
-            <pubDate>Tue, 25 Jul 2023 05:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[색다른 영감을 불어 넣어 줄 공간으로의 초대.]]></content:encoded>
         </item>
     </channel>
 </rss>
