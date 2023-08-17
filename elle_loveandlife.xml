@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-08-16T17:41:53.187Z</updated>
+    <updated>2023-08-17T05:42:42.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[취향 따라 즐겨봐! '1인 1빙' 가능한 경복궁 근처 빙수 맛집 2 #마실마실]]></title>
+        <id>https://www.elle.co.kr/article/79850</id>
+        <link href="https://www.elle.co.kr/article/79850"/>
+        <updated>2023-08-17T05:42:17.032Z</updated>
+        <content type="html"><![CDATA[더위를 잊게 할 형형색색의 빙수들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름날의 댕댕이들]]></title>
+        <id>https://www.elle.co.kr/article/79795</id>
+        <link href="https://www.elle.co.kr/article/79795"/>
+        <updated>2023-08-17T05:42:17.035Z</updated>
+        <content type="html"><![CDATA[수영부터 패들보드, 캠핑까지. 놀 줄 아는 강아지들의 시원한 여름 나기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숲길 거닐며 힐링! 한여름밤 무더위 날릴 8월 야간 축제 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/79845</id>
@@ -44,18 +58,5 @@
         <link href="https://www.elle.co.kr/article/79734"/>
         <updated>2023-08-11T17:41:56.496Z</updated>
         <content type="html"><![CDATA[비밀스러운 기운을 가진 호텔 파비용 드 라 헨느에서는 오롯이 나를 오늘의 주인공으로 만들어 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식탁의 꽃! 정재형의 테이블 웨어 10]]></title>
-        <id>https://www.elle.co.kr/article/79723</id>
-        <link href="https://www.elle.co.kr/article/79723"/>
-        <updated>2023-08-11T05:42:29.311Z</updated>
-        <content type="html"><![CDATA[음식을 담는 도구를 넘어 스타일리시한 라이프스타일을 완성해 주는 콜렉팅의 대상! 식사를 하는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭염엔 시원한 극장에서 영화 볼까? 8월 이색 영화제 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/79708</id>
-        <link href="https://www.elle.co.kr/article/79708"/>
-        <updated>2023-08-10T17:41:01.076Z</updated>
     </entry>
 </feed>
