@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 05:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 17:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
+            <link>https://www.elle.co.kr/article/79924</link>
+            <guid>https://www.elle.co.kr/article/79924</guid>
+            <pubDate>Thu, 17 Aug 2023 17:41:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/5937562d-2543-4225-9cfe-5b9a2913db7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 '마스크걸' 완전체 공개! 마지막 김모미, 이한별은 누구?]]></title>
             <link>https://www.elle.co.kr/article/79905</link>
@@ -33,7 +40,6 @@
             <link>https://www.elle.co.kr/article/79768</link>
             <guid>https://www.elle.co.kr/article/79768</guid>
             <pubDate>Tue, 08 Aug 2023 17:41:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/b87d5203-912b-4044-9071-ffc5f4e156e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽉 닫힌 해피엔딩, '킹더랜드'! 설렘 폭발한 명장면 3 #요즘드라마]]></title>
@@ -85,13 +91,6 @@
             <link>https://www.elle.co.kr/article/79294</link>
             <guid>https://www.elle.co.kr/article/79294</guid>
             <pubDate>Wed, 19 Jul 2023 17:41:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[드디어 시즌4 나오는 '크라임씬', 원년 멤버와 호흡 맞출 새 멤버 라인업.txt]]></title>
-            <link>https://www.elle.co.kr/article/79255</link>
-            <guid>https://www.elle.co.kr/article/79255</guid>
-            <pubDate>Tue, 18 Jul 2023 17:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[무려 7년 만.]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-17T05:42:42.836Z</updated>
+    <updated>2023-08-17T17:42:29.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박솔미부터 이시영까지, 절친 총출동한 소유진 42번째 생파 인증샷.jpg]]></title>
+        <id>https://www.elle.co.kr/article/79889</id>
+        <link href="https://www.elle.co.kr/article/79889"/>
+        <updated>2023-08-17T17:40:47.037Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 솔로 마지막 타자 뷔, '넘사벽' 운동 신경 보유한 그의 관리 비결은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/79888</id>
+        <link href="https://www.elle.co.kr/article/79888"/>
+        <updated>2023-08-17T17:40:47.040Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빈지노-스테파니 미초바, 결혼 1주년 자축하며 남긴 스윗한 말! #럽스타그램]]></title>
+        <id>https://www.elle.co.kr/article/79872</id>
+        <link href="https://www.elle.co.kr/article/79872"/>
+        <updated>2023-08-17T17:40:47.044Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫 방송부터 대박! 박해진X박성웅X임지연의 '국민사형투표' 인기 요인 총정리 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/79871</id>
@@ -35,23 +53,5 @@
         <id>https://www.elle.co.kr/article/79836</id>
         <link href="https://www.elle.co.kr/article/79836"/>
         <updated>2023-08-14T17:40:48.018Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10kg 감량에 허리 둘레 즉각 감소! 전현무가 바로 효과 본 식단과 운동법 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79818</id>
-        <link href="https://www.elle.co.kr/article/79818"/>
-        <updated>2023-08-14T17:40:48.020Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구준엽-서희원 부부 23년 만의 재회 순간 최초 공개.avi]]></title>
-        <id>https://www.elle.co.kr/article/79817</id>
-        <link href="https://www.elle.co.kr/article/79817"/>
-        <updated>2023-08-14T17:40:48.023Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤도현이 부모님께도 알리지 않았던 암 투병을 3년 만에 고백한 이유]]></title>
-        <id>https://www.elle.co.kr/article/79807</id>
-        <link href="https://www.elle.co.kr/article/79807"/>
-        <updated>2023-08-14T17:40:48.025Z</updated>
     </entry>
 </feed>
