@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-18T05:42:30.625Z</updated>
+    <updated>2023-08-18T17:42:41.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠팡의 도약]]></title>
+        <id>https://www.elle.co.kr/article/79863</id>
+        <link href="https://www.elle.co.kr/article/79863"/>
+        <updated>2023-08-18T17:40:38.944Z</updated>
+        <content type="html"><![CDATA[커머스계의 대표 주자 쿠팡이 ‘로켓럭셔리’로 럭셔리 뷰티 마켓에 도전장을 내밀었다. 이병희 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비키니 패션의 선두 주자 박나래! 과거 7kg 감량한 비결은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/79925</id>
+        <link href="https://www.elle.co.kr/article/79925"/>
+        <updated>2023-08-18T17:40:38.952Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
+        <id>https://www.elle.co.kr/article/79924</id>
+        <link href="https://www.elle.co.kr/article/79924"/>
+        <updated>2023-08-18T17:40:38.953Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드디어 '마스크걸' 완전체 공개! 마지막 김모미, 이한별은 누구?]]></title>
         <id>https://www.elle.co.kr/article/79905</id>
@@ -34,24 +53,5 @@
         <id>https://www.elle.co.kr/article/79872</id>
         <link href="https://www.elle.co.kr/article/79872"/>
         <updated>2023-08-17T17:40:47.044Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 방송부터 대박! 박해진X박성웅X임지연의 '국민사형투표' 인기 요인 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/79871</id>
-        <link href="https://www.elle.co.kr/article/79871"/>
-        <updated>2023-08-16T17:40:43.530Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최장수 국가대표 캡틴 손흥민, 토트넘 캡틴 됐다! (ft. 주장 데뷔전)]]></title>
-        <id>https://www.elle.co.kr/article/79859</id>
-        <link href="https://www.elle.co.kr/article/79859"/>
-        <updated>2023-08-16T17:40:43.536Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년미 뿜뿜! 로에베 글로벌 앰배서더 태용과 엘르의 전무후무한 조우]]></title>
-        <id>https://www.elle.co.kr/article/79851</id>
-        <link href="https://www.elle.co.kr/article/79851"/>
-        <updated>2023-08-16T05:41:24.703Z</updated>
-        <content type="html"><![CDATA[완벽하게 새로운 모습. NCT 태용과 엘르가 만났다.]]></content>
     </entry>
 </feed>
