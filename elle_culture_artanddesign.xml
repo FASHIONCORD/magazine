@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-08-20T05:41:03.206Z</updated>
+    <updated>2023-08-20T17:43:20.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
+        <id>https://www.elle.co.kr/article/79922</id>
+        <link href="https://www.elle.co.kr/article/79922"/>
+        <updated>2023-08-20T17:42:28.206Z</updated>
+        <content type="html"><![CDATA[쓸모를 잃은 것들이 디자이너의 손길로 새롭게 재탄생했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
         <id>https://www.elle.co.kr/article/79955</id>
@@ -85,12 +92,5 @@
         <link href="https://www.elle.co.kr/article/79701"/>
         <updated>2023-08-06T17:41:07.607Z</updated>
         <content type="html"><![CDATA[바이아키텍츠 이병엽, 콜렉티브A 차진엽 부부의 차분하고 현대적인 정물화가 떠오르는 집.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두 영국 스타의 만남! 데이비드 호크니가 그려낸 해리 스타일스의 모습은?]]></title>
-        <id>https://www.elle.co.kr/article/79704</id>
-        <link href="https://www.elle.co.kr/article/79704"/>
-        <updated>2023-08-04T17:41:47.564Z</updated>
-        <content type="html"><![CDATA[아무렇게나 헝클어진 머리, 형형색색 가디건 그리고 시그니처 진주 목걸이.]]></content>
     </entry>
 </feed>

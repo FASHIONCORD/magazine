@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-20T05:41:03.188Z</updated>
+    <updated>2023-08-20T17:43:20.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팔라스 x 맥도날드 티셔츠에 적힌 기막힌 문구의 정체는?]]></title>
+        <id>https://www.elle.co.kr/article/79932</id>
+        <link href="https://www.elle.co.kr/article/79932"/>
+        <updated>2023-08-20T17:39:52.506Z</updated>
+        <content type="html"><![CDATA[유머 점수 200점 드립니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타들의 오프 더 레코드 (feat. 사복 패션)]]></title>
         <id>https://www.elle.co.kr/article/79913</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79880"/>
         <updated>2023-08-16T17:40:22.397Z</updated>
         <content type="html"><![CDATA[핸드백부터 패브릭, 주얼리, 워치까지 모두 짚어드립니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어글리한 안경의 반란! 셀럽의 안경 활용법]]></title>
-        <id>https://www.elle.co.kr/article/79876</id>
-        <link href="https://www.elle.co.kr/article/79876"/>
-        <updated>2023-08-16T17:40:22.399Z</updated>
-        <content type="html"><![CDATA[뿔테부터 메탈 프레임까지, 스타일리시한 패션 액세서리로 급부상한 안경.]]></content>
     </entry>
 </feed>
