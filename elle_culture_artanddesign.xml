@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 05:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 17:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집]]></title>
+            <link>https://www.elle.co.kr/article/79926</link>
+            <guid>https://www.elle.co.kr/article/79926</guid>
+            <pubDate>Mon, 21 Aug 2023 17:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[굽어진 벽과 나선형 계단 전선혜, 서민범의 집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/b9dc221d-940a-456d-84cc-7249ff33c155.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
             <link>https://www.elle.co.kr/article/79922</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/79123</guid>
             <pubDate>Thu, 17 Aug 2023 17:41:36 GMT</pubDate>
             <content:encoded><![CDATA[크고 작은 식물들이 모인 '4T'의 세상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/e50ec007-e6f0-4db7-ab21-7ca966021cff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[느슨한 연대의 맛 #프리워커]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.elle.co.kr/article/79679</link>
             <guid>https://www.elle.co.kr/article/79679</guid>
             <pubDate>Tue, 08 Aug 2023 17:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[건축가와 무용가가 함께 사는 집]]></title>
-            <link>https://www.elle.co.kr/article/79701</link>
-            <guid>https://www.elle.co.kr/article/79701</guid>
-            <pubDate>Sun, 06 Aug 2023 17:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[바이아키텍츠 이병엽, 콜렉티브A 차진엽 부부의 차분하고 현대적인 정물화가 떠오르는 집.]]></content:encoded>
         </item>
     </channel>
 </rss>

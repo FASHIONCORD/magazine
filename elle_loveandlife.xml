@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/loveandlife</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-08-21T05:41:36.052Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/79939</id>
-        <link href="https://www.elle.co.kr/article/79939"/>
-        <updated>2023-08-21T05:41:18.521Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식기세척기가 가져온 마법 같은 변화들]]></title>
-        <id>https://www.elle.co.kr/article/79898</id>
-        <link href="https://www.elle.co.kr/article/79898"/>
-        <updated>2023-08-20T05:40:52.239Z</updated>
-        <content type="html"><![CDATA[상상만 했던 여유로운 일상, LG 디오스 오브제컬렉션 식기세척기와 함께라면 현실이 된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타들의 오프 더 레코드 (feat. 사복 패션)]]></title>
-        <id>https://www.elle.co.kr/article/79913</id>
-        <link href="https://www.elle.co.kr/article/79913"/>
-        <updated>2023-08-18T17:42:30.784Z</updated>
-        <content type="html"><![CDATA[쉬는 날 스타들은 뭐할까? 수수한 모습이 더 아름다운 스타들의 내추럴한 카메라 밖 모습을 모...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위대한 이탈리아 비전: 파르네시나 컬렉션' 답이 아닌 질문인 예술을 만나다 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/79904</id>
-        <link href="https://www.elle.co.kr/article/79904"/>
-        <updated>2023-08-18T17:42:30.832Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언니 여기 어디예요? 장희령이 방문한 카페 3]]></title>
-        <id>https://www.elle.co.kr/article/79856</id>
-        <link href="https://www.elle.co.kr/article/79856"/>
-        <updated>2023-08-18T17:42:30.834Z</updated>
-        <content type="html"><![CDATA[신사동부터 한남동까지, 커피 러버들 마음 설레게 할 카페 리스트를 지금 확인해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도심 속 안식처 같은 카페 2]]></title>
-        <id>https://www.elle.co.kr/article/79798</id>
-        <link href="https://www.elle.co.kr/article/79798"/>
-        <updated>2023-08-18T05:42:03.879Z</updated>
-        <content type="html"><![CDATA[분주한 일상을 뒤로한 채, 느린 호흡으로 마주한 여름날의 안식처.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취향 따라 즐겨봐! '1인 1빙' 가능한 경복궁 근처 빙수 맛집 2 #마실마실]]></title>
-        <id>https://www.elle.co.kr/article/79850</id>
-        <link href="https://www.elle.co.kr/article/79850"/>
-        <updated>2023-08-17T05:42:17.032Z</updated>
-        <content type="html"><![CDATA[더위를 잊게 할 형형색색의 빙수들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름날의 댕댕이들]]></title>
-        <id>https://www.elle.co.kr/article/79795</id>
-        <link href="https://www.elle.co.kr/article/79795"/>
-        <updated>2023-08-17T05:42:17.035Z</updated>
-        <content type="html"><![CDATA[수영부터 패들보드, 캠핑까지. 놀 줄 아는 강아지들의 시원한 여름 나기.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 21 Aug 2023 17:42:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/79939</link>
+            <guid>https://www.elle.co.kr/article/79939</guid>
+            <pubDate>Mon, 21 Aug 2023 05:41:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/b19d7c09-7de7-4f3f-81b2-f108cc9fa462.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[식기세척기가 가져온 마법 같은 변화들]]></title>
+            <link>https://www.elle.co.kr/article/79898</link>
+            <guid>https://www.elle.co.kr/article/79898</guid>
+            <pubDate>Sun, 20 Aug 2023 05:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[상상만 했던 여유로운 일상, LG 디오스 오브제컬렉션 식기세척기와 함께라면 현실이 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/a0dbdd17-a9c2-438d-a2cc-4a34c30d0a3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타들의 오프 더 레코드 (feat. 사복 패션)]]></title>
+            <link>https://www.elle.co.kr/article/79913</link>
+            <guid>https://www.elle.co.kr/article/79913</guid>
+            <pubDate>Fri, 18 Aug 2023 17:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[쉬는 날 스타들은 뭐할까? 수수한 모습이 더 아름다운 스타들의 내추럴한 카메라 밖 모습을 모...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/1dd0b43d-2367-44a1-91e0-1f5570dfb878.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['위대한 이탈리아 비전: 파르네시나 컬렉션' 답이 아닌 질문인 예술을 만나다 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/79904</link>
+            <guid>https://www.elle.co.kr/article/79904</guid>
+            <pubDate>Fri, 18 Aug 2023 17:42:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/a4a412f0-bd74-4c8b-bda7-bb6aeba500a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언니 여기 어디예요? 장희령이 방문한 카페 3]]></title>
+            <link>https://www.elle.co.kr/article/79856</link>
+            <guid>https://www.elle.co.kr/article/79856</guid>
+            <pubDate>Fri, 18 Aug 2023 17:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[신사동부터 한남동까지, 커피 러버들 마음 설레게 할 카페 리스트를 지금 확인해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/b576165b-fe76-44bf-97fd-7746590d3aa5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도심 속 안식처 같은 카페 2]]></title>
+            <link>https://www.elle.co.kr/article/79798</link>
+            <guid>https://www.elle.co.kr/article/79798</guid>
+            <pubDate>Fri, 18 Aug 2023 05:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[분주한 일상을 뒤로한 채, 느린 호흡으로 마주한 여름날의 안식처.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/13/15df4b0a-3d67-4435-872e-d245ca7bccfa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취향 따라 즐겨봐! '1인 1빙' 가능한 경복궁 근처 빙수 맛집 2 #마실마실]]></title>
+            <link>https://www.elle.co.kr/article/79850</link>
+            <guid>https://www.elle.co.kr/article/79850</guid>
+            <pubDate>Thu, 17 Aug 2023 05:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[더위를 잊게 할 형형색색의 빙수들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/12/8cc4a8a8-66c9-457c-a18e-c0e13efe1033.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름날의 댕댕이들]]></title>
+            <link>https://www.elle.co.kr/article/79795</link>
+            <guid>https://www.elle.co.kr/article/79795</guid>
+            <pubDate>Thu, 17 Aug 2023 05:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[수영부터 패들보드, 캠핑까지. 놀 줄 아는 강아지들의 시원한 여름 나기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/12/ec9c3156-ec47-4b68-ab40-9f0927f089f7.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

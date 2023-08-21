@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-21T05:41:36.037Z</updated>
+    <updated>2023-08-21T17:42:25.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이런 모습 처음이야! 배우 이유미와 나스(NARS)의 강렬한 만남]]></title>
+        <id>https://www.elle.co.kr/article/79945</id>
+        <link href="https://www.elle.co.kr/article/79945"/>
+        <updated>2023-08-21T17:40:47.739Z</updated>
+        <content type="html"><![CDATA[쿨하고 시크한 이유미의 립 메이크업 비결은 바로?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10년 만에 쌓은 노스의 놀라운 스타일 아카이브]]></title>
+        <id>https://www.elle.co.kr/article/79914</id>
+        <link href="https://www.elle.co.kr/article/79914"/>
+        <updated>2023-08-21T17:40:47.741Z</updated>
+        <content type="html"><![CDATA[얼마 전 열 살 생일을 맞은 노스 웨스트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/79949</id>
+        <link href="https://www.elle.co.kr/article/79949"/>
+        <updated>2023-08-21T17:40:47.744Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레이디제인-임현태 부부의 스페인 신혼여행 인증샷 모음.zip #럽스타그램]]></title>
+        <id>https://www.elle.co.kr/article/79944</id>
+        <link href="https://www.elle.co.kr/article/79944"/>
+        <updated>2023-08-21T17:40:47.748Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 지수가 직접 전한 'All Eyes On Me' 첫 무대 소감.txt]]></title>
+        <id>https://www.elle.co.kr/article/79938</id>
+        <link href="https://www.elle.co.kr/article/79938"/>
+        <updated>2023-08-21T17:40:47.751Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힙하게! 웃기기로 결심한 한지민과 이민기]]></title>
         <id>https://www.elle.co.kr/article/79930</id>
@@ -24,35 +56,5 @@
         <id>https://www.elle.co.kr/article/79925</id>
         <link href="https://www.elle.co.kr/article/79925"/>
         <updated>2023-08-18T17:40:38.952Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
-        <id>https://www.elle.co.kr/article/79924</id>
-        <link href="https://www.elle.co.kr/article/79924"/>
-        <updated>2023-08-18T17:40:38.953Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 '마스크걸' 완전체 공개! 마지막 김모미, 이한별은 누구?]]></title>
-        <id>https://www.elle.co.kr/article/79905</id>
-        <link href="https://www.elle.co.kr/article/79905"/>
-        <updated>2023-08-18T05:41:04.613Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전북과의 친선경기가 마지막?! PSG 떠나는 네이마르가 이강인에게 남긴 말]]></title>
-        <id>https://www.elle.co.kr/article/79900</id>
-        <link href="https://www.elle.co.kr/article/79900"/>
-        <updated>2023-08-18T05:41:04.616Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박솔미부터 이시영까지, 절친 총출동한 소유진 42번째 생파 인증샷.jpg]]></title>
-        <id>https://www.elle.co.kr/article/79889</id>
-        <link href="https://www.elle.co.kr/article/79889"/>
-        <updated>2023-08-17T17:40:47.037Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 솔로 마지막 타자 뷔, '넘사벽' 운동 신경 보유한 그의 관리 비결은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/79888</id>
-        <link href="https://www.elle.co.kr/article/79888"/>
-        <updated>2023-08-17T17:40:47.040Z</updated>
     </entry>
 </feed>
