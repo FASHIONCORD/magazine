@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 17:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 05:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 40대. 오로지 빛을 따라서 한 여행]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/79750</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/79750</guid>
+            <pubDate>Tue, 22 Aug 2023 05:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 여행을 할 것인지, 지금 여행의 콘텐츠는 완전히 내 몫이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/91e5ce80-efc8-437c-af08-23745e9e03b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갑자기 경로 꺾은 태풍 카눈, 한반도 관통하면 어떻게 될까]]></title>
             <link>https://www.elle.co.kr/article/79744</link>
@@ -59,14 +67,6 @@
             <pubDate>Sun, 06 Aug 2023 17:41:27 GMT</pubDate>
             <content:encoded><![CDATA[한국 여자 축구의 '황금 세대', 대표팀 조소현과 홍혜지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/70a5a3e0-35da-4579-ad64-0e8ccebf4860.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 집에 식중독균이? 꿉꿉한 장마철, 세균 제로 딥 클리닝 TIP 7_선배’s 어드바이스 #178]]></title>
-            <link>https://www.elle.co.kr/article/79394</link>
-            <guid>https://www.elle.co.kr/article/79394</guid>
-            <pubDate>Thu, 03 Aug 2023 17:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 세제로 어떻게 청소해야 곰팡이 없이 깨끗해질까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/019f9e48-4bea-4f1f-a3cc-d58754be7b4e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

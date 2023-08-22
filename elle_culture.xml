@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 17:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 05:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
+            <link>https://www.elle.co.kr/article/79955</link>
+            <guid>https://www.elle.co.kr/article/79955</guid>
+            <pubDate>Tue, 22 Aug 2023 05:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/8ba329fe-5648-4491-85b2-cdd98e4e6a3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
             <link>https://www.elle.co.kr/article/79949</link>
@@ -57,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/79904</guid>
             <pubDate>Fri, 18 Aug 2023 05:41:12 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/a4a412f0-bd74-4c8b-bda7-bb6aeba500a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전북과의 친선경기가 마지막?! PSG 떠나는 네이마르가 이강인에게 남긴 말]]></title>
-            <link>https://www.elle.co.kr/article/79900</link>
-            <guid>https://www.elle.co.kr/article/79900</guid>
-            <pubDate>Thu, 17 Aug 2023 17:40:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/c1c4c68a-8773-4c0e-8c66-b96431c603f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

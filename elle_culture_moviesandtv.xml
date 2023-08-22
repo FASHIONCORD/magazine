@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-08-21T17:42:25.979Z</updated>
+    <updated>2023-08-22T05:42:32.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
+        <id>https://www.elle.co.kr/article/80021</id>
+        <link href="https://www.elle.co.kr/article/80021"/>
+        <updated>2023-08-22T05:41:48.812Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/79995</id>
@@ -79,12 +85,5 @@
         <link href="https://www.elle.co.kr/article/79507"/>
         <updated>2023-07-27T17:40:40.745Z</updated>
         <content type="html"><![CDATA[거짓말을 일삼는 어느 열두 살 소녀의 이야기가 필요한 이유, &lt;비밀의 언덕&gt; 이지은 감독에게 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘바비’속 드러난 샤넬의 우정]]></title>
-        <id>https://www.elle.co.kr/article/79502</id>
-        <link href="https://www.elle.co.kr/article/79502"/>
-        <updated>2023-07-27T17:40:40.746Z</updated>
-        <content type="html"><![CDATA[핑크로 물든 세상, 영화 ‘바비’를 위해 나선 샤넬의 특별한 이야기. 영화 ‘바비’의 의상 디...]]></content>
     </entry>
 </feed>

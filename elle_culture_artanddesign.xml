@@ -1,103 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 17:42:25 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집]]></title>
-            <link>https://www.elle.co.kr/article/79926</link>
-            <guid>https://www.elle.co.kr/article/79926</guid>
-            <pubDate>Mon, 21 Aug 2023 17:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[굽어진 벽과 나선형 계단 전선혜, 서민범의 집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/b9dc221d-940a-456d-84cc-7249ff33c155.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
-            <link>https://www.elle.co.kr/article/79922</link>
-            <guid>https://www.elle.co.kr/article/79922</guid>
-            <pubDate>Sun, 20 Aug 2023 17:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[쓸모를 잃은 것들이 디자이너의 손길로 새롭게 재탄생했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/077e80c6-bd03-4558-8ca0-87f644b9392c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
-            <link>https://www.elle.co.kr/article/79955</link>
-            <guid>https://www.elle.co.kr/article/79955</guid>
-            <pubDate>Fri, 18 Aug 2023 17:42:20 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/8ba329fe-5648-4491-85b2-cdd98e4e6a3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/79939</link>
-            <guid>https://www.elle.co.kr/article/79939</guid>
-            <pubDate>Fri, 18 Aug 2023 05:41:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/b19d7c09-7de7-4f3f-81b2-f108cc9fa462.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식물을 전시하는 편집 숍 4T]]></title>
-            <link>https://www.elle.co.kr/article/79123</link>
-            <guid>https://www.elle.co.kr/article/79123</guid>
-            <pubDate>Thu, 17 Aug 2023 17:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[크고 작은 식물들이 모인 '4T'의 세상.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[느슨한 연대의 맛 #프리워커]]></title>
-            <link>https://www.elle.co.kr/article/79359</link>
-            <guid>https://www.elle.co.kr/article/79359</guid>
-            <pubDate>Wed, 16 Aug 2023 17:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['위대한 이탈리아 비전: 파르네시나 컬렉션' 답이 아닌 질문인 예술을 만나다 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/79904</link>
-            <guid>https://www.elle.co.kr/article/79904</guid>
-            <pubDate>Wed, 16 Aug 2023 17:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI 달리에게 데커레이션 화보를 만들라고 했더니]]></title>
-            <link>https://www.elle.co.kr/article/79830</link>
-            <guid>https://www.elle.co.kr/article/79830</guid>
-            <pubDate>Mon, 14 Aug 2023 17:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[이미지 생성 AI인 달리에게 인테리어 디자인을 주문했다. 작성된 텍스트를 이미지로 충실하게 변...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사진가 제임스 넬슨의 싱그러운 텃밭]]></title>
-            <link>https://www.elle.co.kr/article/79829</link>
-            <guid>https://www.elle.co.kr/article/79829</guid>
-            <pubDate>Sun, 13 Aug 2023 17:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[누구에게나 나만의 텃밭이 필요하다. 땅을 파고, 씨를 뿌리고, 물을 주며 얻은 생명력 넘치는 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
-            <link>https://www.elle.co.kr/article/79835</link>
-            <guid>https://www.elle.co.kr/article/79835</guid>
-            <pubDate>Fri, 11 Aug 2023 17:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미술관을 닮은 집 #더컬렉터스]]></title>
-            <link>https://www.elle.co.kr/article/79785</link>
-            <guid>https://www.elle.co.kr/article/79785</guid>
-            <pubDate>Thu, 10 Aug 2023 17:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WEB 3.0 시대에 일하는 법 #프리워커]]></title>
-            <link>https://www.elle.co.kr/article/79356</link>
-            <guid>https://www.elle.co.kr/article/79356</guid>
-            <pubDate>Tue, 08 Aug 2023 17:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[스타트업 '마인드터치' CEO이자 커뮤니티 '하이노마드' 리더 조승래가 이야기하는 노마드 라이프...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한여름을 호리는 이야기꾼, 제이디 차의 개인전 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/79679</link>
-            <guid>https://www.elle.co.kr/article/79679</guid>
-            <pubDate>Tue, 08 Aug 2023 17:41:23 GMT</pubDate>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/artanddesign</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
+    <updated>2023-08-22T05:42:32.334Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집]]></title>
+        <id>https://www.elle.co.kr/article/79926</id>
+        <link href="https://www.elle.co.kr/article/79926"/>
+        <updated>2023-08-21T17:42:04.917Z</updated>
+        <content type="html"><![CDATA[굽어진 벽과 나선형 계단 전선혜, 서민범의 집.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
+        <id>https://www.elle.co.kr/article/79922</id>
+        <link href="https://www.elle.co.kr/article/79922"/>
+        <updated>2023-08-20T17:42:28.206Z</updated>
+        <content type="html"><![CDATA[쓸모를 잃은 것들이 디자이너의 손길로 새롭게 재탄생했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
+        <id>https://www.elle.co.kr/article/79955</id>
+        <link href="https://www.elle.co.kr/article/79955"/>
+        <updated>2023-08-18T17:42:20.483Z</updated>
+        <content type="html"><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/79939</id>
+        <link href="https://www.elle.co.kr/article/79939"/>
+        <updated>2023-08-18T05:41:55.478Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식물을 전시하는 편집 숍 4T]]></title>
+        <id>https://www.elle.co.kr/article/79123</id>
+        <link href="https://www.elle.co.kr/article/79123"/>
+        <updated>2023-08-17T17:41:36.572Z</updated>
+        <content type="html"><![CDATA[크고 작은 식물들이 모인 '4T'의 세상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[느슨한 연대의 맛 #프리워커]]></title>
+        <id>https://www.elle.co.kr/article/79359</id>
+        <link href="https://www.elle.co.kr/article/79359"/>
+        <updated>2023-08-16T17:41:26.681Z</updated>
+        <content type="html"><![CDATA[부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['위대한 이탈리아 비전: 파르네시나 컬렉션' 답이 아닌 질문인 예술을 만나다 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/79904</id>
+        <link href="https://www.elle.co.kr/article/79904"/>
+        <updated>2023-08-16T17:41:26.686Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 달리에게 데커레이션 화보를 만들라고 했더니]]></title>
+        <id>https://www.elle.co.kr/article/79830</id>
+        <link href="https://www.elle.co.kr/article/79830"/>
+        <updated>2023-08-14T17:41:34.272Z</updated>
+        <content type="html"><![CDATA[이미지 생성 AI인 달리에게 인테리어 디자인을 주문했다. 작성된 텍스트를 이미지로 충실하게 변...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사진가 제임스 넬슨의 싱그러운 텃밭]]></title>
+        <id>https://www.elle.co.kr/article/79829</id>
+        <link href="https://www.elle.co.kr/article/79829"/>
+        <updated>2023-08-13T17:41:28.693Z</updated>
+        <content type="html"><![CDATA[누구에게나 나만의 텃밭이 필요하다. 땅을 파고, 씨를 뿌리고, 물을 주며 얻은 생명력 넘치는 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
+        <id>https://www.elle.co.kr/article/79835</id>
+        <link href="https://www.elle.co.kr/article/79835"/>
+        <updated>2023-08-11T17:41:44.534Z</updated>
+        <content type="html"><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미술관을 닮은 집 #더컬렉터스]]></title>
+        <id>https://www.elle.co.kr/article/79785</id>
+        <link href="https://www.elle.co.kr/article/79785"/>
+        <updated>2023-08-10T17:40:52.391Z</updated>
+        <content type="html"><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEB 3.0 시대에 일하는 법 #프리워커]]></title>
+        <id>https://www.elle.co.kr/article/79356</id>
+        <link href="https://www.elle.co.kr/article/79356"/>
+        <updated>2023-08-08T17:41:23.351Z</updated>
+        <content type="html"><![CDATA[스타트업 '마인드터치' CEO이자 커뮤니티 '하이노마드' 리더 조승래가 이야기하는 노마드 라이프...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한여름을 호리는 이야기꾼, 제이디 차의 개인전 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/79679</id>
+        <link href="https://www.elle.co.kr/article/79679"/>
+        <updated>2023-08-08T17:41:23.357Z</updated>
+    </entry>
+</feed>
