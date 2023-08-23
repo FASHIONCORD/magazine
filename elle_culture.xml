@@ -1,71 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 17:41:30 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아이돌 자컨이 대체 뭔데? 자컨 여행자를 위한 안내서]]></title>
-            <link>https://www.elle.co.kr/article/79917</link>
-            <guid>https://www.elle.co.kr/article/79917</guid>
-            <pubDate>Tue, 22 Aug 2023 17:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[멤버들과 있을 때 내 아이돌은 어떨까? K팝 아티스트들의 필수 콘텐츠가 된 '자컨'의 세계. 그...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/37f78ff6-8b04-4c06-81a2-b5da8fcb8f74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
-            <link>https://www.elle.co.kr/article/79955</link>
-            <guid>https://www.elle.co.kr/article/79955</guid>
-            <pubDate>Tue, 22 Aug 2023 05:41:15 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/8ba329fe-5648-4491-85b2-cdd98e4e6a3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/79949</link>
-            <guid>https://www.elle.co.kr/article/79949</guid>
-            <pubDate>Mon, 21 Aug 2023 17:41:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/9e957bf5-6ede-49ff-b91f-268e667e8fe5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/79939</link>
-            <guid>https://www.elle.co.kr/article/79939</guid>
-            <pubDate>Mon, 21 Aug 2023 17:41:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/b19d7c09-7de7-4f3f-81b2-f108cc9fa462.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식물을 전시하는 편집 숍 4T]]></title>
-            <link>https://www.elle.co.kr/article/79123</link>
-            <guid>https://www.elle.co.kr/article/79123</guid>
-            <pubDate>Sun, 20 Aug 2023 17:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[크고 작은 식물들이 모인 '4T'의 세상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/e50ec007-e6f0-4db7-ab21-7ca966021cff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
-            <link>https://www.elle.co.kr/article/79924</link>
-            <guid>https://www.elle.co.kr/article/79924</guid>
-            <pubDate>Sat, 19 Aug 2023 17:41:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/5937562d-2543-4225-9cfe-5b9a2913db7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느슨한 연대의 맛 #프리워커]]></title>
-            <link>https://www.elle.co.kr/article/79359</link>
-            <guid>https://www.elle.co.kr/article/79359</guid>
-            <pubDate>Fri, 18 Aug 2023 17:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/73bc2203-51c2-4bd9-9125-7369d7b02ceb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 '마스크걸' 완전체 공개! 마지막 김모미, 이한별은 누구?]]></title>
-            <link>https://www.elle.co.kr/article/79905</link>
-            <guid>https://www.elle.co.kr/article/79905</guid>
-            <pubDate>Fri, 18 Aug 2023 17:41:17 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/564b91ee-b63b-428f-b884-461d93f3eca1.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-08-23T05:42:05.037Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
+        <id>https://www.elle.co.kr/article/79922</id>
+        <link href="https://www.elle.co.kr/article/79922"/>
+        <updated>2023-08-23T05:41:11.398Z</updated>
+        <content type="html"><![CDATA[쓸모를 잃은 것들이 디자이너의 손길로 새롭게 재탄생했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이돌 자컨이 대체 뭔데? 자컨 여행자를 위한 안내서]]></title>
+        <id>https://www.elle.co.kr/article/79917</id>
+        <link href="https://www.elle.co.kr/article/79917"/>
+        <updated>2023-08-22T17:40:41.398Z</updated>
+        <content type="html"><![CDATA[멤버들과 있을 때 내 아이돌은 어떨까? K팝 아티스트들의 필수 콘텐츠가 된 '자컨'의 세계. 그...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
+        <id>https://www.elle.co.kr/article/79955</id>
+        <link href="https://www.elle.co.kr/article/79955"/>
+        <updated>2023-08-22T05:41:15.501Z</updated>
+        <content type="html"><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/79949</id>
+        <link href="https://www.elle.co.kr/article/79949"/>
+        <updated>2023-08-21T17:41:05.247Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/79939</id>
+        <link href="https://www.elle.co.kr/article/79939"/>
+        <updated>2023-08-21T17:41:05.249Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식물을 전시하는 편집 숍 4T]]></title>
+        <id>https://www.elle.co.kr/article/79123</id>
+        <link href="https://www.elle.co.kr/article/79123"/>
+        <updated>2023-08-20T17:41:25.273Z</updated>
+        <content type="html"><![CDATA[크고 작은 식물들이 모인 '4T'의 세상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
+        <id>https://www.elle.co.kr/article/79924</id>
+        <link href="https://www.elle.co.kr/article/79924"/>
+        <updated>2023-08-19T17:41:05.063Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[느슨한 연대의 맛 #프리워커]]></title>
+        <id>https://www.elle.co.kr/article/79359</id>
+        <link href="https://www.elle.co.kr/article/79359"/>
+        <updated>2023-08-18T17:41:17.608Z</updated>
+        <content type="html"><![CDATA[부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.]]></content>
+    </entry>
+</feed>

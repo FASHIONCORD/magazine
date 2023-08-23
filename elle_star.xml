@@ -1,58 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-22T17:41:30.558Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[한일 양국에서 결혼식 마친 심형탁-사야, 부케 주인공은 누구? (ft. 본식 사진)]]></title>
-        <id>https://www.elle.co.kr/article/79997</id>
-        <link href="https://www.elle.co.kr/article/79997"/>
-        <updated>2023-08-22T17:40:31.001Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/79995</id>
-        <link href="https://www.elle.co.kr/article/79995"/>
-        <updated>2023-08-22T05:41:04.676Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비키니는 기세! 프랑스 니스 갬성 물씬, 박나래 수영복은 어디 거?]]></title>
-        <id>https://www.elle.co.kr/article/79992</id>
-        <link href="https://www.elle.co.kr/article/79992"/>
-        <updated>2023-08-22T05:41:04.677Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEO로 변신한 손연재, '뉴스룸'에서 깜짝 임신 고백한 배경]]></title>
-        <id>https://www.elle.co.kr/article/79989</id>
-        <link href="https://www.elle.co.kr/article/79989"/>
-        <updated>2023-08-22T05:41:04.678Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 모습 처음이야! 배우 이유미와 나스(NARS)의 강렬한 만남]]></title>
-        <id>https://www.elle.co.kr/article/79945</id>
-        <link href="https://www.elle.co.kr/article/79945"/>
-        <updated>2023-08-21T17:40:47.739Z</updated>
-        <content type="html"><![CDATA[쿨하고 시크한 이유미의 립 메이크업 비결은 바로?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10년 만에 쌓은 노스의 놀라운 스타일 아카이브]]></title>
-        <id>https://www.elle.co.kr/article/79914</id>
-        <link href="https://www.elle.co.kr/article/79914"/>
-        <updated>2023-08-21T17:40:47.741Z</updated>
-        <content type="html"><![CDATA[얼마 전 열 살 생일을 맞은 노스 웨스트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/79949</id>
-        <link href="https://www.elle.co.kr/article/79949"/>
-        <updated>2023-08-21T17:40:47.744Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레이디제인-임현태 부부의 스페인 신혼여행 인증샷 모음.zip #럽스타그램]]></title>
-        <id>https://www.elle.co.kr/article/79944</id>
-        <link href="https://www.elle.co.kr/article/79944"/>
-        <updated>2023-08-21T17:40:47.748Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 23 Aug 2023 05:42:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
+            <link>https://www.elle.co.kr/article/80021</link>
+            <guid>https://www.elle.co.kr/article/80021</guid>
+            <pubDate>Wed, 23 Aug 2023 05:41:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/d55de4da-b316-4c0e-a69f-31731e1a538e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑스러운 itzy 막내 유나! 런더너로 변신]]></title>
+            <link>https://www.elle.co.kr/article/79971</link>
+            <guid>https://www.elle.co.kr/article/79971</guid>
+            <pubDate>Wed, 23 Aug 2023 05:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[밝고 사랑스러운 에너지로 가득한 유나가 엘르와 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/e684687e-396a-4e30-88a1-2c43bfeca745.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자를까 말까 고민은 NO! 단발머리 유발하는 스타 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/80011</link>
+            <guid>https://www.elle.co.kr/article/80011</guid>
+            <pubDate>Wed, 23 Aug 2023 05:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[미용실 갈 때 이 사진 들고 가세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/c593a545-4459-491f-815f-5b4eadd135dc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 N°1 안티에이징 세럼]]></title>
+            <link>https://www.elle.co.kr/article/79977</link>
+            <guid>https://www.elle.co.kr/article/79977</guid>
+            <pubDate>Wed, 23 Aug 2023 05:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[N°1 DE CHANEL 레드 까멜리아 세럼 100ml 출시를 기념하는 스킨케어 이벤트가 푸켓에서 열...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/653e010b-0686-433f-a58d-daeb68ee8821.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한일 양국에서 결혼식 마친 심형탁-사야, 부케 주인공은 누구? (ft. 본식 사진)]]></title>
+            <link>https://www.elle.co.kr/article/79997</link>
+            <guid>https://www.elle.co.kr/article/79997</guid>
+            <pubDate>Tue, 22 Aug 2023 17:40:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/d95021d3-f2a6-4300-b762-2f98f88b012a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/79995</link>
+            <guid>https://www.elle.co.kr/article/79995</guid>
+            <pubDate>Tue, 22 Aug 2023 05:41:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/5c8acf33-f83a-4eca-8404-9eee6ecae60e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비키니는 기세! 프랑스 니스 갬성 물씬, 박나래 수영복은 어디 거?]]></title>
+            <link>https://www.elle.co.kr/article/79992</link>
+            <guid>https://www.elle.co.kr/article/79992</guid>
+            <pubDate>Tue, 22 Aug 2023 05:41:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/00a3fba7-dc7b-4236-aaa2-9455d69bfe5d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CEO로 변신한 손연재, '뉴스룸'에서 깜짝 임신 고백한 배경]]></title>
+            <link>https://www.elle.co.kr/article/79989</link>
+            <guid>https://www.elle.co.kr/article/79989</guid>
+            <pubDate>Tue, 22 Aug 2023 05:41:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/521d866c-ca15-4585-adcb-26ad8aed23eb.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

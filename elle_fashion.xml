@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-22T17:41:30.560Z</updated>
+    <updated>2023-08-23T05:42:04.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조금 더 과감해도 좋아! 아찔한 보디수트의 매력 7]]></title>
+        <id>https://www.elle.co.kr/article/79934</id>
+        <link href="https://www.elle.co.kr/article/79934"/>
+        <updated>2023-08-23T05:40:12.128Z</updated>
+        <content type="html"><![CDATA[시미 &amp; 헤이즈, 정호연, 리사 등 요즘 힙한 셀럽들은 다 입었다는 보디수트. 이렇게 활용해 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그 자체로 빛을 발하는 남자들]]></title>
         <id>https://www.elle.co.kr/article/79933</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79909"/>
         <updated>2023-08-17T17:40:24.643Z</updated>
         <content type="html"><![CDATA[시스루부터 레이스, 컷아웃, 컬러 플레이까지, 차근차근 따라오시길.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레드 드레스의 유혹]]></title>
-        <id>https://www.elle.co.kr/article/79883</id>
-        <link href="https://www.elle.co.kr/article/79883"/>
-        <updated>2023-08-17T17:40:24.645Z</updated>
-        <content type="html"><![CDATA[몸을 휘감은 핏빛 드레스 룩이 런웨이 위에 남긴 강렬한 인상.]]></content>
     </entry>
 </feed>
