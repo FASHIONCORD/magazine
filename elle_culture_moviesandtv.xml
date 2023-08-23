@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 05:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 17:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
+            <link>https://www.elle.co.kr/article/80077</link>
+            <guid>https://www.elle.co.kr/article/80077</guid>
+            <pubDate>Wed, 23 Aug 2023 17:41:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/f003491a-3987-453b-bb38-396692bd112f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
             <link>https://www.elle.co.kr/article/80047</link>
@@ -34,7 +41,6 @@
             <guid>https://www.elle.co.kr/article/79917</guid>
             <pubDate>Sat, 19 Aug 2023 17:41:24 GMT</pubDate>
             <content:encoded><![CDATA[멤버들과 있을 때 내 아이돌은 어떨까? K팝 아티스트들의 필수 콘텐츠가 된 '자컨'의 세계. 그...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/37f78ff6-8b04-4c06-81a2-b5da8fcb8f74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
@@ -84,12 +90,6 @@
             <guid>https://www.elle.co.kr/article/79611</guid>
             <pubDate>Mon, 31 Jul 2023 17:41:03 GMT</pubDate>
             <content:encoded><![CDATA[최근 유종의 미를 거둔 '악귀'!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아버지 김성주 몰래 '복면가왕' 출연한 김민국 근황]]></title>
-            <link>https://www.elle.co.kr/article/79610</link>
-            <guid>https://www.elle.co.kr/article/79610</guid>
-            <pubDate>Mon, 31 Jul 2023 17:41:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

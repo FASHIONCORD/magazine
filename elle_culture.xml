@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-08-23T05:42:05.037Z</updated>
+    <updated>2023-08-23T17:42:08.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집]]></title>
+        <id>https://www.elle.co.kr/article/79926</id>
+        <link href="https://www.elle.co.kr/article/79926"/>
+        <updated>2023-08-23T17:41:13.356Z</updated>
+        <content type="html"><![CDATA[굽어진 벽과 나선형 계단 전선혜, 서민범의 집.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79995</id>
+        <link href="https://www.elle.co.kr/article/79995"/>
+        <updated>2023-08-23T17:41:13.364Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
         <id>https://www.elle.co.kr/article/79922</id>
@@ -44,18 +57,5 @@
         <link href="https://www.elle.co.kr/article/79123"/>
         <updated>2023-08-20T17:41:25.273Z</updated>
         <content type="html"><![CDATA[크고 작은 식물들이 모인 '4T'의 세상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
-        <id>https://www.elle.co.kr/article/79924</id>
-        <link href="https://www.elle.co.kr/article/79924"/>
-        <updated>2023-08-19T17:41:05.063Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[느슨한 연대의 맛 #프리워커]]></title>
-        <id>https://www.elle.co.kr/article/79359</id>
-        <link href="https://www.elle.co.kr/article/79359"/>
-        <updated>2023-08-18T17:41:17.608Z</updated>
-        <content type="html"><![CDATA[부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 05:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 17:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰티풀, 라탄!]]></title>
+            <link>https://www.elle.co.kr/article/80027</link>
+            <guid>https://www.elle.co.kr/article/80027</guid>
+            <pubDate>Wed, 23 Aug 2023 17:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[일상의 분주함을 느슨한 서머 홀리데이 무드로 바꿔줄 라탄 가구들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/22b3206c-568a-4048-9c31-5297d00d5931.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고딕 양식과 모던 디자인의 조화, 호텔 크베스트 #호텔미감]]></title>
             <link>https://www.elle.co.kr/article/80003</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/79955</guid>
             <pubDate>Fri, 18 Aug 2023 17:42:20 GMT</pubDate>
             <content:encoded><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/8ba329fe-5648-4491-85b2-cdd98e4e6a3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
@@ -92,13 +99,6 @@
             <guid>https://www.elle.co.kr/article/79785</guid>
             <pubDate>Thu, 10 Aug 2023 17:40:52 GMT</pubDate>
             <content:encoded><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WEB 3.0 시대에 일하는 법 #프리워커]]></title>
-            <link>https://www.elle.co.kr/article/79356</link>
-            <guid>https://www.elle.co.kr/article/79356</guid>
-            <pubDate>Tue, 08 Aug 2023 17:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[스타트업 '마인드터치' CEO이자 커뮤니티 '하이노마드' 리더 조승래가 이야기하는 노마드 라이프...]]></content:encoded>
         </item>
     </channel>
 </rss>
