@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 05:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 17:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
+            <link>https://www.elle.co.kr/article/79955</link>
+            <guid>https://www.elle.co.kr/article/79955</guid>
+            <pubDate>Thu, 24 Aug 2023 17:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/8ba329fe-5648-4491-85b2-cdd98e4e6a3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[늦여름 무더위 피해 그늘에서 쉬고 싶다면, 전국 숲 명소 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/79950</link>
@@ -15,11 +23,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/6c4561cb-f044-49e0-b4d9-1f27b20f020a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소품 사러 도쿄에 간다]]></title>
+            <title><![CDATA[소품 사러 도쿄에 간다 #도쿄핫플]]></title>
             <link>https://www.elle.co.kr/article/79943</link>
             <guid>https://www.elle.co.kr/article/79943</guid>
             <pubDate>Tue, 22 Aug 2023 17:41:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/c9d43d0b-ec6a-4de1-a0f0-e84c35fbe3c9.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/c9d43d0b-ec6a-4de1-a0f0-e84c35fbe3c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
@@ -58,14 +66,6 @@
             <pubDate>Fri, 18 Aug 2023 17:42:30 GMT</pubDate>
             <content:encoded><![CDATA[신사동부터 한남동까지, 커피 러버들 마음 설레게 할 카페 리스트를 지금 확인해 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/b576165b-fe76-44bf-97fd-7746590d3aa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도심 속 안식처 같은 카페 2]]></title>
-            <link>https://www.elle.co.kr/article/79798</link>
-            <guid>https://www.elle.co.kr/article/79798</guid>
-            <pubDate>Fri, 18 Aug 2023 05:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[분주한 일상을 뒤로한 채, 느린 호흡으로 마주한 여름날의 안식처.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/13/15df4b0a-3d67-4435-872e-d245ca7bccfa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
