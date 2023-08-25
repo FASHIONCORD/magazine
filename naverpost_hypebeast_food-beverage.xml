@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 05:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 17:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발걸음을 돌리게 하는 심야 식당 7]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36464870&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36464870&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 25 Aug 2023 17:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjVfMjQy/MDAxNjkyOTQzNjczMTE1.xW_0X8XySo1B2HAHDb462yCAK_42MNWSn8mPTk3KvnQg.a9ecw4w9pTmFR5_3ICTMknnqvk5vk1Y9prV2BA_zYJ8g.JPEG/IcBn-tyXjHIz2qvZD8RorsB9cBhg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HOW TO: 한국 디저트 다이닝 믜요 다과점의 개성주악]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36368921&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Apr 2022 17:45:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDZfMjE3/MDAxNjQ5MjM3NDk5NTky.Zx0Id-uAw0abNh5LD2WWNqpScs4bI7QewUSALtxNdbMg.nkZ98xwPKyfTMd4RHnrFSGRmZ38O-yV1YIpZyys9D6og.JPEG/ILOG2py4qHApeSVcprEqlMIkupGI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOW TO: 하입빈즈의 특별한 한라봉 시즈널 메뉴 만드는 법]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33535118&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33535118&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 30 Mar 2022 17:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjlfMjQx/MDAxNjQ4NTQyNjI5NjA4.tzdJqV3YBY8fEij5XkM240muDJ9EWBV66KBEpZmlmBog.0qYqESlve8XfuxAfOMcFl3Lt4-Y-6FBk2mHkriY0qCwg.JPEG/I9aR_azbnxMApthvGb7SuE7sxo8w.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
