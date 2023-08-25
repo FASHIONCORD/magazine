@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-24T17:41:30.161Z</updated>
+    <updated>2023-08-25T05:41:04.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털 아티스트 안드레스 레이싱헤르의 바르셀로나 아파트]]></title>
+        <id>https://www.elle.co.kr/article/79999</id>
+        <link href="https://www.elle.co.kr/article/79999"/>
+        <updated>2023-08-25T05:39:44.251Z</updated>
+        <content type="html"><![CDATA[극사실주의, 초현실적인 동시에 미니멀한 미학으로 가상세계를 유영해온 아티스트의 집은 어떤 모...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 애들은 뭘 입냐고요? 제니의 인스타그램만 보면 됩니다]]></title>
         <id>https://www.elle.co.kr/article/80087</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/79787"/>
         <updated>2023-08-23T17:40:36.394Z</updated>
         <content type="html"><![CDATA[베스트 하나로 기본에 충실할 때.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식을 줄 모르는 트랙 쇼츠의 유행]]></title>
-        <id>https://www.elle.co.kr/article/79956</id>
-        <link href="https://www.elle.co.kr/article/79956"/>
-        <updated>2023-08-23T17:40:36.397Z</updated>
-        <content type="html"><![CDATA[운동할 때만 입는 줄 알았던 트랙 팬츠. 일상 속 다양한 스타일과 ‘착붙’ 하며 만능템으로 ...]]></content>
     </entry>
 </feed>

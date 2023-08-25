@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 17:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 05:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 오윤아가 애정하는 브런치 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/79963</link>
+            <guid>https://www.elle.co.kr/article/79963</guid>
+            <pubDate>Fri, 25 Aug 2023 05:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[오윤아가 평소 자주 찾는 브런치 카페는? 편한 분위기에서 친구들과 수다 떨며 식사하기 좋은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/e11027c9-99bb-45b9-ac8e-a760c9a809ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
             <link>https://www.elle.co.kr/article/79955</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/79904</guid>
             <pubDate>Fri, 18 Aug 2023 17:42:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/a4a412f0-bd74-4c8b-bda7-bb6aeba500a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언니 여기 어디예요? 장희령이 방문한 카페 3]]></title>
-            <link>https://www.elle.co.kr/article/79856</link>
-            <guid>https://www.elle.co.kr/article/79856</guid>
-            <pubDate>Fri, 18 Aug 2023 17:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[신사동부터 한남동까지, 커피 러버들 마음 설레게 할 카페 리스트를 지금 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/b576165b-fe76-44bf-97fd-7746590d3aa5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

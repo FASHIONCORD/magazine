@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-08-24T17:41:30.154Z</updated>
+    <updated>2023-08-25T05:41:04.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티 나지 않아 더 좋은 홈 뷰티템]]></title>
+        <id>https://www.elle.co.kr/article/79998</id>
+        <link href="https://www.elle.co.kr/article/79998"/>
+        <updated>2023-08-25T05:39:54.939Z</updated>
+        <content type="html"><![CDATA['콰이어트 럭셔리(Quiet Luxury)'를 원한다면.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피부 재생은 밤에 이루어진다! 나이트 스킨케어 프로젝트_선배’s 어드바이스 #182]]></title>
         <id>https://www.elle.co.kr/article/80020</id>
@@ -51,12 +58,5 @@
         <id>https://www.elle.co.kr/article/79888</id>
         <link href="https://www.elle.co.kr/article/79888"/>
         <updated>2023-08-22T05:40:23.549Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[풋풋한 첫사랑st 그 자체! 남보라표 꾸안꾸 메이크업 HOW TO]]></title>
-        <id>https://www.elle.co.kr/article/79885</id>
-        <link href="https://www.elle.co.kr/article/79885"/>
-        <updated>2023-08-21T17:40:38.729Z</updated>
-        <content type="html"><![CDATA[화사한 피부 표현과 인형 같은 눈매를 강조하는 남보라표 데일리 메이크업을 따라 해 보세요.]]></content>
     </entry>
 </feed>

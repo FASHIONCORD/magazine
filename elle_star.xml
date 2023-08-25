@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 17:41:30 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
-            <link>https://www.elle.co.kr/article/80090</link>
-            <guid>https://www.elle.co.kr/article/80090</guid>
-            <pubDate>Thu, 24 Aug 2023 17:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/cdb91169-df25-4d88-b9fa-135da4768c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최자가 신혼여행지로 아프리카 탄자니아를 고른 까닭]]></title>
-            <link>https://www.elle.co.kr/article/80078</link>
-            <guid>https://www.elle.co.kr/article/80078</guid>
-            <pubDate>Thu, 24 Aug 2023 17:40:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/cb7f9c10-8295-4695-b83a-f2fadd72d9ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
-            <link>https://www.elle.co.kr/article/80077</link>
-            <guid>https://www.elle.co.kr/article/80077</guid>
-            <pubDate>Thu, 24 Aug 2023 17:40:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/f003491a-3987-453b-bb38-396692bd112f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실 다이어터 귀 쫑긋! 이국주의 -17kg 체중 감량 노하우 총정리! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80072</link>
-            <guid>https://www.elle.co.kr/article/80072</guid>
-            <pubDate>Thu, 24 Aug 2023 05:41:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/184e0205-cfd7-40a9-a3cc-b27d2639d30f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 하니의 반짝반짝 패션 스토리 #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/80062</link>
-            <guid>https://www.elle.co.kr/article/80062</guid>
-            <pubDate>Thu, 24 Aug 2023 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[눈빛에서 전해지는 명확한 자신감. 또 다른 세계에서 마주 본 하니의 여정.'ELLE D EDITION...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/6628d7b6-6329-4453-924a-a7784963b73a.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김재원의 출발선]]></title>
-            <link>https://www.elle.co.kr/article/79990</link>
-            <guid>https://www.elle.co.kr/article/79990</guid>
-            <pubDate>Thu, 24 Aug 2023 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;킹더랜드&gt;의 설레는 연하남. 꿈 많고 열정도 가득한 배우 김재원은 이제 기지개를 켰다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/eb5b5f7e-937e-4224-801e-ee08eb8fd843.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마 아빠 골고루 닮은 허니제이 딸 러브 100일 사진 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/80058</link>
-            <guid>https://www.elle.co.kr/article/80058</guid>
-            <pubDate>Wed, 23 Aug 2023 17:40:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/c2dd11ad-ad39-4e45-881f-318d1dedf4ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍경의 고요한 밤]]></title>
-            <link>https://www.elle.co.kr/article/79985</link>
-            <guid>https://www.elle.co.kr/article/79985</guid>
-            <pubDate>Wed, 23 Aug 2023 17:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[모두가 잠든 밤, 홀로 고요하게 반짝이는 홍경이라는 물결.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/4cb3a58f-6604-4043-81f2-3c2a1e8bdc8c.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-08-25T05:41:04.419Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차주영의 비하인드 씬]]></title>
+        <id>https://www.elle.co.kr/article/80055</id>
+        <link href="https://www.elle.co.kr/article/80055"/>
+        <updated>2023-08-25T05:40:05.379Z</updated>
+        <content type="html"><![CDATA[시나리오 밖에서 만난,또 다시 낯선 차주영.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
+        <id>https://www.elle.co.kr/article/80090</id>
+        <link href="https://www.elle.co.kr/article/80090"/>
+        <updated>2023-08-24T17:40:13.223Z</updated>
+        <content type="html"><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최자가 신혼여행지로 아프리카 탄자니아를 고른 까닭]]></title>
+        <id>https://www.elle.co.kr/article/80078</id>
+        <link href="https://www.elle.co.kr/article/80078"/>
+        <updated>2023-08-24T17:40:13.223Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
+        <id>https://www.elle.co.kr/article/80077</id>
+        <link href="https://www.elle.co.kr/article/80077"/>
+        <updated>2023-08-24T17:40:13.224Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현실 다이어터 귀 쫑긋! 이국주의 -17kg 체중 감량 노하우 총정리! #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80072</id>
+        <link href="https://www.elle.co.kr/article/80072"/>
+        <updated>2023-08-24T05:41:04.952Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 하니의 반짝반짝 패션 스토리 #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/80062</id>
+        <link href="https://www.elle.co.kr/article/80062"/>
+        <updated>2023-08-24T05:41:04.955Z</updated>
+        <content type="html"><![CDATA[눈빛에서 전해지는 명확한 자신감. 또 다른 세계에서 마주 본 하니의 여정.'ELLE D EDITION...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재원의 출발선]]></title>
+        <id>https://www.elle.co.kr/article/79990</id>
+        <link href="https://www.elle.co.kr/article/79990"/>
+        <updated>2023-08-24T05:41:04.958Z</updated>
+        <content type="html"><![CDATA[&lt;킹더랜드&gt;의 설레는 연하남. 꿈 많고 열정도 가득한 배우 김재원은 이제 기지개를 켰다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄마 아빠 골고루 닮은 허니제이 딸 러브 100일 사진 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/80058</id>
+        <link href="https://www.elle.co.kr/article/80058"/>
+        <updated>2023-08-23T17:40:55.749Z</updated>
+    </entry>
+</feed>
