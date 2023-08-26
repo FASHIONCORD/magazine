@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-08-25T17:42:45.763Z</updated>
+    <updated>2023-08-26T05:41:31.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
+        <id>https://www.elle.co.kr/article/80169</id>
+        <link href="https://www.elle.co.kr/article/80169"/>
+        <updated>2023-08-26T05:41:02.026Z</updated>
+        <content type="html"><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뷰티풀, 라탄!]]></title>
         <id>https://www.elle.co.kr/article/80027</id>
@@ -86,12 +93,5 @@
         <link href="https://www.elle.co.kr/article/79835"/>
         <updated>2023-08-11T17:41:44.534Z</updated>
         <content type="html"><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미술관을 닮은 집 #더컬렉터스]]></title>
-        <id>https://www.elle.co.kr/article/79785</id>
-        <link href="https://www.elle.co.kr/article/79785"/>
-        <updated>2023-08-10T17:40:52.391Z</updated>
-        <content type="html"><![CDATA[친밀하고 매혹적인 수집가의 집, 케틀스 야드.]]></content>
     </entry>
 </feed>

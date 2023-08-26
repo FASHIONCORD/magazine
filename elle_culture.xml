@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 17:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 05:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
+            <link>https://www.elle.co.kr/article/80047</link>
+            <guid>https://www.elle.co.kr/article/80047</guid>
+            <pubDate>Sat, 26 Aug 2023 05:40:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ce21eea0-62d8-41b5-b757-d1c5044d5ff7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고딕 양식과 모던 디자인의 조화, 호텔 크베스트 #호텔미감]]></title>
             <link>https://www.elle.co.kr/article/80003</link>
@@ -60,13 +67,6 @@
             <pubDate>Tue, 22 Aug 2023 05:41:15 GMT</pubDate>
             <content:encoded><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/8ba329fe-5648-4491-85b2-cdd98e4e6a3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/79949</link>
-            <guid>https://www.elle.co.kr/article/79949</guid>
-            <pubDate>Mon, 21 Aug 2023 17:41:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/9e957bf5-6ede-49ff-b91f-268e667e8fe5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

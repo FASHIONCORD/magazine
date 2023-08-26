@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 17:42:45 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[커피 향 짙은 샤넬의 카페 소사이어티]]></title>
-            <link>https://www.elle.co.kr/article/80092</link>
-            <guid>https://www.elle.co.kr/article/80092</guid>
-            <pubDate>Fri, 25 Aug 2023 17:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[센 강과 에펠탑, 에스프레소, 담배, 브래서리・・・.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/1d1d2347-a2d9-4fb2-8d77-d1e2b913a724.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙스완을 떠올리며]]></title>
-            <link>https://www.elle.co.kr/article/80089</link>
-            <guid>https://www.elle.co.kr/article/80089</guid>
-            <pubDate>Fri, 25 Aug 2023 17:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[타락적이고 관능적이며 섬세한 천의 얼굴, 레이스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/87e577a7-9d5f-4b2a-af23-5d1fc9943550.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 아티스트 안드레스 레이싱헤르의 바르셀로나 아파트]]></title>
-            <link>https://www.elle.co.kr/article/79999</link>
-            <guid>https://www.elle.co.kr/article/79999</guid>
-            <pubDate>Fri, 25 Aug 2023 05:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[극사실주의, 초현실적인 동시에 미니멀한 미학으로 가상세계를 유영해온 아티스트의 집은 어떤 모...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/41af1d70-9752-42b9-8c4f-069a47e0dc15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 애들은 뭘 입냐고요? 제니의 인스타그램만 보면 됩니다]]></title>
-            <link>https://www.elle.co.kr/article/80087</link>
-            <guid>https://www.elle.co.kr/article/80087</guid>
-            <pubDate>Thu, 24 Aug 2023 17:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[샌디 리앙부터 세실리에 반센, 슈슈통, 아모멘토까지, 믿고 보는 Z세대 패션 대통령 제니의 픽...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/8be0aee6-3075-4347-81da-b44fa9992c2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사물(사람과 물건) 인터뷰 #6 작가 유지혜]]></title>
-            <link>https://www.elle.co.kr/article/80084</link>
-            <guid>https://www.elle.co.kr/article/80084</guid>
-            <pubDate>Thu, 24 Aug 2023 05:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[글을 쓰며 여행하는 작가 유지혜가 애정하는 물건과 그 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/7e9e0f1a-edc3-40c5-a797-4a50cc953a27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 하니의 반짝반짝 패션 스토리 #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/80062</link>
-            <guid>https://www.elle.co.kr/article/80062</guid>
-            <pubDate>Thu, 24 Aug 2023 05:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[눈빛에서 전해지는 명확한 자신감. 또 다른 세계에서 마주 본 하니의 여정.'ELLE D EDITION...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/6628d7b6-6329-4453-924a-a7784963b73a.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[커다란 백 넘버부터 강렬한 컬러 조합까지! 셀러브리티가 푹 빠진 블록코어 룩]]></title>
-            <link>https://www.elle.co.kr/article/80046</link>
-            <guid>https://www.elle.co.kr/article/80046</guid>
-            <pubDate>Wed, 23 Aug 2023 17:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠 유니폼의 반란, 자유분방한 바이브가 느껴지는 스타들의 블록코어 룩을 살펴보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/c25e4641-5ded-404f-bf05-35fea04aa1de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['재료의 발견' 요리 연구가 요나의 취향]]></title>
-            <link>https://www.elle.co.kr/article/80045</link>
-            <guid>https://www.elle.co.kr/article/80045</guid>
-            <pubDate>Wed, 23 Aug 2023 17:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[제철 재료로 계절의 즐거움을 탐식하는 요리 연구가 요나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/23042429-baac-4f3e-8d8c-dde66a18ea0c.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-08-26T05:41:31.976Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패션 하우스의 앰배서더로 호명된 K-셀러브리티 3]]></title>
+        <id>https://www.elle.co.kr/article/80095</id>
+        <link href="https://www.elle.co.kr/article/80095"/>
+        <updated>2023-08-26T05:39:45.160Z</updated>
+        <content type="html"><![CDATA[모스키노, 루이 비통, 지미추의 새로운 얼굴.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커피 향 짙은 샤넬의 카페 소사이어티]]></title>
+        <id>https://www.elle.co.kr/article/80092</id>
+        <link href="https://www.elle.co.kr/article/80092"/>
+        <updated>2023-08-25T17:39:59.769Z</updated>
+        <content type="html"><![CDATA[센 강과 에펠탑, 에스프레소, 담배, 브래서리・・・.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙스완을 떠올리며]]></title>
+        <id>https://www.elle.co.kr/article/80089</id>
+        <link href="https://www.elle.co.kr/article/80089"/>
+        <updated>2023-08-25T17:39:59.771Z</updated>
+        <content type="html"><![CDATA[타락적이고 관능적이며 섬세한 천의 얼굴, 레이스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디지털 아티스트 안드레스 레이싱헤르의 바르셀로나 아파트]]></title>
+        <id>https://www.elle.co.kr/article/79999</id>
+        <link href="https://www.elle.co.kr/article/79999"/>
+        <updated>2023-08-25T05:39:44.251Z</updated>
+        <content type="html"><![CDATA[극사실주의, 초현실적인 동시에 미니멀한 미학으로 가상세계를 유영해온 아티스트의 집은 어떤 모...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 애들은 뭘 입냐고요? 제니의 인스타그램만 보면 됩니다]]></title>
+        <id>https://www.elle.co.kr/article/80087</id>
+        <link href="https://www.elle.co.kr/article/80087"/>
+        <updated>2023-08-24T17:39:53.503Z</updated>
+        <content type="html"><![CDATA[샌디 리앙부터 세실리에 반센, 슈슈통, 아모멘토까지, 믿고 보는 Z세대 패션 대통령 제니의 픽...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #6 작가 유지혜]]></title>
+        <id>https://www.elle.co.kr/article/80084</id>
+        <link href="https://www.elle.co.kr/article/80084"/>
+        <updated>2023-08-24T05:39:39.679Z</updated>
+        <content type="html"><![CDATA[글을 쓰며 여행하는 작가 유지혜가 애정하는 물건과 그 이유.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 하니의 반짝반짝 패션 스토리 #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/80062</id>
+        <link href="https://www.elle.co.kr/article/80062"/>
+        <updated>2023-08-24T05:39:39.681Z</updated>
+        <content type="html"><![CDATA[눈빛에서 전해지는 명확한 자신감. 또 다른 세계에서 마주 본 하니의 여정.'ELLE D EDITION...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커다란 백 넘버부터 강렬한 컬러 조합까지! 셀러브리티가 푹 빠진 블록코어 룩]]></title>
+        <id>https://www.elle.co.kr/article/80046</id>
+        <link href="https://www.elle.co.kr/article/80046"/>
+        <updated>2023-08-23T17:40:36.373Z</updated>
+        <content type="html"><![CDATA[스포츠 유니폼의 반란, 자유분방한 바이브가 느껴지는 스타들의 블록코어 룩을 살펴보세요.]]></content>
+    </entry>
+</feed>

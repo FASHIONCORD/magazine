@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-25T17:42:45.747Z</updated>
+    <updated>2023-08-26T05:41:31.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
+        <id>https://www.elle.co.kr/article/80109</id>
+        <link href="https://www.elle.co.kr/article/80109"/>
+        <updated>2023-08-26T05:40:03.434Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패션 하우스의 앰배서더로 호명된 K-셀러브리티 3]]></title>
         <id>https://www.elle.co.kr/article/80095</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/80062"/>
         <updated>2023-08-24T05:41:04.955Z</updated>
         <content type="html"><![CDATA[눈빛에서 전해지는 명확한 자신감. 또 다른 세계에서 마주 본 하니의 여정.'ELLE D EDITION...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재원의 출발선]]></title>
-        <id>https://www.elle.co.kr/article/79990</id>
-        <link href="https://www.elle.co.kr/article/79990"/>
-        <updated>2023-08-24T05:41:04.958Z</updated>
-        <content type="html"><![CDATA[&lt;킹더랜드&gt;의 설레는 연하남. 꿈 많고 열정도 가득한 배우 김재원은 이제 기지개를 켰다.]]></content>
     </entry>
 </feed>
