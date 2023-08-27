@@ -1,71 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 17:41:03 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
-            <link>https://www.elle.co.kr/article/80109</link>
-            <guid>https://www.elle.co.kr/article/80109</guid>
-            <pubDate>Sat, 26 Aug 2023 05:40:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/1d53bf08-6259-4423-872c-2273f08b6d43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 하우스의 앰배서더로 호명된 K-셀러브리티 3]]></title>
-            <link>https://www.elle.co.kr/article/80095</link>
-            <guid>https://www.elle.co.kr/article/80095</guid>
-            <pubDate>Fri, 25 Aug 2023 17:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[모스키노, 루이 비통, 지미추의 새로운 얼굴.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/84efa6ec-4c73-4a76-8cc4-e4b45b2b270b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차주영의 비하인드 씬]]></title>
-            <link>https://www.elle.co.kr/article/80055</link>
-            <guid>https://www.elle.co.kr/article/80055</guid>
-            <pubDate>Fri, 25 Aug 2023 05:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[시나리오 밖에서 만난,또 다시 낯선 차주영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/4be912e7-0059-4696-93f0-5596450568a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
-            <link>https://www.elle.co.kr/article/80090</link>
-            <guid>https://www.elle.co.kr/article/80090</guid>
-            <pubDate>Thu, 24 Aug 2023 17:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/cdb91169-df25-4d88-b9fa-135da4768c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최자가 신혼여행지로 아프리카 탄자니아를 고른 까닭]]></title>
-            <link>https://www.elle.co.kr/article/80078</link>
-            <guid>https://www.elle.co.kr/article/80078</guid>
-            <pubDate>Thu, 24 Aug 2023 17:40:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/cb7f9c10-8295-4695-b83a-f2fadd72d9ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
-            <link>https://www.elle.co.kr/article/80077</link>
-            <guid>https://www.elle.co.kr/article/80077</guid>
-            <pubDate>Thu, 24 Aug 2023 17:40:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/f003491a-3987-453b-bb38-396692bd112f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실 다이어터 귀 쫑긋! 이국주의 -17kg 체중 감량 노하우 총정리! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80072</link>
-            <guid>https://www.elle.co.kr/article/80072</guid>
-            <pubDate>Thu, 24 Aug 2023 05:41:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/184e0205-cfd7-40a9-a3cc-b27d2639d30f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 하니의 반짝반짝 패션 스토리 #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/80062</link>
-            <guid>https://www.elle.co.kr/article/80062</guid>
-            <pubDate>Thu, 24 Aug 2023 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[눈빛에서 전해지는 명확한 자신감. 또 다른 세계에서 마주 본 하니의 여정.'ELLE D EDITION...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/6628d7b6-6329-4453-924a-a7784963b73a.gif" length="0" type="image/gif"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-08-27T05:41:04.766Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼 22년차 이혜원, 탄탄 복근 유지하는 일상 루틴은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80124</id>
+        <link href="https://www.elle.co.kr/article/80124"/>
+        <updated>2023-08-27T05:40:15.270Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
+        <id>https://www.elle.co.kr/article/80109</id>
+        <link href="https://www.elle.co.kr/article/80109"/>
+        <updated>2023-08-26T05:40:03.434Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패션 하우스의 앰배서더로 호명된 K-셀러브리티 3]]></title>
+        <id>https://www.elle.co.kr/article/80095</id>
+        <link href="https://www.elle.co.kr/article/80095"/>
+        <updated>2023-08-25T17:40:24.801Z</updated>
+        <content type="html"><![CDATA[모스키노, 루이 비통, 지미추의 새로운 얼굴.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차주영의 비하인드 씬]]></title>
+        <id>https://www.elle.co.kr/article/80055</id>
+        <link href="https://www.elle.co.kr/article/80055"/>
+        <updated>2023-08-25T05:40:05.379Z</updated>
+        <content type="html"><![CDATA[시나리오 밖에서 만난,또 다시 낯선 차주영.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
+        <id>https://www.elle.co.kr/article/80090</id>
+        <link href="https://www.elle.co.kr/article/80090"/>
+        <updated>2023-08-24T17:40:13.223Z</updated>
+        <content type="html"><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최자가 신혼여행지로 아프리카 탄자니아를 고른 까닭]]></title>
+        <id>https://www.elle.co.kr/article/80078</id>
+        <link href="https://www.elle.co.kr/article/80078"/>
+        <updated>2023-08-24T17:40:13.223Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
+        <id>https://www.elle.co.kr/article/80077</id>
+        <link href="https://www.elle.co.kr/article/80077"/>
+        <updated>2023-08-24T17:40:13.224Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현실 다이어터 귀 쫑긋! 이국주의 -17kg 체중 감량 노하우 총정리! #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80072</id>
+        <link href="https://www.elle.co.kr/article/80072"/>
+        <updated>2023-08-24T05:41:04.952Z</updated>
+    </entry>
+</feed>
