@@ -4,15 +4,32 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 17:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 05:42:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오키나와에서 생길 일]]></title>
+            <link>https://www.elle.co.kr/article/80151</link>
+            <guid>https://www.elle.co.kr/article/80151</guid>
+            <pubDate>Tue, 29 Aug 2023 05:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[다채로운 영감을 더해 줄 휴가지를 찾고 있다면, 레저와 휴식, 쇼핑을 한 번에 즐길 수 있는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/cede5d93-c52e-4597-b1b2-8a80b00c31ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에브리데이 러블리 플레이스]]></title>
+            <link>https://www.elle.co.kr/article/79849</link>
+            <guid>https://www.elle.co.kr/article/79849</guid>
+            <pubDate>Tue, 29 Aug 2023 05:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[언제나 사랑이 넘치는 공간, 이마트 창립 30주년을 맞아 재현한 이토록 귀엽고 유쾌한 에피소드...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/c5cb6034-f738-43f7-b64b-89d70387b9bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보기 좋은 떡이 먹기도 좋다! 오감 자극 고수 에이드와 용과 빙수 #마실마실]]></title>
             <link>https://www.elle.co.kr/article/80139</link>
             <guid>https://www.elle.co.kr/article/80139</guid>
             <pubDate>Sun, 27 Aug 2023 17:41:27 GMT</pubDate>
             <content:encoded><![CDATA[독특한 비주얼에 한 번, 색다른 맛에 또 한 번 반할 메뉴가 있는 두 카페.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/94b5ee55-d196-4c54-8aa1-8ef6d52c5536.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴욕에서의 3일]]></title>
@@ -20,6 +37,7 @@
             <guid>https://www.elle.co.kr/article/80132</guid>
             <pubDate>Sat, 26 Aug 2023 05:41:20 GMT</pubDate>
             <content:encoded><![CDATA[팬데믹 이후 첫 뉴욕, 내게 주어진 시간은 단 3일. 그곳에서 부지런히 찾아 나선 일상의 감흥...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/d00f7691-7a34-4860-b8d7-121a8412e669.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
@@ -27,12 +45,14 @@
             <guid>https://www.elle.co.kr/article/80090</guid>
             <pubDate>Fri, 25 Aug 2023 17:42:18 GMT</pubDate>
             <content:encoded><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/cdb91169-df25-4d88-b9fa-135da4768c47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먹 갈며 힐링하다가 올드카 구경하기! 서울 무료 전시 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/80036</link>
             <guid>https://www.elle.co.kr/article/80036</guid>
             <pubDate>Fri, 25 Aug 2023 17:42:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/6c2d9675-abaa-4ff0-9459-0a8c447ff87b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더운 여름에 딱! 입맛 도는 오이 요리 레서피3]]></title>
@@ -40,6 +60,7 @@
             <guid>https://www.elle.co.kr/article/79972</guid>
             <pubDate>Fri, 25 Aug 2023 17:42:18 GMT</pubDate>
             <content:encoded><![CDATA[살림 9단 스타들이 알려주는 3인 3색 오이 요리로 집 나간 입맛을 되찾아보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/e1e47b00-8852-4aec-b8a6-8c6106f61c4b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 오윤아가 애정하는 브런치 맛집 3]]></title>
@@ -47,21 +68,7 @@
             <guid>https://www.elle.co.kr/article/79963</guid>
             <pubDate>Fri, 25 Aug 2023 05:40:53 GMT</pubDate>
             <content:encoded><![CDATA[오윤아가 평소 자주 찾는 브런치 카페는? 편한 분위기에서 친구들과 수다 떨며 식사하기 좋은 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
-            <link>https://www.elle.co.kr/article/79955</link>
-            <guid>https://www.elle.co.kr/article/79955</guid>
-            <pubDate>Thu, 24 Aug 2023 17:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/8ba329fe-5648-4491-85b2-cdd98e4e6a3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늦여름 무더위 피해 그늘에서 쉬고 싶다면, 전국 숲 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/79950</link>
-            <guid>https://www.elle.co.kr/article/79950</guid>
-            <pubDate>Thu, 24 Aug 2023 05:42:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/6c4561cb-f044-49e0-b4d9-1f27b20f020a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/e11027c9-99bb-45b9-ac8e-a760c9a809ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 17:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 05:42:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[색채 수집이 빚어낸 향연, '아홉 개의 색, 아홉 개의 가구' 아뜰리에 에르메스 박미나 개인전 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/80218</link>
+            <guid>https://www.elle.co.kr/article/80218</guid>
+            <pubDate>Tue, 29 Aug 2023 05:41:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/86b489e9-976d-4166-9004-b81cb1f83941.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시대를 초월한 대저택, 토레 델 팔코]]></title>
             <link>https://www.elle.co.kr/article/80029</link>
@@ -37,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/80003</guid>
             <pubDate>Tue, 22 Aug 2023 17:41:10 GMT</pubDate>
             <content:encoded><![CDATA[호텔 크베스트는 고딕 양식의 클래식한 파사드와 객실마다 채워진 20세기 모던 디자인으로 독특한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ada464dd-354f-48b0-966e-30a325688c37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집]]></title>
@@ -92,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/79830</guid>
             <pubDate>Mon, 14 Aug 2023 17:41:34 GMT</pubDate>
             <content:encoded><![CDATA[이미지 생성 AI인 달리에게 인테리어 디자인을 주문했다. 작성된 텍스트를 이미지로 충실하게 변...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사진가 제임스 넬슨의 싱그러운 텃밭]]></title>
-            <link>https://www.elle.co.kr/article/79829</link>
-            <guid>https://www.elle.co.kr/article/79829</guid>
-            <pubDate>Sun, 13 Aug 2023 17:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[누구에게나 나만의 텃밭이 필요하다. 땅을 파고, 씨를 뿌리고, 물을 주며 얻은 생명력 넘치는 ...]]></content:encoded>
         </item>
     </channel>
 </rss>
