@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 05:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 17:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고요한 자연 속에서 마음의 양식 쌓기, 전국 북스테이 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/80153</link>
+            <guid>https://www.elle.co.kr/article/80153</guid>
+            <pubDate>Tue, 29 Aug 2023 17:41:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/25f5a9a8-218b-4d67-845e-b96dad464a53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오키나와에서 생길 일]]></title>
             <link>https://www.elle.co.kr/article/80151</link>
@@ -61,14 +68,6 @@
             <pubDate>Fri, 25 Aug 2023 17:42:18 GMT</pubDate>
             <content:encoded><![CDATA[살림 9단 스타들이 알려주는 3인 3색 오이 요리로 집 나간 입맛을 되찾아보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/e1e47b00-8852-4aec-b8a6-8c6106f61c4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 오윤아가 애정하는 브런치 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/79963</link>
-            <guid>https://www.elle.co.kr/article/79963</guid>
-            <pubDate>Fri, 25 Aug 2023 05:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[오윤아가 평소 자주 찾는 브런치 카페는? 편한 분위기에서 친구들과 수다 떨며 식사하기 좋은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/20/e11027c9-99bb-45b9-ac8e-a760c9a809ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

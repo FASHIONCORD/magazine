@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-29T05:42:19.564Z</updated>
+    <updated>2023-08-29T17:41:30.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/80203</id>
+        <link href="https://www.elle.co.kr/article/80203"/>
+        <updated>2023-08-29T17:40:12.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강훈이 가장 뜨거워지는 순간]]></title>
+        <id>https://www.elle.co.kr/article/80162</id>
+        <link href="https://www.elle.co.kr/article/80162"/>
+        <updated>2023-08-29T17:40:12.670Z</updated>
+        <content type="html"><![CDATA[&lt;상견니&gt; 리메이크작. 넷플릭스 &lt;너의 시간 속으로&gt;로 돌아온 배우 강훈의 낯선 순간.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까]]></title>
         <id>https://www.elle.co.kr/article/80163</id>
@@ -44,17 +57,5 @@
         <id>https://www.elle.co.kr/article/80126</id>
         <link href="https://www.elle.co.kr/article/80126"/>
         <updated>2023-08-27T17:40:32.540Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼 22년차 이혜원, 탄탄 복근 유지하는 일상 루틴은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/80124</id>
-        <link href="https://www.elle.co.kr/article/80124"/>
-        <updated>2023-08-27T05:40:15.270Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
-        <id>https://www.elle.co.kr/article/80109</id>
-        <link href="https://www.elle.co.kr/article/80109"/>
-        <updated>2023-08-26T05:40:03.434Z</updated>
     </entry>
 </feed>
