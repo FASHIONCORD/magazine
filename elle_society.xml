@@ -1,60 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/society</id>
-    <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-08-29T17:41:30.142Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[제6회 일본군 위안부 피해자 기림의 날, 생존자는 단 9명 뿐이다]]></title>
-        <id>https://www.elle.co.kr/article/79862</id>
-        <link href="https://www.elle.co.kr/article/79862"/>
-        <updated>2023-08-29T17:41:29.169Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
-        <id>https://www.elle.co.kr/article/79835</id>
-        <link href="https://www.elle.co.kr/article/79835"/>
-        <updated>2023-08-25T17:42:44.643Z</updated>
-        <content type="html"><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나를 지켜주는 건 돈뿐! 1인 가구 재테크에 빠져서는 안 될 ‘이것’은?_돈쓸신잡 #110]]></title>
-        <id>https://www.elle.co.kr/article/79815</id>
-        <link href="https://www.elle.co.kr/article/79815"/>
-        <updated>2023-08-24T17:41:29.195Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 40대. 오로지 빛을 따라서 한 여행]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/79750</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/79750"/>
-        <updated>2023-08-22T05:42:31.108Z</updated>
-        <content type="html"><![CDATA[어떤 여행을 할 것인지, 지금 여행의 콘텐츠는 완전히 내 몫이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갑자기 경로 꺾은 태풍 카눈, 한반도 관통하면 어떻게 될까]]></title>
-        <id>https://www.elle.co.kr/article/79744</id>
-        <link href="https://www.elle.co.kr/article/79744"/>
-        <updated>2023-08-17T17:42:28.055Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 서울을 떠도는 사람의 희한한 집 취향]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/79692</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/79692"/>
-        <updated>2023-08-14T17:41:56.027Z</updated>
-        <content type="html"><![CDATA[우리 모두는 서울을 떠돈다. 출판사 봄알람 이두루 대표도 마찬가지다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 내가 좋아하는 우리 동네]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/79565</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/79565"/>
-        <updated>2023-08-11T17:42:06.365Z</updated>
-        <content type="html"><![CDATA[강서구 주민 주목! 30년 넘게 강서구에서 살아온 최지은 작가의 동네 애착기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴턴도 전 재산을 잃었다! 빚내서 주식 투자하는 이의 최후는?_돈쓸신잡 #109]]></title>
-        <id>https://www.elle.co.kr/article/79664</id>
-        <link href="https://www.elle.co.kr/article/79664"/>
-        <updated>2023-08-10T17:41:14.138Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 소사이어티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 30 Aug 2023 05:41:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제6회 일본군 위안부 피해자 기림의 날, 생존자는 단 9명 뿐이다]]></title>
+            <link>https://www.elle.co.kr/article/79862</link>
+            <guid>https://www.elle.co.kr/article/79862</guid>
+            <pubDate>Tue, 29 Aug 2023 17:41:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/bdd5ef0a-830a-4480-8dbb-6ae88cbf9885.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
+            <link>https://www.elle.co.kr/article/79835</link>
+            <guid>https://www.elle.co.kr/article/79835</guid>
+            <pubDate>Fri, 25 Aug 2023 17:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/74a7707e-fe94-4f04-9f0f-e87411fa65ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 지켜주는 건 돈뿐! 1인 가구 재테크에 빠져서는 안 될 ‘이것’은?_돈쓸신잡 #110]]></title>
+            <link>https://www.elle.co.kr/article/79815</link>
+            <guid>https://www.elle.co.kr/article/79815</guid>
+            <pubDate>Thu, 24 Aug 2023 17:41:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/27001425-db52-450d-90ed-8eeb39676c96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 40대. 오로지 빛을 따라서 한 여행]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/79750</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/79750</guid>
+            <pubDate>Tue, 22 Aug 2023 05:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 여행을 할 것인지, 지금 여행의 콘텐츠는 완전히 내 몫이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/91e5ce80-efc8-437c-af08-23745e9e03b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갑자기 경로 꺾은 태풍 카눈, 한반도 관통하면 어떻게 될까]]></title>
+            <link>https://www.elle.co.kr/article/79744</link>
+            <guid>https://www.elle.co.kr/article/79744</guid>
+            <pubDate>Thu, 17 Aug 2023 17:42:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/b7f2b3af-02b8-438f-be2e-be843c132903.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 서울을 떠도는 사람의 희한한 집 취향]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/79692</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/79692</guid>
+            <pubDate>Mon, 14 Aug 2023 17:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[우리 모두는 서울을 떠돈다. 출판사 봄알람 이두루 대표도 마찬가지다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/f5be6f16-769a-43f7-a6e4-ac55191b4f97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 내가 좋아하는 우리 동네]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/79565</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/79565</guid>
+            <pubDate>Fri, 11 Aug 2023 17:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[강서구 주민 주목! 30년 넘게 강서구에서 살아온 최지은 작가의 동네 애착기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/bf4a8f0a-4091-4b60-a451-b495a55fac34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴턴도 전 재산을 잃었다! 빚내서 주식 투자하는 이의 최후는?_돈쓸신잡 #109]]></title>
+            <link>https://www.elle.co.kr/article/79664</link>
+            <guid>https://www.elle.co.kr/article/79664</guid>
+            <pubDate>Thu, 10 Aug 2023 17:41:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/e4734b25-517f-431e-9d11-44dede1ad934.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

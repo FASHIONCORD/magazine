@@ -1,61 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-08-29T17:41:30.145Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[시대를 초월한 대저택, 토레 델 팔코]]></title>
-        <id>https://www.elle.co.kr/article/80029</id>
-        <link href="https://www.elle.co.kr/article/80029"/>
-        <updated>2023-08-29T17:40:32.655Z</updated>
-        <content type="html"><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
-        <id>https://www.elle.co.kr/article/80169</id>
-        <link href="https://www.elle.co.kr/article/80169"/>
-        <updated>2023-08-29T17:40:32.658Z</updated>
-        <content type="html"><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
-        <id>https://www.elle.co.kr/article/80109</id>
-        <link href="https://www.elle.co.kr/article/80109"/>
-        <updated>2023-08-29T05:40:24.425Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독서가 치유와 위로의 가장 큰 힘이 되기까지, 우리가 몰랐던 비블로테라피]]></title>
-        <id>https://www.elle.co.kr/article/80094</id>
-        <link href="https://www.elle.co.kr/article/80094"/>
-        <updated>2023-08-29T05:40:24.426Z</updated>
-        <content type="html"><![CDATA[책 &lt;요즘 저는 아버지께 책을 읽어 드립니다&gt;를 통해 김소영 작가가 전하고자 한 목소리.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰티풀, 라탄!]]></title>
-        <id>https://www.elle.co.kr/article/80027</id>
-        <link href="https://www.elle.co.kr/article/80027"/>
-        <updated>2023-08-27T17:40:48.324Z</updated>
-        <content type="html"><![CDATA[일상의 분주함을 느슨한 서머 홀리데이 무드로 바꿔줄 라탄 가구들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
-        <id>https://www.elle.co.kr/article/80077</id>
-        <link href="https://www.elle.co.kr/article/80077"/>
-        <updated>2023-08-26T17:40:21.263Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
-        <id>https://www.elle.co.kr/article/80047</id>
-        <link href="https://www.elle.co.kr/article/80047"/>
-        <updated>2023-08-26T05:40:18.001Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고딕 양식과 모던 디자인의 조화, 호텔 크베스트 #호텔미감]]></title>
-        <id>https://www.elle.co.kr/article/80003</id>
-        <link href="https://www.elle.co.kr/article/80003"/>
-        <updated>2023-08-24T17:40:24.017Z</updated>
-        <content type="html"><![CDATA[호텔 크베스트는 고딕 양식의 클래식한 파사드와 객실마다 채워진 20세기 모던 디자인으로 독특한...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 30 Aug 2023 05:41:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시대를 초월한 대저택, 토레 델 팔코]]></title>
+            <link>https://www.elle.co.kr/article/80029</link>
+            <guid>https://www.elle.co.kr/article/80029</guid>
+            <pubDate>Tue, 29 Aug 2023 17:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/80169</link>
+            <guid>https://www.elle.co.kr/article/80169</guid>
+            <pubDate>Tue, 29 Aug 2023 17:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
+            <link>https://www.elle.co.kr/article/80109</link>
+            <guid>https://www.elle.co.kr/article/80109</guid>
+            <pubDate>Tue, 29 Aug 2023 05:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[독서가 치유와 위로의 가장 큰 힘이 되기까지, 우리가 몰랐던 비블로테라피]]></title>
+            <link>https://www.elle.co.kr/article/80094</link>
+            <guid>https://www.elle.co.kr/article/80094</guid>
+            <pubDate>Tue, 29 Aug 2023 05:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[책 &lt;요즘 저는 아버지께 책을 읽어 드립니다&gt;를 통해 김소영 작가가 전하고자 한 목소리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/1a85812e-5c77-447e-846a-aa0973a4c0f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰티풀, 라탄!]]></title>
+            <link>https://www.elle.co.kr/article/80027</link>
+            <guid>https://www.elle.co.kr/article/80027</guid>
+            <pubDate>Sun, 27 Aug 2023 17:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[일상의 분주함을 느슨한 서머 홀리데이 무드로 바꿔줄 라탄 가구들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/22b3206c-568a-4048-9c31-5297d00d5931.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
+            <link>https://www.elle.co.kr/article/80077</link>
+            <guid>https://www.elle.co.kr/article/80077</guid>
+            <pubDate>Sat, 26 Aug 2023 17:40:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/f003491a-3987-453b-bb38-396692bd112f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
+            <link>https://www.elle.co.kr/article/80047</link>
+            <guid>https://www.elle.co.kr/article/80047</guid>
+            <pubDate>Sat, 26 Aug 2023 05:40:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ce21eea0-62d8-41b5-b757-d1c5044d5ff7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고딕 양식과 모던 디자인의 조화, 호텔 크베스트 #호텔미감]]></title>
+            <link>https://www.elle.co.kr/article/80003</link>
+            <guid>https://www.elle.co.kr/article/80003</guid>
+            <pubDate>Thu, 24 Aug 2023 17:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[호텔 크베스트는 고딕 양식의 클래식한 파사드와 객실마다 채워진 20세기 모던 디자인으로 독특한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ada464dd-354f-48b0-966e-30a325688c37.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

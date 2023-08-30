@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 17:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 05:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사카모토 류이치의 마지막 공연을 담은 영화 ‘오푸스’ 제작 확정]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36490560&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36490560&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 30 Aug 2023 05:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MzBfMjU5/MDAxNjkzMzcxMjEyOTEy.q51gbzr1GBSoXG2zw646W-cIUZ9WXcm8hMQIFIG6hswg.2MsabnzHrQgoVOezIgjRQeBrj7F6X_4fRoxBv37m6Ysg.JPEG/IwFs6WibGxXnD4kTHhcNKoN2y5p0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콜드 인터뷰: 사랑을 위해, 사랑에 의해]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36368696&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 24 Dec 2022 17:41:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjFfMzUg/MDAxNjcxNjExNjUzMzI4.BkxDmX7Mjv-t35fi6-Jr_DOkJuW_mF0FDoa_0WK7hDkg.v0vZiUI9B-oW-szySo15kAsAwR-RSqKgxyVA5-yuBXIg.JPEG/IpZ0hFdefmuU8-i4nZJhwlumTtNI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최백호 인터뷰: 여러분의 낭만은 오늘도 안녕하신지]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34985738&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34985738&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Sat, 24 Dec 2022 17:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTlfMTY0/MDAxNjcxNDMxNTgyOTc3.tPMOz0PfVi0_xo6snZGWZ6S7SuIQhqu8q2sYXZ2r_H0g.-kHrzC-ViyfHPBDzbXCoP0490m-1Dv-j057rq-rzpiUg.JPEG/IPZO2Qub3-cL4YeAN2MUFNfcDHFM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
