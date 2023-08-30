@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-08-30T05:41:46.339Z</updated>
+    <updated>2023-08-30T17:42:06.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
+        <id>https://www.elle.co.kr/article/80169</id>
+        <link href="https://www.elle.co.kr/article/80169"/>
+        <updated>2023-08-30T17:41:48.056Z</updated>
+        <content type="html"><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고요한 자연 속에서 마음의 양식 쌓기, 전국 북스테이 명소 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/80153</id>
@@ -51,12 +58,5 @@
         <id>https://www.elle.co.kr/article/80036</id>
         <link href="https://www.elle.co.kr/article/80036"/>
         <updated>2023-08-25T17:42:18.683Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더운 여름에 딱! 입맛 도는 오이 요리 레서피3]]></title>
-        <id>https://www.elle.co.kr/article/79972</id>
-        <link href="https://www.elle.co.kr/article/79972"/>
-        <updated>2023-08-25T17:42:18.684Z</updated>
-        <content type="html"><![CDATA[살림 9단 스타들이 알려주는 3인 3색 오이 요리로 집 나간 입맛을 되찾아보세요.]]></content>
     </entry>
 </feed>
