@@ -1,58 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-08-31T05:40:59.074Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[올 겨울 여자친구와 웨딩마치 울린다는 김동욱의 결혼관]]></title>
-        <id>https://www.elle.co.kr/article/80277</id>
-        <link href="https://www.elle.co.kr/article/80277"/>
-        <updated>2023-08-31T05:39:58.707Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소름 돋는 11연속 득점, '세계 1위' 안세영이 쓴 배드민턴 전설 (ft. 역대 최강 대표팀)]]></title>
-        <id>https://www.elle.co.kr/article/80253</id>
-        <link href="https://www.elle.co.kr/article/80253"/>
-        <updated>2023-08-30T17:40:22.511Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고현정이 직접 공개한 '마스크걸' 비하인드컷 & 영상 (ft. 넷플 화보)]]></title>
-        <id>https://www.elle.co.kr/article/80242</id>
-        <link href="https://www.elle.co.kr/article/80242"/>
-        <updated>2023-08-30T17:40:22.514Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채정안이 찾은 한남동 핫플은 어디?]]></title>
-        <id>https://www.elle.co.kr/article/80212</id>
-        <link href="https://www.elle.co.kr/article/80212"/>
-        <updated>2023-08-30T17:40:22.517Z</updated>
-        <content type="html"><![CDATA[빈티지 샵부터 뷰 맛집 카페까지 한남동 주민 채정안이 찾은 핫플레이스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우빈이 고인이 된 10년 팬에게 보낸 뭉클한 마지막 작별 편지]]></title>
-        <id>https://www.elle.co.kr/article/80205</id>
-        <link href="https://www.elle.co.kr/article/80205"/>
-        <updated>2023-08-30T17:40:22.520Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종혁 아들 드라마 데뷔?! '잔혹한 인턴'에서 포착된 이준수 근황.jpg]]></title>
-        <id>https://www.elle.co.kr/article/80204</id>
-        <link href="https://www.elle.co.kr/article/80204"/>
-        <updated>2023-08-30T17:40:22.522Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/80203</id>
-        <link href="https://www.elle.co.kr/article/80203"/>
-        <updated>2023-08-29T17:40:12.653Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강훈이 가장 뜨거워지는 순간]]></title>
-        <id>https://www.elle.co.kr/article/80162</id>
-        <link href="https://www.elle.co.kr/article/80162"/>
-        <updated>2023-08-29T17:40:12.670Z</updated>
-        <content type="html"><![CDATA[&lt;상견니&gt; 리메이크작. 넷플릭스 &lt;너의 시간 속으로&gt;로 돌아온 배우 강훈의 낯선 순간.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 31 Aug 2023 17:40:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구정아의 오랜 실험과 훈련 그리고 습관에 관하여]]></title>
+            <link>https://www.elle.co.kr/article/80300</link>
+            <guid>https://www.elle.co.kr/article/80300</guid>
+            <pubDate>Thu, 31 Aug 2023 17:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[구정아는 줄곧 전 세계를 돌면서 자신이 얻은 삶과 일, 대화와 관계, 맥락을 작품에서 사용한다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/664e046b-1717-4a1f-8f38-aa4d4d961717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마스크 쓴 BJ 김모미 음성, 사람 목소리가 아니었다고?]]></title>
+            <link>https://www.elle.co.kr/article/80299</link>
+            <guid>https://www.elle.co.kr/article/80299</guid>
+            <pubDate>Thu, 31 Aug 2023 17:39:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/9107e3fa-6032-46d2-88ff-663467c36246.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열애 고백한 김새롬! 코로나로 찐 살 한번에 감량한 비결은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/80295</link>
+            <guid>https://www.elle.co.kr/article/80295</guid>
+            <pubDate>Thu, 31 Aug 2023 17:39:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/02fdb77d-18d7-4167-9a33-ffe3a298a818.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올 겨울 여자친구와 웨딩마치 울린다는 김동욱의 결혼관]]></title>
+            <link>https://www.elle.co.kr/article/80277</link>
+            <guid>https://www.elle.co.kr/article/80277</guid>
+            <pubDate>Thu, 31 Aug 2023 05:39:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/4eddf6b0-16b6-4fcc-b1c8-2817553b58c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소름 돋는 11연속 득점, '세계 1위' 안세영이 쓴 배드민턴 전설 (ft. 역대 최강 대표팀)]]></title>
+            <link>https://www.elle.co.kr/article/80253</link>
+            <guid>https://www.elle.co.kr/article/80253</guid>
+            <pubDate>Wed, 30 Aug 2023 17:40:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/1da20965-bbef-4546-9e1a-178490141a99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고현정이 직접 공개한 '마스크걸' 비하인드컷 & 영상 (ft. 넷플 화보)]]></title>
+            <link>https://www.elle.co.kr/article/80242</link>
+            <guid>https://www.elle.co.kr/article/80242</guid>
+            <pubDate>Wed, 30 Aug 2023 17:40:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/49e67cb1-1bf3-494b-9d66-ac395f52c1ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채정안이 찾은 한남동 핫플은 어디?]]></title>
+            <link>https://www.elle.co.kr/article/80212</link>
+            <guid>https://www.elle.co.kr/article/80212</guid>
+            <pubDate>Wed, 30 Aug 2023 17:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[빈티지 샵부터 뷰 맛집 카페까지 한남동 주민 채정안이 찾은 핫플레이스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/57edd751-bdcd-4008-958c-3345f3a661b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김우빈이 고인이 된 10년 팬에게 보낸 뭉클한 마지막 작별 편지]]></title>
+            <link>https://www.elle.co.kr/article/80205</link>
+            <guid>https://www.elle.co.kr/article/80205</guid>
+            <pubDate>Wed, 30 Aug 2023 17:40:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/4dd6a2ae-88a8-4486-a286-9b8a0a01ca7d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

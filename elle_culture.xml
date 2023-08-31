@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-08-31T05:40:59.069Z</updated>
+    <updated>2023-08-31T17:40:57.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/80203</id>
+        <link href="https://www.elle.co.kr/article/80203"/>
+        <updated>2023-08-31T17:40:08.315Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까]]></title>
         <id>https://www.elle.co.kr/article/80163</id>
@@ -51,11 +57,5 @@
         <id>https://www.elle.co.kr/article/80077</id>
         <link href="https://www.elle.co.kr/article/80077"/>
         <updated>2023-08-26T17:40:21.263Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
-        <id>https://www.elle.co.kr/article/80047</id>
-        <link href="https://www.elle.co.kr/article/80047"/>
-        <updated>2023-08-26T05:40:18.001Z</updated>
     </entry>
 </feed>

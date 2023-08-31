@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 05:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 17:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[T.O.P. x 하쿠산 안경점 컬렉션이 마침내 정식 공개됐다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36498841&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36498841&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 31 Aug 2023 17:38:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MzFfMjY2/MDAxNjkzNDY3NTc1MzU5.qiR9ahu37cGS-x_KMkQzBFQx-hFq0oRWlksZ7Fo3bP4g.Vklzb77dt9ThZUc1PUqQDi_J6KKj5kY_u4l7zpol4P8g.JPEG/ID-h-YM1k-OwFVd-0g2ad7PO_bAQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트레메인 에모리가 슈프림을 떠난다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36490662&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 13 Jun 2023 17:40:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTNfMjkg/MDAxNjg2NjQ2NDIwOTA3.Fm6wEgaRfiIUOeJpiSubwdggEEjj5107_BFk6pJt79Qg.Z1KfPDgA_5JeHp1PsVp_NVRD1n_XfIjtj7i0-u6ml3Ag.JPEG/I4hFgJThjq0-x-pk0BKOqiWu5Lbc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런웨이부터 애프터파티까지, 구찌 크루즈 2024 컬렉션 다시 보기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35977708&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35977708&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 22 May 2023 17:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjJfMjA5/MDAxNjg0NzQzODY4MzY5.rc_ExfVTApYYkBeHwy9I9Nax9x4Rm58ASRbWfVOkBs8g.ETOeGzCsqgl9Nis-Mts8cfmGjl_yG-tK8Tk8ZNBP2Pwg.JPEG/IZAQc_Se0Gf0qxl8SL3RtxqjAxE8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

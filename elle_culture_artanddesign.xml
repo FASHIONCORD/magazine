@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-08-31T05:40:59.073Z</updated>
+    <updated>2023-08-31T17:40:57.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이시 우드라는 이상하고 아름다운 세계]]></title>
+        <id>https://www.elle.co.kr/article/80324</id>
+        <link href="https://www.elle.co.kr/article/80324"/>
+        <updated>2023-08-31T17:40:37.590Z</updated>
+        <content type="html"><![CDATA[지금 가장 떠오르는 아티스트 이시 우드. 한국에서 첫 개인전을 여는 그녀에게 궁금한 몇 가지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엘르 보이스] 내가 평생 풀고 싶은 문제]]></title>
         <id>https://www.elle.co.kr/article/80211</id>
@@ -86,11 +93,5 @@
         <link href="https://www.elle.co.kr/article/79359"/>
         <updated>2023-08-16T17:41:26.681Z</updated>
         <content type="html"><![CDATA[부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위대한 이탈리아 비전: 파르네시나 컬렉션' 답이 아닌 질문인 예술을 만나다 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/79904</id>
-        <link href="https://www.elle.co.kr/article/79904"/>
-        <updated>2023-08-16T17:41:26.686Z</updated>
     </entry>
 </feed>

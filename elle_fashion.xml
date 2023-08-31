@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-08-31T05:40:59.063Z</updated>
+    <updated>2023-08-31T17:40:57.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데일리 룩 만능템, 탱크톱 잘 입는 법 6]]></title>
+        <id>https://www.elle.co.kr/article/80259</id>
+        <link href="https://www.elle.co.kr/article/80259"/>
+        <updated>2023-08-31T17:39:38.512Z</updated>
+        <content type="html"><![CDATA[핫한 언니들은 모두 탱크톱을 입지! 김나영, 김아현, 곽지영 등 옷잘알 스타들이 선보인 탱크톱...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상큼 발랄한 셀럽 바비들]]></title>
         <id>https://www.elle.co.kr/article/80257</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/80209"/>
         <updated>2023-08-29T17:39:51.897Z</updated>
         <content type="html"><![CDATA[올가을, 와이드 부츠 하나로 쿨해지는 법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알렉산더 맥퀸의 양면성]]></title>
-        <id>https://www.elle.co.kr/article/80192</id>
-        <link href="https://www.elle.co.kr/article/80192"/>
-        <updated>2023-08-29T17:39:51.914Z</updated>
-        <content type="html"><![CDATA[내면 깊숙한 곳에서 드러난 펑크 정신.]]></content>
     </entry>
 </feed>
