@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-08-30T17:42:06.699Z</updated>
+    <updated>2023-08-31T05:40:59.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[교토 럭셔리 호텔의 정점, 수이란 #호텔미감]]></title>
+        <id>https://www.elle.co.kr/article/80019</id>
+        <link href="https://www.elle.co.kr/article/80019"/>
+        <updated>2023-08-31T05:40:48.398Z</updated>
+        <content type="html"><![CDATA[소나무가 우뚝 선 일본식 정원과 함께 교토의 옛 풍경을 고스란히 간직하는 호텔 수이란.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
         <id>https://www.elle.co.kr/article/80169</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/80090"/>
         <updated>2023-08-25T17:42:18.678Z</updated>
         <content type="html"><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹 갈며 힐링하다가 올드카 구경하기! 서울 무료 전시 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/80036</id>
-        <link href="https://www.elle.co.kr/article/80036"/>
-        <updated>2023-08-25T17:42:18.683Z</updated>
     </entry>
 </feed>

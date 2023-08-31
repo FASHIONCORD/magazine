@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-08-30T17:42:06.724Z</updated>
+    <updated>2023-08-31T05:40:59.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[컬러 마스카라로 생기 업! 윤은혜의 서머 메이크업]]></title>
+        <id>https://www.elle.co.kr/article/80133</id>
+        <link href="https://www.elle.co.kr/article/80133"/>
+        <updated>2023-08-31T05:39:50.279Z</updated>
+        <content type="html"><![CDATA[키치한 컬러 마스카라를 자연스럽게 활용하는 법이 궁금해? 여름이 가기 전 윤은혜가 알려주는 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결혼 22년차 이혜원, 탄탄 복근 유지하는 일상 루틴은? #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/80124</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/80011"/>
         <updated>2023-08-24T05:40:22.052Z</updated>
         <content type="html"><![CDATA[미용실 갈 때 이 사진 들고 가세요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 N°1 안티에이징 세럼]]></title>
-        <id>https://www.elle.co.kr/article/79977</id>
-        <link href="https://www.elle.co.kr/article/79977"/>
-        <updated>2023-08-23T17:40:46.560Z</updated>
-        <content type="html"><![CDATA[N°1 DE CHANEL 레드 까멜리아 세럼 100ml 출시를 기념하는 스킨케어 이벤트가 푸켓에서 열...]]></content>
     </entry>
 </feed>
