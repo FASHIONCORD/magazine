@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-08-31T17:40:57.930Z</updated>
+    <updated>2023-09-01T05:41:09.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[채정안이 찾은 한남동 핫플은 어디?]]></title>
+        <id>https://www.elle.co.kr/article/80212</id>
+        <link href="https://www.elle.co.kr/article/80212"/>
+        <updated>2023-09-01T05:40:58.845Z</updated>
+        <content type="html"><![CDATA[빈티지 샵부터 뷰 맛집 카페까지 한남동 주민 채정안이 찾은 핫플레이스.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교토 럭셔리 호텔의 정점, 수이란 #호텔미감]]></title>
         <id>https://www.elle.co.kr/article/80019</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/80132"/>
         <updated>2023-08-26T05:41:20.864Z</updated>
         <content type="html"><![CDATA[팬데믹 이후 첫 뉴욕, 내게 주어진 시간은 단 3일. 그곳에서 부지런히 찾아 나선 일상의 감흥...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
-        <id>https://www.elle.co.kr/article/80090</id>
-        <link href="https://www.elle.co.kr/article/80090"/>
-        <updated>2023-08-25T17:42:18.678Z</updated>
-        <content type="html"><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content>
     </entry>
 </feed>
