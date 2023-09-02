@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 17:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 05:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음이 이끄는 대로 떠나는 디올의 시간]]></title>
+            <link>https://www.elle.co.kr/article/80309</link>
+            <guid>https://www.elle.co.kr/article/80309</guid>
+            <pubDate>Sat, 02 Sep 2023 05:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[그녀만의 리듬으로 목적이 닿는 그곳을 향해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/cd422b1e-77b8-4557-a985-44088b5053c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미술관 갈 때 이렇게 입어보세요]]></title>
             <link>https://www.elle.co.kr/article/80303</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 30 Aug 2023 17:39:59 GMT</pubDate>
             <content:encoded><![CDATA[펜디 뉴 컬렉션으로 펼쳐낸 한낮의 느와르.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/2543f6cc-10c9-4469-9bdf-9f80ec7e1915.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올이 클래식을 정의하는 방식]]></title>
-            <link>https://www.elle.co.kr/article/80210</link>
-            <guid>https://www.elle.co.kr/article/80210</guid>
-            <pubDate>Wed, 30 Aug 2023 17:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[자유분방하고 도전적인 모습으로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/4d93fea2-7414-4285-a175-89eba3829601.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 17:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 05:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 발짝 먼저 만나는 가을 향수_선배’s 어드바이스 #183]]></title>
+            <link>https://www.elle.co.kr/article/80201</link>
+            <guid>https://www.elle.co.kr/article/80201</guid>
+            <pubDate>Sat, 02 Sep 2023 05:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[올가을엔 어떤 향기와 사랑에 빠져볼까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/9a77bee7-5436-46c0-89fd-3dde1b17a547.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파우더부터 리퀴드 타입까지! 휘인이 사용하는 일곱 가지 블러셔]]></title>
             <link>https://www.elle.co.kr/article/80187</link>
@@ -60,14 +68,6 @@
             <pubDate>Fri, 25 Aug 2023 05:39:54 GMT</pubDate>
             <content:encoded><![CDATA['콰이어트 럭셔리(Quiet Luxury)'를 원한다면.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/97d226f3-fb21-405a-867b-c38afea9dd3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부 재생은 밤에 이루어진다! 나이트 스킨케어 프로젝트_선배’s 어드바이스 #182]]></title>
-            <link>https://www.elle.co.kr/article/80020</link>
-            <guid>https://www.elle.co.kr/article/80020</guid>
-            <pubDate>Thu, 24 Aug 2023 17:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[밤에 사용하는 스킨케어 제품들, 효과를 최대로 보려면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/ef261300-63a5-44d4-9cd2-d3f548ac33af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

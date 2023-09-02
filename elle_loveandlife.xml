@@ -1,73 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 17:42:15 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[색채 수집이 빚어낸 향연, '아홉 개의 색, 아홉 개의 가구' 아뜰리에 에르메스 박미나 개인전 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/80218</link>
-            <guid>https://www.elle.co.kr/article/80218</guid>
-            <pubDate>Fri, 01 Sep 2023 17:42:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/86b489e9-976d-4166-9004-b81cb1f83941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채정안이 찾은 한남동 핫플은 어디?]]></title>
-            <link>https://www.elle.co.kr/article/80212</link>
-            <guid>https://www.elle.co.kr/article/80212</guid>
-            <pubDate>Fri, 01 Sep 2023 05:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[빈티지 샵부터 뷰 맛집 카페까지 한남동 주민 채정안이 찾은 핫플레이스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/57edd751-bdcd-4008-958c-3345f3a661b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교토 럭셔리 호텔의 정점, 수이란 #호텔미감]]></title>
-            <link>https://www.elle.co.kr/article/80019</link>
-            <guid>https://www.elle.co.kr/article/80019</guid>
-            <pubDate>Thu, 31 Aug 2023 05:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[소나무가 우뚝 선 일본식 정원과 함께 교토의 옛 풍경을 고스란히 간직하는 호텔 수이란.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/db80d72d-0cbd-40a2-a4e7-eed31dbd9acc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/80169</link>
-            <guid>https://www.elle.co.kr/article/80169</guid>
-            <pubDate>Wed, 30 Aug 2023 17:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/8d1f3d02-1b33-438e-8980-f91bacb0568a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고요한 자연 속에서 마음의 양식 쌓기, 전국 북스테이 명소 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/80153</link>
-            <guid>https://www.elle.co.kr/article/80153</guid>
-            <pubDate>Tue, 29 Aug 2023 17:41:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/25f5a9a8-218b-4d67-845e-b96dad464a53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오키나와에서 생길 일]]></title>
-            <link>https://www.elle.co.kr/article/80151</link>
-            <guid>https://www.elle.co.kr/article/80151</guid>
-            <pubDate>Tue, 29 Aug 2023 05:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[다채로운 영감을 더해 줄 휴가지를 찾고 있다면, 레저와 휴식, 쇼핑을 한 번에 즐길 수 있는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/cede5d93-c52e-4597-b1b2-8a80b00c31ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에브리데이 러블리 플레이스]]></title>
-            <link>https://www.elle.co.kr/article/79849</link>
-            <guid>https://www.elle.co.kr/article/79849</guid>
-            <pubDate>Tue, 29 Aug 2023 05:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[언제나 사랑이 넘치는 공간, 이마트 창립 30주년을 맞아 재현한 이토록 귀엽고 유쾌한 에피소드...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/c5cb6034-f738-43f7-b64b-89d70387b9bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보기 좋은 떡이 먹기도 좋다! 오감 자극 고수 에이드와 용과 빙수 #마실마실]]></title>
-            <link>https://www.elle.co.kr/article/80139</link>
-            <guid>https://www.elle.co.kr/article/80139</guid>
-            <pubDate>Sun, 27 Aug 2023 17:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[독특한 비주얼에 한 번, 색다른 맛에 또 한 번 반할 메뉴가 있는 두 카페.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/94b5ee55-d196-4c54-8aa1-8ef6d52c5536.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-09-02T05:41:57.860Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부쩍 선선해진 날씨, 산책이 하고 싶다면? 걷기 좋은 가을 축제 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/80243</id>
+        <link href="https://www.elle.co.kr/article/80243"/>
+        <updated>2023-09-02T05:41:39.333Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[색채 수집이 빚어낸 향연, '아홉 개의 색, 아홉 개의 가구' 아뜰리에 에르메스 박미나 개인전 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/80218</id>
+        <link href="https://www.elle.co.kr/article/80218"/>
+        <updated>2023-09-01T17:42:06.114Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채정안이 찾은 한남동 핫플은 어디?]]></title>
+        <id>https://www.elle.co.kr/article/80212</id>
+        <link href="https://www.elle.co.kr/article/80212"/>
+        <updated>2023-09-01T05:40:58.845Z</updated>
+        <content type="html"><![CDATA[빈티지 샵부터 뷰 맛집 카페까지 한남동 주민 채정안이 찾은 핫플레이스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교토 럭셔리 호텔의 정점, 수이란 #호텔미감]]></title>
+        <id>https://www.elle.co.kr/article/80019</id>
+        <link href="https://www.elle.co.kr/article/80019"/>
+        <updated>2023-08-31T05:40:48.398Z</updated>
+        <content type="html"><![CDATA[소나무가 우뚝 선 일본식 정원과 함께 교토의 옛 풍경을 고스란히 간직하는 호텔 수이란.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
+        <id>https://www.elle.co.kr/article/80169</id>
+        <link href="https://www.elle.co.kr/article/80169"/>
+        <updated>2023-08-30T17:41:48.056Z</updated>
+        <content type="html"><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고요한 자연 속에서 마음의 양식 쌓기, 전국 북스테이 명소 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/80153</id>
+        <link href="https://www.elle.co.kr/article/80153"/>
+        <updated>2023-08-29T17:41:15.880Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오키나와에서 생길 일]]></title>
+        <id>https://www.elle.co.kr/article/80151</id>
+        <link href="https://www.elle.co.kr/article/80151"/>
+        <updated>2023-08-29T05:42:07.848Z</updated>
+        <content type="html"><![CDATA[다채로운 영감을 더해 줄 휴가지를 찾고 있다면, 레저와 휴식, 쇼핑을 한 번에 즐길 수 있는 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에브리데이 러블리 플레이스]]></title>
+        <id>https://www.elle.co.kr/article/79849</id>
+        <link href="https://www.elle.co.kr/article/79849"/>
+        <updated>2023-08-29T05:42:07.850Z</updated>
+        <content type="html"><![CDATA[언제나 사랑이 넘치는 공간, 이마트 창립 30주년을 맞아 재현한 이토록 귀엽고 유쾌한 에피소드...]]></content>
+    </entry>
+</feed>
