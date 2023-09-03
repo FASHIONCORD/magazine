@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 17:41:06 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한 발짝 먼저 만나는 가을 향수_선배’s 어드바이스 #183]]></title>
-            <link>https://www.elle.co.kr/article/80201</link>
-            <guid>https://www.elle.co.kr/article/80201</guid>
-            <pubDate>Sat, 02 Sep 2023 05:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[올가을엔 어떤 향기와 사랑에 빠져볼까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/9a77bee7-5436-46c0-89fd-3dde1b17a547.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파우더부터 리퀴드 타입까지! 휘인이 사용하는 일곱 가지 블러셔]]></title>
-            <link>https://www.elle.co.kr/article/80187</link>
-            <guid>https://www.elle.co.kr/article/80187</guid>
-            <pubDate>Thu, 31 Aug 2023 17:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[블러셔 유목민들에게 고합니다. '코덕' 휘인이 소개하는 인생 블러셔에 주목하세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/b8d9d140-bc62-43fc-bdc8-d195fdb24722.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬러 마스카라로 생기 업! 윤은혜의 서머 메이크업]]></title>
-            <link>https://www.elle.co.kr/article/80133</link>
-            <guid>https://www.elle.co.kr/article/80133</guid>
-            <pubDate>Thu, 31 Aug 2023 05:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[키치한 컬러 마스카라를 자연스럽게 활용하는 법이 궁금해? 여름이 가기 전 윤은혜가 알려주는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/dc109f07-93e2-4c3d-b19d-c4381dbb7198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 22년차 이혜원, 탄탄 복근 유지하는 일상 루틴은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80124</link>
-            <guid>https://www.elle.co.kr/article/80124</guid>
-            <pubDate>Wed, 30 Aug 2023 17:40:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/22a09b8b-06f6-4206-b12b-8f9a8cff6cce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
-            <link>https://www.elle.co.kr/article/80090</link>
-            <guid>https://www.elle.co.kr/article/80090</guid>
-            <pubDate>Tue, 29 Aug 2023 05:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/cdb91169-df25-4d88-b9fa-135da4768c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실 다이어터 귀 쫑긋! 이국주의 -17kg 체중 감량 노하우 총정리! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80072</link>
-            <guid>https://www.elle.co.kr/article/80072</guid>
-            <pubDate>Tue, 29 Aug 2023 05:40:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/184e0205-cfd7-40a9-a3cc-b27d2639d30f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조 말론 런던 글로벌 앰배서더, 애드와 아보아와의 대화]]></title>
-            <link>https://www.elle.co.kr/article/79981</link>
-            <guid>https://www.elle.co.kr/article/79981</guid>
-            <pubDate>Mon, 28 Aug 2023 05:40:38 GMT</pubDate>
-            <content:encoded><![CDATA['잉글리쉬 페어(English Pear)'의 얼굴인 그녀와 새로운 코롱 출시를 기념하며 화상으로 대화를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/ee1fb177-c594-4f57-83b4-7ca35775a835.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티 나지 않아 더 좋은 홈 뷰티템]]></title>
-            <link>https://www.elle.co.kr/article/79998</link>
-            <guid>https://www.elle.co.kr/article/79998</guid>
-            <pubDate>Fri, 25 Aug 2023 05:39:54 GMT</pubDate>
-            <content:encoded><![CDATA['콰이어트 럭셔리(Quiet Luxury)'를 원한다면.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/97d226f3-fb21-405a-867b-c38afea9dd3c.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/beauty</id>
+    <title>엘르 코리아 ─ 뷰티</title>
+    <updated>2023-09-03T05:41:42.408Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 발짝 먼저 만나는 가을 향수_선배’s 어드바이스 #183]]></title>
+        <id>https://www.elle.co.kr/article/80201</id>
+        <link href="https://www.elle.co.kr/article/80201"/>
+        <updated>2023-09-02T05:40:38.129Z</updated>
+        <content type="html"><![CDATA[올가을엔 어떤 향기와 사랑에 빠져볼까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파우더부터 리퀴드 타입까지! 휘인이 사용하는 일곱 가지 블러셔]]></title>
+        <id>https://www.elle.co.kr/article/80187</id>
+        <link href="https://www.elle.co.kr/article/80187"/>
+        <updated>2023-08-31T17:39:49.527Z</updated>
+        <content type="html"><![CDATA[블러셔 유목민들에게 고합니다. '코덕' 휘인이 소개하는 인생 블러셔에 주목하세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컬러 마스카라로 생기 업! 윤은혜의 서머 메이크업]]></title>
+        <id>https://www.elle.co.kr/article/80133</id>
+        <link href="https://www.elle.co.kr/article/80133"/>
+        <updated>2023-08-31T05:39:50.279Z</updated>
+        <content type="html"><![CDATA[키치한 컬러 마스카라를 자연스럽게 활용하는 법이 궁금해? 여름이 가기 전 윤은혜가 알려주는 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결혼 22년차 이혜원, 탄탄 복근 유지하는 일상 루틴은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80124</id>
+        <link href="https://www.elle.co.kr/article/80124"/>
+        <updated>2023-08-30T17:40:11.234Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['10년 차 유지어터' 이청아가 관리할 때 먹는 아침 식단은?]]></title>
+        <id>https://www.elle.co.kr/article/80090</id>
+        <link href="https://www.elle.co.kr/article/80090"/>
+        <updated>2023-08-29T05:40:03.358Z</updated>
+        <content type="html"><![CDATA[관리 끝판왕 이청아가 건강과 아름다움을 유지하는 법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현실 다이어터 귀 쫑긋! 이국주의 -17kg 체중 감량 노하우 총정리! #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80072</id>
+        <link href="https://www.elle.co.kr/article/80072"/>
+        <updated>2023-08-29T05:40:03.363Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조 말론 런던 글로벌 앰배서더, 애드와 아보아와의 대화]]></title>
+        <id>https://www.elle.co.kr/article/79981</id>
+        <link href="https://www.elle.co.kr/article/79981"/>
+        <updated>2023-08-28T05:40:38.610Z</updated>
+        <content type="html"><![CDATA['잉글리쉬 페어(English Pear)'의 얼굴인 그녀와 새로운 코롱 출시를 기념하며 화상으로 대화를 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티 나지 않아 더 좋은 홈 뷰티템]]></title>
+        <id>https://www.elle.co.kr/article/79998</id>
+        <link href="https://www.elle.co.kr/article/79998"/>
+        <updated>2023-08-25T05:39:54.939Z</updated>
+        <content type="html"><![CDATA['콰이어트 럭셔리(Quiet Luxury)'를 원한다면.]]></content>
+    </entry>
+</feed>
