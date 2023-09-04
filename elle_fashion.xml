@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-03T17:41:11.484Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[가을 한복판에서 만난 로로피아나의 우아함]]></title>
-        <id>https://www.elle.co.kr/article/80315</id>
-        <link href="https://www.elle.co.kr/article/80315"/>
-        <updated>2023-09-03T05:40:15.276Z</updated>
-        <content type="html"><![CDATA[여유를 즐기는 한 때, 피어난 로로피아나의 우아함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음이 이끄는 대로 떠나는 디올의 시간]]></title>
-        <id>https://www.elle.co.kr/article/80309</id>
-        <link href="https://www.elle.co.kr/article/80309"/>
-        <updated>2023-09-02T05:40:24.450Z</updated>
-        <content type="html"><![CDATA[그녀만의 리듬으로 목적이 닿는 그곳을 향해.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미술관 갈 때 이렇게 입어보세요]]></title>
-        <id>https://www.elle.co.kr/article/80303</id>
-        <link href="https://www.elle.co.kr/article/80303"/>
-        <updated>2023-09-01T17:40:12.460Z</updated>
-        <content type="html"><![CDATA[김나영부터 크리스탈, 이연희까지. 미술관을 찾은 스타들의 일상 속 패션 엿보기!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이주얼리가 된 샤넬의 트위드]]></title>
-        <id>https://www.elle.co.kr/article/80298</id>
-        <link href="https://www.elle.co.kr/article/80298"/>
-        <updated>2023-09-01T05:39:52.693Z</updated>
-        <content type="html"><![CDATA[가장 신비롭고 찬란한 결정체, '트위드 드 샤넬'.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽃을 든 여인, 그 속에서 발견한 빛의 반짝임]]></title>
-        <id>https://www.elle.co.kr/article/80284</id>
-        <link href="https://www.elle.co.kr/article/80284"/>
-        <updated>2023-09-01T05:39:52.696Z</updated>
-        <content type="html"><![CDATA[그 속에서 발견한 불가리의 반짝임.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데일리 룩 만능템, 탱크톱 잘 입는 법 6]]></title>
-        <id>https://www.elle.co.kr/article/80259</id>
-        <link href="https://www.elle.co.kr/article/80259"/>
-        <updated>2023-08-31T17:39:38.512Z</updated>
-        <content type="html"><![CDATA[핫한 언니들은 모두 탱크톱을 입지! 김나영, 김아현, 곽지영 등 옷잘알 스타들이 선보인 탱크톱...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상큼 발랄한 셀럽 바비들]]></title>
-        <id>https://www.elle.co.kr/article/80257</id>
-        <link href="https://www.elle.co.kr/article/80257"/>
-        <updated>2023-08-31T05:39:39.708Z</updated>
-        <content type="html"><![CDATA[핑크 컬러와 하이힐은 필수.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생로랑을 입은 매혹적인 그녀]]></title>
-        <id>https://www.elle.co.kr/article/80254</id>
-        <link href="https://www.elle.co.kr/article/80254"/>
-        <updated>2023-08-31T05:39:39.710Z</updated>
-        <content type="html"><![CDATA[한밤의 기억들이 사라지지 않는 몽환 속에서.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 04 Sep 2023 05:41:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 한복판에서 만난 로로피아나의 우아함]]></title>
+            <link>https://www.elle.co.kr/article/80315</link>
+            <guid>https://www.elle.co.kr/article/80315</guid>
+            <pubDate>Sun, 03 Sep 2023 05:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[여유를 즐기는 한 때, 피어난 로로피아나의 우아함.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f9be2b21-58af-44a0-8abd-1f6e8be8a14c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마음이 이끄는 대로 떠나는 디올의 시간]]></title>
+            <link>https://www.elle.co.kr/article/80309</link>
+            <guid>https://www.elle.co.kr/article/80309</guid>
+            <pubDate>Sat, 02 Sep 2023 05:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[그녀만의 리듬으로 목적이 닿는 그곳을 향해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/cd422b1e-77b8-4557-a985-44088b5053c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미술관 갈 때 이렇게 입어보세요]]></title>
+            <link>https://www.elle.co.kr/article/80303</link>
+            <guid>https://www.elle.co.kr/article/80303</guid>
+            <pubDate>Fri, 01 Sep 2023 17:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[김나영부터 크리스탈, 이연희까지. 미술관을 찾은 스타들의 일상 속 패션 엿보기!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f95a9824-4cf8-47c3-b3c7-93b0c9412982.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이주얼리가 된 샤넬의 트위드]]></title>
+            <link>https://www.elle.co.kr/article/80298</link>
+            <guid>https://www.elle.co.kr/article/80298</guid>
+            <pubDate>Fri, 01 Sep 2023 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[가장 신비롭고 찬란한 결정체, '트위드 드 샤넬'.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/6cf4ebd9-4c26-453b-9edd-cd7eba50fc87.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃을 든 여인, 그 속에서 발견한 빛의 반짝임]]></title>
+            <link>https://www.elle.co.kr/article/80284</link>
+            <guid>https://www.elle.co.kr/article/80284</guid>
+            <pubDate>Fri, 01 Sep 2023 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[그 속에서 발견한 불가리의 반짝임.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/04c1c64d-a1bf-461a-a74b-9781a160d3da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데일리 룩 만능템, 탱크톱 잘 입는 법 6]]></title>
+            <link>https://www.elle.co.kr/article/80259</link>
+            <guid>https://www.elle.co.kr/article/80259</guid>
+            <pubDate>Thu, 31 Aug 2023 17:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[핫한 언니들은 모두 탱크톱을 입지! 김나영, 김아현, 곽지영 등 옷잘알 스타들이 선보인 탱크톱...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/dae9cd9d-d65e-4b2e-bde9-32c50353eb96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상큼 발랄한 셀럽 바비들]]></title>
+            <link>https://www.elle.co.kr/article/80257</link>
+            <guid>https://www.elle.co.kr/article/80257</guid>
+            <pubDate>Thu, 31 Aug 2023 05:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[핑크 컬러와 하이힐은 필수.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/f87d110b-16de-4303-809f-43ec04291407.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생로랑을 입은 매혹적인 그녀]]></title>
+            <link>https://www.elle.co.kr/article/80254</link>
+            <guid>https://www.elle.co.kr/article/80254</guid>
+            <pubDate>Thu, 31 Aug 2023 05:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[한밤의 기억들이 사라지지 않는 몽환 속에서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/42032ed7-61e5-446a-a79f-82a042bb594a.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
