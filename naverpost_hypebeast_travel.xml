@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 05:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 17:42:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 연구진이 영양분을 섭취해도 살이 찌지 않게 하는 신약을 개발했다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36518585&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36518585&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 04 Sep 2023 17:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDRfMTA0/MDAxNjkzODEyNDc5NDQz.1Qt9d5rDfkwbu0EBDqoToxAAQy-cKS37MUuPDx-TOicg.46jZXFfORZo5o_XF5Z1UPrTffo5Pgt6wRJ84YzaQIp8g.JPEG/IUUhgQaU-tPs0o7Q76WkyuQFA6PM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[절대 받고 싶지 않은 밸런타인데이 선물 7]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35448062&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MDRfMTQx/MDAxNTkzODYxMzQwMzk3.mL8NjoNwnJKAo_NMdN82W9BDM7pOMZGLAXVPR7qxm40g.WrLg2eSfuyrlLraR_KSaUAC5nfPmNCx5aPFYNWdWvW4g.JPEG/IdBHoHqliBkzZdZssSPGdcdOzPcs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매니큐어부터 데오드란트까지? 칸예 웨스트, ‘이지’ 코스메틱 라인 론칭한다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28535096&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28535096&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MTVfMjM4/MDAxNTkyMTkyODA3OTg1.g5sQzV2ewsSIf2XrwqlRZbPUzDVVp3bbt6rMtd3_kREg.ZSGfwS-SVanOOimtkVfOCMP-TTlfzk6OV0B_32BuCAQg.JPEG/IfrqYobeWPGAplyefdhDr01E76y4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

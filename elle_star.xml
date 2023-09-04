@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 05:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 17:42:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고요하게 반짝이는 홍경이라는 물결]]></title>
+            <link>https://www.elle.co.kr/article/80137</link>
+            <guid>https://www.elle.co.kr/article/80137</guid>
+            <pubDate>Mon, 04 Sep 2023 17:40:50 GMT</pubDate>
+            <content:encoded><![CDATA["세상은 너무 빠르게 변하는 것 같아요. 내 고유함이 사라지지 않도록 세상에 흔들리지 않을래요...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/c354e5a9-e0a2-40c5-a932-a9a0c57adf73.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유나만의 방으로 초대합니다. ITZY 유나 단독 화보!]]></title>
+            <link>https://www.elle.co.kr/article/80131</link>
+            <guid>https://www.elle.co.kr/article/80131</guid>
+            <pubDate>Mon, 04 Sep 2023 17:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[유나의 크고 맑은 눈망울에 들어앉은 다채로운 감정들. 그리고 기꺼이 외치고 싶어지는 격려와 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/03/b1a1982c-0dc4-436a-8bcf-f51e5199839e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['프리즈'가 불러낸 뜨거운 이름, 아티스트 우한나의 이야기는 지금부터 시작이다]]></title>
             <link>https://www.elle.co.kr/article/80336</link>
@@ -52,22 +68,6 @@
             <guid>https://www.elle.co.kr/article/80342</guid>
             <pubDate>Sat, 02 Sep 2023 17:40:07 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/0449dfcd-5acd-43bf-950b-eb66cb24dd5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세경, <엘르> 디 에디션(D Edition) 9월 커버 공개 #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/80330</link>
-            <guid>https://www.elle.co.kr/article/80330</guid>
-            <pubDate>Sat, 02 Sep 2023 05:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[파리지엔으로 변신한 신세경의 고혹적인 매력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/d67009f2-2aeb-4cc0-84e0-80bd598b119a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한지민과 이민기가 말하는 '힙'한 것]]></title>
-            <link>https://www.elle.co.kr/article/80097</link>
-            <guid>https://www.elle.co.kr/article/80097</guid>
-            <pubDate>Sat, 02 Sep 2023 05:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[웃음 버튼이 제대로 눌렸다. 드라마 &lt;힙하게&gt;의 두 사람, 한지민과 이민기가 가꾸어낸 기묘하고 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/12af3b26-2e52-4715-b31d-126ac4aa17a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

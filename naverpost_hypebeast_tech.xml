@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 05:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 17:42:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 엑스박스 시리즈 S 1TB ‘카본 블랙’ 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36518572&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36518572&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 04 Sep 2023 17:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDRfNzEg/MDAxNjkzODEyMzc1MTIw.CHcdzdzqZ6xVEnzRFonpsyZd9kBiz-4R-M7kF6U5NTcg.ZHsDhYK0RV9etrFeLPATJs25xWy2uBCRQ8KPafXgRXEg.JPEG/IVBg-BwNmKQxp0J4MknJxzWMiwkk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 이벤트 개최일 확정, 공개 예상되는 신제품은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36490620&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMjdfNDIg/MDAxNjExNzM2NjY0MDQz.UKt0oJCLx3lvebjhtYD_XDFOEw0ndEuOJY97oL1aurUg.e-kV6umClvHBOnfO3CulEKyq8dhTJVm55jjFqzYTrzkg.JPEG/IoSIQlobxFo2oIj81YKJgS_OVZdE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 ‘애니콜’이 갤럭시 버즈 프로 케이스로 다시 돌아왔다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30490255&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30490255&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTQx/MDAxNjEwNjk5MjY0MzMz.F7zkIdrftpqwQ5PKd196FnIAkmtAkcAlBYY0qTJrr3Qg.mGrH1SqEgLrx1EesrBEQpHndVZxxWtkaAXdAo1D5U3sg.JPEG/IKlljUUGHvDZSaGPkA7AySjTOqNU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
