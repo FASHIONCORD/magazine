@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 17:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 05:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/80398</link>
+            <guid>https://www.elle.co.kr/article/80398</guid>
+            <pubDate>Tue, 05 Sep 2023 05:40:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/1cf44305-e043-4a29-9e3b-42a6fffa9354.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이시 우드라는 이상하고 아름다운 세계]]></title>
             <link>https://www.elle.co.kr/article/80324</link>
@@ -36,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/80029</guid>
             <pubDate>Sat, 26 Aug 2023 17:40:46 GMT</pubDate>
             <content:encoded><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/27/82501fff-b610-4279-a560-5d969ef7d99f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
@@ -92,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/79123</guid>
             <pubDate>Thu, 17 Aug 2023 17:41:36 GMT</pubDate>
             <content:encoded><![CDATA[크고 작은 식물들이 모인 '4T'의 세상.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[느슨한 연대의 맛 #프리워커]]></title>
-            <link>https://www.elle.co.kr/article/79359</link>
-            <guid>https://www.elle.co.kr/article/79359</guid>
-            <pubDate>Wed, 16 Aug 2023 17:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[부산에서 디자인 스튜디오를 운영 중인 박보은의 워케이션 일대기.]]></content:encoded>
         </item>
     </channel>
 </rss>

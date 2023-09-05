@@ -1,95 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 17:42:02 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['경이로운 소문 2' 종영, 모든 악을 흡수한 진선규의 최후는?]]></title>
-            <link>https://www.elle.co.kr/article/80382</link>
-            <guid>https://www.elle.co.kr/article/80382</guid>
-            <pubDate>Mon, 04 Sep 2023 17:41:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/8a37bce0-dd93-4017-949f-337059e477e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파트1 종영, 러브라인 힌트는? 설레고 애틋하고 다 하는 '연인' 명장면 3 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/80381</link>
-            <guid>https://www.elle.co.kr/article/80381</guid>
-            <pubDate>Mon, 04 Sep 2023 17:41:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/afbef83b-0747-4ef2-98d2-da065800070d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스크 쓴 BJ 김모미 음성, 사람 목소리가 아니었다고?]]></title>
-            <link>https://www.elle.co.kr/article/80299</link>
-            <guid>https://www.elle.co.kr/article/80299</guid>
-            <pubDate>Wed, 30 Aug 2023 17:41:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/9107e3fa-6032-46d2-88ff-663467c36246.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/80203</link>
-            <guid>https://www.elle.co.kr/article/80203</guid>
-            <pubDate>Tue, 29 Aug 2023 05:41:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/8e03b7fb-2efd-4765-b7db-f7159ba75e17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까]]></title>
-            <link>https://www.elle.co.kr/article/80163</link>
-            <guid>https://www.elle.co.kr/article/80163</guid>
-            <pubDate>Sun, 27 Aug 2023 17:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[천국보단 지옥.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
-            <link>https://www.elle.co.kr/article/80109</link>
-            <guid>https://www.elle.co.kr/article/80109</guid>
-            <pubDate>Thu, 24 Aug 2023 17:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
-            <link>https://www.elle.co.kr/article/80077</link>
-            <guid>https://www.elle.co.kr/article/80077</guid>
-            <pubDate>Wed, 23 Aug 2023 17:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
-            <link>https://www.elle.co.kr/article/80047</link>
-            <guid>https://www.elle.co.kr/article/80047</guid>
-            <pubDate>Wed, 23 Aug 2023 05:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
-            <link>https://www.elle.co.kr/article/80021</link>
-            <guid>https://www.elle.co.kr/article/80021</guid>
-            <pubDate>Tue, 22 Aug 2023 05:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/79995</link>
-            <guid>https://www.elle.co.kr/article/79995</guid>
-            <pubDate>Mon, 21 Aug 2023 17:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 자컨이 대체 뭔데? 자컨 여행자를 위한 안내서]]></title>
-            <link>https://www.elle.co.kr/article/79917</link>
-            <guid>https://www.elle.co.kr/article/79917</guid>
-            <pubDate>Sat, 19 Aug 2023 17:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[멤버들과 있을 때 내 아이돌은 어떨까? K팝 아티스트들의 필수 콘텐츠가 된 '자컨'의 세계. 그...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/79949</link>
-            <guid>https://www.elle.co.kr/article/79949</guid>
-            <pubDate>Fri, 18 Aug 2023 17:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
-            <link>https://www.elle.co.kr/article/79924</link>
-            <guid>https://www.elle.co.kr/article/79924</guid>
-            <pubDate>Thu, 17 Aug 2023 17:41:26 GMT</pubDate>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/moviesandtv</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+    <updated>2023-09-05T05:41:08.807Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경이로운 소문 2' 종영, 모든 악을 흡수한 진선규의 최후는?]]></title>
+        <id>https://www.elle.co.kr/article/80382</id>
+        <link href="https://www.elle.co.kr/article/80382"/>
+        <updated>2023-09-04T17:41:26.258Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파트1 종영, 러브라인 힌트는? 설레고 애틋하고 다 하는 '연인' 명장면 3 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/80381</id>
+        <link href="https://www.elle.co.kr/article/80381"/>
+        <updated>2023-09-04T17:41:26.264Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마스크 쓴 BJ 김모미 음성, 사람 목소리가 아니었다고?]]></title>
+        <id>https://www.elle.co.kr/article/80299</id>
+        <link href="https://www.elle.co.kr/article/80299"/>
+        <updated>2023-08-30T17:41:24.564Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/80203</id>
+        <link href="https://www.elle.co.kr/article/80203"/>
+        <updated>2023-08-29T05:41:18.323Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까]]></title>
+        <id>https://www.elle.co.kr/article/80163</id>
+        <link href="https://www.elle.co.kr/article/80163"/>
+        <updated>2023-08-27T17:41:09.186Z</updated>
+        <content type="html"><![CDATA[천국보단 지옥.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
+        <id>https://www.elle.co.kr/article/80109</id>
+        <link href="https://www.elle.co.kr/article/80109"/>
+        <updated>2023-08-24T17:40:43.332Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 봐, 시즌 2도 언니들 싸움이다! '스우파2' 첫 방송부터 공개된 살벌 과거사 3]]></title>
+        <id>https://www.elle.co.kr/article/80077</id>
+        <link href="https://www.elle.co.kr/article/80077"/>
+        <updated>2023-08-23T17:41:35.510Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
+        <id>https://www.elle.co.kr/article/80047</id>
+        <link href="https://www.elle.co.kr/article/80047"/>
+        <updated>2023-08-23T05:41:33.167Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
+        <id>https://www.elle.co.kr/article/80021</id>
+        <link href="https://www.elle.co.kr/article/80021"/>
+        <updated>2023-08-22T05:41:48.812Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남궁민X안은진, 이 조합 되네? 사극 '연인' 인기 요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/79995</id>
+        <link href="https://www.elle.co.kr/article/79995"/>
+        <updated>2023-08-21T17:41:24.733Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이돌 자컨이 대체 뭔데? 자컨 여행자를 위한 안내서]]></title>
+        <id>https://www.elle.co.kr/article/79917</id>
+        <link href="https://www.elle.co.kr/article/79917"/>
+        <updated>2023-08-19T17:41:24.651Z</updated>
+        <content type="html"><![CDATA[멤버들과 있을 때 내 아이돌은 어떨까? K팝 아티스트들의 필수 콘텐츠가 된 '자컨'의 세계. 그...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제훈에 이어 이동휘, 그 다음은? '수사반장' 형사 4인방 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/79949</id>
+        <link href="https://www.elle.co.kr/article/79949"/>
+        <updated>2023-08-18T17:42:09.779Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30년차 배우이자 14년차 워킹맘, 김희선이 말하는 경력 단절 공포]]></title>
+        <id>https://www.elle.co.kr/article/79924</id>
+        <link href="https://www.elle.co.kr/article/79924"/>
+        <updated>2023-08-17T17:41:26.493Z</updated>
+    </entry>
+</feed>

@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 17:42:02 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[고요하게 반짝이는 홍경이라는 물결]]></title>
-            <link>https://www.elle.co.kr/article/80137</link>
-            <guid>https://www.elle.co.kr/article/80137</guid>
-            <pubDate>Mon, 04 Sep 2023 17:40:50 GMT</pubDate>
-            <content:encoded><![CDATA["세상은 너무 빠르게 변하는 것 같아요. 내 고유함이 사라지지 않도록 세상에 흔들리지 않을래요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/c354e5a9-e0a2-40c5-a932-a9a0c57adf73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유나만의 방으로 초대합니다. ITZY 유나 단독 화보!]]></title>
-            <link>https://www.elle.co.kr/article/80131</link>
-            <guid>https://www.elle.co.kr/article/80131</guid>
-            <pubDate>Mon, 04 Sep 2023 17:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[유나의 크고 맑은 눈망울에 들어앉은 다채로운 감정들. 그리고 기꺼이 외치고 싶어지는 격려와 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/03/b1a1982c-0dc4-436a-8bcf-f51e5199839e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['프리즈'가 불러낸 뜨거운 이름, 아티스트 우한나의 이야기는 지금부터 시작이다]]></title>
-            <link>https://www.elle.co.kr/article/80336</link>
-            <guid>https://www.elle.co.kr/article/80336</guid>
-            <pubDate>Mon, 04 Sep 2023 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA['프리즈 서울 2023'의 '포커스 아시아' 선정 작가이자 제1회 '아티스트 어워즈' 수상자로 이름...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/03/d5ec64da-d290-465e-8296-e4bacb0d788b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My fair lady, 신세경(feat. 로저 비비에) #ELLE_D에디션]]></title>
-            <link>https://www.elle.co.kr/article/80353</link>
-            <guid>https://www.elle.co.kr/article/80353</guid>
-            <pubDate>Mon, 04 Sep 2023 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[우아하고 사랑스러운 파리지엔이 된 신세경. 로저 비비에와 함께한 신세경의 ELLE D Edition...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/02/989d7756-a0a3-4972-8576-5a702922920d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따라해 볼까? 윤승아의 지속 가능한 다이어트 방법]]></title>
-            <link>https://www.elle.co.kr/article/80352</link>
-            <guid>https://www.elle.co.kr/article/80352</guid>
-            <pubDate>Sun, 03 Sep 2023 17:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[출산 후 몸매 관리에 돌입한 윤승아의 화보 촬영 전 다이어트 10일 기록. 건강하게 먹고 부지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/02/587984d8-9fd7-477b-ac17-0f8e7325b974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이스 지오바넬리, 매료될 수밖에 없는 어떤 것]]></title>
-            <link>https://www.elle.co.kr/article/80335</link>
-            <guid>https://www.elle.co.kr/article/80335</guid>
-            <pubDate>Sun, 03 Sep 2023 17:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[팝 스타, 반짝이는 금색 블라우스, 극장 커튼, 황홀경에 빠진 영화배우, 프레스코화의 작은 부분...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/02/b59e03e1-473b-40a1-88ad-959a39a63ccf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년 전 웨딩드레스 그대로! 이효리-이상순 결혼 10주년 기념사진.jpg]]></title>
-            <link>https://www.elle.co.kr/article/80350</link>
-            <guid>https://www.elle.co.kr/article/80350</guid>
-            <pubDate>Sat, 02 Sep 2023 17:40:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/fd72e5c3-637c-4efc-8599-2fe7c8534b31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국이 생일 1분 전 남긴 장문의 메시지 (ft. 지민 사진)]]></title>
-            <link>https://www.elle.co.kr/article/80342</link>
-            <guid>https://www.elle.co.kr/article/80342</guid>
-            <pubDate>Sat, 02 Sep 2023 17:40:07 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/0449dfcd-5acd-43bf-950b-eb66cb24dd5e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-09-05T05:41:08.788Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유나만의 방으로 초대합니다. ITZY 유나 단독 화보!]]></title>
+        <id>https://www.elle.co.kr/article/80131</id>
+        <link href="https://www.elle.co.kr/article/80131"/>
+        <updated>2023-09-04T17:40:50.600Z</updated>
+        <content type="html"><![CDATA[유나의 크고 맑은 눈망울에 들어앉은 다채로운 감정들. 그리고 기꺼이 외치고 싶어지는 격려와 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['프리즈'가 불러낸 뜨거운 이름, 아티스트 우한나의 이야기는 지금부터 시작이다]]></title>
+        <id>https://www.elle.co.kr/article/80336</id>
+        <link href="https://www.elle.co.kr/article/80336"/>
+        <updated>2023-09-04T05:40:15.865Z</updated>
+        <content type="html"><![CDATA['프리즈 서울 2023'의 '포커스 아시아' 선정 작가이자 제1회 '아티스트 어워즈' 수상자로 이름...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My fair lady, 신세경(feat. 로저 비비에) #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/80353</id>
+        <link href="https://www.elle.co.kr/article/80353"/>
+        <updated>2023-09-04T05:40:15.866Z</updated>
+        <content type="html"><![CDATA[우아하고 사랑스러운 파리지엔이 된 신세경. 로저 비비에와 함께한 신세경의 ELLE D Edition...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[따라해 볼까? 윤승아의 지속 가능한 다이어트 방법]]></title>
+        <id>https://www.elle.co.kr/article/80352</id>
+        <link href="https://www.elle.co.kr/article/80352"/>
+        <updated>2023-09-03T17:40:18.152Z</updated>
+        <content type="html"><![CDATA[출산 후 몸매 관리에 돌입한 윤승아의 화보 촬영 전 다이어트 10일 기록. 건강하게 먹고 부지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루이스 지오바넬리, 매료될 수밖에 없는 어떤 것]]></title>
+        <id>https://www.elle.co.kr/article/80335</id>
+        <link href="https://www.elle.co.kr/article/80335"/>
+        <updated>2023-09-03T17:40:18.153Z</updated>
+        <content type="html"><![CDATA[팝 스타, 반짝이는 금색 블라우스, 극장 커튼, 황홀경에 빠진 영화배우, 프레스코화의 작은 부분...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10년 전 웨딩드레스 그대로! 이효리-이상순 결혼 10주년 기념사진.jpg]]></title>
+        <id>https://www.elle.co.kr/article/80350</id>
+        <link href="https://www.elle.co.kr/article/80350"/>
+        <updated>2023-09-02T17:40:07.615Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국이 생일 1분 전 남긴 장문의 메시지 (ft. 지민 사진)]]></title>
+        <id>https://www.elle.co.kr/article/80342</id>
+        <link href="https://www.elle.co.kr/article/80342"/>
+        <updated>2023-09-02T17:40:07.620Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신세경, <엘르> 디 에디션(D Edition) 9월 커버 공개 #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/80330</id>
+        <link href="https://www.elle.co.kr/article/80330"/>
+        <updated>2023-09-05T05:40:08.578Z</updated>
+        <content type="html"><![CDATA[파리지엔으로 변신한 신세경의 고혹적인 매력.]]></content>
+    </entry>
+</feed>
