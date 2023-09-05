@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 05:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 17:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마스크 쓴 BJ 김모미 음성, 사람 목소리가 아니었다고?]]></title>
+            <link>https://www.elle.co.kr/article/80299</link>
+            <guid>https://www.elle.co.kr/article/80299</guid>
+            <pubDate>Tue, 05 Sep 2023 17:41:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/9107e3fa-6032-46d2-88ff-663467c36246.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르 보이스] 내가 평생 풀고 싶은 문제]]></title>
             <link>https://www.elle.co.kr/article/80211</link>
@@ -59,13 +66,6 @@
             <pubDate>Tue, 29 Aug 2023 17:40:32 GMT</pubDate>
             <content:encoded><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/8d1f3d02-1b33-438e-8980-f91bacb0568a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
-            <link>https://www.elle.co.kr/article/80109</link>
-            <guid>https://www.elle.co.kr/article/80109</guid>
-            <pubDate>Tue, 29 Aug 2023 05:40:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/1d53bf08-6259-4423-872c-2273f08b6d43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

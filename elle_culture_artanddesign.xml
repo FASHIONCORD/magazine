@@ -1,103 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 05:41:08 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/80398</link>
-            <guid>https://www.elle.co.kr/article/80398</guid>
-            <pubDate>Tue, 05 Sep 2023 05:40:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/1cf44305-e043-4a29-9e3b-42a6fffa9354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시 우드라는 이상하고 아름다운 세계]]></title>
-            <link>https://www.elle.co.kr/article/80324</link>
-            <guid>https://www.elle.co.kr/article/80324</guid>
-            <pubDate>Thu, 31 Aug 2023 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 떠오르는 아티스트 이시 우드. 한국에서 첫 개인전을 여는 그녀에게 궁금한 몇 가지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/03d3d377-d5b1-494c-a6d1-9140336aea0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르 보이스] 내가 평생 풀고 싶은 문제]]></title>
-            <link>https://www.elle.co.kr/article/80211</link>
-            <guid>https://www.elle.co.kr/article/80211</guid>
-            <pubDate>Wed, 30 Aug 2023 05:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[실비아헬스 고명진 대표를  앞으로 나아갈 수 있게 하는 힘.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/bcda6fb6-87ae-47c7-bff6-c0dba889830d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[색채 수집이 빚어낸 향연, '아홉 개의 색, 아홉 개의 가구' 아뜰리에 에르메스 박미나 개인전 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/80218</link>
-            <guid>https://www.elle.co.kr/article/80218</guid>
-            <pubDate>Tue, 29 Aug 2023 05:41:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/86b489e9-976d-4166-9004-b81cb1f83941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대를 초월한 대저택, 토레 델 팔코]]></title>
-            <link>https://www.elle.co.kr/article/80029</link>
-            <guid>https://www.elle.co.kr/article/80029</guid>
-            <pubDate>Sat, 26 Aug 2023 17:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/80169</link>
-            <guid>https://www.elle.co.kr/article/80169</guid>
-            <pubDate>Sat, 26 Aug 2023 05:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뷰티풀, 라탄!]]></title>
-            <link>https://www.elle.co.kr/article/80027</link>
-            <guid>https://www.elle.co.kr/article/80027</guid>
-            <pubDate>Wed, 23 Aug 2023 17:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[일상의 분주함을 느슨한 서머 홀리데이 무드로 바꿔줄 라탄 가구들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고딕 양식과 모던 디자인의 조화, 호텔 크베스트 #호텔미감]]></title>
-            <link>https://www.elle.co.kr/article/80003</link>
-            <guid>https://www.elle.co.kr/article/80003</guid>
-            <pubDate>Tue, 22 Aug 2023 17:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[호텔 크베스트는 고딕 양식의 클래식한 파사드와 객실마다 채워진 20세기 모던 디자인으로 독특한...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집]]></title>
-            <link>https://www.elle.co.kr/article/79926</link>
-            <guid>https://www.elle.co.kr/article/79926</guid>
-            <pubDate>Mon, 21 Aug 2023 17:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[굽어진 벽과 나선형 계단 전선혜, 서민범의 집.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
-            <link>https://www.elle.co.kr/article/79922</link>
-            <guid>https://www.elle.co.kr/article/79922</guid>
-            <pubDate>Sun, 20 Aug 2023 17:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[쓸모를 잃은 것들이 디자이너의 손길로 새롭게 재탄생했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
-            <link>https://www.elle.co.kr/article/79955</link>
-            <guid>https://www.elle.co.kr/article/79955</guid>
-            <pubDate>Fri, 18 Aug 2023 17:42:20 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/79939</link>
-            <guid>https://www.elle.co.kr/article/79939</guid>
-            <pubDate>Fri, 18 Aug 2023 05:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[식물을 전시하는 편집 숍 4T]]></title>
-            <link>https://www.elle.co.kr/article/79123</link>
-            <guid>https://www.elle.co.kr/article/79123</guid>
-            <pubDate>Thu, 17 Aug 2023 17:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[크고 작은 식물들이 모인 '4T'의 세상.]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/artanddesign</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
+    <updated>2023-09-05T17:42:12.195Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/80398</id>
+        <link href="https://www.elle.co.kr/article/80398"/>
+        <updated>2023-09-05T05:40:47.762Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이시 우드라는 이상하고 아름다운 세계]]></title>
+        <id>https://www.elle.co.kr/article/80324</id>
+        <link href="https://www.elle.co.kr/article/80324"/>
+        <updated>2023-08-31T17:40:37.590Z</updated>
+        <content type="html"><![CDATA[지금 가장 떠오르는 아티스트 이시 우드. 한국에서 첫 개인전을 여는 그녀에게 궁금한 몇 가지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엘르 보이스] 내가 평생 풀고 싶은 문제]]></title>
+        <id>https://www.elle.co.kr/article/80211</id>
+        <link href="https://www.elle.co.kr/article/80211"/>
+        <updated>2023-08-30T05:41:24.659Z</updated>
+        <content type="html"><![CDATA[실비아헬스 고명진 대표를  앞으로 나아갈 수 있게 하는 힘.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[색채 수집이 빚어낸 향연, '아홉 개의 색, 아홉 개의 가구' 아뜰리에 에르메스 박미나 개인전 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/80218</id>
+        <link href="https://www.elle.co.kr/article/80218"/>
+        <updated>2023-08-29T05:41:29.458Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시대를 초월한 대저택, 토레 델 팔코]]></title>
+        <id>https://www.elle.co.kr/article/80029</id>
+        <link href="https://www.elle.co.kr/article/80029"/>
+        <updated>2023-08-26T17:40:46.166Z</updated>
+        <content type="html"><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
+        <id>https://www.elle.co.kr/article/80169</id>
+        <link href="https://www.elle.co.kr/article/80169"/>
+        <updated>2023-08-26T05:41:02.026Z</updated>
+        <content type="html"><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷰티풀, 라탄!]]></title>
+        <id>https://www.elle.co.kr/article/80027</id>
+        <link href="https://www.elle.co.kr/article/80027"/>
+        <updated>2023-08-23T17:41:45.319Z</updated>
+        <content type="html"><![CDATA[일상의 분주함을 느슨한 서머 홀리데이 무드로 바꿔줄 라탄 가구들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고딕 양식과 모던 디자인의 조화, 호텔 크베스트 #호텔미감]]></title>
+        <id>https://www.elle.co.kr/article/80003</id>
+        <link href="https://www.elle.co.kr/article/80003"/>
+        <updated>2023-08-22T17:41:10.079Z</updated>
+        <content type="html"><![CDATA[호텔 크베스트는 고딕 양식의 클래식한 파사드와 객실마다 채워진 20세기 모던 디자인으로 독특한...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집]]></title>
+        <id>https://www.elle.co.kr/article/79926</id>
+        <link href="https://www.elle.co.kr/article/79926"/>
+        <updated>2023-08-21T17:42:04.917Z</updated>
+        <content type="html"><![CDATA[굽어진 벽과 나선형 계단 전선혜, 서민범의 집.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱그럽게 피어난 버려진 사물들]]></title>
+        <id>https://www.elle.co.kr/article/79922</id>
+        <link href="https://www.elle.co.kr/article/79922"/>
+        <updated>2023-08-20T17:42:28.206Z</updated>
+        <content type="html"><![CDATA[쓸모를 잃은 것들이 디자이너의 손길로 새롭게 재탄생했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 최초 몰입형 미디어 아트 뮤지엄이 속초에? 강원도 속초에 꽃핀 문화 공간 3]]></title>
+        <id>https://www.elle.co.kr/article/79955</id>
+        <link href="https://www.elle.co.kr/article/79955"/>
+        <updated>2023-08-18T17:42:20.483Z</updated>
+        <content type="html"><![CDATA[여름의 끝자락, 청량한 동해와 함께 즐기는 문화 산책.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['바위가 되는 법' 김범의 변화무쌍한 변신술 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/79939</id>
+        <link href="https://www.elle.co.kr/article/79939"/>
+        <updated>2023-08-18T05:41:55.478Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식물을 전시하는 편집 숍 4T]]></title>
+        <id>https://www.elle.co.kr/article/79123</id>
+        <link href="https://www.elle.co.kr/article/79123"/>
+        <updated>2023-08-17T17:41:36.572Z</updated>
+        <content type="html"><![CDATA[크고 작은 식물들이 모인 '4T'의 세상.]]></content>
+    </entry>
+</feed>
