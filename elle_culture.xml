@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-09-06T05:41:03.345Z</updated>
+    <updated>2023-09-06T17:42:19.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['경이로운 소문 2' 종영, 모든 악을 흡수한 진선규의 최후가 공개됐다]]></title>
+        <id>https://www.elle.co.kr/article/80382</id>
+        <link href="https://www.elle.co.kr/article/80382"/>
+        <updated>2023-09-06T17:40:59.880Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파트1 종영, 러브라인 힌트는? 설레고 애틋하고 다 하는 '연인' 명장면 3 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/80381</id>
+        <link href="https://www.elle.co.kr/article/80381"/>
+        <updated>2023-09-06T17:40:59.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이시 우드라는 이상하고 아름다운 세계]]></title>
+        <id>https://www.elle.co.kr/article/80324</id>
+        <link href="https://www.elle.co.kr/article/80324"/>
+        <updated>2023-09-06T17:40:59.892Z</updated>
+        <content type="html"><![CDATA[지금 가장 떠오르는 아티스트 이시 우드. 한국에서 첫 개인전을 여는 그녀에게 궁금한 몇 가지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마스크 쓴 BJ 김모미 음성, 사람 목소리가 아니었다고?]]></title>
         <id>https://www.elle.co.kr/article/80299</id>
@@ -35,26 +54,5 @@
         <id>https://www.elle.co.kr/article/80203</id>
         <link href="https://www.elle.co.kr/article/80203"/>
         <updated>2023-08-31T17:40:08.315Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까]]></title>
-        <id>https://www.elle.co.kr/article/80163</id>
-        <link href="https://www.elle.co.kr/article/80163"/>
-        <updated>2023-08-30T17:40:31.825Z</updated>
-        <content type="html"><![CDATA[천국보단 지옥.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시대를 초월한 대저택, 토레 델 팔코]]></title>
-        <id>https://www.elle.co.kr/article/80029</id>
-        <link href="https://www.elle.co.kr/article/80029"/>
-        <updated>2023-08-29T17:40:32.655Z</updated>
-        <content type="html"><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종료 임박! 이번 주말 꼭 봐야 할 전시 3]]></title>
-        <id>https://www.elle.co.kr/article/80169</id>
-        <link href="https://www.elle.co.kr/article/80169"/>
-        <updated>2023-08-29T17:40:32.658Z</updated>
-        <content type="html"><![CDATA[이번 주말, 일상에 깊은 영감을 줄 미술관에 방문해 보세요. 셀러브리티의 SNS에서 포착한 핫...]]></content>
     </entry>
 </feed>
