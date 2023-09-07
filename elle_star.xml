@@ -1,69 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 17:42:19 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
-            <link>https://www.elle.co.kr/article/80420</link>
-            <guid>https://www.elle.co.kr/article/80420</guid>
-            <pubDate>Wed, 06 Sep 2023 17:40:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e348adb1-c13e-40cc-abbb-0842e21ca19b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럽스타 주고 받는 커플, 유빈-권순우 근황.jpg]]></title>
-            <link>https://www.elle.co.kr/article/80418</link>
-            <guid>https://www.elle.co.kr/article/80418</guid>
-            <pubDate>Wed, 06 Sep 2023 17:40:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/5f71a9e7-1af8-4f7c-b35b-2e3b4965c408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피프티 피프티 2기? 또 투자 유치 성공한 어트랙트의 다음 행보]]></title>
-            <link>https://www.elle.co.kr/article/80409</link>
-            <guid>https://www.elle.co.kr/article/80409</guid>
-            <pubDate>Wed, 06 Sep 2023 17:40:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/dce0faec-5ac9-40c1-81f4-32d4c23f47f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 어디에나 있는 강훈]]></title>
-            <link>https://www.elle.co.kr/article/80390</link>
-            <guid>https://www.elle.co.kr/article/80390</guid>
-            <pubDate>Wed, 06 Sep 2023 05:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[말간 얼굴과 새까만 눈동자로 오가는 간극. 어느 봄에는 선비였다가, 어느 여름에는 소꿉친구 같...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/276b1971-2ea1-49f4-970b-e75a0aee687f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파트1 종영, 러브라인 힌트는? 설레고 애틋하고 다 하는 '연인' 명장면 3 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/80381</link>
-            <guid>https://www.elle.co.kr/article/80381</guid>
-            <pubDate>Tue, 05 Sep 2023 17:40:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/afbef83b-0747-4ef2-98d2-da065800070d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영-마이큐의 화려한 유럽 휴가.jpg #럽스타그램]]></title>
-            <link>https://www.elle.co.kr/article/80370</link>
-            <guid>https://www.elle.co.kr/article/80370</guid>
-            <pubDate>Tue, 05 Sep 2023 17:40:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/937be42b-7188-4b1f-9925-cb58e5cde7a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤박-김수빈, 영화 한 장면 그 자체인 웨딩화보X결혼식 현장 (ft. 존박)]]></title>
-            <link>https://www.elle.co.kr/article/80368</link>
-            <guid>https://www.elle.co.kr/article/80368</guid>
-            <pubDate>Tue, 05 Sep 2023 17:40:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/8b99b3c9-e7c1-4b23-a1f1-de74589be641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고요하게 반짝이는 홍경이라는 물결]]></title>
-            <link>https://www.elle.co.kr/article/80137</link>
-            <guid>https://www.elle.co.kr/article/80137</guid>
-            <pubDate>Tue, 05 Sep 2023 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA["세상은 너무 빠르게 변하는 것 같아요. 내 고유함이 사라지지 않도록 세상에 흔들리지 않을래요...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/c354e5a9-e0a2-40c5-a932-a9a0c57adf73.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-09-07T05:41:07.859Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
+        <id>https://www.elle.co.kr/article/80420</id>
+        <link href="https://www.elle.co.kr/article/80420"/>
+        <updated>2023-09-06T17:40:50.803Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[럽스타 주고 받는 커플, 유빈-권순우 근황.jpg]]></title>
+        <id>https://www.elle.co.kr/article/80418</id>
+        <link href="https://www.elle.co.kr/article/80418"/>
+        <updated>2023-09-06T17:40:50.808Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피프티 피프티 2기? 또 투자 유치 성공한 어트랙트의 다음 행보]]></title>
+        <id>https://www.elle.co.kr/article/80409</id>
+        <link href="https://www.elle.co.kr/article/80409"/>
+        <updated>2023-09-06T17:40:50.813Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상 어디에나 있는 강훈]]></title>
+        <id>https://www.elle.co.kr/article/80390</id>
+        <link href="https://www.elle.co.kr/article/80390"/>
+        <updated>2023-09-06T05:40:04.169Z</updated>
+        <content type="html"><![CDATA[말간 얼굴과 새까만 눈동자로 오가는 간극. 어느 봄에는 선비였다가, 어느 여름에는 소꿉친구 같...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파트1 종영, 러브라인 힌트는? 설레고 애틋하고 다 하는 '연인' 명장면 3 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/80381</id>
+        <link href="https://www.elle.co.kr/article/80381"/>
+        <updated>2023-09-05T17:40:38.438Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김나영-마이큐의 화려한 유럽 휴가.jpg #럽스타그램]]></title>
+        <id>https://www.elle.co.kr/article/80370</id>
+        <link href="https://www.elle.co.kr/article/80370"/>
+        <updated>2023-09-05T17:40:38.440Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤박-김수빈, 영화 한 장면 그 자체인 웨딩화보X결혼식 현장 (ft. 존박)]]></title>
+        <id>https://www.elle.co.kr/article/80368</id>
+        <link href="https://www.elle.co.kr/article/80368"/>
+        <updated>2023-09-05T17:40:38.442Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고요하게 반짝이는 홍경이라는 물결]]></title>
+        <id>https://www.elle.co.kr/article/80137</id>
+        <link href="https://www.elle.co.kr/article/80137"/>
+        <updated>2023-09-05T17:40:38.445Z</updated>
+        <content type="html"><![CDATA["세상은 너무 빠르게 변하는 것 같아요. 내 고유함이 사라지지 않도록 세상에 흔들리지 않을래요...]]></content>
+    </entry>
+</feed>
