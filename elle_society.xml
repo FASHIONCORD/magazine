@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 17:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["베지테리언 아닌 플렉시테리언" 고백한 전효성, 완벽하지 않아도 괜찮아]]></title>
+            <link>https://www.elle.co.kr/article/80305</link>
+            <guid>https://www.elle.co.kr/article/80305</guid>
+            <pubDate>Fri, 08 Sep 2023 05:41:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c386e86a-a17c-4dad-90e7-f0996ed8f48f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번에 놓치면 14년 기다려야 하는 슈퍼문+블루문! 소원 빌 수 있는 시간은?]]></title>
             <link>https://www.elle.co.kr/article/80290</link>
@@ -57,14 +64,6 @@
             <guid>https://www.elle.co.kr/article/79862</guid>
             <pubDate>Tue, 29 Aug 2023 17:41:29 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/bdd5ef0a-830a-4480-8dbb-6ae88cbf9885.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
-            <link>https://www.elle.co.kr/article/79835</link>
-            <guid>https://www.elle.co.kr/article/79835</guid>
-            <pubDate>Fri, 25 Aug 2023 17:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/74a7707e-fe94-4f04-9f0f-e87411fa65ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
