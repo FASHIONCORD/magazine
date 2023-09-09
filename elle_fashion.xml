@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-08T17:43:08.217Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[전 블랙핑크 스타일리스트가 만든 패션 브랜드?]]></title>
-        <id>https://www.elle.co.kr/article/80417</id>
-        <link href="https://www.elle.co.kr/article/80417"/>
-        <updated>2023-09-08T17:40:22.902Z</updated>
-        <content type="html"><![CDATA[2023년 선선해지는 계절에 새롭게 만나볼 브랜드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힙한 스타일을 위한 단 하나의 액세서리 #초커]]></title>
-        <id>https://www.elle.co.kr/article/80392</id>
-        <link href="https://www.elle.co.kr/article/80392"/>
-        <updated>2023-09-07T17:40:27.564Z</updated>
-        <content type="html"><![CDATA[제니부터 우기, 윈터까지! 식을 줄 모르는 초커 유행.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대 위, 조명 아래서]]></title>
-        <id>https://www.elle.co.kr/article/80377</id>
-        <link href="https://www.elle.co.kr/article/80377"/>
-        <updated>2023-09-07T05:39:38.948Z</updated>
-        <content type="html"><![CDATA[반짝이는 에트로 나이트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올가을, 유니클로와 함께 즐기는 레이어링의 마법]]></title>
-        <id>https://www.elle.co.kr/article/80388</id>
-        <link href="https://www.elle.co.kr/article/80388"/>
-        <updated>2023-09-07T05:39:38.949Z</updated>
-        <content type="html"><![CDATA[다채로운 컬러와 텍스처로 가득한 유니클로 2023 FW 컬렉션 미리보기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[촌스러울수록 힙한 크로셰 햇 5]]></title>
-        <id>https://www.elle.co.kr/article/80358</id>
-        <link href="https://www.elle.co.kr/article/80358"/>
-        <updated>2023-09-06T05:39:44.504Z</updated>
-        <content type="html"><![CDATA[현아의 알록달록 크로셰 비니부터 아이린의 크로셰 버킷햇까지! 섬세하고 소박한 취향을 드러낼 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My fair lady, 신세경(feat. 로저 비비에) #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/80353</id>
-        <link href="https://www.elle.co.kr/article/80353"/>
-        <updated>2023-09-05T17:39:45.542Z</updated>
-        <content type="html"><![CDATA[우아하고 사랑스러운 파리지엔이 된 신세경. 로저 비비에와 함께한 신세경의 ELLE D Edition...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 다른 챕터를 넘긴 보테가 베네타]]></title>
-        <id>https://www.elle.co.kr/article/80321</id>
-        <link href="https://www.elle.co.kr/article/80321"/>
-        <updated>2023-09-05T05:39:47.724Z</updated>
-        <content type="html"><![CDATA[계절이 넘어가는 다리 위에서.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[길 위에서]]></title>
-        <id>https://www.elle.co.kr/article/80318</id>
-        <link href="https://www.elle.co.kr/article/80318"/>
-        <updated>2023-09-04T17:40:30.386Z</updated>
-        <content type="html"><![CDATA[도시를 가로지르는 루이 비통의 담대한 애티튜드.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 09 Sep 2023 05:42:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올시즌 놓치면 안 될 메리제인 슈즈 쇼핑 리스트 6]]></title>
+            <link>https://www.elle.co.kr/article/80424</link>
+            <guid>https://www.elle.co.kr/article/80424</guid>
+            <pubDate>Sat, 09 Sep 2023 05:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[트렌디한 발레코어 룩의 머스트 해브 아이템! 사랑스러운 메리제인 슈즈 구매 좌표를 눈여겨 보...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/61c10873-cc41-4c42-921e-e0b188fd8c2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 블랙핑크 스타일리스트가 만든 패션 브랜드?]]></title>
+            <link>https://www.elle.co.kr/article/80417</link>
+            <guid>https://www.elle.co.kr/article/80417</guid>
+            <pubDate>Fri, 08 Sep 2023 17:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 선선해지는 계절에 새롭게 만나볼 브랜드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/8958eba1-b942-4c9e-966e-3203077396cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙한 스타일을 위한 단 하나의 액세서리 #초커]]></title>
+            <link>https://www.elle.co.kr/article/80392</link>
+            <guid>https://www.elle.co.kr/article/80392</guid>
+            <pubDate>Thu, 07 Sep 2023 17:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[제니부터 우기, 윈터까지! 식을 줄 모르는 초커 유행.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/6e3c1797-e64c-432a-8419-edffb9223d03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무대 위, 조명 아래서]]></title>
+            <link>https://www.elle.co.kr/article/80377</link>
+            <guid>https://www.elle.co.kr/article/80377</guid>
+            <pubDate>Thu, 07 Sep 2023 05:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[반짝이는 에트로 나이트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/4cdd8fca-7286-44dd-bdf3-bf3de360af67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올가을, 유니클로와 함께 즐기는 레이어링의 마법]]></title>
+            <link>https://www.elle.co.kr/article/80388</link>
+            <guid>https://www.elle.co.kr/article/80388</guid>
+            <pubDate>Thu, 07 Sep 2023 05:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[다채로운 컬러와 텍스처로 가득한 유니클로 2023 FW 컬렉션 미리보기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/ddb4b3b4-40cb-49a4-845e-b8d0efdbacd9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[촌스러울수록 힙한 크로셰 햇 5]]></title>
+            <link>https://www.elle.co.kr/article/80358</link>
+            <guid>https://www.elle.co.kr/article/80358</guid>
+            <pubDate>Wed, 06 Sep 2023 05:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[현아의 알록달록 크로셰 비니부터 아이린의 크로셰 버킷햇까지! 섬세하고 소박한 취향을 드러낼 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/03/13d93588-56be-4f86-ba2f-8babce4b2f0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My fair lady, 신세경(feat. 로저 비비에) #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/80353</link>
+            <guid>https://www.elle.co.kr/article/80353</guid>
+            <pubDate>Tue, 05 Sep 2023 17:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[우아하고 사랑스러운 파리지엔이 된 신세경. 로저 비비에와 함께한 신세경의 ELLE D Edition...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/02/989d7756-a0a3-4972-8576-5a702922920d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 다른 챕터를 넘긴 보테가 베네타]]></title>
+            <link>https://www.elle.co.kr/article/80321</link>
+            <guid>https://www.elle.co.kr/article/80321</guid>
+            <pubDate>Tue, 05 Sep 2023 05:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[계절이 넘어가는 다리 위에서.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/6c99f874-5cb5-443d-a895-e41fdee0ccde.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

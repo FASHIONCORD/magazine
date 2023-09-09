@@ -4,22 +4,27 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 17:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 05:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다>]]></title>
+            <link>https://www.elle.co.kr/article/80437</link>
+            <guid>https://www.elle.co.kr/article/80437</guid>
+            <pubDate>Sat, 09 Sep 2023 05:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/80447</link>
             <guid>https://www.elle.co.kr/article/80447</guid>
             <pubDate>Thu, 07 Sep 2023 17:40:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/54b768e1-7d75-4118-b6e1-a0bdc84116f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
             <link>https://www.elle.co.kr/article/80446</link>
             <guid>https://www.elle.co.kr/article/80446</guid>
             <pubDate>Thu, 07 Sep 2023 17:40:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/3ed654a0-65e7-4a4d-b87e-14e30486ed74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['대호84' 김대호, MBC에 사표 낸 적 있다?! 프리 선언에 대한 솔직한 생각]]></title>
@@ -56,14 +61,6 @@
             <guid>https://www.elle.co.kr/article/80409</guid>
             <pubDate>Wed, 06 Sep 2023 17:40:50 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/dce0faec-5ac9-40c1-81f4-32d4c23f47f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 어디에나 있는 강훈]]></title>
-            <link>https://www.elle.co.kr/article/80390</link>
-            <guid>https://www.elle.co.kr/article/80390</guid>
-            <pubDate>Wed, 06 Sep 2023 05:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[말간 얼굴과 새까만 눈동자로 오가는 간극. 어느 봄에는 선비였다가, 어느 여름에는 소꿉친구 같...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/276b1971-2ea1-49f4-970b-e75a0aee687f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

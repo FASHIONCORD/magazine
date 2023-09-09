@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-09-08T17:43:08.261Z</updated>
+    <updated>2023-09-09T05:42:09.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통통한 대하부터 전어, 꽃게까지! '먹잘알' 바빠지는 가을 먹거리 축제 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/80410</id>
+        <link href="https://www.elle.co.kr/article/80410"/>
+        <updated>2023-09-09T05:41:57.397Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시]]></title>
         <id>https://www.elle.co.kr/article/80398</id>
@@ -50,11 +56,5 @@
         <id>https://www.elle.co.kr/article/79176</id>
         <link href="https://www.elle.co.kr/article/79176"/>
         <updated>2023-09-04T17:41:52.484Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번에 놓치면 14년 기다려야 하는 슈퍼문+블루문! 소원 빌 수 있는 시간은?]]></title>
-        <id>https://www.elle.co.kr/article/80290</id>
-        <link href="https://www.elle.co.kr/article/80290"/>
-        <updated>2023-09-04T17:41:52.489Z</updated>
     </entry>
 </feed>
