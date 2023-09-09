@@ -1,66 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 05:42:09 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다>]]></title>
-            <link>https://www.elle.co.kr/article/80437</link>
-            <guid>https://www.elle.co.kr/article/80437</guid>
-            <pubDate>Sat, 09 Sep 2023 05:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80447</link>
-            <guid>https://www.elle.co.kr/article/80447</guid>
-            <pubDate>Thu, 07 Sep 2023 17:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/80446</link>
-            <guid>https://www.elle.co.kr/article/80446</guid>
-            <pubDate>Thu, 07 Sep 2023 17:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['대호84' 김대호, MBC에 사표 낸 적 있다?! 프리 선언에 대한 솔직한 생각]]></title>
-            <link>https://www.elle.co.kr/article/80429</link>
-            <guid>https://www.elle.co.kr/article/80429</guid>
-            <pubDate>Thu, 07 Sep 2023 17:40:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/1d07a68a-39d7-486c-aef7-62ed4d4aec45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유정후가 배우를 꿈꾸는 이유]]></title>
-            <link>https://www.elle.co.kr/article/80422</link>
-            <guid>https://www.elle.co.kr/article/80422</guid>
-            <pubDate>Thu, 07 Sep 2023 17:40:52 GMT</pubDate>
-            <content:encoded><![CDATA["스스로 만족해 버리면 좋은 배우가 될 수 없겠다고 생각했어요. 그 마음으로 저를 다잡아요." ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/8321795b-12a5-4d18-a1d8-c3440875b0f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
-            <link>https://www.elle.co.kr/article/80420</link>
-            <guid>https://www.elle.co.kr/article/80420</guid>
-            <pubDate>Wed, 06 Sep 2023 17:40:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e348adb1-c13e-40cc-abbb-0842e21ca19b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럽스타 주고 받는 커플, 유빈-권순우 근황.jpg]]></title>
-            <link>https://www.elle.co.kr/article/80418</link>
-            <guid>https://www.elle.co.kr/article/80418</guid>
-            <pubDate>Wed, 06 Sep 2023 17:40:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/5f71a9e7-1af8-4f7c-b35b-2e3b4965c408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피프티 피프티 2기? 또 투자 유치 성공한 어트랙트의 다음 행보]]></title>
-            <link>https://www.elle.co.kr/article/80409</link>
-            <guid>https://www.elle.co.kr/article/80409</guid>
-            <pubDate>Wed, 06 Sep 2023 17:40:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/dce0faec-5ac9-40c1-81f4-32d4c23f47f7.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-09-09T17:41:40.033Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다>]]></title>
+        <id>https://www.elle.co.kr/article/80437</id>
+        <link href="https://www.elle.co.kr/article/80437"/>
+        <updated>2023-09-09T05:40:27.048Z</updated>
+        <content type="html"><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80447</id>
+        <link href="https://www.elle.co.kr/article/80447"/>
+        <updated>2023-09-07T17:40:52.588Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/80446</id>
+        <link href="https://www.elle.co.kr/article/80446"/>
+        <updated>2023-09-07T17:40:52.590Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대호84' 김대호, MBC에 사표 낸 적 있다?! 프리 선언에 대한 솔직한 생각]]></title>
+        <id>https://www.elle.co.kr/article/80429</id>
+        <link href="https://www.elle.co.kr/article/80429"/>
+        <updated>2023-09-07T17:40:52.592Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유정후가 배우를 꿈꾸는 이유]]></title>
+        <id>https://www.elle.co.kr/article/80422</id>
+        <link href="https://www.elle.co.kr/article/80422"/>
+        <updated>2023-09-07T17:40:52.598Z</updated>
+        <content type="html"><![CDATA["스스로 만족해 버리면 좋은 배우가 될 수 없겠다고 생각했어요. 그 마음으로 저를 다잡아요." ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
+        <id>https://www.elle.co.kr/article/80420</id>
+        <link href="https://www.elle.co.kr/article/80420"/>
+        <updated>2023-09-06T17:40:50.803Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[럽스타 주고 받는 커플, 유빈-권순우 근황.jpg]]></title>
+        <id>https://www.elle.co.kr/article/80418</id>
+        <link href="https://www.elle.co.kr/article/80418"/>
+        <updated>2023-09-06T17:40:50.808Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피프티 피프티 2기? 또 투자 유치 성공한 어트랙트의 다음 행보]]></title>
+        <id>https://www.elle.co.kr/article/80409</id>
+        <link href="https://www.elle.co.kr/article/80409"/>
+        <updated>2023-09-06T17:40:50.813Z</updated>
+    </entry>
+</feed>
