@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 17:41:40 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다>]]></title>
-            <link>https://www.elle.co.kr/article/80437</link>
-            <guid>https://www.elle.co.kr/article/80437</guid>
-            <pubDate>Sat, 09 Sep 2023 17:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/877d6c4d-9846-46b3-9344-ef5ba0fc328b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 훨씬 끈질기다: 서울국제여성영화제]]></title>
-            <link>https://www.elle.co.kr/article/80440</link>
-            <guid>https://www.elle.co.kr/article/80440</guid>
-            <pubDate>Fri, 08 Sep 2023 17:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[여성 영화인들은 척박한 환경에서도 손을 맞잡고, 껴안고, 위로하며 뚜벅뚜벅 다양성의 길을 걸어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/6e4ef8b0-1f3c-489b-8522-1cdcd78518da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/80446</link>
-            <guid>https://www.elle.co.kr/article/80446</guid>
-            <pubDate>Thu, 07 Sep 2023 17:41:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/3ed654a0-65e7-4a4d-b87e-14e30486ed74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
-            <link>https://www.elle.co.kr/article/80420</link>
-            <guid>https://www.elle.co.kr/article/80420</guid>
-            <pubDate>Thu, 07 Sep 2023 17:41:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e348adb1-c13e-40cc-abbb-0842e21ca19b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/80398</link>
-            <guid>https://www.elle.co.kr/article/80398</guid>
-            <pubDate>Thu, 07 Sep 2023 05:40:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/1cf44305-e043-4a29-9e3b-42a6fffa9354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경이로운 소문 2' 종영, 모든 악을 흡수한 진선규의 최후가 공개됐다]]></title>
-            <link>https://www.elle.co.kr/article/80382</link>
-            <guid>https://www.elle.co.kr/article/80382</guid>
-            <pubDate>Wed, 06 Sep 2023 17:40:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/8a37bce0-dd93-4017-949f-337059e477e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파트1 종영, 러브라인 힌트는? 설레고 애틋하고 다 하는 '연인' 명장면 3 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/80381</link>
-            <guid>https://www.elle.co.kr/article/80381</guid>
-            <pubDate>Wed, 06 Sep 2023 17:40:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/afbef83b-0747-4ef2-98d2-da065800070d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이시 우드라는 이상하고 아름다운 세계]]></title>
-            <link>https://www.elle.co.kr/article/80324</link>
-            <guid>https://www.elle.co.kr/article/80324</guid>
-            <pubDate>Wed, 06 Sep 2023 17:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 떠오르는 아티스트 이시 우드. 한국에서 첫 개인전을 여는 그녀에게 궁금한 몇 가지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/03d3d377-d5b1-494c-a6d1-9140336aea0a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-09-10T05:41:01.245Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다>]]></title>
+        <id>https://www.elle.co.kr/article/80437</id>
+        <link href="https://www.elle.co.kr/article/80437"/>
+        <updated>2023-09-09T17:40:36.566Z</updated>
+        <content type="html"><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 훨씬 끈질기다: 서울국제여성영화제]]></title>
+        <id>https://www.elle.co.kr/article/80440</id>
+        <link href="https://www.elle.co.kr/article/80440"/>
+        <updated>2023-09-08T17:41:02.901Z</updated>
+        <content type="html"><![CDATA[여성 영화인들은 척박한 환경에서도 손을 맞잡고, 껴안고, 위로하며 뚜벅뚜벅 다양성의 길을 걸어...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/80446</id>
+        <link href="https://www.elle.co.kr/article/80446"/>
+        <updated>2023-09-07T17:41:34.649Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
+        <id>https://www.elle.co.kr/article/80420</id>
+        <link href="https://www.elle.co.kr/article/80420"/>
+        <updated>2023-09-07T17:41:34.667Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/80398</id>
+        <link href="https://www.elle.co.kr/article/80398"/>
+        <updated>2023-09-07T05:40:08.540Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['경이로운 소문 2' 종영, 모든 악을 흡수한 진선규의 최후가 공개됐다]]></title>
+        <id>https://www.elle.co.kr/article/80382</id>
+        <link href="https://www.elle.co.kr/article/80382"/>
+        <updated>2023-09-06T17:40:59.880Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파트1 종영, 러브라인 힌트는? 설레고 애틋하고 다 하는 '연인' 명장면 3 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/80381</id>
+        <link href="https://www.elle.co.kr/article/80381"/>
+        <updated>2023-09-06T17:40:59.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이시 우드라는 이상하고 아름다운 세계]]></title>
+        <id>https://www.elle.co.kr/article/80324</id>
+        <link href="https://www.elle.co.kr/article/80324"/>
+        <updated>2023-09-06T17:40:59.892Z</updated>
+        <content type="html"><![CDATA[지금 가장 떠오르는 아티스트 이시 우드. 한국에서 첫 개인전을 여는 그녀에게 궁금한 몇 가지...]]></content>
+    </entry>
+</feed>
