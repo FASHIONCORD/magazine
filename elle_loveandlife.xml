@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-09-10T05:41:01.229Z</updated>
+    <updated>2023-09-10T17:42:16.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브루클린 아파트의 삶을 누구보다 즐기는 이온스의 랜선 집들이 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/80457</id>
+        <link href="https://www.elle.co.kr/article/80457"/>
+        <updated>2023-09-10T17:42:06.126Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통통한 대하부터 전어, 꽃게까지! '먹잘알' 바빠지는 가을 먹거리 축제 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/80410</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/80329"/>
         <updated>2023-09-05T05:40:58.118Z</updated>
         <content type="html"><![CDATA[프렌치 감성의 바게트 맛집부터 케이팝 러버들의 성지인 베이커리 카페까지, 송경아가 가이드하는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘강릉 핫플’ ATC를 이끄는 김현경 대표의 랜선 집들이 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/79176</id>
-        <link href="https://www.elle.co.kr/article/79176"/>
-        <updated>2023-09-04T17:41:52.484Z</updated>
     </entry>
 </feed>
