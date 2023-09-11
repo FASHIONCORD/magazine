@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 17:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/80534</link>
+            <guid>https://www.elle.co.kr/article/80534</guid>
+            <pubDate>Mon, 11 Sep 2023 17:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[로우클래식, MCM, 디올이 마련한 특별한 이벤트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/9ce25f7e-173c-4c5d-948b-3aaf35f9a137.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여성성과 섹슈얼리티, 아니사 케르미쉬의 홈 오브제]]></title>
             <link>https://www.elle.co.kr/article/80462</link>
@@ -36,7 +44,6 @@
             <guid>https://www.elle.co.kr/article/80454</guid>
             <pubDate>Thu, 07 Sep 2023 05:40:42 GMT</pubDate>
             <content:encoded><![CDATA[프리즈 서울 2023과 함께 한 패션 브랜드의 크고 작은 이벤트 소식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/3189335d-e987-405a-ac43-a2bb5cca368f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시]]></title>
@@ -91,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/80003</guid>
             <pubDate>Tue, 22 Aug 2023 17:41:10 GMT</pubDate>
             <content:encoded><![CDATA[호텔 크베스트는 고딕 양식의 클래식한 파사드와 객실마다 채워진 20세기 모던 디자인으로 독특한...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[굽어진 벽과 나선형 계단, 가족을 둥글게 감싸 안는 집]]></title>
-            <link>https://www.elle.co.kr/article/79926</link>
-            <guid>https://www.elle.co.kr/article/79926</guid>
-            <pubDate>Mon, 21 Aug 2023 17:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[마리오 보타와 렌조 피아노를 사랑하는 주얼리 디자이너 전선혜 그리고 안도 타다오를 좋아하는 ...]]></content:encoded>
         </item>
     </channel>
 </rss>

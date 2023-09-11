@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 17:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오롯이 나에게 집중하는 시간! 혼자서 즐기는 차 한 잔의 여유 #마실마실]]></title>
+            <link>https://www.elle.co.kr/article/80479</link>
+            <guid>https://www.elle.co.kr/article/80479</guid>
+            <pubDate>Mon, 11 Sep 2023 17:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[예약제로 운영되는 서울의 티룸 두 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/de562ccf-3073-468d-ae64-38ee941c730f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐주얼 다이닝부터 유러피안 레스토랑까지! 경리 따라 맛집 투어 3]]></title>
             <link>https://www.elle.co.kr/article/80469</link>
@@ -58,14 +66,6 @@
             <pubDate>Thu, 07 Sep 2023 17:42:26 GMT</pubDate>
             <content:encoded><![CDATA[출산 후 몸매 관리에 돌입한 윤승아의 화보 촬영 전 다이어트 10일 기록. 건강하게 먹고 부지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/02/587984d8-9fd7-477b-ac17-0f8e7325b974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교토에서 찾은 아름다움]]></title>
-            <link>https://www.elle.co.kr/article/80348</link>
-            <guid>https://www.elle.co.kr/article/80348</guid>
-            <pubDate>Tue, 05 Sep 2023 17:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[데님에 가디건 한 장 툭 걸치고 떠나기 좋은 계절, 바야흐로 가을입니다. 에디터, 스타일리스트...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/2982f37a-57c2-4bb7-9111-21ba3d285792.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 17:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원작과 결말 다르다고? 한국형 히어로물 '무빙' 인기 요인 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/80538</link>
+            <guid>https://www.elle.co.kr/article/80538</guid>
+            <pubDate>Mon, 11 Sep 2023 17:40:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/07f2d471-7ebf-4cf8-be30-bd107fcede72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은퇴작 발표해 놓고 매일 회사 나온다는 미야자키 하야오 근황 (ft. 예고편X스틸컷)]]></title>
             <link>https://www.elle.co.kr/article/80525</link>
@@ -36,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/80440</guid>
             <pubDate>Wed, 06 Sep 2023 17:41:34 GMT</pubDate>
             <content:encoded><![CDATA[여성 영화인들은 척박한 환경에서도 손을 맞잡고, 껴안고, 위로하며 뚜벅뚜벅 다양성의 길을 걸어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/6e4ef8b0-1f3c-489b-8522-1cdcd78518da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
@@ -86,12 +92,6 @@
             <link>https://www.elle.co.kr/article/80077</link>
             <guid>https://www.elle.co.kr/article/80077</guid>
             <pubDate>Wed, 23 Aug 2023 17:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['마스크걸' 김모미 춤이 대역이었다고? 모델 지지안이 전한 비하인드.story]]></title>
-            <link>https://www.elle.co.kr/article/80047</link>
-            <guid>https://www.elle.co.kr/article/80047</guid>
-            <pubDate>Wed, 23 Aug 2023 05:41:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

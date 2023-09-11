@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-09-11T05:41:29.339Z</updated>
+    <updated>2023-09-11T17:40:58.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아이 러브 마이 바디' 화사, 건강한 체형 위해 절대 하지 않는 것 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80463</id>
+        <link href="https://www.elle.co.kr/article/80463"/>
+        <updated>2023-09-11T17:39:58.762Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이규한-유정, 두 번째 열애설 끝에 공개 연애 시작! (ft. 첫 만남 하트 시그널)]]></title>
+        <id>https://www.elle.co.kr/article/80460</id>
+        <link href="https://www.elle.co.kr/article/80460"/>
+        <updated>2023-09-11T17:39:58.787Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박수홍이 '32년 인연' 유재석에게 "미쳤다"고 한 이유]]></title>
         <id>https://www.elle.co.kr/article/80456</id>
@@ -42,17 +54,5 @@
         <link href="https://www.elle.co.kr/article/80422"/>
         <updated>2023-09-07T17:40:52.598Z</updated>
         <content type="html"><![CDATA["스스로 만족해 버리면 좋은 배우가 될 수 없겠다고 생각했어요. 그 마음으로 저를 다잡아요." ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
-        <id>https://www.elle.co.kr/article/80420</id>
-        <link href="https://www.elle.co.kr/article/80420"/>
-        <updated>2023-09-06T17:40:50.803Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[럽스타 주고 받는 커플, 유빈-권순우 근황.jpg]]></title>
-        <id>https://www.elle.co.kr/article/80418</id>
-        <link href="https://www.elle.co.kr/article/80418"/>
-        <updated>2023-09-06T17:40:50.808Z</updated>
     </entry>
 </feed>
