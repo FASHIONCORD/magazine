@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 17:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 05:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은퇴작 발표해 놓고 매일 회사 나온다는 미야자키 하야오 근황 (ft. 예고편X스틸컷)]]></title>
+            <link>https://www.elle.co.kr/article/80525</link>
+            <guid>https://www.elle.co.kr/article/80525</guid>
+            <pubDate>Mon, 11 Sep 2023 05:40:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/8eaee71e-69e5-407c-8996-c7a591bf2ef4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전설이 된 80년대 슈퍼모델들의 다큐멘터리]]></title>
             <link>https://www.elle.co.kr/article/80441</link>
@@ -36,7 +43,6 @@
             <link>https://www.elle.co.kr/article/80446</link>
             <guid>https://www.elle.co.kr/article/80446</guid>
             <pubDate>Wed, 06 Sep 2023 17:41:34 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/3ed654a0-65e7-4a4d-b87e-14e30486ed74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['경이로운 소문 2' 종영, 모든 악을 흡수한 진선규의 최후가 공개됐다]]></title>
@@ -86,12 +92,6 @@
             <link>https://www.elle.co.kr/article/80047</link>
             <guid>https://www.elle.co.kr/article/80047</guid>
             <pubDate>Wed, 23 Aug 2023 05:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[안재홍X염혜란X이준영, '마스크걸'에서 연기 차력쇼 벌인 빌런 3인방]]></title>
-            <link>https://www.elle.co.kr/article/80021</link>
-            <guid>https://www.elle.co.kr/article/80021</guid>
-            <pubDate>Tue, 22 Aug 2023 05:41:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
