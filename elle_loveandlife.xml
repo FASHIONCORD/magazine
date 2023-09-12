@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 05:49:00 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[오롯이 나에게 집중하는 시간! 혼자서 즐기는 차 한 잔의 여유 #마실마실]]></title>
-            <link>https://www.elle.co.kr/article/80479</link>
-            <guid>https://www.elle.co.kr/article/80479</guid>
-            <pubDate>Mon, 11 Sep 2023 17:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[예약제로 운영되는 서울의 티룸 두 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/de562ccf-3073-468d-ae64-38ee941c730f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐주얼 다이닝부터 유러피안 레스토랑까지! 경리 따라 맛집 투어 3]]></title>
-            <link>https://www.elle.co.kr/article/80469</link>
-            <guid>https://www.elle.co.kr/article/80469</guid>
-            <pubDate>Mon, 11 Sep 2023 05:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[경리의 SNS 속 분위기 좋은 레스토랑은 어디? 이태원과 삼청동에서 맛있는 한 끼를 경험해 보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/3997ab77-6dd4-40fe-abf7-08820f58dad6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브루클린 아파트의 삶을 누구보다 즐기는 이온스의 랜선 집들이 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/80457</link>
-            <guid>https://www.elle.co.kr/article/80457</guid>
-            <pubDate>Sun, 10 Sep 2023 17:42:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/af141a68-71a0-4a91-96b9-fde8ae8bbc24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통통한 대하부터 전어, 꽃게까지! '먹잘알' 바빠지는 가을 먹거리 축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/80410</link>
-            <guid>https://www.elle.co.kr/article/80410</guid>
-            <pubDate>Sat, 09 Sep 2023 05:41:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/276a584b-2b75-4398-ac95-9ed86fabd641.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/80398</link>
-            <guid>https://www.elle.co.kr/article/80398</guid>
-            <pubDate>Fri, 08 Sep 2023 17:42:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/1cf44305-e043-4a29-9e3b-42a6fffa9354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 속에 들어온 듯한 디저트 카페 2]]></title>
-            <link>https://www.elle.co.kr/article/80391</link>
-            <guid>https://www.elle.co.kr/article/80391</guid>
-            <pubDate>Fri, 08 Sep 2023 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[이색적인 디저트의 향연]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/7775e7cf-cdbb-45d4-bfd7-7f9d60b0c4eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걍변과 항구, 고궁까지! 가을밤 운치 만끽하기 좋은 야간 축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/80380</link>
-            <guid>https://www.elle.co.kr/article/80380</guid>
-            <pubDate>Fri, 08 Sep 2023 05:41:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/6ab9b9ff-49d8-4dce-9079-4b02790ce9a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따라해 볼까? 윤승아의 지속 가능한 다이어트 방법]]></title>
-            <link>https://www.elle.co.kr/article/80352</link>
-            <guid>https://www.elle.co.kr/article/80352</guid>
-            <pubDate>Thu, 07 Sep 2023 17:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[출산 후 몸매 관리에 돌입한 윤승아의 화보 촬영 전 다이어트 10일 기록. 건강하게 먹고 부지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/02/587984d8-9fd7-477b-ac17-0f8e7325b974.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-09-12T17:42:29.246Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나만 알고 싶은 도쿄의 라이프 스타일 숍 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/80487</id>
+        <link href="https://www.elle.co.kr/article/80487"/>
+        <updated>2023-09-12T17:42:19.003Z</updated>
+        <content type="html"><![CDATA[포근한 블랭킷이 생각나는 바야흐로 가을입니다. 새로운 계절을 맞아 내 공간을 재정비하고 싶다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오롯이 나에게 집중하는 시간! 혼자서 즐기는 차 한 잔의 여유 #마실마실]]></title>
+        <id>https://www.elle.co.kr/article/80479</id>
+        <link href="https://www.elle.co.kr/article/80479"/>
+        <updated>2023-09-11T17:40:48.238Z</updated>
+        <content type="html"><![CDATA[예약제로 운영되는 서울의 티룸 두 곳.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐주얼 다이닝부터 유러피안 레스토랑까지! 경리 따라 맛집 투어 3]]></title>
+        <id>https://www.elle.co.kr/article/80469</id>
+        <link href="https://www.elle.co.kr/article/80469"/>
+        <updated>2023-09-11T05:41:18.630Z</updated>
+        <content type="html"><![CDATA[경리의 SNS 속 분위기 좋은 레스토랑은 어디? 이태원과 삼청동에서 맛있는 한 끼를 경험해 보...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브루클린 아파트의 삶을 누구보다 즐기는 이온스의 랜선 집들이 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/80457</id>
+        <link href="https://www.elle.co.kr/article/80457"/>
+        <updated>2023-09-10T17:42:06.126Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통통한 대하부터 전어, 꽃게까지! '먹잘알' 바빠지는 가을 먹거리 축제 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/80410</id>
+        <link href="https://www.elle.co.kr/article/80410"/>
+        <updated>2023-09-09T05:41:57.397Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스푸르스 마거스가 제안하는 가능한 세계들 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/80398</id>
+        <link href="https://www.elle.co.kr/article/80398"/>
+        <updated>2023-09-08T17:42:54.319Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 속에 들어온 듯한 디저트 카페 2]]></title>
+        <id>https://www.elle.co.kr/article/80391</id>
+        <link href="https://www.elle.co.kr/article/80391"/>
+        <updated>2023-09-08T05:41:36.863Z</updated>
+        <content type="html"><![CDATA[이색적인 디저트의 향연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[걍변과 항구, 고궁까지! 가을밤 운치 만끽하기 좋은 야간 축제 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/80380</id>
+        <link href="https://www.elle.co.kr/article/80380"/>
+        <updated>2023-09-08T05:41:36.864Z</updated>
+    </entry>
+</feed>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 05:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 17:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트와 뷰티의 만남]]></title>
+            <link>https://www.elle.co.kr/article/80557</link>
+            <guid>https://www.elle.co.kr/article/80557</guid>
+            <pubDate>Tue, 12 Sep 2023 17:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트와 협업을 통한 뷰티 브랜드의 색다른 시각 언어는 우리의 선택과 소비를 더욱 풍요롭게...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/4b1a421d-5252-4111-863b-cabe244ad5f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3]]></title>
             <link>https://www.elle.co.kr/article/80534</link>
@@ -36,7 +44,6 @@
             <link>https://www.elle.co.kr/article/80457</link>
             <guid>https://www.elle.co.kr/article/80457</guid>
             <pubDate>Thu, 07 Sep 2023 17:42:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/af141a68-71a0-4a91-96b9-fde8ae8bbc24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트 + 패션?]]></title>
@@ -59,7 +66,7 @@
             <content:encoded><![CDATA[지금 가장 떠오르는 아티스트 이시 우드. 한국에서 첫 개인전을 여는 그녀에게 궁금한 몇 가지...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[엘르 보이스] 내가 평생 풀고 싶은 문제]]></title>
+            <title><![CDATA[[엘르보이스] 내가 평생 풀고 싶은 문제]]></title>
             <link>https://www.elle.co.kr/article/80211</link>
             <guid>https://www.elle.co.kr/article/80211</guid>
             <pubDate>Wed, 30 Aug 2023 05:41:24 GMT</pubDate>
@@ -91,13 +98,6 @@
             <guid>https://www.elle.co.kr/article/80027</guid>
             <pubDate>Wed, 23 Aug 2023 17:41:45 GMT</pubDate>
             <content:encoded><![CDATA[일상의 분주함을 느슨한 서머 홀리데이 무드로 바꿔줄 라탄 가구들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고딕 양식과 모던 디자인의 조화, 호텔 크베스트 #호텔미감]]></title>
-            <link>https://www.elle.co.kr/article/80003</link>
-            <guid>https://www.elle.co.kr/article/80003</guid>
-            <pubDate>Tue, 22 Aug 2023 17:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[호텔 크베스트는 고딕 양식의 클래식한 파사드와 객실마다 채워진 20세기 모던 디자인으로 독특한...]]></content:encoded>
         </item>
     </channel>
 </rss>

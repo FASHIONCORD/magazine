@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-09-12T05:49:00.166Z</updated>
+    <updated>2023-09-12T17:42:29.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
     <entry>
@@ -30,7 +30,7 @@
         <updated>2023-09-07T17:42:38.026Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[엘르 보이스] 내가 평생 풀고 싶은 문제]]></title>
+        <title type="html"><![CDATA[[엘르보이스] 내가 평생 풀고 싶은 문제]]></title>
         <id>https://www.elle.co.kr/article/80211</id>
         <link href="https://www.elle.co.kr/article/80211"/>
         <updated>2023-09-06T05:41:02.425Z</updated>
