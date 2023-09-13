@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 05:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 17:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 미술 애호가, RM 덕에 만개하는 조선 왕실 최고급 예복 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/80592</link>
+            <guid>https://www.elle.co.kr/article/80592</guid>
+            <pubDate>Wed, 13 Sep 2023 17:41:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/c074032e-793e-4208-a2ec-eb9e1ae8e284.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밴쿠버에서 영화 CG 작업을 하는 프로 재택러 미르의 랜선 집들이 #홈터뷰]]></title>
             <link>https://www.elle.co.kr/article/80591</link>
@@ -36,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/80534</guid>
             <pubDate>Mon, 11 Sep 2023 17:40:39 GMT</pubDate>
             <content:encoded><![CDATA[로우클래식, MCM, 디올이 마련한 특별한 이벤트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/9ce25f7e-173c-4c5d-948b-3aaf35f9a137.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여성성과 섹슈얼리티, 아니사 케르미쉬의 홈 오브제]]></title>
@@ -90,13 +96,6 @@
             <link>https://www.elle.co.kr/article/80218</link>
             <guid>https://www.elle.co.kr/article/80218</guid>
             <pubDate>Tue, 29 Aug 2023 05:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[시대를 초월한 대저택, 토레 델 팔코]]></title>
-            <link>https://www.elle.co.kr/article/80029</link>
-            <guid>https://www.elle.co.kr/article/80029</guid>
-            <pubDate>Sat, 26 Aug 2023 17:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[로마 북쪽, 오랫동안 버려졌던 대저택이 시대를 담은 매혹적인 얼굴로 재탄생했다.]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -1,71 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 05:42:16 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80447</link>
-            <guid>https://www.elle.co.kr/article/80447</guid>
-            <pubDate>Mon, 11 Sep 2023 05:40:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/54b768e1-7d75-4118-b6e1-a0bdc84116f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부 타입별 환절기 고민 솔루션_선배’s 어드바이스 #183]]></title>
-            <link>https://www.elle.co.kr/article/80372</link>
-            <guid>https://www.elle.co.kr/article/80372</guid>
-            <pubDate>Mon, 11 Sep 2023 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA['처서 매직’처럼 갑자기 달라진 피부 환경, 건강하게 적응하는 법은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/93c8725b-6f87-41a4-8fe9-6efef5588165.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5분 컷! 중단발 헤어 스타일링 HOW TO]]></title>
-            <link>https://www.elle.co.kr/article/80361</link>
-            <guid>https://www.elle.co.kr/article/80361</guid>
-            <pubDate>Sun, 10 Sep 2023 17:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[누구나 쉽게 따라 할 수 있는 다섯 가지 중단발 헤어 스타일링 팁을 공개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/62c154ff-e6ea-441f-a75b-d3f67cd5ea20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따라해 볼까? 윤승아의 지속 가능한 다이어트 방법]]></title>
-            <link>https://www.elle.co.kr/article/80352</link>
-            <guid>https://www.elle.co.kr/article/80352</guid>
-            <pubDate>Fri, 08 Sep 2023 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[출산 후 몸매 관리에 돌입한 윤승아의 화보 촬영 전 다이어트 10일 기록. 건강하게 먹고 부지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/02/587984d8-9fd7-477b-ac17-0f8e7325b974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[액션 장인 이준기가 7년 밀가루 끊고 몸소 겪은 변화 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80325</link>
-            <guid>https://www.elle.co.kr/article/80325</guid>
-            <pubDate>Thu, 07 Sep 2023 17:40:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/f9a48773-1002-4296-9ff6-3d7e350fded0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["베지테리언 아닌 플렉시테리언" 고백한 전효성, 완벽하지 않아도 괜찮아]]></title>
-            <link>https://www.elle.co.kr/article/80305</link>
-            <guid>https://www.elle.co.kr/article/80305</guid>
-            <pubDate>Wed, 06 Sep 2023 17:40:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c386e86a-a17c-4dad-90e7-f0996ed8f48f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열애 고백한 김새롬! 코로나로 찐 살 한번에 감량한 비결은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80295</link>
-            <guid>https://www.elle.co.kr/article/80295</guid>
-            <pubDate>Mon, 04 Sep 2023 05:40:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/02fdb77d-18d7-4167-9a33-ffe3a298a818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[N°1 DE CHANEL in 푸켓]]></title>
-            <link>https://www.elle.co.kr/article/79948</link>
-            <guid>https://www.elle.co.kr/article/79948</guid>
-            <pubDate>Mon, 04 Sep 2023 05:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[레드 까멜리아 세럼의 숨겨진 비밀을 찾아서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/be10decb-617d-472b-92ad-6dfd21a7b9d9.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/beauty</id>
+    <title>엘르 코리아 ─ 뷰티</title>
+    <updated>2023-09-13T17:41:32.988Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아이 러브 마이 바디' 화사, 건강한 체형 위해 절대 하지 않는 것 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80463</id>
+        <link href="https://www.elle.co.kr/article/80463"/>
+        <updated>2023-09-13T17:40:08.335Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80447</id>
+        <link href="https://www.elle.co.kr/article/80447"/>
+        <updated>2023-09-11T05:40:20.019Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피부 타입별 환절기 고민 솔루션_선배’s 어드바이스 #183]]></title>
+        <id>https://www.elle.co.kr/article/80372</id>
+        <link href="https://www.elle.co.kr/article/80372"/>
+        <updated>2023-09-11T05:40:20.021Z</updated>
+        <content type="html"><![CDATA['처서 매직’처럼 갑자기 달라진 피부 환경, 건강하게 적응하는 법은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5분 컷! 중단발 헤어 스타일링 HOW TO]]></title>
+        <id>https://www.elle.co.kr/article/80361</id>
+        <link href="https://www.elle.co.kr/article/80361"/>
+        <updated>2023-09-10T17:40:31.515Z</updated>
+        <content type="html"><![CDATA[누구나 쉽게 따라 할 수 있는 다섯 가지 중단발 헤어 스타일링 팁을 공개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[따라해 볼까? 윤승아의 지속 가능한 다이어트 방법]]></title>
+        <id>https://www.elle.co.kr/article/80352</id>
+        <link href="https://www.elle.co.kr/article/80352"/>
+        <updated>2023-09-08T17:40:35.530Z</updated>
+        <content type="html"><![CDATA[출산 후 몸매 관리에 돌입한 윤승아의 화보 촬영 전 다이어트 10일 기록. 건강하게 먹고 부지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[액션 장인 이준기가 7년 밀가루 끊고 몸소 겪은 변화 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80325</id>
+        <link href="https://www.elle.co.kr/article/80325"/>
+        <updated>2023-09-07T17:40:40.930Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["베지테리언 아닌 플렉시테리언" 고백한 전효성, 완벽하지 않아도 괜찮아]]></title>
+        <id>https://www.elle.co.kr/article/80305</id>
+        <link href="https://www.elle.co.kr/article/80305"/>
+        <updated>2023-09-06T17:40:25.480Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[열애 고백한 김새롬! 코로나로 찐 살 한번에 감량한 비결은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80295</id>
+        <link href="https://www.elle.co.kr/article/80295"/>
+        <updated>2023-09-04T05:40:04.725Z</updated>
+    </entry>
+</feed>
