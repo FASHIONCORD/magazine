@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 17:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 05:42:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마틴 스코세이지 감독이 꼽은 최고의 영화 액션 시퀀스는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36570464&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36570464&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Sep 2023 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTNfMTUw/MDAxNjk0NTc3NTk5MTY0.esHT7MjuxUExC1AVuXKUs_Fs5KqEwNxjxTABJ8rkwNkg.qw3zpjIn8wSexJJJE0Nera4duL5e7k0r6LLwfgS4FNIg.JPEG/ImrwpsW-42q5kFPSxku4CIEgGW-4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘원피스’ 실사화 제작진이 로그 타운 에피소드를 제외한 이유를 밝혔다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36537742&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 20 Aug 2022 17:46:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTlfMjY1/MDAxNjYwODkzNDA4MjQ5.r_3kXjYU8ACfjytdXJZkwkGt0Bo-fRO44Hw8Co6ON48g.IGJ3QbPclhY73Jkse0mDaWmD5e5b6_wIQgJc-BQxfV8g.JPEG/IKeRoWNY0YBnyS-QcSO4OTjAeCik.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 하반기부터 공개될 넷플릭스 한국 콘텐츠 라인업]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33992864&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33992864&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 22 Jun 2022 17:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjBfMTA0/MDAxNjU1NzEyNjUzMTI0.hkQavH8XwIIajHdQbuqf8JFuaU5hFEFcStPK3Ni53Vgg.BVNMfo_7RPwQosbrw-JLz58TXfaAGe2RsTfbaoI2RsIg.JPEG/IdW0EDjXBvLW_FtDEAm3C20vt7XY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

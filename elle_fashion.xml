@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-12T17:42:29.221Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[반짝이는 메탈릭 트렌드]]></title>
-        <id>https://www.elle.co.kr/article/80461</id>
-        <link href="https://www.elle.co.kr/article/80461"/>
-        <updated>2023-09-12T17:40:25.584Z</updated>
-        <content type="html"><![CDATA[짜릿한 메탈릭 파워.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핵심은 로라이즈! 요즘 맥시스커트 트렌드]]></title>
-        <id>https://www.elle.co.kr/article/80498</id>
-        <link href="https://www.elle.co.kr/article/80498"/>
-        <updated>2023-09-12T17:40:25.587Z</updated>
-        <content type="html"><![CDATA[제니와 리사도 입었다! 길수록 트렌디한 맥시스커트 스타일.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤넬과 프리즈가 또 한 번 조우한 이유]]></title>
-        <id>https://www.elle.co.kr/article/80488</id>
-        <link href="https://www.elle.co.kr/article/80488"/>
-        <updated>2023-09-11T17:39:40.197Z</updated>
-        <content type="html"><![CDATA[한국의 신진 및 기성 현대 예술가들을 조명한 ‘나우 &amp; 넥스트’ 영상 시리즈를 통해 들여다보...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전설이 된 80년대 슈퍼모델들의 다큐멘터리]]></title>
-        <id>https://www.elle.co.kr/article/80441</id>
-        <link href="https://www.elle.co.kr/article/80441"/>
-        <updated>2023-09-11T17:39:40.198Z</updated>
-        <content type="html"><![CDATA[패션 아이콘이 된 4명의 슈퍼모델이 카메라 앞에 섰다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아트 + 패션?]]></title>
-        <id>https://www.elle.co.kr/article/80454</id>
-        <link href="https://www.elle.co.kr/article/80454"/>
-        <updated>2023-09-10T05:39:53.995Z</updated>
-        <content type="html"><![CDATA[프리즈 서울 2023과 함께 한 패션 브랜드의 크고 작은 이벤트 소식.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셔츠 한 장 걸치기 좋은 계절! 간절기 셔츠 스타일 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/80449</id>
-        <link href="https://www.elle.co.kr/article/80449"/>
-        <updated>2023-09-09T17:40:01.982Z</updated>
-        <content type="html"><![CDATA[간절기 데일리룩을 위해 체크해야 할 스타들의 셔츠 패션을 모아봤습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올시즌 놓치면 안 될 메리제인 슈즈 쇼핑 리스트 6]]></title>
-        <id>https://www.elle.co.kr/article/80424</id>
-        <link href="https://www.elle.co.kr/article/80424"/>
-        <updated>2023-09-09T05:39:45.613Z</updated>
-        <content type="html"><![CDATA[트렌디한 발레코어 룩의 머스트 해브 아이템! 사랑스러운 메리제인 슈즈 구매 좌표를 눈여겨 보...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 블랙핑크 스타일리스트가 만든 패션 브랜드?]]></title>
-        <id>https://www.elle.co.kr/article/80417</id>
-        <link href="https://www.elle.co.kr/article/80417"/>
-        <updated>2023-09-08T17:40:22.902Z</updated>
-        <content type="html"><![CDATA[2023년 선선해지는 계절에 새롭게 만나볼 브랜드.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 13 Sep 2023 05:42:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/80534</link>
+            <guid>https://www.elle.co.kr/article/80534</guid>
+            <pubDate>Wed, 13 Sep 2023 05:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[로우클래식, MCM, 디올이 마련한 특별한 이벤트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/9ce25f7e-173c-4c5d-948b-3aaf35f9a137.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅 백부터 실버 백, 호보백까지! 가을 맞이 데일리 가방 쇼핑리스트 8]]></title>
+            <link>https://www.elle.co.kr/article/80505</link>
+            <guid>https://www.elle.co.kr/article/80505</guid>
+            <pubDate>Wed, 13 Sep 2023 05:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[스타들은 무슨 가방 들까? ‘손민수’하고 싶은 가을을 위한 데일리 백.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/9749b3dc-9c4d-4ebc-8d4e-9d8ae95c6bb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반짝이는 메탈릭 트렌드]]></title>
+            <link>https://www.elle.co.kr/article/80461</link>
+            <guid>https://www.elle.co.kr/article/80461</guid>
+            <pubDate>Tue, 12 Sep 2023 17:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[짜릿한 메탈릭 파워.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/d9179a05-d367-4926-8c5e-ccb65432b97a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핵심은 로라이즈! 요즘 맥시스커트 트렌드]]></title>
+            <link>https://www.elle.co.kr/article/80498</link>
+            <guid>https://www.elle.co.kr/article/80498</guid>
+            <pubDate>Tue, 12 Sep 2023 17:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[제니와 리사도 입었다! 길수록 트렌디한 맥시스커트 스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/c59f0ed5-80e3-41a8-897d-d2d1eb6a6d3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤넬과 프리즈가 또 한 번 조우한 이유]]></title>
+            <link>https://www.elle.co.kr/article/80488</link>
+            <guid>https://www.elle.co.kr/article/80488</guid>
+            <pubDate>Mon, 11 Sep 2023 17:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 신진 및 기성 현대 예술가들을 조명한 ‘나우 &amp; 넥스트’ 영상 시리즈를 통해 들여다보...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/518ea917-51ab-41b1-bdb2-92e4e4c33da7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전설이 된 80년대 슈퍼모델들의 다큐멘터리]]></title>
+            <link>https://www.elle.co.kr/article/80441</link>
+            <guid>https://www.elle.co.kr/article/80441</guid>
+            <pubDate>Mon, 11 Sep 2023 17:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[패션 아이콘이 된 4명의 슈퍼모델이 카메라 앞에 섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/fe2dc9e1-5a77-4997-8890-f43d4da5202a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트 + 패션?]]></title>
+            <link>https://www.elle.co.kr/article/80454</link>
+            <guid>https://www.elle.co.kr/article/80454</guid>
+            <pubDate>Sun, 10 Sep 2023 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[프리즈 서울 2023과 함께 한 패션 브랜드의 크고 작은 이벤트 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/3189335d-e987-405a-ac43-a2bb5cca368f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셔츠 한 장 걸치기 좋은 계절! 간절기 셔츠 스타일 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/80449</link>
+            <guid>https://www.elle.co.kr/article/80449</guid>
+            <pubDate>Sat, 09 Sep 2023 17:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[간절기 데일리룩을 위해 체크해야 할 스타들의 셔츠 패션을 모아봤습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/3455f6ea-e585-449d-a139-f22e7eb9bd1f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
