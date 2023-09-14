@@ -1,91 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/moviesandtv</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-09-13T17:41:33.006Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[투표 시작된 '스우파2' 메가 크루 영상 모음 (feat. 크루별 추가 미션?)]]></title>
-        <id>https://www.elle.co.kr/article/80588</id>
-        <link href="https://www.elle.co.kr/article/80588"/>
-        <updated>2023-09-13T05:41:15.130Z</updated>
-        <content type="html"><![CDATA[첫 탈락 크루와 아쉬운 작별도.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원작과 결말 다르다고? 한국형 히어로물 '무빙' 인기 요인 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/80538</id>
-        <link href="https://www.elle.co.kr/article/80538"/>
-        <updated>2023-09-11T17:40:28.943Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은퇴작 발표해 놓고 매일 회사 나온다는 미야자키 하야오 근황 (ft. 예고편X스틸컷)]]></title>
-        <id>https://www.elle.co.kr/article/80525</id>
-        <link href="https://www.elle.co.kr/article/80525"/>
-        <updated>2023-09-11T05:40:58.646Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전설이 된 80년대 슈퍼모델들의 다큐멘터리]]></title>
-        <id>https://www.elle.co.kr/article/80441</id>
-        <link href="https://www.elle.co.kr/article/80441"/>
-        <updated>2023-09-07T17:41:57.472Z</updated>
-        <content type="html"><![CDATA[패션 아이콘이 된 4명의 슈퍼모델이 카메라 앞에 섰다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다>]]></title>
-        <id>https://www.elle.co.kr/article/80437</id>
-        <link href="https://www.elle.co.kr/article/80437"/>
-        <updated>2023-09-06T17:41:34.053Z</updated>
-        <content type="html"><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 훨씬 끈질기다: 서울국제여성영화제]]></title>
-        <id>https://www.elle.co.kr/article/80440</id>
-        <link href="https://www.elle.co.kr/article/80440"/>
-        <updated>2023-09-06T17:41:34.058Z</updated>
-        <content type="html"><![CDATA[여성 영화인들은 척박한 환경에서도 손을 맞잡고, 껴안고, 위로하며 뚜벅뚜벅 다양성의 길을 걸어...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/80446</id>
-        <link href="https://www.elle.co.kr/article/80446"/>
-        <updated>2023-09-06T17:41:34.063Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경이로운 소문 2' 종영, 모든 악을 흡수한 진선규의 최후가 공개됐다]]></title>
-        <id>https://www.elle.co.kr/article/80382</id>
-        <link href="https://www.elle.co.kr/article/80382"/>
-        <updated>2023-09-04T17:41:26.258Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파트1 종영, 러브라인 힌트는? 설레고 애틋하고 다 하는 '연인' 명장면 3 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/80381</id>
-        <link href="https://www.elle.co.kr/article/80381"/>
-        <updated>2023-09-04T17:41:26.264Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크 쓴 BJ 김모미 음성, 사람 목소리가 아니었다고?]]></title>
-        <id>https://www.elle.co.kr/article/80299</id>
-        <link href="https://www.elle.co.kr/article/80299"/>
-        <updated>2023-08-30T17:41:24.564Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/80203</id>
-        <link href="https://www.elle.co.kr/article/80203"/>
-        <updated>2023-08-29T05:41:18.323Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까]]></title>
-        <id>https://www.elle.co.kr/article/80163</id>
-        <link href="https://www.elle.co.kr/article/80163"/>
-        <updated>2023-08-27T17:41:09.186Z</updated>
-        <content type="html"><![CDATA[천국보단 지옥.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
-        <id>https://www.elle.co.kr/article/80109</id>
-        <link href="https://www.elle.co.kr/article/80109"/>
-        <updated>2023-08-24T17:40:43.332Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 14 Sep 2023 05:42:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투표 시작된 '스우파2' 메가 크루 영상 모음 (feat. 크루별 추가 미션?)]]></title>
+            <link>https://www.elle.co.kr/article/80588</link>
+            <guid>https://www.elle.co.kr/article/80588</guid>
+            <pubDate>Wed, 13 Sep 2023 05:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[첫 탈락 크루와 아쉬운 작별도.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/6957f53f-22ab-4e59-951e-ac41c6a7921c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원작과 결말 다르다고? 한국형 히어로물 '무빙' 인기 요인 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/80538</link>
+            <guid>https://www.elle.co.kr/article/80538</guid>
+            <pubDate>Mon, 11 Sep 2023 17:40:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/07f2d471-7ebf-4cf8-be30-bd107fcede72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은퇴작 발표해 놓고 매일 회사 나온다는 미야자키 하야오 근황 (ft. 예고편X스틸컷)]]></title>
+            <link>https://www.elle.co.kr/article/80525</link>
+            <guid>https://www.elle.co.kr/article/80525</guid>
+            <pubDate>Mon, 11 Sep 2023 05:40:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/8eaee71e-69e5-407c-8996-c7a591bf2ef4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전설이 된 80년대 슈퍼모델들의 다큐멘터리]]></title>
+            <link>https://www.elle.co.kr/article/80441</link>
+            <guid>https://www.elle.co.kr/article/80441</guid>
+            <pubDate>Thu, 07 Sep 2023 17:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[패션 아이콘이 된 4명의 슈퍼모델이 카메라 앞에 섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/fe2dc9e1-5a77-4997-8890-f43d4da5202a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금정연X정지돈 <우리는 가끔 아름다움의 섬광을 보았다>]]></title>
+            <link>https://www.elle.co.kr/article/80437</link>
+            <guid>https://www.elle.co.kr/article/80437</guid>
+            <pubDate>Wed, 06 Sep 2023 17:41:34 GMT</pubDate>
+            <content:encoded><![CDATA[영화를 사랑하는 금정연, 정지돈과 나눈 한국영화와 우리 삶에 대한 이야기.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리는 훨씬 끈질기다: 서울국제여성영화제]]></title>
+            <link>https://www.elle.co.kr/article/80440</link>
+            <guid>https://www.elle.co.kr/article/80440</guid>
+            <pubDate>Wed, 06 Sep 2023 17:41:34 GMT</pubDate>
+            <content:encoded><![CDATA[여성 영화인들은 척박한 환경에서도 손을 맞잡고, 껴안고, 위로하며 뚜벅뚜벅 다양성의 길을 걸어...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[설리가 남긴 두 작품, '페르소나'-'진리에게' 공개 관련 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/80446</link>
+            <guid>https://www.elle.co.kr/article/80446</guid>
+            <pubDate>Wed, 06 Sep 2023 17:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['경이로운 소문 2' 종영, 모든 악을 흡수한 진선규의 최후가 공개됐다]]></title>
+            <link>https://www.elle.co.kr/article/80382</link>
+            <guid>https://www.elle.co.kr/article/80382</guid>
+            <pubDate>Mon, 04 Sep 2023 17:41:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[파트1 종영, 러브라인 힌트는? 설레고 애틋하고 다 하는 '연인' 명장면 3 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/80381</link>
+            <guid>https://www.elle.co.kr/article/80381</guid>
+            <pubDate>Mon, 04 Sep 2023 17:41:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[마스크 쓴 BJ 김모미 음성, 사람 목소리가 아니었다고?]]></title>
+            <link>https://www.elle.co.kr/article/80299</link>
+            <guid>https://www.elle.co.kr/article/80299</guid>
+            <pubDate>Wed, 30 Aug 2023 17:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['연인'의 유길채, 안은진의 또 다른 인생 캐릭터 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/80203</link>
+            <guid>https://www.elle.co.kr/article/80203</guid>
+            <pubDate>Tue, 29 Aug 2023 05:41:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['지옥만세' 임오정 감독은 왜 지옥을 꿈꾸는 소녀들에게 주목했을까]]></title>
+            <link>https://www.elle.co.kr/article/80163</link>
+            <guid>https://www.elle.co.kr/article/80163</guid>
+            <pubDate>Sun, 27 Aug 2023 17:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[천국보단 지옥.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공개 연애 11년차 커플 정경호-수영, 서로의 일에는 어떻게 반응할까?]]></title>
+            <link>https://www.elle.co.kr/article/80109</link>
+            <guid>https://www.elle.co.kr/article/80109</guid>
+            <pubDate>Thu, 24 Aug 2023 17:40:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
