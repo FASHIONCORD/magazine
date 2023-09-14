@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-09-14T05:42:06.444Z</updated>
+    <updated>2023-09-14T17:41:05.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비누 비누, 예쁜 비누]]></title>
+        <id>https://www.elle.co.kr/article/80445</id>
+        <link href="https://www.elle.co.kr/article/80445"/>
+        <updated>2023-09-14T17:40:07.078Z</updated>
+        <content type="html"><![CDATA['세정'이라는 본래의 용도를 차치하고 새로운 시선으로 응시한 비누. 일상 속 아름다움을 고양하...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아이 러브 마이 바디' 화사, 건강한 체형 위해 절대 하지 않는 것 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/80463</id>
@@ -49,11 +56,5 @@
         <id>https://www.elle.co.kr/article/80305</id>
         <link href="https://www.elle.co.kr/article/80305"/>
         <updated>2023-09-06T17:40:25.480Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열애 고백한 김새롬! 코로나로 찐 살 한번에 감량한 비결은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/80295</id>
-        <link href="https://www.elle.co.kr/article/80295"/>
-        <updated>2023-09-04T05:40:04.725Z</updated>
     </entry>
 </feed>
