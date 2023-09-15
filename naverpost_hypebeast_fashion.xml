@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 17:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 05:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LVMH CEO 베르나르 아르노, “외부인에게 재산을 물려줄 가능성 있다”]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36584078&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36584078&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 15 Sep 2023 05:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTVfNTMg/MDAxNjk0NzUwMjkxNjI0.2NDF9o1NS5nhs9xLcb2opba9Fw7t-_7IYxWRULFeLOQg.vKfWxBG1ukqqvgxIuJYC3F-9-m7dd_vstU-DhVyaGMAg.JPEG/IUk1qpgnnM17PSMSPVj1YMUFGd08.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반디 더 핑크 x 원소주 머천다이즈 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36559465&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 07 Aug 2023 17:39:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfMTU5/MDAxNjkxMzkzODU5MzI4.ZUJ-xlsPNbdlIKe2effA8dmygOLiKyuvAA0uzcV4Jdog.mGTRN4I9mSnMrFZ0PgXK0FapKxHznVElE6yjTLflmeYg.JPEG/IAMeVTRw1Eeh_vEJBoFUU8HGXKsA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조영민 인터뷰: 떠그 클럽이 경리단길에 성을 세웠다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36368815&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36368815&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 07 Aug 2023 17:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfNDcg/MDAxNjkxMzkzNTQwMzE5.DVskaRrgT6RiqgffYabCEhdyF-h1G_tzaM-3L_qzv9Mg.flOzu8PuqpKMKG4rbxrMtT5xbqhZFm95RqTPXSIhvkMg.JPEG/IFgYtqV8PVf5FsURJkHqiL5z5bj8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
