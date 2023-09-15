@@ -1,60 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/loveandlife</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-09-15T05:41:46.660Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[C타입? 300만원 짜리 울트라? 공개 앞둔 아이폰15 시리즈 쟁점]]></title>
-        <id>https://www.elle.co.kr/article/80523</id>
-        <link href="https://www.elle.co.kr/article/80523"/>
-        <updated>2023-09-15T05:41:35.528Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클러터코어들의 집]]></title>
-        <id>https://www.elle.co.kr/article/80489</id>
-        <link href="https://www.elle.co.kr/article/80489"/>
-        <updated>2023-09-13T17:41:22.675Z</updated>
-        <content type="html"><![CDATA[아기자기 내가 좋아하는 것을 모으고 모아 간직하는 사랑스러운 소녀들의 방.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모스 꽃길, 산책 할까 라이딩 할까? 선선한 가을맞이 꽃축제 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/80499</id>
-        <link href="https://www.elle.co.kr/article/80499"/>
-        <updated>2023-09-13T05:42:05.339Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나만 알고 싶은 도쿄의 라이프 스타일 숍 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/80487</id>
-        <link href="https://www.elle.co.kr/article/80487"/>
-        <updated>2023-09-12T17:42:19.003Z</updated>
-        <content type="html"><![CDATA[포근한 블랭킷이 생각나는 바야흐로 가을입니다. 새로운 계절을 맞아 내 공간을 재정비하고 싶다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오롯이 나에게 집중하는 시간! 혼자서 즐기는 차 한 잔의 여유 #마실마실]]></title>
-        <id>https://www.elle.co.kr/article/80479</id>
-        <link href="https://www.elle.co.kr/article/80479"/>
-        <updated>2023-09-11T17:40:48.238Z</updated>
-        <content type="html"><![CDATA[예약제로 운영되는 서울의 티룸 두 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐주얼 다이닝부터 유러피안 레스토랑까지! 경리 따라 맛집 투어 3]]></title>
-        <id>https://www.elle.co.kr/article/80469</id>
-        <link href="https://www.elle.co.kr/article/80469"/>
-        <updated>2023-09-11T05:41:18.630Z</updated>
-        <content type="html"><![CDATA[경리의 SNS 속 분위기 좋은 레스토랑은 어디? 이태원과 삼청동에서 맛있는 한 끼를 경험해 보...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브루클린 아파트의 삶을 누구보다 즐기는 이온스의 랜선 집들이 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/80457</id>
-        <link href="https://www.elle.co.kr/article/80457"/>
-        <updated>2023-09-10T17:42:06.126Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통통한 대하부터 전어, 꽃게까지! '먹잘알' 바빠지는 가을 먹거리 축제 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/80410</id>
-        <link href="https://www.elle.co.kr/article/80410"/>
-        <updated>2023-09-09T05:41:57.397Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 15 Sep 2023 17:42:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴쿠버에서 영화 CG 작업을 하는 프로 재택러 미르의 랜선 집들이 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/80591</link>
+            <guid>https://www.elle.co.kr/article/80591</guid>
+            <pubDate>Fri, 15 Sep 2023 17:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6일 연휴, 하루 쯤은 가족과 문화 체험해 볼까? 2023 추석 맞이 행사 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/80563</link>
+            <guid>https://www.elle.co.kr/article/80563</guid>
+            <pubDate>Fri, 15 Sep 2023 17:42:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/07cc034f-6b3a-462c-b681-05393075c866.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/80534</link>
+            <guid>https://www.elle.co.kr/article/80534</guid>
+            <pubDate>Fri, 15 Sep 2023 17:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[로우클래식, MCM, 디올이 마련한 특별한 이벤트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/9ce25f7e-173c-4c5d-948b-3aaf35f9a137.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[C타입? 300만원 짜리 울트라? 공개 앞둔 아이폰15 시리즈 쟁점]]></title>
+            <link>https://www.elle.co.kr/article/80523</link>
+            <guid>https://www.elle.co.kr/article/80523</guid>
+            <pubDate>Fri, 15 Sep 2023 05:41:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/181b96c4-3c4c-4eac-9d63-be9105f9efa1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클러터코어들의 집]]></title>
+            <link>https://www.elle.co.kr/article/80489</link>
+            <guid>https://www.elle.co.kr/article/80489</guid>
+            <pubDate>Wed, 13 Sep 2023 17:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[아기자기 내가 좋아하는 것을 모으고 모아 간직하는 사랑스러운 소녀들의 방.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/aa7310a8-0b5c-4163-8182-18ee11ef9d8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스모스 꽃길, 산책 할까 라이딩 할까? 선선한 가을맞이 꽃축제 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/80499</link>
+            <guid>https://www.elle.co.kr/article/80499</guid>
+            <pubDate>Wed, 13 Sep 2023 05:42:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/e426b476-f091-4c2b-b399-0314e36c6e05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고 싶은 도쿄의 라이프 스타일 숍 #도쿄핫플]]></title>
+            <link>https://www.elle.co.kr/article/80487</link>
+            <guid>https://www.elle.co.kr/article/80487</guid>
+            <pubDate>Tue, 12 Sep 2023 17:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[포근한 블랭킷이 생각나는 바야흐로 가을입니다. 새로운 계절을 맞아 내 공간을 재정비하고 싶다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/f49cde6c-a99c-4a03-8e6d-9ccc576ec218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오롯이 나에게 집중하는 시간! 혼자서 즐기는 차 한 잔의 여유 #마실마실]]></title>
+            <link>https://www.elle.co.kr/article/80479</link>
+            <guid>https://www.elle.co.kr/article/80479</guid>
+            <pubDate>Mon, 11 Sep 2023 17:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[예약제로 운영되는 서울의 티룸 두 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/de562ccf-3073-468d-ae64-38ee941c730f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

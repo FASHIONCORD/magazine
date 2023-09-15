@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 05:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 17:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자유분방한 카우걸로 변신!]]></title>
+            <link>https://www.elle.co.kr/article/80604</link>
+            <guid>https://www.elle.co.kr/article/80604</guid>
+            <pubDate>Fri, 15 Sep 2023 17:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[서부 영화 속 주인공처럼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/afc2d3d6-67b2-4e57-9451-2e09921ca990.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10초 만에 완성! 셀렙들이 푹 빠진 타투 스티커]]></title>
+            <link>https://www.elle.co.kr/article/80602</link>
+            <guid>https://www.elle.co.kr/article/80602</guid>
+            <pubDate>Fri, 15 Sep 2023 17:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[한소희부터 르세라핌 허윤진도 반했다? 그 어떤 액세서리보다 '힙'한 셀프 타투 트렌드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/c248dbdf-cc0b-4cd0-bb2c-c02bab3d06a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클럽으로 변신한 피팅룸? 서울에 새롭게 문을 연 패션 스토어 3]]></title>
             <link>https://www.elle.co.kr/article/80593</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 13 Sep 2023 17:39:58 GMT</pubDate>
             <content:encoded><![CDATA[올드 머니 룩은 로열 레이디가 '찐'이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/71031597-9f27-49d1-b026-34d2792f4a59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/80534</link>
-            <guid>https://www.elle.co.kr/article/80534</guid>
-            <pubDate>Wed, 13 Sep 2023 05:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[로우클래식, MCM, 디올이 마련한 특별한 이벤트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/9ce25f7e-173c-4c5d-948b-3aaf35f9a137.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅 백부터 실버 백, 호보백까지! 가을 맞이 데일리 가방 쇼핑리스트 8]]></title>
-            <link>https://www.elle.co.kr/article/80505</link>
-            <guid>https://www.elle.co.kr/article/80505</guid>
-            <pubDate>Fri, 15 Sep 2023 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[스타들은 무슨 가방 들까? ‘손민수’하고 싶은 가을을 위한 데일리 백.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/9749b3dc-9c4d-4ebc-8d4e-9d8ae95c6bb3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
