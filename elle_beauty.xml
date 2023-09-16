@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 17:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 05:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뒤돌아보게 만드는 향기로운 샴푸.zip_선배’s 어드바이스 #184]]></title>
+            <link>https://www.elle.co.kr/article/80521</link>
+            <guid>https://www.elle.co.kr/article/80521</guid>
+            <pubDate>Sat, 16 Sep 2023 05:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[향수가 아니라 샴푸라고? 가을바람을 타고 은은하게 퍼지는 샴푸향!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/edfa906b-107b-4a70-af8b-10336ffb5354.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 당장 셀피 각! 전효성의 러블리 메이크업 튜토리얼]]></title>
             <link>https://www.elle.co.kr/article/80517</link>
@@ -60,14 +68,6 @@
             <pubDate>Sun, 10 Sep 2023 17:40:31 GMT</pubDate>
             <content:encoded><![CDATA[누구나 쉽게 따라 할 수 있는 다섯 가지 중단발 헤어 스타일링 팁을 공개합니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/62c154ff-e6ea-441f-a75b-d3f67cd5ea20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따라해 볼까? 윤승아의 지속 가능한 다이어트 방법]]></title>
-            <link>https://www.elle.co.kr/article/80352</link>
-            <guid>https://www.elle.co.kr/article/80352</guid>
-            <pubDate>Fri, 08 Sep 2023 17:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[출산 후 몸매 관리에 돌입한 윤승아의 화보 촬영 전 다이어트 10일 기록. 건강하게 먹고 부지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/02/587984d8-9fd7-477b-ac17-0f8e7325b974.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
