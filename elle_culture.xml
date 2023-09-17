@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 17:42:03 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[투표 시작된 '스우파2' 메가 크루 영상 모음 (feat. 크루별 추가 미션?)]]></title>
-            <link>https://www.elle.co.kr/article/80588</link>
-            <guid>https://www.elle.co.kr/article/80588</guid>
-            <pubDate>Fri, 15 Sep 2023 05:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[첫 탈락 크루와 아쉬운 작별도.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/6957f53f-22ab-4e59-951e-ac41c6a7921c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
-            <link>https://www.elle.co.kr/article/80586</link>
-            <guid>https://www.elle.co.kr/article/80586</guid>
-            <pubDate>Thu, 14 Sep 2023 17:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/02ba3f2f-4cfe-4c55-b3e4-86f377daaa23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트와 뷰티의 만남]]></title>
-            <link>https://www.elle.co.kr/article/80557</link>
-            <guid>https://www.elle.co.kr/article/80557</guid>
-            <pubDate>Thu, 14 Sep 2023 05:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[아티스트와 협업을 통한 뷰티 브랜드의 색다른 시각 언어는 우리의 선택과 소비를 더욱 풍요롭게...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/4b1a421d-5252-4111-863b-cabe244ad5f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원작과 결말 다르다고? 한국형 히어로물 '무빙' 인기 요인 총정리 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/80538</link>
-            <guid>https://www.elle.co.kr/article/80538</guid>
-            <pubDate>Wed, 13 Sep 2023 17:40:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/07f2d471-7ebf-4cf8-be30-bd107fcede72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3]]></title>
-            <link>https://www.elle.co.kr/article/80534</link>
-            <guid>https://www.elle.co.kr/article/80534</guid>
-            <pubDate>Wed, 13 Sep 2023 05:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[로우클래식, MCM, 디올이 마련한 특별한 이벤트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/9ce25f7e-173c-4c5d-948b-3aaf35f9a137.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은퇴작 발표해 놓고 매일 회사 나온다는 미야자키 하야오 근황 (ft. 예고편X스틸컷)]]></title>
-            <link>https://www.elle.co.kr/article/80525</link>
-            <guid>https://www.elle.co.kr/article/80525</guid>
-            <pubDate>Wed, 13 Sep 2023 05:40:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/8eaee71e-69e5-407c-8996-c7a591bf2ef4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여성성과 섹슈얼리티, 아니사 케르미쉬의 홈 오브제]]></title>
-            <link>https://www.elle.co.kr/article/80462</link>
-            <guid>https://www.elle.co.kr/article/80462</guid>
-            <pubDate>Wed, 13 Sep 2023 05:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[호기심 많고 독립적이며 자신을 무한 긍정하는 사람들을 위해 디자인한 엉덩이 모양의 꽃병, 여...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/2eff4358-c932-4da8-a2c6-f7063deeeb7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬과 프리즈가 또 한 번 조우한 이유]]></title>
-            <link>https://www.elle.co.kr/article/80488</link>
-            <guid>https://www.elle.co.kr/article/80488</guid>
-            <pubDate>Tue, 12 Sep 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 신진 및 기성 현대 예술가들을 조명한 ‘나우 &amp; 넥스트’ 영상 시리즈를 통해 들여다보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/518ea917-51ab-41b1-bdb2-92e4e4c33da7.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-09-17T05:42:24.936Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투표 시작된 '스우파2' 메가 크루 영상 모음 (feat. 크루별 추가 미션?)]]></title>
+        <id>https://www.elle.co.kr/article/80588</id>
+        <link href="https://www.elle.co.kr/article/80588"/>
+        <updated>2023-09-15T05:40:50.755Z</updated>
+        <content type="html"><![CDATA[첫 탈락 크루와 아쉬운 작별도.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
+        <id>https://www.elle.co.kr/article/80586</id>
+        <link href="https://www.elle.co.kr/article/80586"/>
+        <updated>2023-09-14T17:40:23.348Z</updated>
+        <content type="html"><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아트와 뷰티의 만남]]></title>
+        <id>https://www.elle.co.kr/article/80557</id>
+        <link href="https://www.elle.co.kr/article/80557"/>
+        <updated>2023-09-14T05:41:09.885Z</updated>
+        <content type="html"><![CDATA[아티스트와 협업을 통한 뷰티 브랜드의 색다른 시각 언어는 우리의 선택과 소비를 더욱 풍요롭게...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원작과 결말 다르다고? 한국형 히어로물 '무빙' 인기 요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/80538</id>
+        <link href="https://www.elle.co.kr/article/80538"/>
+        <updated>2023-09-13T17:40:35.054Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프리즈가 끝나도 예술은 계속된다! 서울을 물들인 패션 전시 3]]></title>
+        <id>https://www.elle.co.kr/article/80534</id>
+        <link href="https://www.elle.co.kr/article/80534"/>
+        <updated>2023-09-13T05:40:56.298Z</updated>
+        <content type="html"><![CDATA[로우클래식, MCM, 디올이 마련한 특별한 이벤트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은퇴작 발표해 놓고 매일 회사 나온다는 미야자키 하야오 근황 (ft. 예고편X스틸컷)]]></title>
+        <id>https://www.elle.co.kr/article/80525</id>
+        <link href="https://www.elle.co.kr/article/80525"/>
+        <updated>2023-09-13T05:40:56.309Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여성성과 섹슈얼리티, 아니사 케르미쉬의 홈 오브제]]></title>
+        <id>https://www.elle.co.kr/article/80462</id>
+        <link href="https://www.elle.co.kr/article/80462"/>
+        <updated>2023-09-13T05:40:56.311Z</updated>
+        <content type="html"><![CDATA[호기심 많고 독립적이며 자신을 무한 긍정하는 사람들을 위해 디자인한 엉덩이 모양의 꽃병, 여...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤넬과 프리즈가 또 한 번 조우한 이유]]></title>
+        <id>https://www.elle.co.kr/article/80488</id>
+        <link href="https://www.elle.co.kr/article/80488"/>
+        <updated>2023-09-12T17:41:29.738Z</updated>
+        <content type="html"><![CDATA[한국의 신진 및 기성 현대 예술가들을 조명한 ‘나우 &amp; 넥스트’ 영상 시리즈를 통해 들여다보...]]></content>
+    </entry>
+</feed>
