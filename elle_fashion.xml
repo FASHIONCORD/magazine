@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-17T17:41:17.837Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[때로는 앙증맞게, 톱 핸들 백]]></title>
-        <id>https://www.elle.co.kr/article/80606</id>
-        <link href="https://www.elle.co.kr/article/80606"/>
-        <updated>2023-09-17T17:39:50.408Z</updated>
-        <content type="html"><![CDATA[두 손에 꼭 들고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이돌 무대 의상부터 사복패션 장인의 데일리 룩까지! 핵심 아이템은 '플랫 슈즈' #쇼핑리스트]]></title>
-        <id>https://www.elle.co.kr/article/80605</id>
-        <link href="https://www.elle.co.kr/article/80605"/>
-        <updated>2023-09-16T17:40:27.164Z</updated>
-        <content type="html"><![CDATA[올가을 이 '발레 슈즈’만 있으면 누구나 트렌디한 스타일을 연출할 수 있어요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10초 만에 완성! 셀렙들이 푹 빠진 타투 스티커]]></title>
-        <id>https://www.elle.co.kr/article/80602</id>
-        <link href="https://www.elle.co.kr/article/80602"/>
-        <updated>2023-09-15T17:40:43.683Z</updated>
-        <content type="html"><![CDATA[한소희부터 르세라핌 허윤진도 반했다? 그 어떤 액세서리보다 '힙'한 셀프 타투 트렌드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자유분방한 카우걸로 변신!]]></title>
-        <id>https://www.elle.co.kr/article/80604</id>
-        <link href="https://www.elle.co.kr/article/80604"/>
-        <updated>2023-09-15T17:40:43.680Z</updated>
-        <content type="html"><![CDATA[서부 영화 속 주인공처럼.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클럽으로 변신한 피팅룸? 서울에 새롭게 문을 연 패션 스토어 3]]></title>
-        <id>https://www.elle.co.kr/article/80593</id>
-        <link href="https://www.elle.co.kr/article/80593"/>
-        <updated>2023-09-14T17:39:57.574Z</updated>
-        <content type="html"><![CDATA[블랙핑크와 한소희가 선택한 그 브랜드!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
-        <id>https://www.elle.co.kr/article/80586</id>
-        <link href="https://www.elle.co.kr/article/80586"/>
-        <updated>2023-09-14T17:39:57.580Z</updated>
-        <content type="html"><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니가 셔츠를 활용하는 법! 셀럽의 오버사이즈 셔츠 스타일링 5]]></title>
-        <id>https://www.elle.co.kr/article/80579</id>
-        <link href="https://www.elle.co.kr/article/80579"/>
-        <updated>2023-09-14T05:40:32.572Z</updated>
-        <content type="html"><![CDATA[지금 당장 따라하기에 딱! 배우 노윤서부터 모델 신현지 등 패션 센스 좋은 스타들의 셔츠 스...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #6 뷰티 크리에이터 민스코]]></title>
-        <id>https://www.elle.co.kr/article/80565</id>
-        <link href="https://www.elle.co.kr/article/80565"/>
-        <updated>2023-09-13T17:39:58.437Z</updated>
-        <content type="html"><![CDATA[화장품을 사랑하는 뷰티크리에이터 민스코가 애정하는 물건과 그 이유.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 18 Sep 2023 05:41:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키 룩을 입고 한편의 연극무대처럼]]></title>
+            <link>https://www.elle.co.kr/article/80620</link>
+            <guid>https://www.elle.co.kr/article/80620</guid>
+            <pubDate>Mon, 18 Sep 2023 05:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[격렬한 춤과 격양된 몸짓으로 새롭게 표현한 뉴 시즌의 키 룩 퍼레이드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/e4f898f4-bb3b-469b-9cf1-1f0e773ce1c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[때로는 앙증맞게, 톱 핸들 백]]></title>
+            <link>https://www.elle.co.kr/article/80606</link>
+            <guid>https://www.elle.co.kr/article/80606</guid>
+            <pubDate>Sun, 17 Sep 2023 17:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[두 손에 꼭 들고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/13650348-b96d-42b1-9029-58c30017b30f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 무대 의상부터 사복패션 장인의 데일리 룩까지! 핵심 아이템은 '플랫 슈즈' #쇼핑리스트]]></title>
+            <link>https://www.elle.co.kr/article/80605</link>
+            <guid>https://www.elle.co.kr/article/80605</guid>
+            <pubDate>Sat, 16 Sep 2023 17:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[올가을 이 '발레 슈즈’만 있으면 누구나 트렌디한 스타일을 연출할 수 있어요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/b271b445-904b-43c0-a31d-66a151dc2972.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10초 만에 완성! 셀렙들이 푹 빠진 타투 스티커]]></title>
+            <link>https://www.elle.co.kr/article/80602</link>
+            <guid>https://www.elle.co.kr/article/80602</guid>
+            <pubDate>Fri, 15 Sep 2023 17:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[한소희부터 르세라핌 허윤진도 반했다? 그 어떤 액세서리보다 '힙'한 셀프 타투 트렌드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/c248dbdf-cc0b-4cd0-bb2c-c02bab3d06a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자유분방한 카우걸로 변신!]]></title>
+            <link>https://www.elle.co.kr/article/80604</link>
+            <guid>https://www.elle.co.kr/article/80604</guid>
+            <pubDate>Fri, 15 Sep 2023 17:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[서부 영화 속 주인공처럼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/afc2d3d6-67b2-4e57-9451-2e09921ca990.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클럽으로 변신한 피팅룸? 서울에 새롭게 문을 연 패션 스토어 3]]></title>
+            <link>https://www.elle.co.kr/article/80593</link>
+            <guid>https://www.elle.co.kr/article/80593</guid>
+            <pubDate>Thu, 14 Sep 2023 17:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[블랙핑크와 한소희가 선택한 그 브랜드!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/27e87c81-016b-490f-95cb-81f24c1bbc8a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
+            <link>https://www.elle.co.kr/article/80586</link>
+            <guid>https://www.elle.co.kr/article/80586</guid>
+            <pubDate>Thu, 14 Sep 2023 17:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/02ba3f2f-4cfe-4c55-b3e4-86f377daaa23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니가 셔츠를 활용하는 법! 셀럽의 오버사이즈 셔츠 스타일링 5]]></title>
+            <link>https://www.elle.co.kr/article/80579</link>
+            <guid>https://www.elle.co.kr/article/80579</guid>
+            <pubDate>Thu, 14 Sep 2023 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[지금 당장 따라하기에 딱! 배우 노윤서부터 모델 신현지 등 패션 센스 좋은 스타들의 셔츠 스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/ab841203-93b6-43a9-83ea-8d38a6c427bf.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
