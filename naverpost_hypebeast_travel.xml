@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 05:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 17:41:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국인의 평균 수면 시간은 세계 몇 위일까?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36599205&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36599205&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 18 Sep 2023 17:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MThfMTk0/MDAxNjk1MDI4MjE1ODM4.9TSv4MNgSjvMrSxOrAV8NcFFaEINEfTedVkdLCSBPBog.ONua0BjRg5qNRgaPu5jIAAj1pQPna9dKKcW9saEa5usg.JPEG/Ix9Qmpewv8td2lfyjsK21XB56_zA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 연구진이 영양분을 섭취해도 살이 찌지 않게 하는 신약을 개발했다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36518585&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjNfMjg4/MDAxNTk1NDkxNjk5MDgx.em7Dt7DWds6pCCCbRXzm4olPzFDnoV5KFZl5Z-DXHHMg.uPSaSpAxDGtSTS4jkh1T22drcO782F02d-SoBC1vnVgg.JPEG/I_i4DdVwAPy-xWZZebBuvsQeo8IY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2020년 여름, 남성을 위한 향수 6가지]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28713273&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28713273&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MDRfMTQx/MDAxNTkzODYxMzQwMzk3.mL8NjoNwnJKAo_NMdN82W9BDM7pOMZGLAXVPR7qxm40g.WrLg2eSfuyrlLraR_KSaUAC5nfPmNCx5aPFYNWdWvW4g.JPEG/IdBHoHqliBkzZdZssSPGdcdOzPcs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
