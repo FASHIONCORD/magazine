@@ -2,15 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-18T17:41:20.086Z</updated>
+    <updated>2023-09-19T05:42:37.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[키 룩을 입고 한편의 연극무대처럼]]></title>
-        <id>https://www.elle.co.kr/article/80620</id>
-        <link href="https://www.elle.co.kr/article/80620"/>
-        <updated>2023-09-18T05:40:24.427Z</updated>
-        <content type="html"><![CDATA[격렬한 춤과 격양된 몸짓으로 새롭게 표현한 뉴 시즌의 키 룩 퍼레이드.]]></content>
+        <title type="html"><![CDATA[브라렛, 이제 꺼내 입어요]]></title>
+        <id>https://www.elle.co.kr/article/80645</id>
+        <link href="https://www.elle.co.kr/article/80645"/>
+        <updated>2023-09-19T05:40:37.359Z</updated>
+        <content type="html"><![CDATA[부끄러워하지 않아도 돼.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크부터 손흥민까지! 이번 주말, 놓쳐서는 안 될 팝업 스토어]]></title>
+        <id>https://www.elle.co.kr/article/80639</id>
+        <link href="https://www.elle.co.kr/article/80639"/>
+        <updated>2023-09-19T05:40:37.365Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[때로는 앙증맞게, 톱 핸들 백]]></title>
@@ -18,6 +24,13 @@
         <link href="https://www.elle.co.kr/article/80606"/>
         <updated>2023-09-17T17:39:50.408Z</updated>
         <content type="html"><![CDATA[두 손에 꼭 들고.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키 룩을 입고 한편의 연극무대처럼]]></title>
+        <id>https://www.elle.co.kr/article/80620</id>
+        <link href="https://www.elle.co.kr/article/80620"/>
+        <updated>2023-09-18T05:40:24.427Z</updated>
+        <content type="html"><![CDATA[격렬한 춤과 격양된 몸짓으로 새롭게 표현한 뉴 시즌의 키 룩 퍼레이드.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이돌 무대 의상부터 사복패션 장인의 데일리 룩까지! 핵심 아이템은 '플랫 슈즈' #쇼핑리스트]]></title>
@@ -46,19 +59,5 @@
         <link href="https://www.elle.co.kr/article/80593"/>
         <updated>2023-09-14T17:39:57.574Z</updated>
         <content type="html"><![CDATA[블랙핑크와 한소희가 선택한 그 브랜드!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
-        <id>https://www.elle.co.kr/article/80586</id>
-        <link href="https://www.elle.co.kr/article/80586"/>
-        <updated>2023-09-14T17:39:57.580Z</updated>
-        <content type="html"><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니가 셔츠를 활용하는 법! 셀럽의 오버사이즈 셔츠 스타일링 5]]></title>
-        <id>https://www.elle.co.kr/article/80579</id>
-        <link href="https://www.elle.co.kr/article/80579"/>
-        <updated>2023-09-14T05:40:32.572Z</updated>
-        <content type="html"><![CDATA[지금 당장 따라하기에 딱! 배우 노윤서부터 모델 신현지 등 패션 센스 좋은 스타들의 셔츠 스...]]></content>
     </entry>
 </feed>
