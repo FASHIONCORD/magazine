@@ -4,9 +4,24 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 17:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 05:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넌 어느 별에서 왔니?]]></title>
+            <link>https://www.elle.co.kr/article/80375</link>
+            <guid>https://www.elle.co.kr/article/80375</guid>
+            <pubDate>Wed, 20 Sep 2023 05:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[암체어와 스탠드 그리고 꽃과 일렉트릭 오브제가 만나 새로운 생명체가 탄생했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/a3d82ccd-3450-4de6-92fb-1c75d841a963.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아니쉬 카푸어의 크레센도 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/80704</link>
+            <guid>https://www.elle.co.kr/article/80704</guid>
+            <pubDate>Wed, 20 Sep 2023 05:42:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/63348d01-febb-41fe-85bc-9203cdd5b499.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃부채를 펼친듯, 방 한켠을 화사하게 만드는 조명]]></title>
             <link>https://www.elle.co.kr/article/80610</link>
@@ -27,7 +42,6 @@
             <link>https://www.elle.co.kr/article/80591</link>
             <guid>https://www.elle.co.kr/article/80591</guid>
             <pubDate>Wed, 13 Sep 2023 05:41:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/7a31472c-7132-4eae-bb14-2788abad0b02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
@@ -35,7 +49,6 @@
             <guid>https://www.elle.co.kr/article/80586</guid>
             <pubDate>Wed, 13 Sep 2023 05:41:25 GMT</pubDate>
             <content:encoded><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/02ba3f2f-4cfe-4c55-b3e4-86f377daaa23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아트와 뷰티의 만남]]></title>
@@ -83,20 +96,6 @@
             <link>https://www.elle.co.kr/article/80398</link>
             <guid>https://www.elle.co.kr/article/80398</guid>
             <pubDate>Tue, 05 Sep 2023 05:40:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이시 우드라는 이상하고 아름다운 세계]]></title>
-            <link>https://www.elle.co.kr/article/80324</link>
-            <guid>https://www.elle.co.kr/article/80324</guid>
-            <pubDate>Thu, 31 Aug 2023 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 떠오르는 아티스트 이시 우드. 한국에서 첫 개인전을 여는 그녀에게 궁금한 몇 가지...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 내가 평생 풀고 싶은 문제]]></title>
-            <link>https://www.elle.co.kr/article/80211</link>
-            <guid>https://www.elle.co.kr/article/80211</guid>
-            <pubDate>Wed, 30 Aug 2023 05:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[실비아헬스 고명진 대표를  앞으로 나아갈 수 있게 하는 힘.]]></content:encoded>
         </item>
     </channel>
 </rss>

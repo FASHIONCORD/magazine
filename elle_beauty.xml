@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 17:48:56 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[유이가 친언니와 건강하게 바디 프로필 찍은 비결 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80615</link>
-            <guid>https://www.elle.co.kr/article/80615</guid>
-            <pubDate>Mon, 18 Sep 2023 05:40:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/e346d8a1-b325-41c9-92ed-d11b1ca7d927.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손예진의 건강미 비결, 10년 넘게 하고 있는 TRX! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80601</link>
-            <guid>https://www.elle.co.kr/article/80601</guid>
-            <pubDate>Sun, 17 Sep 2023 05:40:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/4d5a1490-9dc2-4f3c-96b9-2aad3a315b0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뒤돌아보게 만드는 향기로운 샴푸.zip_선배’s 어드바이스 #184]]></title>
-            <link>https://www.elle.co.kr/article/80521</link>
-            <guid>https://www.elle.co.kr/article/80521</guid>
-            <pubDate>Sat, 16 Sep 2023 05:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[향수가 아니라 샴푸라고? 가을바람을 타고 은은하게 퍼지는 샴푸향!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/edfa906b-107b-4a70-af8b-10336ffb5354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 당장 셀피 각! 전효성의 러블리 메이크업 튜토리얼]]></title>
-            <link>https://www.elle.co.kr/article/80517</link>
-            <guid>https://www.elle.co.kr/article/80517</guid>
-            <pubDate>Fri, 15 Sep 2023 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 &lt;셀러브리티&gt;의 인플루언서 오민혜 역을 맡은 전효성! 인플루언서가 되고 싶다면 그의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/a3d3a5b4-c790-49c9-9bf7-91ad27f4bf12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양볼은 탱탱하게, 턱선은 날렵하게]]></title>
-            <link>https://www.elle.co.kr/article/80490</link>
-            <guid>https://www.elle.co.kr/article/80490</guid>
-            <pubDate>Fri, 15 Sep 2023 17:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[시간과 중력을 거슬러 양볼은 좀 더 탱탱하게, 턱 라인은 좀더 날렵하게 만들어 줄 탄력 업(U...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/56cdedf2-1638-4e3c-8272-86e74daa94cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비누 비누, 예쁜 비누]]></title>
-            <link>https://www.elle.co.kr/article/80445</link>
-            <guid>https://www.elle.co.kr/article/80445</guid>
-            <pubDate>Thu, 14 Sep 2023 17:40:07 GMT</pubDate>
-            <content:encoded><![CDATA['세정'이라는 본래의 용도를 차치하고 새로운 시선으로 응시한 비누. 일상 속 아름다움을 고양하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/29320c40-a4f4-407a-8928-cc2fcd2f05ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이 러브 마이 바디' 화사, 건강한 체형 위해 절대 하지 않는 것 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80463</link>
-            <guid>https://www.elle.co.kr/article/80463</guid>
-            <pubDate>Wed, 13 Sep 2023 17:40:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/4194c7f3-16a0-4446-a9ab-817e38b9c30e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80447</link>
-            <guid>https://www.elle.co.kr/article/80447</guid>
-            <pubDate>Mon, 11 Sep 2023 05:40:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/54b768e1-7d75-4118-b6e1-a0bdc84116f6.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/beauty</id>
+    <title>엘르 코리아 ─ 뷰티</title>
+    <updated>2023-09-20T05:42:31.470Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유이가 친언니와 건강하게 바디 프로필 찍은 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80615</id>
+        <link href="https://www.elle.co.kr/article/80615"/>
+        <updated>2023-09-18T05:40:32.917Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손예진의 건강미 비결, 10년 넘게 하고 있는 TRX! #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80601</id>
+        <link href="https://www.elle.co.kr/article/80601"/>
+        <updated>2023-09-17T05:40:48.147Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뒤돌아보게 만드는 향기로운 샴푸.zip_선배’s 어드바이스 #184]]></title>
+        <id>https://www.elle.co.kr/article/80521</id>
+        <link href="https://www.elle.co.kr/article/80521"/>
+        <updated>2023-09-16T05:40:12.026Z</updated>
+        <content type="html"><![CDATA[향수가 아니라 샴푸라고? 가을바람을 타고 은은하게 퍼지는 샴푸향!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금 당장 셀피 각! 전효성의 러블리 메이크업 튜토리얼]]></title>
+        <id>https://www.elle.co.kr/article/80517</id>
+        <link href="https://www.elle.co.kr/article/80517"/>
+        <updated>2023-09-15T17:40:54.409Z</updated>
+        <content type="html"><![CDATA[넷플릭스 &lt;셀러브리티&gt;의 인플루언서 오민혜 역을 맡은 전효성! 인플루언서가 되고 싶다면 그의 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양볼은 탱탱하게, 턱선은 날렵하게]]></title>
+        <id>https://www.elle.co.kr/article/80490</id>
+        <link href="https://www.elle.co.kr/article/80490"/>
+        <updated>2023-09-15T17:40:54.413Z</updated>
+        <content type="html"><![CDATA[시간과 중력을 거슬러 양볼은 좀 더 탱탱하게, 턱 라인은 좀더 날렵하게 만들어 줄 탄력 업(U...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비누 비누, 예쁜 비누]]></title>
+        <id>https://www.elle.co.kr/article/80445</id>
+        <link href="https://www.elle.co.kr/article/80445"/>
+        <updated>2023-09-14T17:40:07.078Z</updated>
+        <content type="html"><![CDATA['세정'이라는 본래의 용도를 차치하고 새로운 시선으로 응시한 비누. 일상 속 아름다움을 고양하...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아이 러브 마이 바디' 화사, 건강한 체형 위해 절대 하지 않는 것 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80463</id>
+        <link href="https://www.elle.co.kr/article/80463"/>
+        <updated>2023-09-13T17:40:08.335Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장영란이 단 10일 만에 4.4kg 감량한 진짜 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/80447</id>
+        <link href="https://www.elle.co.kr/article/80447"/>
+        <updated>2023-09-11T05:40:20.019Z</updated>
+    </entry>
+</feed>

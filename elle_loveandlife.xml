@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-09-19T17:48:56.571Z</updated>
+    <updated>2023-09-20T05:42:31.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-디저트 인정? 마카롱-송편-맡김차림 버전 이색 탕후루 맛집 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/80630</id>
+        <link href="https://www.elle.co.kr/article/80630"/>
+        <updated>2023-09-20T05:42:18.309Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차원이 다른 커피 맛을 느끼고 싶다면 이곳으로! ‘커피 러버’ 취향 저격할 카페 3]]></title>
+        <id>https://www.elle.co.kr/article/80622</id>
+        <link href="https://www.elle.co.kr/article/80622"/>
+        <updated>2023-09-20T05:42:18.312Z</updated>
+        <content type="html"><![CDATA[스타의 SNS 속 카페는 어디? 기은세, 김슬기, 강초원이 다녀간 나만 알고 싶은 커피 맛집을 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클럽으로 변신한 피팅룸? 서울에 새롭게 문을 연 패션 스토어 3]]></title>
         <id>https://www.elle.co.kr/article/80593</id>
@@ -43,18 +56,5 @@
         <link href="https://www.elle.co.kr/article/80489"/>
         <updated>2023-09-13T17:41:22.675Z</updated>
         <content type="html"><![CDATA[아기자기 내가 좋아하는 것을 모으고 모아 간직하는 사랑스러운 소녀들의 방.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스모스 꽃길, 산책 할까 라이딩 할까? 선선한 가을맞이 꽃축제 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/80499</id>
-        <link href="https://www.elle.co.kr/article/80499"/>
-        <updated>2023-09-13T05:42:05.339Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나만 알고 싶은 도쿄의 라이프 스타일 숍 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/80487</id>
-        <link href="https://www.elle.co.kr/article/80487"/>
-        <updated>2023-09-12T17:42:19.003Z</updated>
-        <content type="html"><![CDATA[포근한 블랭킷이 생각나는 바야흐로 가을입니다. 새로운 계절을 맞아 내 공간을 재정비하고 싶다...]]></content>
     </entry>
 </feed>
