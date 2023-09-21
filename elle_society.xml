@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 소사이어티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 17:40:47 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[엘르보이스] 나의 사랑스러운 털뭉치]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/80423</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/80423</guid>
-            <pubDate>Thu, 14 Sep 2023 05:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[정지음 작가에게는 사랑스러운 털뭉치가 있다. 출근하기 직전에는 앉혀놓고 타이르는 것도 잊지 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/e41bcc3f-3410-4088-a152-fe76a5d61fa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 추석은 6일 연휴! 10월 2일 임시 공휴일 확정 (ft. 미리 연차 쓴 사람)]]></title>
-            <link>https://www.elle.co.kr/article/80316</link>
-            <guid>https://www.elle.co.kr/article/80316</guid>
-            <pubDate>Mon, 11 Sep 2023 05:41:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c769d156-9539-4854-8c2a-4bdee90e2095.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평생 빚만 갚다 죽는다? 50년 만기대출, 받아도 되는 걸까_돈쓸신잡 #113]]></title>
-            <link>https://www.elle.co.kr/article/80307</link>
-            <guid>https://www.elle.co.kr/article/80307</guid>
-            <pubDate>Fri, 08 Sep 2023 17:43:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/e7f71002-c568-4f82-8e05-374917934419.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["베지테리언 아닌 플렉시테리언" 고백한 전효성, 완벽하지 않아도 괜찮아]]></title>
-            <link>https://www.elle.co.kr/article/80305</link>
-            <guid>https://www.elle.co.kr/article/80305</guid>
-            <pubDate>Fri, 08 Sep 2023 05:41:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c386e86a-a17c-4dad-90e7-f0996ed8f48f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번에 놓치면 14년 기다려야 하는 슈퍼문+블루문! 소원 빌 수 있는 시간은?]]></title>
-            <link>https://www.elle.co.kr/article/80290</link>
-            <guid>https://www.elle.co.kr/article/80290</guid>
-            <pubDate>Thu, 07 Sep 2023 17:42:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/dfc08f81-04ff-485d-99d1-d0ca0803e920.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 내가 평생 풀고 싶은 문제]]></title>
-            <link>https://www.elle.co.kr/article/80211</link>
-            <guid>https://www.elle.co.kr/article/80211</guid>
-            <pubDate>Wed, 06 Sep 2023 05:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[실비아헬스 고명진 대표를  앞으로 나아갈 수 있게 하는 힘.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/bcda6fb6-87ae-47c7-bff6-c0dba889830d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숏폼 중독인 당신에게 전하는 탈주 후기]]></title>
-            <link>https://www.elle.co.kr/article/80001</link>
-            <guid>https://www.elle.co.kr/article/80001</guid>
-            <pubDate>Thu, 31 Aug 2023 05:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[할 일은 태산인데•••. 멍하니 쇼츠와 릴스만 보며 죄책감을 쌓던 두 에디터는 결심했다. 딱 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/aa5f156b-a778-408a-820b-89f5fecbf330.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음 편하게 투자할 수 있는 주식이 있다?_돈쓸신잡 #112]]></title>
-            <link>https://www.elle.co.kr/article/80125</link>
-            <guid>https://www.elle.co.kr/article/80125</guid>
-            <pubDate>Thu, 31 Aug 2023 05:40:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/ad087258-6db8-4c19-a7be-425a3f4f4095.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/society</id>
+    <title>엘르 코리아 ─ 소사이어티</title>
+    <updated>2023-09-21T05:42:00.767Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 나의 사랑스러운 털뭉치]]></title>
+        <id>https://www.elle.co.kr/ellevoice/essay/80423</id>
+        <link href="https://www.elle.co.kr/ellevoice/essay/80423"/>
+        <updated>2023-09-14T05:42:05.276Z</updated>
+        <content type="html"><![CDATA[정지음 작가에게는 사랑스러운 털뭉치가 있다. 출근하기 직전에는 앉혀놓고 타이르는 것도 잊지 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번 추석은 6일 연휴! 10월 2일 임시 공휴일 확정 (ft. 미리 연차 쓴 사람)]]></title>
+        <id>https://www.elle.co.kr/article/80316</id>
+        <link href="https://www.elle.co.kr/article/80316"/>
+        <updated>2023-09-11T05:41:28.225Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평생 빚만 갚다 죽는다? 50년 만기대출, 받아도 되는 걸까_돈쓸신잡 #113]]></title>
+        <id>https://www.elle.co.kr/article/80307</id>
+        <link href="https://www.elle.co.kr/article/80307"/>
+        <updated>2023-09-08T17:43:06.720Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["베지테리언 아닌 플렉시테리언" 고백한 전효성, 완벽하지 않아도 괜찮아]]></title>
+        <id>https://www.elle.co.kr/article/80305</id>
+        <link href="https://www.elle.co.kr/article/80305"/>
+        <updated>2023-09-08T05:41:46.888Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번에 놓치면 14년 기다려야 하는 슈퍼문+블루문! 소원 빌 수 있는 시간은?]]></title>
+        <id>https://www.elle.co.kr/article/80290</id>
+        <link href="https://www.elle.co.kr/article/80290"/>
+        <updated>2023-09-07T17:42:38.026Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 내가 평생 풀고 싶은 문제]]></title>
+        <id>https://www.elle.co.kr/article/80211</id>
+        <link href="https://www.elle.co.kr/article/80211"/>
+        <updated>2023-09-06T05:41:02.425Z</updated>
+        <content type="html"><![CDATA[실비아헬스 고명진 대표를  앞으로 나아갈 수 있게 하는 힘.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숏폼 중독인 당신에게 전하는 탈주 후기]]></title>
+        <id>https://www.elle.co.kr/article/80001</id>
+        <link href="https://www.elle.co.kr/article/80001"/>
+        <updated>2023-08-31T05:40:58.044Z</updated>
+        <content type="html"><![CDATA[할 일은 태산인데•••. 멍하니 쇼츠와 릴스만 보며 죄책감을 쌓던 두 에디터는 결심했다. 딱 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음 편하게 투자할 수 있는 주식이 있다?_돈쓸신잡 #112]]></title>
+        <id>https://www.elle.co.kr/article/80125</id>
+        <link href="https://www.elle.co.kr/article/80125"/>
+        <updated>2023-08-31T05:40:58.047Z</updated>
+    </entry>
+</feed>
