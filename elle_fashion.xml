@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 05:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 17:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥타이 전성시대]]></title>
+            <link>https://www.elle.co.kr/article/80713</link>
+            <guid>https://www.elle.co.kr/article/80713</guid>
+            <pubDate>Thu, 21 Sep 2023 17:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[편견을 깨고 강렬한 액세서리로 급부상한 넥타이의 전성시대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/637f7bb8-f970-4f0d-aa56-fe812d0554e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영의 가을 백 스타일링 TIP]]></title>
             <link>https://www.elle.co.kr/article/80684</link>
@@ -61,14 +69,6 @@
             <guid>https://www.elle.co.kr/article/80639</guid>
             <pubDate>Tue, 19 Sep 2023 05:40:37 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/5d9b0b6b-59d5-456d-a85c-8919cb31a84e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[때로는 앙증맞게, 톱 핸들 백]]></title>
-            <link>https://www.elle.co.kr/article/80606</link>
-            <guid>https://www.elle.co.kr/article/80606</guid>
-            <pubDate>Sun, 17 Sep 2023 17:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[두 손에 꼭 들고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/13650348-b96d-42b1-9029-58c30017b30f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

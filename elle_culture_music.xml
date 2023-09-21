@@ -1,89 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/music</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2023-09-21T05:42:00.694Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[BTS 뷔-정국, 원곡 부른 이영지에 펭수까지 나선 '스모크' 챌린지 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/80688</id>
-        <link href="https://www.elle.co.kr/article/80688"/>
-        <updated>2023-09-19T05:41:24.880Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[360도 무대 확정! 호남평야 아니면 수용 못하는 임영웅 콘서트 예매 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/80608</id>
-        <link href="https://www.elle.co.kr/article/80608"/>
-        <updated>2023-09-14T05:41:19.800Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
-        <id>https://www.elle.co.kr/article/80420</id>
-        <link href="https://www.elle.co.kr/article/80420"/>
-        <updated>2023-09-05T17:41:27.607Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
-        <id>https://www.elle.co.kr/article/79835</id>
-        <link href="https://www.elle.co.kr/article/79835"/>
-        <updated>2023-08-11T17:41:24.268Z</updated>
-        <content type="html"><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노엘 갤러거, 11월 내한 확정! 한국 팬들에게 던진 그 다운 한마디 (ft. South)]]></title>
-        <id>https://www.elle.co.kr/article/79576</id>
-        <link href="https://www.elle.co.kr/article/79576"/>
-        <updated>2023-07-29T17:41:09.715Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/79434</id>
-        <link href="https://www.elle.co.kr/article/79434"/>
-        <updated>2023-07-25T17:41:32.406Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유]]></title>
-        <id>https://www.elle.co.kr/article/79325</id>
-        <link href="https://www.elle.co.kr/article/79325"/>
-        <updated>2023-07-20T17:41:19.879Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
-        <id>https://www.elle.co.kr/article/79147</id>
-        <link href="https://www.elle.co.kr/article/79147"/>
-        <updated>2023-07-13T17:41:11.207Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 정국, 솔로 활동 앞두고 3년 전 자작곡 역주행한 이유는?]]></title>
-        <id>https://www.elle.co.kr/article/78933</id>
-        <link href="https://www.elle.co.kr/article/78933"/>
-        <updated>2023-07-05T17:41:51.392Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토)]]></title>
-        <id>https://www.elle.co.kr/article/78808</id>
-        <link href="https://www.elle.co.kr/article/78808"/>
-        <updated>2023-06-30T05:41:31.757Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연기-연예-가요대상급 관객석! 브루노 마스 내한 콘서트 관람 포착된 셀럽은?]]></title>
-        <id>https://www.elle.co.kr/article/78463</id>
-        <link href="https://www.elle.co.kr/article/78463"/>
-        <updated>2023-06-19T17:40:31.597Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
-        <id>https://www.elle.co.kr/article/78460</id>
-        <link href="https://www.elle.co.kr/article/78460"/>
-        <updated>2023-06-19T17:40:31.598Z</updated>
-        <content type="html"><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 시티포레스티벌 2023의 기분 좋은 바이브]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션과 음악의 유기적 모멘트]]></title>
-        <id>https://www.elle.co.kr/article/78250</id>
-        <link href="https://www.elle.co.kr/article/78250"/>
-        <updated>2023-06-18T17:40:49.653Z</updated>
-        <content type="html"><![CDATA[런웨이와 무대 위에서 펼쳐지는 패션과 음악의 상관관계.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 21 Sep 2023 17:42:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 전원 하이브와 두 번째 재계약! 완전체 볼 수 있는 시기는? (ft. 군 복무 스케줄)]]></title>
+            <link>https://www.elle.co.kr/article/80757</link>
+            <guid>https://www.elle.co.kr/article/80757</guid>
+            <pubDate>Thu, 21 Sep 2023 17:41:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/ebc6920a-6725-49c9-9f29-516ae3efec1e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 뷔-정국, 원곡 부른 이영지에 펭수까지 나선 '스모크' 챌린지 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/80688</link>
+            <guid>https://www.elle.co.kr/article/80688</guid>
+            <pubDate>Tue, 19 Sep 2023 05:41:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/88052baf-8d7f-41a8-b83a-d85fd5e392a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[360도 무대 확정! 호남평야 아니면 수용 못하는 임영웅 콘서트 예매 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/80608</link>
+            <guid>https://www.elle.co.kr/article/80608</guid>
+            <pubDate>Thu, 14 Sep 2023 05:41:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/47299bc7-8299-496f-a0d8-fc43f282c9e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
+            <link>https://www.elle.co.kr/article/80420</link>
+            <guid>https://www.elle.co.kr/article/80420</guid>
+            <pubDate>Tue, 05 Sep 2023 17:41:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/e348adb1-c13e-40cc-abbb-0842e21ca19b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삐빅, 엘엘 쿨 제이입니다! 뉴욕 메트로 카드에 등장한 전설의 힙합 뮤지션?]]></title>
+            <link>https://www.elle.co.kr/article/79835</link>
+            <guid>https://www.elle.co.kr/article/79835</guid>
+            <pubDate>Fri, 11 Aug 2023 17:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[힙합 50주년을 기념한 뉴욕 지하철의 특별한 메트로 카드.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[노엘 갤러거, 11월 내한 확정! 한국 팬들에게 던진 그 다운 한마디 (ft. South)]]></title>
+            <link>https://www.elle.co.kr/article/79576</link>
+            <guid>https://www.elle.co.kr/article/79576</guid>
+            <pubDate>Sat, 29 Jul 2023 17:41:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[올여름 무더위와 스트레스 해소는 이곳에서? 8월 뮤직 페스티벌 추천 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/79434</link>
+            <guid>https://www.elle.co.kr/article/79434</guid>
+            <pubDate>Tue, 25 Jul 2023 17:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[양조위가 뉴진스 '쿨 위드 유' 뮤직비디오에 노 개런티 출연한 이유]]></title>
+            <link>https://www.elle.co.kr/article/79325</link>
+            <guid>https://www.elle.co.kr/article/79325</guid>
+            <pubDate>Thu, 20 Jul 2023 17:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
+            <link>https://www.elle.co.kr/article/79147</link>
+            <guid>https://www.elle.co.kr/article/79147</guid>
+            <pubDate>Thu, 13 Jul 2023 17:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BTS 정국, 솔로 활동 앞두고 3년 전 자작곡 역주행한 이유는?]]></title>
+            <link>https://www.elle.co.kr/article/78933</link>
+            <guid>https://www.elle.co.kr/article/78933</guid>
+            <pubDate>Wed, 05 Jul 2023 17:41:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토)]]></title>
+            <link>https://www.elle.co.kr/article/78808</link>
+            <guid>https://www.elle.co.kr/article/78808</guid>
+            <pubDate>Fri, 30 Jun 2023 05:41:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[연기-연예-가요대상급 관객석! 브루노 마스 내한 콘서트 관람 포착된 셀럽은?]]></title>
+            <link>https://www.elle.co.kr/article/78463</link>
+            <guid>https://www.elle.co.kr/article/78463</guid>
+            <pubDate>Mon, 19 Jun 2023 17:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[텐션 업! 에너지 업! 시티포레스티벌 2023 비하인드]]></title>
+            <link>https://www.elle.co.kr/article/78460</link>
+            <guid>https://www.elle.co.kr/article/78460</guid>
+            <pubDate>Mon, 19 Jun 2023 17:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[하루 종일 운동을 즐기며 에너지를 업시킬 수 있는 시티포레스티벌 2023의 기분 좋은 바이브]]></content:encoded>
+        </item>
+    </channel>
+</rss>
