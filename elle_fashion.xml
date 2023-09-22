@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 17:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 05:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다리에서 펼쳐진 패션쇼]]></title>
+            <link>https://www.elle.co.kr/article/80710</link>
+            <guid>https://www.elle.co.kr/article/80710</guid>
+            <pubDate>Fri, 22 Sep 2023 05:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[시공간을 잇는 '다리'에서 펼쳐진 패션 서사.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/78d17ea2-741e-4bea-9c8a-e140698ead03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥타이 전성시대]]></title>
             <link>https://www.elle.co.kr/article/80713</link>
@@ -62,13 +70,6 @@
             <pubDate>Tue, 19 Sep 2023 05:40:37 GMT</pubDate>
             <content:encoded><![CDATA[부끄러워하지 않아도 돼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/16/7e400ecc-3fa8-4f11-9dc9-07b02019da9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크부터 손흥민까지! 이번 주말, 놓쳐서는 안 될 팝업 스토어]]></title>
-            <link>https://www.elle.co.kr/article/80639</link>
-            <guid>https://www.elle.co.kr/article/80639</guid>
-            <pubDate>Tue, 19 Sep 2023 05:40:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/5d9b0b6b-59d5-456d-a85c-8919cb31a84e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
