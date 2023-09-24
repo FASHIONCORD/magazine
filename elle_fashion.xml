@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-09-24T05:43:07.691Z</updated>
+    <updated>2023-09-24T17:40:48.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타들의 #오운완 인증샷 속 트레이닝룩 엿보기]]></title>
+        <id>https://www.elle.co.kr/article/80834</id>
+        <link href="https://www.elle.co.kr/article/80834"/>
+        <updated>2023-09-24T17:39:43.162Z</updated>
+        <content type="html"><![CDATA[오늘 운동 완료했다면 인증 사진은 필수! 스타들의 거울 셀카 속 운동하고 싶게 만드는 쿨한 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손목 위, 가장 우아한 시간]]></title>
         <id>https://www.elle.co.kr/article/80802</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/80744"/>
         <updated>2023-09-22T17:40:12.774Z</updated>
         <content type="html"><![CDATA[디자이너 하이더 아커만의 협업 론칭 파티에 참석한 셀럽의 OOTD.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타일리시한 액세서리로 자리매김한 이것! 안경 쓴 스타들 5]]></title>
-        <id>https://www.elle.co.kr/article/80714</id>
-        <link href="https://www.elle.co.kr/article/80714"/>
-        <updated>2023-09-22T17:40:12.774Z</updated>
-        <content type="html"><![CDATA[‘레트로’라는 트렌드 아래 각기 다른 안경을 선택한 다섯 명의 스타들을 소개합니다.]]></content>
     </entry>
 </feed>

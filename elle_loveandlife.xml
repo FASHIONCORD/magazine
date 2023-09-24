@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-09-24T05:43:07.695Z</updated>
+    <updated>2023-09-24T17:40:48.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[늘 마시는 라떼 말고! 무궁무진한 라떼의 세계 #마실마실]]></title>
+        <id>https://www.elle.co.kr/article/80807</id>
+        <link href="https://www.elle.co.kr/article/80807"/>
+        <updated>2023-09-24T17:40:38.969Z</updated>
+        <content type="html"><![CDATA[우유를 베이스로 하는 음료 ‘라떼’의 논커피 메뉴를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신상 와인바부터 홍콩 느낌 물씬나는 중식당까지! 안소희의 먹킷리스트 3]]></title>
         <id>https://www.elle.co.kr/article/80783</id>
@@ -48,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/80634"/>
         <updated>2023-09-21T17:42:03.315Z</updated>
         <content type="html"><![CDATA[미식의 도시 도쿄에서 한 끼라도 대충 넘기긴 싫잖아요? 말랑말랑 감성 충만한 곳에서 예쁜 아...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-디저트 인정? 마카롱-송편-맡김차림 버전 이색 탕후루 맛집 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/80630</id>
-        <link href="https://www.elle.co.kr/article/80630"/>
-        <updated>2023-09-20T05:42:18.309Z</updated>
     </entry>
 </feed>

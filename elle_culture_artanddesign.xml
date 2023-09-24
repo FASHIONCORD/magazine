@@ -1,102 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 05:43:07 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[도자 작가 이나영과 색색의 사물들]]></title>
-            <link>https://www.elle.co.kr/article/80811</link>
-            <guid>https://www.elle.co.kr/article/80811</guid>
-            <pubDate>Sat, 23 Sep 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[손으로 지어 올린 대체불가능한 아름다움.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/1e8b8d84-21d0-46cc-b4e6-f3d9b2645618.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안도 타다오가 반세기 동안 증명해 온 것들 #디아이콘즈]]></title>
-            <link>https://www.elle.co.kr/article/80820</link>
-            <guid>https://www.elle.co.kr/article/80820</guid>
-            <pubDate>Sat, 23 Sep 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[순도 높은 콘크리트와 기하학만으로 안도 타다오의 건축을 설명할 수는 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/723872c5-7481-436d-9ee7-c53ec123fe0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시끌벅적 '아톰 부츠'의 주인공, 미스치프가 대림미술관에 상륙한다?]]></title>
-            <link>https://www.elle.co.kr/article/80837</link>
-            <guid>https://www.elle.co.kr/article/80837</guid>
-            <pubDate>Sat, 23 Sep 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/23/46774050-cbd9-4afb-8f3f-b1725bd94270.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조르디 반 덴 뉴벤디크의 아트워크를 입은 알로소]]></title>
-            <link>https://www.elle.co.kr/article/80819</link>
-            <guid>https://www.elle.co.kr/article/80819</guid>
-            <pubDate>Fri, 22 Sep 2023 17:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[먹고 쉬고 사랑하라! 색색의 일상이 다채롭게 오버랩되는 알로소의 소파와 아티스트 조르디 반 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/23/4fdbc11f-4aff-4d55-b520-28626859f683.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데코 픽! 영감을 채워줄 신상 건축 & 디자인 이슈]]></title>
-            <link>https://www.elle.co.kr/article/80760</link>
-            <guid>https://www.elle.co.kr/article/80760</guid>
-            <pubDate>Thu, 21 Sep 2023 17:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[일상에 새로운 영감이 필요하다면 주목! 세계 곳곳에서 발견한 예술적인 공간들.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고양이를 위해 복층으로 이사 가다! ‘집에가야돼’ 대표 부부의 랜선 집들이 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/80777</link>
-            <guid>https://www.elle.co.kr/article/80777</guid>
-            <pubDate>Thu, 21 Sep 2023 17:41:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[프렌치 럭셔리의 아이콘, 디자이너 피에르 요바노비치 #디아이콘즈]]></title>
-            <link>https://www.elle.co.kr/article/80740</link>
-            <guid>https://www.elle.co.kr/article/80740</guid>
-            <pubDate>Wed, 20 Sep 2023 17:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[공간의 볼륨과 비율에 대한 완벽한 이해. 유서 깊은 공간에 새 숨을 불어넣는 레너베이션에서 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[넌 어느 별에서 왔니?]]></title>
-            <link>https://www.elle.co.kr/article/80375</link>
-            <guid>https://www.elle.co.kr/article/80375</guid>
-            <pubDate>Wed, 20 Sep 2023 05:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[암체어와 스탠드 그리고 꽃과 일렉트릭 오브제가 만나 새로운 생명체가 탄생했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아니쉬 카푸어의 크레센도 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/80704</link>
-            <guid>https://www.elle.co.kr/article/80704</guid>
-            <pubDate>Wed, 20 Sep 2023 05:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[꽃부채를 펼친듯, 방 한켠을 화사하게 만드는 조명]]></title>
-            <link>https://www.elle.co.kr/article/80610</link>
-            <guid>https://www.elle.co.kr/article/80610</guid>
-            <pubDate>Fri, 15 Sep 2023 05:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 디자이너 잉가 상페와 리버티 런던의 컬래버레이션]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[진짜 미술 애호가, RM 덕에 만개하는 조선 왕실 최고급 예복 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/80592</link>
-            <guid>https://www.elle.co.kr/article/80592</guid>
-            <pubDate>Wed, 13 Sep 2023 17:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[밴쿠버에서 영화 CG 작업을 하는 프로 재택러 미르의 랜선 집들이 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/80591</link>
-            <guid>https://www.elle.co.kr/article/80591</guid>
-            <pubDate>Wed, 13 Sep 2023 05:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[연예인이 더 즐겼다? 프리즈 2023]]></title>
-            <link>https://www.elle.co.kr/article/80586</link>
-            <guid>https://www.elle.co.kr/article/80586</guid>
-            <pubDate>Wed, 13 Sep 2023 05:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[RM, 태양, 엄정화, 고경표, 이청아, 최지우, 이혜영 뭘 입고 어디에 갔어요?]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/artanddesign</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
+    <updated>2023-09-24T17:40:48.093Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쓰리데이즈오브디자인에서 만난 뱅앤올룹슨]]></title>
+        <id>https://www.elle.co.kr/article/80821</id>
+        <link href="https://www.elle.co.kr/article/80821"/>
+        <updated>2023-09-24T17:40:31.135Z</updated>
+        <content type="html"><![CDATA[장인의 손끝에서 탄생해 디자인이 감싸 안은 사운드.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안도 타다오가 반세기 동안 증명해 온 것들 #디아이콘즈]]></title>
+        <id>https://www.elle.co.kr/article/80820</id>
+        <link href="https://www.elle.co.kr/article/80820"/>
+        <updated>2023-09-23T17:41:29.238Z</updated>
+        <content type="html"><![CDATA[순도 높은 콘크리트와 기하학만으로 안도 타다오의 건축을 설명할 수는 없다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도자 작가 이나영과 색색의 사물들]]></title>
+        <id>https://www.elle.co.kr/article/80811</id>
+        <link href="https://www.elle.co.kr/article/80811"/>
+        <updated>2023-09-23T17:41:29.235Z</updated>
+        <content type="html"><![CDATA[손으로 지어 올린 대체불가능한 아름다움.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시끌벅적 '아톰 부츠'의 주인공, 미스치프가 대림미술관에 상륙한다?]]></title>
+        <id>https://www.elle.co.kr/article/80837</id>
+        <link href="https://www.elle.co.kr/article/80837"/>
+        <updated>2023-09-23T17:41:29.242Z</updated>
+        <content type="html"><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조르디 반 덴 뉴벤디크의 아트워크를 입은 알로소]]></title>
+        <id>https://www.elle.co.kr/article/80819</id>
+        <link href="https://www.elle.co.kr/article/80819"/>
+        <updated>2023-09-22T17:41:34.228Z</updated>
+        <content type="html"><![CDATA[먹고 쉬고 사랑하라! 색색의 일상이 다채롭게 오버랩되는 알로소의 소파와 아티스트 조르디 반 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데코 픽! 영감을 채워줄 신상 건축 & 디자인 이슈]]></title>
+        <id>https://www.elle.co.kr/article/80760</id>
+        <link href="https://www.elle.co.kr/article/80760"/>
+        <updated>2023-09-21T17:41:44.969Z</updated>
+        <content type="html"><![CDATA[일상에 새로운 영감이 필요하다면 주목! 세계 곳곳에서 발견한 예술적인 공간들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고양이를 위해 복층으로 이사 가다! ‘집에가야돼’ 대표 부부의 랜선 집들이 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/80777</id>
+        <link href="https://www.elle.co.kr/article/80777"/>
+        <updated>2023-09-21T17:41:44.976Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프렌치 럭셔리의 아이콘, 디자이너 피에르 요바노비치 #디아이콘즈]]></title>
+        <id>https://www.elle.co.kr/article/80740</id>
+        <link href="https://www.elle.co.kr/article/80740"/>
+        <updated>2023-09-20T17:40:30.497Z</updated>
+        <content type="html"><![CDATA[공간의 볼륨과 비율에 대한 완벽한 이해. 유서 깊은 공간에 새 숨을 불어넣는 레너베이션에서 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넌 어느 별에서 왔니?]]></title>
+        <id>https://www.elle.co.kr/article/80375</id>
+        <link href="https://www.elle.co.kr/article/80375"/>
+        <updated>2023-09-20T05:42:00.374Z</updated>
+        <content type="html"><![CDATA[암체어와 스탠드 그리고 꽃과 일렉트릭 오브제가 만나 새로운 생명체가 탄생했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아니쉬 카푸어의 크레센도 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/80704</id>
+        <link href="https://www.elle.co.kr/article/80704"/>
+        <updated>2023-09-20T05:42:00.374Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽃부채를 펼친듯, 방 한켠을 화사하게 만드는 조명]]></title>
+        <id>https://www.elle.co.kr/article/80610</id>
+        <link href="https://www.elle.co.kr/article/80610"/>
+        <updated>2023-09-15T05:41:25.586Z</updated>
+        <content type="html"><![CDATA[프랑스 디자이너 잉가 상페와 리버티 런던의 컬래버레이션]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진짜 미술 애호가, RM 덕에 만개하는 조선 왕실 최고급 예복 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/80592</id>
+        <link href="https://www.elle.co.kr/article/80592"/>
+        <updated>2023-09-13T17:41:13.380Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밴쿠버에서 영화 CG 작업을 하는 프로 재택러 미르의 랜선 집들이 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/80591</id>
+        <link href="https://www.elle.co.kr/article/80591"/>
+        <updated>2023-09-13T05:41:25.370Z</updated>
+    </entry>
+</feed>
