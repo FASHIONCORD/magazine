@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 05:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 17:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행지부터 일상까지! 스타들의 사복 패션에 등장한 백팩 스타일 6]]></title>
+            <link>https://www.elle.co.kr/article/80843</link>
+            <guid>https://www.elle.co.kr/article/80843</guid>
+            <pubDate>Mon, 25 Sep 2023 17:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[실용적인데 예쁘기까지 해! 느낌 있는 캐주얼 백팩의 매력에 빠져 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/97ccaefa-ee09-4751-aa12-46e914587094.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금은 펑크 시대]]></title>
+            <link>https://www.elle.co.kr/article/80828</link>
+            <guid>https://www.elle.co.kr/article/80828</guid>
+            <pubDate>Mon, 25 Sep 2023 17:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[네오펑크가 왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/1d3e722d-e8ae-48ff-a2f2-cd47bac668de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어그 부츠의 발칙한 일탈]]></title>
             <link>https://www.elle.co.kr/article/80839</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 23 Sep 2023 17:40:15 GMT</pubDate>
             <content:encoded><![CDATA[강렬하고 우아하다. ‘팬더 드 까르띠에’가 발산하는 매혹적인 아우라.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/d188b9c5-ceae-4807-b8c6-dacc7c86e6d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀의 모든 순간]]></title>
-            <link>https://www.elle.co.kr/article/80044</link>
-            <guid>https://www.elle.co.kr/article/80044</guid>
-            <pubDate>Sat, 23 Sep 2023 17:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[낮과 밤을 아름답게 물들이는 세르지오 로시 2023 F/W 컬렉션과 스타일링 팁.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/e4647b5e-7c7d-4527-b6fa-e855d238f370.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체인 액세서리 하나로 힙해지기!]]></title>
-            <link>https://www.elle.co.kr/article/80775</link>
-            <guid>https://www.elle.co.kr/article/80775</guid>
-            <pubDate>Sat, 23 Sep 2023 05:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[천의 얼굴 체인 아이템 모아보기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/10c4a739-ebfc-4a46-a7b0-303ad989a2fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

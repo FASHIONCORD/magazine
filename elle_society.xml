@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 05:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 17:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그래도 내 집이 있었으면 좋겠다_돈쓸신잡 #114]]></title>
+            <link>https://www.elle.co.kr/article/80474</link>
+            <guid>https://www.elle.co.kr/article/80474</guid>
+            <pubDate>Mon, 25 Sep 2023 17:42:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/351c45c9-5085-4a2d-8b26-e17c252dbf1d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 시작은 사랑]]></title>
             <link>https://www.elle.co.kr/ellevoice/essay/80442</link>
@@ -58,14 +65,6 @@
             <pubDate>Wed, 06 Sep 2023 05:41:02 GMT</pubDate>
             <content:encoded><![CDATA[실비아헬스 고명진 대표를  앞으로 나아갈 수 있게 하는 힘.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/bcda6fb6-87ae-47c7-bff6-c0dba889830d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숏폼 중독인 당신에게 전하는 탈주 후기]]></title>
-            <link>https://www.elle.co.kr/article/80001</link>
-            <guid>https://www.elle.co.kr/article/80001</guid>
-            <pubDate>Thu, 31 Aug 2023 05:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[할 일은 태산인데•••. 멍하니 쇼츠와 릴스만 보며 죄책감을 쌓던 두 에디터는 결심했다. 딱 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/aa5f156b-a778-408a-820b-89f5fecbf330.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
