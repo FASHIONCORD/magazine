@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 17:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 05:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 F/W 파운데이션 신상 라인업!]]></title>
+            <link>https://www.elle.co.kr/article/80752</link>
+            <guid>https://www.elle.co.kr/article/80752</guid>
+            <pubDate>Tue, 26 Sep 2023 05:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[섬세한 제형과 균일한 발림성, 촉촉한 커버력. 그 어떤 것도 놓치지 않은 F/W 파운데이션 라인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/86b12b35-5b8f-4be3-a49b-633decda9b0a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출산 후 -20kg! 배윤정이 체중 감량에서 강조한 3가지는? #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/80745</link>
@@ -60,13 +68,6 @@
             <guid>https://www.elle.co.kr/article/80615</guid>
             <pubDate>Mon, 18 Sep 2023 05:40:32 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/e346d8a1-b325-41c9-92ed-d11b1ca7d927.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손예진의 건강미 비결, 10년 넘게 하고 있는 TRX! #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/80601</link>
-            <guid>https://www.elle.co.kr/article/80601</guid>
-            <pubDate>Sun, 17 Sep 2023 05:40:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/4d5a1490-9dc2-4f3c-96b9-2aad3a315b0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
