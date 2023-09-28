@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 05:42:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스타일리스트들이 즐겨 찾는 편집숍 #도쿄핫플]]></title>
-            <link>https://www.elle.co.kr/article/80822</link>
-            <guid>https://www.elle.co.kr/article/80822</guid>
-            <pubDate>Wed, 27 Sep 2023 17:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[패션 피플들이 트렌드의 흐름을 읽기 위해 자주 드나드는 도쿄. 그렇다면 개인적인 ‘득템’을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/930eed9d-00ce-49b7-a5e6-babcab6a5372.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늘 마시는 라떼 말고! 무궁무진한 라떼의 세계 #마실마실]]></title>
-            <link>https://www.elle.co.kr/article/80807</link>
-            <guid>https://www.elle.co.kr/article/80807</guid>
-            <pubDate>Sun, 24 Sep 2023 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[우유를 베이스로 하는 음료 ‘라떼’의 논커피 메뉴를 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/d4aab37f-d40d-4245-9c6a-2f94de31ad85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신상 와인바부터 홍콩 느낌 물씬나는 중식당까지! 안소희의 먹킷리스트 3]]></title>
-            <link>https://www.elle.co.kr/article/80783</link>
-            <guid>https://www.elle.co.kr/article/80783</guid>
-            <pubDate>Sat, 23 Sep 2023 17:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[와인 바와 사천 요리 전문 중식당, 샤부샤부 파인 다이닝 등 안소희의 맛집 좌표가 궁금하다면...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/d157891b-c707-46bb-9a1f-b236bcb3f202.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고양이를 위해 복층으로 이사 가다! ‘집에가야돼’ 대표 부부의 랜선 집들이 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/80777</link>
-            <guid>https://www.elle.co.kr/article/80777</guid>
-            <pubDate>Sat, 23 Sep 2023 17:41:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/7dac8ac2-9c32-40b3-8396-ecd42b35fd2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울긋불긋 단풍과 은빛 억새! 시각 만족 힐링에 좋은 가을 축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/80712</link>
-            <guid>https://www.elle.co.kr/article/80712</guid>
-            <pubDate>Fri, 22 Sep 2023 17:41:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/74d524c2-abd1-40aa-bc6b-92d140199928.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아니쉬 카푸어의 크레센도 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/80704</link>
-            <guid>https://www.elle.co.kr/article/80704</guid>
-            <pubDate>Fri, 22 Sep 2023 17:41:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/63348d01-febb-41fe-85bc-9203cdd5b499.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 X...?! 일론 머스크가 X(트위터) 전면 유료화 계획 밝히며 한 말]]></title>
-            <link>https://www.elle.co.kr/article/80690</link>
-            <guid>https://www.elle.co.kr/article/80690</guid>
-            <pubDate>Fri, 22 Sep 2023 17:41:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/60c9f747-eb89-4218-86e9-c67ee3a8fc97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크부터 손흥민까지! 이번 주말, 놓쳐서는 안 될 팝업 스토어]]></title>
-            <link>https://www.elle.co.kr/article/80639</link>
-            <guid>https://www.elle.co.kr/article/80639</guid>
-            <pubDate>Fri, 22 Sep 2023 05:40:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/5d9b0b6b-59d5-456d-a85c-8919cb31a84e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-09-28T17:41:00.096Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타일리스트들이 즐겨 찾는 편집숍 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/80822</id>
+        <link href="https://www.elle.co.kr/article/80822"/>
+        <updated>2023-09-27T17:41:35.050Z</updated>
+        <content type="html"><![CDATA[패션 피플들이 트렌드의 흐름을 읽기 위해 자주 드나드는 도쿄. 그렇다면 개인적인 ‘득템’을 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[늘 마시는 라떼 말고! 무궁무진한 라떼의 세계 #마실마실]]></title>
+        <id>https://www.elle.co.kr/article/80807</id>
+        <link href="https://www.elle.co.kr/article/80807"/>
+        <updated>2023-09-24T17:40:38.969Z</updated>
+        <content type="html"><![CDATA[우유를 베이스로 하는 음료 ‘라떼’의 논커피 메뉴를 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신상 와인바부터 홍콩 느낌 물씬나는 중식당까지! 안소희의 먹킷리스트 3]]></title>
+        <id>https://www.elle.co.kr/article/80783</id>
+        <link href="https://www.elle.co.kr/article/80783"/>
+        <updated>2023-09-23T17:41:38.794Z</updated>
+        <content type="html"><![CDATA[와인 바와 사천 요리 전문 중식당, 샤부샤부 파인 다이닝 등 안소희의 맛집 좌표가 궁금하다면...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고양이를 위해 복층으로 이사 가다! ‘집에가야돼’ 대표 부부의 랜선 집들이 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/80777</id>
+        <link href="https://www.elle.co.kr/article/80777"/>
+        <updated>2023-09-23T17:41:38.797Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[울긋불긋 단풍과 은빛 억새! 시각 만족 힐링에 좋은 가을 축제 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/80712</id>
+        <link href="https://www.elle.co.kr/article/80712"/>
+        <updated>2023-09-22T17:41:44.274Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아니쉬 카푸어의 크레센도 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/80704</id>
+        <link href="https://www.elle.co.kr/article/80704"/>
+        <updated>2023-09-22T17:41:44.299Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이런 X...?! 일론 머스크가 X(트위터) 전면 유료화 계획 밝히며 한 말]]></title>
+        <id>https://www.elle.co.kr/article/80690</id>
+        <link href="https://www.elle.co.kr/article/80690"/>
+        <updated>2023-09-22T17:41:44.367Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크부터 손흥민까지! 이번 주말, 놓쳐서는 안 될 팝업 스토어]]></title>
+        <id>https://www.elle.co.kr/article/80639</id>
+        <link href="https://www.elle.co.kr/article/80639"/>
+        <updated>2023-09-22T05:40:45.708Z</updated>
+    </entry>
+</feed>

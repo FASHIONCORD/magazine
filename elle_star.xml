@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 05:42:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[추석엔 안방 떼창! KBS 대기획 'ㅇㅁㄷ 지오디' 정보 (ft. 18년 만의 팬지 모집)]]></title>
-            <link>https://www.elle.co.kr/article/80968</link>
-            <guid>https://www.elle.co.kr/article/80968</guid>
-            <pubDate>Thu, 28 Sep 2023 05:41:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/ba73358c-d529-48f6-bc79-0827a2bb49c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 모두를 향한 아이유의 러브 송]]></title>
-            <link>https://www.elle.co.kr/article/80950</link>
-            <guid>https://www.elle.co.kr/article/80950</guid>
-            <pubDate>Wed, 27 Sep 2023 17:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[단어는 음절이 되고, 음절은 노래가, 노래는 끝내 사랑이 되어 울려 퍼진다. 너랑 나 그리고 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/c35d5d6b-0372-4c1b-b922-57499b534ae5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 수영 폼 무엇?! 중국 꺾고 메달에 신기록까지 세운 아시안게임 수영 성적.txt]]></title>
-            <link>https://www.elle.co.kr/article/80942</link>
-            <guid>https://www.elle.co.kr/article/80942</guid>
-            <pubDate>Wed, 27 Sep 2023 17:40:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/e5f4d8f7-0940-4e33-86d2-f60807782abc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무려 6일 간의 추석 연휴, 하루쯤은 극장 나들이? 기대 가득 개봉작 3 #2023추석]]></title>
-            <link>https://www.elle.co.kr/article/80938</link>
-            <guid>https://www.elle.co.kr/article/80938</guid>
-            <pubDate>Wed, 27 Sep 2023 17:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[강동원부터 임시완, 송강호 열연이 기대되는 한국 영화 3편!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/4b700cbf-b3d8-4a0d-a7be-00ac1d299911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희가 직접 밝혔다, 입술 아래부터 눈 밑까지 피어싱 도전한 이유!]]></title>
-            <link>https://www.elle.co.kr/article/80937</link>
-            <guid>https://www.elle.co.kr/article/80937</guid>
-            <pubDate>Wed, 27 Sep 2023 17:40:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/3edf7447-31e3-48fe-ae96-471aa2894dd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연아 남편 고우림이 결혼 1년 만에 입대한다]]></title>
-            <link>https://www.elle.co.kr/article/80914</link>
-            <guid>https://www.elle.co.kr/article/80914</guid>
-            <pubDate>Wed, 27 Sep 2023 05:40:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/38137823-f0f7-4920-968c-40aa8a36c9a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돈 벌긴 글렀다고? '포서방' 포스트 말론 딸이 돌잡이에서 고른 물건]]></title>
-            <link>https://www.elle.co.kr/article/80903</link>
-            <guid>https://www.elle.co.kr/article/80903</guid>
-            <pubDate>Tue, 26 Sep 2023 17:40:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/66721ce0-5d9f-478b-aa2c-865247f2d4a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정하의 사랑스러운 세계]]></title>
-            <link>https://www.elle.co.kr/article/80883</link>
-            <guid>https://www.elle.co.kr/article/80883</guid>
-            <pubDate>Tue, 26 Sep 2023 17:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[누구든 기어코 사랑에 빠지게 만든다. &lt;무빙&gt;으로 시작된 멋진 비행을 멈출 수 없는 이정하가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/6c0dfe3a-7a91-46f3-98a1-27b430094003.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-09-28T17:41:00.092Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석엔 안방 떼창! KBS 대기획 'ㅇㅁㄷ 지오디' 정보 (ft. 18년 만의 팬지 모집)]]></title>
+        <id>https://www.elle.co.kr/article/80968</id>
+        <link href="https://www.elle.co.kr/article/80968"/>
+        <updated>2023-09-28T05:41:03.980Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 모두를 향한 아이유의 러브 송]]></title>
+        <id>https://www.elle.co.kr/article/80950</id>
+        <link href="https://www.elle.co.kr/article/80950"/>
+        <updated>2023-09-27T17:40:45.441Z</updated>
+        <content type="html"><![CDATA[단어는 음절이 되고, 음절은 노래가, 노래는 끝내 사랑이 되어 울려 퍼진다. 너랑 나 그리고 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 수영 폼 무엇?! 중국 꺾고 메달에 신기록까지 세운 아시안게임 수영 성적.txt]]></title>
+        <id>https://www.elle.co.kr/article/80942</id>
+        <link href="https://www.elle.co.kr/article/80942"/>
+        <updated>2023-09-27T17:40:45.442Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무려 6일 간의 추석 연휴, 하루쯤은 극장 나들이? 기대 가득 개봉작 3 #2023추석]]></title>
+        <id>https://www.elle.co.kr/article/80938</id>
+        <link href="https://www.elle.co.kr/article/80938"/>
+        <updated>2023-09-27T17:40:45.449Z</updated>
+        <content type="html"><![CDATA[강동원부터 임시완, 송강호 열연이 기대되는 한국 영화 3편!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한소희가 직접 밝혔다, 입술 아래부터 눈 밑까지 피어싱 도전한 이유!]]></title>
+        <id>https://www.elle.co.kr/article/80937</id>
+        <link href="https://www.elle.co.kr/article/80937"/>
+        <updated>2023-09-27T17:40:45.451Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연아 남편 고우림이 결혼 1년 만에 입대한다]]></title>
+        <id>https://www.elle.co.kr/article/80914</id>
+        <link href="https://www.elle.co.kr/article/80914"/>
+        <updated>2023-09-27T05:40:47.667Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈 벌긴 글렀다고? '포서방' 포스트 말론 딸이 돌잡이에서 고른 물건]]></title>
+        <id>https://www.elle.co.kr/article/80903</id>
+        <link href="https://www.elle.co.kr/article/80903"/>
+        <updated>2023-09-26T17:40:16.237Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이정하의 사랑스러운 세계]]></title>
+        <id>https://www.elle.co.kr/article/80883</id>
+        <link href="https://www.elle.co.kr/article/80883"/>
+        <updated>2023-09-26T17:40:16.239Z</updated>
+        <content type="html"><![CDATA[누구든 기어코 사랑에 빠지게 만든다. &lt;무빙&gt;으로 시작된 멋진 비행을 멈출 수 없는 이정하가 ...]]></content>
+    </entry>
+</feed>

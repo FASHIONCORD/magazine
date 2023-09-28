@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 05:42:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[요즘 날씨 만능템! 스타의 스웨트셔츠 스타일 8]]></title>
-            <link>https://www.elle.co.kr/article/80885</link>
-            <guid>https://www.elle.co.kr/article/80885</guid>
-            <pubDate>Wed, 27 Sep 2023 05:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[지금 입기 좋은 스웨트셔츠 스타일을 모아봤습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/0e64553a-cea8-4b5b-b266-a9c530709f5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스물 둘, 이영지의 새로운 모습]]></title>
-            <link>https://www.elle.co.kr/article/80882</link>
-            <guid>https://www.elle.co.kr/article/80882</guid>
-            <pubDate>Wed, 27 Sep 2023 05:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[스스로 정한 기준으로 자신의 길을 나선 아티스트, 뉴욕에서 포착한 이영지의 새로운 패션 화보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/fceec20c-098d-4749-95a4-bda88948c94a.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[전혀 새로운 구찌의 탄생! 사바토 데 사르노의 구찌 2024 S/S 컬렉션]]></title>
-            <link>https://www.elle.co.kr/article/80867</link>
-            <guid>https://www.elle.co.kr/article/80867</guid>
-            <pubDate>Tue, 26 Sep 2023 17:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[어게인, 구찌!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/b2d1ba6a-baeb-446c-a7b9-e0e6517b5069.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼메가 전하는 가을빛 선연한 아름다움]]></title>
-            <link>https://www.elle.co.kr/article/80851</link>
-            <guid>https://www.elle.co.kr/article/80851</guid>
-            <pubDate>Tue, 26 Sep 2023 17:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[끝없이 반짝이는 ‘비마이러브’와 ‘조세핀 아그레뜨’ 컬렉션의 우아한 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/4181bf9c-121e-417c-9f10-3dc95b3ec65d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민, 퍼렐 윌리엄스! 이 만남 칭찬해!]]></title>
-            <link>https://www.elle.co.kr/article/80855</link>
-            <guid>https://www.elle.co.kr/article/80855</guid>
-            <pubDate>Tue, 26 Sep 2023 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[기다렸다, 이달의 패션 협업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/116809ff-d697-49f8-a649-7e5d227f3500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장미꽃부터 나비까지, 대자연의 숨결로 가득한 컬렉션 3]]></title>
-            <link>https://www.elle.co.kr/article/80847</link>
-            <guid>https://www.elle.co.kr/article/80847</guid>
-            <pubDate>Tue, 26 Sep 2023 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[이번 시즌 핵심 키워드는 마더 네이처?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/e91ef769-3f64-4047-b729-1510ca56796a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행지부터 일상까지! 스타들의 사복 패션에 등장한 백팩 스타일 6]]></title>
-            <link>https://www.elle.co.kr/article/80843</link>
-            <guid>https://www.elle.co.kr/article/80843</guid>
-            <pubDate>Mon, 25 Sep 2023 17:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[실용적인데 예쁘기까지 해! 느낌 있는 캐주얼 백팩의 매력에 빠져 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/97ccaefa-ee09-4751-aa12-46e914587094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 펑크 시대]]></title>
-            <link>https://www.elle.co.kr/article/80828</link>
-            <guid>https://www.elle.co.kr/article/80828</guid>
-            <pubDate>Mon, 25 Sep 2023 17:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[네오펑크가 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/24/1d3e722d-e8ae-48ff-a2f2-cd47bac668de.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-09-28T17:41:00.100Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이토록 아름다운 이솜]]></title>
+        <id>https://www.elle.co.kr/article/80878</id>
+        <link href="https://www.elle.co.kr/article/80878"/>
+        <updated>2023-09-28T17:39:55.386Z</updated>
+        <content type="html"><![CDATA[깃털처럼 우아하고, 하늘처럼 청명한 배우 이솜과 부쉐론의 랑데부.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 날씨 만능템! 스타의 스웨트셔츠 스타일 8]]></title>
+        <id>https://www.elle.co.kr/article/80885</id>
+        <link href="https://www.elle.co.kr/article/80885"/>
+        <updated>2023-09-27T05:39:54.824Z</updated>
+        <content type="html"><![CDATA[지금 입기 좋은 스웨트셔츠 스타일을 모아봤습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스물 둘, 이영지의 새로운 모습]]></title>
+        <id>https://www.elle.co.kr/article/80882</id>
+        <link href="https://www.elle.co.kr/article/80882"/>
+        <updated>2023-09-27T05:39:54.827Z</updated>
+        <content type="html"><![CDATA[스스로 정한 기준으로 자신의 길을 나선 아티스트, 뉴욕에서 포착한 이영지의 새로운 패션 화보...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전혀 새로운 구찌의 탄생! 사바토 데 사르노의 구찌 2024 S/S 컬렉션]]></title>
+        <id>https://www.elle.co.kr/article/80867</id>
+        <link href="https://www.elle.co.kr/article/80867"/>
+        <updated>2023-09-26T17:39:58.158Z</updated>
+        <content type="html"><![CDATA[어게인, 구찌!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼메가 전하는 가을빛 선연한 아름다움]]></title>
+        <id>https://www.elle.co.kr/article/80851</id>
+        <link href="https://www.elle.co.kr/article/80851"/>
+        <updated>2023-09-26T17:39:58.175Z</updated>
+        <content type="html"><![CDATA[끝없이 반짝이는 ‘비마이러브’와 ‘조세핀 아그레뜨’ 컬렉션의 우아한 순간들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손흥민, 퍼렐 윌리엄스! 이 만남 칭찬해!]]></title>
+        <id>https://www.elle.co.kr/article/80855</id>
+        <link href="https://www.elle.co.kr/article/80855"/>
+        <updated>2023-09-26T05:40:15.360Z</updated>
+        <content type="html"><![CDATA[기다렸다, 이달의 패션 협업.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장미꽃부터 나비까지, 대자연의 숨결로 가득한 컬렉션 3]]></title>
+        <id>https://www.elle.co.kr/article/80847</id>
+        <link href="https://www.elle.co.kr/article/80847"/>
+        <updated>2023-09-26T05:40:15.371Z</updated>
+        <content type="html"><![CDATA[이번 시즌 핵심 키워드는 마더 네이처?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여행지부터 일상까지! 스타들의 사복 패션에 등장한 백팩 스타일 6]]></title>
+        <id>https://www.elle.co.kr/article/80843</id>
+        <link href="https://www.elle.co.kr/article/80843"/>
+        <updated>2023-09-25T17:41:03.536Z</updated>
+        <content type="html"><![CDATA[실용적인데 예쁘기까지 해! 느낌 있는 캐주얼 백팩의 매력에 빠져 보세요.]]></content>
+    </entry>
+</feed>

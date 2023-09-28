@@ -1,105 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 05:42:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[회랑으로 이어진 벽돌의 도시, 볼로냐 #여행예술]]></title>
-            <link>https://www.elle.co.kr/article/80879</link>
-            <guid>https://www.elle.co.kr/article/80879</guid>
-            <pubDate>Wed, 27 Sep 2023 17:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[회랑만 따라 걸어도 도심을 탐험하게 되는 이탈리아의 볼로냐는 특유의 활기와 함께 '오늘의 삶...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/66f2b3b3-beb6-4e47-9010-a0de13e6dad8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포틀랜드에 사는 카피라이터 애비 모건의 1950년대 미드 센추리 모던 주택 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/80998</link>
-            <guid>https://www.elle.co.kr/article/80998</guid>
-            <pubDate>Wed, 27 Sep 2023 17:41:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/1e185fbf-bd52-402e-a416-0e455e224aac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일지음 박지선 대표의 취향]]></title>
-            <link>https://www.elle.co.kr/article/80860</link>
-            <guid>https://www.elle.co.kr/article/80860</guid>
-            <pubDate>Tue, 26 Sep 2023 17:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[식물의 아름다움을 재발견하는, 스타일지음 대표 박지선.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/abcee328-841a-47f4-989e-308484bbc675.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리즈 서울에서 만난 패션 하우스의 통 큰 프로젝트]]></title>
-            <link>https://www.elle.co.kr/article/80884</link>
-            <guid>https://www.elle.co.kr/article/80884</guid>
-            <pubDate>Tue, 26 Sep 2023 17:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[서울을 예술 도시로 발돋움하게 만든 '프리즈 서울'. 도시에 예술적 에너지가 흘러 넘치도록 패...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/7aa7a251-6e6e-427b-acb0-9cbb55964e17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동시대 한옥을 짓는 연구소, 온지음 집공방]]></title>
-            <link>https://www.elle.co.kr/article/80877</link>
-            <guid>https://www.elle.co.kr/article/80877</guid>
-            <pubDate>Tue, 26 Sep 2023 17:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[온지음 집공방은 지금의 한옥을 설계할 수 있는 장인을 양성하는 설계집단이자 연구소다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조경 디자이너 피트 아우돌프의 자연주의 정원 #디아이콘즈]]></title>
-            <link>https://www.elle.co.kr/article/80870</link>
-            <guid>https://www.elle.co.kr/article/80870</guid>
-            <pubDate>Mon, 25 Sep 2023 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[자연주의 식재와 여러해살이풀 운동의 아이콘, 피트 아우돌프의 정원.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고라니를 사랑하세요? 몸을 낮추자 보인 각각의 초상, 그 고유함에 대해]]></title>
-            <link>https://www.elle.co.kr/article/80880</link>
-            <guid>https://www.elle.co.kr/article/80880</guid>
-            <pubDate>Mon, 25 Sep 2023 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[고라니의 몸길이는 약 90cm. 사진가 문선희는 무릎을 굽혀 고라니들의 눈높이에 시선을 맞췄다. ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쓰리데이즈오브디자인에서 만난 뱅앤올룹슨]]></title>
-            <link>https://www.elle.co.kr/article/80821</link>
-            <guid>https://www.elle.co.kr/article/80821</guid>
-            <pubDate>Sun, 24 Sep 2023 17:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[장인의 손끝에서 탄생해 디자인이 감싸 안은 사운드.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안도 타다오가 반세기 동안 증명해 온 것들 #디아이콘즈]]></title>
-            <link>https://www.elle.co.kr/article/80820</link>
-            <guid>https://www.elle.co.kr/article/80820</guid>
-            <pubDate>Sat, 23 Sep 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[순도 높은 콘크리트와 기하학만으로 안도 타다오의 건축을 설명할 수는 없다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도자 작가 이나영과 색색의 사물들]]></title>
-            <link>https://www.elle.co.kr/article/80811</link>
-            <guid>https://www.elle.co.kr/article/80811</guid>
-            <pubDate>Sat, 23 Sep 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[손으로 지어 올린 대체불가능한 아름다움.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시끌벅적 '아톰 부츠'의 주인공, 미스치프가 대림미술관에 상륙한다?]]></title>
-            <link>https://www.elle.co.kr/article/80837</link>
-            <guid>https://www.elle.co.kr/article/80837</guid>
-            <pubDate>Sat, 23 Sep 2023 17:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조르디 반 덴 뉴벤디크의 아트워크를 입은 알로소]]></title>
-            <link>https://www.elle.co.kr/article/80819</link>
-            <guid>https://www.elle.co.kr/article/80819</guid>
-            <pubDate>Fri, 22 Sep 2023 17:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[먹고 쉬고 사랑하라! 색색의 일상이 다채롭게 오버랩되는 알로소의 소파와 아티스트 조르디 반 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데코 픽! 영감을 채워줄 신상 건축 & 디자인 이슈]]></title>
-            <link>https://www.elle.co.kr/article/80760</link>
-            <guid>https://www.elle.co.kr/article/80760</guid>
-            <pubDate>Thu, 21 Sep 2023 17:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[일상에 새로운 영감이 필요하다면 주목! 세계 곳곳에서 발견한 예술적인 공간들.]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/artanddesign</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
+    <updated>2023-09-28T17:41:00.124Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로낭 부홀렉의 디자인으로 다시 태어난 성당 '드 브라스파르']]></title>
+        <id>https://www.elle.co.kr/article/80956</id>
+        <link href="https://www.elle.co.kr/article/80956"/>
+        <updated>2023-09-28T17:40:43.805Z</updated>
+        <content type="html"><![CDATA[간결하고 세련된 디자인이 고고한 아름다움과 절묘한 조화를 이룬다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화이트 큐브 개관전에서 만난 이진주]]></title>
+        <id>https://www.elle.co.kr/article/80953</id>
+        <link href="https://www.elle.co.kr/article/80953"/>
+        <updated>2023-09-28T17:40:43.806Z</updated>
+        <content type="html"><![CDATA[아시아 두 번째로 서울에 문을 연 화이트 큐브 개관전. 7인 아티스트 중에서 유일한 한국 여성...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회랑으로 이어진 벽돌의 도시, 볼로냐 #여행예술]]></title>
+        <id>https://www.elle.co.kr/article/80879</id>
+        <link href="https://www.elle.co.kr/article/80879"/>
+        <updated>2023-09-27T17:41:24.980Z</updated>
+        <content type="html"><![CDATA[회랑만 따라 걸어도 도심을 탐험하게 되는 이탈리아의 볼로냐는 특유의 활기와 함께 '오늘의 삶...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포틀랜드에 사는 카피라이터 애비 모건의 1950년대 미드 센추리 모던 주택 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/80998</id>
+        <link href="https://www.elle.co.kr/article/80998"/>
+        <updated>2023-09-27T17:41:24.982Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타일지음 박지선 대표의 취향]]></title>
+        <id>https://www.elle.co.kr/article/80860</id>
+        <link href="https://www.elle.co.kr/article/80860"/>
+        <updated>2023-09-26T17:40:48.170Z</updated>
+        <content type="html"><![CDATA[식물의 아름다움을 재발견하는, 스타일지음 대표 박지선.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프리즈 서울에서 만난 패션 하우스의 통 큰 프로젝트]]></title>
+        <id>https://www.elle.co.kr/article/80884</id>
+        <link href="https://www.elle.co.kr/article/80884"/>
+        <updated>2023-09-26T17:40:48.233Z</updated>
+        <content type="html"><![CDATA[서울을 예술 도시로 발돋움하게 만든 '프리즈 서울'. 도시에 예술적 에너지가 흘러 넘치도록 패...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동시대 한옥을 짓는 연구소, 온지음 집공방]]></title>
+        <id>https://www.elle.co.kr/article/80877</id>
+        <link href="https://www.elle.co.kr/article/80877"/>
+        <updated>2023-09-26T17:40:48.170Z</updated>
+        <content type="html"><![CDATA[온지음 집공방은 지금의 한옥을 설계할 수 있는 장인을 양성하는 설계집단이자 연구소다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조경 디자이너 피트 아우돌프의 자연주의 정원 #디아이콘즈]]></title>
+        <id>https://www.elle.co.kr/article/80870</id>
+        <link href="https://www.elle.co.kr/article/80870"/>
+        <updated>2023-09-25T17:42:17.947Z</updated>
+        <content type="html"><![CDATA[자연주의 식재와 여러해살이풀 운동의 아이콘, 피트 아우돌프의 정원.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고라니를 사랑하세요? 몸을 낮추자 보인 각각의 초상, 그 고유함에 대해]]></title>
+        <id>https://www.elle.co.kr/article/80880</id>
+        <link href="https://www.elle.co.kr/article/80880"/>
+        <updated>2023-09-25T17:42:17.956Z</updated>
+        <content type="html"><![CDATA[고라니의 몸길이는 약 90cm. 사진가 문선희는 무릎을 굽혀 고라니들의 눈높이에 시선을 맞췄다. ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쓰리데이즈오브디자인에서 만난 뱅앤올룹슨]]></title>
+        <id>https://www.elle.co.kr/article/80821</id>
+        <link href="https://www.elle.co.kr/article/80821"/>
+        <updated>2023-09-24T17:40:31.135Z</updated>
+        <content type="html"><![CDATA[장인의 손끝에서 탄생해 디자인이 감싸 안은 사운드.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안도 타다오가 반세기 동안 증명해 온 것들 #디아이콘즈]]></title>
+        <id>https://www.elle.co.kr/article/80820</id>
+        <link href="https://www.elle.co.kr/article/80820"/>
+        <updated>2023-09-23T17:41:29.238Z</updated>
+        <content type="html"><![CDATA[순도 높은 콘크리트와 기하학만으로 안도 타다오의 건축을 설명할 수는 없다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도자 작가 이나영과 색색의 사물들]]></title>
+        <id>https://www.elle.co.kr/article/80811</id>
+        <link href="https://www.elle.co.kr/article/80811"/>
+        <updated>2023-09-23T17:41:29.235Z</updated>
+        <content type="html"><![CDATA[손으로 지어 올린 대체불가능한 아름다움.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시끌벅적 '아톰 부츠'의 주인공, 미스치프가 대림미술관에 상륙한다?]]></title>
+        <id>https://www.elle.co.kr/article/80837</id>
+        <link href="https://www.elle.co.kr/article/80837"/>
+        <updated>2023-09-23T17:41:29.242Z</updated>
+        <content type="html"><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content>
+    </entry>
+</feed>
