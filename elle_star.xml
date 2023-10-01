@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 17:41:57 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[지창욱X위하준에 독립군 된 김남길까지! 추석 연휴 순삭할 주요 OTT 신작 4]]></title>
-            <link>https://www.elle.co.kr/article/81010</link>
-            <guid>https://www.elle.co.kr/article/81010</guid>
-            <pubDate>Sat, 30 Sep 2023 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[추석 연휴 겨냥한 주요 OTT 신작들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/d18eec2e-9e62-4ea5-aaa6-a08f3d80caa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악의 한가운데 마주한 지창욱과 위하준]]></title>
-            <link>https://www.elle.co.kr/article/80952</link>
-            <guid>https://www.elle.co.kr/article/80952</guid>
-            <pubDate>Sat, 30 Sep 2023 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[두 남자의 호흡만이 오가는 공간. 어느 때보다 고요하고 우아하게 반짝이는 &lt;최악의 악&gt; 지창욱...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/2611f400-9cf1-45b9-8201-148c500d1323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수라, 새만금 마지막 갯벌을 지키려는 사람들이 바치는 송가]]></title>
-            <link>https://www.elle.co.kr/article/80951</link>
-            <guid>https://www.elle.co.kr/article/80951</guid>
-            <pubDate>Sat, 30 Sep 2023 05:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[아름다움을 목도한 사람은 그 전으로 돌아갈 수 없다. 황윤 감독의 다큐멘터리 &lt;수라&gt;는 갯벌에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/c9dd25cd-6d5e-4c76-9cf2-f7adc847b86b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 해병대 만기 전역한 블락비 피오 근황]]></title>
-            <link>https://www.elle.co.kr/article/81000</link>
-            <guid>https://www.elle.co.kr/article/81000</guid>
-            <pubDate>Sat, 30 Sep 2023 05:40:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/303cf8df-83b7-49a4-ba30-9289fafe22f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공개 연애 8년차 이동휘-정호연! 둘 사이에 자꾸 등장하는 의외의 인물]]></title>
-            <link>https://www.elle.co.kr/article/80992</link>
-            <guid>https://www.elle.co.kr/article/80992</guid>
-            <pubDate>Fri, 29 Sep 2023 05:40:18 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/1320fe4e-d171-4675-8138-933daa8445fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석엔 안방 떼창! KBS 대기획 'ㅇㅁㄷ 지오디' 정보 (ft. 18년 만의 팬지 모집)]]></title>
-            <link>https://www.elle.co.kr/article/80968</link>
-            <guid>https://www.elle.co.kr/article/80968</guid>
-            <pubDate>Thu, 28 Sep 2023 05:41:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/ba73358c-d529-48f6-bc79-0827a2bb49c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 모두를 향한 아이유의 러브 송]]></title>
-            <link>https://www.elle.co.kr/article/80950</link>
-            <guid>https://www.elle.co.kr/article/80950</guid>
-            <pubDate>Wed, 27 Sep 2023 17:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[단어는 음절이 되고, 음절은 노래가, 노래는 끝내 사랑이 되어 울려 퍼진다. 너랑 나 그리고 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/c35d5d6b-0372-4c1b-b922-57499b534ae5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 수영 폼 무엇?! 중국 꺾고 메달에 신기록까지 세운 아시안게임 수영 성적.txt]]></title>
-            <link>https://www.elle.co.kr/article/80942</link>
-            <guid>https://www.elle.co.kr/article/80942</guid>
-            <pubDate>Wed, 27 Sep 2023 17:40:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/e5f4d8f7-0940-4e33-86d2-f60807782abc.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-10-01T05:41:49.229Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지창욱X위하준에 독립군 된 김남길까지! 추석 연휴 순삭할 주요 OTT 신작 4]]></title>
+        <id>https://www.elle.co.kr/article/81010</id>
+        <link href="https://www.elle.co.kr/article/81010"/>
+        <updated>2023-09-30T05:40:15.478Z</updated>
+        <content type="html"><![CDATA[추석 연휴 겨냥한 주요 OTT 신작들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악의 한가운데 마주한 지창욱과 위하준]]></title>
+        <id>https://www.elle.co.kr/article/80952</id>
+        <link href="https://www.elle.co.kr/article/80952"/>
+        <updated>2023-09-30T05:40:15.491Z</updated>
+        <content type="html"><![CDATA[두 남자의 호흡만이 오가는 공간. 어느 때보다 고요하고 우아하게 반짝이는 &lt;최악의 악&gt; 지창욱...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수라, 새만금 마지막 갯벌을 지키려는 사람들이 바치는 송가]]></title>
+        <id>https://www.elle.co.kr/article/80951</id>
+        <link href="https://www.elle.co.kr/article/80951"/>
+        <updated>2023-09-30T05:40:15.496Z</updated>
+        <content type="html"><![CDATA[아름다움을 목도한 사람은 그 전으로 돌아갈 수 없다. 황윤 감독의 다큐멘터리 &lt;수라&gt;는 갯벌에...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드디어 해병대 만기 전역한 블락비 피오 근황]]></title>
+        <id>https://www.elle.co.kr/article/81000</id>
+        <link href="https://www.elle.co.kr/article/81000"/>
+        <updated>2023-09-30T05:40:15.498Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공개 연애 8년차 이동휘-정호연! 둘 사이에 자꾸 등장하는 의외의 인물]]></title>
+        <id>https://www.elle.co.kr/article/80992</id>
+        <link href="https://www.elle.co.kr/article/80992"/>
+        <updated>2023-09-29T05:40:18.536Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석엔 안방 떼창! KBS 대기획 'ㅇㅁㄷ 지오디' 정보 (ft. 18년 만의 팬지 모집)]]></title>
+        <id>https://www.elle.co.kr/article/80968</id>
+        <link href="https://www.elle.co.kr/article/80968"/>
+        <updated>2023-09-28T05:41:03.980Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 모두를 향한 아이유의 러브 송]]></title>
+        <id>https://www.elle.co.kr/article/80950</id>
+        <link href="https://www.elle.co.kr/article/80950"/>
+        <updated>2023-09-27T17:40:45.441Z</updated>
+        <content type="html"><![CDATA[단어는 음절이 되고, 음절은 노래가, 노래는 끝내 사랑이 되어 울려 퍼진다. 너랑 나 그리고 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 수영 폼 무엇?! 중국 꺾고 메달에 신기록까지 세운 아시안게임 수영 성적.txt]]></title>
+        <id>https://www.elle.co.kr/article/80942</id>
+        <link href="https://www.elle.co.kr/article/80942"/>
+        <updated>2023-09-27T17:40:45.442Z</updated>
+    </entry>
+</feed>
