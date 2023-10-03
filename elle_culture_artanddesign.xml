@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 17:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 17:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작지만 알차게! 나만의 주방 만들기]]></title>
+            <link>https://www.elle.co.kr/article/81049</link>
+            <guid>https://www.elle.co.kr/article/81049</guid>
+            <pubDate>Tue, 03 Oct 2023 17:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[작고 풍요로운 나의 주방.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/bde28f32-adaf-4d97-b6a6-873cd4a820bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세이투셰' 임재린이 거실에 놓고 싶은 사물들 #나의거실은]]></title>
             <link>https://www.elle.co.kr/article/81047</link>
@@ -37,7 +45,6 @@
             <guid>https://www.elle.co.kr/article/81026</guid>
             <pubDate>Fri, 29 Sep 2023 17:41:37 GMT</pubDate>
             <content:encoded><![CDATA[두 번째 프리즈 서울. 모두가 이야기했던 예술가와 떠들썩했던 서울의 낮과 밤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/8bd692f3-f086-4396-a474-41090cea176b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존 웰런과 오스카 프록터의 '아틀리에 오브 유럽']]></title>
@@ -93,13 +100,6 @@
             <guid>https://www.elle.co.kr/article/80877</guid>
             <pubDate>Tue, 26 Sep 2023 17:40:48 GMT</pubDate>
             <content:encoded><![CDATA[온지음 집공방은 지금의 한옥을 설계할 수 있는 장인을 양성하는 설계집단이자 연구소다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조경 디자이너 피트 아우돌프의 자연주의 정원 #디아이콘즈]]></title>
-            <link>https://www.elle.co.kr/article/80870</link>
-            <guid>https://www.elle.co.kr/article/80870</guid>
-            <pubDate>Mon, 25 Sep 2023 17:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[자연주의 식재와 여러해살이풀 운동의 아이콘, 피트 아우돌프의 정원.]]></content:encoded>
         </item>
     </channel>
 </rss>
