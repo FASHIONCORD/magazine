@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-10-03T17:41:28.621Z</updated>
+    <updated>2023-10-04T05:41:14.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴 시작 전 미리 저장 각! 한혜진의 2주 다이어트 Tip]]></title>
+        <id>https://www.elle.co.kr/article/81028</id>
+        <link href="https://www.elle.co.kr/article/81028"/>
+        <updated>2023-10-04T05:40:16.675Z</updated>
+        <content type="html"><![CDATA[건강하게 다이어트를 하고 싶다면 주목! 근육은 유지하고 체지방만 빼는 한혜진의 2주 다이어트.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라의 웰비잉 순위는 세계 몇 위일까?]]></title>
         <id>https://www.elle.co.kr/article/80966</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/80752"/>
         <updated>2023-09-26T05:40:26.425Z</updated>
         <content type="html"><![CDATA[섬세한 제형과 균일한 발림성, 촉촉한 커버력. 그 어떤 것도 놓치지 않은 F/W 파운데이션 라인...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출산 후 -20kg! 배윤정이 체중 감량에서 강조한 3가지는? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/80745</id>
-        <link href="https://www.elle.co.kr/article/80745"/>
-        <updated>2023-09-25T05:40:01.417Z</updated>
     </entry>
 </feed>

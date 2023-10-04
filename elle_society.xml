@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/society</id>
-    <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-10-03T17:41:28.647Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[1년이라도 빨리 알수록 이득인 재테크 원칙 3_돈쓸신잡 #116]]></title>
-        <id>https://www.elle.co.kr/article/80778</id>
-        <link href="https://www.elle.co.kr/article/80778"/>
-        <updated>2023-10-03T17:41:27.600Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무라카미 하루키에게 가장 비싼 것_돈쓸신잡 #115]]></title>
-        <id>https://www.elle.co.kr/article/80611</id>
-        <link href="https://www.elle.co.kr/article/80611"/>
-        <updated>2023-09-28T05:42:10.587Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마을 하나가 순식간에 사라졌다: 120년 만의 모로코 강진 현재 상황]]></title>
-        <id>https://www.elle.co.kr/article/80518</id>
-        <link href="https://www.elle.co.kr/article/80518"/>
-        <updated>2023-09-27T17:41:44.952Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 우정의 확장]]></title>
-        <id>https://www.elle.co.kr/article/80494</id>
-        <link href="https://www.elle.co.kr/article/80494"/>
-        <updated>2023-09-27T05:42:10.200Z</updated>
-        <content type="html"><![CDATA[우정의 범주는 어디까지일까? 황선우 작가가 발견한 귀여운 어른들의 세계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래도 내 집이 있었으면 좋겠다_돈쓸신잡 #114]]></title>
-        <id>https://www.elle.co.kr/article/80474</id>
-        <link href="https://www.elle.co.kr/article/80474"/>
-        <updated>2023-09-25T17:42:40.015Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 시작은 사랑]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/80442</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/80442"/>
-        <updated>2023-09-21T17:42:13.563Z</updated>
-        <content type="html"><![CDATA[우리 모두의 이야기의 시작에는 사랑이 존재한다. 소설가 성해나가 질문을 던지게 된 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 나의 사랑스러운 털뭉치]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/80423</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/80423"/>
-        <updated>2023-09-14T05:42:05.276Z</updated>
-        <content type="html"><![CDATA[정지음 작가에게는 사랑스러운 털뭉치가 있다. 출근하기 직전에는 앉혀놓고 타이르는 것도 잊지 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번 추석은 6일 연휴! 10월 2일 임시 공휴일 확정 (ft. 미리 연차 쓴 사람)]]></title>
-        <id>https://www.elle.co.kr/article/80316</id>
-        <link href="https://www.elle.co.kr/article/80316"/>
-        <updated>2023-09-11T05:41:28.225Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 소사이어티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 Oct 2023 05:41:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1년이라도 빨리 알수록 이득인 재테크 원칙 3_돈쓸신잡 #116]]></title>
+            <link>https://www.elle.co.kr/article/80778</link>
+            <guid>https://www.elle.co.kr/article/80778</guid>
+            <pubDate>Tue, 03 Oct 2023 17:41:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/374bef19-16b0-4482-9ebb-5046d745894b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무라카미 하루키에게 가장 비싼 것_돈쓸신잡 #115]]></title>
+            <link>https://www.elle.co.kr/article/80611</link>
+            <guid>https://www.elle.co.kr/article/80611</guid>
+            <pubDate>Thu, 28 Sep 2023 05:42:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/eedbe0f0-9802-4870-a48b-9d052767ceff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마을 하나가 순식간에 사라졌다: 120년 만의 모로코 강진 현재 상황]]></title>
+            <link>https://www.elle.co.kr/article/80518</link>
+            <guid>https://www.elle.co.kr/article/80518</guid>
+            <pubDate>Wed, 27 Sep 2023 17:41:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/345a290b-093a-4554-a366-a8eaa05e5a82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 우정의 확장]]></title>
+            <link>https://www.elle.co.kr/article/80494</link>
+            <guid>https://www.elle.co.kr/article/80494</guid>
+            <pubDate>Wed, 27 Sep 2023 05:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[우정의 범주는 어디까지일까? 황선우 작가가 발견한 귀여운 어른들의 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/15d0810a-6868-48a2-8545-0c17cf9e94cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그래도 내 집이 있었으면 좋겠다_돈쓸신잡 #114]]></title>
+            <link>https://www.elle.co.kr/article/80474</link>
+            <guid>https://www.elle.co.kr/article/80474</guid>
+            <pubDate>Mon, 25 Sep 2023 17:42:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/351c45c9-5085-4a2d-8b26-e17c252dbf1d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 시작은 사랑]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/80442</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/80442</guid>
+            <pubDate>Thu, 21 Sep 2023 17:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[우리 모두의 이야기의 시작에는 사랑이 존재한다. 소설가 성해나가 질문을 던지게 된 이유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/6499ae43-7ec8-4519-a14e-428b5e31825a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 나의 사랑스러운 털뭉치]]></title>
+            <link>https://www.elle.co.kr/ellevoice/essay/80423</link>
+            <guid>https://www.elle.co.kr/ellevoice/essay/80423</guid>
+            <pubDate>Thu, 14 Sep 2023 05:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[정지음 작가에게는 사랑스러운 털뭉치가 있다. 출근하기 직전에는 앉혀놓고 타이르는 것도 잊지 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/e41bcc3f-3410-4088-a152-fe76a5d61fa4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 추석은 6일 연휴! 10월 2일 임시 공휴일 확정 (ft. 미리 연차 쓴 사람)]]></title>
+            <link>https://www.elle.co.kr/article/80316</link>
+            <guid>https://www.elle.co.kr/article/80316</guid>
+            <pubDate>Mon, 11 Sep 2023 05:41:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c769d156-9539-4854-8c2a-4bdee90e2095.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
