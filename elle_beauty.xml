@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-10-05T05:41:26.307Z</updated>
+    <updated>2023-10-05T17:41:36.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이렇게만 하면 꿀피부 보장? 손태영의 홈 케어 루틴 공개!]]></title>
+        <id>https://www.elle.co.kr/article/81050</id>
+        <link href="https://www.elle.co.kr/article/81050"/>
+        <updated>2023-10-05T17:40:18.659Z</updated>
+        <content type="html"><![CDATA[결점 없는 피부를 유지하기 위한 노력은 계속된다! 꼼꼼한 이중 세안부터 윤곽 관리까지, 손태영...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제대로 '입 터진' 순간들]]></title>
         <id>https://www.elle.co.kr/article/81008</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/80846"/>
         <updated>2023-09-30T05:40:04.245Z</updated>
         <content type="html"><![CDATA[이번 시즌 반드시 숙지해야 할 아이 메이크업 트렌드 빅 4.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다들 잘 자고 있습니까?]]></title>
-        <id>https://www.elle.co.kr/article/80827</id>
-        <link href="https://www.elle.co.kr/article/80827"/>
-        <updated>2023-09-30T05:40:04.246Z</updated>
-        <content type="html"><![CDATA[오늘 밤 모두의 숙면을 위하여.]]></content>
     </entry>
 </feed>

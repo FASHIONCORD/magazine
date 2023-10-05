@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-05T05:41:26.243Z</updated>
+    <updated>2023-10-05T17:41:36.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최대 시청자 25만 명, 전설이 된 '나는 솔로' 16기 라방에서 나온 말들 (ft. 현커)]]></title>
+        <id>https://www.elle.co.kr/article/81116</id>
+        <link href="https://www.elle.co.kr/article/81116"/>
+        <updated>2023-10-05T17:40:29.089Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크래비티 아홉 명이 보여준 명징한 세계]]></title>
         <id>https://www.elle.co.kr/article/81106</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/81050"/>
         <updated>2023-10-05T05:40:17.049Z</updated>
         <content type="html"><![CDATA[결점 없는 피부를 유지하기 위한 노력은 계속된다! 꼼꼼한 이중 세안부터 윤곽 관리까지, 손태영...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1996년 투팍 살인 사건 용의자, 27년 만에 체포된 후 꺼낸 진술]]></title>
-        <id>https://www.elle.co.kr/article/81031</id>
-        <link href="https://www.elle.co.kr/article/81031"/>
-        <updated>2023-10-05T05:40:17.052Z</updated>
     </entry>
 </feed>

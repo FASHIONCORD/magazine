@@ -1,60 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/society</id>
-    <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-10-05T05:41:26.256Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[우리나라의 웰비잉 순위는 세계 몇 위일까?]]></title>
-        <id>https://www.elle.co.kr/article/80966</id>
-        <link href="https://www.elle.co.kr/article/80966"/>
-        <updated>2023-10-05T05:41:24.947Z</updated>
-        <content type="html"><![CDATA[지금 전 세계는 웰비잉 딜레마! 룰루레몬의 2023 글로벌 웰비잉 리포트 읽기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고라니를 사랑하세요? 몸을 낮추자 보인 각각의 초상과 고유함]]></title>
-        <id>https://www.elle.co.kr/article/80880</id>
-        <link href="https://www.elle.co.kr/article/80880"/>
-        <updated>2023-10-05T05:41:24.950Z</updated>
-        <content type="html"><![CDATA[고라니의 몸길이는 약 90cm. 사진가 문선희는 무릎을 굽혀 고라니들의 눈높이에 시선을 맞췄다. ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1년이라도 빨리 알수록 이득인 재테크 원칙 3_돈쓸신잡 #116]]></title>
-        <id>https://www.elle.co.kr/article/80778</id>
-        <link href="https://www.elle.co.kr/article/80778"/>
-        <updated>2023-10-03T17:41:27.600Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무라카미 하루키에게 가장 비싼 것_돈쓸신잡 #115]]></title>
-        <id>https://www.elle.co.kr/article/80611</id>
-        <link href="https://www.elle.co.kr/article/80611"/>
-        <updated>2023-09-28T05:42:10.587Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마을 하나가 순식간에 사라졌다: 120년 만의 모로코 강진 현재 상황]]></title>
-        <id>https://www.elle.co.kr/article/80518</id>
-        <link href="https://www.elle.co.kr/article/80518"/>
-        <updated>2023-09-27T17:41:44.952Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 우정의 확장]]></title>
-        <id>https://www.elle.co.kr/article/80494</id>
-        <link href="https://www.elle.co.kr/article/80494"/>
-        <updated>2023-09-27T05:42:10.200Z</updated>
-        <content type="html"><![CDATA[우정의 범주는 어디까지일까? 황선우 작가가 발견한 귀여운 어른들의 세계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래도 내 집이 있었으면 좋겠다_돈쓸신잡 #114]]></title>
-        <id>https://www.elle.co.kr/article/80474</id>
-        <link href="https://www.elle.co.kr/article/80474"/>
-        <updated>2023-09-25T17:42:40.015Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 시작은 사랑]]></title>
-        <id>https://www.elle.co.kr/ellevoice/essay/80442</id>
-        <link href="https://www.elle.co.kr/ellevoice/essay/80442"/>
-        <updated>2023-09-21T17:42:13.563Z</updated>
-        <content type="html"><![CDATA[우리 모두의 이야기의 시작에는 사랑이 존재한다. 소설가 성해나가 질문을 던지게 된 이유.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 소사이어티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 05 Oct 2023 17:41:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수라, 새만금 마지막 갯벌을 지키려는 사람들이 바치는 송가]]></title>
+            <link>https://www.elle.co.kr/article/80951</link>
+            <guid>https://www.elle.co.kr/article/80951</guid>
+            <pubDate>Thu, 05 Oct 2023 17:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[아름다움을 목도한 사람은 그 전으로 돌아갈 수 없다. 황윤 감독의 다큐멘터리 &lt;수라&gt;는 갯벌에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/c9dd25cd-6d5e-4c76-9cf2-f7adc847b86b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리나라의 웰비잉 순위는 세계 몇 위일까?]]></title>
+            <link>https://www.elle.co.kr/article/80966</link>
+            <guid>https://www.elle.co.kr/article/80966</guid>
+            <pubDate>Thu, 05 Oct 2023 05:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[지금 전 세계는 웰비잉 딜레마! 룰루레몬의 2023 글로벌 웰비잉 리포트 읽기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/088e1be0-e482-41bf-8489-da6454a91057.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고라니를 사랑하세요? 몸을 낮추자 보인 각각의 초상과 고유함]]></title>
+            <link>https://www.elle.co.kr/article/80880</link>
+            <guid>https://www.elle.co.kr/article/80880</guid>
+            <pubDate>Thu, 05 Oct 2023 05:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[고라니의 몸길이는 약 90cm. 사진가 문선희는 무릎을 굽혀 고라니들의 눈높이에 시선을 맞췄다. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/48d770f6-744f-4db0-ab78-210b38d314e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1년이라도 빨리 알수록 이득인 재테크 원칙 3_돈쓸신잡 #116]]></title>
+            <link>https://www.elle.co.kr/article/80778</link>
+            <guid>https://www.elle.co.kr/article/80778</guid>
+            <pubDate>Tue, 03 Oct 2023 17:41:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/374bef19-16b0-4482-9ebb-5046d745894b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무라카미 하루키에게 가장 비싼 것_돈쓸신잡 #115]]></title>
+            <link>https://www.elle.co.kr/article/80611</link>
+            <guid>https://www.elle.co.kr/article/80611</guid>
+            <pubDate>Thu, 28 Sep 2023 05:42:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/eedbe0f0-9802-4870-a48b-9d052767ceff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마을 하나가 순식간에 사라졌다: 120년 만의 모로코 강진 현재 상황]]></title>
+            <link>https://www.elle.co.kr/article/80518</link>
+            <guid>https://www.elle.co.kr/article/80518</guid>
+            <pubDate>Wed, 27 Sep 2023 17:41:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/345a290b-093a-4554-a366-a8eaa05e5a82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엘르보이스] 우정의 확장]]></title>
+            <link>https://www.elle.co.kr/article/80494</link>
+            <guid>https://www.elle.co.kr/article/80494</guid>
+            <pubDate>Wed, 27 Sep 2023 05:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[우정의 범주는 어디까지일까? 황선우 작가가 발견한 귀여운 어른들의 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/15d0810a-6868-48a2-8545-0c17cf9e94cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그래도 내 집이 있었으면 좋겠다_돈쓸신잡 #114]]></title>
+            <link>https://www.elle.co.kr/article/80474</link>
+            <guid>https://www.elle.co.kr/article/80474</guid>
+            <pubDate>Mon, 25 Sep 2023 17:42:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/351c45c9-5085-4a2d-8b26-e17c252dbf1d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
