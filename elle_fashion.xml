@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-04T17:49:49.100Z</updated>
+    <updated>2023-10-05T05:41:26.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을을 위한 가장 완벽한 신발 #로퍼]]></title>
+        <id>https://www.elle.co.kr/article/81057</id>
+        <link href="https://www.elle.co.kr/article/81057"/>
+        <updated>2023-10-05T05:39:54.362Z</updated>
+        <content type="html"><![CDATA[로퍼를 신고 가을 멋쟁이로 거듭나보세요!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이힐이 왜 거기서 나와?]]></title>
+        <id>https://www.elle.co.kr/article/81048</id>
+        <link href="https://www.elle.co.kr/article/81048"/>
+        <updated>2023-10-05T05:39:54.364Z</updated>
+        <content type="html"><![CDATA[클러치부터 스타킹까지, 하이힐의 기묘한 변신.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 시대 새로운 조형미에 대한 아름다운 고찰]]></title>
+        <id>https://www.elle.co.kr/article/80991</id>
+        <link href="https://www.elle.co.kr/article/80991"/>
+        <updated>2023-10-05T05:39:54.371Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알쓸옷잡]]></title>
         <id>https://www.elle.co.kr/article/81041</id>
@@ -39,26 +59,5 @@
         <link href="https://www.elle.co.kr/article/81016"/>
         <updated>2023-10-01T17:40:04.257Z</updated>
         <content type="html"><![CDATA[때론 단정하게, 때론 과감하게 빌리 아일리시가 추구하는 펑크 세계관.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈부시게 빛나는 정수정과 포멜라토]]></title>
-        <id>https://www.elle.co.kr/article/80909</id>
-        <link href="https://www.elle.co.kr/article/80909"/>
-        <updated>2023-10-01T17:40:04.259Z</updated>
-        <content type="html"><![CDATA[정수정과 포멜라토의 다채로운 색이 빛을 발하는 오후.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5인5색! 새롭게 입는 오버롤 팬츠 스타일링]]></title>
-        <id>https://www.elle.co.kr/article/80957</id>
-        <link href="https://www.elle.co.kr/article/80957"/>
-        <updated>2023-09-30T17:40:23.645Z</updated>
-        <content type="html"><![CDATA[귀여움 포텐 터지는 데일리 룩부터 성숙함이 느껴지는 오버롤 팬츠 룩까지, 각자의 개성대로 소...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리즈 서울에서 만난 패션 하우스의 통 큰 프로젝트]]></title>
-        <id>https://www.elle.co.kr/article/80884</id>
-        <link href="https://www.elle.co.kr/article/80884"/>
-        <updated>2023-09-30T17:40:23.647Z</updated>
-        <content type="html"><![CDATA[서울을 예술 도시로 발돋움하게 만든 '프리즈 서울'. 도시에 예술적 에너지가 흘러 넘치도록 패...]]></content>
     </entry>
 </feed>

@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-10-04T17:49:49.110Z</updated>
+    <updated>2023-10-05T05:41:26.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포틀랜드에 사는 카피라이터 애비 모건의 1950년대 미드 센추리 모던 주택 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/80998</id>
+        <link href="https://www.elle.co.kr/article/80998"/>
+        <updated>2023-10-05T05:41:15.159Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쓰리데이즈오브디자인에서 만난 뱅앤올룹슨]]></title>
         <id>https://www.elle.co.kr/article/80821</id>
@@ -52,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/80783"/>
         <updated>2023-09-23T17:41:38.794Z</updated>
         <content type="html"><![CDATA[와인 바와 사천 요리 전문 중식당, 샤부샤부 파인 다이닝 등 안소희의 맛집 좌표가 궁금하다면...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양이를 위해 복층으로 이사 가다! ‘집에가야돼’ 대표 부부의 랜선 집들이 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/80777</id>
-        <link href="https://www.elle.co.kr/article/80777"/>
-        <updated>2023-09-23T17:41:38.797Z</updated>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 17:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 05:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니부터 정국, 이효리까지! 올가을 귀 호강 예약 신보 소식.list]]></title>
+            <link>https://www.elle.co.kr/article/81125</link>
+            <guid>https://www.elle.co.kr/article/81125</guid>
+            <pubDate>Thu, 05 Oct 2023 05:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/d124c00f-8c94-494e-a15c-d449e03e660d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1996년 투팍 살인 사건 용의자, 27년 만에 체포된 후 꺼낸 진술]]></title>
             <link>https://www.elle.co.kr/article/81031</link>
@@ -33,7 +41,6 @@
             <link>https://www.elle.co.kr/article/80688</link>
             <guid>https://www.elle.co.kr/article/80688</guid>
             <pubDate>Tue, 19 Sep 2023 05:41:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/88052baf-8d7f-41a8-b83a-d85fd5e392a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[360도 무대 확정! 호남평야 아니면 수용 못하는 임영웅 콘서트 예매 정보.txt]]></title>
@@ -83,12 +90,6 @@
             <link>https://www.elle.co.kr/article/78933</link>
             <guid>https://www.elle.co.kr/article/78933</guid>
             <pubDate>Wed, 05 Jul 2023 17:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[우아한 발레리나로 변신한 뉴진스의 2집 예고 (ft. 콘셉트 포토)]]></title>
-            <link>https://www.elle.co.kr/article/78808</link>
-            <guid>https://www.elle.co.kr/article/78808</guid>
-            <pubDate>Fri, 30 Jun 2023 05:41:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
