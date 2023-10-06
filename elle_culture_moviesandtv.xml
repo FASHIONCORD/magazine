@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 05:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 17:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭐지, 이 라인업? 유재석 새 예능 '아파트 404' 의외의 고정멤버 2]]></title>
+            <link>https://www.elle.co.kr/article/81183</link>
+            <guid>https://www.elle.co.kr/article/81183</guid>
+            <pubDate>Fri, 06 Oct 2023 17:40:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/602c226f-c444-4423-9923-9a5346bb3eb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함정을 찾아라! 스타들의 AI 이어북 모음.zip]]></title>
             <link>https://www.elle.co.kr/article/81130</link>
@@ -35,7 +42,6 @@
             <guid>https://www.elle.co.kr/article/81111</guid>
             <pubDate>Thu, 05 Oct 2023 05:40:53 GMT</pubDate>
             <content:encoded><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/cdfc4cb0-05de-4968-b431-582fa748b4db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강풀에게 이름을 빌려준 남자]]></title>
@@ -87,12 +93,6 @@
             <link>https://www.elle.co.kr/article/80823</link>
             <guid>https://www.elle.co.kr/article/80823</guid>
             <pubDate>Fri, 22 Sep 2023 17:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[덱스가 '솔로지옥'에 나갔던 이유와 '유퀴즈'에 나오기 싫었던 이유]]></title>
-            <link>https://www.elle.co.kr/article/80759</link>
-            <guid>https://www.elle.co.kr/article/80759</guid>
-            <pubDate>Thu, 21 Sep 2023 05:41:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

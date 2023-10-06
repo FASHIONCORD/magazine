@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-10-06T05:41:07.029Z</updated>
+    <updated>2023-10-06T17:41:12.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추석에 살쪘다면 주목! 남은 명절 음식으로 만드는 다이어트 레시피 3]]></title>
+        <id>https://www.elle.co.kr/article/81062</id>
+        <link href="https://www.elle.co.kr/article/81062"/>
+        <updated>2023-10-06T17:40:00.373Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조용한 럭셔리의 본질]]></title>
+        <id>https://www.elle.co.kr/article/81059</id>
+        <link href="https://www.elle.co.kr/article/81059"/>
+        <updated>2023-10-06T17:40:00.376Z</updated>
+        <content type="html"><![CDATA[각기 다른 영역에서 저마다 견고한 입지를 구축한 네 명의 여성과의 대화.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이렇게만 하면 꿀피부 보장? 손태영의 홈 케어 루틴 공개!]]></title>
         <id>https://www.elle.co.kr/article/81050</id>
@@ -45,19 +58,5 @@
         <link href="https://www.elle.co.kr/article/80890"/>
         <updated>2023-10-02T05:40:07.112Z</updated>
         <content type="html"><![CDATA[약산성, 미산성? 피부 건강과 직결된 pH! 간과하고 있었다면 주목.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열 살은 어려보이게! 한혜진표 동안 메이크업 Tip]]></title>
-        <id>https://www.elle.co.kr/article/80848</id>
-        <link href="https://www.elle.co.kr/article/80848"/>
-        <updated>2023-09-30T17:40:35.545Z</updated>
-        <content type="html"><![CDATA[입체적인 페이스 라인과 도톰한 애교살이 포인트. 메이크업만으로 어려 보일 수 있는 톱모델의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23 F/W 아이 메이크업 트렌드]]></title>
-        <id>https://www.elle.co.kr/article/80846</id>
-        <link href="https://www.elle.co.kr/article/80846"/>
-        <updated>2023-09-30T05:40:04.245Z</updated>
-        <content type="html"><![CDATA[이번 시즌 반드시 숙지해야 할 아이 메이크업 트렌드 빅 4.]]></content>
     </entry>
 </feed>
