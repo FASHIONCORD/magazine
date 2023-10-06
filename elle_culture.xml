@@ -1,63 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-10-05T17:41:36.108Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[전 국립중앙박물관장 혜곡 최순우의 옛집]]></title>
-        <id>https://www.elle.co.kr/article/81108</id>
-        <link href="https://www.elle.co.kr/article/81108"/>
-        <updated>2023-10-05T05:40:28.382Z</updated>
-        <content type="html"><![CDATA[한국미 전파에 힘쓴 전 국립중앙박물관장 혜곡 최순우의 안목과 멋, 예술혼이 배어 있는 한옥.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
-        <id>https://www.elle.co.kr/article/81111</id>
-        <link href="https://www.elle.co.kr/article/81111"/>
-        <updated>2023-10-05T05:40:28.383Z</updated>
-        <content type="html"><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작지만 알차게! 나만의 주방 만들기]]></title>
-        <id>https://www.elle.co.kr/article/81049</id>
-        <link href="https://www.elle.co.kr/article/81049"/>
-        <updated>2023-10-05T05:40:28.383Z</updated>
-        <content type="html"><![CDATA[작고 풍요로운 나의 주방.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세이투셰' 임재린이 거실에 놓고 싶은 사물들 #나의거실은]]></title>
-        <id>https://www.elle.co.kr/article/81047</id>
-        <link href="https://www.elle.co.kr/article/81047"/>
-        <updated>2023-10-05T05:40:28.385Z</updated>
-        <content type="html"><![CDATA['제품과 작품의 경계에 있는 디자인'을 만드는 라이프스타일 브랜드 '세이투셰(Say Touché)'를 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강풀에게 이름을 빌려준 남자]]></title>
-        <id>https://www.elle.co.kr/article/81001</id>
-        <link href="https://www.elle.co.kr/article/81001"/>
-        <updated>2023-10-05T05:40:28.397Z</updated>
-        <content type="html"><![CDATA[&lt;무빙&gt;의 빌런 '민용준' 차장과 내 이름이 같은 건 결코 우연이 아니다. 그 인연으로 더 샅샅...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메달이 무려 22개! 애국심 차오르는 역대급 아시안게임 수영 성적 종합.ver]]></title>
-        <id>https://www.elle.co.kr/article/81054</id>
-        <link href="https://www.elle.co.kr/article/81054"/>
-        <updated>2023-10-05T05:40:28.399Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 건물이 달라졌어요]]></title>
-        <id>https://www.elle.co.kr/article/81040</id>
-        <link href="https://www.elle.co.kr/article/81040"/>
-        <updated>2023-10-05T05:40:28.406Z</updated>
-        <content type="html"><![CDATA[건축물이 레너베이션을 통해 새롭게 태어났다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콜바넴' 속 그 집, 누가 디자인했을까? #디아이콘즈]]></title>
-        <id>https://www.elle.co.kr/article/81024</id>
-        <link href="https://www.elle.co.kr/article/81024"/>
-        <updated>2023-10-03T17:40:39.998Z</updated>
-        <content type="html"><![CDATA[루카 구아다니노가 스크린 너머로 빚어낸 꿈의 공간들.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 06 Oct 2023 05:41:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ 계정 공유 막고, 넷플릭스 가격 올린다? OTT 요금 및 정책 변경 정리]]></title>
+            <link>https://www.elle.co.kr/article/81126</link>
+            <guid>https://www.elle.co.kr/article/81126</guid>
+            <pubDate>Fri, 06 Oct 2023 05:40:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/3a497f3c-7b74-424b-b0c7-5e2585460f56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니부터 정국, 이효리까지! 올가을 귀 호강 예약 신보 소식.list]]></title>
+            <link>https://www.elle.co.kr/article/81125</link>
+            <guid>https://www.elle.co.kr/article/81125</guid>
+            <pubDate>Fri, 06 Oct 2023 05:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/d124c00f-8c94-494e-a15c-d449e03e660d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최대 시청자 25만 명, 전설이 된 '나는 솔로' 16기 라방에서 나온 말들 (ft. 현커)]]></title>
+            <link>https://www.elle.co.kr/article/81116</link>
+            <guid>https://www.elle.co.kr/article/81116</guid>
+            <pubDate>Fri, 06 Oct 2023 05:40:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/b5aa5506-cf01-4d95-a591-2c0d6361ebf7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 국립중앙박물관장 혜곡 최순우의 옛집]]></title>
+            <link>https://www.elle.co.kr/article/81108</link>
+            <guid>https://www.elle.co.kr/article/81108</guid>
+            <pubDate>Thu, 05 Oct 2023 05:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[한국미 전파에 힘쓴 전 국립중앙박물관장 혜곡 최순우의 안목과 멋, 예술혼이 배어 있는 한옥.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/1fe02653-d172-4056-aefe-198caf8966d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
+            <link>https://www.elle.co.kr/article/81111</link>
+            <guid>https://www.elle.co.kr/article/81111</guid>
+            <pubDate>Thu, 05 Oct 2023 05:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/cdfc4cb0-05de-4968-b431-582fa748b4db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작지만 알차게! 나만의 주방 만들기]]></title>
+            <link>https://www.elle.co.kr/article/81049</link>
+            <guid>https://www.elle.co.kr/article/81049</guid>
+            <pubDate>Thu, 05 Oct 2023 05:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[작고 풍요로운 나의 주방.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/bde28f32-adaf-4d97-b6a6-873cd4a820bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['세이투셰' 임재린이 거실에 놓고 싶은 사물들 #나의거실은]]></title>
+            <link>https://www.elle.co.kr/article/81047</link>
+            <guid>https://www.elle.co.kr/article/81047</guid>
+            <pubDate>Thu, 05 Oct 2023 05:40:28 GMT</pubDate>
+            <content:encoded><![CDATA['제품과 작품의 경계에 있는 디자인'을 만드는 라이프스타일 브랜드 '세이투셰(Say Touché)'를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/c6f52647-6986-48df-a0fe-c7157585ea5f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강풀에게 이름을 빌려준 남자]]></title>
+            <link>https://www.elle.co.kr/article/81001</link>
+            <guid>https://www.elle.co.kr/article/81001</guid>
+            <pubDate>Thu, 05 Oct 2023 05:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;무빙&gt;의 빌런 '민용준' 차장과 내 이름이 같은 건 결코 우연이 아니다. 그 인연으로 더 샅샅...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/1450ab4c-d1ef-498c-9022-530910861925.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
