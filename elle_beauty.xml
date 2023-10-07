@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-10-06T17:41:12.032Z</updated>
+    <updated>2023-10-07T05:41:25.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오일 스킨케어에 대한 진실 7가지_선배’s 어드바이스 #188]]></title>
+        <id>https://www.elle.co.kr/article/81094</id>
+        <link href="https://www.elle.co.kr/article/81094"/>
+        <updated>2023-10-07T05:40:07.260Z</updated>
+        <content type="html"><![CDATA[찢어질 듯한 피부를 구하러 온 해결사 오일, 여태 잘못 쓰고 있었다면?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석에 살쪘다면 주목! 남은 명절 음식으로 만드는 다이어트 레시피 3]]></title>
         <id>https://www.elle.co.kr/article/81062</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/80966"/>
         <updated>2023-10-03T17:40:19.065Z</updated>
         <content type="html"><![CDATA[지금 전 세계는 웰비잉 딜레마! 룰루레몬의 2023 글로벌 웰비잉 리포트 읽기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 피부 장벽을 지켜줄 pH 농도는?_선배’s 어드바이스 #187]]></title>
-        <id>https://www.elle.co.kr/article/80890</id>
-        <link href="https://www.elle.co.kr/article/80890"/>
-        <updated>2023-10-02T05:40:07.112Z</updated>
-        <content type="html"><![CDATA[약산성, 미산성? 피부 건강과 직결된 pH! 간과하고 있었다면 주목.]]></content>
     </entry>
 </feed>

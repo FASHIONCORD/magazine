@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-10-06T17:41:11.981Z</updated>
+    <updated>2023-10-07T05:41:25.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해외 ETF vs. 국내 ETF, 어디에 투자해야 할까?_돈쓸신잡 #117]]></title>
+        <id>https://www.elle.co.kr/article/81011</id>
+        <link href="https://www.elle.co.kr/article/81011"/>
+        <updated>2023-10-07T05:41:24.740Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수라, 새만금 마지막 갯벌을 지키려는 사람들이 바치는 송가]]></title>
         <id>https://www.elle.co.kr/article/80951</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/80494"/>
         <updated>2023-09-27T05:42:10.200Z</updated>
         <content type="html"><![CDATA[우정의 범주는 어디까지일까? 황선우 작가가 발견한 귀여운 어른들의 세계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래도 내 집이 있었으면 좋겠다_돈쓸신잡 #114]]></title>
-        <id>https://www.elle.co.kr/article/80474</id>
-        <link href="https://www.elle.co.kr/article/80474"/>
-        <updated>2023-09-25T17:42:40.015Z</updated>
     </entry>
 </feed>
