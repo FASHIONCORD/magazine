@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-10-07T05:41:25.782Z</updated>
+    <updated>2023-10-07T17:41:16.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을을 감싸줄 두 편의 이야기]]></title>
+        <id>https://www.elle.co.kr/article/81151</id>
+        <link href="https://www.elle.co.kr/article/81151"/>
+        <updated>2023-10-07T17:40:49.185Z</updated>
+        <content type="html"><![CDATA[좀 더 내밀한 이야기가 필요한 시기. 삭막한 도시에 다가선 고독을 껴안아 줄 여성들의 이야기...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뭐지, 이 라인업? 유재석 새 예능 '아파트 404' 의외의 고정멤버 2]]></title>
         <id>https://www.elle.co.kr/article/81183</id>
@@ -81,11 +88,5 @@
         <id>https://www.elle.co.kr/article/80868</id>
         <link href="https://www.elle.co.kr/article/80868"/>
         <updated>2023-09-25T17:42:05.331Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니 코리아 사상 최고 흥행작 '무빙', 시즌2 언급 나왔다?]]></title>
-        <id>https://www.elle.co.kr/article/80823</id>
-        <link href="https://www.elle.co.kr/article/80823"/>
-        <updated>2023-09-22T17:41:16.688Z</updated>
     </entry>
 </feed>

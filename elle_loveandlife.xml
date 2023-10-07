@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-10-07T05:41:25.779Z</updated>
+    <updated>2023-10-07T17:41:16.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
+        <id>https://www.elle.co.kr/article/81111</id>
+        <link href="https://www.elle.co.kr/article/81111"/>
+        <updated>2023-10-07T17:41:07.418Z</updated>
+        <content type="html"><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석에 살쪘다면 주목! 남은 명절 음식으로 만드는 다이어트 레시피 3]]></title>
         <id>https://www.elle.co.kr/article/81062</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/80820"/>
         <updated>2023-10-01T05:41:37.795Z</updated>
         <content type="html"><![CDATA[순도 높은 콘크리트와 기하학만으로 안도 타다오의 건축을 설명할 수는 없다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시끌벅적 '아톰 부츠'의 주인공, 미스치프가 대림미술관에 상륙한다?]]></title>
-        <id>https://www.elle.co.kr/article/80837</id>
-        <link href="https://www.elle.co.kr/article/80837"/>
-        <updated>2023-09-29T17:41:47.224Z</updated>
-        <content type="html"><![CDATA[패션계의 악동을 전시로 만날 기회.]]></content>
     </entry>
 </feed>
