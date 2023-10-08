@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-07T17:41:16.404Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[꿈처럼 빛나는 유아의 모먼트]]></title>
-        <id>https://www.elle.co.kr/article/80960</id>
-        <link href="https://www.elle.co.kr/article/80960"/>
-        <updated>2023-10-07T05:39:56.441Z</updated>
-        <content type="html"><![CDATA[불가리 ‘디바스 드림’ 컬렉션과 함께한 관능적 순간.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니퍼 로렌스가 사랑한 그 컬러! 다채로운 그레이의 매력에 빠질 시간]]></title>
-        <id>https://www.elle.co.kr/article/81114</id>
-        <link href="https://www.elle.co.kr/article/81114"/>
-        <updated>2023-10-07T05:39:56.446Z</updated>
-        <content type="html"><![CDATA[머리부터 발끝까지, 이번 시즌 키 컬러 '그레이'로 휘감은 스타들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반짝반짝 눈이 부셔!]]></title>
-        <id>https://www.elle.co.kr/article/81064</id>
-        <link href="https://www.elle.co.kr/article/81064"/>
-        <updated>2023-10-06T05:39:46.796Z</updated>
-        <content type="html"><![CDATA[마주하는 순간 빠져든다. 극강의 반짝임을 가진 워치 &amp; 주얼리가 전하는 황홀경.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민니와 론진이 보여주는 쿨 애티튜드]]></title>
-        <id>https://www.elle.co.kr/article/80988</id>
-        <link href="https://www.elle.co.kr/article/80988"/>
-        <updated>2023-10-05T17:40:06.022Z</updated>
-        <content type="html"><![CDATA[민니와 론진의 만남, 자신만의 속도로 나아가고 있는 민니의 시간.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올시즌 우리에게 꼭 필요한 건 무엇? 블랙 롱부츠 쇼핑 리스트 6]]></title>
-        <id>https://www.elle.co.kr/article/81061</id>
-        <link href="https://www.elle.co.kr/article/81061"/>
-        <updated>2023-10-05T17:40:06.023Z</updated>
-        <content type="html"><![CDATA[돌아온 부츠의 계절! 신기만 해도 스타일 지수를 상승 시키는 블랙 롱부츠로 쿨한 아웃핏을 완...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을을 위한 가장 완벽한 신발 #로퍼]]></title>
-        <id>https://www.elle.co.kr/article/81057</id>
-        <link href="https://www.elle.co.kr/article/81057"/>
-        <updated>2023-10-05T05:39:54.362Z</updated>
-        <content type="html"><![CDATA[로퍼를 신고 가을 멋쟁이로 거듭나보세요!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이힐이 왜 거기서 나와?]]></title>
-        <id>https://www.elle.co.kr/article/81048</id>
-        <link href="https://www.elle.co.kr/article/81048"/>
-        <updated>2023-10-05T05:39:54.364Z</updated>
-        <content type="html"><![CDATA[클러치부터 스타킹까지, 하이힐의 기묘한 변신.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 시대 새로운 조형미에 대한 아름다운 고찰]]></title>
-        <id>https://www.elle.co.kr/article/80991</id>
-        <link href="https://www.elle.co.kr/article/80991"/>
-        <updated>2023-10-05T05:39:54.371Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 08 Oct 2023 05:41:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿈처럼 빛나는 유아의 모먼트]]></title>
+            <link>https://www.elle.co.kr/article/80960</link>
+            <guid>https://www.elle.co.kr/article/80960</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[불가리 ‘디바스 드림’ 컬렉션과 함께한 관능적 순간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/56247e84-7388-45bb-b8cc-804d339ac7c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니퍼 로렌스가 사랑한 그 컬러! 다채로운 그레이의 매력에 빠질 시간]]></title>
+            <link>https://www.elle.co.kr/article/81114</link>
+            <guid>https://www.elle.co.kr/article/81114</guid>
+            <pubDate>Sat, 07 Oct 2023 05:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[머리부터 발끝까지, 이번 시즌 키 컬러 '그레이'로 휘감은 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/c153c490-5655-43a8-9558-ce9fb37bbc2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반짝반짝 눈이 부셔!]]></title>
+            <link>https://www.elle.co.kr/article/81064</link>
+            <guid>https://www.elle.co.kr/article/81064</guid>
+            <pubDate>Fri, 06 Oct 2023 05:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[마주하는 순간 빠져든다. 극강의 반짝임을 가진 워치 &amp; 주얼리가 전하는 황홀경.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/34a1dec9-5ac9-408b-bfa9-c215e02cd807.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민니와 론진이 보여주는 쿨 애티튜드]]></title>
+            <link>https://www.elle.co.kr/article/80988</link>
+            <guid>https://www.elle.co.kr/article/80988</guid>
+            <pubDate>Thu, 05 Oct 2023 17:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[민니와 론진의 만남, 자신만의 속도로 나아가고 있는 민니의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/f4165adc-2816-46ec-8c67-a394f4682017.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올시즌 우리에게 꼭 필요한 건 무엇? 블랙 롱부츠 쇼핑 리스트 6]]></title>
+            <link>https://www.elle.co.kr/article/81061</link>
+            <guid>https://www.elle.co.kr/article/81061</guid>
+            <pubDate>Thu, 05 Oct 2023 17:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[돌아온 부츠의 계절! 신기만 해도 스타일 지수를 상승 시키는 블랙 롱부츠로 쿨한 아웃핏을 완...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/672b76d7-83c0-47a7-a784-b501f888a2aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을을 위한 가장 완벽한 신발 #로퍼]]></title>
+            <link>https://www.elle.co.kr/article/81057</link>
+            <guid>https://www.elle.co.kr/article/81057</guid>
+            <pubDate>Thu, 05 Oct 2023 05:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[로퍼를 신고 가을 멋쟁이로 거듭나보세요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/b8f72c98-1672-481d-92d6-5628b387c583.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이힐이 왜 거기서 나와?]]></title>
+            <link>https://www.elle.co.kr/article/81048</link>
+            <guid>https://www.elle.co.kr/article/81048</guid>
+            <pubDate>Thu, 05 Oct 2023 05:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[클러치부터 스타킹까지, 하이힐의 기묘한 변신.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/5572c767-3dc6-423c-82fb-e822066cc2c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 시대 새로운 조형미에 대한 아름다운 고찰]]></title>
+            <link>https://www.elle.co.kr/article/80991</link>
+            <guid>https://www.elle.co.kr/article/80991</guid>
+            <pubDate>Thu, 05 Oct 2023 05:39:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/b27e8311-267e-4b99-af1b-cf602b6f0c11.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
