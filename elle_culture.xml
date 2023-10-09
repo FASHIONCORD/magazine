@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 05:49:03 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[3회 연속 AG 금메달까지 단 한 걸음, 결승에서 만난 일본! 축구 한일전 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/81180</link>
-            <guid>https://www.elle.co.kr/article/81180</guid>
-            <pubDate>Sat, 07 Oct 2023 17:40:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/2ffd157d-a1b3-4828-953b-43e494ca43ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['로미오와 줄리엣'의 배경이 된 장소, 베로나 #여행예술]]></title>
-            <link>https://www.elle.co.kr/article/81146</link>
-            <guid>https://www.elle.co.kr/article/81146</guid>
-            <pubDate>Sat, 07 Oct 2023 17:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[이탈리아 베로나에서 만난 20세기 건축가 카를로 스카르파.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/de15f2d9-ed4b-43d4-9387-7f8886f3e355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트 선우예권]]></title>
-            <link>https://www.elle.co.kr/article/81124</link>
-            <guid>https://www.elle.co.kr/article/81124</guid>
-            <pubDate>Sat, 07 Oct 2023 17:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[고요하다가 어느 순간 높은 파도로 거대해질지 모르는 잔잔한 물결 같은 선우예권의 선율.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/0cd1a0c8-29d2-4384-a591-1135e8ca1847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물을 '본다'는 것, 동물원은 지금]]></title>
-            <link>https://www.elle.co.kr/article/81121</link>
-            <guid>https://www.elle.co.kr/article/81121</guid>
-            <pubDate>Fri, 06 Oct 2023 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[우리를 탈출한 사자 '사순이'는 한 시간 만에 사살됐다. '푸바오'의 엄마 '아이바오'는 축복 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/e8625f53-c228-4721-9131-06ee91e95ba8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1980년대 캘리포니아 주택을 사랑스러운 놀이터로 가꾼 워킹맘 브릴의 랜선 집들이 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/81132</link>
-            <guid>https://www.elle.co.kr/article/81132</guid>
-            <pubDate>Fri, 06 Oct 2023 17:40:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/4e5a4f43-e9d0-464d-95cd-f7a71bc8df18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함정을 찾아라! 스타들의 AI 이어북 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/81130</link>
-            <guid>https://www.elle.co.kr/article/81130</guid>
-            <pubDate>Fri, 06 Oct 2023 17:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[설마 아직도 안 해본 건 아니죠?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/ea32496d-386d-4261-9c64-968b7e41757a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ 계정 공유 막고, 넷플릭스 가격 올린다? OTT 요금 및 정책 변경 정리]]></title>
-            <link>https://www.elle.co.kr/article/81126</link>
-            <guid>https://www.elle.co.kr/article/81126</guid>
-            <pubDate>Fri, 06 Oct 2023 05:40:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/3a497f3c-7b74-424b-b0c7-5e2585460f56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니부터 정국, 이효리까지! 올가을 귀 호강 예약 신보 소식.list]]></title>
-            <link>https://www.elle.co.kr/article/81125</link>
-            <guid>https://www.elle.co.kr/article/81125</guid>
-            <pubDate>Fri, 06 Oct 2023 05:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/d124c00f-8c94-494e-a15c-d449e03e660d.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-10-09T17:41:58.217Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빈티지 가구 갤러리 '컬렉션 오브' 대표 임양섭의 취향 #나의거실은]]></title>
+        <id>https://www.elle.co.kr/article/81156</id>
+        <link href="https://www.elle.co.kr/article/81156"/>
+        <updated>2023-10-09T17:41:10.554Z</updated>
+        <content type="html"><![CDATA[빈티지 가구 갤러리와 쇼룸 '컬렉션 오브(Collection of)'의 대표 임양섭에게 거실에 놓고 싶...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뭐지, 이 라인업? 유재석 새 예능 '아파트 404' 의외의 고정멤버 2]]></title>
+        <id>https://www.elle.co.kr/article/81183</id>
+        <link href="https://www.elle.co.kr/article/81183"/>
+        <updated>2023-10-09T17:41:10.556Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3회 연속 AG 금메달까지 단 한 걸음, 결승에서 만난 일본! 축구 한일전 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/81180</id>
+        <link href="https://www.elle.co.kr/article/81180"/>
+        <updated>2023-10-07T17:40:31.706Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로미오와 줄리엣'의 배경이 된 장소, 베로나 #여행예술]]></title>
+        <id>https://www.elle.co.kr/article/81146</id>
+        <link href="https://www.elle.co.kr/article/81146"/>
+        <updated>2023-10-07T17:40:31.708Z</updated>
+        <content type="html"><![CDATA[이탈리아 베로나에서 만난 20세기 건축가 카를로 스카르파.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피아니스트 선우예권]]></title>
+        <id>https://www.elle.co.kr/article/81124</id>
+        <link href="https://www.elle.co.kr/article/81124"/>
+        <updated>2023-10-07T17:40:31.709Z</updated>
+        <content type="html"><![CDATA[고요하다가 어느 순간 높은 파도로 거대해질지 모르는 잔잔한 물결 같은 선우예권의 선율.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물을 '본다'는 것, 동물원은 지금]]></title>
+        <id>https://www.elle.co.kr/article/81121</id>
+        <link href="https://www.elle.co.kr/article/81121"/>
+        <updated>2023-10-06T17:40:19.250Z</updated>
+        <content type="html"><![CDATA[우리를 탈출한 사자 '사순이'는 한 시간 만에 사살됐다. '푸바오'의 엄마 '아이바오'는 축복 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1980년대 캘리포니아 주택을 사랑스러운 놀이터로 가꾼 워킹맘 브릴의 랜선 집들이 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/81132</id>
+        <link href="https://www.elle.co.kr/article/81132"/>
+        <updated>2023-10-06T17:40:19.254Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[함정을 찾아라! 스타들의 AI 이어북 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/81130</id>
+        <link href="https://www.elle.co.kr/article/81130"/>
+        <updated>2023-10-06T17:40:19.258Z</updated>
+        <content type="html"><![CDATA[설마 아직도 안 해본 건 아니죠?]]></content>
+    </entry>
+</feed>

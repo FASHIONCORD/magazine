@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 05:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 17:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피아니스트 선우예권]]></title>
+            <link>https://www.elle.co.kr/article/81124</link>
+            <guid>https://www.elle.co.kr/article/81124</guid>
+            <pubDate>Mon, 09 Oct 2023 17:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[고요하다가 어느 순간 높은 파도로 거대해질지 모르는 잔잔한 물결 같은 선우예권의 선율.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/0cd1a0c8-29d2-4384-a591-1135e8ca1847.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿈처럼 빛나는 유아의 모먼트]]></title>
             <link>https://www.elle.co.kr/article/80960</link>
@@ -62,13 +70,6 @@
             <pubDate>Thu, 05 Oct 2023 05:39:54 GMT</pubDate>
             <content:encoded><![CDATA[클러치부터 스타킹까지, 하이힐의 기묘한 변신.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/5572c767-3dc6-423c-82fb-e822066cc2c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시대 새로운 조형미에 대한 아름다운 고찰]]></title>
-            <link>https://www.elle.co.kr/article/80991</link>
-            <guid>https://www.elle.co.kr/article/80991</guid>
-            <pubDate>Thu, 05 Oct 2023 05:39:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/b27e8311-267e-4b99-af1b-cf602b6f0c11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
