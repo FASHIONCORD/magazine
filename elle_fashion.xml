@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 17:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 05:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자신감 넘치는 모습으로 돌아온 80년대 여인들]]></title>
+            <link>https://www.elle.co.kr/article/81165</link>
+            <guid>https://www.elle.co.kr/article/81165</guid>
+            <pubDate>Tue, 10 Oct 2023 05:40:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/df9b2b96-5297-4bc2-a770-449518853a29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피아니스트 선우예권]]></title>
             <link>https://www.elle.co.kr/article/81124</link>
@@ -62,14 +69,6 @@
             <pubDate>Thu, 05 Oct 2023 05:39:54 GMT</pubDate>
             <content:encoded><![CDATA[로퍼를 신고 가을 멋쟁이로 거듭나보세요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/b8f72c98-1672-481d-92d6-5628b387c583.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이힐이 왜 거기서 나와?]]></title>
-            <link>https://www.elle.co.kr/article/81048</link>
-            <guid>https://www.elle.co.kr/article/81048</guid>
-            <pubDate>Thu, 05 Oct 2023 05:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[클러치부터 스타킹까지, 하이힐의 기묘한 변신.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/5572c767-3dc6-423c-82fb-e822066cc2c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
