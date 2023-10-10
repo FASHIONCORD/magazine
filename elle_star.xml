@@ -4,9 +4,32 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 05:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 17:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소유의 '꾸안꾸' 데일리 메이크업 튜토리얼]]></title>
+            <link>https://www.elle.co.kr/article/81220</link>
+            <guid>https://www.elle.co.kr/article/81220</guid>
+            <pubDate>Tue, 10 Oct 2023 17:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[한 듯 안한 듯 내추럴한 메이크업을 원한다면? 소유의 데일리 메이크업을 참고해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/e01262ac-e136-4a66-9faf-08d3c1dbc5c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<셀러브리티> 속 진채희가 아닌, 낯선 얼굴로 마주친 한재인의 순간들]]></title>
+            <link>https://www.elle.co.kr/article/81166</link>
+            <guid>https://www.elle.co.kr/article/81166</guid>
+            <pubDate>Tue, 10 Oct 2023 17:40:18 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/dd40b5ff-0deb-4a89-9883-84b4e2b83cad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It’s JUNH O’ clock!(feat. 피아제) #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/81199</link>
+            <guid>https://www.elle.co.kr/article/81199</guid>
+            <pubDate>Tue, 10 Oct 2023 17:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[잔잔하고 푸르게 흘러가는 시간. 피아제와 함께한 이준호의 ELLE D Edition.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/11860be9-1f5e-4281-84e2-1d246621639c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12월 결혼하는 독다니엘, 웨딩 화보 공개! '비정상회담' 멤버들 반응은?]]></title>
             <link>https://www.elle.co.kr/article/81185</link>
@@ -43,28 +66,6 @@
             <pubDate>Sat, 07 Oct 2023 05:40:18 GMT</pubDate>
             <content:encoded><![CDATA[이준호, 새로운 남성미의 정립.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/6ea16f20-f8db-4567-99d0-a154201edc23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로컬 맛집부터 쇼핑까지! 윤승아 따라 연희동 한 바퀴.list]]></title>
-            <link>https://www.elle.co.kr/article/81167</link>
-            <guid>https://www.elle.co.kr/article/81167</guid>
-            <pubDate>Fri, 06 Oct 2023 17:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말, 느긋하게 쇼핑하면서 커피 한 잔의 여유를 즐기고 싶다면 윤승아의 발자취를 따라 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/a5a2c129-2119-4e70-b7bc-2f0b811432ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부국제 레드카펫에서도 빛난 정수정, 요즘 푹 빠진 최애 운동은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81155</link>
-            <guid>https://www.elle.co.kr/article/81155</guid>
-            <pubDate>Fri, 06 Oct 2023 17:40:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/989c4c9f-624e-4b3c-b9b9-08276b1364ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유빈이 권순우와 결별 후 직접 전한 심경 (ft.럽스타 삭제)]]></title>
-            <link>https://www.elle.co.kr/article/81133</link>
-            <guid>https://www.elle.co.kr/article/81133</guid>
-            <pubDate>Fri, 06 Oct 2023 17:40:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/f69c3c95-cc9a-4d72-a777-647c0ef3460c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
