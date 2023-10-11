@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-10-10T17:41:19.647Z</updated>
+    <updated>2023-10-11T05:41:58.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사도 된다는 확신 #비움라이프]]></title>
+        <id>https://www.elle.co.kr/article/81157</id>
+        <link href="https://www.elle.co.kr/article/81157"/>
+        <updated>2023-10-11T05:41:00.888Z</updated>
+        <content type="html"><![CDATA[&lt;작고 단순한 삶에 진심입니다&gt;의 저자이자 유튜브 채널 '단순한 진심'을 운영하고 있는 최현우...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올드머니 느낌 물씬! 뉴트럴톤 하우스]]></title>
         <id>https://www.elle.co.kr/article/81170</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/81124"/>
         <updated>2023-10-07T17:40:31.709Z</updated>
         <content type="html"><![CDATA[고요하다가 어느 순간 높은 파도로 거대해질지 모르는 잔잔한 물결 같은 선우예권의 선율.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물을 '본다'는 것, 동물원은 지금]]></title>
-        <id>https://www.elle.co.kr/article/81121</id>
-        <link href="https://www.elle.co.kr/article/81121"/>
-        <updated>2023-10-06T17:40:19.250Z</updated>
-        <content type="html"><![CDATA[우리를 탈출한 사자 '사순이'는 한 시간 만에 사살됐다. '푸바오'의 엄마 '아이바오'는 축복 ...]]></content>
     </entry>
 </feed>
