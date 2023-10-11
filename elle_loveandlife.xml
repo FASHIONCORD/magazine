@@ -1,67 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 05:41:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[일본에서 꼭 사와야 할 파우치템 7 #도쿄핫플]]></title>
-            <link>https://www.elle.co.kr/article/81184</link>
-            <guid>https://www.elle.co.kr/article/81184</guid>
-            <pubDate>Wed, 11 Oct 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[K-뷰티가 전 세계를 장악했다지만 일본에는 여전히 쓸만한 뷰티 아이템이 즐비합니다. 뷰티 인사...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[울긋불긋 가을 머금은 창밖이 있는 단풍 뷰 카페 in 종로 #마실마실]]></title>
-            <link>https://www.elle.co.kr/article/81181</link>
-            <guid>https://www.elle.co.kr/article/81181</guid>
-            <pubDate>Tue, 10 Oct 2023 17:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[그윽해진 서울의 풍경을 감상할 수 있는 카페 두 곳.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아직 늦지 않았다! 2023 여의도 불꽃축제, 체크해야 할 불꽃 명당 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/81178</link>
-            <guid>https://www.elle.co.kr/article/81178</guid>
-            <pubDate>Tue, 10 Oct 2023 17:41:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[로컬 맛집부터 쇼핑까지! 윤승아 따라 연희동 한 바퀴.list]]></title>
-            <link>https://www.elle.co.kr/article/81167</link>
-            <guid>https://www.elle.co.kr/article/81167</guid>
-            <pubDate>Sun, 08 Oct 2023 05:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말, 느긋하게 쇼핑하면서 커피 한 잔의 여유를 즐기고 싶다면 윤승아의 발자취를 따라 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
-            <link>https://www.elle.co.kr/article/81111</link>
-            <guid>https://www.elle.co.kr/article/81111</guid>
-            <pubDate>Sat, 07 Oct 2023 17:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[추석에 살쪘다면 주목! 남은 명절 음식으로 만드는 다이어트 레시피 3]]></title>
-            <link>https://www.elle.co.kr/article/81062</link>
-            <guid>https://www.elle.co.kr/article/81062</guid>
-            <pubDate>Fri, 06 Oct 2023 17:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[가을이 성큼! 제철을 맞은 무화과 디저트 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/81039</link>
-            <guid>https://www.elle.co.kr/article/81039</guid>
-            <pubDate>Fri, 06 Oct 2023 17:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[유난히 짧아 더 아쉬운 무화과 철을 제대로 즐기는 법. 가을 한정 무화과 디저트 맛집에 방문...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/4370ca8c-50e4-4536-8f56-a72caaa28c05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 도시를 즐기는 색다른 방법, 도쿄 공원 산책 #도쿄핫플]]></title>
-            <link>https://www.elle.co.kr/article/81020</link>
-            <guid>https://www.elle.co.kr/article/81020</guid>
-            <pubDate>Fri, 06 Oct 2023 17:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[쇼핑센터와 맛집, 카페를 돌기에도 시간이 부족한 일정이지만, 정갈하게 잘 가꾼 공원을 경험해본...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/62d2ee9d-1136-447c-b45e-b03f2ac2c1c3.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-10-11T17:41:17.091Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본에서 꼭 사와야 할 파우치템 7 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/81184</id>
+        <link href="https://www.elle.co.kr/article/81184"/>
+        <updated>2023-10-11T05:41:43.263Z</updated>
+        <content type="html"><![CDATA[K-뷰티가 전 세계를 장악했다지만 일본에는 여전히 쓸만한 뷰티 아이템이 즐비합니다. 뷰티 인사...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[울긋불긋 가을 머금은 창밖이 있는 단풍 뷰 카페 in 종로 #마실마실]]></title>
+        <id>https://www.elle.co.kr/article/81181</id>
+        <link href="https://www.elle.co.kr/article/81181"/>
+        <updated>2023-10-10T17:41:10.139Z</updated>
+        <content type="html"><![CDATA[그윽해진 서울의 풍경을 감상할 수 있는 카페 두 곳.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직 늦지 않았다! 2023 여의도 불꽃축제, 체크해야 할 불꽃 명당 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/81178</id>
+        <link href="https://www.elle.co.kr/article/81178"/>
+        <updated>2023-10-10T17:41:10.142Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로컬 맛집부터 쇼핑까지! 윤승아 따라 연희동 한 바퀴.list]]></title>
+        <id>https://www.elle.co.kr/article/81167</id>
+        <link href="https://www.elle.co.kr/article/81167"/>
+        <updated>2023-10-08T05:41:16.870Z</updated>
+        <content type="html"><![CDATA[이번 주말, 느긋하게 쇼핑하면서 커피 한 잔의 여유를 즐기고 싶다면 윤승아의 발자취를 따라 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
+        <id>https://www.elle.co.kr/article/81111</id>
+        <link href="https://www.elle.co.kr/article/81111"/>
+        <updated>2023-10-07T17:41:07.418Z</updated>
+        <content type="html"><![CDATA[7년 만에 한국을 찾는 주인공은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석에 살쪘다면 주목! 남은 명절 음식으로 만드는 다이어트 레시피 3]]></title>
+        <id>https://www.elle.co.kr/article/81062</id>
+        <link href="https://www.elle.co.kr/article/81062"/>
+        <updated>2023-10-06T17:40:59.709Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을이 성큼! 제철을 맞은 무화과 디저트 맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/81039</id>
+        <link href="https://www.elle.co.kr/article/81039"/>
+        <updated>2023-10-06T17:40:59.710Z</updated>
+        <content type="html"><![CDATA[유난히 짧아 더 아쉬운 무화과 철을 제대로 즐기는 법. 가을 한정 무화과 디저트 맛집에 방문...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 도시를 즐기는 색다른 방법, 도쿄 공원 산책 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/81020</id>
+        <link href="https://www.elle.co.kr/article/81020"/>
+        <updated>2023-10-06T17:40:59.710Z</updated>
+        <content type="html"><![CDATA[쇼핑센터와 맛집, 카페를 돌기에도 시간이 부족한 일정이지만, 정갈하게 잘 가꾼 공원을 경험해본...]]></content>
+    </entry>
+</feed>
