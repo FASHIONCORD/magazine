@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-11T17:41:17.120Z</updated>
+    <updated>2023-10-12T05:41:53.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패션위크를 즐기고 온 스타들]]></title>
+        <id>https://www.elle.co.kr/article/81230</id>
+        <link href="https://www.elle.co.kr/article/81230"/>
+        <updated>2023-10-12T05:40:28.940Z</updated>
+        <content type="html"><![CDATA[뉴욕부터 런던, 밀라노, 파리까지 패션위크를 찾은 스타들의 멋진 순간들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피아제가 만든 환상의 앙상블]]></title>
+        <id>https://www.elle.co.kr/article/81218</id>
+        <link href="https://www.elle.co.kr/article/81218"/>
+        <updated>2023-10-12T05:40:28.952Z</updated>
+        <content type="html"><![CDATA[스틸과 핑크 골드가 완벽하게 어우러진 시계.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조용히 빛을 발하는 올드머니 스타일]]></title>
         <id>https://www.elle.co.kr/article/81153</id>
@@ -45,19 +59,5 @@
         <link href="https://www.elle.co.kr/article/80960"/>
         <updated>2023-10-07T05:39:56.441Z</updated>
         <content type="html"><![CDATA[불가리 ‘디바스 드림’ 컬렉션과 함께한 관능적 순간.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니퍼 로렌스가 사랑한 그 컬러! 다채로운 그레이의 매력에 빠질 시간]]></title>
-        <id>https://www.elle.co.kr/article/81114</id>
-        <link href="https://www.elle.co.kr/article/81114"/>
-        <updated>2023-10-07T05:39:56.446Z</updated>
-        <content type="html"><![CDATA[머리부터 발끝까지, 이번 시즌 키 컬러 '그레이'로 휘감은 스타들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반짝반짝 눈이 부셔!]]></title>
-        <id>https://www.elle.co.kr/article/81064</id>
-        <link href="https://www.elle.co.kr/article/81064"/>
-        <updated>2023-10-06T05:39:46.796Z</updated>
-        <content type="html"><![CDATA[마주하는 순간 빠져든다. 극강의 반짝임을 가진 워치 &amp; 주얼리가 전하는 황홀경.]]></content>
     </entry>
 </feed>
