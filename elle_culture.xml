@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 05:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 17:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한식 디저트의 새로운 얼굴들]]></title>
+            <link>https://www.elle.co.kr/article/81219</link>
+            <guid>https://www.elle.co.kr/article/81219</guid>
+            <pubDate>Thu, 12 Oct 2023 17:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[약과부터 양갱까지. 한국 전통 디저트 신에 새롭게 등장한 얼굴을 찾았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/583b3588-f31d-4de4-909e-0bc669addc4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['덴스크' 대표 김효진의 리빙룸 #나의거실은]]></title>
             <link>https://www.elle.co.kr/article/81215</link>
@@ -61,13 +69,6 @@
             <guid>https://www.elle.co.kr/article/81183</guid>
             <pubDate>Mon, 09 Oct 2023 17:41:10 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/602c226f-c444-4423-9923-9a5346bb3eb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3회 연속 AG 금메달까지 단 한 걸음, 결승에서 만난 일본! 축구 한일전 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/81180</link>
-            <guid>https://www.elle.co.kr/article/81180</guid>
-            <pubDate>Sat, 07 Oct 2023 17:40:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/2ffd157d-a1b3-4828-953b-43e494ca43ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
