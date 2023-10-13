@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 17:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 05:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매 회차가 레전드, 허파 디비지는 '나는 솔로' 16기 유행어 5]]></title>
+            <link>https://www.elle.co.kr/article/81303</link>
+            <guid>https://www.elle.co.kr/article/81303</guid>
+            <pubDate>Fri, 13 Oct 2023 05:41:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/5a88df50-903e-4e6a-bcb0-e07b35545676.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김혜수 생일 맞아 총출동한 절친들은 누구? #우정스타그램]]></title>
             <link>https://www.elle.co.kr/article/81293</link>
@@ -57,14 +64,6 @@
             <pubDate>Wed, 11 Oct 2023 17:40:17 GMT</pubDate>
             <content:encoded><![CDATA[여전히 정말 더 잘하고 싶은 마음으로 가득한 지민, 엘르와의 첫 번째 조우.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/17e5dbfa-243c-4440-b78d-46a2731e1056.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션위크를 즐기고 온 스타들]]></title>
-            <link>https://www.elle.co.kr/article/81230</link>
-            <guid>https://www.elle.co.kr/article/81230</guid>
-            <pubDate>Wed, 11 Oct 2023 05:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕부터 런던, 밀라노, 파리까지 패션위크를 찾은 스타들의 멋진 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/281c24f8-39aa-458a-9870-a49d19498509.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-10-12T17:41:58.956Z</updated>
+    <updated>2023-10-13T05:42:36.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[궁중갈비찜으로 미트 파이를? 채정안의 전주 맛집 투어 3]]></title>
+        <id>https://www.elle.co.kr/article/81210</id>
+        <link href="https://www.elle.co.kr/article/81210"/>
+        <updated>2023-10-13T05:42:25.457Z</updated>
+        <content type="html"><![CDATA[맛집이 즐비한 전주에서 놓치지 말아야 할 핫 플레이스, 채정안의 가이드를 따라 먹킷리스트를 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올드머니 느낌 물씬! 뉴트럴톤 하우스]]></title>
         <id>https://www.elle.co.kr/article/81170</id>
@@ -51,12 +58,5 @@
         <id>https://www.elle.co.kr/article/81062</id>
         <link href="https://www.elle.co.kr/article/81062"/>
         <updated>2023-10-06T17:40:59.709Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을이 성큼! 제철을 맞은 무화과 디저트 맛집 3]]></title>
-        <id>https://www.elle.co.kr/article/81039</id>
-        <link href="https://www.elle.co.kr/article/81039"/>
-        <updated>2023-10-06T17:40:59.710Z</updated>
-        <content type="html"><![CDATA[유난히 짧아 더 아쉬운 무화과 철을 제대로 즐기는 법. 가을 한정 무화과 디저트 맛집에 방문...]]></content>
     </entry>
 </feed>
