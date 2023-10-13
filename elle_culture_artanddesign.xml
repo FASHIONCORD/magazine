@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 05:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 17:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실로 감싼 파이프가 전하는 한 줌의 온기]]></title>
+            <link>https://www.elle.co.kr/article/81294</link>
+            <guid>https://www.elle.co.kr/article/81294</guid>
+            <pubDate>Fri, 13 Oct 2023 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[금속과 실의 이토록 따뜻하고 명랑한 조우.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/fec0fc02-0bc9-4d0d-99c4-5c578a43771e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공예와 예술로 채운 비밀스러운 숍, 월 한남]]></title>
             <link>https://www.elle.co.kr/article/81305</link>
@@ -35,7 +43,6 @@
             <link>https://www.elle.co.kr/article/81190</link>
             <guid>https://www.elle.co.kr/article/81190</guid>
             <pubDate>Tue, 10 Oct 2023 17:41:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/8087c2b9-135a-426b-88a8-56441147ed37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한식 디저트의 새로운 얼굴들]]></title>
@@ -92,12 +99,6 @@
             <guid>https://www.elle.co.kr/article/81146</guid>
             <pubDate>Thu, 05 Oct 2023 17:41:13 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아 베로나에서 만난 20세기 건축가 카를로 스카르파.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1980년대 캘리포니아 주택을 사랑스러운 놀이터로 가꾼 워킹맘 브릴의 랜선 집들이 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/81132</link>
-            <guid>https://www.elle.co.kr/article/81132</guid>
-            <pubDate>Thu, 05 Oct 2023 05:41:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

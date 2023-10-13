@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-13T05:42:36.703Z</updated>
+    <updated>2023-10-13T17:41:48.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옷장 속 잠자고 있던 '이것'을 꺼내야 할 시기! 레더 재킷 멋스럽게 소화하는 법 5]]></title>
+        <id>https://www.elle.co.kr/article/81258</id>
+        <link href="https://www.elle.co.kr/article/81258"/>
+        <updated>2023-10-13T17:40:20.626Z</updated>
+        <content type="html"><![CDATA[패션 감각 좋은 스타들에게서 실패 없는 레더 재킷 스타일링 팁을 배워보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MY LUCKY CHARM]]></title>
         <id>https://www.elle.co.kr/article/81257</id>
@@ -52,12 +59,5 @@
         <id>https://www.elle.co.kr/article/81165</id>
         <link href="https://www.elle.co.kr/article/81165"/>
         <updated>2023-10-10T05:40:52.477Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아니스트 선우예권]]></title>
-        <id>https://www.elle.co.kr/article/81124</id>
-        <link href="https://www.elle.co.kr/article/81124"/>
-        <updated>2023-10-09T17:40:07.977Z</updated>
-        <content type="html"><![CDATA[고요하다가 어느 순간 높은 파도로 거대해질지 모르는 잔잔한 물결 같은 선우예권의 선율.]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 05:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 17:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#Streetsnaps: 다이나믹 듀오]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36719498&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36719498&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 13 Oct 2023 17:39:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTNfNTQg/MDAxNjk3MTc3NzM0ODI4.MGsGFA1R3tbYdIFy9gmwC0A67OVBzNl8LKGvgGBfGF4g.ryg0t6JumwBDNejVaAPEkv-yluuHo2VOR7e13xwdUaYg.JPEG/IeTM6hevpT2qjBdBbn6_hSrXtjyc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴 블랑코 인터뷰: 자신의 음악을 믿고 나아가는 자]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36705227&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 03 Jan 2023 05:39:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDJfMTg2/MDAxNjcyNjQ0Nzk0MTYw.LNmeVc69Usdm05Zu_0B-dEk3NLxvXPc1I8ov7D56ZGQg.n5WTnr5pylk_1rSgS_7eTta9gmN1Ur-SthTC6g-WAO0g.JPEG/I6CBvhFyrSJfU5uJIJNI4fqGGeTU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#Streetsnaps: 키스 에이프]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35046516&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35046516&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 29 Dec 2022 17:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjlfNjMg/MDAxNjcyMjg0ODA3NTg1.jZUUz8Few7i8CPXQra_KUliuItN7Dn6Ye679GXgWLrIg.QE_tLTZZ3jGaGD3Md19cDTRXxMrrwkq0-c1Zcj7t20Ag.JPEG/IcwYc5sWk0b2y2oNMyHV80U3bC-E.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
