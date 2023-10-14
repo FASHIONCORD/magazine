@@ -1,63 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-13T17:41:48.983Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[옷장 속 잠자고 있던 '이것'을 꺼내야 할 시기! 레더 재킷 멋스럽게 소화하는 법 5]]></title>
-        <id>https://www.elle.co.kr/article/81258</id>
-        <link href="https://www.elle.co.kr/article/81258"/>
-        <updated>2023-10-13T17:40:20.626Z</updated>
-        <content type="html"><![CDATA[패션 감각 좋은 스타들에게서 실패 없는 레더 재킷 스타일링 팁을 배워보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MY LUCKY CHARM]]></title>
-        <id>https://www.elle.co.kr/article/81257</id>
-        <link href="https://www.elle.co.kr/article/81257"/>
-        <updated>2023-10-13T05:40:38.238Z</updated>
-        <content type="html"><![CDATA[찰랑, 샤르륵, 딸깍. 궁극의 우아함을 품은 샤넬 화인 주얼리의 가장 현대적인 애티튜드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션위크를 즐기고 온 스타들]]></title>
-        <id>https://www.elle.co.kr/article/81230</id>
-        <link href="https://www.elle.co.kr/article/81230"/>
-        <updated>2023-10-12T05:40:28.940Z</updated>
-        <content type="html"><![CDATA[뉴욕부터 런던, 밀라노, 파리까지 패션위크를 찾은 스타들의 멋진 순간들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아제가 만든 환상의 앙상블]]></title>
-        <id>https://www.elle.co.kr/article/81218</id>
-        <link href="https://www.elle.co.kr/article/81218"/>
-        <updated>2023-10-12T05:40:28.952Z</updated>
-        <content type="html"><![CDATA[스틸과 핑크 골드가 완벽하게 어우러진 시계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조용히 빛을 발하는 올드머니 스타일]]></title>
-        <id>https://www.elle.co.kr/article/81153</id>
-        <link href="https://www.elle.co.kr/article/81153"/>
-        <updated>2023-10-11T17:39:57.681Z</updated>
-        <content type="html"><![CDATA[머리부터 발끝까지 고요한 우아함 속, 살며시 빛나는 워치&amp;주얼리를 주목할 것.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s JUNH O’ clock!(feat. 피아제) #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/81199</id>
-        <link href="https://www.elle.co.kr/article/81199"/>
-        <updated>2023-10-11T05:40:20.256Z</updated>
-        <content type="html"><![CDATA[잔잔하고 푸르게 흘러가는 시간. 피아제와 함께한 이준호의 ELLE D Edition.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호, <엘르> 디 에디션(D Edition) 10월 커버 공개 #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/81168</id>
-        <link href="https://www.elle.co.kr/article/81168"/>
-        <updated>2023-10-10T17:39:56.785Z</updated>
-        <content type="html"><![CDATA[이준호, 새로운 남성미의 정립.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신감 넘치는 모습으로 돌아온 80년대 여인들]]></title>
-        <id>https://www.elle.co.kr/article/81165</id>
-        <link href="https://www.elle.co.kr/article/81165"/>
-        <updated>2023-10-10T05:40:52.477Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 14 Oct 2023 05:41:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션계를 사로잡은 파인 주얼리]]></title>
+            <link>https://www.elle.co.kr/article/81280</link>
+            <guid>https://www.elle.co.kr/article/81280</guid>
+            <pubDate>Sat, 14 Oct 2023 05:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[패션하우스가 파인 주얼리에 주목하기 시작했다. 패션 코드가 주입된 파인 주얼리의 다채로운 면...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/1b9d5314-1430-4bf6-8a62-5bf2bac72fca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애니멀 프린트가 왠지 어렵게 느껴진다면 이들처럼!]]></title>
+            <link>https://www.elle.co.kr/article/81308</link>
+            <guid>https://www.elle.co.kr/article/81308</guid>
+            <pubDate>Sat, 14 Oct 2023 05:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[한소희부터 지수까지, 애니멀 프린트를 웨어러블하고 스타일리시하게 활용하는 여섯 가지 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/1a5be993-8810-430a-8fdd-7ee143f957a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[식스센스]]></title>
+            <link>https://www.elle.co.kr/article/81259</link>
+            <guid>https://www.elle.co.kr/article/81259</guid>
+            <pubDate>Sat, 14 Oct 2023 05:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[남다른 센스와 대담함으로 워치 &amp; 주얼리의 세상을 평정한 남자들. 경계를 허물고 자신만의 색...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/97238721-93d3-4e31-8f1a-0f814de18868.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옷장 속 잠자고 있던 '이것'을 꺼내야 할 시기! 레더 재킷 멋스럽게 소화하는 법 5]]></title>
+            <link>https://www.elle.co.kr/article/81258</link>
+            <guid>https://www.elle.co.kr/article/81258</guid>
+            <pubDate>Fri, 13 Oct 2023 17:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[패션 감각 좋은 스타들에게서 실패 없는 레더 재킷 스타일링 팁을 배워보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/015f2c95-d2f7-4f6e-8e1b-4720830ad7c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MY LUCKY CHARM]]></title>
+            <link>https://www.elle.co.kr/article/81257</link>
+            <guid>https://www.elle.co.kr/article/81257</guid>
+            <pubDate>Fri, 13 Oct 2023 05:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[찰랑, 샤르륵, 딸깍. 궁극의 우아함을 품은 샤넬 화인 주얼리의 가장 현대적인 애티튜드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/0bffc496-12de-4e3b-9dbf-a01c81725153.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션위크를 즐기고 온 스타들]]></title>
+            <link>https://www.elle.co.kr/article/81230</link>
+            <guid>https://www.elle.co.kr/article/81230</guid>
+            <pubDate>Thu, 12 Oct 2023 05:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕부터 런던, 밀라노, 파리까지 패션위크를 찾은 스타들의 멋진 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/281c24f8-39aa-458a-9870-a49d19498509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피아제가 만든 환상의 앙상블]]></title>
+            <link>https://www.elle.co.kr/article/81218</link>
+            <guid>https://www.elle.co.kr/article/81218</guid>
+            <pubDate>Thu, 12 Oct 2023 05:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[스틸과 핑크 골드가 완벽하게 어우러진 시계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/24fbcf3f-dcce-4348-8cec-4ee0bd7233a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용히 빛을 발하는 올드머니 스타일]]></title>
+            <link>https://www.elle.co.kr/article/81153</link>
+            <guid>https://www.elle.co.kr/article/81153</guid>
+            <pubDate>Wed, 11 Oct 2023 17:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[머리부터 발끝까지 고요한 우아함 속, 살며시 빛나는 워치&amp;주얼리를 주목할 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/b2fd2c27-8dd2-4281-8cf8-b95c6bedc149.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

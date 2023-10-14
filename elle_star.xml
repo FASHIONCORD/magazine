@@ -1,68 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 17:41:48 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[안혜경이 신혼여행 다녀오자마자 달려간 곳은? 건강 체형 유지 비결 총정리 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81329</link>
-            <guid>https://www.elle.co.kr/article/81329</guid>
-            <pubDate>Fri, 13 Oct 2023 17:40:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/3e2f5edf-b485-440e-bffb-8d513c38db91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쌍둥바오 이름 결정! 처음 실물 공개한 루이바오X후이바오 뜻은?]]></title>
-            <link>https://www.elle.co.kr/article/81316</link>
-            <guid>https://www.elle.co.kr/article/81316</guid>
-            <pubDate>Fri, 13 Oct 2023 17:40:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/02a0833c-e50e-45cc-b8a5-cbd101ead4d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 1년? 공효진-케빈오, 첫 번째 결혼기념일에 공개한 달달 럽스타그램.jpg]]></title>
-            <link>https://www.elle.co.kr/article/81310</link>
-            <guid>https://www.elle.co.kr/article/81310</guid>
-            <pubDate>Fri, 13 Oct 2023 17:40:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/b1fdf28d-3dc9-4b3e-a105-4a670eda9886.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매 회차가 레전드, 허파 디비지는 '나는 솔로' 16기 유행어 5]]></title>
-            <link>https://www.elle.co.kr/article/81303</link>
-            <guid>https://www.elle.co.kr/article/81303</guid>
-            <pubDate>Fri, 13 Oct 2023 05:41:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/5a88df50-903e-4e6a-bcb0-e07b35545676.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김혜수 생일 맞아 총출동한 절친들은 누구? #우정스타그램]]></title>
-            <link>https://www.elle.co.kr/article/81293</link>
-            <guid>https://www.elle.co.kr/article/81293</guid>
-            <pubDate>Thu, 12 Oct 2023 17:40:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/00059f2d-f3c3-4bd9-900e-d0316da2e323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무려 4년 만에 근황 전한 박한별, 요즘 꽂혔다는 카이트서핑은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81292</link>
-            <guid>https://www.elle.co.kr/article/81292</guid>
-            <pubDate>Thu, 12 Oct 2023 17:40:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/4f4087be-3453-4a44-843c-578b9fa3356c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모어 청하 플리즈! 청하가 1년 3개월 만에 새 인스타그램 개설한 배경 (ft. 박재범)]]></title>
-            <link>https://www.elle.co.kr/article/81267</link>
-            <guid>https://www.elle.co.kr/article/81267</guid>
-            <pubDate>Thu, 12 Oct 2023 05:40:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/92b12cd1-f934-4a79-8df2-ea8456dbaed3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진가 이경준의 시선]]></title>
-            <link>https://www.elle.co.kr/article/81175</link>
-            <guid>https://www.elle.co.kr/article/81175</guid>
-            <pubDate>Thu, 12 Oct 2023 05:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[이경준 작가는 날아가는 새의 시선처럼 넓은 세상을 바라본다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/27bb730d-d5dd-4b7b-9ef7-b97057de1c27.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-10-14T05:41:43.376Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[말벌이 왜 거기서 나와? 유재석과 수영 금메달리스트 4인방 대화 도중 벌어진 일]]></title>
+        <id>https://www.elle.co.kr/article/81330</id>
+        <link href="https://www.elle.co.kr/article/81330"/>
+        <updated>2023-10-14T05:40:35.490Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안혜경이 신혼여행 다녀오자마자 달려간 곳은? 건강 체형 유지 비결 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81329</id>
+        <link href="https://www.elle.co.kr/article/81329"/>
+        <updated>2023-10-13T17:40:43.536Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쌍둥바오 이름 결정! 처음 실물 공개한 루이바오X후이바오 뜻은?]]></title>
+        <id>https://www.elle.co.kr/article/81316</id>
+        <link href="https://www.elle.co.kr/article/81316"/>
+        <updated>2023-10-13T17:40:43.542Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벌써 1년? 공효진-케빈오, 첫 번째 결혼기념일에 공개한 달달 럽스타그램.jpg]]></title>
+        <id>https://www.elle.co.kr/article/81310</id>
+        <link href="https://www.elle.co.kr/article/81310"/>
+        <updated>2023-10-13T17:40:43.552Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매 회차가 레전드, 허파 디비지는 '나는 솔로' 16기 유행어 5]]></title>
+        <id>https://www.elle.co.kr/article/81303</id>
+        <link href="https://www.elle.co.kr/article/81303"/>
+        <updated>2023-10-13T05:41:29.211Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김혜수 생일 맞아 총출동한 절친들은 누구? #우정스타그램]]></title>
+        <id>https://www.elle.co.kr/article/81293</id>
+        <link href="https://www.elle.co.kr/article/81293"/>
+        <updated>2023-10-12T17:40:54.345Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무려 4년 만에 근황 전한 박한별, 요즘 꽂혔다는 카이트서핑은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81292</id>
+        <link href="https://www.elle.co.kr/article/81292"/>
+        <updated>2023-10-12T17:40:54.377Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모어 청하 플리즈! 청하가 1년 3개월 만에 새 인스타그램 개설한 배경 (ft. 박재범)]]></title>
+        <id>https://www.elle.co.kr/article/81267</id>
+        <link href="https://www.elle.co.kr/article/81267"/>
+        <updated>2023-10-12T05:40:49.803Z</updated>
+    </entry>
+</feed>
