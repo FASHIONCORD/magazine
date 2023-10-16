@@ -4,9 +4,22 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 17:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 05:41:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르세라핌과 루이 비통의 반가운 조우]]></title>
+            <link>https://www.elle.co.kr/article/81360</link>
+            <guid>https://www.elle.co.kr/article/81360</guid>
+            <pubDate>Mon, 16 Oct 2023 05:39:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[올가을 스타일 치트키! 스타킹 활용하는 법]]></title>
+            <link>https://www.elle.co.kr/article/81356</link>
+            <guid>https://www.elle.co.kr/article/81356</guid>
+            <pubDate>Mon, 16 Oct 2023 05:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[멋있는 언니들은 스타킹을 신지!]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[보기 좋은 '빗'이 '빗기도' 좋다]]></title>
             <link>https://www.elle.co.kr/article/81296</link>
@@ -34,6 +47,7 @@
             <guid>https://www.elle.co.kr/article/81308</guid>
             <pubDate>Sat, 14 Oct 2023 05:40:12 GMT</pubDate>
             <content:encoded><![CDATA[한소희부터 지수까지, 애니멀 프린트를 웨어러블하고 스타일리시하게 활용하는 여섯 가지 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/1a5be993-8810-430a-8fdd-7ee143f957a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[식스센스]]></title>
@@ -41,6 +55,7 @@
             <guid>https://www.elle.co.kr/article/81259</guid>
             <pubDate>Sat, 14 Oct 2023 05:40:12 GMT</pubDate>
             <content:encoded><![CDATA[남다른 센스와 대담함으로 워치 &amp; 주얼리의 세상을 평정한 남자들. 경계를 허물고 자신만의 색...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/97238721-93d3-4e31-8f1a-0f814de18868.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옷장 속 잠자고 있던 '이것'을 꺼내야 할 시기! 레더 재킷 멋스럽게 소화하는 법 5]]></title>
@@ -48,21 +63,7 @@
             <guid>https://www.elle.co.kr/article/81258</guid>
             <pubDate>Fri, 13 Oct 2023 17:40:20 GMT</pubDate>
             <content:encoded><![CDATA[패션 감각 좋은 스타들에게서 실패 없는 레더 재킷 스타일링 팁을 배워보세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MY LUCKY CHARM]]></title>
-            <link>https://www.elle.co.kr/article/81257</link>
-            <guid>https://www.elle.co.kr/article/81257</guid>
-            <pubDate>Fri, 13 Oct 2023 05:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[찰랑, 샤르륵, 딸깍. 궁극의 우아함을 품은 샤넬 화인 주얼리의 가장 현대적인 애티튜드.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[패션위크를 즐기고 온 스타들]]></title>
-            <link>https://www.elle.co.kr/article/81230</link>
-            <guid>https://www.elle.co.kr/article/81230</guid>
-            <pubDate>Thu, 12 Oct 2023 05:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕부터 런던, 밀라노, 파리까지 패션위크를 찾은 스타들의 멋진 순간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/281c24f8-39aa-458a-9870-a49d19498509.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/015f2c95-d2f7-4f6e-8e1b-4720830ad7c0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
