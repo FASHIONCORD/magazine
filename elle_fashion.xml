@@ -1,69 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 05:41:52 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[르세라핌과 루이 비통의 반가운 조우]]></title>
-            <link>https://www.elle.co.kr/article/81360</link>
-            <guid>https://www.elle.co.kr/article/81360</guid>
-            <pubDate>Mon, 16 Oct 2023 05:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[올가을 스타일 치트키! 스타킹 활용하는 법]]></title>
-            <link>https://www.elle.co.kr/article/81356</link>
-            <guid>https://www.elle.co.kr/article/81356</guid>
-            <pubDate>Mon, 16 Oct 2023 05:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[멋있는 언니들은 스타킹을 신지!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보기 좋은 '빗'이 '빗기도' 좋다]]></title>
-            <link>https://www.elle.co.kr/article/81296</link>
-            <guid>https://www.elle.co.kr/article/81296</guid>
-            <pubDate>Sun, 15 Oct 2023 05:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[갖고 싶어, 그 빗!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 레전드 워치]]></title>
-            <link>https://www.elle.co.kr/article/81277</link>
-            <guid>https://www.elle.co.kr/article/81277</guid>
-            <pubDate>Sat, 14 Oct 2023 17:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[전설은 계속된다. 원형 시계의 미학적 코드를 계승함과 동시에 현대적 기술력을 더해 다시금 우...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[패션계를 사로잡은 파인 주얼리]]></title>
-            <link>https://www.elle.co.kr/article/81280</link>
-            <guid>https://www.elle.co.kr/article/81280</guid>
-            <pubDate>Sat, 14 Oct 2023 05:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[패션하우스가 파인 주얼리에 주목하기 시작했다. 패션 코드가 주입된 파인 주얼리의 다채로운 면...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애니멀 프린트가 왠지 어렵게 느껴진다면 이들처럼!]]></title>
-            <link>https://www.elle.co.kr/article/81308</link>
-            <guid>https://www.elle.co.kr/article/81308</guid>
-            <pubDate>Sat, 14 Oct 2023 05:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[한소희부터 지수까지, 애니멀 프린트를 웨어러블하고 스타일리시하게 활용하는 여섯 가지 방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/1a5be993-8810-430a-8fdd-7ee143f957a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식스센스]]></title>
-            <link>https://www.elle.co.kr/article/81259</link>
-            <guid>https://www.elle.co.kr/article/81259</guid>
-            <pubDate>Sat, 14 Oct 2023 05:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[남다른 센스와 대담함으로 워치 &amp; 주얼리의 세상을 평정한 남자들. 경계를 허물고 자신만의 색...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/97238721-93d3-4e31-8f1a-0f814de18868.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷장 속 잠자고 있던 '이것'을 꺼내야 할 시기! 레더 재킷 멋스럽게 소화하는 법 5]]></title>
-            <link>https://www.elle.co.kr/article/81258</link>
-            <guid>https://www.elle.co.kr/article/81258</guid>
-            <pubDate>Fri, 13 Oct 2023 17:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[패션 감각 좋은 스타들에게서 실패 없는 레더 재킷 스타일링 팁을 배워보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/015f2c95-d2f7-4f6e-8e1b-4720830ad7c0.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-10-16T17:43:02.739Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진리의 화이트 다이아몬드]]></title>
+        <id>https://www.elle.co.kr/article/81341</id>
+        <link href="https://www.elle.co.kr/article/81341"/>
+        <updated>2023-10-16T17:40:30.454Z</updated>
+        <content type="html"><![CDATA[어둠 속에서 진가를 드러내는 화이트 다이아몬드.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[르세라핌과 루이 비통의 반가운 조우]]></title>
+        <id>https://www.elle.co.kr/article/81360</id>
+        <link href="https://www.elle.co.kr/article/81360"/>
+        <updated>2023-10-16T05:39:56.590Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올가을 스타일 치트키! 스타킹 활용하는 법]]></title>
+        <id>https://www.elle.co.kr/article/81356</id>
+        <link href="https://www.elle.co.kr/article/81356"/>
+        <updated>2023-10-16T05:39:56.591Z</updated>
+        <content type="html"><![CDATA[멋있는 언니들은 스타킹을 신지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보기 좋은 '빗'이 '빗기도' 좋다]]></title>
+        <id>https://www.elle.co.kr/article/81296</id>
+        <link href="https://www.elle.co.kr/article/81296"/>
+        <updated>2023-10-15T05:39:49.717Z</updated>
+        <content type="html"><![CDATA[갖고 싶어, 그 빗!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돌아온 레전드 워치]]></title>
+        <id>https://www.elle.co.kr/article/81277</id>
+        <link href="https://www.elle.co.kr/article/81277"/>
+        <updated>2023-10-14T17:40:09.793Z</updated>
+        <content type="html"><![CDATA[전설은 계속된다. 원형 시계의 미학적 코드를 계승함과 동시에 현대적 기술력을 더해 다시금 우...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패션계를 사로잡은 파인 주얼리]]></title>
+        <id>https://www.elle.co.kr/article/81280</id>
+        <link href="https://www.elle.co.kr/article/81280"/>
+        <updated>2023-10-14T05:40:12.218Z</updated>
+        <content type="html"><![CDATA[패션하우스가 파인 주얼리에 주목하기 시작했다. 패션 코드가 주입된 파인 주얼리의 다채로운 면...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애니멀 프린트가 왠지 어렵게 느껴진다면 이들처럼!]]></title>
+        <id>https://www.elle.co.kr/article/81308</id>
+        <link href="https://www.elle.co.kr/article/81308"/>
+        <updated>2023-10-14T05:40:12.222Z</updated>
+        <content type="html"><![CDATA[한소희부터 지수까지, 애니멀 프린트를 웨어러블하고 스타일리시하게 활용하는 여섯 가지 방법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식스센스]]></title>
+        <id>https://www.elle.co.kr/article/81259</id>
+        <link href="https://www.elle.co.kr/article/81259"/>
+        <updated>2023-10-14T05:40:12.225Z</updated>
+        <content type="html"><![CDATA[남다른 센스와 대담함으로 워치 &amp; 주얼리의 세상을 평정한 남자들. 경계를 허물고 자신만의 색...]]></content>
+    </entry>
+</feed>
