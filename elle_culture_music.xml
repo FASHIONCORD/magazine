@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 05:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 17:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작지만 결코 작지 않은, 타이니 데스크 코리아의 시작]]></title>
+            <link>https://www.elle.co.kr/article/81322</link>
+            <guid>https://www.elle.co.kr/article/81322</guid>
+            <pubDate>Tue, 17 Oct 2023 17:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[타이니 데스크 코리아는 K팝이 주도하는 지금의 음악 씬에 어떤 변화를 선사할 수 있을까]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b9ce2ee2-4938-4ef2-a5cb-52c62baa6341.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 이후 7년 만의 YG 걸그룹! 베이비몬스터, 데뷔 2개월 밀린 이유]]></title>
             <link>https://www.elle.co.kr/article/81346</link>
@@ -34,7 +42,6 @@
             <link>https://www.elle.co.kr/article/80968</link>
             <guid>https://www.elle.co.kr/article/80968</guid>
             <pubDate>Wed, 27 Sep 2023 05:41:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/ba73358c-d529-48f6-bc79-0827a2bb49c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 전원 하이브와 두 번째 재계약! 완전체 볼 수 있는 시기는? (ft. 군 복무 스케줄)]]></title>
@@ -84,12 +91,6 @@
             <link>https://www.elle.co.kr/article/79325</link>
             <guid>https://www.elle.co.kr/article/79325</guid>
             <pubDate>Thu, 20 Jul 2023 17:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국, 한소희와 말싸움? 짧지만 강렬한 첫 솔로 MV 티저.avi]]></title>
-            <link>https://www.elle.co.kr/article/79147</link>
-            <guid>https://www.elle.co.kr/article/79147</guid>
-            <pubDate>Thu, 13 Jul 2023 17:41:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

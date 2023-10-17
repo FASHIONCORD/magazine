@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-10-17T05:41:47.144Z</updated>
+    <updated>2023-10-17T17:42:05.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쌍둥바오 이름 결정! 처음 실물 공개한 루이바오X후이바오 뜻은?]]></title>
+        <id>https://www.elle.co.kr/article/81316</id>
+        <link href="https://www.elle.co.kr/article/81316"/>
+        <updated>2023-10-17T17:41:54.574Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성신여자대학교에 벨리곰이 떴다?]]></title>
         <id>https://www.elle.co.kr/article/81264</id>
@@ -52,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/81181"/>
         <updated>2023-10-10T17:41:10.139Z</updated>
         <content type="html"><![CDATA[그윽해진 서울의 풍경을 감상할 수 있는 카페 두 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직 늦지 않았다! 2023 여의도 불꽃축제, 체크해야 할 불꽃 명당 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/81178</id>
-        <link href="https://www.elle.co.kr/article/81178"/>
-        <updated>2023-10-10T17:41:10.142Z</updated>
     </entry>
 </feed>

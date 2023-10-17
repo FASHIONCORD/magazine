@@ -4,9 +4,32 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 05:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 17:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람을 위한 디자인을 지향하는, 르모듈러 대표 권희숙]]></title>
+            <link>https://www.elle.co.kr/article/81323</link>
+            <guid>https://www.elle.co.kr/article/81323</guid>
+            <pubDate>Tue, 17 Oct 2023 17:41:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/de9916b9-cc92-4d16-8938-f79ab3a5e5ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100년 만에 제모습 찾은 광화문! 달라진 점은?]]></title>
+            <link>https://www.elle.co.kr/article/81371</link>
+            <guid>https://www.elle.co.kr/article/81371</guid>
+            <pubDate>Tue, 17 Oct 2023 17:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[금빛 글씨 입은 '광화문' 석 자와 돌아온 월대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/445c8ff9-d9f1-443b-80d9-cca2ea0c2b2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다]]></title>
+            <link>https://www.elle.co.kr/article/81370</link>
+            <guid>https://www.elle.co.kr/article/81370</guid>
+            <pubDate>Tue, 17 Oct 2023 17:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/c8a973b1-1c7e-4d1e-96cf-265729935522.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실로 감싼 파이프가 전하는 한 줌의 온기]]></title>
             <link>https://www.elle.co.kr/article/81294</link>
@@ -43,28 +66,6 @@
             <guid>https://www.elle.co.kr/article/81313</guid>
             <pubDate>Sun, 15 Oct 2023 17:40:25 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/3c06f5df-75b4-453d-820c-1ff7c3fbc3b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매 회차가 레전드, 허파 디비지는 '나는 솔로' 16기 유행어 5]]></title>
-            <link>https://www.elle.co.kr/article/81303</link>
-            <guid>https://www.elle.co.kr/article/81303</guid>
-            <pubDate>Fri, 13 Oct 2023 17:40:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/5a88df50-903e-4e6a-bcb0-e07b35545676.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성신여자대학교에 벨리곰이 떴다?]]></title>
-            <link>https://www.elle.co.kr/article/81264</link>
-            <guid>https://www.elle.co.kr/article/81264</guid>
-            <pubDate>Fri, 13 Oct 2023 17:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[엘르보이스 일일 셀러브리티로 변신한 벨리곰 B4의 깜짝 공연!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/7804e0ec-6d3e-4dee-8f70-48b44ddba621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흔들흔들, 책 읽기 좋은 날]]></title>
-            <link>https://www.elle.co.kr/article/81190</link>
-            <guid>https://www.elle.co.kr/article/81190</guid>
-            <pubDate>Fri, 13 Oct 2023 17:40:55 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/8087c2b9-135a-426b-88a8-56441147ed37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
