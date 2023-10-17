@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-16T17:43:02.739Z</updated>
+    <updated>2023-10-17T05:41:47.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아트로 진화한 가방]]></title>
+        <id>https://www.elle.co.kr/article/81366</id>
+        <link href="https://www.elle.co.kr/article/81366"/>
+        <updated>2023-10-17T05:39:51.146Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진리의 화이트 다이아몬드]]></title>
         <id>https://www.elle.co.kr/article/81341</id>
@@ -52,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/81308"/>
         <updated>2023-10-14T05:40:12.222Z</updated>
         <content type="html"><![CDATA[한소희부터 지수까지, 애니멀 프린트를 웨어러블하고 스타일리시하게 활용하는 여섯 가지 방법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식스센스]]></title>
-        <id>https://www.elle.co.kr/article/81259</id>
-        <link href="https://www.elle.co.kr/article/81259"/>
-        <updated>2023-10-14T05:40:12.225Z</updated>
-        <content type="html"><![CDATA[남다른 센스와 대담함으로 워치 &amp; 주얼리의 세상을 평정한 남자들. 경계를 허물고 자신만의 색...]]></content>
     </entry>
 </feed>

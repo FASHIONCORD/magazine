@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 17:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 05:41:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이건 먹어도 돼! 유지어트를 위한 외식 가이드 #다이어터디터]]></title>
+            <link>https://www.elle.co.kr/article/81364</link>
+            <guid>https://www.elle.co.kr/article/81364</guid>
+            <pubDate>Tue, 17 Oct 2023 05:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[-22kg 감량 에디터, 이렇게 유지어터 중!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/8af49c3c-6827-4a0b-8dcf-ed47672f4dfa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안혜경이 신혼여행 다녀오자마자 달려간 곳은? 건강 체형 유지 비결 총정리 #스타다이어트]]></title>
             <link>https://www.elle.co.kr/article/81329</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 11 Oct 2023 17:40:08 GMT</pubDate>
             <content:encoded><![CDATA[탕후루의 유행이 입술까지?! 나나처럼 매끈하게 빛나는 글로시 립 연출하는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/8b0bdcee-8e59-408f-884d-a4f55eb46fbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 가을 네일, 이것만 따라해!]]></title>
-            <link>https://www.elle.co.kr/article/81134</link>
-            <guid>https://www.elle.co.kr/article/81134</guid>
-            <pubDate>Wed, 11 Oct 2023 05:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[국내에서 가장 '핫'한 네일 아티스트 6인이 제안하는 2023 가을 네일 아트 굿 샘플러!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/6502b2ca-3a79-4eab-bb84-be9960e496ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
