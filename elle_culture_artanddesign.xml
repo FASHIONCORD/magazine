@@ -1,96 +1,389 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/artanddesign</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-10-17T17:42:05.678Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[취미는 ‘적게 갖기’라 하네 #비움라이프]]></title>
-        <id>https://www.elle.co.kr/article/81320</id>
-        <link href="https://www.elle.co.kr/article/81320"/>
-        <updated>2023-10-17T17:41:46.044Z</updated>
-        <content type="html"><![CDATA[전 &lt;엘르&gt; 패션 에디터 김미강에게 미니멀라이프에 대해 물었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람을 위한 디자인을 지향하는, 르모듈러 대표 권희숙]]></title>
-        <id>https://www.elle.co.kr/article/81323</id>
-        <link href="https://www.elle.co.kr/article/81323"/>
-        <updated>2023-10-15T17:40:50.609Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100년 만에 제모습 찾은 광화문! 달라진 점은?]]></title>
-        <id>https://www.elle.co.kr/article/81371</id>
-        <link href="https://www.elle.co.kr/article/81371"/>
-        <updated>2023-10-15T17:40:50.610Z</updated>
-        <content type="html"><![CDATA[금빛 글씨 입은 '광화문' 석 자와 돌아온 월대.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다]]></title>
-        <id>https://www.elle.co.kr/article/81370</id>
-        <link href="https://www.elle.co.kr/article/81370"/>
-        <updated>2023-10-15T17:40:50.613Z</updated>
-        <content type="html"><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실로 감싼 파이프가 전하는 한 줌의 온기]]></title>
-        <id>https://www.elle.co.kr/article/81294</id>
-        <link href="https://www.elle.co.kr/article/81294"/>
-        <updated>2023-10-13T17:41:26.485Z</updated>
-        <content type="html"><![CDATA[금속과 실의 이토록 따뜻하고 명랑한 조우.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공예와 예술로 채운 비밀스러운 숍, 월 한남]]></title>
-        <id>https://www.elle.co.kr/article/81305</id>
-        <link href="https://www.elle.co.kr/article/81305"/>
-        <updated>2023-10-12T17:41:37.777Z</updated>
-        <content type="html"><![CDATA[월 한남점은 좁고 고요한 통로를 거쳐 벽처럼 생긴 책장 문을 힘껏 밀어야 비로소 드러난다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가구 브랜드 아티클리에와 ATCR을 이끄는 구선모 대표의 랜선 집들이 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/81313</id>
-        <link href="https://www.elle.co.kr/article/81313"/>
-        <updated>2023-10-12T05:41:32.362Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성신여자대학교에 벨리곰이 떴다?]]></title>
-        <id>https://www.elle.co.kr/article/81264</id>
-        <link href="https://www.elle.co.kr/article/81264"/>
-        <updated>2023-10-11T05:41:32.813Z</updated>
-        <content type="html"><![CDATA[엘르보이스 일일 셀러브리티로 변신한 벨리곰 B4의 깜짝 공연!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흔들흔들, 책 읽기 좋은 날]]></title>
-        <id>https://www.elle.co.kr/article/81190</id>
-        <link href="https://www.elle.co.kr/article/81190"/>
-        <updated>2023-10-10T17:41:02.097Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한식 디저트의 새로운 얼굴들]]></title>
-        <id>https://www.elle.co.kr/article/81219</id>
-        <link href="https://www.elle.co.kr/article/81219"/>
-        <updated>2023-10-10T17:41:02.100Z</updated>
-        <content type="html"><![CDATA[약과부터 양갱까지. 한국 전통 디저트 신에 새롭게 등장한 얼굴을 찾았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['덴스크' 대표 김효진의 리빙룸 #나의거실은]]></title>
-        <id>https://www.elle.co.kr/article/81215</id>
-        <link href="https://www.elle.co.kr/article/81215"/>
-        <updated>2023-10-09T17:41:39.396Z</updated>
-        <content type="html"><![CDATA[‘덴스크(Dansk)’ 대표 김효진의 거실에 자리한 사물들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부부가 지은 희고 간결한 두 번째 집, 혜담헌]]></title>
-        <id>https://www.elle.co.kr/article/81158</id>
-        <link href="https://www.elle.co.kr/article/81158"/>
-        <updated>2023-10-09T17:41:39.398Z</updated>
-        <content type="html"><![CDATA[남한강 변의 희고 간결한 주택. 진돗개 세 마리와 사는 부부가 두 번째로 지은 집이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사도 된다는 확신 #비움라이프]]></title>
-        <id>https://www.elle.co.kr/article/81157</id>
-        <link href="https://www.elle.co.kr/article/81157"/>
-        <updated>2023-10-07T17:40:58.606Z</updated>
-        <content type="html"><![CDATA[&lt;작고 단순한 삶에 진심입니다&gt;의 저자이자 유튜브 채널 '단순한 진심'을 운영하고 있는 최현우...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 18 Oct 2023 05:42:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취미는 ‘적게 갖기’라 하네 #비움라이프]]></title>
+            <link>https://www.elle.co.kr/article/81320</link>
+            <guid>https://www.elle.co.kr/article/81320</guid>
+            <pubDate>Tue, 17 Oct 2023 17:41:46 GMT</pubDate>
+            <content:encoded><![CDATA[전 &lt;엘르&gt; 패션 에디터 김미강에게 미니멀라이프에 대해 물었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/980e58f8-855a-4b63-916f-840b9687ffe0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사람을 위한 디자인을 지향하는, 르모듈러 대표 권희숙]]></title>
+            <link>https://www.elle.co.kr/article/81323</link>
+            <guid>https://www.elle.co.kr/article/81323</guid>
+            <pubDate>Sun, 15 Oct 2023 17:40:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/de9916b9-cc92-4d16-8938-f79ab3a5e5ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100년 만에 제모습 찾은 광화문! 달라진 점은?]]></title>
+            <link>https://www.elle.co.kr/article/81371</link>
+            <guid>https://www.elle.co.kr/article/81371</guid>
+            <pubDate>Sun, 15 Oct 2023 17:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[금빛 글씨 입은 '광화문' 석 자와 돌아온 월대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/445c8ff9-d9f1-443b-80d9-cca2ea0c2b2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다]]></title>
+            <link>https://www.elle.co.kr/article/81370</link>
+            <guid>https://www.elle.co.kr/article/81370</guid>
+            <pubDate>Sun, 15 Oct 2023 17:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/c8a973b1-1c7e-4d1e-96cf-265729935522.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실로 감싼 파이프가 전하는 한 줌의 온기]]></title>
+            <link>https://www.elle.co.kr/article/81294</link>
+            <guid>https://www.elle.co.kr/article/81294</guid>
+            <pubDate>Fri, 13 Oct 2023 17:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[금속과 실의 이토록 따뜻하고 명랑한 조우.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공예와 예술로 채운 비밀스러운 숍, 월 한남]]></title>
+            <link>https://www.elle.co.kr/article/81305</link>
+            <guid>https://www.elle.co.kr/article/81305</guid>
+            <pubDate>Thu, 12 Oct 2023 17:41:37 GMT</pubDate>
+            <content:encoded><![CDATA[월 한남점은 좁고 고요한 통로를 거쳐 벽처럼 생긴 책장 문을 힘껏 밀어야 비로소 드러난다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가구 브랜드 아티클리에와 ATCR을 이끄는 구선모 대표의 랜선 집들이 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/81313</link>
+            <guid>https://www.elle.co.kr/article/81313</guid>
+            <pubDate>Thu, 12 Oct 2023 05:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[성신여자대학교에 벨리곰이 떴다?]]></title>
+            <link>https://www.elle.co.kr/article/81264</link>
+            <guid>https://www.elle.co.kr/article/81264</guid>
+            <pubDate>Wed, 11 Oct 2023 05:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[엘르보이스 일일 셀러브리티로 변신한 벨리곰 B4의 깜짝 공연!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[흔들흔들, 책 읽기 좋은 날]]></title>
+            <link>https://www.elle.co.kr/article/81190</link>
+            <guid>https://www.elle.co.kr/article/81190</guid>
+            <pubDate>Tue, 10 Oct 2023 17:41:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[한식 디저트의 새로운 얼굴들]]></title>
+            <link>https://www.elle.co.kr/article/81219</link>
+            <guid>https://www.elle.co.kr/article/81219</guid>
+            <pubDate>Tue, 10 Oct 2023 17:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[약과부터 양갱까지. 한국 전통 디저트 신에 새롭게 등장한 얼굴을 찾았다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['덴스크' 대표 김효진의 리빙룸 #나의거실은]]></title>
+            <link>https://www.elle.co.kr/article/81215</link>
+            <guid>https://www.elle.co.kr/article/81215</guid>
+            <pubDate>Mon, 09 Oct 2023 17:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[‘덴스크(Dansk)’ 대표 김효진의 거실에 자리한 사물들.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부부가 지은 희고 간결한 두 번째 집, 혜담헌]]></title>
+            <link>https://www.elle.co.kr/article/81158</link>
+            <guid>https://www.elle.co.kr/article/81158</guid>
+            <pubDate>Mon, 09 Oct 2023 17:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[남한강 변의 희고 간결한 주택. 진돗개 세 마리와 사는 부부가 두 번째로 지은 집이다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사도 된다는 확신 #비움라이프]]></title>
+            <link>https://www.elle.co.kr/article/81157</link>
+            <guid>https://www.elle.co.kr/article/81157</guid>
+            <pubDate>Sat, 07 Oct 2023 17:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;작고 단순한 삶에 진심입니다&gt;의 저자이자 유튜브 채널 '단순한 진심'을 운영하고 있는 최현우...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올드머니 느낌 물씬! 뉴트럴톤 하우스]]></title>
+            <link>https://www.elle.co.kr/article/81170</link>
+            <guid>https://www.elle.co.kr/article/81170</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81170">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/00de2f62-744e-4884-8bda-10b30f4de6f8.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81170">
+                        올드머니 느낌 물씬! 뉴트럴톤 하우스                     </a>
+                </em>
+                <p class="excerpt">카다시안 절친 사이먼 허크가 공개한 그의 신혼집.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[빈티지 가구 갤러리 '컬렉션 오브' 대표 임양섭의 취향 #나의거실은]]></title>
+            <link>https://www.elle.co.kr/article/81156</link>
+            <guid>https://www.elle.co.kr/article/81156</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81156">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/cfb5d357-0916-46dd-aafa-8ff29f1f8645.jpg" alt="d">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81156">
+                        빈티지 가구 갤러리 '컬렉션 오브' 대표 임양섭의 취향 #나의거실은                    </a>
+                </em>
+                <p class="excerpt">빈티지 가구 갤러리와 쇼룸 '컬렉션 오브(Collection of)'의 대표 임양섭에게 거실에 놓고 싶...</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피아니스트 선우예권]]></title>
+            <link>https://www.elle.co.kr/article/81124</link>
+            <guid>https://www.elle.co.kr/article/81124</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81124">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/0cd1a0c8-29d2-4384-a591-1135e8ca1847.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81124">
+                        피아니스트 선우예권                    </a>
+                </em>
+                <p class="excerpt">고요하다가 어느 순간 높은 파도로 거대해질지 모르는 잔잔한 물결 같은 선우예권의 선율.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['로미오와 줄리엣'의 배경이 된 장소, 베로나 #여행예술]]></title>
+            <link>https://www.elle.co.kr/article/81146</link>
+            <guid>https://www.elle.co.kr/article/81146</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81146">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/de15f2d9-ed4b-43d4-9387-7f8886f3e355.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81146">
+                        '로미오와 줄리엣'의 배경이 된 장소, 베로나 #여행예술                    </a>
+                </em>
+                <p class="excerpt">이탈리아 베로나에서 만난 20세기 건축가 카를로 스카르파.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1980년대 캘리포니아 주택을 사랑스러운 놀이터로 가꾼 워킹맘 브릴의 랜선 집들이 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/81132</link>
+            <guid>https://www.elle.co.kr/article/81132</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81132">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/4e5a4f43-e9d0-464d-95cd-f7a71bc8df18.jpg" alt="">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81132">
+                        1980년대 캘리포니아 주택을 사랑스러운 놀이터로 가꾼 워킹맘 브릴의 랜선 집들이 #홈터뷰                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전 국립중앙박물관장 혜곡 최순우의 옛집]]></title>
+            <link>https://www.elle.co.kr/article/81108</link>
+            <guid>https://www.elle.co.kr/article/81108</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81108">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/1fe02653-d172-4056-aefe-198caf8966d5.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81108">
+                        전 국립중앙박물관장 혜곡 최순우의 옛집                    </a>
+                </em>
+                <p class="excerpt">한국미 전파에 힘쓴 전 국립중앙박물관장 혜곡 최순우의 안목과 멋, 예술혼이 배어 있는 한옥.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
+            <link>https://www.elle.co.kr/article/81111</link>
+            <guid>https://www.elle.co.kr/article/81111</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81111">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/cdfc4cb0-05de-4968-b431-582fa748b4db.jpg" alt="제28회 부산국제영화제">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81111">
+                        전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg                    </a>
+                </em>
+                <p class="excerpt">7년 만에 한국을 찾는 주인공은?</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[작지만 알차게! 나만의 주방 만들기]]></title>
+            <link>https://www.elle.co.kr/article/81049</link>
+            <guid>https://www.elle.co.kr/article/81049</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81049">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/bde28f32-adaf-4d97-b6a6-873cd4a820bc.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81049">
+                        작지만 알차게! 나만의 주방 만들기                    </a>
+                </em>
+                <p class="excerpt">작고 풍요로운 나의 주방.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['세이투셰' 임재린이 거실에 놓고 싶은 사물들 #나의거실은]]></title>
+            <link>https://www.elle.co.kr/article/81047</link>
+            <guid>https://www.elle.co.kr/article/81047</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81047">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/c6f52647-6986-48df-a0fe-c7157585ea5f.jpg" alt="ㅌ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81047">
+                        '세이투셰' 임재린이 거실에 놓고 싶은 사물들 #나의거실은                    </a>
+                </em>
+                <p class="excerpt">'제품과 작품의 경계에 있는 디자인'을 만드는 라이프스타일 브랜드 '세이투셰(Say Touché)'를 ...</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리 건물이 달라졌어요]]></title>
+            <link>https://www.elle.co.kr/article/81040</link>
+            <guid>https://www.elle.co.kr/article/81040</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81040">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/8d8461cf-406c-4740-a8f9-f3125e61a5c7.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81040">
+                        우리 건물이 달라졌어요                    </a>
+                </em>
+                <p class="excerpt">건축물이 레너베이션을 통해 새롭게 태어났다. </p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['콜바넴' 속 그 집, 누가 디자인했을까? #디아이콘즈]]></title>
+            <link>https://www.elle.co.kr/article/81024</link>
+            <guid>https://www.elle.co.kr/article/81024</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81024">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/7f27d9b3-b598-41e3-9177-fb071a3e5827.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81024">
+                        '콜바넴' 속 그 집, 누가 디자인했을까? #디아이콘즈                    </a>
+                </em>
+                <p class="excerpt">루카 구아다니노가 스크린 너머로 빚어낸 꿈의 공간들.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프리즈 어웨이크닝! 예술의 낮과 밤에 일어난 일들]]></title>
+            <link>https://www.elle.co.kr/article/81026</link>
+            <guid>https://www.elle.co.kr/article/81026</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81026">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/8bd692f3-f086-4396-a474-41090cea176b.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81026">
+                        프리즈 어웨이크닝! 예술의 낮과 밤에 일어난 일들                    </a>
+                </em>
+                <p class="excerpt">두 번째 프리즈 서울. 모두가 이야기했던 예술가와 떠들썩했던 서울의 낮과 밤.</p>
+            </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[존 웰런과 오스카 프록터의 '아틀리에 오브 유럽']]></title>
+            <link>https://www.elle.co.kr/article/81023</link>
+            <guid>https://www.elle.co.kr/article/81023</guid>
+            <pubDate>Wed, 18 Oct 2023 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox">
+                <a href="/article/81023">
+                    <img src="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/11da8c32-04e4-4919-80fa-b2e00d0f0ce2.jpg" alt="ㅇ">
+                </a>
+            </div>
+            <div class="textbox">
+<!--                                <span class="menu">-->
+<!--                                    <a href="/article/--><!--">-->
+<!--                                        --><!--                                    </a>-->
+<!--                                </span>-->
+                <em class="title">
+                    <a href="/article/81023">
+                        존 웰런과 오스카 프록터의 '아틀리에 오브 유럽'                    </a>
+                </em>
+                <p class="excerpt">디자이너 존 웰런(John Whelan)과 포토그래퍼 오스카 프록터(Oskar Proctor)가 사라져가는 아틀리...</p>
+            </div>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
