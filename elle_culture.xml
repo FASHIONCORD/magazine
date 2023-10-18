@@ -1,71 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:42:56 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[사람을 위한 디자인을 지향하는, 르모듈러 대표 권희숙]]></title>
-            <link>https://www.elle.co.kr/article/81323</link>
-            <guid>https://www.elle.co.kr/article/81323</guid>
-            <pubDate>Tue, 17 Oct 2023 17:41:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/de9916b9-cc92-4d16-8938-f79ab3a5e5ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100년 만에 제모습 찾은 광화문! 달라진 점은?]]></title>
-            <link>https://www.elle.co.kr/article/81371</link>
-            <guid>https://www.elle.co.kr/article/81371</guid>
-            <pubDate>Tue, 17 Oct 2023 17:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[금빛 글씨 입은 '광화문' 석 자와 돌아온 월대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/445c8ff9-d9f1-443b-80d9-cca2ea0c2b2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다]]></title>
-            <link>https://www.elle.co.kr/article/81370</link>
-            <guid>https://www.elle.co.kr/article/81370</guid>
-            <pubDate>Tue, 17 Oct 2023 17:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/c8a973b1-1c7e-4d1e-96cf-265729935522.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실로 감싼 파이프가 전하는 한 줌의 온기]]></title>
-            <link>https://www.elle.co.kr/article/81294</link>
-            <guid>https://www.elle.co.kr/article/81294</guid>
-            <pubDate>Mon, 16 Oct 2023 17:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[금속과 실의 이토록 따뜻하고 명랑한 조우.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/fec0fc02-0bc9-4d0d-99c4-5c578a43771e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시안게임 드라마의 주인공, '세계 1위' 안세영이 방송과 광고를 거절하는 까닭]]></title>
-            <link>https://www.elle.co.kr/article/81352</link>
-            <guid>https://www.elle.co.kr/article/81352</guid>
-            <pubDate>Mon, 16 Oct 2023 05:40:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/dc890a4f-9dcf-4a55-972c-19c5861502a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 이후 7년 만의 YG 걸그룹! 베이비몬스터, 데뷔 2개월 밀린 이유]]></title>
-            <link>https://www.elle.co.kr/article/81346</link>
-            <guid>https://www.elle.co.kr/article/81346</guid>
-            <pubDate>Sun, 15 Oct 2023 17:40:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/815d0375-b0a8-4ac3-97c3-893de928d073.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공예와 예술로 채운 비밀스러운 숍, 월 한남]]></title>
-            <link>https://www.elle.co.kr/article/81305</link>
-            <guid>https://www.elle.co.kr/article/81305</guid>
-            <pubDate>Sun, 15 Oct 2023 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[월 한남점은 좁고 고요한 통로를 거쳐 벽처럼 생긴 책장 문을 힘껏 밀어야 비로소 드러난다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/87422365-101e-4523-975f-b085b95890d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가구 브랜드 아티클리에와 ATCR을 이끄는 구선모 대표의 랜선 집들이 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/81313</link>
-            <guid>https://www.elle.co.kr/article/81313</guid>
-            <pubDate>Sun, 15 Oct 2023 17:40:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/3c06f5df-75b4-453d-820c-1ff7c3fbc3b2.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2023-10-18T17:42:26.495Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7년 만에 돌아오는 '아수라' 콤비 황정민X정우성, '서울의 봄' 개봉 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/81414</id>
+        <link href="https://www.elle.co.kr/article/81414"/>
+        <updated>2023-10-18T17:41:37.357Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여성 히어로의 풋풋한 로맨스! 대박 난 '힘쎈여자 강남순' 인기 요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/81384</id>
+        <link href="https://www.elle.co.kr/article/81384"/>
+        <updated>2023-10-18T17:41:37.361Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박서준이다! 드디어 캐릭터 스틸 공개된 '더 마블스' 개봉 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/81379</id>
+        <link href="https://www.elle.co.kr/article/81379"/>
+        <updated>2023-10-18T17:41:37.368Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람을 위한 디자인을 지향하는, 르모듈러 대표 권희숙]]></title>
+        <id>https://www.elle.co.kr/article/81323</id>
+        <link href="https://www.elle.co.kr/article/81323"/>
+        <updated>2023-10-17T17:41:11.546Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100년 만에 제모습 찾은 광화문! 달라진 점은?]]></title>
+        <id>https://www.elle.co.kr/article/81371</id>
+        <link href="https://www.elle.co.kr/article/81371"/>
+        <updated>2023-10-17T17:41:11.550Z</updated>
+        <content type="html"><![CDATA[금빛 글씨 입은 '광화문' 석 자와 돌아온 월대.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다]]></title>
+        <id>https://www.elle.co.kr/article/81370</id>
+        <link href="https://www.elle.co.kr/article/81370"/>
+        <updated>2023-10-17T17:41:11.565Z</updated>
+        <content type="html"><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실로 감싼 파이프가 전하는 한 줌의 온기]]></title>
+        <id>https://www.elle.co.kr/article/81294</id>
+        <link href="https://www.elle.co.kr/article/81294"/>
+        <updated>2023-10-16T17:41:11.244Z</updated>
+        <content type="html"><![CDATA[금속과 실의 이토록 따뜻하고 명랑한 조우.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아시안게임 드라마의 주인공, '세계 1위' 안세영이 방송과 광고를 거절하는 까닭]]></title>
+        <id>https://www.elle.co.kr/article/81352</id>
+        <link href="https://www.elle.co.kr/article/81352"/>
+        <updated>2023-10-16T05:40:27.127Z</updated>
+    </entry>
+</feed>

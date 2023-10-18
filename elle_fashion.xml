@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 17:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사물(사람과 물건) 인터뷰 #8 스타일리스트 김영진]]></title>
+            <link>https://www.elle.co.kr/article/81377</link>
+            <guid>https://www.elle.co.kr/article/81377</guid>
+            <pubDate>Wed, 18 Oct 2023 17:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[고작 900원? BTS 스타일리스트 김영진이 애정하는 물건.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/26c61593-91be-44b9-9c27-e85906c6e5aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알 쓸 신 작]]></title>
             <link>https://www.elle.co.kr/article/81311</link>
@@ -60,14 +68,6 @@
             <pubDate>Sun, 15 Oct 2023 05:39:49 GMT</pubDate>
             <content:encoded><![CDATA[갖고 싶어, 그 빗!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/ad95ece6-79d1-4431-a4e4-c1ed4403c5cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 레전드 워치]]></title>
-            <link>https://www.elle.co.kr/article/81277</link>
-            <guid>https://www.elle.co.kr/article/81277</guid>
-            <pubDate>Sat, 14 Oct 2023 17:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[전설은 계속된다. 원형 시계의 미학적 코드를 계승함과 동시에 현대적 기술력을 더해 다시금 우...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/ffebde4b-8a0c-49a2-855c-a501870377be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
