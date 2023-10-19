@@ -1,73 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 17:42:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[사물(사람과 물건) 인터뷰 #8 스타일리스트 김영진]]></title>
-            <link>https://www.elle.co.kr/article/81377</link>
-            <guid>https://www.elle.co.kr/article/81377</guid>
-            <pubDate>Wed, 18 Oct 2023 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[고작 900원? BTS 스타일리스트 김영진이 애정하는 물건.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/26c61593-91be-44b9-9c27-e85906c6e5aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알 쓸 신 작]]></title>
-            <link>https://www.elle.co.kr/article/81311</link>
-            <guid>https://www.elle.co.kr/article/81311</guid>
-            <pubDate>Wed, 18 Oct 2023 05:40:29 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 쓸데 있는 신비한 작품 속 시계와 주얼리들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/0113d587-48da-49bb-9b06-5dda587e6b59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타들이 데님을 즐기는 방법 #청청패션]]></title>
-            <link>https://www.elle.co.kr/article/81367</link>
-            <guid>https://www.elle.co.kr/article/81367</guid>
-            <pubDate>Wed, 18 Oct 2023 05:40:29 GMT</pubDate>
-            <content:encoded><![CDATA[대충 입어도 멋있다! 로제부터 전소미까지 스타일리시한 데님 패션의 모든 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/aa7baf81-315b-4ccb-9be2-27b6a85ccb33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트로 진화한 가방]]></title>
-            <link>https://www.elle.co.kr/article/81366</link>
-            <guid>https://www.elle.co.kr/article/81366</guid>
-            <pubDate>Tue, 17 Oct 2023 05:39:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/da6e5358-9a62-42b4-93fc-6dd527929124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진리의 화이트 다이아몬드]]></title>
-            <link>https://www.elle.co.kr/article/81341</link>
-            <guid>https://www.elle.co.kr/article/81341</guid>
-            <pubDate>Mon, 16 Oct 2023 17:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[어둠 속에서 진가를 드러내는 화이트 다이아몬드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/87d40fc1-f7f3-440b-ab26-8e8e6a2f00df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌과 루이 비통의 반가운 조우]]></title>
-            <link>https://www.elle.co.kr/article/81360</link>
-            <guid>https://www.elle.co.kr/article/81360</guid>
-            <pubDate>Mon, 16 Oct 2023 05:39:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/1fa9574f-2bad-41eb-a098-d7da3448b26b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올가을 스타일 치트키! 스타킹 활용하는 법]]></title>
-            <link>https://www.elle.co.kr/article/81356</link>
-            <guid>https://www.elle.co.kr/article/81356</guid>
-            <pubDate>Mon, 16 Oct 2023 05:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[멋있는 언니들은 스타킹을 신지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/45b1bcfe-a8a9-4905-98a8-132bac41b3be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보기 좋은 '빗'이 '빗기도' 좋다]]></title>
-            <link>https://www.elle.co.kr/article/81296</link>
-            <guid>https://www.elle.co.kr/article/81296</guid>
-            <pubDate>Sun, 15 Oct 2023 05:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[갖고 싶어, 그 빗!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/ad95ece6-79d1-4431-a4e4-c1ed4403c5cf.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-10-19T05:40:59.138Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스우파 2’ 댄서들처럼 힙하게! 요즘 비니 쇼핑리스트 7]]></title>
+        <id>https://www.elle.co.kr/article/81416</id>
+        <link href="https://www.elle.co.kr/article/81416"/>
+        <updated>2023-10-19T05:39:45.529Z</updated>
+        <content type="html"><![CDATA[핫한 언니들이 애정하는 아이템, 유니크한 매력을 뿜어내는 비니로 스타일리시한 데일리 룩을 완...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금이 지닌 가치에 대하여]]></title>
+        <id>https://www.elle.co.kr/article/81343</id>
+        <link href="https://www.elle.co.kr/article/81343"/>
+        <updated>2023-10-19T05:39:45.531Z</updated>
+        <content type="html"><![CDATA[금테크 호황기에 진입한 지금, 2명의 오피니언 리더에게 물었다. 우리가 지금 골드에 열광하는 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보기만 해도 탄성을 자아내는 고양이 모티프 아이템]]></title>
+        <id>https://www.elle.co.kr/article/81389</id>
+        <link href="https://www.elle.co.kr/article/81389"/>
+        <updated>2023-10-19T05:39:45.534Z</updated>
+        <content type="html"><![CDATA[고양이를 부탁해!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #8 스타일리스트 김영진]]></title>
+        <id>https://www.elle.co.kr/article/81377</id>
+        <link href="https://www.elle.co.kr/article/81377"/>
+        <updated>2023-10-18T17:40:37.300Z</updated>
+        <content type="html"><![CDATA[고작 900원? BTS 스타일리스트 김영진이 애정하는 물건.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알 쓸 신 작]]></title>
+        <id>https://www.elle.co.kr/article/81311</id>
+        <link href="https://www.elle.co.kr/article/81311"/>
+        <updated>2023-10-18T05:40:29.867Z</updated>
+        <content type="html"><![CDATA[알아두면 쓸데 있는 신비한 작품 속 시계와 주얼리들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타들이 데님을 즐기는 방법 #청청패션]]></title>
+        <id>https://www.elle.co.kr/article/81367</id>
+        <link href="https://www.elle.co.kr/article/81367"/>
+        <updated>2023-10-18T05:40:29.869Z</updated>
+        <content type="html"><![CDATA[대충 입어도 멋있다! 로제부터 전소미까지 스타일리시한 데님 패션의 모든 것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아트로 진화한 가방]]></title>
+        <id>https://www.elle.co.kr/article/81366</id>
+        <link href="https://www.elle.co.kr/article/81366"/>
+        <updated>2023-10-17T05:39:51.146Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진리의 화이트 다이아몬드]]></title>
+        <id>https://www.elle.co.kr/article/81341</id>
+        <link href="https://www.elle.co.kr/article/81341"/>
+        <updated>2023-10-16T17:40:30.454Z</updated>
+        <content type="html"><![CDATA[어둠 속에서 진가를 드러내는 화이트 다이아몬드.]]></content>
+    </entry>
+</feed>

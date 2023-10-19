@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-10-18T17:42:26.495Z</updated>
+    <updated>2023-10-19T05:40:59.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의외의 홍현희]]></title>
+        <id>https://www.elle.co.kr/article/81442</id>
+        <link href="https://www.elle.co.kr/article/81442"/>
+        <updated>2023-10-19T05:40:14.891Z</updated>
+        <content type="html"><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃)]]></title>
+        <id>https://www.elle.co.kr/article/81432</id>
+        <link href="https://www.elle.co.kr/article/81432"/>
+        <updated>2023-10-19T05:40:14.894Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[취미는 ‘적게 갖기’라 하네 #비움라이프]]></title>
+        <id>https://www.elle.co.kr/article/81320</id>
+        <link href="https://www.elle.co.kr/article/81320"/>
+        <updated>2023-10-19T05:40:14.898Z</updated>
+        <content type="html"><![CDATA[전 &lt;엘르&gt; 패션 에디터 김미강에게 미니멀라이프에 대해 물었다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[작지만 결코 작지 않은, 타이니 데스크 코리아의 시작]]></title>
+        <id>https://www.elle.co.kr/article/81322</id>
+        <link href="https://www.elle.co.kr/article/81322"/>
+        <updated>2023-10-19T05:40:14.901Z</updated>
+        <content type="html"><![CDATA[타이니 데스크 코리아는 K팝이 주도하는 지금의 음악 씬에 어떤 변화를 선사할 수 있을까]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7년 만에 돌아오는 '아수라' 콤비 황정민X정우성, '서울의 봄' 개봉 정보.txt]]></title>
         <id>https://www.elle.co.kr/article/81414</id>
@@ -28,32 +55,5 @@
         <id>https://www.elle.co.kr/article/81323</id>
         <link href="https://www.elle.co.kr/article/81323"/>
         <updated>2023-10-17T17:41:11.546Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100년 만에 제모습 찾은 광화문! 달라진 점은?]]></title>
-        <id>https://www.elle.co.kr/article/81371</id>
-        <link href="https://www.elle.co.kr/article/81371"/>
-        <updated>2023-10-17T17:41:11.550Z</updated>
-        <content type="html"><![CDATA[금빛 글씨 입은 '광화문' 석 자와 돌아온 월대.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다]]></title>
-        <id>https://www.elle.co.kr/article/81370</id>
-        <link href="https://www.elle.co.kr/article/81370"/>
-        <updated>2023-10-17T17:41:11.565Z</updated>
-        <content type="html"><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실로 감싼 파이프가 전하는 한 줌의 온기]]></title>
-        <id>https://www.elle.co.kr/article/81294</id>
-        <link href="https://www.elle.co.kr/article/81294"/>
-        <updated>2023-10-16T17:41:11.244Z</updated>
-        <content type="html"><![CDATA[금속과 실의 이토록 따뜻하고 명랑한 조우.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아시안게임 드라마의 주인공, '세계 1위' 안세영이 방송과 광고를 거절하는 까닭]]></title>
-        <id>https://www.elle.co.kr/article/81352</id>
-        <link href="https://www.elle.co.kr/article/81352"/>
-        <updated>2023-10-16T05:40:27.127Z</updated>
     </entry>
 </feed>
