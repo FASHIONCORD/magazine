@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-10-20T05:41:48.707Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[출근룩부터 데이트룩까지! 블랙 재킷 하나로 일주일 돌려 입기]]></title>
-        <id>https://www.elle.co.kr/article/81449</id>
-        <link href="https://www.elle.co.kr/article/81449"/>
-        <updated>2023-10-20T05:40:23.949Z</updated>
-        <content type="html"><![CDATA[노윤서, 크리스탈, 로제처럼 블랙 테일러드 재킷으로 다양한 스타일을 즐겨보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의외의 홍현희]]></title>
-        <id>https://www.elle.co.kr/article/81442</id>
-        <link href="https://www.elle.co.kr/article/81442"/>
-        <updated>2023-10-19T17:40:37.281Z</updated>
-        <content type="html"><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 식의 결혼]]></title>
-        <id>https://www.elle.co.kr/article/81405</id>
-        <link href="https://www.elle.co.kr/article/81405"/>
-        <updated>2023-10-19T17:40:37.284Z</updated>
-        <content type="html"><![CDATA[어떠한 형식도 틀도 없이 우리 식대로 즐기는 요즘 웨딩.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스우파 2’ 댄서들처럼 힙하게! 요즘 비니 쇼핑리스트 7]]></title>
-        <id>https://www.elle.co.kr/article/81416</id>
-        <link href="https://www.elle.co.kr/article/81416"/>
-        <updated>2023-10-19T05:39:45.529Z</updated>
-        <content type="html"><![CDATA[핫한 언니들이 애정하는 아이템, 유니크한 매력을 뿜어내는 비니로 스타일리시한 데일리 룩을 완...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금이 지닌 가치에 대하여]]></title>
-        <id>https://www.elle.co.kr/article/81343</id>
-        <link href="https://www.elle.co.kr/article/81343"/>
-        <updated>2023-10-19T05:39:45.531Z</updated>
-        <content type="html"><![CDATA[금테크 호황기에 진입한 지금, 2명의 오피니언 리더에게 물었다. 우리가 지금 골드에 열광하는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보기만 해도 탄성을 자아내는 고양이 모티프 아이템]]></title>
-        <id>https://www.elle.co.kr/article/81389</id>
-        <link href="https://www.elle.co.kr/article/81389"/>
-        <updated>2023-10-19T05:39:45.534Z</updated>
-        <content type="html"><![CDATA[고양이를 부탁해!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사물(사람과 물건) 인터뷰 #8 스타일리스트 김영진]]></title>
-        <id>https://www.elle.co.kr/article/81377</id>
-        <link href="https://www.elle.co.kr/article/81377"/>
-        <updated>2023-10-18T17:40:37.300Z</updated>
-        <content type="html"><![CDATA[고작 900원? BTS 스타일리스트 김영진이 애정하는 물건.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알 쓸 신 작]]></title>
-        <id>https://www.elle.co.kr/article/81311</id>
-        <link href="https://www.elle.co.kr/article/81311"/>
-        <updated>2023-10-18T05:40:29.867Z</updated>
-        <content type="html"><![CDATA[알아두면 쓸데 있는 신비한 작품 속 시계와 주얼리들.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 20 Oct 2023 17:41:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출근룩부터 데이트룩까지! 블랙 재킷 하나로 일주일 돌려 입기]]></title>
+            <link>https://www.elle.co.kr/article/81449</link>
+            <guid>https://www.elle.co.kr/article/81449</guid>
+            <pubDate>Fri, 20 Oct 2023 05:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[노윤서, 크리스탈, 로제처럼 블랙 테일러드 재킷으로 다양한 스타일을 즐겨보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/f25ab7e3-3933-4777-9761-79206d1a10b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[의외의 홍현희]]></title>
+            <link>https://www.elle.co.kr/article/81442</link>
+            <guid>https://www.elle.co.kr/article/81442</guid>
+            <pubDate>Thu, 19 Oct 2023 17:40:37 GMT</pubDate>
+            <content:encoded><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/326108a8-f68e-42c1-80f4-cc498e81035a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 식의 결혼]]></title>
+            <link>https://www.elle.co.kr/article/81405</link>
+            <guid>https://www.elle.co.kr/article/81405</guid>
+            <pubDate>Thu, 19 Oct 2023 17:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[어떠한 형식도 틀도 없이 우리 식대로 즐기는 요즘 웨딩.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/30d9ae5e-5a0a-4475-b4cc-cb9079549f44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘스우파 2’ 댄서들처럼 힙하게! 요즘 비니 쇼핑리스트 7]]></title>
+            <link>https://www.elle.co.kr/article/81416</link>
+            <guid>https://www.elle.co.kr/article/81416</guid>
+            <pubDate>Thu, 19 Oct 2023 05:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[핫한 언니들이 애정하는 아이템, 유니크한 매력을 뿜어내는 비니로 스타일리시한 데일리 룩을 완...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/9c64bcdf-0db4-4bfc-911c-03ffdbd97442.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금이 지닌 가치에 대하여]]></title>
+            <link>https://www.elle.co.kr/article/81343</link>
+            <guid>https://www.elle.co.kr/article/81343</guid>
+            <pubDate>Thu, 19 Oct 2023 05:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[금테크 호황기에 진입한 지금, 2명의 오피니언 리더에게 물었다. 우리가 지금 골드에 열광하는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/112794dc-2c09-4444-b19e-d4ce1b31730b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보기만 해도 탄성을 자아내는 고양이 모티프 아이템]]></title>
+            <link>https://www.elle.co.kr/article/81389</link>
+            <guid>https://www.elle.co.kr/article/81389</guid>
+            <pubDate>Thu, 19 Oct 2023 05:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[고양이를 부탁해!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/b45b845e-0c87-45cc-959d-75df5c827ffe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사물(사람과 물건) 인터뷰 #8 스타일리스트 김영진]]></title>
+            <link>https://www.elle.co.kr/article/81377</link>
+            <guid>https://www.elle.co.kr/article/81377</guid>
+            <pubDate>Wed, 18 Oct 2023 17:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[고작 900원? BTS 스타일리스트 김영진이 애정하는 물건.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/26c61593-91be-44b9-9c27-e85906c6e5aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알 쓸 신 작]]></title>
+            <link>https://www.elle.co.kr/article/81311</link>
+            <guid>https://www.elle.co.kr/article/81311</guid>
+            <pubDate>Wed, 18 Oct 2023 05:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 쓸데 있는 신비한 작품 속 시계와 주얼리들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/0113d587-48da-49bb-9b06-5dda587e6b59.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
