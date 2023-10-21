@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 17:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 05:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국화꽃 필 무렵, 가을 데이트 하기 딱 좋은 전국 국화 축제 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/81428</link>
+            <guid>https://www.elle.co.kr/article/81428</guid>
+            <pubDate>Sat, 21 Oct 2023 05:41:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/0d092fa4-73c7-4511-8cf7-5f0231ad94d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을의 와인 한 잔]]></title>
             <link>https://www.elle.co.kr/article/81415</link>
@@ -59,14 +66,6 @@
             <pubDate>Sun, 15 Oct 2023 17:40:58 GMT</pubDate>
             <content:encoded><![CDATA[엘르보이스 일일 셀러브리티로 변신한 벨리곰 B4의 깜짝 공연!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/7804e0ec-6d3e-4dee-8f70-48b44ddba621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한식 디저트의 새로운 얼굴들]]></title>
-            <link>https://www.elle.co.kr/article/81219</link>
-            <guid>https://www.elle.co.kr/article/81219</guid>
-            <pubDate>Fri, 13 Oct 2023 17:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[약과부터 양갱까지. 한국 전통 디저트 신에 새롭게 등장한 얼굴을 찾았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/583b3588-f31d-4de4-909e-0bc669addc4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

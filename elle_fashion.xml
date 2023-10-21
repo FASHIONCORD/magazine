@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 17:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 05:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최애 디자이너를 덕질하는 특별한 방법?]]></title>
+            <link>https://www.elle.co.kr/article/81466</link>
+            <guid>https://www.elle.co.kr/article/81466</guid>
+            <pubDate>Sat, 21 Oct 2023 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[릭 오웬스, 랄프 로렌, 자크뮈스의 영감을 담아낸 아트북을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/870de5b8-f774-4d8c-9c42-ed0257678e88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술과 마주한 조각들]]></title>
+            <link>https://www.elle.co.kr/article/81261</link>
+            <guid>https://www.elle.co.kr/article/81261</guid>
+            <pubDate>Sat, 21 Oct 2023 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[지구의 탄생, 생명력을 지닌 동식물, 사람들이 모여 만든 문화와 전통, 개인이 사랑하는 그 무...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/986207a7-542d-4e9b-b967-8b10c7053440.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출근룩부터 데이트룩까지! 블랙 재킷 하나로 일주일 돌려 입기]]></title>
             <link>https://www.elle.co.kr/article/81449</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 19 Oct 2023 05:39:45 GMT</pubDate>
             <content:encoded><![CDATA[고양이를 부탁해!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/b45b845e-0c87-45cc-959d-75df5c827ffe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사물(사람과 물건) 인터뷰 #8 스타일리스트 김영진]]></title>
-            <link>https://www.elle.co.kr/article/81377</link>
-            <guid>https://www.elle.co.kr/article/81377</guid>
-            <pubDate>Wed, 18 Oct 2023 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[고작 900원? BTS 스타일리스트 김영진이 애정하는 물건.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/26c61593-91be-44b9-9c27-e85906c6e5aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알 쓸 신 작]]></title>
-            <link>https://www.elle.co.kr/article/81311</link>
-            <guid>https://www.elle.co.kr/article/81311</guid>
-            <pubDate>Wed, 18 Oct 2023 05:40:29 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 쓸데 있는 신비한 작품 속 시계와 주얼리들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/0113d587-48da-49bb-9b06-5dda587e6b59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
