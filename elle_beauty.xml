@@ -1,69 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 17:42:21 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['뷰티 보부상' 린의 가방 속 뷰티 아이템 10]]></title>
-            <link>https://www.elle.co.kr/article/81372</link>
-            <guid>https://www.elle.co.kr/article/81372</guid>
-            <pubDate>Thu, 19 Oct 2023 17:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[린이 매일 챙겨 다니는 아이템들은 무엇? N차 구매하는 헤어 스타일링 제품부터 최근에 푹 빠...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반드시 '겟'해야 할 10의 뷰티 신상]]></title>
-            <link>https://www.elle.co.kr/article/81302</link>
-            <guid>https://www.elle.co.kr/article/81302</guid>
-            <pubDate>Wed, 18 Oct 2023 17:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[10월의 뷰티 신상과 함께 완연한 가을의 푸르름을 만끽하길.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피부가 마시는 우유]]></title>
-            <link>https://www.elle.co.kr/article/81299</link>
-            <guid>https://www.elle.co.kr/article/81299</guid>
-            <pubDate>Wed, 18 Oct 2023 17:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[우유 한 잔 주세요, 피부가 좋아하는 우유.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이건 먹어도 돼! 유지어트를 위한 외식 가이드 #다이어터디터]]></title>
-            <link>https://www.elle.co.kr/article/81364</link>
-            <guid>https://www.elle.co.kr/article/81364</guid>
-            <pubDate>Tue, 17 Oct 2023 05:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[-22kg 감량 에디터, 이렇게 유지어터 중!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안혜경이 신혼여행 다녀오자마자 달려간 곳은? 건강 체형 유지 비결 총정리 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81329</link>
-            <guid>https://www.elle.co.kr/article/81329</guid>
-            <pubDate>Mon, 16 Oct 2023 05:40:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['글레이즈 스킨' '듀이 스킨' '베어 스킨' 이거 하나면 OK!]]></title>
-            <link>https://www.elle.co.kr/article/81285</link>
-            <guid>https://www.elle.co.kr/article/81285</guid>
-            <pubDate>Mon, 16 Oct 2023 05:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[반짝반짝 광채 나는 피부 표현이 인기다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/75fa8f59-095e-4abc-bdff-bcfa9cee3bf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성신여자대학교에 벨리곰이 떴다?]]></title>
-            <link>https://www.elle.co.kr/article/81264</link>
-            <guid>https://www.elle.co.kr/article/81264</guid>
-            <pubDate>Sun, 15 Oct 2023 17:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[엘르보이스 일일 셀러브리티로 변신한 벨리곰 B4의 깜짝 공연!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/7804e0ec-6d3e-4dee-8f70-48b44ddba621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마 화장품, 나도 같이 써도 될까?_선배’s 어드바이스 #189]]></title>
-            <link>https://www.elle.co.kr/article/81242</link>
-            <guid>https://www.elle.co.kr/article/81242</guid>
-            <pubDate>Sat, 14 Oct 2023 17:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[까다로운 엄마표 인증 완료! 효과 좋은 스킨케어 제품과 사용 팁을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/438cef59-5d89-4245-8c6a-0d816cf99c08.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/beauty</id>
+    <title>엘르 코리아 ─ 뷰티</title>
+    <updated>2023-10-22T05:41:50.014Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뷰티 보부상' 린의 가방 속 뷰티 아이템 10]]></title>
+        <id>https://www.elle.co.kr/article/81372</id>
+        <link href="https://www.elle.co.kr/article/81372"/>
+        <updated>2023-10-19T17:40:47.706Z</updated>
+        <content type="html"><![CDATA[린이 매일 챙겨 다니는 아이템들은 무엇? N차 구매하는 헤어 스타일링 제품부터 최근에 푹 빠...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반드시 '겟'해야 할 10의 뷰티 신상]]></title>
+        <id>https://www.elle.co.kr/article/81302</id>
+        <link href="https://www.elle.co.kr/article/81302"/>
+        <updated>2023-10-18T17:40:47.873Z</updated>
+        <content type="html"><![CDATA[10월의 뷰티 신상과 함께 완연한 가을의 푸르름을 만끽하길.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피부가 마시는 우유]]></title>
+        <id>https://www.elle.co.kr/article/81299</id>
+        <link href="https://www.elle.co.kr/article/81299"/>
+        <updated>2023-10-18T17:40:47.884Z</updated>
+        <content type="html"><![CDATA[우유 한 잔 주세요, 피부가 좋아하는 우유.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이건 먹어도 돼! 유지어트를 위한 외식 가이드 #다이어터디터]]></title>
+        <id>https://www.elle.co.kr/article/81364</id>
+        <link href="https://www.elle.co.kr/article/81364"/>
+        <updated>2023-10-17T05:40:02.425Z</updated>
+        <content type="html"><![CDATA[-22kg 감량 에디터, 이렇게 유지어터 중!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안혜경이 신혼여행 다녀오자마자 달려간 곳은? 건강 체형 유지 비결 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81329</id>
+        <link href="https://www.elle.co.kr/article/81329"/>
+        <updated>2023-10-16T05:40:06.073Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['글레이즈 스킨' '듀이 스킨' '베어 스킨' 이거 하나면 OK!]]></title>
+        <id>https://www.elle.co.kr/article/81285</id>
+        <link href="https://www.elle.co.kr/article/81285"/>
+        <updated>2023-10-16T05:40:06.076Z</updated>
+        <content type="html"><![CDATA[반짝반짝 광채 나는 피부 표현이 인기다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성신여자대학교에 벨리곰이 떴다?]]></title>
+        <id>https://www.elle.co.kr/article/81264</id>
+        <link href="https://www.elle.co.kr/article/81264"/>
+        <updated>2023-10-15T17:40:09.519Z</updated>
+        <content type="html"><![CDATA[엘르보이스 일일 셀러브리티로 변신한 벨리곰 B4의 깜짝 공연!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄마 화장품, 나도 같이 써도 될까?_선배’s 어드바이스 #189]]></title>
+        <id>https://www.elle.co.kr/article/81242</id>
+        <link href="https://www.elle.co.kr/article/81242"/>
+        <updated>2023-10-14T17:40:20.902Z</updated>
+        <content type="html"><![CDATA[까다로운 엄마표 인증 완료! 효과 좋은 스킨케어 제품과 사용 팁을 소개합니다.]]></content>
+    </entry>
+</feed>
