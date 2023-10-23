@@ -1,58 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-22T17:49:21.605Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[아이키가 최초 공개한 '북한산 뷰' 복층 하우스]]></title>
-        <id>https://www.elle.co.kr/article/81477</id>
-        <link href="https://www.elle.co.kr/article/81477"/>
-        <updated>2023-10-20T17:40:34.986Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능]]></title>
-        <id>https://www.elle.co.kr/article/81468</id>
-        <link href="https://www.elle.co.kr/article/81468"/>
-        <updated>2023-10-20T17:40:34.988Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱그러운 츄의 아침!]]></title>
-        <id>https://www.elle.co.kr/article/81429</id>
-        <link href="https://www.elle.co.kr/article/81429"/>
-        <updated>2023-10-20T17:40:34.991Z</updated>
-        <content type="html"><![CDATA[미니앨범 〈Howl〉로 돌아온 츄의 발랄한 엘르 화보.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리]]></title>
-        <id>https://www.elle.co.kr/article/81452</id>
-        <link href="https://www.elle.co.kr/article/81452"/>
-        <updated>2023-10-20T05:40:42.984Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세일러문' 작가가 직접 그린 블랙핑크 제니! '유앤미' 공식 MD 비주얼]]></title>
-        <id>https://www.elle.co.kr/article/81451</id>
-        <link href="https://www.elle.co.kr/article/81451"/>
-        <updated>2023-10-19T17:40:57.828Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81450</id>
-        <link href="https://www.elle.co.kr/article/81450"/>
-        <updated>2023-10-19T17:40:57.832Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남 친선경기에서 또 잔뜩 제조한 손흥민 미담.txt]]></title>
-        <id>https://www.elle.co.kr/article/81446</id>
-        <link href="https://www.elle.co.kr/article/81446"/>
-        <updated>2023-10-19T17:40:57.835Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의외의 홍현희]]></title>
-        <id>https://www.elle.co.kr/article/81442</id>
-        <link href="https://www.elle.co.kr/article/81442"/>
-        <updated>2023-10-19T05:40:06.302Z</updated>
-        <content type="html"><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 23 Oct 2023 05:43:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송혜교가 배우 절친들과 홈파티에서 입은 팀복.jpg]]></title>
+            <link>https://www.elle.co.kr/article/81507</link>
+            <guid>https://www.elle.co.kr/article/81507</guid>
+            <pubDate>Mon, 23 Oct 2023 05:41:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["전 날개는 없지만 부리는 있어요" BTS 지민의 귀여움 가득 담은 인터뷰]]></title>
+            <link>https://www.elle.co.kr/article/81506</link>
+            <guid>https://www.elle.co.kr/article/81506</guid>
+            <pubDate>Mon, 23 Oct 2023 05:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[진지한 듯 안 진지한, 현장감 가득 인터뷰]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쟈스민 꽃보다 박서준, 독보적 아우라!]]></title>
+            <link>https://www.elle.co.kr/article/81440</link>
+            <guid>https://www.elle.co.kr/article/81440</guid>
+            <pubDate>Mon, 23 Oct 2023 05:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[신이 만든 쟈스민 향기와 인간이 창조한 샤넬 N°5. 그 사이에서 공명하는 수많은 사람들의 이...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서동주가 67kg에서 52kg까지 감량한 방법 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/81478</link>
+            <guid>https://www.elle.co.kr/article/81478</guid>
+            <pubDate>Mon, 23 Oct 2023 05:41:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/19363892-2249-4708-8ebc-5916995728a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이키가 최초 공개한 '북한산 뷰' 복층 하우스]]></title>
+            <link>https://www.elle.co.kr/article/81477</link>
+            <guid>https://www.elle.co.kr/article/81477</guid>
+            <pubDate>Fri, 20 Oct 2023 17:40:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/c8ceb3f9-92f6-4cd0-9f1c-45b0cbfed22e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능]]></title>
+            <link>https://www.elle.co.kr/article/81468</link>
+            <guid>https://www.elle.co.kr/article/81468</guid>
+            <pubDate>Fri, 20 Oct 2023 17:40:34 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/a8d37d79-5dff-4aeb-be13-c6c098a5e9cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱그러운 츄의 아침!]]></title>
+            <link>https://www.elle.co.kr/article/81429</link>
+            <guid>https://www.elle.co.kr/article/81429</guid>
+            <pubDate>Fri, 20 Oct 2023 17:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[미니앨범 〈Howl〉로 돌아온 츄의 발랄한 엘르 화보.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/142bd873-faab-4a23-b481-6a21b6cb2a45.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리]]></title>
+            <link>https://www.elle.co.kr/article/81452</link>
+            <guid>https://www.elle.co.kr/article/81452</guid>
+            <pubDate>Fri, 20 Oct 2023 05:40:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/448be69e-3c82-426a-b189-d07e60a9e6d6.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

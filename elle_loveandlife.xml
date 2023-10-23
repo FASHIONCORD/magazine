@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-10-22T17:49:21.609Z</updated>
+    <updated>2023-10-23T05:43:08.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밥-영화-카페 말고! 이나연이 알려주는 대학로 이색 데이트 코스 3]]></title>
+        <id>https://www.elle.co.kr/article/81481</id>
+        <link href="https://www.elle.co.kr/article/81481"/>
+        <updated>2023-10-23T05:42:53.959Z</updated>
+        <content type="html"><![CDATA[연인에게 칭찬받는 데이트 코스를 원한다면? 커플이 함께 방문하기에 딱 좋은 대학로 핫 플레이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱가포르에 사는 리빙 크리에이터 아드리아노의 열차 뷰 아파트 #홈터뷰]]></title>
         <id>https://www.elle.co.kr/article/81454</id>
@@ -49,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/81335"/>
         <updated>2023-10-18T05:42:45.187Z</updated>
         <content type="html"><![CDATA[캠핑은 장비빨? 김숙이 직접 사용해보고 소개하는 '상황별 추천 캠핑 기어' 리스트를 구경해 보...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쌍둥바오 이름 결정! 처음 실물 공개한 루이바오X후이바오 뜻은?]]></title>
-        <id>https://www.elle.co.kr/article/81316</id>
-        <link href="https://www.elle.co.kr/article/81316"/>
-        <updated>2023-10-17T17:41:54.574Z</updated>
     </entry>
 </feed>
