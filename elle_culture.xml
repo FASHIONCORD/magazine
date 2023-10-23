@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-10-23T05:43:08.273Z</updated>
+    <updated>2023-10-23T17:41:07.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세 명의 사진가가 포착한 도시 정원]]></title>
+        <id>https://www.elle.co.kr/article/81463</id>
+        <link href="https://www.elle.co.kr/article/81463"/>
+        <updated>2023-10-23T17:40:20.171Z</updated>
+        <content type="html"><![CDATA[최용준, 김선익, 홍기웅. 3인의 사진가 눈에 든 도시 정원들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능]]></title>
+        <id>https://www.elle.co.kr/article/81468</id>
+        <link href="https://www.elle.co.kr/article/81468"/>
+        <updated>2023-10-23T17:40:20.177Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최애 디자이너를 덕질하는 특별한 방법?]]></title>
         <id>https://www.elle.co.kr/article/81466</id>
@@ -42,18 +55,5 @@
         <link href="https://www.elle.co.kr/article/81442"/>
         <updated>2023-10-19T05:40:14.891Z</updated>
         <content type="html"><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃)]]></title>
-        <id>https://www.elle.co.kr/article/81432</id>
-        <link href="https://www.elle.co.kr/article/81432"/>
-        <updated>2023-10-19T05:40:14.894Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취미는 ‘적게 갖기’라 하네 #비움라이프]]></title>
-        <id>https://www.elle.co.kr/article/81320</id>
-        <link href="https://www.elle.co.kr/article/81320"/>
-        <updated>2023-10-19T05:40:14.898Z</updated>
-        <content type="html"><![CDATA[전 &lt;엘르&gt; 패션 에디터 김미강에게 미니멀라이프에 대해 물었다.]]></content>
     </entry>
 </feed>
