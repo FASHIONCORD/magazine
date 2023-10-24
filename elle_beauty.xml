@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-10-23T17:41:07.350Z</updated>
+    <updated>2023-10-24T05:42:21.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 올 한 올 건강하게 빛나는 머릿결을 위한 특급 헤어 팩 솔루션 7]]></title>
+        <id>https://www.elle.co.kr/article/81447</id>
+        <link href="https://www.elle.co.kr/article/81447"/>
+        <updated>2023-10-24T05:40:35.317Z</updated>
+        <content type="html"><![CDATA[찰랑찰랑!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 가방에 착. 대세는 뷰티 키 링!]]></title>
+        <id>https://www.elle.co.kr/article/81327</id>
+        <link href="https://www.elle.co.kr/article/81327"/>
+        <updated>2023-10-24T05:40:35.318Z</updated>
+        <content type="html"><![CDATA['귀염 뽀짝'한 디자인은 기본, 화장품 기능까지 겸비한 실용성 만점 코스메틱 키 링.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환절기 피부 걱정 끝! 이나연의 '꿀피부' 만드는 법]]></title>
+        <id>https://www.elle.co.kr/article/81391</id>
+        <link href="https://www.elle.co.kr/article/81391"/>
+        <updated>2023-10-24T05:40:35.319Z</updated>
+        <content type="html"><![CDATA[빛나는 피부를 가진 이나연이 홈케어로 꿀피부 만드는 비법을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쩍쩍 갈라진 입술엔? 탕후루 수분 폭탄 립 케어 아이템!_선배’s 어드바이스 #190]]></title>
         <id>https://www.elle.co.kr/article/81374</id>
@@ -39,25 +60,5 @@
         <link href="https://www.elle.co.kr/article/81364"/>
         <updated>2023-10-17T05:40:02.425Z</updated>
         <content type="html"><![CDATA[-22kg 감량 에디터, 이렇게 유지어터 중!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안혜경이 신혼여행 다녀오자마자 달려간 곳은? 건강 체형 유지 비결 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81329</id>
-        <link href="https://www.elle.co.kr/article/81329"/>
-        <updated>2023-10-16T05:40:06.073Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['글레이즈 스킨' '듀이 스킨' '베어 스킨' 이거 하나면 OK!]]></title>
-        <id>https://www.elle.co.kr/article/81285</id>
-        <link href="https://www.elle.co.kr/article/81285"/>
-        <updated>2023-10-16T05:40:06.076Z</updated>
-        <content type="html"><![CDATA[반짝반짝 광채 나는 피부 표현이 인기다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성신여자대학교에 벨리곰이 떴다?]]></title>
-        <id>https://www.elle.co.kr/article/81264</id>
-        <link href="https://www.elle.co.kr/article/81264"/>
-        <updated>2023-10-15T17:40:09.519Z</updated>
-        <content type="html"><![CDATA[엘르보이스 일일 셀러브리티로 변신한 벨리곰 B4의 깜짝 공연!]]></content>
     </entry>
 </feed>
