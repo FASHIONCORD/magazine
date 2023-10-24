@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 17:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은은한 단맛이 취향 저격! 가을 한정판 밤 디저트 맛집 3]]></title>
+            <link>https://www.elle.co.kr/article/81514</link>
+            <guid>https://www.elle.co.kr/article/81514</guid>
+            <pubDate>Tue, 24 Oct 2023 17:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[가을의 밤을 좋아하세요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/1d423462-6280-46d5-909c-ba91c2ac8457.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬란한 유등 빛과 화려한 불꽃쇼 즐기기! 가을밤 정취 더하는 축제 3 #가볼만한곳]]></title>
             <link>https://www.elle.co.kr/article/81508</link>
@@ -58,13 +66,6 @@
             <pubDate>Fri, 20 Oct 2023 17:41:33 GMT</pubDate>
             <content:encoded><![CDATA[금빛 글씨 입은 '광화문' 석 자와 돌아온 월대.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/445c8ff9-d9f1-443b-80d9-cca2ea0c2b2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선선한 가을밤 정취와 가볍게 한잔 하기 딱! 전국 주류 축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/81347</link>
-            <guid>https://www.elle.co.kr/article/81347</guid>
-            <pubDate>Fri, 20 Oct 2023 05:41:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/cd5d8fa5-bc60-4f79-a0c5-8b0c901e39d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

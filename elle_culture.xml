@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-10-24T05:42:21.736Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[세 명의 사진가가 포착한 도시 정원]]></title>
-        <id>https://www.elle.co.kr/article/81463</id>
-        <link href="https://www.elle.co.kr/article/81463"/>
-        <updated>2023-10-23T17:40:20.171Z</updated>
-        <content type="html"><![CDATA[최용준, 김선익, 홍기웅. 3인의 사진가 눈에 든 도시 정원들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능]]></title>
-        <id>https://www.elle.co.kr/article/81468</id>
-        <link href="https://www.elle.co.kr/article/81468"/>
-        <updated>2023-10-23T17:40:20.177Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최애 디자이너를 덕질하는 특별한 방법?]]></title>
-        <id>https://www.elle.co.kr/article/81466</id>
-        <link href="https://www.elle.co.kr/article/81466"/>
-        <updated>2023-10-23T05:42:09.528Z</updated>
-        <content type="html"><![CDATA[릭 오웬스, 랄프 로렌, 자크뮈스의 영감을 담아낸 아트북을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱가포르에 사는 리빙 크리에이터 아드리아노의 열차 뷰 아파트 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/81454</id>
-        <link href="https://www.elle.co.kr/article/81454"/>
-        <updated>2023-10-23T05:42:09.529Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리]]></title>
-        <id>https://www.elle.co.kr/article/81452</id>
-        <link href="https://www.elle.co.kr/article/81452"/>
-        <updated>2023-10-20T17:40:45.697Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81450</id>
-        <link href="https://www.elle.co.kr/article/81450"/>
-        <updated>2023-10-19T17:41:19.192Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베트남 친선경기에서 또 잔뜩 제조한 손흥민 미담.txt]]></title>
-        <id>https://www.elle.co.kr/article/81446</id>
-        <link href="https://www.elle.co.kr/article/81446"/>
-        <updated>2023-10-19T17:41:19.195Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의외의 홍현희]]></title>
-        <id>https://www.elle.co.kr/article/81442</id>
-        <link href="https://www.elle.co.kr/article/81442"/>
-        <updated>2023-10-19T05:40:14.891Z</updated>
-        <content type="html"><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 24 Oct 2023 17:41:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오브제일까, 조명일까?]]></title>
+            <link>https://www.elle.co.kr/article/81467</link>
+            <guid>https://www.elle.co.kr/article/81467</guid>
+            <pubDate>Tue, 24 Oct 2023 17:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[호기심과 정성으로 빚어낸 테이블 램프들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/1d239174-fa7b-434d-bb4d-1e61c770e7d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세 명의 사진가가 포착한 도시 정원]]></title>
+            <link>https://www.elle.co.kr/article/81463</link>
+            <guid>https://www.elle.co.kr/article/81463</guid>
+            <pubDate>Mon, 23 Oct 2023 17:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[최용준, 김선익, 홍기웅. 3인의 사진가 눈에 든 도시 정원들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/f99d99e0-818a-4ef5-9540-73dd9738bb16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능]]></title>
+            <link>https://www.elle.co.kr/article/81468</link>
+            <guid>https://www.elle.co.kr/article/81468</guid>
+            <pubDate>Mon, 23 Oct 2023 17:40:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/a8d37d79-5dff-4aeb-be13-c6c098a5e9cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최애 디자이너를 덕질하는 특별한 방법?]]></title>
+            <link>https://www.elle.co.kr/article/81466</link>
+            <guid>https://www.elle.co.kr/article/81466</guid>
+            <pubDate>Mon, 23 Oct 2023 05:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[릭 오웬스, 랄프 로렌, 자크뮈스의 영감을 담아낸 아트북을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/870de5b8-f774-4d8c-9c42-ed0257678e88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱가포르에 사는 리빙 크리에이터 아드리아노의 열차 뷰 아파트 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/81454</link>
+            <guid>https://www.elle.co.kr/article/81454</guid>
+            <pubDate>Mon, 23 Oct 2023 05:42:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/d970d4d3-9969-4967-8422-89cf0071fc80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리]]></title>
+            <link>https://www.elle.co.kr/article/81452</link>
+            <guid>https://www.elle.co.kr/article/81452</guid>
+            <pubDate>Fri, 20 Oct 2023 17:40:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/448be69e-3c82-426a-b189-d07e60a9e6d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/81450</link>
+            <guid>https://www.elle.co.kr/article/81450</guid>
+            <pubDate>Thu, 19 Oct 2023 17:41:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/b6bac912-2849-44f0-8c3c-451976efa8e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베트남 친선경기에서 또 잔뜩 제조한 손흥민 미담.txt]]></title>
+            <link>https://www.elle.co.kr/article/81446</link>
+            <guid>https://www.elle.co.kr/article/81446</guid>
+            <pubDate>Thu, 19 Oct 2023 17:41:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/de7fe776-2ac7-44bd-b00d-87a8e8bec609.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

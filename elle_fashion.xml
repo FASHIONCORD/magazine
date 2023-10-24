@@ -4,9 +4,33 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 05:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 17:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열 살이 된 '테디베어 코트'라는 아이콘]]></title>
+            <link>https://www.elle.co.kr/article/81562</link>
+            <guid>https://www.elle.co.kr/article/81562</guid>
+            <pubDate>Tue, 24 Oct 2023 17:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[우연을 믿고 거리로 나섰다. 10주년 밖에 지나지 않았다는 것이 낯설게 느껴지는 클래식 아이콘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/369f52e6-45aa-442c-bf41-3058ad1fb76f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GD가 뿌리는 향수, 이다희가 찾는 주얼리?]]></title>
+            <link>https://www.elle.co.kr/article/81535</link>
+            <guid>https://www.elle.co.kr/article/81535</guid>
+            <pubDate>Tue, 24 Oct 2023 17:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[가을엔 프렌치 감성이 필요해! 따끈따끈하게 새로 오픈한 매장 2곳에서 프랑스 분위기 완충 가능...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/83d40732-89a5-42b3-925a-adaf9a981f51.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[존재감있는 신상 글러브 아이템]]></title>
+            <link>https://www.elle.co.kr/article/81504</link>
+            <guid>https://www.elle.co.kr/article/81504</guid>
+            <pubDate>Tue, 24 Oct 2023 17:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[자신감을 장착한 글러브의 화려한 귀환]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/6dfab39a-97d7-48f2-9ed9-7e7c40ab2837.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[할머니 옷장 속 카디건]]></title>
             <link>https://www.elle.co.kr/article/81526</link>
@@ -45,30 +69,6 @@
             <guid>https://www.elle.co.kr/article/81471</guid>
             <pubDate>Mon, 23 Oct 2023 05:40:53 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/c340701a-741d-41a8-ad2f-e4ca66d5de76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거울 같은 실버 백]]></title>
-            <link>https://www.elle.co.kr/article/81465</link>
-            <guid>https://www.elle.co.kr/article/81465</guid>
-            <pubDate>Mon, 23 Oct 2023 05:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[거울아 거울아, 세상에서 누가 제일 예쁘니?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/9682c7f8-4920-48ac-b44b-11a982515f29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 낮의 위스키 바]]></title>
-            <link>https://www.elle.co.kr/article/81394</link>
-            <guid>https://www.elle.co.kr/article/81394</guid>
-            <pubDate>Mon, 23 Oct 2023 05:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[고요하고 감미롭게. 골드 워치와 함께한 위스키 바에서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/260cf81d-aabb-436b-bea3-70bbb15ba577.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 에디터의 반지 원정기]]></title>
-            <link>https://www.elle.co.kr/article/81455</link>
-            <guid>https://www.elle.co.kr/article/81455</guid>
-            <pubDate>Sun, 22 Oct 2023 05:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[이제 막 파인 주얼리에 눈을 뜬 입문자들을 위해, 손가락 마디가 닳도록 반지를 껴본 두 에디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/075646d7-6c61-4835-9b9b-80c0b15d3696.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

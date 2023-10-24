@@ -1,64 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/beauty</id>
-    <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-10-24T05:42:21.728Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[한 올 한 올 건강하게 빛나는 머릿결을 위한 특급 헤어 팩 솔루션 7]]></title>
-        <id>https://www.elle.co.kr/article/81447</id>
-        <link href="https://www.elle.co.kr/article/81447"/>
-        <updated>2023-10-24T05:40:35.317Z</updated>
-        <content type="html"><![CDATA[찰랑찰랑!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 가방에 착. 대세는 뷰티 키 링!]]></title>
-        <id>https://www.elle.co.kr/article/81327</id>
-        <link href="https://www.elle.co.kr/article/81327"/>
-        <updated>2023-10-24T05:40:35.318Z</updated>
-        <content type="html"><![CDATA['귀염 뽀짝'한 디자인은 기본, 화장품 기능까지 겸비한 실용성 만점 코스메틱 키 링.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환절기 피부 걱정 끝! 이나연의 '꿀피부' 만드는 법]]></title>
-        <id>https://www.elle.co.kr/article/81391</id>
-        <link href="https://www.elle.co.kr/article/81391"/>
-        <updated>2023-10-24T05:40:35.319Z</updated>
-        <content type="html"><![CDATA[빛나는 피부를 가진 이나연이 홈케어로 꿀피부 만드는 비법을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쩍쩍 갈라진 입술엔? 탕후루 수분 폭탄 립 케어 아이템!_선배’s 어드바이스 #190]]></title>
-        <id>https://www.elle.co.kr/article/81374</id>
-        <link href="https://www.elle.co.kr/article/81374"/>
-        <updated>2023-10-23T05:41:33.269Z</updated>
-        <content type="html"><![CDATA[안티에이징과 메이크업을 한 번에 끝내줄 업그레이드 립 케어 아이템을 한데 모았습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뷰티 보부상' 린의 가방 속 뷰티 아이템 10]]></title>
-        <id>https://www.elle.co.kr/article/81372</id>
-        <link href="https://www.elle.co.kr/article/81372"/>
-        <updated>2023-10-19T17:40:47.706Z</updated>
-        <content type="html"><![CDATA[린이 매일 챙겨 다니는 아이템들은 무엇? N차 구매하는 헤어 스타일링 제품부터 최근에 푹 빠...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반드시 '겟'해야 할 10의 뷰티 신상]]></title>
-        <id>https://www.elle.co.kr/article/81302</id>
-        <link href="https://www.elle.co.kr/article/81302"/>
-        <updated>2023-10-18T17:40:47.873Z</updated>
-        <content type="html"><![CDATA[10월의 뷰티 신상과 함께 완연한 가을의 푸르름을 만끽하길.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피부가 마시는 우유]]></title>
-        <id>https://www.elle.co.kr/article/81299</id>
-        <link href="https://www.elle.co.kr/article/81299"/>
-        <updated>2023-10-18T17:40:47.884Z</updated>
-        <content type="html"><![CDATA[우유 한 잔 주세요, 피부가 좋아하는 우유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이건 먹어도 돼! 유지어트를 위한 외식 가이드 #다이어터디터]]></title>
-        <id>https://www.elle.co.kr/article/81364</id>
-        <link href="https://www.elle.co.kr/article/81364"/>
-        <updated>2023-10-17T05:40:02.425Z</updated>
-        <content type="html"><![CDATA[-22kg 감량 에디터, 이렇게 유지어터 중!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 24 Oct 2023 17:41:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서동주가 67kg에서 52kg까지 감량한 방법 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/81478</link>
+            <guid>https://www.elle.co.kr/article/81478</guid>
+            <pubDate>Tue, 24 Oct 2023 17:40:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/19363892-2249-4708-8ebc-5916995728a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 올 한 올 건강하게 빛나는 머릿결을 위한 특급 헤어 팩 솔루션 7]]></title>
+            <link>https://www.elle.co.kr/article/81447</link>
+            <guid>https://www.elle.co.kr/article/81447</guid>
+            <pubDate>Tue, 24 Oct 2023 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[찰랑찰랑!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/7fabcae9-5cdf-4582-b513-2dac40f1945b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 가방에 착. 대세는 뷰티 키 링!]]></title>
+            <link>https://www.elle.co.kr/article/81327</link>
+            <guid>https://www.elle.co.kr/article/81327</guid>
+            <pubDate>Tue, 24 Oct 2023 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA['귀염 뽀짝'한 디자인은 기본, 화장품 기능까지 겸비한 실용성 만점 코스메틱 키 링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/0110b708-115d-4df6-837a-f45dd4f4bf9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환절기 피부 걱정 끝! 이나연의 '꿀피부' 만드는 법]]></title>
+            <link>https://www.elle.co.kr/article/81391</link>
+            <guid>https://www.elle.co.kr/article/81391</guid>
+            <pubDate>Tue, 24 Oct 2023 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[빛나는 피부를 가진 이나연이 홈케어로 꿀피부 만드는 비법을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/18153c3b-311a-4ba9-8bb0-fe349a99a64e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쩍쩍 갈라진 입술엔? 탕후루 수분 폭탄 립 케어 아이템!_선배’s 어드바이스 #190]]></title>
+            <link>https://www.elle.co.kr/article/81374</link>
+            <guid>https://www.elle.co.kr/article/81374</guid>
+            <pubDate>Mon, 23 Oct 2023 05:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[안티에이징과 메이크업을 한 번에 끝내줄 업그레이드 립 케어 아이템을 한데 모았습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/4dd172b0-19ba-4a9d-9eba-1a77f0a6d54f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뷰티 보부상' 린의 가방 속 뷰티 아이템 10]]></title>
+            <link>https://www.elle.co.kr/article/81372</link>
+            <guid>https://www.elle.co.kr/article/81372</guid>
+            <pubDate>Thu, 19 Oct 2023 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[린이 매일 챙겨 다니는 아이템들은 무엇? N차 구매하는 헤어 스타일링 제품부터 최근에 푹 빠...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/e7b066c2-ca22-428e-8397-ec0bf852b4bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반드시 '겟'해야 할 10의 뷰티 신상]]></title>
+            <link>https://www.elle.co.kr/article/81302</link>
+            <guid>https://www.elle.co.kr/article/81302</guid>
+            <pubDate>Wed, 18 Oct 2023 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[10월의 뷰티 신상과 함께 완연한 가을의 푸르름을 만끽하길.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/576c8af1-c7e0-4e66-976a-ab35017ba12b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피부가 마시는 우유]]></title>
+            <link>https://www.elle.co.kr/article/81299</link>
+            <guid>https://www.elle.co.kr/article/81299</guid>
+            <pubDate>Wed, 18 Oct 2023 17:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[우유 한 잔 주세요, 피부가 좋아하는 우유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/771edd6b-e7da-40c3-9c75-bb9ba525b822.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
