@@ -1,89 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/moviesandtv</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-10-25T05:41:43.480Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[남궁민X안은진 멜로 케미 반짝반짝! '연인' 파트2 인기 요인 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/81557</id>
-        <link href="https://www.elle.co.kr/article/81557"/>
-        <updated>2023-10-23T17:40:39.223Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소민이 6년 반 만에 '런닝맨'에서 하차하는 이유]]></title>
-        <id>https://www.elle.co.kr/article/81528</id>
-        <link href="https://www.elle.co.kr/article/81528"/>
-        <updated>2023-10-23T05:42:32.928Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능]]></title>
-        <id>https://www.elle.co.kr/article/81468</id>
-        <link href="https://www.elle.co.kr/article/81468"/>
-        <updated>2023-10-19T17:41:37.047Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리]]></title>
-        <id>https://www.elle.co.kr/article/81452</id>
-        <link href="https://www.elle.co.kr/article/81452"/>
-        <updated>2023-10-19T05:40:31.962Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81450</id>
-        <link href="https://www.elle.co.kr/article/81450"/>
-        <updated>2023-10-19T05:40:31.965Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의외의 홍현희]]></title>
-        <id>https://www.elle.co.kr/article/81442</id>
-        <link href="https://www.elle.co.kr/article/81442"/>
-        <updated>2023-10-18T17:41:55.529Z</updated>
-        <content type="html"><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7년 만에 돌아오는 '아수라' 콤비 황정민X정우성, '서울의 봄' 개봉 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/81414</id>
-        <link href="https://www.elle.co.kr/article/81414"/>
-        <updated>2023-10-17T17:41:30.408Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성 히어로의 풋풋한 로맨스! 대박 난 '힘쎈여자 강남순' 인기 요인 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/81384</id>
-        <link href="https://www.elle.co.kr/article/81384"/>
-        <updated>2023-10-16T17:41:31.479Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준이다! 드디어 캐릭터 스틸 공개된 '더 마블스' 개봉 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/81379</id>
-        <link href="https://www.elle.co.kr/article/81379"/>
-        <updated>2023-10-16T05:40:53.239Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매 회차가 레전드, 허파 디비지는 '나는 솔로' 16기 유행어 5]]></title>
-        <id>https://www.elle.co.kr/article/81303</id>
-        <link href="https://www.elle.co.kr/article/81303"/>
-        <updated>2023-10-11T17:40:46.010Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을을 감싸줄 두 편의 이야기]]></title>
-        <id>https://www.elle.co.kr/article/81151</id>
-        <link href="https://www.elle.co.kr/article/81151"/>
-        <updated>2023-10-07T17:40:49.185Z</updated>
-        <content type="html"><![CDATA[좀 더 내밀한 이야기가 필요한 시기. 삭막한 도시에 다가선 고독을 껴안아 줄 여성들의 이야기...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭐지, 이 라인업? 유재석 새 예능 '아파트 404' 의외의 고정멤버 2]]></title>
-        <id>https://www.elle.co.kr/article/81183</id>
-        <link href="https://www.elle.co.kr/article/81183"/>
-        <updated>2023-10-06T17:40:38.464Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함정을 찾아라! 스타들의 AI 이어북 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/81130</id>
-        <link href="https://www.elle.co.kr/article/81130"/>
-        <updated>2023-10-05T05:40:53.088Z</updated>
-        <content type="html"><![CDATA[설마 아직도 안 해본 건 아니죠?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 25 Oct 2023 17:41:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
+            <link>https://www.elle.co.kr/article/81640</link>
+            <guid>https://www.elle.co.kr/article/81640</guid>
+            <pubDate>Wed, 25 Oct 2023 17:40:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6e1852e-0e89-4b7d-9cd1-853fcafe9342.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남궁민X안은진 멜로 케미 반짝반짝! '연인' 파트2 인기 요인 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/81557</link>
+            <guid>https://www.elle.co.kr/article/81557</guid>
+            <pubDate>Mon, 23 Oct 2023 17:40:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c0328db0-381f-4437-8db1-c5d4f29cbf67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전소민이 6년 반 만에 '런닝맨'에서 하차하는 이유]]></title>
+            <link>https://www.elle.co.kr/article/81528</link>
+            <guid>https://www.elle.co.kr/article/81528</guid>
+            <pubDate>Mon, 23 Oct 2023 05:42:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c2d42304-9e32-4bf2-bf70-078084f1cb4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무려 26년 인연의 황금 조합, 방시혁X박진영이 첫 동반 출연하는 예능]]></title>
+            <link>https://www.elle.co.kr/article/81468</link>
+            <guid>https://www.elle.co.kr/article/81468</guid>
+            <pubDate>Thu, 19 Oct 2023 17:41:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/a8d37d79-5dff-4aeb-be13-c6c098a5e9cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수지가 드라마에서 은퇴한 아이돌로 나온다고요? '이두나!' 정보 총정리]]></title>
+            <link>https://www.elle.co.kr/article/81452</link>
+            <guid>https://www.elle.co.kr/article/81452</guid>
+            <pubDate>Thu, 19 Oct 2023 05:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[16기 영자, 3개월 만에 10kg 감량? '나솔' 출연자들의 체중 감량 비법 총정리 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/81450</link>
+            <guid>https://www.elle.co.kr/article/81450</guid>
+            <pubDate>Thu, 19 Oct 2023 05:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[의외의 홍현희]]></title>
+            <link>https://www.elle.co.kr/article/81442</link>
+            <guid>https://www.elle.co.kr/article/81442</guid>
+            <pubDate>Wed, 18 Oct 2023 17:41:55 GMT</pubDate>
+            <content:encoded><![CDATA["저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7년 만에 돌아오는 '아수라' 콤비 황정민X정우성, '서울의 봄' 개봉 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/81414</link>
+            <guid>https://www.elle.co.kr/article/81414</guid>
+            <pubDate>Tue, 17 Oct 2023 17:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[여성 히어로의 풋풋한 로맨스! 대박 난 '힘쎈여자 강남순' 인기 요인 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/81384</link>
+            <guid>https://www.elle.co.kr/article/81384</guid>
+            <pubDate>Mon, 16 Oct 2023 17:41:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[박서준이다! 드디어 캐릭터 스틸 공개된 '더 마블스' 개봉 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/81379</link>
+            <guid>https://www.elle.co.kr/article/81379</guid>
+            <pubDate>Mon, 16 Oct 2023 05:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[매 회차가 레전드, 허파 디비지는 '나는 솔로' 16기 유행어 5]]></title>
+            <link>https://www.elle.co.kr/article/81303</link>
+            <guid>https://www.elle.co.kr/article/81303</guid>
+            <pubDate>Wed, 11 Oct 2023 17:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[가을을 감싸줄 두 편의 이야기]]></title>
+            <link>https://www.elle.co.kr/article/81151</link>
+            <guid>https://www.elle.co.kr/article/81151</guid>
+            <pubDate>Sat, 07 Oct 2023 17:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[좀 더 내밀한 이야기가 필요한 시기. 삭막한 도시에 다가선 고독을 껴안아 줄 여성들의 이야기...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뭐지, 이 라인업? 유재석 새 예능 '아파트 404' 의외의 고정멤버 2]]></title>
+            <link>https://www.elle.co.kr/article/81183</link>
+            <guid>https://www.elle.co.kr/article/81183</guid>
+            <pubDate>Fri, 06 Oct 2023 17:40:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

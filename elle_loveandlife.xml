@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 05:41:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[다가오는 주말, 성수로 향해야 하는 이유 3]]></title>
-            <link>https://www.elle.co.kr/article/81523</link>
-            <guid>https://www.elle.co.kr/article/81523</guid>
-            <pubDate>Wed, 25 Oct 2023 05:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[자크뮈스부터 버버리, CDGCDGCDG까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/5e623927-0a09-4304-a9e6-7aca89136533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은은한 단맛이 취향 저격! 가을 한정판 밤 디저트 맛집 3]]></title>
-            <link>https://www.elle.co.kr/article/81514</link>
-            <guid>https://www.elle.co.kr/article/81514</guid>
-            <pubDate>Tue, 24 Oct 2023 17:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[가을의 밤을 좋아하세요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/1d423462-6280-46d5-909c-ba91c2ac8457.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬란한 유등 빛과 화려한 불꽃쇼 즐기기! 가을밤 정취 더하는 축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/81508</link>
-            <guid>https://www.elle.co.kr/article/81508</guid>
-            <pubDate>Tue, 24 Oct 2023 05:42:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/87dba30a-6d5f-4b72-ac29-71572a876457.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덕후들이 찾는 도쿄 라멘집 #도쿄핫플]]></title>
-            <link>https://www.elle.co.kr/article/81503</link>
-            <guid>https://www.elle.co.kr/article/81503</guid>
-            <pubDate>Tue, 24 Oct 2023 05:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[도쿄에서 감동의 라멘 한 그릇을 먹고 싶으면 어디로 가는 게 좋을까요? 도쿄 시내의 모든 라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/42c186db-8685-4ddd-bd1d-cb90dbc4df8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밥-영화-카페 말고! 이나연이 알려주는 대학로 이색 데이트 코스 3]]></title>
-            <link>https://www.elle.co.kr/article/81481</link>
-            <guid>https://www.elle.co.kr/article/81481</guid>
-            <pubDate>Mon, 23 Oct 2023 05:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[연인에게 칭찬받는 데이트 코스를 원한다면? 커플이 함께 방문하기에 딱 좋은 대학로 핫 플레이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/a195fa5a-786f-4e7b-9638-a9b2d0e36f36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱가포르에 사는 리빙 크리에이터 아드리아노의 열차 뷰 아파트 #홈터뷰]]></title>
-            <link>https://www.elle.co.kr/article/81454</link>
-            <guid>https://www.elle.co.kr/article/81454</guid>
-            <pubDate>Sun, 22 Oct 2023 05:41:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/d970d4d3-9969-4967-8422-89cf0071fc80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국화꽃 필 무렵, 가을 데이트 하기 딱 좋은 전국 국화 축제 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/81428</link>
-            <guid>https://www.elle.co.kr/article/81428</guid>
-            <pubDate>Sat, 21 Oct 2023 05:41:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/0d092fa4-73c7-4511-8cf7-5f0231ad94d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을의 와인 한 잔]]></title>
-            <link>https://www.elle.co.kr/article/81415</link>
-            <guid>https://www.elle.co.kr/article/81415</guid>
-            <pubDate>Fri, 20 Oct 2023 17:41:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/027fc3eb-eb3b-4b5a-9528-9ecc916e0178.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2023-10-25T17:41:25.656Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다가오는 주말, 성수로 향해야 하는 이유 3]]></title>
+        <id>https://www.elle.co.kr/article/81523</id>
+        <link href="https://www.elle.co.kr/article/81523"/>
+        <updated>2023-10-25T05:41:31.615Z</updated>
+        <content type="html"><![CDATA[자크뮈스부터 버버리, CDGCDGCDG까지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은은한 단맛이 취향 저격! 가을 한정판 밤 디저트 맛집 3]]></title>
+        <id>https://www.elle.co.kr/article/81514</id>
+        <link href="https://www.elle.co.kr/article/81514"/>
+        <updated>2023-10-24T17:41:36.514Z</updated>
+        <content type="html"><![CDATA[가을의 밤을 좋아하세요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찬란한 유등 빛과 화려한 불꽃쇼 즐기기! 가을밤 정취 더하는 축제 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/81508</id>
+        <link href="https://www.elle.co.kr/article/81508"/>
+        <updated>2023-10-24T05:42:08.408Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[덕후들이 찾는 도쿄 라멘집 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/81503</id>
+        <link href="https://www.elle.co.kr/article/81503"/>
+        <updated>2023-10-24T05:42:08.410Z</updated>
+        <content type="html"><![CDATA[도쿄에서 감동의 라멘 한 그릇을 먹고 싶으면 어디로 가는 게 좋을까요? 도쿄 시내의 모든 라...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밥-영화-카페 말고! 이나연이 알려주는 대학로 이색 데이트 코스 3]]></title>
+        <id>https://www.elle.co.kr/article/81481</id>
+        <link href="https://www.elle.co.kr/article/81481"/>
+        <updated>2023-10-23T05:42:53.959Z</updated>
+        <content type="html"><![CDATA[연인에게 칭찬받는 데이트 코스를 원한다면? 커플이 함께 방문하기에 딱 좋은 대학로 핫 플레이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱가포르에 사는 리빙 크리에이터 아드리아노의 열차 뷰 아파트 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/81454</id>
+        <link href="https://www.elle.co.kr/article/81454"/>
+        <updated>2023-10-22T05:41:37.983Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국화꽃 필 무렵, 가을 데이트 하기 딱 좋은 전국 국화 축제 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/81428</id>
+        <link href="https://www.elle.co.kr/article/81428"/>
+        <updated>2023-10-21T05:41:12.060Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을의 와인 한 잔]]></title>
+        <id>https://www.elle.co.kr/article/81415</id>
+        <link href="https://www.elle.co.kr/article/81415"/>
+        <updated>2023-10-20T17:41:33.939Z</updated>
+    </entry>
+</feed>
