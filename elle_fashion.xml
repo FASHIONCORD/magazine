@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 17:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 05:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷장 속 트렌치코트로 다시 가을 타는 법!]]></title>
+            <link>https://www.elle.co.kr/article/81534</link>
+            <guid>https://www.elle.co.kr/article/81534</guid>
+            <pubDate>Wed, 25 Oct 2023 05:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[이 시대의 뉴 트렌치코트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/18bfba40-6252-4665-aca4-ece16c09b40f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨스턴에 빠진 하이 주얼리]]></title>
+            <link>https://www.elle.co.kr/article/81541</link>
+            <guid>https://www.elle.co.kr/article/81541</guid>
+            <pubDate>Wed, 25 Oct 2023 05:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[황야를 떠올리며]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/dd38e469-1e61-41b7-8446-5165d597add7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열 살이 된 '테디베어 코트'라는 아이콘]]></title>
             <link>https://www.elle.co.kr/article/81562</link>
@@ -54,21 +70,6 @@
             <pubDate>Mon, 23 Oct 2023 17:39:50 GMT</pubDate>
             <content:encoded><![CDATA[자크뮈스부터 버버리, CDGCDGCDG까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/5e623927-0a09-4304-a9e6-7aca89136533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을이 가기 전에! 트렌치코트 스타일링 5]]></title>
-            <link>https://www.elle.co.kr/article/81519</link>
-            <guid>https://www.elle.co.kr/article/81519</guid>
-            <pubDate>Mon, 23 Oct 2023 05:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[트렌치코트를 즐기기에 가장 좋은 계절은 바로 지금!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/17e4fc3d-3865-42e2-b876-af96d2b0f034.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사르르~ 런웨이에 녹아든 스위트 버터]]></title>
-            <link>https://www.elle.co.kr/article/81471</link>
-            <guid>https://www.elle.co.kr/article/81471</guid>
-            <pubDate>Mon, 23 Oct 2023 05:40:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/c340701a-741d-41a8-ad2f-e4ca66d5de76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

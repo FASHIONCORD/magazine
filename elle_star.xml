@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-24T17:41:49.061Z</updated>
+    <updated>2023-10-25T05:41:43.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤은혜 픽! 가을에 뿌리기 좋은 향수 10가지.list]]></title>
+        <id>https://www.elle.co.kr/article/81566</id>
+        <link href="https://www.elle.co.kr/article/81566"/>
+        <updated>2023-10-25T05:40:22.231Z</updated>
+        <content type="html"><![CDATA[가을 겨울에 뿌리면 제격! 사심을 담은 윤은혜 추천 향수들을 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남궁민X안은진 멜로 케미 반짝반짝! '연인' 파트2 인기 요인 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/81557</id>
+        <link href="https://www.elle.co.kr/article/81557"/>
+        <updated>2023-10-25T05:40:22.235Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두 딸 아빠 된 엑소 첸, 혼인신고 3년 만에 치른 결혼식은 어디서?]]></title>
+        <id>https://www.elle.co.kr/article/81543</id>
+        <link href="https://www.elle.co.kr/article/81543"/>
+        <updated>2023-10-25T05:40:22.236Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소민이 6년 반 만에 '런닝맨'에서 하차하는 이유]]></title>
         <id>https://www.elle.co.kr/article/81528</id>
@@ -36,25 +55,5 @@
         <id>https://www.elle.co.kr/article/81507</id>
         <link href="https://www.elle.co.kr/article/81507"/>
         <updated>2023-10-23T05:41:44.661Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["전 날개는 없지만 부리는 있어요" BTS 지민의 귀여움 가득 담은 인터뷰]]></title>
-        <id>https://www.elle.co.kr/article/81506</id>
-        <link href="https://www.elle.co.kr/article/81506"/>
-        <updated>2023-10-23T05:41:44.663Z</updated>
-        <content type="html"><![CDATA[진지한 듯 안 진지한, 현장감 가득 인터뷰]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쟈스민 꽃보다 박서준, 독보적 아우라!]]></title>
-        <id>https://www.elle.co.kr/article/81440</id>
-        <link href="https://www.elle.co.kr/article/81440"/>
-        <updated>2023-10-23T05:41:44.666Z</updated>
-        <content type="html"><![CDATA[신이 만든 쟈스민 향기와 인간이 창조한 샤넬 N°5. 그 사이에서 공명하는 수많은 사람들의 이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서동주가 67kg에서 52kg까지 감량한 방법 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81478</id>
-        <link href="https://www.elle.co.kr/article/81478"/>
-        <updated>2023-10-23T05:41:44.669Z</updated>
     </entry>
 </feed>

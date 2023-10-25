@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 17:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 05:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다가오는 주말, 성수로 향해야 하는 이유 3]]></title>
+            <link>https://www.elle.co.kr/article/81523</link>
+            <guid>https://www.elle.co.kr/article/81523</guid>
+            <pubDate>Wed, 25 Oct 2023 05:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[자크뮈스부터 버버리, CDGCDGCDG까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/5e623927-0a09-4304-a9e6-7aca89136533.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은은한 단맛이 취향 저격! 가을 한정판 밤 디저트 맛집 3]]></title>
             <link>https://www.elle.co.kr/article/81514</link>
@@ -58,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/81415</guid>
             <pubDate>Fri, 20 Oct 2023 17:41:33 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/027fc3eb-eb3b-4b5a-9528-9ecc916e0178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100년 만에 제모습 찾은 광화문! 달라진 점은?]]></title>
-            <link>https://www.elle.co.kr/article/81371</link>
-            <guid>https://www.elle.co.kr/article/81371</guid>
-            <pubDate>Fri, 20 Oct 2023 17:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[금빛 글씨 입은 '광화문' 석 자와 돌아온 월대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/445c8ff9-d9f1-443b-80d9-cca2ea0c2b2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
