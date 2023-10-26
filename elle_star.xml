@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 17:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 05:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
+            <link>https://www.elle.co.kr/article/81640</link>
+            <guid>https://www.elle.co.kr/article/81640</guid>
+            <pubDate>Thu, 26 Oct 2023 05:40:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6e1852e-0e89-4b7d-9cd1-853fcafe9342.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도인 다 된 조인성, 선행 연예인상 탔다! 직접 밝힌 상금 2000만 원의 용처는?]]></title>
             <link>https://www.elle.co.kr/article/81628</link>
@@ -58,13 +65,6 @@
             <guid>https://www.elle.co.kr/article/81557</guid>
             <pubDate>Wed, 25 Oct 2023 05:40:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c0328db0-381f-4437-8db1-c5d4f29cbf67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 딸 아빠 된 엑소 첸, 혼인신고 3년 만에 치른 결혼식은 어디서?]]></title>
-            <link>https://www.elle.co.kr/article/81543</link>
-            <guid>https://www.elle.co.kr/article/81543</guid>
-            <pubDate>Wed, 25 Oct 2023 05:40:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/f43275e9-7a66-4624-8378-e78221e85f08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
