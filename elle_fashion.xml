@@ -1,439 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 05:41:56 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[셀린느의 도서관 패션?]]></title>
-            <link>https://www.elle.co.kr/article/81593</link>
-            <guid>https://www.elle.co.kr/article/81593</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[셀린느가 파리 국립 도서관을 런웨이로 만들었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/79869d32-c298-4091-8e84-c55c9b1f59ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스톡홀름에서 추천하는 쇼핑 스폿]]></title>
-            <link>https://www.elle.co.kr/article/81588</link>
-            <guid>https://www.elle.co.kr/article/81588</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[이케아 말고도 기억할 곳이 이렇게나 많습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/e9948960-35d7-4ad9-ae56-3be1dc5bb61f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷장 속 트렌치코트로 다시 가을 타는 법!]]></title>
-            <link>https://www.elle.co.kr/article/81534</link>
-            <guid>https://www.elle.co.kr/article/81534</guid>
-            <pubDate>Wed, 25 Oct 2023 05:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[이 시대의 뉴 트렌치코트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/18bfba40-6252-4665-aca4-ece16c09b40f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스턴에 빠진 하이 주얼리]]></title>
-            <link>https://www.elle.co.kr/article/81541</link>
-            <guid>https://www.elle.co.kr/article/81541</guid>
-            <pubDate>Wed, 25 Oct 2023 05:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[황야를 떠올리며]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/dd38e469-1e61-41b7-8446-5165d597add7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열 살이 된 '테디베어 코트'라는 아이콘]]></title>
-            <link>https://www.elle.co.kr/article/81562</link>
-            <guid>https://www.elle.co.kr/article/81562</guid>
-            <pubDate>Tue, 24 Oct 2023 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[우연을 믿고 거리로 나섰다. 10주년 밖에 지나지 않았다는 것이 낯설게 느껴지는 클래식 아이콘...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/369f52e6-45aa-442c-bf41-3058ad1fb76f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GD가 뿌리는 향수, 이다희가 찾는 주얼리?]]></title>
-            <link>https://www.elle.co.kr/article/81535</link>
-            <guid>https://www.elle.co.kr/article/81535</guid>
-            <pubDate>Tue, 24 Oct 2023 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[가을엔 프렌치 감성이 필요해! 따끈따끈하게 새로 오픈한 매장 2곳에서 프랑스 분위기 완충 가능...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/83d40732-89a5-42b3-925a-adaf9a981f51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존재감있는 신상 글러브 아이템]]></title>
-            <link>https://www.elle.co.kr/article/81504</link>
-            <guid>https://www.elle.co.kr/article/81504</guid>
-            <pubDate>Tue, 24 Oct 2023 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[자신감을 장착한 글러브의 화려한 귀환]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/6dfab39a-97d7-48f2-9ed9-7e7c40ab2837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할머니 옷장 속 카디건]]></title>
-            <link>https://www.elle.co.kr/article/81526</link>
-            <guid>https://www.elle.co.kr/article/81526</guid>
-            <pubDate>Mon, 23 Oct 2023 17:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[그리운 할머니의 품 속으로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/358f1a42-4b10-4277-9324-28c03007da86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조세호가 왜 거기서 나와? 이번 주, 한국을 찾은 디자이너]]></title>
-            <link>https://www.elle.co.kr/article/81525</link>
-            <guid>https://www.elle.co.kr/article/81525</guid>
-            <pubDate>Mon, 23 Oct 2023 17:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/dd3bfc07-119b-4504-b427-a069af43cb26.jpg');">
-            <a href="/article/81525">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81525">
-                                        CELEB NEWS                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81525">
-                    조세호가 왜 거기서 나와? 이번 주, 한국을 찾은 디자이너                </a>
-            </em>
-            <p class="excerpt">미스터 톰 브라운과 코페르니 디자이너 듀오의 서울 나들이.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/dd3bfc07-119b-4504-b427-a069af43cb26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다가오는 주말, 성수로 향해야 하는 이유 3]]></title>
-            <link>https://www.elle.co.kr/article/81523</link>
-            <guid>https://www.elle.co.kr/article/81523</guid>
-            <pubDate>Mon, 23 Oct 2023 17:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/5e623927-0a09-4304-a9e6-7aca89136533.jpg');">
-            <a href="/article/81523">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81523">
-                                        SHOPPING                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81523">
-                    다가오는 주말, 성수로 향해야 하는 이유 3                </a>
-            </em>
-            <p class="excerpt">자크뮈스부터 버버리, CDGCDGCDG까지!</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/5e623927-0a09-4304-a9e6-7aca89136533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을이 가기 전에! 트렌치코트 스타일링 5]]></title>
-            <link>https://www.elle.co.kr/article/81519</link>
-            <guid>https://www.elle.co.kr/article/81519</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/17e4fc3d-3865-42e2-b876-af96d2b0f034.jpg');">
-            <a href="/article/81519">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81519">
-                                        HOW TO                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81519">
-                    가을이 가기 전에! 트렌치코트 스타일링 5                </a>
-            </em>
-            <p class="excerpt">트렌치코트를 즐기기에 가장 좋은 계절은 바로 지금!</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/17e4fc3d-3865-42e2-b876-af96d2b0f034.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사르르~ 런웨이에 녹아든 스위트 버터]]></title>
-            <link>https://www.elle.co.kr/article/81471</link>
-            <guid>https://www.elle.co.kr/article/81471</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/c340701a-741d-41a8-ad2f-e4ca66d5de76.jpg');">
-            <a href="/article/81471">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81471">
-                                        TRENDS                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81471">
-                    사르르~ 런웨이에 녹아든 스위트 버터                </a>
-            </em>
-            <p class="excerpt"></p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/c340701a-741d-41a8-ad2f-e4ca66d5de76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거울 같은 실버 백]]></title>
-            <link>https://www.elle.co.kr/article/81465</link>
-            <guid>https://www.elle.co.kr/article/81465</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/9682c7f8-4920-48ac-b44b-11a982515f29.jpg');">
-            <a href="/article/81465">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81465">
-                                        TRENDS                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81465">
-                    거울 같은 실버 백                </a>
-            </em>
-            <p class="excerpt">거울아 거울아, 세상에서 누가 제일 예쁘니?</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/9682c7f8-4920-48ac-b44b-11a982515f29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 낮의 위스키 바]]></title>
-            <link>https://www.elle.co.kr/article/81394</link>
-            <guid>https://www.elle.co.kr/article/81394</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/260cf81d-aabb-436b-bea3-70bbb15ba577.jpg');">
-            <a href="/article/81394">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81394">
-                                        ACCESSORIES                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81394">
-                    가을 낮의 위스키 바                </a>
-            </em>
-            <p class="excerpt">고요하고 감미롭게. 골드 워치와 함께한 위스키 바에서.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/260cf81d-aabb-436b-bea3-70bbb15ba577.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 에디터의 반지 원정기]]></title>
-            <link>https://www.elle.co.kr/article/81455</link>
-            <guid>https://www.elle.co.kr/article/81455</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/075646d7-6c61-4835-9b9b-80c0b15d3696.jpg');">
-            <a href="/article/81455">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81455">
-                                        SHOPPING                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81455">
-                    두 에디터의 반지 원정기                </a>
-            </em>
-            <p class="excerpt">이제 막 파인 주얼리에 눈을 뜬 입문자들을 위해, 손가락 마디가 닳도록 반지를 껴본 두 에디...</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/075646d7-6c61-4835-9b9b-80c0b15d3696.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 찾아 나선 꿀벌의 비행]]></title>
-            <link>https://www.elle.co.kr/article/81480</link>
-            <guid>https://www.elle.co.kr/article/81480</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/fc639d1d-a1e3-4799-aece-73ba87f1e5e9.jpg');">
-                <a href="/article/81480">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81480">
-                                        ACCESSORIES                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81480">
-                        사랑을 찾아 나선 꿀벌의 비행                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/fc639d1d-a1e3-4799-aece-73ba87f1e5e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈트 재킷의 품격]]></title>
-            <link>https://www.elle.co.kr/article/81459</link>
-            <guid>https://www.elle.co.kr/article/81459</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/395cab21-a669-46b9-9025-86acc2cfa7b5.jpg');">
-                <a href="/article/81459">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81459">
-                                        TRENDS                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81459">
-                         슈트 재킷의 품격                    </a>
-                </em>
-                <p class="excerpt">고요하고 우아하게. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/395cab21-a669-46b9-9025-86acc2cfa7b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최애 디자이너를 덕질하는 특별한 방법?]]></title>
-            <link>https://www.elle.co.kr/article/81466</link>
-            <guid>https://www.elle.co.kr/article/81466</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/870de5b8-f774-4d8c-9c42-ed0257678e88.jpg');">
-                <a href="/article/81466">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81466">
-                                        SHOPPING                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81466">
-                        최애 디자이너를 덕질하는 특별한 방법?                    </a>
-                </em>
-                <p class="excerpt">릭 오웬스, 랄프 로렌, 자크뮈스의 영감을 담아낸 아트북을 소개합니다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/870de5b8-f774-4d8c-9c42-ed0257678e88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술과 마주한 조각들]]></title>
-            <link>https://www.elle.co.kr/article/81261</link>
-            <guid>https://www.elle.co.kr/article/81261</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/986207a7-542d-4e9b-b967-8b10c7053440.jpg');">
-                <a href="/article/81261">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81261">
-                                        ACCESSORIES                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81261">
-                        예술과 마주한 조각들                    </a>
-                </em>
-                <p class="excerpt">지구의 탄생, 생명력을 지닌 동식물, 사람들이 모여 만든 문화와 전통, 개인이 사랑하는 그 무...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/986207a7-542d-4e9b-b967-8b10c7053440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출근룩부터 데이트룩까지! 블랙 재킷 하나로 일주일 돌려 입기]]></title>
-            <link>https://www.elle.co.kr/article/81449</link>
-            <guid>https://www.elle.co.kr/article/81449</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/f25ab7e3-3933-4777-9761-79206d1a10b8.jpg');">
-                <a href="/article/81449">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81449">
-                                        HOW TO                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81449">
-                        출근룩부터 데이트룩까지! 블랙 재킷 하나로 일주일 돌려 입기                    </a>
-                </em>
-                <p class="excerpt">노윤서, 크리스탈, 로제처럼 블랙 테일러드 재킷으로 다양한 스타일을 즐겨보세요.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/f25ab7e3-3933-4777-9761-79206d1a10b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의외의 홍현희]]></title>
-            <link>https://www.elle.co.kr/article/81442</link>
-            <guid>https://www.elle.co.kr/article/81442</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/326108a8-f68e-42c1-80f4-cc498e81035a.jpg');">
-                <a href="/article/81442">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81442">
-                                        CELEB NEWS                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/81442">
-                        의외의 홍현희                    </a>
-                </em>
-                <p class="excerpt">"저는 늘 ‘의외’인 사람이고 싶어요." 대중의 웃음을 지키던 홍현희가 또 하나 지키고 싶은 것...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/326108a8-f68e-42c1-80f4-cc498e81035a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-10-26T17:42:24.943Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셀린느의 도서관 패션?]]></title>
+        <id>https://www.elle.co.kr/article/81593</id>
+        <link href="https://www.elle.co.kr/article/81593"/>
+        <updated>2023-10-26T05:40:25.746Z</updated>
+        <content type="html"><![CDATA[셀린느가 파리 국립 도서관을 런웨이로 만들었다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스톡홀름에서 추천하는 쇼핑 스폿]]></title>
+        <id>https://www.elle.co.kr/article/81588</id>
+        <link href="https://www.elle.co.kr/article/81588"/>
+        <updated>2023-10-26T05:40:25.749Z</updated>
+        <content type="html"><![CDATA[이케아 말고도 기억할 곳이 이렇게나 많습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옷장 속 트렌치코트로 다시 가을 타는 법!]]></title>
+        <id>https://www.elle.co.kr/article/81534</id>
+        <link href="https://www.elle.co.kr/article/81534"/>
+        <updated>2023-10-25T05:39:59.874Z</updated>
+        <content type="html"><![CDATA[이 시대의 뉴 트렌치코트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웨스턴에 빠진 하이 주얼리]]></title>
+        <id>https://www.elle.co.kr/article/81541</id>
+        <link href="https://www.elle.co.kr/article/81541"/>
+        <updated>2023-10-25T05:39:59.877Z</updated>
+        <content type="html"><![CDATA[황야를 떠올리며]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[열 살이 된 '테디베어 코트'라는 아이콘]]></title>
+        <id>https://www.elle.co.kr/article/81562</id>
+        <link href="https://www.elle.co.kr/article/81562"/>
+        <updated>2023-10-24T17:40:12.876Z</updated>
+        <content type="html"><![CDATA[우연을 믿고 거리로 나섰다. 10주년 밖에 지나지 않았다는 것이 낯설게 느껴지는 클래식 아이콘...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GD가 뿌리는 향수, 이다희가 찾는 주얼리?]]></title>
+        <id>https://www.elle.co.kr/article/81535</id>
+        <link href="https://www.elle.co.kr/article/81535"/>
+        <updated>2023-10-24T17:40:12.879Z</updated>
+        <content type="html"><![CDATA[가을엔 프렌치 감성이 필요해! 따끈따끈하게 새로 오픈한 매장 2곳에서 프랑스 분위기 완충 가능...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존재감있는 신상 글러브 아이템]]></title>
+        <id>https://www.elle.co.kr/article/81504</id>
+        <link href="https://www.elle.co.kr/article/81504"/>
+        <updated>2023-10-24T17:40:12.882Z</updated>
+        <content type="html"><![CDATA[자신감을 장착한 글러브의 화려한 귀환]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[할머니 옷장 속 카디건]]></title>
+        <id>https://www.elle.co.kr/article/81526</id>
+        <link href="https://www.elle.co.kr/article/81526"/>
+        <updated>2023-10-23T17:39:50.412Z</updated>
+        <content type="html"><![CDATA[그리운 할머니의 품 속으로.]]></content>
+    </entry>
+</feed>

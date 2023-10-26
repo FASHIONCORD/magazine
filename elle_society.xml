@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 05:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 17:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엘르보이스] 불행을 예습하지 말자]]></title>
+            <link>https://www.elle.co.kr/article/81332</link>
+            <guid>https://www.elle.co.kr/article/81332</guid>
+            <pubDate>Thu, 26 Oct 2023 17:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[말에는 힘이 있다. 운동 코치 에리카가 말하는 불행 예방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/60cac557-2ab1-4a06-89b1-3e0fa38df902.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청춘 파산이 무섭게 늘어나는 이유_돈쓸신잡 #119]]></title>
             <link>https://www.elle.co.kr/article/81309</link>
@@ -60,13 +68,6 @@
             <pubDate>Mon, 09 Oct 2023 17:41:57 GMT</pubDate>
             <content:encoded><![CDATA[우리가 모든 감정을 껴안아야 하는 이유에 대한 김사월의 사유.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/6a4520f5-084c-427a-892c-9a88903ea6b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외 ETF vs. 국내 ETF, 어디에 투자해야 할까?_돈쓸신잡 #117]]></title>
-            <link>https://www.elle.co.kr/article/81011</link>
-            <guid>https://www.elle.co.kr/article/81011</guid>
-            <pubDate>Sat, 07 Oct 2023 05:41:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/657779f0-b97e-4784-992a-bd6533191de3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
