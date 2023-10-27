@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 05:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 17:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이거 없이 가을 메이크업 가능?]]></title>
+            <link>https://www.elle.co.kr/article/81587</link>
+            <guid>https://www.elle.co.kr/article/81587</guid>
+            <pubDate>Fri, 27 Oct 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[갓 수확한 10월의 햇과일과 작물, 가을 컬러 텍스처로 그려낸 풍요로운 색감.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/596520cd-8205-436a-82ac-c15be5ce1d4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼굴보다 손이 먼저 늙는다? 손 피부 안티에이징 A to Z_선배’s 어드바이스 #191]]></title>
             <link>https://www.elle.co.kr/article/81583</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 24 Oct 2023 05:40:35 GMT</pubDate>
             <content:encoded><![CDATA['귀염 뽀짝'한 디자인은 기본, 화장품 기능까지 겸비한 실용성 만점 코스메틱 키 링.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/0110b708-115d-4df6-837a-f45dd4f4bf9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환절기 피부 걱정 끝! 이나연의 '꿀피부' 만드는 법]]></title>
-            <link>https://www.elle.co.kr/article/81391</link>
-            <guid>https://www.elle.co.kr/article/81391</guid>
-            <pubDate>Tue, 24 Oct 2023 05:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[빛나는 피부를 가진 이나연이 홈케어로 꿀피부 만드는 비법을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/18153c3b-311a-4ba9-8bb0-fe349a99a64e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
