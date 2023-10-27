@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-26T17:42:24.941Z</updated>
+    <updated>2023-10-27T05:41:17.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성경 + 시세이도 + 레드 = 갓벽]]></title>
+        <id>https://www.elle.co.kr/article/81584</id>
+        <link href="https://www.elle.co.kr/article/81584"/>
+        <updated>2023-10-27T05:40:11.434Z</updated>
+        <content type="html"><![CDATA[활력, 에너지, 사랑, 삶... 피부 활력 에너지를 선사하는 시세이도 '얼티뮨 파워 세럼'과 이성...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[츄의 솔로서기]]></title>
+        <id>https://www.elle.co.kr/article/81647</id>
+        <link href="https://www.elle.co.kr/article/81647"/>
+        <updated>2023-10-27T05:40:11.438Z</updated>
+        <content type="html"><![CDATA[첫 번째 미니 앨범 〈Howl〉로 돌아온 츄. 홀로 당당히 나설 채비를 시작한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코펜하겐에 자리 잡은 한국 브랜드 '비롯']]></title>
         <id>https://www.elle.co.kr/article/81550</id>
@@ -42,17 +56,5 @@
         <id>https://www.elle.co.kr/article/81617</id>
         <link href="https://www.elle.co.kr/article/81617"/>
         <updated>2023-10-25T17:40:25.290Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초등학교 4학년이라고? 엄정화 조카 엄지온의 믿기 힘든 폭풍성장.jpg]]></title>
-        <id>https://www.elle.co.kr/article/81601</id>
-        <link href="https://www.elle.co.kr/article/81601"/>
-        <updated>2023-10-25T17:40:25.294Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역시 남다른 25년차 슈퍼스타 이효리의 굴욕 사진 대처법]]></title>
-        <id>https://www.elle.co.kr/article/81572</id>
-        <link href="https://www.elle.co.kr/article/81572"/>
-        <updated>2023-10-25T17:40:25.296Z</updated>
     </entry>
 </feed>

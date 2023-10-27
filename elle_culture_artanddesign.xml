@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 17:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 05:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타가 다녀간 가을 감성 전시회 3]]></title>
+            <link>https://www.elle.co.kr/article/81694</link>
+            <guid>https://www.elle.co.kr/article/81694</guid>
+            <pubDate>Fri, 27 Oct 2023 05:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[태양이 영감 받은 전시부터 엄정화가 다녀온 화이트 갤러리 개관전 등 촉촉한 가을 감성을 자극...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/2d239524-af36-4acf-aa1a-ca7502aca90a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네오고딕 양식과 멤피스 디자인의 조화, 마테오 툰의 저택]]></title>
             <link>https://www.elle.co.kr/article/81591</link>
@@ -35,7 +43,6 @@
             <guid>https://www.elle.co.kr/article/81548</guid>
             <pubDate>Mon, 23 Oct 2023 17:40:49 GMT</pubDate>
             <content:encoded><![CDATA[여섯 개의 커피 테이블과 친밀한 사물들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/77ed5772-8b87-4bce-9d45-4b06d8c92796.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['소백' 박민아 대표의 취향 리스트 #나의거실은]]></title>
@@ -90,13 +97,6 @@
             <guid>https://www.elle.co.kr/article/81371</guid>
             <pubDate>Sun, 15 Oct 2023 17:40:50 GMT</pubDate>
             <content:encoded><![CDATA[금빛 글씨 입은 '광화문' 석 자와 돌아온 월대.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다]]></title>
-            <link>https://www.elle.co.kr/article/81370</link>
-            <guid>https://www.elle.co.kr/article/81370</guid>
-            <pubDate>Sun, 15 Oct 2023 17:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content:encoded>
         </item>
     </channel>
 </rss>
