@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-10-28T05:41:35.540Z</updated>
+    <updated>2023-10-28T17:40:59.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['싱어게인3'에 장리인이 15년 전 '타임리스'로 컴백?!]]></title>
+        <id>https://www.elle.co.kr/article/81724</id>
+        <link href="https://www.elle.co.kr/article/81724"/>
+        <updated>2023-10-28T17:40:04.883Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커플화보 장인 엘르가 포착한 정우성-신현빈의 시간]]></title>
+        <id>https://www.elle.co.kr/article/81693</id>
+        <link href="https://www.elle.co.kr/article/81693"/>
+        <updated>2023-10-28T17:40:04.884Z</updated>
+        <content type="html"><![CDATA[올가을 최고의 멜로기대작! 사랑한다고 말해줘의 두 사람.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타가 다녀간 가을 감성 전시회 3]]></title>
         <id>https://www.elle.co.kr/article/81694</id>
@@ -45,18 +58,5 @@
         <link href="https://www.elle.co.kr/article/81647"/>
         <updated>2023-10-27T05:40:11.438Z</updated>
         <content type="html"><![CDATA[첫 번째 미니 앨범 〈Howl〉로 돌아온 츄. 홀로 당당히 나설 채비를 시작한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코펜하겐에 자리 잡은 한국 브랜드 '비롯']]></title>
-        <id>https://www.elle.co.kr/article/81550</id>
-        <link href="https://www.elle.co.kr/article/81550"/>
-        <updated>2023-10-26T17:41:11.411Z</updated>
-        <content type="html"><![CDATA['비롯'이 개척하고 있는 새로운 세상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국에서 육아 중인 안영미, 직접 올린 아들 100일 자축 상황극.avi]]></title>
-        <id>https://www.elle.co.kr/article/81659</id>
-        <link href="https://www.elle.co.kr/article/81659"/>
-        <updated>2023-10-26T17:41:11.417Z</updated>
     </entry>
 </feed>
