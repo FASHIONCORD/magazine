@@ -1,72 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 17:41:59 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Welcome To Gingerbread Land! 조 말론 런던 프레그런스 디렉터, 셀린 루와의 대화]]></title>
-            <link>https://www.elle.co.kr/article/81656</link>
-            <guid>https://www.elle.co.kr/article/81656</guid>
-            <pubDate>Fri, 27 Oct 2023 17:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스의 추억 속 즐거움을 전하는 마법 같은 향기. '진저 비스킷 코롱' 출시를 앞두고 조...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/71f66b8c-6c9d-444b-96aa-64e9f3572f3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물살을 가르는 남자들, 백인철 김건우]]></title>
-            <link>https://www.elle.co.kr/article/81686</link>
-            <guid>https://www.elle.co.kr/article/81686</guid>
-            <pubDate>Fri, 27 Oct 2023 17:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[한국 수영 최고 전성기라 불리는 지금. 그 물살을 가장 날렵하게 가르는 두 남자를 만났다. 항...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/10dbc18a-1736-41ba-8a49-140680fea51a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심형탁 부인 사야가 직접 공개한 탁구 선수 시절 사진.jpg]]></title>
-            <link>https://www.elle.co.kr/article/81687</link>
-            <guid>https://www.elle.co.kr/article/81687</guid>
-            <pubDate>Fri, 27 Oct 2023 17:40:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/e87bc496-ffc2-4a2f-9f34-5eb665e2e5d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이성경 + 시세이도 + 레드 = 갓벽]]></title>
-            <link>https://www.elle.co.kr/article/81584</link>
-            <guid>https://www.elle.co.kr/article/81584</guid>
-            <pubDate>Fri, 27 Oct 2023 05:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[활력, 에너지, 사랑, 삶... 피부 활력 에너지를 선사하는 시세이도 '얼티뮨 파워 세럼'과 이성...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/247d7b71-0484-4603-b379-31c8331cad39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[츄의 솔로서기]]></title>
-            <link>https://www.elle.co.kr/article/81647</link>
-            <guid>https://www.elle.co.kr/article/81647</guid>
-            <pubDate>Fri, 27 Oct 2023 05:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[첫 번째 미니 앨범 〈Howl〉로 돌아온 츄. 홀로 당당히 나설 채비를 시작한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/ef0890ca-6498-41ad-983c-39759737c238.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코펜하겐에 자리 잡은 한국 브랜드 '비롯']]></title>
-            <link>https://www.elle.co.kr/article/81550</link>
-            <guid>https://www.elle.co.kr/article/81550</guid>
-            <pubDate>Thu, 26 Oct 2023 17:41:11 GMT</pubDate>
-            <content:encoded><![CDATA['비롯'이 개척하고 있는 새로운 세상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/5a0d9602-bdb1-46d0-a3fc-d69b42a8d5cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국에서 육아 중인 안영미, 직접 올린 아들 100일 자축 상황극.avi]]></title>
-            <link>https://www.elle.co.kr/article/81659</link>
-            <guid>https://www.elle.co.kr/article/81659</guid>
-            <pubDate>Thu, 26 Oct 2023 17:41:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/8c94bc9e-9406-42d4-8118-6820bc8d2ff7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 뺨 치는 칼군무 소화하는 임영웅의 피지컬 완성 루틴 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81658</link>
-            <guid>https://www.elle.co.kr/article/81658</guid>
-            <pubDate>Thu, 26 Oct 2023 17:41:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/67bb8352-e8f7-45fc-82e2-83b14e59d607.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-10-28T05:41:35.540Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타가 다녀간 가을 감성 전시회 3]]></title>
+        <id>https://www.elle.co.kr/article/81694</id>
+        <link href="https://www.elle.co.kr/article/81694"/>
+        <updated>2023-10-28T05:40:15.499Z</updated>
+        <content type="html"><![CDATA[태양이 영감 받은 전시부터 엄정화가 다녀온 화이트 갤러리 개관전 등 촉촉한 가을 감성을 자극...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome To Gingerbread Land! 조 말론 런던 프레그런스 디렉터, 셀린 루와의 대화]]></title>
+        <id>https://www.elle.co.kr/article/81656</id>
+        <link href="https://www.elle.co.kr/article/81656"/>
+        <updated>2023-10-27T17:40:52.755Z</updated>
+        <content type="html"><![CDATA[크리스마스의 추억 속 즐거움을 전하는 마법 같은 향기. '진저 비스킷 코롱' 출시를 앞두고 조...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물살을 가르는 남자들, 백인철 김건우]]></title>
+        <id>https://www.elle.co.kr/article/81686</id>
+        <link href="https://www.elle.co.kr/article/81686"/>
+        <updated>2023-10-27T17:40:52.768Z</updated>
+        <content type="html"><![CDATA[한국 수영 최고 전성기라 불리는 지금. 그 물살을 가장 날렵하게 가르는 두 남자를 만났다. 항...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심형탁 부인 사야가 직접 공개한 탁구 선수 시절 사진.jpg]]></title>
+        <id>https://www.elle.co.kr/article/81687</id>
+        <link href="https://www.elle.co.kr/article/81687"/>
+        <updated>2023-10-27T17:40:52.770Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이성경 + 시세이도 + 레드 = 갓벽]]></title>
+        <id>https://www.elle.co.kr/article/81584</id>
+        <link href="https://www.elle.co.kr/article/81584"/>
+        <updated>2023-10-27T05:40:11.434Z</updated>
+        <content type="html"><![CDATA[활력, 에너지, 사랑, 삶... 피부 활력 에너지를 선사하는 시세이도 '얼티뮨 파워 세럼'과 이성...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[츄의 솔로서기]]></title>
+        <id>https://www.elle.co.kr/article/81647</id>
+        <link href="https://www.elle.co.kr/article/81647"/>
+        <updated>2023-10-27T05:40:11.438Z</updated>
+        <content type="html"><![CDATA[첫 번째 미니 앨범 〈Howl〉로 돌아온 츄. 홀로 당당히 나설 채비를 시작한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코펜하겐에 자리 잡은 한국 브랜드 '비롯']]></title>
+        <id>https://www.elle.co.kr/article/81550</id>
+        <link href="https://www.elle.co.kr/article/81550"/>
+        <updated>2023-10-26T17:41:11.411Z</updated>
+        <content type="html"><![CDATA['비롯'이 개척하고 있는 새로운 세상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국에서 육아 중인 안영미, 직접 올린 아들 100일 자축 상황극.avi]]></title>
+        <id>https://www.elle.co.kr/article/81659</id>
+        <link href="https://www.elle.co.kr/article/81659"/>
+        <updated>2023-10-26T17:41:11.417Z</updated>
+    </entry>
+</feed>
