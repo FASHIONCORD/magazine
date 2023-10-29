@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 05:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 17:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울긋불긋 단풍과 함께, 온천에 호수 뷰까지 있는 가을 캠핑 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/81602</link>
+            <guid>https://www.elle.co.kr/article/81602</guid>
+            <pubDate>Sun, 29 Oct 2023 17:41:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/8db1cda8-0a0d-4731-9c8e-ab30bd1cc2c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마크 로스코: 색채가 스며든 음률을 마주하다 #요즘전시]]></title>
             <link>https://www.elle.co.kr/article/81594</link>
@@ -59,14 +66,6 @@
             <guid>https://www.elle.co.kr/article/81508</guid>
             <pubDate>Tue, 24 Oct 2023 05:42:08 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/87dba30a-6d5f-4b72-ac29-71572a876457.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덕후들이 찾는 도쿄 라멘집 #도쿄핫플]]></title>
-            <link>https://www.elle.co.kr/article/81503</link>
-            <guid>https://www.elle.co.kr/article/81503</guid>
-            <pubDate>Tue, 24 Oct 2023 05:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[도쿄에서 감동의 라멘 한 그릇을 먹고 싶으면 어디로 가는 게 좋을까요? 도쿄 시내의 모든 라...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/42c186db-8685-4ddd-bd1d-cb90dbc4df8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

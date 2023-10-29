@@ -4,22 +4,34 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 05:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 17:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타가 다녀간 가을 감성 전시회 3]]></title>
+            <link>https://www.elle.co.kr/article/81694</link>
+            <guid>https://www.elle.co.kr/article/81694</guid>
+            <pubDate>Sun, 29 Oct 2023 17:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[태양이 영감 받은 전시부터 엄정화가 다녀온 화이트 갤러리 개관전 등 촉촉한 가을 감성을 자극...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네오고딕 양식과 멤피스 디자인의 조화, 마테오 툰의 저택]]></title>
+            <link>https://www.elle.co.kr/article/81591</link>
+            <guid>https://www.elle.co.kr/article/81591</guid>
+            <pubDate>Sun, 29 Oct 2023 17:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[네오고딕 양식과 파괴적인 멤피스 디자인이 극적으로 공존하는 마테오 툰의 베네치아 저택.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[네덜란드에서 도서관 사서로 일하는 지아 살바지오의 책방 같은 집 #홈터뷰]]></title>
             <link>https://www.elle.co.kr/article/81673</link>
             <guid>https://www.elle.co.kr/article/81673</guid>
             <pubDate>Sun, 29 Oct 2023 05:41:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/d44c9540-69d5-4673-91e8-7dc572293050.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
             <link>https://www.elle.co.kr/article/81640</link>
             <guid>https://www.elle.co.kr/article/81640</guid>
             <pubDate>Sun, 29 Oct 2023 05:41:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6e1852e-0e89-4b7d-9cd1-853fcafe9342.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마크 로스코: 색채가 스며든 음률을 마주하다 #요즘전시]]></title>
@@ -49,22 +61,6 @@
             <guid>https://www.elle.co.kr/article/81528</guid>
             <pubDate>Thu, 26 Oct 2023 17:41:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c2d42304-9e32-4bf2-bf70-078084f1cb4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['소백' 박민아 대표의 취향 리스트 #나의거실은]]></title>
-            <link>https://www.elle.co.kr/article/81462</link>
-            <guid>https://www.elle.co.kr/article/81462</guid>
-            <pubDate>Wed, 25 Oct 2023 17:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[한국적 미니멀리즘을 근간으로 한국인의 의식주를 미학적으로 표현하는 브랜드 ‘소백(So_back)’의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/93e657bf-d2d6-4c13-8e87-3070f08e1d67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오브제일까, 조명일까?]]></title>
-            <link>https://www.elle.co.kr/article/81467</link>
-            <guid>https://www.elle.co.kr/article/81467</guid>
-            <pubDate>Tue, 24 Oct 2023 17:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[호기심과 정성으로 빚어낸 테이블 램프들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/1d239174-fa7b-434d-bb4d-1e61c770e7d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
