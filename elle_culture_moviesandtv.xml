@@ -4,16 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 05:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 17:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수지X양세종 케미에 진한 여운 선사한 '이두나!' 인기 요인 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/81766</link>
+            <guid>https://www.elle.co.kr/article/81766</guid>
+            <pubDate>Mon, 30 Oct 2023 17:41:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/86d9aad4-1e47-47fa-a3fe-13fda011d38a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘프렌즈’ 매튜 페리가 세상을 떠났다]]></title>
             <link>https://www.elle.co.kr/article/81732</link>
             <guid>https://www.elle.co.kr/article/81732</guid>
             <pubDate>Sun, 29 Oct 2023 05:41:24 GMT</pubDate>
             <content:encoded><![CDATA[약물 중독을 호소한 지 꼭 1년 만에.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/fbd4951c-fee3-40a5-a64c-6243342c3a7b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/fbd4951c-fee3-40a5-a64c-6243342c3a7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미야자키 하야오와 백종원이 돌아온 10월 마지막주 #신작이온에어]]></title>
@@ -35,7 +42,6 @@
             <link>https://www.elle.co.kr/article/81557</link>
             <guid>https://www.elle.co.kr/article/81557</guid>
             <pubDate>Mon, 23 Oct 2023 17:40:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c0328db0-381f-4437-8db1-c5d4f29cbf67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전소민이 6년 반 만에 '런닝맨'에서 하차하는 이유]]></title>
@@ -85,12 +91,6 @@
             <link>https://www.elle.co.kr/article/81379</link>
             <guid>https://www.elle.co.kr/article/81379</guid>
             <pubDate>Mon, 16 Oct 2023 05:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[매 회차가 레전드, 허파 디비지는 '나는 솔로' 16기 유행어 5]]></title>
-            <link>https://www.elle.co.kr/article/81303</link>
-            <guid>https://www.elle.co.kr/article/81303</guid>
-            <pubDate>Wed, 11 Oct 2023 17:40:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
