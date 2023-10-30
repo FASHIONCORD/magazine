@@ -1,63 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/beauty</id>
-    <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-10-29T17:41:38.124Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이거 없이 가을 메이크업 가능?]]></title>
-        <id>https://www.elle.co.kr/article/81587</id>
-        <link href="https://www.elle.co.kr/article/81587"/>
-        <updated>2023-10-27T17:40:40.350Z</updated>
-        <content type="html"><![CDATA[갓 수확한 10월의 햇과일과 작물, 가을 컬러 텍스처로 그려낸 풍요로운 색감.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼굴보다 손이 먼저 늙는다? 손 피부 안티에이징 A to Z_선배’s 어드바이스 #191]]></title>
-        <id>https://www.elle.co.kr/article/81583</id>
-        <link href="https://www.elle.co.kr/article/81583"/>
-        <updated>2023-10-26T17:41:00.253Z</updated>
-        <content type="html"><![CDATA[핸드크림만으로 안심은 금물!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간샤넬 박서준, 향기로운 그라스 男신 등극]]></title>
-        <id>https://www.elle.co.kr/article/81537</id>
-        <link href="https://www.elle.co.kr/article/81537"/>
-        <updated>2023-10-26T17:41:00.260Z</updated>
-        <content type="html"><![CDATA[박서준과 쟈스민, 그리고 샤넬 N°5. 시대를 초월하는 레전드 향수, N°5에 들어가는 메인원료인...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤은혜 픽! 가을에 뿌리기 좋은 향수 10가지.list]]></title>
-        <id>https://www.elle.co.kr/article/81566</id>
-        <link href="https://www.elle.co.kr/article/81566"/>
-        <updated>2023-10-26T05:40:36.663Z</updated>
-        <content type="html"><![CDATA[가을 겨울에 뿌리면 제격! 사심을 담은 윤은혜 추천 향수들을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우아함의 정석! 가을 무드 충만한 '라떼 메이크업' 튜토리얼]]></title>
-        <id>https://www.elle.co.kr/article/81527</id>
-        <link href="https://www.elle.co.kr/article/81527"/>
-        <updated>2023-10-25T17:40:15.176Z</updated>
-        <content type="html"><![CDATA[고급스럽고 차분한 매력을 강조하는 라떼 메이크업을 따라 해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서동주가 67kg에서 52kg까지 감량한 방법 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81478</id>
-        <link href="https://www.elle.co.kr/article/81478"/>
-        <updated>2023-10-24T17:40:26.012Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 올 한 올 건강하게 빛나는 머릿결을 위한 특급 헤어 팩 솔루션 7]]></title>
-        <id>https://www.elle.co.kr/article/81447</id>
-        <link href="https://www.elle.co.kr/article/81447"/>
-        <updated>2023-10-24T05:40:35.317Z</updated>
-        <content type="html"><![CDATA[찰랑찰랑!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 가방에 착. 대세는 뷰티 키 링!]]></title>
-        <id>https://www.elle.co.kr/article/81327</id>
-        <link href="https://www.elle.co.kr/article/81327"/>
-        <updated>2023-10-24T05:40:35.318Z</updated>
-        <content type="html"><![CDATA['귀염 뽀짝'한 디자인은 기본, 화장품 기능까지 겸비한 실용성 만점 코스메틱 키 링.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 뷰티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 30 Oct 2023 05:41:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이성경 + 시세이도 + 레드 = 갓벽]]></title>
+            <link>https://www.elle.co.kr/article/81584</link>
+            <guid>https://www.elle.co.kr/article/81584</guid>
+            <pubDate>Mon, 30 Oct 2023 05:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[활력, 에너지, 사랑, 삶... 피부 활력 에너지를 선사하는 시세이도 '얼티뮨 파워 세럼'과 이성...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/247d7b71-0484-4603-b379-31c8331cad39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌 뺨 치는 칼군무 소화하는 임영웅의 피지컬 완성 루틴 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/81658</link>
+            <guid>https://www.elle.co.kr/article/81658</guid>
+            <pubDate>Mon, 30 Oct 2023 05:40:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/67bb8352-e8f7-45fc-82e2-83b14e59d607.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이거 없이 가을 메이크업 가능?]]></title>
+            <link>https://www.elle.co.kr/article/81587</link>
+            <guid>https://www.elle.co.kr/article/81587</guid>
+            <pubDate>Fri, 27 Oct 2023 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[갓 수확한 10월의 햇과일과 작물, 가을 컬러 텍스처로 그려낸 풍요로운 색감.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/596520cd-8205-436a-82ac-c15be5ce1d4d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얼굴보다 손이 먼저 늙는다? 손 피부 안티에이징 A to Z_선배’s 어드바이스 #191]]></title>
+            <link>https://www.elle.co.kr/article/81583</link>
+            <guid>https://www.elle.co.kr/article/81583</guid>
+            <pubDate>Thu, 26 Oct 2023 17:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[핸드크림만으로 안심은 금물!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/5ace11ab-b1ec-48b6-88d6-619e5cedf45c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인간샤넬 박서준, 향기로운 그라스 男신 등극]]></title>
+            <link>https://www.elle.co.kr/article/81537</link>
+            <guid>https://www.elle.co.kr/article/81537</guid>
+            <pubDate>Thu, 26 Oct 2023 17:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[박서준과 쟈스민, 그리고 샤넬 N°5. 시대를 초월하는 레전드 향수, N°5에 들어가는 메인원료인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/7a287f0d-b64a-4697-a8cb-90fba7b1ab70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤은혜 픽! 가을에 뿌리기 좋은 향수 10가지.list]]></title>
+            <link>https://www.elle.co.kr/article/81566</link>
+            <guid>https://www.elle.co.kr/article/81566</guid>
+            <pubDate>Thu, 26 Oct 2023 05:40:36 GMT</pubDate>
+            <content:encoded><![CDATA[가을 겨울에 뿌리면 제격! 사심을 담은 윤은혜 추천 향수들을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/f82fb194-db6e-42ea-86c6-2ffc1d07b978.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우아함의 정석! 가을 무드 충만한 '라떼 메이크업' 튜토리얼]]></title>
+            <link>https://www.elle.co.kr/article/81527</link>
+            <guid>https://www.elle.co.kr/article/81527</guid>
+            <pubDate>Wed, 25 Oct 2023 17:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[고급스럽고 차분한 매력을 강조하는 라떼 메이크업을 따라 해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/9f9575e1-722f-4f01-b24a-d1cf6ff02e9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서동주가 67kg에서 52kg까지 감량한 방법 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/81478</link>
+            <guid>https://www.elle.co.kr/article/81478</guid>
+            <pubDate>Tue, 24 Oct 2023 17:40:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/19363892-2249-4708-8ebc-5916995728a1.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
