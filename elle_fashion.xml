@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 17:41:59 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스타들의 가을 룩 최애 조합은? 스웨터와 미니스커트 5]]></title>
-            <link>https://www.elle.co.kr/article/81600</link>
-            <guid>https://www.elle.co.kr/article/81600</guid>
-            <pubDate>Sat, 28 Oct 2023 05:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[실패 없는 스타일링의 공식! 포근한 스웨터와 발랄한 미니스커트로 스타일리시한 데일리 룩을 완...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/965a3199-9398-4c3d-969a-e05d4e0ae1c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패딩백으로 볼륨을 높여요]]></title>
-            <link>https://www.elle.co.kr/article/81545</link>
-            <guid>https://www.elle.co.kr/article/81545</guid>
-            <pubDate>Fri, 27 Oct 2023 17:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[꼭 껴안고 다니고 싶은 패딩 백]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/28cca718-e8ae-4e21-a927-18a2a91346c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀린느의 도서관 패션?]]></title>
-            <link>https://www.elle.co.kr/article/81593</link>
-            <guid>https://www.elle.co.kr/article/81593</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[셀린느가 파리 국립 도서관을 런웨이로 만들었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/79869d32-c298-4091-8e84-c55c9b1f59ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스톡홀름에서 추천하는 쇼핑 스폿]]></title>
-            <link>https://www.elle.co.kr/article/81588</link>
-            <guid>https://www.elle.co.kr/article/81588</guid>
-            <pubDate>Thu, 26 Oct 2023 05:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[이케아 말고도 기억할 곳이 이렇게나 많습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/e9948960-35d7-4ad9-ae56-3be1dc5bb61f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷장 속 트렌치코트로 다시 가을 타는 법!]]></title>
-            <link>https://www.elle.co.kr/article/81534</link>
-            <guid>https://www.elle.co.kr/article/81534</guid>
-            <pubDate>Wed, 25 Oct 2023 05:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[이 시대의 뉴 트렌치코트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/18bfba40-6252-4665-aca4-ece16c09b40f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스턴에 빠진 하이 주얼리]]></title>
-            <link>https://www.elle.co.kr/article/81541</link>
-            <guid>https://www.elle.co.kr/article/81541</guid>
-            <pubDate>Wed, 25 Oct 2023 05:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[황야를 떠올리며]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/dd38e469-1e61-41b7-8446-5165d597add7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열 살이 된 '테디베어 코트'라는 아이콘]]></title>
-            <link>https://www.elle.co.kr/article/81562</link>
-            <guid>https://www.elle.co.kr/article/81562</guid>
-            <pubDate>Tue, 24 Oct 2023 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[우연을 믿고 거리로 나섰다. 10주년 밖에 지나지 않았다는 것이 낯설게 느껴지는 클래식 아이콘...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/369f52e6-45aa-442c-bf41-3058ad1fb76f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GD가 뿌리는 향수, 이다희가 찾는 주얼리?]]></title>
-            <link>https://www.elle.co.kr/article/81535</link>
-            <guid>https://www.elle.co.kr/article/81535</guid>
-            <pubDate>Tue, 24 Oct 2023 17:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[가을엔 프렌치 감성이 필요해! 따끈따끈하게 새로 오픈한 매장 2곳에서 프랑스 분위기 완충 가능...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/83d40732-89a5-42b3-925a-adaf9a981f51.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/fashion</id>
+    <title>엘르 코리아 ─ 패션</title>
+    <updated>2023-10-31T05:41:29.580Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당당하고 경쾌한 여덟 번의 순간]]></title>
+        <id>https://www.elle.co.kr/article/81483</id>
+        <link href="https://www.elle.co.kr/article/81483"/>
+        <updated>2023-10-31T05:39:49.039Z</updated>
+        <content type="html"><![CDATA[반짝임을 따라, 시선이 가는대로.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타들의 가을 룩 최애 조합은? 스웨터와 미니스커트 5]]></title>
+        <id>https://www.elle.co.kr/article/81600</id>
+        <link href="https://www.elle.co.kr/article/81600"/>
+        <updated>2023-10-28T05:39:54.692Z</updated>
+        <content type="html"><![CDATA[실패 없는 스타일링의 공식! 포근한 스웨터와 발랄한 미니스커트로 스타일리시한 데일리 룩을 완...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패딩백으로 볼륨을 높여요]]></title>
+        <id>https://www.elle.co.kr/article/81545</id>
+        <link href="https://www.elle.co.kr/article/81545"/>
+        <updated>2023-10-27T17:40:26.020Z</updated>
+        <content type="html"><![CDATA[꼭 껴안고 다니고 싶은 패딩 백]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셀린느의 도서관 패션?]]></title>
+        <id>https://www.elle.co.kr/article/81593</id>
+        <link href="https://www.elle.co.kr/article/81593"/>
+        <updated>2023-10-26T05:40:25.746Z</updated>
+        <content type="html"><![CDATA[셀린느가 파리 국립 도서관을 런웨이로 만들었다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스톡홀름에서 추천하는 쇼핑 스폿]]></title>
+        <id>https://www.elle.co.kr/article/81588</id>
+        <link href="https://www.elle.co.kr/article/81588"/>
+        <updated>2023-10-26T05:40:25.749Z</updated>
+        <content type="html"><![CDATA[이케아 말고도 기억할 곳이 이렇게나 많습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옷장 속 트렌치코트로 다시 가을 타는 법!]]></title>
+        <id>https://www.elle.co.kr/article/81534</id>
+        <link href="https://www.elle.co.kr/article/81534"/>
+        <updated>2023-10-25T05:39:59.874Z</updated>
+        <content type="html"><![CDATA[이 시대의 뉴 트렌치코트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웨스턴에 빠진 하이 주얼리]]></title>
+        <id>https://www.elle.co.kr/article/81541</id>
+        <link href="https://www.elle.co.kr/article/81541"/>
+        <updated>2023-10-25T05:39:59.877Z</updated>
+        <content type="html"><![CDATA[황야를 떠올리며]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[열 살이 된 '테디베어 코트'라는 아이콘]]></title>
+        <id>https://www.elle.co.kr/article/81562</id>
+        <link href="https://www.elle.co.kr/article/81562"/>
+        <updated>2023-10-24T17:40:12.876Z</updated>
+        <content type="html"><![CDATA[우연을 믿고 거리로 나섰다. 10주년 밖에 지나지 않았다는 것이 낯설게 느껴지는 클래식 아이콘...]]></content>
+    </entry>
+</feed>

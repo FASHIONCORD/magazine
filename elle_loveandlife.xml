@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-10-30T17:41:59.437Z</updated>
+    <updated>2023-10-31T05:41:29.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네덜란드에서 도서관 사서로 일하는 지아 살바지오의 책방 같은 집 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/81673</id>
+        <link href="https://www.elle.co.kr/article/81673"/>
+        <updated>2023-10-31T05:41:19.465Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울긋불긋 단풍과 함께, 온천에 호수 뷰까지 있는 가을 캠핑 명소 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/81602</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/81514"/>
         <updated>2023-10-24T17:41:36.514Z</updated>
         <content type="html"><![CDATA[가을의 밤을 좋아하세요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찬란한 유등 빛과 화려한 불꽃쇼 즐기기! 가을밤 정취 더하는 축제 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/81508</id>
-        <link href="https://www.elle.co.kr/article/81508"/>
-        <updated>2023-10-24T05:42:08.408Z</updated>
     </entry>
 </feed>

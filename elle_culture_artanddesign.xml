@@ -4,15 +4,23 @@
         <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 17:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 05:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/81769</link>
+            <guid>https://www.elle.co.kr/article/81769</guid>
+            <pubDate>Tue, 31 Oct 2023 05:41:08 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/4878c073-8a1c-4569-8e35-fcf9822ecb83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몸에도 미니멀리즘 #비움라이프]]></title>
             <link>https://www.elle.co.kr/article/81704</link>
             <guid>https://www.elle.co.kr/article/81704</guid>
             <pubDate>Sun, 29 Oct 2023 17:41:17 GMT</pubDate>
             <content:encoded><![CDATA[&lt;작고 단순한 삶에 진심입니다&gt;의 저자이자 유튜브 채널 '단순한 진심'을 운영하고 있는 최현우...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/62a14839-f899-422c-b477-3186d2a3db0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타가 다녀간 가을 감성 전시회 3]]></title>
@@ -20,6 +28,7 @@
             <guid>https://www.elle.co.kr/article/81694</guid>
             <pubDate>Fri, 27 Oct 2023 05:40:54 GMT</pubDate>
             <content:encoded><![CDATA[태양이 영감 받은 전시부터 엄정화가 다녀온 화이트 갤러리 개관전 등 촉촉한 가을 감성을 자극...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/2d239524-af36-4acf-aa1a-ca7502aca90a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네오고딕 양식과 멤피스 디자인의 조화, 마테오 툰의 저택]]></title>
@@ -27,13 +36,13 @@
             <guid>https://www.elle.co.kr/article/81591</guid>
             <pubDate>Thu, 26 Oct 2023 17:41:56 GMT</pubDate>
             <content:encoded><![CDATA[네오고딕 양식과 파괴적인 멤피스 디자인이 극적으로 공존하는 마테오 툰의 베네치아 저택.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/fad91bd2-b982-47fb-95e1-32e1aaf80b57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네덜란드에서 도서관 사서로 일하는 지아 살바지오의 책방 같은 집 #홈터뷰]]></title>
             <link>https://www.elle.co.kr/article/81673</link>
             <guid>https://www.elle.co.kr/article/81673</guid>
             <pubDate>Thu, 26 Oct 2023 17:41:56 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/d44c9540-69d5-4673-91e8-7dc572293050.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마크 로스코: 색채가 스며든 음률을 마주하다 #요즘전시]]></title>
@@ -88,12 +97,6 @@
             <guid>https://www.elle.co.kr/article/81320</guid>
             <pubDate>Tue, 17 Oct 2023 17:41:46 GMT</pubDate>
             <content:encoded><![CDATA[전 &lt;엘르&gt; 패션 에디터 김미강에게 미니멀라이프에 대해 물었다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사람을 위한 디자인을 지향하는, 르모듈러 대표 권희숙]]></title>
-            <link>https://www.elle.co.kr/article/81323</link>
-            <guid>https://www.elle.co.kr/article/81323</guid>
-            <pubDate>Sun, 15 Oct 2023 17:40:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

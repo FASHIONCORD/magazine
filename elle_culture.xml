@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-10-30T17:41:59.419Z</updated>
+    <updated>2023-10-31T05:41:29.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘프렌즈’ 매튜 페리가 세상을 떠났다]]></title>
+        <id>https://www.elle.co.kr/article/81732</id>
+        <link href="https://www.elle.co.kr/article/81732"/>
+        <updated>2023-10-31T05:40:22.913Z</updated>
+        <content type="html"><![CDATA[약물 중독을 호소한 지 꼭 1년 만에.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미야자키 하야오와 백종원이 돌아온 10월 마지막주 #신작이온에어]]></title>
         <id>https://www.elle.co.kr/article/81703</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/81548"/>
         <updated>2023-10-27T05:40:22.663Z</updated>
         <content type="html"><![CDATA[여섯 개의 커피 테이블과 친밀한 사물들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민X안은진 멜로 케미 반짝반짝! '연인' 파트2 인기 요인 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/81557</id>
-        <link href="https://www.elle.co.kr/article/81557"/>
-        <updated>2023-10-26T17:41:22.013Z</updated>
     </entry>
 </feed>
