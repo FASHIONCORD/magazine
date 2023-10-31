@@ -4,9 +4,25 @@
         <title>엘르 코리아 ─ 스타</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 17:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[형형색색 물든 단풍잎처럼! 스타의 NEW 헤어 컬러]]></title>
+            <link>https://www.elle.co.kr/article/81735</link>
+            <guid>https://www.elle.co.kr/article/81735</guid>
+            <pubDate>Tue, 31 Oct 2023 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[확실한 분위기 전환을 원한다면 염색이 정답! 있지 유나, 마마무 휘인, 전소미 등 가을산처럼 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/d21965fe-4017-42f7-aad3-9ca6b79f2539.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래]]></title>
+            <link>https://www.elle.co.kr/article/81734</link>
+            <guid>https://www.elle.co.kr/article/81734</guid>
+            <pubDate>Tue, 31 Oct 2023 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/df885a18-cc61-471c-950e-0cbc9ea1f7d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양세종이라는 다정한 우주]]></title>
             <link>https://www.elle.co.kr/article/81635</link>
@@ -54,21 +70,6 @@
             <pubDate>Sun, 29 Oct 2023 17:40:38 GMT</pubDate>
             <content:encoded><![CDATA[목정욱 사진예술의 지속 가능한 아름다움을 경험하는 기회가 될 새 전시가 10월 27일, WWF에서...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/f9a59fca-391a-433c-8f4f-8dd7a3796d44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 청춘은 이토록 반짝일까? 달콤한 두 남자, 려운과 최현욱]]></title>
-            <link>https://www.elle.co.kr/article/81621</link>
-            <guid>https://www.elle.co.kr/article/81621</guid>
-            <pubDate>Sun, 29 Oct 2023 17:40:38 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/7d800986-cfa2-4603-82b5-bd6956821283.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 세포 자극! 사랑한다면 이들처럼]]></title>
-            <link>https://www.elle.co.kr/article/81727</link>
-            <guid>https://www.elle.co.kr/article/81727</guid>
-            <pubDate>Sun, 29 Oct 2023 05:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[옆구리 시린 계절, 보기만 해도 부러운 아름다운 세기의 커플들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/28/20a073cb-570c-442f-8cc3-bdc2fa67fbb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

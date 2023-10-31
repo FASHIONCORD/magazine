@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 17:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알래스카의 대게 수십억 마리가 감소 중이다 이유가 뭘까?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36810823&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36810823&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Oct 2023 17:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMzFfMjEz/MDAxNjk4NzM5MDY4Mjc2.2Pxh5lT6CtpA4Y7fCn569-Up9ZE3EUybHiRLP2YhR1Yg.7VRyk95LhjDPU8D2RkwMNVk8nH3WSD59IOFHJlxzSeMg.JPEG/IHOXC2HyedGVXLN-5QRrgtZJ7hm0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국인이 가장 싫어하는 음식은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36498961&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 May 2022 17:47:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjZfMjE0/MDAxNjUzNTU5NDUyMjQ2.63bRJ5-sPPFHqXpZFuOoHe3O7Ks2kRrFafQusS6umg0g.kHlk_Dawsnnl-G5jUA1WMH_vRio5SigoX3mu649emqUg.JPEG/IvpaOAw4sWsbN-uU4VX_oLVO23XY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하입빈즈와 주재범의 ‘픽셀 포트레이트’ 이벤트 현장 들여다보기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33813428&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33813428&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTdfMTM5/MDAxNjUyNzc2OTA2MzM2.7ertD_jhWZAfwayoAOkH5tVtL-n6n0lkYh5z5Mrkpckg.sHUXXBJ6gitbSJ8V6h5QMdiSDB_44dgR-hDNcAX1Gbcg.JPEG/IhdaVZ-LaTViBHUkt6aYH2W8IOb4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
