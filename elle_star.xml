@@ -1,75 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:42:00 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[형형색색 물든 단풍잎처럼! 스타의 NEW 헤어 컬러]]></title>
-            <link>https://www.elle.co.kr/article/81735</link>
-            <guid>https://www.elle.co.kr/article/81735</guid>
-            <pubDate>Tue, 31 Oct 2023 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[확실한 분위기 전환을 원한다면 염색이 정답! 있지 유나, 마마무 휘인, 전소미 등 가을산처럼 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/d21965fe-4017-42f7-aad3-9ca6b79f2539.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래]]></title>
-            <link>https://www.elle.co.kr/article/81734</link>
-            <guid>https://www.elle.co.kr/article/81734</guid>
-            <pubDate>Tue, 31 Oct 2023 17:40:53 GMT</pubDate>
-            <content:encoded><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/df885a18-cc61-471c-950e-0cbc9ea1f7d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양세종이라는 다정한 우주]]></title>
-            <link>https://www.elle.co.kr/article/81635</link>
-            <guid>https://www.elle.co.kr/article/81635</guid>
-            <pubDate>Tue, 31 Oct 2023 05:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[양세종이 그리는 사랑은 늘 계절을 들뜨게 한다. 호기심이 설렘으로 변하는 찰나 발견한 그의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/3d2e9421-9844-41b8-af4f-0d5e758d084e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겔랑 마스터 조향사, 티에리 바세와의 대화]]></title>
-            <link>https://www.elle.co.kr/article/81698</link>
-            <guid>https://www.elle.co.kr/article/81698</guid>
-            <pubDate>Mon, 30 Oct 2023 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[겔랑 라르 &amp; 라 마티에르 컬렉션의 새로운 향 '토바코 허니(Tobacco Honey)' 출시를 기념하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/a833bf24-4e9b-4fba-a646-930f4a63021d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/81733</link>
-            <guid>https://www.elle.co.kr/article/81733</guid>
-            <pubDate>Mon, 30 Oct 2023 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/71ccf5c1-5363-463a-b922-331b3fe8ba58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘프렌즈’ 매튜 페리가 세상을 떠났다]]></title>
-            <link>https://www.elle.co.kr/article/81732</link>
-            <guid>https://www.elle.co.kr/article/81732</guid>
-            <pubDate>Mon, 30 Oct 2023 05:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[약물 중독을 호소한 지 꼭 1년 만에.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/fbd4951c-fee3-40a5-a64c-6243342c3a7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샌드위치부터 스팸 무스비까지! 초간단 주말 나들이 도시락 레서피 3]]></title>
-            <link>https://www.elle.co.kr/article/81731</link>
-            <guid>https://www.elle.co.kr/article/81731</guid>
-            <pubDate>Sun, 29 Oct 2023 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주말엔 예쁘게 도시락 싸서 소풍 가볼까요? 스타들이 소개한 피크닉 도시락 레서피를 참고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/cca9722c-2fee-4166-ba3a-14cc5d5cdabd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진가 목정욱의 새 전시, 이번에는 친구와 함께다]]></title>
-            <link>https://www.elle.co.kr/article/81697</link>
-            <guid>https://www.elle.co.kr/article/81697</guid>
-            <pubDate>Sun, 29 Oct 2023 17:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[목정욱 사진예술의 지속 가능한 아름다움을 경험하는 기회가 될 새 전시가 10월 27일, WWF에서...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/f9a59fca-391a-433c-8f4f-8dd7a3796d44.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-11-01T17:41:09.075Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대지의 쟈스민이 N°5가 되기까지, 박서준이 만난 사람들]]></title>
+        <id>https://www.elle.co.kr/article/81700</id>
+        <link href="https://www.elle.co.kr/article/81700"/>
+        <updated>2023-11-01T17:40:03.364Z</updated>
+        <content type="html"><![CDATA[샤넬 향수의 독보적 위상과 헤리티지를 경험한 샤넬 앰배서더 박서준. 샤넬과 파트너십을 맺은 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수지X양세종 케미에 진한 여운 선사한 '이두나!' 인기 요인 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/81766</id>
+        <link href="https://www.elle.co.kr/article/81766"/>
+        <updated>2023-11-01T17:40:03.366Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제이제이 번쩍 들어올린 줄리엔강! 꿀 떨어지는 웨딩 화보 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/81765</id>
+        <link href="https://www.elle.co.kr/article/81765"/>
+        <updated>2023-11-01T17:40:03.368Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[형형색색 물든 단풍잎처럼! 스타의 NEW 헤어 컬러]]></title>
+        <id>https://www.elle.co.kr/article/81735</id>
+        <link href="https://www.elle.co.kr/article/81735"/>
+        <updated>2023-10-31T17:40:53.949Z</updated>
+        <content type="html"><![CDATA[확실한 분위기 전환을 원한다면 염색이 정답! 있지 유나, 마마무 휘인, 전소미 등 가을산처럼 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래]]></title>
+        <id>https://www.elle.co.kr/article/81734</id>
+        <link href="https://www.elle.co.kr/article/81734"/>
+        <updated>2023-10-31T17:40:53.953Z</updated>
+        <content type="html"><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양세종이라는 다정한 우주]]></title>
+        <id>https://www.elle.co.kr/article/81635</id>
+        <link href="https://www.elle.co.kr/article/81635"/>
+        <updated>2023-10-31T05:40:09.125Z</updated>
+        <content type="html"><![CDATA[양세종이 그리는 사랑은 늘 계절을 들뜨게 한다. 호기심이 설렘으로 변하는 찰나 발견한 그의 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겔랑 마스터 조향사, 티에리 바세와의 대화]]></title>
+        <id>https://www.elle.co.kr/article/81698</id>
+        <link href="https://www.elle.co.kr/article/81698"/>
+        <updated>2023-10-30T17:40:39.909Z</updated>
+        <content type="html"><![CDATA[겔랑 라르 &amp; 라 마티에르 컬렉션의 새로운 향 '토바코 허니(Tobacco Honey)' 출시를 기념하...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는?]]></title>
+        <id>https://www.elle.co.kr/article/81733</id>
+        <link href="https://www.elle.co.kr/article/81733"/>
+        <updated>2023-10-30T17:40:39.918Z</updated>
+        <content type="html"><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content>
+    </entry>
+</feed>
