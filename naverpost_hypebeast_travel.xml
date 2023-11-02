@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 05:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 17:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘디아블로 IV’, 수면을 위한 여덟 시간 분량의 음원 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36822889&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36822889&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 02 Nov 2023 17:39:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDJfMTA1/MDAxNjk4OTA4ODQ5NTEx.1VI7bQVjEOUaoMjPJpVbLQyd_ZbHwh0cVOe4RhPZ8V8g.cg4HpD6y_gPPTCKuCM8aOQt2uqeAW7iWuAhLkfAgjmkg.JPEG/IdkBXwfZhmTyzcqTh1wmbA79hek0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국인의 평균 수면 시간은 세계 몇 위일까?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36599205&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjlfMjEx/MDAxNTk2MDM0Mzc2Mzg5.q63XzbCKC7g8XrvAO-g89RhDr2wSuZwD5FlUHinXmhwg.GOsnzhtF6MPyu2XAUeSY0VjI86LbCV9g6hW_smWOaMQg.JPEG/IFUno3Nu4bVfZ0Yxc8YmA8N2rK5w.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜라 향이 톡 쏘는, 브레인데드 남녀공용 향수 & 핸드솝]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28876683&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28876683&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjNfMjg4/MDAxNTk1NDkxNjk5MDgx.em7Dt7DWds6pCCCbRXzm4olPzFDnoV5KFZl5Z-DXHHMg.uPSaSpAxDGtSTS4jkh1T22drcO782F02d-SoBC1vnVgg.JPEG/I_i4DdVwAPy-xWZZebBuvsQeo8IY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
