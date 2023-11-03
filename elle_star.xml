@@ -1,59 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-02T17:40:34.326Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[일상에서 실천하는 조인성의 피지컬 유지 루틴은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81824</id>
-        <link href="https://www.elle.co.kr/article/81824"/>
-        <updated>2023-11-02T17:39:38.771Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[31 Women Who Inspire Us 1]]></title>
-        <id>https://www.elle.co.kr/article/81761</id>
-        <link href="https://www.elle.co.kr/article/81761"/>
-        <updated>2023-11-02T17:39:38.771Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누적 10억회 재생!? BTS 정국 '세븐'이 세운 놀라운 신기록]]></title>
-        <id>https://www.elle.co.kr/article/81809</id>
-        <link href="https://www.elle.co.kr/article/81809"/>
-        <updated>2023-11-02T05:41:14.605Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대지의 쟈스민이 N°5가 되기까지, 박서준이 만난 사람들]]></title>
-        <id>https://www.elle.co.kr/article/81700</id>
-        <link href="https://www.elle.co.kr/article/81700"/>
-        <updated>2023-11-01T17:40:03.364Z</updated>
-        <content type="html"><![CDATA[샤넬 향수의 독보적 위상과 헤리티지를 경험한 샤넬 앰배서더 박서준. 샤넬과 파트너십을 맺은 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지X양세종 케미에 진한 여운 선사한 '이두나!' 인기 요인 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/81766</id>
-        <link href="https://www.elle.co.kr/article/81766"/>
-        <updated>2023-11-01T17:40:03.366Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이제이 번쩍 들어올린 줄리엔강! 꿀 떨어지는 웨딩 화보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/81765</id>
-        <link href="https://www.elle.co.kr/article/81765"/>
-        <updated>2023-11-01T17:40:03.368Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[형형색색 물든 단풍잎처럼! 스타의 NEW 헤어 컬러]]></title>
-        <id>https://www.elle.co.kr/article/81735</id>
-        <link href="https://www.elle.co.kr/article/81735"/>
-        <updated>2023-10-31T17:40:53.949Z</updated>
-        <content type="html"><![CDATA[확실한 분위기 전환을 원한다면 염색이 정답! 있지 유나, 마마무 휘인, 전소미 등 가을산처럼 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래]]></title>
-        <id>https://www.elle.co.kr/article/81734</id>
-        <link href="https://www.elle.co.kr/article/81734"/>
-        <updated>2023-10-31T17:40:53.953Z</updated>
-        <content type="html"><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 03 Nov 2023 05:41:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[31 Women Who Inspire Us 2]]></title>
+            <link>https://www.elle.co.kr/article/81800</link>
+            <guid>https://www.elle.co.kr/article/81800</guid>
+            <pubDate>Fri, 03 Nov 2023 05:40:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/14f9298e-7110-4ea1-b58b-361e986c1427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미미가 공개한 천둥과의 웨딩화보 촬영 현장 (ft. 시누이)]]></title>
+            <link>https://www.elle.co.kr/article/81825</link>
+            <guid>https://www.elle.co.kr/article/81825</guid>
+            <pubDate>Fri, 03 Nov 2023 05:40:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/29091869-3156-485d-b875-2b2464aa0f92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상에서 실천하는 조인성의 피지컬 유지 루틴은? #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/81824</link>
+            <guid>https://www.elle.co.kr/article/81824</guid>
+            <pubDate>Thu, 02 Nov 2023 17:39:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/a1847cd3-a91b-41b9-bbde-32a5979dc210.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[31 Women Who Inspire Us 1]]></title>
+            <link>https://www.elle.co.kr/article/81761</link>
+            <guid>https://www.elle.co.kr/article/81761</guid>
+            <pubDate>Thu, 02 Nov 2023 17:39:38 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/a7f8bdb4-3e91-44c0-84b7-91cc3d70c4e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누적 10억회 재생!? BTS 정국 '세븐'이 세운 놀라운 신기록]]></title>
+            <link>https://www.elle.co.kr/article/81809</link>
+            <guid>https://www.elle.co.kr/article/81809</guid>
+            <pubDate>Thu, 02 Nov 2023 05:41:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/0136025e-2ce6-44b4-b7db-73b53bb4839d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대지의 쟈스민이 N°5가 되기까지, 박서준이 만난 사람들]]></title>
+            <link>https://www.elle.co.kr/article/81700</link>
+            <guid>https://www.elle.co.kr/article/81700</guid>
+            <pubDate>Wed, 01 Nov 2023 17:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 향수의 독보적 위상과 헤리티지를 경험한 샤넬 앰배서더 박서준. 샤넬과 파트너십을 맺은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/bea0f712-d1a7-41d0-be41-3abca3f0530c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수지X양세종 케미에 진한 여운 선사한 '이두나!' 인기 요인 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/81766</link>
+            <guid>https://www.elle.co.kr/article/81766</guid>
+            <pubDate>Wed, 01 Nov 2023 17:40:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/86d9aad4-1e47-47fa-a3fe-13fda011d38a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이제이 번쩍 들어올린 줄리엔강! 꿀 떨어지는 웨딩 화보 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/81765</link>
+            <guid>https://www.elle.co.kr/article/81765</guid>
+            <pubDate>Wed, 01 Nov 2023 17:40:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/699bc79b-3cb9-4cbe-a936-b1cf2284f872.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

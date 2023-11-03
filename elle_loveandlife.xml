@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-11-02T17:40:34.312Z</updated>
+    <updated>2023-11-03T05:41:55.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제철이 왔어요!]]></title>
+        <id>https://www.elle.co.kr/article/81692</id>
+        <link href="https://www.elle.co.kr/article/81692"/>
+        <updated>2023-11-03T05:41:42.853Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샌드위치부터 스팸 무스비까지! 초간단 주말 나들이 도시락 레서피 3]]></title>
         <id>https://www.elle.co.kr/article/81731</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/81588"/>
         <updated>2023-10-27T17:41:46.389Z</updated>
         <content type="html"><![CDATA[이케아 말고도 기억할 곳이 이렇게나 많습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 아이폰도 통녹된다? 갤럭시 통녹과 다른 점]]></title>
-        <id>https://www.elle.co.kr/article/81581</id>
-        <link href="https://www.elle.co.kr/article/81581"/>
-        <updated>2023-10-26T17:42:13.652Z</updated>
     </entry>
 </feed>
