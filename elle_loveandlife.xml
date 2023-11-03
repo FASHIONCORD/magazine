@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-11-03T05:41:55.294Z</updated>
+    <updated>2023-11-03T17:41:21.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ALL DAY 나 홀로 생일 밥상!]]></title>
+        <id>https://www.elle.co.kr/article/81813</id>
+        <link href="https://www.elle.co.kr/article/81813"/>
+        <updated>2023-11-03T17:41:06.388Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/81862</id>
+        <link href="https://www.elle.co.kr/article/81862"/>
+        <updated>2023-11-03T17:41:06.389Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국판 '블프' 광군제에서 득템하려면? 정보 총정리 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/81810</id>
+        <link href="https://www.elle.co.kr/article/81810"/>
+        <updated>2023-11-03T17:41:06.390Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/81769</id>
+        <link href="https://www.elle.co.kr/article/81769"/>
+        <updated>2023-11-03T17:41:06.392Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제철이 왔어요!]]></title>
         <id>https://www.elle.co.kr/article/81692</id>
@@ -30,30 +54,5 @@
         <id>https://www.elle.co.kr/article/81688</id>
         <link href="https://www.elle.co.kr/article/81688"/>
         <updated>2023-10-31T17:42:14.741Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네덜란드에서 도서관 사서로 일하는 지아 살바지오의 책방 같은 집 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/81673</id>
-        <link href="https://www.elle.co.kr/article/81673"/>
-        <updated>2023-10-31T05:41:19.465Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울긋불긋 단풍과 함께, 온천에 호수 뷰까지 있는 가을 캠핑 명소 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/81602</id>
-        <link href="https://www.elle.co.kr/article/81602"/>
-        <updated>2023-10-29T17:41:26.905Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마크 로스코: 색채가 스며든 음률을 마주하다 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/81594</id>
-        <link href="https://www.elle.co.kr/article/81594"/>
-        <updated>2023-10-29T05:41:47.257Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스톡홀름에서 추천하는 쇼핑 스폿]]></title>
-        <id>https://www.elle.co.kr/article/81588</id>
-        <link href="https://www.elle.co.kr/article/81588"/>
-        <updated>2023-10-27T17:41:46.389Z</updated>
-        <content type="html"><![CDATA[이케아 말고도 기억할 곳이 이렇게나 많습니다.]]></content>
     </entry>
 </feed>

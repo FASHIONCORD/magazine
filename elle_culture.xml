@@ -4,9 +4,17 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 05:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 17:41:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래]]></title>
+            <link>https://www.elle.co.kr/article/81734</link>
+            <guid>https://www.elle.co.kr/article/81734</guid>
+            <pubDate>Fri, 03 Nov 2023 17:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/df885a18-cc61-471c-950e-0cbc9ea1f7d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몸에도 미니멀리즘]]></title>
             <link>https://www.elle.co.kr/article/81704</link>
@@ -32,12 +40,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/fbd4951c-fee3-40a5-a64c-6243342c3a7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미야자키 하야오와 백종원이 돌아온 10월 마지막주 #신작이온에어]]></title>
+            <title><![CDATA[미야자키 하야오와 백종원이 돌아온 10월 마지막주 #신작이OnAir]]></title>
             <link>https://www.elle.co.kr/article/81703</link>
             <guid>https://www.elle.co.kr/article/81703</guid>
             <pubDate>Mon, 30 Oct 2023 17:40:56 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;그대들은 어떻게 살 것인가&gt;, 웹툰 &lt;어린이집 다니는 구나&gt;, 예능 &lt;장사천재 백사장 2&gt;.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/6ff5b0e6-dd2b-4cdd-9762-770eac183b6a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/6ff5b0e6-dd2b-4cdd-9762-770eac183b6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타가 다녀간 가을 감성 전시회 3]]></title>
@@ -61,13 +69,6 @@
             <guid>https://www.elle.co.kr/article/81673</guid>
             <pubDate>Sun, 29 Oct 2023 05:41:01 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/d44c9540-69d5-4673-91e8-7dc572293050.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거의 완성된 영화판 '전지적 독자 시점' 캐스팅 라인업.list]]></title>
-            <link>https://www.elle.co.kr/article/81640</link>
-            <guid>https://www.elle.co.kr/article/81640</guid>
-            <pubDate>Sun, 29 Oct 2023 05:41:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6e1852e-0e89-4b7d-9cd1-853fcafe9342.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
