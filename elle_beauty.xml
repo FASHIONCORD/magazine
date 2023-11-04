@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-04T05:40:49.358Z</updated>
+    <updated>2023-11-04T17:40:35.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일상에서 실천하는 조인성의 피지컬 유지 루틴은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81824</id>
+        <link href="https://www.elle.co.kr/article/81824"/>
+        <updated>2023-11-04T17:39:29.765Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대지의 쟈스민이 N°5가 되기까지, 박서준이 만난 사람들]]></title>
         <id>https://www.elle.co.kr/article/81700</id>
@@ -52,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/81584"/>
         <updated>2023-10-30T05:40:35.021Z</updated>
         <content type="html"><![CDATA[활력, 에너지, 사랑, 삶... 피부 활력 에너지를 선사하는 시세이도 '얼티뮨 파워 세럼'과 이성...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이돌 뺨 치는 칼군무 소화하는 임영웅의 피지컬 완성 루틴 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81658</id>
-        <link href="https://www.elle.co.kr/article/81658"/>
-        <updated>2023-10-30T05:40:35.028Z</updated>
     </entry>
 </feed>
