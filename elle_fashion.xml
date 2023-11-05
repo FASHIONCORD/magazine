@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-04T17:40:35.514Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[마침내 피비 파일로가 돌아왔다]]></title>
-        <id>https://www.elle.co.kr/article/81784</id>
-        <link href="https://www.elle.co.kr/article/81784"/>
-        <updated>2023-11-04T05:39:29.468Z</updated>
-        <content type="html"><![CDATA[6년 만의 공백을 깨고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-헤어와 주얼리의 믹스&매치]]></title>
-        <id>https://www.elle.co.kr/article/81552</id>
-        <link href="https://www.elle.co.kr/article/81552"/>
-        <updated>2023-11-03T17:39:42.669Z</updated>
-        <content type="html"><![CDATA[‘Daenggi’, ‘Jokduri’가 레드 카펫을 밟고 구글링되는 세상. 전통 헤어스타일에서 영감받은 K...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구찌의 영원한 상징, 홀스빗 1953 로퍼 70주년]]></title>
-        <id>https://www.elle.co.kr/article/81701</id>
-        <link href="https://www.elle.co.kr/article/81701"/>
-        <updated>2023-11-01T17:39:43.630Z</updated>
-        <content type="html"><![CDATA[구찌가 하우스의 장인 정신이 담긴 ‘홀스빗 1953’ 로퍼 70주년을 기념해 새로운 캠페인을 공개...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든구스가 만든 꿈의 커뮤니티, 파리에서 열린 '하우스 오브 드리머']]></title>
-        <id>https://www.elle.co.kr/article/81672</id>
-        <link href="https://www.elle.co.kr/article/81672"/>
-        <updated>2023-11-01T05:40:22.983Z</updated>
-        <content type="html"><![CDATA[골든구스의 메시지는 간단하다. 불완전하지만 모든 꿈은 그대로 힘이 있다는 것. ‘하우스 오브 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니부터 카즈하까지! 포근한 카디건의 매력에 빠질 시간]]></title>
-        <id>https://www.elle.co.kr/article/81664</id>
-        <link href="https://www.elle.co.kr/article/81664"/>
-        <updated>2023-10-31T17:39:56.905Z</updated>
-        <content type="html"><![CDATA[쌀쌀한 날씨엔 이만한 아이템이 없습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당당하고 경쾌한 여덟 번의 순간]]></title>
-        <id>https://www.elle.co.kr/article/81483</id>
-        <link href="https://www.elle.co.kr/article/81483"/>
-        <updated>2023-10-31T05:39:49.039Z</updated>
-        <content type="html"><![CDATA[반짝임을 따라, 시선이 가는대로.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타들의 가을 룩 최애 조합은? 스웨터와 미니스커트 5]]></title>
-        <id>https://www.elle.co.kr/article/81600</id>
-        <link href="https://www.elle.co.kr/article/81600"/>
-        <updated>2023-10-28T05:39:54.692Z</updated>
-        <content type="html"><![CDATA[실패 없는 스타일링의 공식! 포근한 스웨터와 발랄한 미니스커트로 스타일리시한 데일리 룩을 완...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패딩백으로 볼륨을 높여요]]></title>
-        <id>https://www.elle.co.kr/article/81545</id>
-        <link href="https://www.elle.co.kr/article/81545"/>
-        <updated>2023-10-27T17:40:26.020Z</updated>
-        <content type="html"><![CDATA[꼭 껴안고 다니고 싶은 패딩 백]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 05 Nov 2023 05:41:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[31년 롱 런!]]></title>
+            <link>https://www.elle.co.kr/article/81750</link>
+            <guid>https://www.elle.co.kr/article/81750</guid>
+            <pubDate>Sun, 05 Nov 2023 05:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르&gt; 코리아가 달려온 31년의 시대적 스타일이 담긴 시즌 베스트 룩 31.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/cb66cb53-5406-4413-adc4-280b646703cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마침내 피비 파일로가 돌아왔다]]></title>
+            <link>https://www.elle.co.kr/article/81784</link>
+            <guid>https://www.elle.co.kr/article/81784</guid>
+            <pubDate>Sat, 04 Nov 2023 05:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[6년 만의 공백을 깨고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/e2969b0e-a896-44b8-abcb-ab51fb940386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-헤어와 주얼리의 믹스&매치]]></title>
+            <link>https://www.elle.co.kr/article/81552</link>
+            <guid>https://www.elle.co.kr/article/81552</guid>
+            <pubDate>Fri, 03 Nov 2023 17:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘Daenggi’, ‘Jokduri’가 레드 카펫을 밟고 구글링되는 세상. 전통 헤어스타일에서 영감받은 K...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/917a8501-670d-47d8-a021-3129160a1670.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구찌의 영원한 상징, 홀스빗 1953 로퍼 70주년]]></title>
+            <link>https://www.elle.co.kr/article/81701</link>
+            <guid>https://www.elle.co.kr/article/81701</guid>
+            <pubDate>Wed, 01 Nov 2023 17:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[구찌가 하우스의 장인 정신이 담긴 ‘홀스빗 1953’ 로퍼 70주년을 기념해 새로운 캠페인을 공개...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/ce4d0297-a86c-4bfd-90b2-f75d08101314.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[골든구스가 만든 꿈의 커뮤니티, 파리에서 열린 '하우스 오브 드리머']]></title>
+            <link>https://www.elle.co.kr/article/81672</link>
+            <guid>https://www.elle.co.kr/article/81672</guid>
+            <pubDate>Wed, 01 Nov 2023 05:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[골든구스의 메시지는 간단하다. 불완전하지만 모든 꿈은 그대로 힘이 있다는 것. ‘하우스 오브 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/a77d0d96-5301-40ed-af82-d65348977d25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니부터 카즈하까지! 포근한 카디건의 매력에 빠질 시간]]></title>
+            <link>https://www.elle.co.kr/article/81664</link>
+            <guid>https://www.elle.co.kr/article/81664</guid>
+            <pubDate>Tue, 31 Oct 2023 17:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[쌀쌀한 날씨엔 이만한 아이템이 없습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/90f782bb-6030-4ce1-b365-f57d63b9540c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당당하고 경쾌한 여덟 번의 순간]]></title>
+            <link>https://www.elle.co.kr/article/81483</link>
+            <guid>https://www.elle.co.kr/article/81483</guid>
+            <pubDate>Tue, 31 Oct 2023 05:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[반짝임을 따라, 시선이 가는대로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/2cd1c1cb-48d6-4f58-bbc8-d8c68ada92f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타들의 가을 룩 최애 조합은? 스웨터와 미니스커트 5]]></title>
+            <link>https://www.elle.co.kr/article/81600</link>
+            <guid>https://www.elle.co.kr/article/81600</guid>
+            <pubDate>Sat, 28 Oct 2023 05:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[실패 없는 스타일링의 공식! 포근한 스웨터와 발랄한 미니스커트로 스타일리시한 데일리 룩을 완...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/965a3199-9398-4c3d-969a-e05d4e0ae1c3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
