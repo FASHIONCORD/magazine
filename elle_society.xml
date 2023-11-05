@@ -1,436 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 소사이어티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 05:41:44 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[부캐가 내 인생을 바꿔준다고?_돈쓸신잡 #120]]></title>
-            <link>https://www.elle.co.kr/article/81456</link>
-            <guid>https://www.elle.co.kr/article/81456</guid>
-            <pubDate>Thu, 02 Nov 2023 17:40:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/b50fead6-b9bb-4284-a293-c5e2cced1db8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다]]></title>
-            <link>https://www.elle.co.kr/article/81370</link>
-            <guid>https://www.elle.co.kr/article/81370</guid>
-            <pubDate>Sun, 29 Oct 2023 05:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/c8a973b1-1c7e-4d1e-96cf-265729935522.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 불행을 예습하지 말자]]></title>
-            <link>https://www.elle.co.kr/article/81332</link>
-            <guid>https://www.elle.co.kr/article/81332</guid>
-            <pubDate>Thu, 26 Oct 2023 17:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[말에는 힘이 있다. 운동 코치 에리카가 말하는 불행 예방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/60cac557-2ab1-4a06-89b1-3e0fa38df902.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘 파산이 무섭게 늘어나는 이유_돈쓸신잡 #119]]></title>
-            <link>https://www.elle.co.kr/article/81309</link>
-            <guid>https://www.elle.co.kr/article/81309</guid>
-            <pubDate>Wed, 25 Oct 2023 17:41:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/9e348f9f-032c-4624-a648-cff99c03f900.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 똥개 언니의 편지]]></title>
-            <link>https://www.elle.co.kr/article/81173</link>
-            <guid>https://www.elle.co.kr/article/81173</guid>
-            <pubDate>Mon, 23 Oct 2023 05:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[누가 봐도 똥개 비주얼, 사랑스러운 정원이와 함께 하는 비혼세의 일상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/61b1a1af-deea-4a61-b7df-2c2603438901.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 안녕, 작은 인간]]></title>
-            <link>https://www.elle.co.kr/article/81139</link>
-            <guid>https://www.elle.co.kr/article/81139</guid>
-            <pubDate>Thu, 19 Oct 2023 05:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[아나운서 임현주가 전하는 엄마가 된다는 것의 생생한 체험.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/5c418d8b-45de-4d67-a0df-977489ac6ded.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동물을 '본다'는 것, 동물원은 지금]]></title>
-            <link>https://www.elle.co.kr/article/81121</link>
-            <guid>https://www.elle.co.kr/article/81121</guid>
-            <pubDate>Sun, 15 Oct 2023 17:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[우리를 탈출한 사자 '사순이'는 한 시간 만에 사살됐다. '푸바오'의 엄마 '아이바오'는 축복 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/e8625f53-c228-4721-9131-06ee91e95ba8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부자가 되려면 당장 '이것'부터 바꿔라_돈쓸신잡 #118]]></title>
-            <link>https://www.elle.co.kr/article/81115</link>
-            <guid>https://www.elle.co.kr/article/81115</guid>
-            <pubDate>Thu, 12 Oct 2023 17:41:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/de7200f4-892b-47e2-acb3-b57fdbc37b2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg]]></title>
-            <link>https://www.elle.co.kr/article/81111</link>
-            <guid>https://www.elle.co.kr/article/81111</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/cdfc4cb0-05de-4968-b431-582fa748b4db.jpg');">
-            <a href="/article/81111">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81111">
-                                        PLACE                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81111">
-                    전설의 주윤발, 판빙빙이 한국에? 제28회 부산국제영화제 레드카펫.jpg                </a>
-            </em>
-            <p class="excerpt">7년 만에 한국을 찾는 주인공은?</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/cdfc4cb0-05de-4968-b431-582fa748b4db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 모든 감정에 축복을]]></title>
-            <link>https://www.elle.co.kr/article/81004</link>
-            <guid>https://www.elle.co.kr/article/81004</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/6a4520f5-084c-427a-892c-9a88903ea6b8.jpg');">
-            <a href="/article/81004">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81004">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81004">
-                    [엘르보이스] 모든 감정에 축복을                </a>
-            </em>
-            <p class="excerpt">우리가 모든 감정을 껴안아야 하는 이유에 대한 김사월의 사유.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/6a4520f5-084c-427a-892c-9a88903ea6b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외 ETF vs. 국내 ETF, 어디에 투자해야 할까?_돈쓸신잡 #117]]></title>
-            <link>https://www.elle.co.kr/article/81011</link>
-            <guid>https://www.elle.co.kr/article/81011</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/657779f0-b97e-4784-992a-bd6533191de3.jpg');">
-            <a href="/article/81011">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/81011">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/81011">
-                    해외 ETF vs. 국내 ETF, 어디에 투자해야 할까?_돈쓸신잡 #117                </a>
-            </em>
-            <p class="excerpt"></p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/657779f0-b97e-4784-992a-bd6533191de3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수라, 새만금 마지막 갯벌을 지키려는 사람들이 바치는 송가]]></title>
-            <link>https://www.elle.co.kr/article/80951</link>
-            <guid>https://www.elle.co.kr/article/80951</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/c9dd25cd-6d5e-4c76-9cf2-f7adc847b86b.jpg');">
-            <a href="/article/80951">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/80951">
-                                        INTERVIEW                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/80951">
-                    수라, 새만금 마지막 갯벌을 지키려는 사람들이 바치는 송가                </a>
-            </em>
-            <p class="excerpt">아름다움을 목도한 사람은 그 전으로 돌아갈 수 없다. 황윤 감독의 다큐멘터리 &lt;수라&gt;는 갯벌에...</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/c9dd25cd-6d5e-4c76-9cf2-f7adc847b86b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리나라의 웰비잉 순위는 세계 몇 위일까?]]></title>
-            <link>https://www.elle.co.kr/article/80966</link>
-            <guid>https://www.elle.co.kr/article/80966</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/088e1be0-e482-41bf-8489-da6454a91057.jpg');">
-            <a href="/article/80966">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/80966">
-                                        HEALTH                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/80966">
-                    우리나라의 웰비잉 순위는 세계 몇 위일까?                </a>
-            </em>
-            <p class="excerpt">지금 전 세계는 웰비잉 딜레마! 룰루레몬의 2023 글로벌 웰비잉 리포트 읽기.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/088e1be0-e482-41bf-8489-da6454a91057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고라니를 사랑하세요? 몸을 낮추자 보인 각각의 초상과 고유함]]></title>
-            <link>https://www.elle.co.kr/article/80880</link>
-            <guid>https://www.elle.co.kr/article/80880</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/48d770f6-744f-4db0-ab78-210b38d314e3.jpg');">
-            <a href="/article/80880">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/80880">
-                                        INTERVIEW                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/80880">
-                    고라니를 사랑하세요? 몸을 낮추자 보인 각각의 초상과 고유함                  </a>
-            </em>
-            <p class="excerpt">고라니의 몸길이는 약 90cm. 사진가 문선희는 무릎을 굽혀 고라니들의 눈높이에 시선을 맞췄다. ...</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/48d770f6-744f-4db0-ab78-210b38d314e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1년이라도 빨리 알수록 이득인 재테크 원칙 3_돈쓸신잡 #116]]></title>
-            <link>https://www.elle.co.kr/article/80778</link>
-            <guid>https://www.elle.co.kr/article/80778</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/374bef19-16b0-4482-9ebb-5046d745894b.jpg');">
-            <a href="/article/80778">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/80778">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-            <em class="title">
-                <a href="/article/80778">
-                    1년이라도 빨리 알수록 이득인 재테크 원칙 3_돈쓸신잡 #116                </a>
-            </em>
-            <p class="excerpt"></p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/374bef19-16b0-4482-9ebb-5046d745894b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무라카미 하루키에게 가장 비싼 것_돈쓸신잡 #115]]></title>
-            <link>https://www.elle.co.kr/article/80611</link>
-            <guid>https://www.elle.co.kr/article/80611</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/eedbe0f0-9802-4870-a48b-9d052767ceff.jpg');">
-                <a href="/article/80611">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/80611">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/80611">
-                        무라카미 하루키에게 가장 비싼 것_돈쓸신잡 #115                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/eedbe0f0-9802-4870-a48b-9d052767ceff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마을 하나가 순식간에 사라졌다: 120년 만의 모로코 강진 현재 상황]]></title>
-            <link>https://www.elle.co.kr/article/80518</link>
-            <guid>https://www.elle.co.kr/article/80518</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/345a290b-093a-4554-a366-a8eaa05e5a82.jpg');">
-                <a href="/article/80518">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/80518">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/80518">
-                        마을 하나가 순식간에 사라졌다: 120년 만의 모로코 강진 현재 상황                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/345a290b-093a-4554-a366-a8eaa05e5a82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 우정의 확장]]></title>
-            <link>https://www.elle.co.kr/article/80494</link>
-            <guid>https://www.elle.co.kr/article/80494</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/15d0810a-6868-48a2-8545-0c17cf9e94cc.jpg');">
-                <a href="/article/80494">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/80494">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/80494">
-                        [엘르보이스] 우정의 확장                    </a>
-                </em>
-                <p class="excerpt">우정의 범주는 어디까지일까? 황선우 작가가 발견한 귀여운 어른들의 세계.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/15d0810a-6868-48a2-8545-0c17cf9e94cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그래도 내 집이 있었으면 좋겠다_돈쓸신잡 #114]]></title>
-            <link>https://www.elle.co.kr/article/80474</link>
-            <guid>https://www.elle.co.kr/article/80474</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/351c45c9-5085-4a2d-8b26-e17c252dbf1d.jpg');">
-                <a href="/article/80474">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/article/80474">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/article/80474">
-                        그래도 내 집이 있었으면 좋겠다_돈쓸신잡 #114                    </a>
-                </em>
-                <p class="excerpt"></p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/351c45c9-5085-4a2d-8b26-e17c252dbf1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 시작은 사랑]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/80442</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/80442</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/6499ae43-7ec8-4519-a14e-428b5e31825a.jpg');">
-                <a href="/ellevoice/essay/80442">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/ellevoice/essay/80442">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/ellevoice/essay/80442">
-                        [엘르보이스] 시작은 사랑                    </a>
-                </em>
-                <p class="excerpt">우리 모두의 이야기의 시작에는 사랑이 존재한다. 소설가 성해나가 질문을 던지게 된 이유.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/6499ae43-7ec8-4519-a14e-428b5e31825a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 나의 사랑스러운 털뭉치]]></title>
-            <link>https://www.elle.co.kr/ellevoice/essay/80423</link>
-            <guid>https://www.elle.co.kr/ellevoice/essay/80423</guid>
-            <pubDate>Sun, 05 Nov 2023 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/e41bcc3f-3410-4088-a152-fe76a5d61fa4.jpg');">
-                <a href="/ellevoice/essay/80423">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                                <span class="menu">
-                                    <a href="/ellevoice/essay/80423">
-                                        WOMEN&amp;SOCIETY                                    </a>
-                                </span>
-                <em class="title">
-                    <a href="/ellevoice/essay/80423">
-                        [엘르보이스] 나의 사랑스러운 털뭉치                    </a>
-                </em>
-                <p class="excerpt">정지음 작가에게는 사랑스러운 털뭉치가 있다. 출근하기 직전에는 앉혀놓고 타이르는 것도 잊지 ...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/e41bcc3f-3410-4088-a152-fe76a5d61fa4.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/society</id>
+    <title>엘르 코리아 ─ 소사이어티</title>
+    <updated>2023-11-05T17:40:26.430Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 할로윈, 그리고 이태원 참사 1주기를 앞둔 전국 분위기]]></title>
+        <id>https://www.elle.co.kr/article/81533</id>
+        <link href="https://www.elle.co.kr/article/81533"/>
+        <updated>2023-11-05T17:40:25.568Z</updated>
+        <content type="html"><![CDATA[이태원이 안되면 홍대로 몰린다?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부캐가 내 인생을 바꿔준다고?_돈쓸신잡 #120]]></title>
+        <id>https://www.elle.co.kr/article/81456</id>
+        <link href="https://www.elle.co.kr/article/81456"/>
+        <updated>2023-11-02T17:40:33.591Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마지막 순간까지 선을 긋던 박서보 화백이 세상을 떠났다]]></title>
+        <id>https://www.elle.co.kr/article/81370</id>
+        <link href="https://www.elle.co.kr/article/81370"/>
+        <updated>2023-10-29T05:42:03.271Z</updated>
+        <content type="html"><![CDATA[“달라진 것은 아무것도 없다. 나는 캔버스에 한 줄이라도 더 긋고 싶다”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 불행을 예습하지 말자]]></title>
+        <id>https://www.elle.co.kr/article/81332</id>
+        <link href="https://www.elle.co.kr/article/81332"/>
+        <updated>2023-10-26T17:42:23.707Z</updated>
+        <content type="html"><![CDATA[말에는 힘이 있다. 운동 코치 에리카가 말하는 불행 예방법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청춘 파산이 무섭게 늘어나는 이유_돈쓸신잡 #119]]></title>
+        <id>https://www.elle.co.kr/article/81309</id>
+        <link href="https://www.elle.co.kr/article/81309"/>
+        <updated>2023-10-25T17:41:24.510Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 똥개 언니의 편지]]></title>
+        <id>https://www.elle.co.kr/article/81173</id>
+        <link href="https://www.elle.co.kr/article/81173"/>
+        <updated>2023-10-23T05:43:07.101Z</updated>
+        <content type="html"><![CDATA[누가 봐도 똥개 비주얼, 사랑스러운 정원이와 함께 하는 비혼세의 일상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 안녕, 작은 인간]]></title>
+        <id>https://www.elle.co.kr/article/81139</id>
+        <link href="https://www.elle.co.kr/article/81139"/>
+        <updated>2023-10-19T05:40:58.120Z</updated>
+        <content type="html"><![CDATA[아나운서 임현주가 전하는 엄마가 된다는 것의 생생한 체험.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물을 '본다'는 것, 동물원은 지금]]></title>
+        <id>https://www.elle.co.kr/article/81121</id>
+        <link href="https://www.elle.co.kr/article/81121"/>
+        <updated>2023-10-15T17:41:05.883Z</updated>
+        <content type="html"><![CDATA[우리를 탈출한 사자 '사순이'는 한 시간 만에 사살됐다. '푸바오'의 엄마 '아이바오'는 축복 ...]]></content>
+    </entry>
+</feed>

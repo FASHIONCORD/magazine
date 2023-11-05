@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-05T05:41:44.593Z</updated>
+    <updated>2023-11-05T17:40:26.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 3대 아인슈페너? 예인과 함께 걷는 청운효자동 플레이스 4 #엘르동]]></title>
+        <id>https://www.elle.co.kr/article/81897</id>
+        <link href="https://www.elle.co.kr/article/81897"/>
+        <updated>2023-11-05T17:39:35.781Z</updated>
+        <content type="html"><![CDATA[청와대와 북악산의 호방한 기개를 간직한 ‘맑은 구름이 걸린 동네’.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애프터스쿨 레이나, '저평가된 가수'에서 홀로서기 성공?]]></title>
         <id>https://www.elle.co.kr/article/81894</id>
@@ -48,11 +55,5 @@
         <id>https://www.elle.co.kr/article/81800</id>
         <link href="https://www.elle.co.kr/article/81800"/>
         <updated>2023-11-03T05:40:44.022Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미미가 공개한 천둥과의 웨딩화보 촬영 현장 (ft. 시누이)]]></title>
-        <id>https://www.elle.co.kr/article/81825</id>
-        <link href="https://www.elle.co.kr/article/81825"/>
-        <updated>2023-11-03T05:40:44.027Z</updated>
     </entry>
 </feed>
