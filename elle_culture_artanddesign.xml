@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-11-06T17:40:26.398Z</updated>
+    <updated>2023-11-07T05:40:35.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[성수동에 첫발을 내디딘 신상 아트 페어, 디파인서울]]></title>
-        <id>https://www.elle.co.kr/article/81881</id>
-        <link href="https://www.elle.co.kr/article/81881"/>
-        <updated>2023-11-06T17:40:07.383Z</updated>
-        <content type="html"><![CDATA[아트 신을 뒤흔들 새로운 방식의 등장. 색다른 예술 경험을 제안하는 아트 신의 뉴 플레이어들...]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[제로웨이스트와 미니멀 라이프의 상관관계]]></title>
         <id>https://www.elle.co.kr/article/81808</id>
@@ -91,5 +84,12 @@
         <link href="https://www.elle.co.kr/article/81467"/>
         <updated>2023-10-20T17:41:23.348Z</updated>
         <content type="html"><![CDATA[호기심과 정성으로 빚어낸 테이블 램프들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세 명의 사진가가 포착한 도시 정원]]></title>
+        <id>https://www.elle.co.kr/article/81463</id>
+        <link href="https://www.elle.co.kr/article/81463"/>
+        <updated>2023-11-07T05:40:19.085Z</updated>
+        <content type="html"><![CDATA[최용준, 김선익, 홍기웅. 3인의 사진가 눈에 든 도시 정원들.]]></content>
     </entry>
 </feed>
