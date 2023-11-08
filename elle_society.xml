@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-11-08T05:40:49.076Z</updated>
+    <updated>2023-11-08T17:40:51.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잘 살려면 잘 추락해야 한다_돈쓸신잡 #121]]></title>
+        <id>https://www.elle.co.kr/article/81674</id>
+        <link href="https://www.elle.co.kr/article/81674"/>
+        <updated>2023-11-08T17:40:50.882Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숏폼, 그 참을 수 없는 짧음에 대하여]]></title>
         <id>https://www.elle.co.kr/article/81613</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/81173"/>
         <updated>2023-10-23T05:43:07.101Z</updated>
         <content type="html"><![CDATA[누가 봐도 똥개 비주얼, 사랑스러운 정원이와 함께 하는 비혼세의 일상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 안녕, 작은 인간]]></title>
-        <id>https://www.elle.co.kr/article/81139</id>
-        <link href="https://www.elle.co.kr/article/81139"/>
-        <updated>2023-10-19T05:40:58.120Z</updated>
-        <content type="html"><![CDATA[아나운서 임현주가 전하는 엄마가 된다는 것의 생생한 체험.]]></content>
     </entry>
 </feed>

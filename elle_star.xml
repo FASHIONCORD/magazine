@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-08T05:40:49.075Z</updated>
+    <updated>2023-11-08T17:40:51.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번엔 겨울에 돌아오는 '환승연애3' 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/81952</id>
+        <link href="https://www.elle.co.kr/article/81952"/>
+        <updated>2023-11-08T17:39:35.405Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는?]]></title>
+        <id>https://www.elle.co.kr/article/81945</id>
+        <link href="https://www.elle.co.kr/article/81945"/>
+        <updated>2023-11-08T17:39:35.408Z</updated>
+        <content type="html"><![CDATA[이제야 맞춰지는 퍼즐.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황정민 연기 인생 최대 변신?! 눈을 의심케 하는 헤어스타일의 비밀]]></title>
+        <id>https://www.elle.co.kr/article/81934</id>
+        <link href="https://www.elle.co.kr/article/81934"/>
+        <updated>2023-11-08T17:39:35.411Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3대 모녀 VS 빌런의 본격 대결! '힘쎈여자 강남순' 후반부 관전포인트 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/81932</id>
@@ -36,25 +55,5 @@
         <link href="https://www.elle.co.kr/article/81868"/>
         <updated>2023-11-06T17:39:34.839Z</updated>
         <content type="html"><![CDATA[소녀들은 믿는다. 피부색과 종교, 언어와 국가, 성장 환경과 문화적 뿌리를 뛰어넘어 감동시킬 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초대형 생일 케이크가 반겨주는 섬이 있다?! 작가 김신지의 #취향일지도]]></title>
-        <id>https://www.elle.co.kr/article/81909</id>
-        <link href="https://www.elle.co.kr/article/81909"/>
-        <updated>2023-11-06T17:39:34.842Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성과 신현빈이 서로를 응시하던 순간]]></title>
-        <id>https://www.elle.co.kr/article/81846</id>
-        <link href="https://www.elle.co.kr/article/81846"/>
-        <updated>2023-11-06T17:39:34.844Z</updated>
-        <content type="html"><![CDATA[침묵이 재잘대는 소리로 남는 세계에 진입한 정우성과 신현빈, 그 둘만의 언어.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카일리 제너의 새로운 브랜드 ‘Khy’가 기대를 모으는 이유]]></title>
-        <id>https://www.elle.co.kr/article/81903</id>
-        <link href="https://www.elle.co.kr/article/81903"/>
-        <updated>2023-11-06T17:39:34.845Z</updated>
-        <content type="html"><![CDATA[지난날의 실패는 잊어주세요.]]></content>
     </entry>
 </feed>
