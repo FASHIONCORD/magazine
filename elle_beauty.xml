@@ -1,73 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 뷰티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 17:41:49 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[자기관리 끝판왕! 진서연의 모닝 루틴과 건강 식단은?]]></title>
-            <link>https://www.elle.co.kr/article/81830</link>
-            <guid>https://www.elle.co.kr/article/81830</guid>
-            <pubDate>Mon, 06 Nov 2023 05:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[자기 관리 잘하기로 소문난 진서연의 건강 유지 비법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/6ed22823-fc48-435b-bafe-9e6baccb28c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상에서 실천하는 조인성의 피지컬 유지 루틴은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81824</link>
-            <guid>https://www.elle.co.kr/article/81824</guid>
-            <pubDate>Sat, 04 Nov 2023 17:39:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/a1847cd3-a91b-41b9-bbde-32a5979dc210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대지의 쟈스민이 N°5가 되기까지, 박서준이 만난 사람들]]></title>
-            <link>https://www.elle.co.kr/article/81700</link>
-            <guid>https://www.elle.co.kr/article/81700</guid>
-            <pubDate>Fri, 03 Nov 2023 17:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 향수의 독보적 위상과 헤리티지를 경험한 샤넬 앰배서더 박서준. 샤넬과 파트너십을 맺은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/bea0f712-d1a7-41d0-be41-3abca3f0530c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영롱 그 자체! 글로 메이크업이 돌아왔다_선배’s 어드바이스 #192]]></title>
-            <link>https://www.elle.co.kr/article/81751</link>
-            <guid>https://www.elle.co.kr/article/81751</guid>
-            <pubDate>Thu, 02 Nov 2023 17:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[탕후루 광부터 오로라 광, 세럼 광까지! 반짝임의 화려한 귀환.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/4a3ada4e-65ab-44ef-8338-802c31c13ad6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형형색색 물든 단풍잎처럼! 스타의 NEW 헤어 컬러]]></title>
-            <link>https://www.elle.co.kr/article/81735</link>
-            <guid>https://www.elle.co.kr/article/81735</guid>
-            <pubDate>Thu, 02 Nov 2023 17:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[확실한 분위기 전환을 원한다면 염색이 정답! 있지 유나, 마마무 휘인, 전소미 등 가을산처럼 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/d21965fe-4017-42f7-aad3-9ca6b79f2539.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['힘쎈여자 강남순' 엄마 김정은의 탄탄 복근 유지 비결 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81725</link>
-            <guid>https://www.elle.co.kr/article/81725</guid>
-            <pubDate>Thu, 02 Nov 2023 05:41:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/99a4a330-2510-4910-afb7-64619a528aa0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스챤 디올 뷰티의 새 향수]]></title>
-            <link>https://www.elle.co.kr/article/81645</link>
-            <guid>https://www.elle.co.kr/article/81645</guid>
-            <pubDate>Wed, 01 Nov 2023 17:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[프란시스 커정과 쟈도르, 두 레전드의 만남]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/db529dea-be5c-42ea-b951-1222dd0051d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Welcome To Gingerbread Land! 조 말론 런던 프레그런스 디렉터, 셀린 루와의 대화]]></title>
-            <link>https://www.elle.co.kr/article/81656</link>
-            <guid>https://www.elle.co.kr/article/81656</guid>
-            <pubDate>Tue, 31 Oct 2023 05:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스의 추억 속 즐거움을 전하는 마법 같은 향기. '진저 비스킷 코롱' 출시를 앞두고 조...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/71f66b8c-6c9d-444b-96aa-64e9f3572f3e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/beauty</id>
+    <title>엘르 코리아 ─ 뷰티</title>
+    <updated>2023-11-08T05:40:49.092Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이효리X이상순의 최신 럽스타그램 (ft.성유리)]]></title>
+        <id>https://www.elle.co.kr/article/81864</id>
+        <link href="https://www.elle.co.kr/article/81864"/>
+        <updated>2023-11-08T05:39:37.167Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자기관리 끝판왕! 진서연의 모닝 루틴과 건강 식단은?]]></title>
+        <id>https://www.elle.co.kr/article/81830</id>
+        <link href="https://www.elle.co.kr/article/81830"/>
+        <updated>2023-11-06T05:39:22.598Z</updated>
+        <content type="html"><![CDATA[자기 관리 잘하기로 소문난 진서연의 건강 유지 비법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일상에서 실천하는 조인성의 피지컬 유지 루틴은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81824</id>
+        <link href="https://www.elle.co.kr/article/81824"/>
+        <updated>2023-11-04T17:39:29.765Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대지의 쟈스민이 N°5가 되기까지, 박서준이 만난 사람들]]></title>
+        <id>https://www.elle.co.kr/article/81700</id>
+        <link href="https://www.elle.co.kr/article/81700"/>
+        <updated>2023-11-03T17:39:51.128Z</updated>
+        <content type="html"><![CDATA[샤넬 향수의 독보적 위상과 헤리티지를 경험한 샤넬 앰배서더 박서준. 샤넬과 파트너십을 맺은 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영롱 그 자체! 글로 메이크업이 돌아왔다_선배’s 어드바이스 #192]]></title>
+        <id>https://www.elle.co.kr/article/81751</id>
+        <link href="https://www.elle.co.kr/article/81751"/>
+        <updated>2023-11-02T17:39:29.981Z</updated>
+        <content type="html"><![CDATA[탕후루 광부터 오로라 광, 세럼 광까지! 반짝임의 화려한 귀환.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[형형색색 물든 단풍잎처럼! 스타의 NEW 헤어 컬러]]></title>
+        <id>https://www.elle.co.kr/article/81735</id>
+        <link href="https://www.elle.co.kr/article/81735"/>
+        <updated>2023-11-02T17:39:29.983Z</updated>
+        <content type="html"><![CDATA[확실한 분위기 전환을 원한다면 염색이 정답! 있지 유나, 마마무 휘인, 전소미 등 가을산처럼 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['힘쎈여자 강남순' 엄마 김정은의 탄탄 복근 유지 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/81725</id>
+        <link href="https://www.elle.co.kr/article/81725"/>
+        <updated>2023-11-02T05:41:04.538Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스챤 디올 뷰티의 새 향수]]></title>
+        <id>https://www.elle.co.kr/article/81645</id>
+        <link href="https://www.elle.co.kr/article/81645"/>
+        <updated>2023-11-01T17:39:54.670Z</updated>
+        <content type="html"><![CDATA[프란시스 커정과 쟈도르, 두 레전드의 만남]]></content>
+    </entry>
+</feed>
