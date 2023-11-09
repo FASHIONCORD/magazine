@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-08T17:40:51.673Z</updated>
+    <updated>2023-11-09T05:41:48.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는?]]></title>
+        <id>https://www.elle.co.kr/article/81945</id>
+        <link href="https://www.elle.co.kr/article/81945"/>
+        <updated>2023-11-09T05:39:59.860Z</updated>
+        <content type="html"><![CDATA[이제야 맞춰지는 퍼즐.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올겨울 키 컬러, 레드를 기억할 것!]]></title>
         <id>https://www.elle.co.kr/article/81937</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/81908"/>
         <updated>2023-11-06T17:39:16.129Z</updated>
         <content type="html"><![CDATA[부츠 신기 좋은 계절! 스타들의 부츠 패션을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카일리 제너의 새로운 브랜드 ‘Khy’가 기대를 모으는 이유]]></title>
-        <id>https://www.elle.co.kr/article/81903</id>
-        <link href="https://www.elle.co.kr/article/81903"/>
-        <updated>2023-11-06T17:39:16.131Z</updated>
-        <content type="html"><![CDATA[지난날의 실패는 잊어주세요.]]></content>
     </entry>
 </feed>
