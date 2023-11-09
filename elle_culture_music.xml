@@ -1,98 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 05:41:48 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는?]]></title>
-            <link>https://www.elle.co.kr/article/81945</link>
-            <guid>https://www.elle.co.kr/article/81945</guid>
-            <pubDate>Tue, 07 Nov 2023 17:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[이제야 맞춰지는 퍼즐.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/4757db54-1993-458c-8dec-be799957d4c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래]]></title>
-            <link>https://www.elle.co.kr/article/81734</link>
-            <guid>https://www.elle.co.kr/article/81734</guid>
-            <pubDate>Sun, 29 Oct 2023 17:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/df885a18-cc61-471c-950e-0cbc9ea1f7d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/81733</link>
-            <guid>https://www.elle.co.kr/article/81733</guid>
-            <pubDate>Sun, 29 Oct 2023 05:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/71ccf5c1-5363-463a-b922-331b3fe8ba58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃)]]></title>
-            <link>https://www.elle.co.kr/article/81432</link>
-            <guid>https://www.elle.co.kr/article/81432</guid>
-            <pubDate>Wed, 18 Oct 2023 17:41:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/d6acb932-ef29-451e-84b5-c0b39b521a29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작지만 결코 작지 않은, 타이니 데스크 코리아의 시작]]></title>
-            <link>https://www.elle.co.kr/article/81322</link>
-            <guid>https://www.elle.co.kr/article/81322</guid>
-            <pubDate>Tue, 17 Oct 2023 17:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[타이니 데스크 코리아는 K팝이 주도하는 지금의 음악 씬에 어떤 변화를 선사할 수 있을까]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 이후 7년 만의 YG 걸그룹! 베이비몬스터, 데뷔 2개월 밀린 이유]]></title>
-            <link>https://www.elle.co.kr/article/81346</link>
-            <guid>https://www.elle.co.kr/article/81346</guid>
-            <pubDate>Fri, 13 Oct 2023 17:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[제니부터 정국, 이효리까지! 올가을 귀 호강 예약 신보 소식.list]]></title>
-            <link>https://www.elle.co.kr/article/81125</link>
-            <guid>https://www.elle.co.kr/article/81125</guid>
-            <pubDate>Thu, 05 Oct 2023 05:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1996년 투팍 살인 사건 용의자, 27년 만에 체포된 후 꺼낸 진술]]></title>
-            <link>https://www.elle.co.kr/article/81031</link>
-            <guid>https://www.elle.co.kr/article/81031</guid>
-            <pubDate>Sat, 30 Sep 2023 05:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[추석엔 안방 떼창! KBS 대기획 'ㅇㅁㄷ 지오디' 정보 (ft. 18년 만의 팬지 모집)]]></title>
-            <link>https://www.elle.co.kr/article/80968</link>
-            <guid>https://www.elle.co.kr/article/80968</guid>
-            <pubDate>Wed, 27 Sep 2023 05:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTS 전원 하이브와 두 번째 재계약! 완전체 볼 수 있는 시기는? (ft. 군 복무 스케줄)]]></title>
-            <link>https://www.elle.co.kr/article/80757</link>
-            <guid>https://www.elle.co.kr/article/80757</guid>
-            <pubDate>Thu, 21 Sep 2023 17:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔-정국, 원곡 부른 이영지에 펭수까지 나선 '스모크' 챌린지 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/80688</link>
-            <guid>https://www.elle.co.kr/article/80688</guid>
-            <pubDate>Tue, 19 Sep 2023 05:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[360도 무대 확정! 호남평야 아니면 수용 못하는 임영웅 콘서트 예매 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/80608</link>
-            <guid>https://www.elle.co.kr/article/80608</guid>
-            <pubDate>Thu, 14 Sep 2023 05:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[새벽까지 라이즈 앤톤 덕질한다는 윤상이 이특에게 보낸 문자 (ft. 김이나)]]></title>
-            <link>https://www.elle.co.kr/article/80420</link>
-            <guid>https://www.elle.co.kr/article/80420</guid>
-            <pubDate>Tue, 05 Sep 2023 17:41:27 GMT</pubDate>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/music</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
+    <updated>2023-11-09T17:40:31.670Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현아&던 다시 볼 수 있을까? 전 남친 소속사 합류한 현아의 파격 프로필 모음]]></title>
+        <id>https://www.elle.co.kr/article/82004</id>
+        <link href="https://www.elle.co.kr/article/82004"/>
+        <updated>2023-11-09T17:39:56.174Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는?]]></title>
+        <id>https://www.elle.co.kr/article/81945</id>
+        <link href="https://www.elle.co.kr/article/81945"/>
+        <updated>2023-11-07T17:40:46.660Z</updated>
+        <content type="html"><![CDATA[이제야 맞춰지는 퍼즐.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI로 부활한 존 레논의 목소리? 50년 만에 공개되는 비틀스의 마지막 노래]]></title>
+        <id>https://www.elle.co.kr/article/81734</id>
+        <link href="https://www.elle.co.kr/article/81734"/>
+        <updated>2023-10-29T17:40:56.844Z</updated>
+        <content type="html"><![CDATA[1970년에 존 레논이 작업한 바로 그 데모.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는?]]></title>
+        <id>https://www.elle.co.kr/article/81733</id>
+        <link href="https://www.elle.co.kr/article/81733"/>
+        <updated>2023-10-29T05:41:12.986Z</updated>
+        <content type="html"><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샘 스미스 내한, 킹 스미스도 '내돈내산' 관람 확정? (ft. 송파구 샤라웃)]]></title>
+        <id>https://www.elle.co.kr/article/81432</id>
+        <link href="https://www.elle.co.kr/article/81432"/>
+        <updated>2023-10-18T17:41:46.151Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[작지만 결코 작지 않은, 타이니 데스크 코리아의 시작]]></title>
+        <id>https://www.elle.co.kr/article/81322</id>
+        <link href="https://www.elle.co.kr/article/81322"/>
+        <updated>2023-10-17T17:41:21.400Z</updated>
+        <content type="html"><![CDATA[타이니 데스크 코리아는 K팝이 주도하는 지금의 음악 씬에 어떤 변화를 선사할 수 있을까]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙핑크 이후 7년 만의 YG 걸그룹! 베이비몬스터, 데뷔 2개월 밀린 이유]]></title>
+        <id>https://www.elle.co.kr/article/81346</id>
+        <link href="https://www.elle.co.kr/article/81346"/>
+        <updated>2023-10-13T17:41:05.085Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제니부터 정국, 이효리까지! 올가을 귀 호강 예약 신보 소식.list]]></title>
+        <id>https://www.elle.co.kr/article/81125</id>
+        <link href="https://www.elle.co.kr/article/81125"/>
+        <updated>2023-10-05T05:40:42.169Z</updated>
+        <content type="html"><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1996년 투팍 살인 사건 용의자, 27년 만에 체포된 후 꺼낸 진술]]></title>
+        <id>https://www.elle.co.kr/article/81031</id>
+        <link href="https://www.elle.co.kr/article/81031"/>
+        <updated>2023-09-30T05:41:07.437Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석엔 안방 떼창! KBS 대기획 'ㅇㅁㄷ 지오디' 정보 (ft. 18년 만의 팬지 모집)]]></title>
+        <id>https://www.elle.co.kr/article/80968</id>
+        <link href="https://www.elle.co.kr/article/80968"/>
+        <updated>2023-09-27T05:41:22.084Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 전원 하이브와 두 번째 재계약! 완전체 볼 수 있는 시기는? (ft. 군 복무 스케줄)]]></title>
+        <id>https://www.elle.co.kr/article/80757</id>
+        <link href="https://www.elle.co.kr/article/80757"/>
+        <updated>2023-09-21T17:41:25.180Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 뷔-정국, 원곡 부른 이영지에 펭수까지 나선 '스모크' 챌린지 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/80688</id>
+        <link href="https://www.elle.co.kr/article/80688"/>
+        <updated>2023-09-19T05:41:24.880Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[360도 무대 확정! 호남평야 아니면 수용 못하는 임영웅 콘서트 예매 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/80608</id>
+        <link href="https://www.elle.co.kr/article/80608"/>
+        <updated>2023-09-14T05:41:19.800Z</updated>
+    </entry>
+</feed>

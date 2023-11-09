@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-11-09T05:41:48.788Z</updated>
+    <updated>2023-11-09T17:40:31.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번엔 겨울에 돌아오는 '환승연애3' 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/81952</id>
+        <link href="https://www.elle.co.kr/article/81952"/>
+        <updated>2023-11-09T17:39:48.870Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는?]]></title>
+        <id>https://www.elle.co.kr/article/81945</id>
+        <link href="https://www.elle.co.kr/article/81945"/>
+        <updated>2023-11-09T17:39:48.873Z</updated>
+        <content type="html"><![CDATA[이제야 맞춰지는 퍼즐.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황정민 연기 인생 최대 변신?! 눈을 의심케 하는 헤어스타일의 비밀]]></title>
         <id>https://www.elle.co.kr/article/81934</id>
@@ -42,17 +55,5 @@
         <link href="https://www.elle.co.kr/article/81716"/>
         <updated>2023-11-06T17:39:43.880Z</updated>
         <content type="html"><![CDATA[AI 창작물의 홍수 속에 태어난 크래프트 몬스터들. 장인의 손은 무엇보다 독창적이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/81862</id>
-        <link href="https://www.elle.co.kr/article/81862"/>
-        <updated>2023-11-06T17:39:43.882Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베를린 신국립미술관이 담아낸 60년 동안의 게르하르트 리히터 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/81769</id>
-        <link href="https://www.elle.co.kr/article/81769"/>
-        <updated>2023-11-05T17:39:42.447Z</updated>
     </entry>
 </feed>

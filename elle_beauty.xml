@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-09T05:41:48.811Z</updated>
+    <updated>2023-11-09T17:40:31.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[톱모델 송경아의 욕실 속 뷰티 아이템 9]]></title>
+        <id>https://www.elle.co.kr/article/81916</id>
+        <link href="https://www.elle.co.kr/article/81916"/>
+        <updated>2023-11-09T17:39:33.397Z</updated>
+        <content type="html"><![CDATA[24시간 관리를 소홀히 하지 않는 송경아의 욕실은? 피부 트러블을 잠재워 주는 패드부터 촉촉한...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에르메스의 시선]]></title>
         <id>https://www.elle.co.kr/article/81850</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/81700"/>
         <updated>2023-11-03T17:39:51.128Z</updated>
         <content type="html"><![CDATA[샤넬 향수의 독보적 위상과 헤리티지를 경험한 샤넬 앰배서더 박서준. 샤넬과 파트너십을 맺은 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영롱 그 자체! 글로 메이크업이 돌아왔다_선배’s 어드바이스 #192]]></title>
-        <id>https://www.elle.co.kr/article/81751</id>
-        <link href="https://www.elle.co.kr/article/81751"/>
-        <updated>2023-11-02T17:39:29.981Z</updated>
-        <content type="html"><![CDATA[탕후루 광부터 오로라 광, 세럼 광까지! 반짝임의 화려한 귀환.]]></content>
     </entry>
 </feed>
