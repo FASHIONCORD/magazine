@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-10T05:40:42.416Z</updated>
+    <updated>2023-11-10T17:40:24.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이 브랜드를 아시나요?]]></title>
+        <id>https://www.elle.co.kr/article/81893</id>
+        <link href="https://www.elle.co.kr/article/81893"/>
+        <updated>2023-11-10T17:39:23.848Z</updated>
+        <content type="html"><![CDATA['힙'한 서울러들이 참새 방앗간처럼 방문하는 뷰티 스폿과 지금 당장 팔로해야 할 K뷰티 브랜드...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톱모델 송경아의 욕실 속 뷰티 아이템 9]]></title>
         <id>https://www.elle.co.kr/article/81916</id>
@@ -50,12 +57,5 @@
         <id>https://www.elle.co.kr/article/81824</id>
         <link href="https://www.elle.co.kr/article/81824"/>
         <updated>2023-11-04T17:39:29.765Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대지의 쟈스민이 N°5가 되기까지, 박서준이 만난 사람들]]></title>
-        <id>https://www.elle.co.kr/article/81700</id>
-        <link href="https://www.elle.co.kr/article/81700"/>
-        <updated>2023-11-03T17:39:51.128Z</updated>
-        <content type="html"><![CDATA[샤넬 향수의 독보적 위상과 헤리티지를 경험한 샤넬 앰배서더 박서준. 샤넬과 파트너십을 맺은 ...]]></content>
     </entry>
 </feed>
