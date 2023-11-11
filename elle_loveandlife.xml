@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/loveandlife</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-11-10T17:40:24.446Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[초대형 생일 케이크가 반겨주는 섬이 있다?! 작가 김신지의 #취향일지도]]></title>
-        <id>https://www.elle.co.kr/article/81909</id>
-        <link href="https://www.elle.co.kr/article/81909"/>
-        <updated>2023-11-10T17:40:15.879Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진짜로 시작된 넷플릭스 공유비의 시대, 공유 금지 조건 총정리.txt]]></title>
-        <id>https://www.elle.co.kr/article/81904</id>
-        <link href="https://www.elle.co.kr/article/81904"/>
-        <updated>2023-11-10T17:40:15.885Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현지인이 줄 서는 디저트 숍은 어디? 도쿄의 밤 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/81900</id>
-        <link href="https://www.elle.co.kr/article/81900"/>
-        <updated>2023-11-10T05:40:31.116Z</updated>
-        <content type="html"><![CDATA[일본식 화과자 전문점부터 프랑스식 베이커리까지, 찬 바람이 불기 시작하면 약속이라도 한 듯 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 3대 아인슈페너? 예인과 함께 걷는 청운효자동 플레이스 4 #엘르동]]></title>
-        <id>https://www.elle.co.kr/article/81897</id>
-        <link href="https://www.elle.co.kr/article/81897"/>
-        <updated>2023-11-09T05:41:06.981Z</updated>
-        <content type="html"><![CDATA[청와대와 북악산의 호방한 기개를 간직한 ‘맑은 구름이 걸린 동네’.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아삭한 사과에 상큼한 유자 듬뿍! 전국 먹거리 축제 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/81892</id>
-        <link href="https://www.elle.co.kr/article/81892"/>
-        <updated>2023-11-07T17:41:31.250Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸딩부터 초콜릿까지! 주우재 따라 연남동 디저트 투어 3]]></title>
-        <id>https://www.elle.co.kr/article/81874</id>
-        <link href="https://www.elle.co.kr/article/81874"/>
-        <updated>2023-11-05T05:41:31.169Z</updated>
-        <content type="html"><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL DAY 나 홀로 생일 밥상!]]></title>
-        <id>https://www.elle.co.kr/article/81813</id>
-        <link href="https://www.elle.co.kr/article/81813"/>
-        <updated>2023-11-03T17:41:06.388Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/81862</id>
-        <link href="https://www.elle.co.kr/article/81862"/>
-        <updated>2023-11-03T17:41:06.389Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 11 Nov 2023 05:42:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초대형 생일 케이크가 반겨주는 섬이 있다?! 작가 김신지의 #취향일지도]]></title>
+            <link>https://www.elle.co.kr/article/81909</link>
+            <guid>https://www.elle.co.kr/article/81909</guid>
+            <pubDate>Fri, 10 Nov 2023 17:40:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/04/a808843a-ca62-4f97-9d14-f161c52fd453.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진짜로 시작된 넷플릭스 공유비의 시대, 공유 금지 조건 총정리.txt]]></title>
+            <link>https://www.elle.co.kr/article/81904</link>
+            <guid>https://www.elle.co.kr/article/81904</guid>
+            <pubDate>Fri, 10 Nov 2023 17:40:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/b16f191b-4f48-4495-b6c1-166e3853be42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현지인이 줄 서는 디저트 숍은 어디? 도쿄의 밤 #도쿄핫플]]></title>
+            <link>https://www.elle.co.kr/article/81900</link>
+            <guid>https://www.elle.co.kr/article/81900</guid>
+            <pubDate>Fri, 10 Nov 2023 05:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[일본식 화과자 전문점부터 프랑스식 베이커리까지, 찬 바람이 불기 시작하면 약속이라도 한 듯 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/05aa8159-0ddf-4c09-8633-f57c551968fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 3대 아인슈페너? 예인과 함께 걷는 청운효자동 플레이스 4 #엘르동]]></title>
+            <link>https://www.elle.co.kr/article/81897</link>
+            <guid>https://www.elle.co.kr/article/81897</guid>
+            <pubDate>Thu, 09 Nov 2023 05:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[청와대와 북악산의 호방한 기개를 간직한 ‘맑은 구름이 걸린 동네’.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/383f938f-5a20-4487-8668-d1f5d0a2e6c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아삭한 사과에 상큼한 유자 듬뿍! 전국 먹거리 축제 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/81892</link>
+            <guid>https://www.elle.co.kr/article/81892</guid>
+            <pubDate>Tue, 07 Nov 2023 17:41:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/a3dd95fc-fea1-444a-8a5f-8df6f1cddc92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸딩부터 초콜릿까지! 주우재 따라 연남동 디저트 투어 3]]></title>
+            <link>https://www.elle.co.kr/article/81874</link>
+            <guid>https://www.elle.co.kr/article/81874</guid>
+            <pubDate>Sun, 05 Nov 2023 05:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 디저트 맛집 모아보기! 소문난 푸딩 맛집부터 초콜릿 디저트 카페까지, 주우재가 다녀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/7b462ec6-6efa-4d33-9b30-315466060454.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ALL DAY 나 홀로 생일 밥상!]]></title>
+            <link>https://www.elle.co.kr/article/81813</link>
+            <guid>https://www.elle.co.kr/article/81813</guid>
+            <pubDate>Fri, 03 Nov 2023 17:41:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/966f8acd-b1f4-4b73-9c33-ab51bf15035e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베를린에서 인테리어 디자이너로 활동하는 아담 스피찰라의 갤러리 같은 집 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/81862</link>
+            <guid>https://www.elle.co.kr/article/81862</guid>
+            <pubDate>Fri, 03 Nov 2023 17:41:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/29bd3c7d-1b4e-4b83-8d60-d66e66d7cbe3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

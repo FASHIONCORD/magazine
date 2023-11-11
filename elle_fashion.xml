@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/fashion</id>
-    <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-10T17:40:24.429Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[보테가 베네타의 새로운 항해]]></title>
-        <id>https://www.elle.co.kr/article/82008</id>
-        <link href="https://www.elle.co.kr/article/82008"/>
-        <updated>2023-11-10T17:39:15.113Z</updated>
-        <content type="html"><![CDATA[무엇이든 될 수 있는 마티유 블라지의 무한한 세계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['메이드 인 이탈리아'에 대한 자부심과 경의]]></title>
-        <id>https://www.elle.co.kr/article/81976</id>
-        <link href="https://www.elle.co.kr/article/81976"/>
-        <updated>2023-11-10T17:39:15.114Z</updated>
-        <content type="html"><![CDATA[토즈는 그 진정성의 메시지를 들려주기 위해 한 편의 예술 공연과 같은 컬렉션을 펼쳤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안경 사기 전 참고해! 스타들의 안경 패션 8]]></title>
-        <id>https://www.elle.co.kr/article/81993</id>
-        <link href="https://www.elle.co.kr/article/81993"/>
-        <updated>2023-11-10T17:39:15.120Z</updated>
-        <content type="html"><![CDATA[데일리룩 치트키가 된 안경의 신분 상승 스토리.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상을 새롭게 뒤흔들 구찌의 마법]]></title>
-        <id>https://www.elle.co.kr/article/81953</id>
-        <link href="https://www.elle.co.kr/article/81953"/>
-        <updated>2023-11-10T17:39:15.122Z</updated>
-        <content type="html"><![CDATA[구찌의 새 수장 사바토 데 사르노가 전하는 사랑의 노래.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동화 같은 호수 섬에서 펼쳐진 니콜라 제스키에르의 물빛 판타지]]></title>
-        <id>https://www.elle.co.kr/article/81946</id>
-        <link href="https://www.elle.co.kr/article/81946"/>
-        <updated>2023-11-09T17:39:25.941Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타의 데일리 룩에서 이번 시즌 트렌드 '체크'하기!]]></title>
-        <id>https://www.elle.co.kr/article/81963</id>
-        <link href="https://www.elle.co.kr/article/81963"/>
-        <updated>2023-11-09T17:39:25.942Z</updated>
-        <content type="html"><![CDATA[‘옷잘알’ 셀럽들처럼 다양한 체크 아이템으로 생기발랄한 데일리 룩을 완성해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤넬 2023/24 크루즈 컬렉션의 리드미컬한 바이브]]></title>
-        <id>https://www.elle.co.kr/article/81958</id>
-        <link href="https://www.elle.co.kr/article/81958"/>
-        <updated>2023-11-09T17:39:25.943Z</updated>
-        <content type="html"><![CDATA[샤넬이 전하는 멋지고 경쾌한 에너지, LA에서 중국 선전까지 이어진 2023/24 샤넬 크루즈 컬렉...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는?]]></title>
-        <id>https://www.elle.co.kr/article/81945</id>
-        <link href="https://www.elle.co.kr/article/81945"/>
-        <updated>2023-11-09T05:39:59.860Z</updated>
-        <content type="html"><![CDATA[이제야 맞춰지는 퍼즐.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 11 Nov 2023 05:42:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보테가 베네타의 새로운 항해]]></title>
+            <link>https://www.elle.co.kr/article/82008</link>
+            <guid>https://www.elle.co.kr/article/82008</guid>
+            <pubDate>Fri, 10 Nov 2023 17:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[무엇이든 될 수 있는 마티유 블라지의 무한한 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/7cbfbd6d-e8f9-456e-9ba5-74bf3370fef7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['메이드 인 이탈리아'에 대한 자부심과 경의]]></title>
+            <link>https://www.elle.co.kr/article/81976</link>
+            <guid>https://www.elle.co.kr/article/81976</guid>
+            <pubDate>Fri, 10 Nov 2023 17:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[토즈는 그 진정성의 메시지를 들려주기 위해 한 편의 예술 공연과 같은 컬렉션을 펼쳤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/d36c0fb7-ebb7-4872-ad04-b23feb6138ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안경 사기 전 참고해! 스타들의 안경 패션 8]]></title>
+            <link>https://www.elle.co.kr/article/81993</link>
+            <guid>https://www.elle.co.kr/article/81993</guid>
+            <pubDate>Fri, 10 Nov 2023 17:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[데일리룩 치트키가 된 안경의 신분 상승 스토리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/79520734-3659-4a7b-9aa0-a1fcae225e4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상을 새롭게 뒤흔들 구찌의 마법]]></title>
+            <link>https://www.elle.co.kr/article/81953</link>
+            <guid>https://www.elle.co.kr/article/81953</guid>
+            <pubDate>Fri, 10 Nov 2023 17:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[구찌의 새 수장 사바토 데 사르노가 전하는 사랑의 노래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/7b8d8d4f-24d2-45ee-8b6f-a08b1f1a6c67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동화 같은 호수 섬에서 펼쳐진 니콜라 제스키에르의 물빛 판타지]]></title>
+            <link>https://www.elle.co.kr/article/81946</link>
+            <guid>https://www.elle.co.kr/article/81946</guid>
+            <pubDate>Thu, 09 Nov 2023 17:39:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/dbb1752f-6625-466f-b5b0-f84ce2ea170d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타의 데일리 룩에서 이번 시즌 트렌드 '체크'하기!]]></title>
+            <link>https://www.elle.co.kr/article/81963</link>
+            <guid>https://www.elle.co.kr/article/81963</guid>
+            <pubDate>Thu, 09 Nov 2023 17:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[‘옷잘알’ 셀럽들처럼 다양한 체크 아이템으로 생기발랄한 데일리 룩을 완성해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/db3a7b96-72f5-4cb3-85b7-4e9f2606200a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤넬 2023/24 크루즈 컬렉션의 리드미컬한 바이브]]></title>
+            <link>https://www.elle.co.kr/article/81958</link>
+            <guid>https://www.elle.co.kr/article/81958</guid>
+            <pubDate>Thu, 09 Nov 2023 17:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬이 전하는 멋지고 경쾌한 에너지, LA에서 중국 선전까지 이어진 2023/24 샤넬 크루즈 컬렉...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/b8855ad9-0fe2-4431-b8d2-2cc48bafea23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는?]]></title>
+            <link>https://www.elle.co.kr/article/81945</link>
+            <guid>https://www.elle.co.kr/article/81945</guid>
+            <pubDate>Thu, 09 Nov 2023 05:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[이제야 맞춰지는 퍼즐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/4757db54-1993-458c-8dec-be799957d4c7.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
