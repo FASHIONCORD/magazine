@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 05:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 17:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강릉살이를 꿈꾸게 하는 프리랜서 부부의 감나무 주택 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/81999</link>
+            <guid>https://www.elle.co.kr/article/81999</guid>
+            <pubDate>Sat, 11 Nov 2023 17:40:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/e0e8d676-7701-4c0a-bdf7-b2ba5be6bf3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[같이 읽어요! 가을 책, 스테이셔너리]]></title>
             <link>https://www.elle.co.kr/article/81998</link>
@@ -58,13 +65,6 @@
             <pubDate>Tue, 07 Nov 2023 17:40:36 GMT</pubDate>
             <content:encoded><![CDATA[환경 에세이 &lt;별일 아닌데 뿌듯합니다&gt; 저자이자 초등학교 교사 이은재는 제로웨이스트를 실천하며...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/d35ab6d8-af6b-465b-82ce-304037eef53c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판빙빙X이주영과 박보영! 여성 콘텐츠가 강세인 11월 첫주 #신작이OnAir]]></title>
-            <link>https://www.elle.co.kr/article/81913</link>
-            <guid>https://www.elle.co.kr/article/81913</guid>
-            <pubDate>Tue, 07 Nov 2023 17:40:36 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/a2df6d32-b669-4716-a44f-00d5051464fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

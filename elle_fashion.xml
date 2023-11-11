@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 05:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 17:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃을 사고, 선물을 고르고, 파리의 길을 거닐다]]></title>
+            <link>https://www.elle.co.kr/article/82002</link>
+            <guid>https://www.elle.co.kr/article/82002</guid>
+            <pubDate>Sat, 11 Nov 2023 17:40:04 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/95dec488-5921-441e-b6be-6d2827675fe4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보테가 베네타의 새로운 항해]]></title>
             <link>https://www.elle.co.kr/article/82008</link>
@@ -61,14 +68,6 @@
             <pubDate>Thu, 09 Nov 2023 17:39:25 GMT</pubDate>
             <content:encoded><![CDATA[샤넬이 전하는 멋지고 경쾌한 에너지, LA에서 중국 선전까지 이어진 2023/24 샤넬 크루즈 컬렉...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/b8855ad9-0fe2-4431-b8d2-2cc48bafea23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소름 주의! 두아 리파 영상 속 의문의 숫자에 담긴 의미는?]]></title>
-            <link>https://www.elle.co.kr/article/81945</link>
-            <guid>https://www.elle.co.kr/article/81945</guid>
-            <pubDate>Thu, 09 Nov 2023 05:39:59 GMT</pubDate>
-            <content:encoded><![CDATA[이제야 맞춰지는 퍼즐.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/4757db54-1993-458c-8dec-be799957d4c7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
