@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 05:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 17:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임수정이 40대 중반에도 동안 유지하는 비결 #스타다이어트]]></title>
+            <link>https://www.elle.co.kr/article/82013</link>
+            <guid>https://www.elle.co.kr/article/82013</guid>
+            <pubDate>Sun, 12 Nov 2023 17:40:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/03468f59-06d9-4c05-8d9c-c0e0ac81ccc0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 대세는 '초콜릿' 립 글로스?]]></title>
             <link>https://www.elle.co.kr/article/81948</link>
@@ -60,13 +67,6 @@
             <pubDate>Wed, 08 Nov 2023 17:39:28 GMT</pubDate>
             <content:encoded><![CDATA[형형색색의 뷰티 신상 그리고 기하학적 패턴의 오브제처럼 다채로움으로 가득한 11월을 보내길.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/04/c74dd9b8-95ef-4d37-ac2a-510901cf6035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11kg 감량한 유지어터, 코요태 신지의 관리 비법 총정리 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81869</link>
-            <guid>https://www.elle.co.kr/article/81869</guid>
-            <pubDate>Wed, 08 Nov 2023 17:39:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/813a395e-c8c7-4a71-b045-002d4c6c8b4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
