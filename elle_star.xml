@@ -1,67 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 05:42:36 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[유재석이 딸 이야기 하며 눈물 흘린 최수종에게 한 말]]></title>
-            <link>https://www.elle.co.kr/article/82014</link>
-            <guid>https://www.elle.co.kr/article/82014</guid>
-            <pubDate>Mon, 13 Nov 2023 05:41:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/c8239186-419b-42ca-be4e-338c12dcc2e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임수정이 40대 중반에도 동안 유지하는 비결 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/82013</link>
-            <guid>https://www.elle.co.kr/article/82013</guid>
-            <pubDate>Sat, 11 Nov 2023 17:40:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/03468f59-06d9-4c05-8d9c-c0e0ac81ccc0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현아&던 다시 볼 수 있을까? 전 남친 소속사 합류한 현아의 파격 프로필 모음]]></title>
-            <link>https://www.elle.co.kr/article/82004</link>
-            <guid>https://www.elle.co.kr/article/82004</guid>
-            <pubDate>Sat, 11 Nov 2023 05:41:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/c7a09b40-94b9-422e-9489-27cc0bcc366d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이순신 3부작의 끝, '노량'에서 마지막 대결하는 김윤석X백윤식 미리보기.jpg]]></title>
-            <link>https://www.elle.co.kr/article/82003</link>
-            <guid>https://www.elle.co.kr/article/82003</guid>
-            <pubDate>Fri, 10 Nov 2023 17:39:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/3ff73f1d-9fbe-417d-8d0d-7fabec48b698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아기 성별 살짝 공개? 이민정 둘째 베이비샤워 현장.jpg]]></title>
-            <link>https://www.elle.co.kr/article/81983</link>
-            <guid>https://www.elle.co.kr/article/81983</guid>
-            <pubDate>Fri, 10 Nov 2023 17:39:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/3e5bb0ca-534c-4388-867e-22ec243d7a7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기안84보다 빨리 마라톤 풀코스 완주한 임세미의 피지컬 유지 비결 #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/81980</link>
-            <guid>https://www.elle.co.kr/article/81980</guid>
-            <pubDate>Thu, 09 Nov 2023 17:39:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/f997899c-5579-4153-94e9-c05304eae87b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연기자 도전한다는 강경준 아들 정안! 사극 명장면 재연 모습은?]]></title>
-            <link>https://www.elle.co.kr/article/81979</link>
-            <guid>https://www.elle.co.kr/article/81979</guid>
-            <pubDate>Thu, 09 Nov 2023 17:39:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/a6b0b663-edb1-4974-af76-8342481fda65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전현무X박나래X이장우의 두 번째 해외 팜유 세미나 현장.jpg]]></title>
-            <link>https://www.elle.co.kr/article/81957</link>
-            <guid>https://www.elle.co.kr/article/81957</guid>
-            <pubDate>Thu, 09 Nov 2023 17:39:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/d76df34f-6969-49f7-8591-4a77aa51eef2.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-11-13T17:41:23.127Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미래에서 온 이야기꾼]]></title>
+        <id>https://www.elle.co.kr/article/82025</id>
+        <link href="https://www.elle.co.kr/article/82025"/>
+        <updated>2023-11-13T17:40:14.676Z</updated>
+        <content type="html"><![CDATA[서울을 찾은 후세인 샬라얀을 만나 과거와 미래, 바다와 육지를 넘나드는 흥미진진한 상상 속 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한혜진이 ‘나’를 사랑하는 법! #나이트루틴]]></title>
+        <id>https://www.elle.co.kr/article/82052</id>
+        <link href="https://www.elle.co.kr/article/82052"/>
+        <updated>2023-11-13T17:40:14.677Z</updated>
+        <content type="html"><![CDATA[한혜진이 말하는 관리란 거창한 것이 아닌 자신에게 좀 더 관심을 가지는 것! 일과를 마친 뒤...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-걸그룹 최초 '빌보드 뮤직 어워즈' 공연! 뉴진스의 반전 근황.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82042</id>
+        <link href="https://www.elle.co.kr/article/82042"/>
+        <updated>2023-11-13T17:40:14.678Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마블표 팀업 무비부터 3년 만에 돌아온 '개콘'이 있는 11월 둘째 주 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/82034</id>
+        <link href="https://www.elle.co.kr/article/82034"/>
+        <updated>2023-11-13T17:40:14.679Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유재석이 딸 이야기 하며 눈물 흘린 최수종에게 한 말]]></title>
+        <id>https://www.elle.co.kr/article/82014</id>
+        <link href="https://www.elle.co.kr/article/82014"/>
+        <updated>2023-11-13T05:41:13.700Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임수정이 40대 중반에도 동안 유지하는 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/82013</id>
+        <link href="https://www.elle.co.kr/article/82013"/>
+        <updated>2023-11-11T17:40:28.376Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현아&던 다시 볼 수 있을까? 전 남친 소속사 합류한 현아의 파격 프로필 모음]]></title>
+        <id>https://www.elle.co.kr/article/82004</id>
+        <link href="https://www.elle.co.kr/article/82004"/>
+        <updated>2023-11-11T05:41:14.297Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이순신 3부작의 끝, '노량'에서 마지막 대결하는 김윤석X백윤식 미리보기.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82003</id>
+        <link href="https://www.elle.co.kr/article/82003"/>
+        <updated>2023-11-10T17:39:32.986Z</updated>
+    </entry>
+</feed>

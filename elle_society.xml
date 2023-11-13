@@ -1,71 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 소사이어티</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 05:42:36 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이제 한국도 베드버그 청정지대 아니다? 빈대 출몰 오해와 진실 (ft. 방제법)]]></title>
-            <link>https://www.elle.co.kr/article/81988</link>
-            <guid>https://www.elle.co.kr/article/81988</guid>
-            <pubDate>Mon, 13 Nov 2023 05:42:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/617b6ed2-440c-4f26-b6f1-b12db17abf51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 잘하고 계신 것 같은데요!]]></title>
-            <link>https://www.elle.co.kr/article/81878</link>
-            <guid>https://www.elle.co.kr/article/81878</guid>
-            <pubDate>Fri, 10 Nov 2023 17:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[황효진 작가가 뜻밖에도 초등학생의 말에 위안을 얻은 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/8a98d5fb-4612-40f3-b503-91a66324e98e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 나의 추하고 아름다운 실패들]]></title>
-            <link>https://www.elle.co.kr/article/81877</link>
-            <guid>https://www.elle.co.kr/article/81877</guid>
-            <pubDate>Thu, 09 Nov 2023 17:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[정지음은 말한다. 이 실패는 그래도 온전히 나의 것이라고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/319eeff3-89ce-4e22-9242-d33df6a62d89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무료료 돈 버는 법을 알려준다? 99.99% 확률로 '이것'입니다_돈쓸신잡 #122]]></title>
-            <link>https://www.elle.co.kr/article/81861</link>
-            <guid>https://www.elle.co.kr/article/81861</guid>
-            <pubDate>Thu, 09 Nov 2023 17:40:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/d8308a62-9949-48bd-99a3-82f9d1d49968.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는?]]></title>
-            <link>https://www.elle.co.kr/article/81733</link>
-            <guid>https://www.elle.co.kr/article/81733</guid>
-            <pubDate>Thu, 09 Nov 2023 05:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/71ccf5c1-5363-463a-b922-331b3fe8ba58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 살려면 잘 추락해야 한다_돈쓸신잡 #121]]></title>
-            <link>https://www.elle.co.kr/article/81674</link>
-            <guid>https://www.elle.co.kr/article/81674</guid>
-            <pubDate>Wed, 08 Nov 2023 17:40:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/d4ff70b5-7ae6-4bd3-9070-2ef7f6160503.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숏폼, 그 참을 수 없는 짧음에 대하여]]></title>
-            <link>https://www.elle.co.kr/article/81613</link>
-            <guid>https://www.elle.co.kr/article/81613</guid>
-            <pubDate>Mon, 06 Nov 2023 17:40:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/9d71540c-c55b-4df9-97e4-e4475fb8c140.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 할로윈, 그리고 이태원 참사 1주기를 앞둔 전국 분위기]]></title>
-            <link>https://www.elle.co.kr/article/81533</link>
-            <guid>https://www.elle.co.kr/article/81533</guid>
-            <pubDate>Sun, 05 Nov 2023 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[이태원이 안되면 홍대로 몰린다?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/e94c323f-2bf9-41e8-be13-e2646abb5ea3.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/society</id>
+    <title>엘르 코리아 ─ 소사이어티</title>
+    <updated>2023-11-13T17:41:23.140Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사회초년생이 고물가 시대에서 살아남는 법_돈쓸신잡 #123]]></title>
+        <id>https://www.elle.co.kr/article/82001</id>
+        <link href="https://www.elle.co.kr/article/82001"/>
+        <updated>2023-11-13T17:41:22.115Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카페 종이 빨대, 진짜 사라질까?]]></title>
+        <id>https://www.elle.co.kr/article/82000</id>
+        <link href="https://www.elle.co.kr/article/82000"/>
+        <updated>2023-11-13T17:41:22.117Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 한국도 베드버그 청정지대 아니다? 빈대 출몰 오해와 진실 (ft. 방제법)]]></title>
+        <id>https://www.elle.co.kr/article/81988</id>
+        <link href="https://www.elle.co.kr/article/81988"/>
+        <updated>2023-11-13T05:42:35.213Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 잘하고 계신 것 같은데요!]]></title>
+        <id>https://www.elle.co.kr/article/81878</id>
+        <link href="https://www.elle.co.kr/article/81878"/>
+        <updated>2023-11-10T17:40:23.712Z</updated>
+        <content type="html"><![CDATA[황효진 작가가 뜻밖에도 초등학생의 말에 위안을 얻은 이유]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 나의 추하고 아름다운 실패들]]></title>
+        <id>https://www.elle.co.kr/article/81877</id>
+        <link href="https://www.elle.co.kr/article/81877"/>
+        <updated>2023-11-09T17:40:30.875Z</updated>
+        <content type="html"><![CDATA[정지음은 말한다. 이 실패는 그래도 온전히 나의 것이라고.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무료료 돈 버는 법을 알려준다? 99.99% 확률로 '이것'입니다_돈쓸신잡 #122]]></title>
+        <id>https://www.elle.co.kr/article/81861</id>
+        <link href="https://www.elle.co.kr/article/81861"/>
+        <updated>2023-11-09T17:40:30.878Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테일러 스위프트의 억만장자 등극이 더욱 특별한 이유는?]]></title>
+        <id>https://www.elle.co.kr/article/81733</id>
+        <link href="https://www.elle.co.kr/article/81733"/>
+        <updated>2023-11-09T05:41:47.760Z</updated>
+        <content type="html"><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 살려면 잘 추락해야 한다_돈쓸신잡 #121]]></title>
+        <id>https://www.elle.co.kr/article/81674</id>
+        <link href="https://www.elle.co.kr/article/81674"/>
+        <updated>2023-11-08T17:40:50.882Z</updated>
+    </entry>
+</feed>
