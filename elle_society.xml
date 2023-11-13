@@ -4,9 +4,16 @@
         <title>엘르 코리아 ─ 소사이어티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 17:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 05:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 한국도 베드버그 청정지대 아니다? 빈대 출몰 오해와 진실 (ft. 방제법)]]></title>
+            <link>https://www.elle.co.kr/article/81988</link>
+            <guid>https://www.elle.co.kr/article/81988</guid>
+            <pubDate>Mon, 13 Nov 2023 05:42:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/617b6ed2-440c-4f26-b6f1-b12db17abf51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엘르보이스] 잘하고 계신 것 같은데요!]]></title>
             <link>https://www.elle.co.kr/article/81878</link>
@@ -59,13 +66,6 @@
             <pubDate>Sun, 05 Nov 2023 17:40:25 GMT</pubDate>
             <content:encoded><![CDATA[이태원이 안되면 홍대로 몰린다?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/e94c323f-2bf9-41e8-be13-e2646abb5ea3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부캐가 내 인생을 바꿔준다고?_돈쓸신잡 #120]]></title>
-            <link>https://www.elle.co.kr/article/81456</link>
-            <guid>https://www.elle.co.kr/article/81456</guid>
-            <pubDate>Thu, 02 Nov 2023 17:40:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/b50fead6-b9bb-4284-a293-c5e2cced1db8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
