@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-11-13T17:41:23.140Z</updated>
+    <updated>2023-11-14T05:40:44.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 30년 전, <엘르>를 읽던 엄마가 사라졌다.]]></title>
+        <id>https://www.elle.co.kr/article/81879</id>
+        <link href="https://www.elle.co.kr/article/81879"/>
+        <updated>2023-11-14T05:40:43.864Z</updated>
+        <content type="html"><![CDATA[엄마와 나, 어쩌면 조카까지? 비혼세 작가와 엘르의 애틋한 인연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사회초년생이 고물가 시대에서 살아남는 법_돈쓸신잡 #123]]></title>
         <id>https://www.elle.co.kr/article/82001</id>
@@ -49,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/81733"/>
         <updated>2023-11-09T05:41:47.760Z</updated>
         <content type="html"><![CDATA[웬만한 기업을 뛰어넘는 그의 어마어마한 영향력.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 살려면 잘 추락해야 한다_돈쓸신잡 #121]]></title>
-        <id>https://www.elle.co.kr/article/81674</id>
-        <link href="https://www.elle.co.kr/article/81674"/>
-        <updated>2023-11-08T17:40:50.882Z</updated>
     </entry>
 </feed>
