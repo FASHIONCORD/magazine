@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-14T05:40:44.665Z</updated>
+    <updated>2023-11-14T17:40:46.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한혜진이 ‘나’를 사랑하는 법! #나이트루틴]]></title>
+        <id>https://www.elle.co.kr/article/82052</id>
+        <link href="https://www.elle.co.kr/article/82052"/>
+        <updated>2023-11-14T17:39:38.668Z</updated>
+        <content type="html"><![CDATA[한혜진이 말하는 관리란 거창한 것이 아닌 자신에게 좀 더 관심을 가지는 것! 일과를 마친 뒤...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먹는 거 아닙니다. ‘찐’ 자연 그대로의 향을 담은 프레그런스 아이템 4]]></title>
         <id>https://www.elle.co.kr/article/82047</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/81916"/>
         <updated>2023-11-09T17:39:33.397Z</updated>
         <content type="html"><![CDATA[24시간 관리를 소홀히 하지 않는 송경아의 욕실은? 피부 트러블을 잠재워 주는 패드부터 촉촉한...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에르메스의 시선]]></title>
-        <id>https://www.elle.co.kr/article/81850</id>
-        <link href="https://www.elle.co.kr/article/81850"/>
-        <updated>2023-11-08T17:39:28.926Z</updated>
-        <content type="html"><![CDATA[에르메스 뷰티 아이 메이크업 컬렉션, '르 르가르 에르메스'가 론칭을 앞두고 있다. 파리에서 ...]]></content>
     </entry>
 </feed>
