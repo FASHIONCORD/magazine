@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-15T05:40:35.661Z</updated>
+    <updated>2023-11-15T17:40:58.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 여자, 서울 뷰티]]></title>
+        <id>https://www.elle.co.kr/article/82023</id>
+        <link href="https://www.elle.co.kr/article/82023"/>
+        <updated>2023-11-15T17:39:32.529Z</updated>
+        <content type="html"><![CDATA[해외에서 어느 때보다 K뷰티 열기가 뜨거운 지금, &lt;엘르&gt;는 한국 뷰티의 중심 '서울(Seoul)' 안...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한혜진이 ‘나’를 사랑하는 법! #나이트루틴]]></title>
         <id>https://www.elle.co.kr/article/82052</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/81893"/>
         <updated>2023-11-10T17:39:23.848Z</updated>
         <content type="html"><![CDATA['힙'한 서울러들이 참새 방앗간처럼 방문하는 뷰티 스폿과 지금 당장 팔로해야 할 K뷰티 브랜드...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톱모델 송경아의 욕실 속 뷰티 아이템 9]]></title>
-        <id>https://www.elle.co.kr/article/81916</id>
-        <link href="https://www.elle.co.kr/article/81916"/>
-        <updated>2023-11-09T17:39:33.397Z</updated>
-        <content type="html"><![CDATA[24시간 관리를 소홀히 하지 않는 송경아의 욕실은? 피부 트러블을 잠재워 주는 패드부터 촉촉한...]]></content>
     </entry>
 </feed>

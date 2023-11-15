@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-15T05:40:35.647Z</updated>
+    <updated>2023-11-15T17:40:58.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아름다운 이방인 ft. 오트 쿠튀르]]></title>
+        <id>https://www.elle.co.kr/article/82044</id>
+        <link href="https://www.elle.co.kr/article/82044"/>
+        <updated>2023-11-15T17:39:24.840Z</updated>
+        <content type="html"><![CDATA[수천개의 크리스탈과 비즈, 섬세한 깃털, 엄청난 사이즈의 튤 드레스까지.  한 땀 한 땀 장인...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말 파티 룩, 뭐 입지?]]></title>
         <id>https://www.elle.co.kr/article/82059</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/81976"/>
         <updated>2023-11-10T17:39:15.114Z</updated>
         <content type="html"><![CDATA[토즈는 그 진정성의 메시지를 들려주기 위해 한 편의 예술 공연과 같은 컬렉션을 펼쳤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽃을 사고, 선물을 고르고, 파리의 길을 거닐다]]></title>
-        <id>https://www.elle.co.kr/article/82002</id>
-        <link href="https://www.elle.co.kr/article/82002"/>
-        <updated>2023-11-11T17:40:04.917Z</updated>
     </entry>
 </feed>
