@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-15T17:40:58.720Z</updated>
+    <updated>2023-11-16T05:40:40.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄정화가 방시혁과 '우리 결혼했어요' 찍을 뻔했다고?]]></title>
+        <id>https://www.elle.co.kr/article/82123</id>
+        <link href="https://www.elle.co.kr/article/82123"/>
+        <updated>2023-11-16T05:39:39.413Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[29년 만의 한국시리즈 제패에 난리 난 LG 트윈스 골수팬 셀럽들 (ft. 롤렉스의 행방)]]></title>
         <id>https://www.elle.co.kr/article/82119</id>
@@ -48,12 +54,5 @@
         <link href="https://www.elle.co.kr/article/82025"/>
         <updated>2023-11-13T17:40:14.676Z</updated>
         <content type="html"><![CDATA[서울을 찾은 후세인 샬라얀을 만나 과거와 미래, 바다와 육지를 넘나드는 흥미진진한 상상 속 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진이 ‘나’를 사랑하는 법! #나이트루틴]]></title>
-        <id>https://www.elle.co.kr/article/82052</id>
-        <link href="https://www.elle.co.kr/article/82052"/>
-        <updated>2023-11-13T17:40:14.677Z</updated>
-        <content type="html"><![CDATA[한혜진이 말하는 관리란 거창한 것이 아닌 자신에게 좀 더 관심을 가지는 것! 일과를 마친 뒤...]]></content>
     </entry>
 </feed>
