@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-16T05:40:40.217Z</updated>
+    <updated>2023-11-16T17:40:37.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다채로운 컬러와 질감으로 펼친 홀리데이 메이크업 판타지]]></title>
+        <id>https://www.elle.co.kr/article/82029</id>
+        <link href="https://www.elle.co.kr/article/82029"/>
+        <updated>2023-11-16T17:39:33.553Z</updated>
+        <content type="html"><![CDATA[다양한 피부색, 다양한 세대•••. 5인의 얼굴처럼 다채로운 컬러와 질감으로 펼친 메이크업 판...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[계절에 맞는 메이크업이 따로 있다고? 윤은혜의 초간단 메이크업 Tip]]></title>
+        <id>https://www.elle.co.kr/article/82058</id>
+        <link href="https://www.elle.co.kr/article/82058"/>
+        <updated>2023-11-16T17:39:33.556Z</updated>
+        <content type="html"><![CDATA[투명한 피부와 그윽한 눈매가 특징! 가을과 겨울에 참고하면 좋을 윤은혜의 메이크업.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 여자, 서울 뷰티]]></title>
         <id>https://www.elle.co.kr/article/82023</id>
@@ -44,18 +58,5 @@
         <id>https://www.elle.co.kr/article/81988</id>
         <link href="https://www.elle.co.kr/article/81988"/>
         <updated>2023-11-11T17:40:17.516Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기안84보다 빨리 마라톤 풀코스 완주한 임세미의 피지컬 유지 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/81980</id>
-        <link href="https://www.elle.co.kr/article/81980"/>
-        <updated>2023-11-11T05:40:33.757Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 브랜드를 아시나요?]]></title>
-        <id>https://www.elle.co.kr/article/81893</id>
-        <link href="https://www.elle.co.kr/article/81893"/>
-        <updated>2023-11-10T17:39:23.848Z</updated>
-        <content type="html"><![CDATA['힙'한 서울러들이 참새 방앗간처럼 방문하는 뷰티 스폿과 지금 당장 팔로해야 할 K뷰티 브랜드...]]></content>
     </entry>
 </feed>
