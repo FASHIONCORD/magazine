@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2023-11-17T05:40:51.783Z</updated>
+    <updated>2023-11-17T17:40:38.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[단 두 곡으로 가요계 제패한 레전드 유닛, 씨스타19 11년 만의 컴백 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/82204</id>
+        <link href="https://www.elle.co.kr/article/82204"/>
+        <updated>2023-11-17T17:40:03.174Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사이버 가수? AI? 무려 4년 6개월 만에 컴백하는 딘 신곡 정보.txt]]></title>
         <id>https://www.elle.co.kr/article/82086</id>
@@ -81,11 +87,5 @@
         <id>https://www.elle.co.kr/article/80757</id>
         <link href="https://www.elle.co.kr/article/80757"/>
         <updated>2023-09-21T17:41:25.180Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 뷔-정국, 원곡 부른 이영지에 펭수까지 나선 '스모크' 챌린지 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/80688</id>
-        <link href="https://www.elle.co.kr/article/80688"/>
-        <updated>2023-09-19T05:41:24.880Z</updated>
     </entry>
 </feed>

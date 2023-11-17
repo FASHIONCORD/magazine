@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-11-17T05:40:51.782Z</updated>
+    <updated>2023-11-17T17:40:38.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 수능 끝나고 놀이동산 고? 놓치면 아쉬운 '수험생 할인 혜택' 총정리 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/82122</id>
+        <link href="https://www.elle.co.kr/article/82122"/>
+        <updated>2023-11-17T17:40:28.999Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이비드 호크니의 그림 속으로 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/82095</id>
+        <link href="https://www.elle.co.kr/article/82095"/>
+        <updated>2023-11-17T17:40:29.001Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춘식이부터 도라에몽까지! 캐릭터로 물든 편의점 '빼빼로데이' 상품 모음 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/82046</id>
@@ -41,18 +53,5 @@
         <id>https://www.elle.co.kr/article/81909</id>
         <link href="https://www.elle.co.kr/article/81909"/>
         <updated>2023-11-10T17:40:15.879Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진짜로 시작된 넷플릭스 공유비의 시대, 공유 금지 조건 총정리.txt]]></title>
-        <id>https://www.elle.co.kr/article/81904</id>
-        <link href="https://www.elle.co.kr/article/81904"/>
-        <updated>2023-11-10T17:40:15.885Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현지인이 줄 서는 디저트 숍은 어디? 도쿄의 밤 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/81900</id>
-        <link href="https://www.elle.co.kr/article/81900"/>
-        <updated>2023-11-10T05:40:31.116Z</updated>
-        <content type="html"><![CDATA[일본식 화과자 전문점부터 프랑스식 베이커리까지, 찬 바람이 불기 시작하면 약속이라도 한 듯 ...]]></content>
     </entry>
 </feed>

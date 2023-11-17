@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-17T05:40:51.796Z</updated>
+    <updated>2023-11-17T17:40:38.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가성비 끝판왕! 1만 원대 고기능성 모이스처라이저.zip_선배’s 어드바이스 #194]]></title>
+        <id>https://www.elle.co.kr/article/82093</id>
+        <link href="https://www.elle.co.kr/article/82093"/>
+        <updated>2023-11-17T17:39:33.450Z</updated>
+        <content type="html"><![CDATA[머리부터 발끝까지, 가격과 효과 둘 다 잡은 제품만 모았다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다채로운 컬러와 질감으로 펼친 홀리데이 메이크업 판타지]]></title>
         <id>https://www.elle.co.kr/article/82029</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/81948"/>
         <updated>2023-11-12T05:40:55.004Z</updated>
         <content type="html"><![CDATA[내 입술 위에 꾸덕한 초콜릿! 기분 좋은 달콤함이 번지는 '코코아' 립글로스 7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 한국도 베드버그 청정지대 아니다? 빈대 출몰 오해와 진실 (ft. 방제법)]]></title>
-        <id>https://www.elle.co.kr/article/81988</id>
-        <link href="https://www.elle.co.kr/article/81988"/>
-        <updated>2023-11-11T17:40:17.516Z</updated>
     </entry>
 </feed>

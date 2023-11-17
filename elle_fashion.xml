@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-17T05:40:51.782Z</updated>
+    <updated>2023-11-17T17:40:38.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울 필수 아이템, 신발장 속 잠자고 있던 ‘어그’를 꺼내야 할 때!]]></title>
+        <id>https://www.elle.co.kr/article/82125</id>
+        <link href="https://www.elle.co.kr/article/82125"/>
+        <updated>2023-11-17T17:39:23.161Z</updated>
+        <content type="html"><![CDATA[급격하게 추워진 날씨에 투박한 어그 부츠를 꺼내 신은 스타들을 소개합니다. 유행을 넘어 겨울...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일 뭐 입지? 스타들의 데일리 아우터 6]]></title>
+        <id>https://www.elle.co.kr/article/82090</id>
+        <link href="https://www.elle.co.kr/article/82090"/>
+        <updated>2023-11-17T17:39:23.163Z</updated>
+        <content type="html"><![CDATA[클래식한 재킷부터 스트리트 무드 가득한 점퍼까지 스타들이 선택한 아우터를 참고해 보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리 스타일스의 스타일리스트가 구멍이 나도 절대 못 버리는 티셔츠? 사물(사람과 물건) 인터뷰 #10]]></title>
         <id>https://www.elle.co.kr/article/82068</id>
@@ -45,19 +59,5 @@
         <id>https://www.elle.co.kr/article/82005</id>
         <link href="https://www.elle.co.kr/article/82005"/>
         <updated>2023-11-13T05:40:50.684Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한번 더 백년]]></title>
-        <id>https://www.elle.co.kr/article/82019</id>
-        <link href="https://www.elle.co.kr/article/82019"/>
-        <updated>2023-11-13T05:40:50.691Z</updated>
-        <content type="html"><![CDATA[창립 100주년을 맞아 선보인 전시를 성대하게 치러낸 아크리스. 하우스를 이끄는 알버트 크리믈러...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을밤을 위한 캔들 홀더]]></title>
-        <id>https://www.elle.co.kr/article/82010</id>
-        <link href="https://www.elle.co.kr/article/82010"/>
-        <updated>2023-11-12T17:40:05.722Z</updated>
-        <content type="html"><![CDATA[초가 켜지는 순간, 찾아오는 감각적인 가을밤.]]></content>
     </entry>
 </feed>
