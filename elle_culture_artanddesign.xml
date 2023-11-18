@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-11-18T05:41:05.634Z</updated>
+    <updated>2023-11-18T17:40:38.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다정한 귀여움으로 채운 일상, 블루아워 대표 이상희]]></title>
+        <id>https://www.elle.co.kr/article/82104</id>
+        <link href="https://www.elle.co.kr/article/82104"/>
+        <updated>2023-11-18T17:40:18.694Z</updated>
+        <content type="html"><![CDATA[색색깔의 아름다움이 깃든 이상희의 취향.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말을 빛낼 하이주얼리 전시 3]]></title>
         <id>https://www.elle.co.kr/article/82209</id>
@@ -84,12 +91,5 @@
         <link href="https://www.elle.co.kr/article/81998"/>
         <updated>2023-11-09T05:40:58.843Z</updated>
         <content type="html"><![CDATA[책장이 술술 넘어간다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로웨이스트와 미니멀 라이프의 상관관계]]></title>
-        <id>https://www.elle.co.kr/article/81808</id>
-        <link href="https://www.elle.co.kr/article/81808"/>
-        <updated>2023-11-05T17:40:10.450Z</updated>
-        <content type="html"><![CDATA[환경 에세이 &lt;별일 아닌데 뿌듯합니다&gt; 저자이자 초등학교 교사 이은재는 제로웨이스트를 실천하며...]]></content>
     </entry>
 </feed>
