@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2023-11-19T05:40:40.887Z</updated>
+    <updated>2023-11-19T17:40:50.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드]]></title>
+        <id>https://www.elle.co.kr/article/82219</id>
+        <link href="https://www.elle.co.kr/article/82219"/>
+        <updated>2023-11-19T17:40:02.958Z</updated>
+        <content type="html"><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단 두 곡으로 가요계 제패한 레전드 유닛, 씨스타19 11년 만의 컴백 정보.txt]]></title>
         <id>https://www.elle.co.kr/article/82204</id>
@@ -81,11 +88,5 @@
         <id>https://www.elle.co.kr/article/80968</id>
         <link href="https://www.elle.co.kr/article/80968"/>
         <updated>2023-09-27T05:41:22.084Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 전원 하이브와 두 번째 재계약! 완전체 볼 수 있는 시기는? (ft. 군 복무 스케줄)]]></title>
-        <id>https://www.elle.co.kr/article/80757</id>
-        <link href="https://www.elle.co.kr/article/80757"/>
-        <updated>2023-09-21T17:41:25.180Z</updated>
     </entry>
 </feed>
