@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-20T05:40:39.545Z</updated>
+    <updated>2023-11-20T17:40:42.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말을 빛낼 하이주얼리 전시 3]]></title>
+        <id>https://www.elle.co.kr/article/82209</id>
+        <link href="https://www.elle.co.kr/article/82209"/>
+        <updated>2023-11-20T17:39:32.054Z</updated>
+        <content type="html"><![CDATA[반클리프 아펠, 부쉐론, 프레드에 담긴 영롱한 서사.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잘가요 그리고 반가워요]]></title>
         <id>https://www.elle.co.kr/article/82102</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/82090"/>
         <updated>2023-11-17T17:39:23.163Z</updated>
         <content type="html"><![CDATA[클래식한 재킷부터 스트리트 무드 가득한 점퍼까지 스타들이 선택한 아우터를 참고해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해리 스타일스의 스타일리스트가 구멍이 나도 절대 못 버리는 티셔츠? 사물(사람과 물건) 인터뷰 #10]]></title>
-        <id>https://www.elle.co.kr/article/82068</id>
-        <link href="https://www.elle.co.kr/article/82068"/>
-        <updated>2023-11-16T17:39:23.014Z</updated>
-        <content type="html"><![CDATA[해리 스타일스의 스타일은 그의 손에서! 패션 스타일리스트 해리 램버트가 애정하는 물건.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-20T05:40:39.542Z</updated>
+    <updated>2023-11-20T17:40:42.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20kg 감량 유지어터 강소라, 둘째 임신 후 관리 비결 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/82169</id>
+        <link href="https://www.elle.co.kr/article/82169"/>
+        <updated>2023-11-20T17:39:42.419Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[효린의 넘치는 체력과 탄탄한 체형 유지 비결 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/82144</id>
@@ -52,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/82052"/>
         <updated>2023-11-14T17:39:38.668Z</updated>
         <content type="html"><![CDATA[한혜진이 말하는 관리란 거창한 것이 아닌 자신에게 좀 더 관심을 가지는 것! 일과를 마친 뒤...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹는 거 아닙니다. ‘찐’ 자연 그대로의 향을 담은 프레그런스 아이템 4]]></title>
-        <id>https://www.elle.co.kr/article/82047</id>
-        <link href="https://www.elle.co.kr/article/82047"/>
-        <updated>2023-11-14T05:39:31.583Z</updated>
-        <content type="html"><![CDATA[어디에서도 맡아 보지 못한 자연 그대로의 향을 담은 아이템들]]></content>
     </entry>
 </feed>

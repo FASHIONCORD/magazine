@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-11-20T05:40:39.535Z</updated>
+    <updated>2023-11-20T17:40:42.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남궁민X안은진이 만든 눈물의 해피엔딩, '연인' 파트2 명장면 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/82251</id>
+        <link href="https://www.elle.co.kr/article/82251"/>
+        <updated>2023-11-20T17:40:16.634Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG는 29년 만의 기적, 김혜수는 30년 만의 작별? 11월 3주차 #이번주요약]]></title>
         <id>https://www.elle.co.kr/article/82207</id>
@@ -76,12 +82,5 @@
         <id>https://www.elle.co.kr/article/81766</id>
         <link href="https://www.elle.co.kr/article/81766"/>
         <updated>2023-10-30T17:41:16.815Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘프렌즈’ 매튜 페리가 세상을 떠났다]]></title>
-        <id>https://www.elle.co.kr/article/81732</id>
-        <link href="https://www.elle.co.kr/article/81732"/>
-        <updated>2023-10-29T05:41:24.740Z</updated>
-        <content type="html"><![CDATA[약물 중독을 호소한 지 꼭 1년 만에.]]></content>
     </entry>
 </feed>
