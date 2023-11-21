@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-11-21T05:40:25.449Z</updated>
+    <updated>2023-11-21T17:42:15.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나의 소중한 동물 친구들]]></title>
+        <id>https://www.elle.co.kr/article/82142</id>
+        <link href="https://www.elle.co.kr/article/82142"/>
+        <updated>2023-11-21T17:41:31.242Z</updated>
+        <content type="html"><![CDATA[사랑과 경애, 존중의 마음을 담아. 나의 소중한 동물 친구들을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동화가 살아 숨 쉬는 편집 숍, 세실 앤 세드릭]]></title>
         <id>https://www.elle.co.kr/article/81870</id>
@@ -86,11 +93,5 @@
         <link href="https://www.elle.co.kr/article/82064"/>
         <updated>2023-11-13T05:42:13.061Z</updated>
         <content type="html"><![CDATA[코페르니 런웨이에도 등장한 바로 그 기계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1960년대 연립주택에 사는 엘르 데코 스웨덴 에디터의 집]]></title>
-        <id>https://www.elle.co.kr/article/82037</id>
-        <link href="https://www.elle.co.kr/article/82037"/>
-        <updated>2023-11-11T17:41:31.047Z</updated>
     </entry>
 </feed>
