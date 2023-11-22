@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-22T05:40:54.035Z</updated>
+    <updated>2023-11-22T17:45:03.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타탄 체크의 두 얼굴]]></title>
+        <id>https://www.elle.co.kr/article/82112</id>
+        <link href="https://www.elle.co.kr/article/82112"/>
+        <updated>2023-11-22T17:39:26.583Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제주에서 만나는 샤넬의 팝업 부티크]]></title>
+        <id>https://www.elle.co.kr/article/82227</id>
+        <link href="https://www.elle.co.kr/article/82227"/>
+        <updated>2023-11-22T17:39:26.584Z</updated>
+        <content type="html"><![CDATA[이로써 제주에 가야할 이유가 또 하나 생겼습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밀라노 거리 한복판에서]]></title>
+        <id>https://www.elle.co.kr/article/82170</id>
+        <link href="https://www.elle.co.kr/article/82170"/>
+        <updated>2023-11-22T17:39:26.585Z</updated>
+        <content type="html"><![CDATA[잠에 취한 채.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옷 잘 입는 스타들이 픽한 겨울 아이템은? #스웨터 패션]]></title>
         <id>https://www.elle.co.kr/article/82217</id>
@@ -38,25 +58,5 @@
         <link href="https://www.elle.co.kr/article/82202"/>
         <updated>2023-11-19T17:39:12.403Z</updated>
         <content type="html"><![CDATA[I Believe in Peggie’s Rule Again.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아빠의 서랍 속에서 발견한 듯한 레트로 안경]]></title>
-        <id>https://www.elle.co.kr/article/82077</id>
-        <link href="https://www.elle.co.kr/article/82077"/>
-        <updated>2023-11-19T05:39:21.836Z</updated>
-        <content type="html"><![CDATA[이거 정말 반갑구만 반가워요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갑자기 분위기 겨울? 패딩 점퍼 준비해!]]></title>
-        <id>https://www.elle.co.kr/article/82146</id>
-        <link href="https://www.elle.co.kr/article/82146"/>
-        <updated>2023-11-18T17:39:26.627Z</updated>
-        <content type="html"><![CDATA[추워진 날씨에 ‘급’ 필요해진 패딩 재킷 패션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익숙한 듯 낯선 도심 속 일상과 이상의 경계]]></title>
-        <id>https://www.elle.co.kr/article/82108</id>
-        <link href="https://www.elle.co.kr/article/82108"/>
-        <updated>2023-11-18T05:39:23.715Z</updated>
     </entry>
 </feed>

@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-22T05:40:54.042Z</updated>
+    <updated>2023-11-22T17:45:03.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내 피부처럼 얇게, 가볍게, 고르게, 매끄럽게! 컨실러 위시리스트 7]]></title>
+        <id>https://www.elle.co.kr/article/82162</id>
+        <link href="https://www.elle.co.kr/article/82162"/>
+        <updated>2023-11-22T17:39:36.798Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박제니, 조효진, 진절미의 '찐' 파우치 아이템! <엘르>에만 공개합니다]]></title>
         <id>https://www.elle.co.kr/article/82116</id>
@@ -51,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/82058"/>
         <updated>2023-11-16T17:39:33.556Z</updated>
         <content type="html"><![CDATA[투명한 피부와 그윽한 눈매가 특징! 가을과 겨울에 참고하면 좋을 윤은혜의 메이크업.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 여자, 서울 뷰티]]></title>
-        <id>https://www.elle.co.kr/article/82023</id>
-        <link href="https://www.elle.co.kr/article/82023"/>
-        <updated>2023-11-15T17:39:32.529Z</updated>
-        <content type="html"><![CDATA[해외에서 어느 때보다 K뷰티 열기가 뜨거운 지금, &lt;엘르&gt;는 한국 뷰티의 중심 '서울(Seoul)' 안...]]></content>
     </entry>
 </feed>
