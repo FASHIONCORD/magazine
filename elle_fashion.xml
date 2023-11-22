@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-21T17:42:15.091Z</updated>
+    <updated>2023-11-22T05:40:54.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옷 잘 입는 스타들이 픽한 겨울 아이템은? #스웨터 패션]]></title>
+        <id>https://www.elle.co.kr/article/82217</id>
+        <link href="https://www.elle.co.kr/article/82217"/>
+        <updated>2023-11-22T05:39:31.287Z</updated>
+        <content type="html"><![CDATA[눈 내리는 계절엔 포근한 스웨터가 제격!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[관능으로 무장한 레이디 블랙]]></title>
         <id>https://www.elle.co.kr/article/82166</id>
@@ -51,12 +58,5 @@
         <id>https://www.elle.co.kr/article/82108</id>
         <link href="https://www.elle.co.kr/article/82108"/>
         <updated>2023-11-18T05:39:23.715Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 필수 아이템, 신발장 속 잠자고 있던 ‘어그’를 꺼내야 할 때!]]></title>
-        <id>https://www.elle.co.kr/article/82125</id>
-        <link href="https://www.elle.co.kr/article/82125"/>
-        <updated>2023-11-17T17:39:23.161Z</updated>
-        <content type="html"><![CDATA[급격하게 추워진 날씨에 투박한 어그 부츠를 꺼내 신은 스타들을 소개합니다. 유행을 넘어 겨울...]]></content>
     </entry>
 </feed>
