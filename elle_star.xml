@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-23T05:41:19.780Z</updated>
+    <updated>2023-11-23T17:41:07.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세 달 만에 15kg 빼고 사라진 턱선 드러난 강남 관리 비결 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/82343</id>
+        <link href="https://www.elle.co.kr/article/82343"/>
+        <updated>2023-11-23T17:39:44.961Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영국 드라마 아냐?! 영국 버킹엄 궁전 만찬 현장에 나타난 블랙핑크 완전체.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82339</id>
+        <link href="https://www.elle.co.kr/article/82339"/>
+        <updated>2023-11-23T17:39:44.962Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS RM-지민-뷔-정국 입대 절차 공식 시작 (feat. 뷔 인스타)]]></title>
+        <id>https://www.elle.co.kr/article/82338</id>
+        <link href="https://www.elle.co.kr/article/82338"/>
+        <updated>2023-11-23T17:39:44.963Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K팝 대세! 새로운 비주얼로 돌아온 앤팀의 첫 국내 화보]]></title>
         <id>https://www.elle.co.kr/article/82297</id>
@@ -36,24 +54,5 @@
         <id>https://www.elle.co.kr/article/82279</id>
         <link href="https://www.elle.co.kr/article/82279"/>
         <updated>2023-11-22T17:39:46.111Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 비주얼 종결. <마이 데몬> 김유정과 송강 엘르와 만나다]]></title>
-        <id>https://www.elle.co.kr/article/82253</id>
-        <link href="https://www.elle.co.kr/article/82253"/>
-        <updated>2023-11-22T05:39:47.254Z</updated>
-        <content type="html"><![CDATA[서로의 모든 것을 껴안기로 한 연인들, 김유정과 송강 엘르 12월호 촬영.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남궁민X안은진이 만든 눈물의 해피엔딩, '연인' 파트2 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/82251</id>
-        <link href="https://www.elle.co.kr/article/82251"/>
-        <updated>2023-11-21T17:40:56.980Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김연아 남편 고우림이 입대 직전 올린 사진]]></title>
-        <id>https://www.elle.co.kr/article/82250</id>
-        <link href="https://www.elle.co.kr/article/82250"/>
-        <updated>2023-11-21T17:40:56.983Z</updated>
     </entry>
 </feed>
