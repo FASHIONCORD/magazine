@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-11-22T17:45:03.397Z</updated>
+    <updated>2023-11-23T05:41:19.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동화가 살아 숨 쉬는 편집 숍, 세실 앤 세드릭]]></title>
+        <id>https://www.elle.co.kr/article/81870</id>
+        <link href="https://www.elle.co.kr/article/81870"/>
+        <updated>2023-11-23T05:39:58.893Z</updated>
+        <content type="html"><![CDATA[빈티지 컬렉터 세실, 가드닝과 캠핑을 좋아하는 세드릭. 상상 속 커플이 함께 숍을 차린 공간.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해방을 맞은 작가 김진향의 눈부신 순간]]></title>
+        <id>https://www.elle.co.kr/article/82252</id>
+        <link href="https://www.elle.co.kr/article/82252"/>
+        <updated>2023-11-23T05:39:58.895Z</updated>
+        <content type="html"><![CDATA[비로소 내면의 틀을 깨고 해방을 맞은 작가 김진향의 눈부신 순간.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[땅의 이야기를 품는, 네임리스건축]]></title>
         <id>https://www.elle.co.kr/article/82158</id>
@@ -45,18 +59,5 @@
         <link href="https://www.elle.co.kr/article/82209"/>
         <updated>2023-11-20T17:40:00.149Z</updated>
         <content type="html"><![CDATA[반클리프 아펠, 부쉐론, 프레드에 담긴 영롱한 서사.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상 밖으로 나온 우주선 인테리어]]></title>
-        <id>https://www.elle.co.kr/article/82155</id>
-        <link href="https://www.elle.co.kr/article/82155"/>
-        <updated>2023-11-20T17:40:00.150Z</updated>
-        <content type="html"><![CDATA[압도적인 풍경을 누릴, 무한한 가능성을 향해 떠나는 우주여행.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG는 29년 만의 기적, 김혜수는 30년 만의 작별? 11월 3주차 #이번주요약]]></title>
-        <id>https://www.elle.co.kr/article/82207</id>
-        <link href="https://www.elle.co.kr/article/82207"/>
-        <updated>2023-11-19T17:39:54.409Z</updated>
     </entry>
 </feed>

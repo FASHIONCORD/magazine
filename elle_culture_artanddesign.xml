@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-11-22T17:45:03.399Z</updated>
+    <updated>2023-11-23T05:41:19.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자유로운 취향으로 가득한 가게, 파인드 스터프]]></title>
+        <id>https://www.elle.co.kr/article/82161</id>
+        <link href="https://www.elle.co.kr/article/82161"/>
+        <updated>2023-11-23T05:41:00.382Z</updated>
+        <content type="html"><![CDATA[파인드 스터프는 이름 그대로 좋아하는 물건을 찾고 모으는 과정이자 결과다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['나 홀로 집에' 케빈의 집처럼 사랑스러운 미아 모텐슨의 덴마크 하우스 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/82310</id>
+        <link href="https://www.elle.co.kr/article/82310"/>
+        <updated>2023-11-23T05:41:00.385Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의 소중한 동물 친구들]]></title>
         <id>https://www.elle.co.kr/article/82142</id>
@@ -79,19 +92,5 @@
         <id>https://www.elle.co.kr/article/82095</id>
         <link href="https://www.elle.co.kr/article/82095"/>
         <updated>2023-11-14T05:40:27.288Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 나은 공공건축, 신아키텍츠]]></title>
-        <id>https://www.elle.co.kr/article/81898</id>
-        <link href="https://www.elle.co.kr/article/81898"/>
-        <updated>2023-11-13T17:40:59.294Z</updated>
-        <content type="html"><![CDATA[신아키텍츠가 꿈꾸는 공공건축의 힘과 미래.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옷에 붙이는 스마트폰이 등장했다?]]></title>
-        <id>https://www.elle.co.kr/article/82064</id>
-        <link href="https://www.elle.co.kr/article/82064"/>
-        <updated>2023-11-13T05:42:13.061Z</updated>
-        <content type="html"><![CDATA[코페르니 런웨이에도 등장한 바로 그 기계.]]></content>
     </entry>
 </feed>

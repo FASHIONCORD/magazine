@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-22T17:45:03.461Z</updated>
+    <updated>2023-11-23T05:41:19.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K팝 대세! 새로운 비주얼로 돌아온 앤팀의 첫 국내 화보]]></title>
+        <id>https://www.elle.co.kr/article/82297</id>
+        <link href="https://www.elle.co.kr/article/82297"/>
+        <updated>2023-11-23T05:39:39.006Z</updated>
+        <content type="html"><![CDATA[앤팀의 세 소년 의주, 케이, 조가 엘르와 처음으로 만났다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칸예 부부의 기이한 패션]]></title>
         <id>https://www.elle.co.kr/article/82228</id>
@@ -48,11 +55,5 @@
         <id>https://www.elle.co.kr/article/82250</id>
         <link href="https://www.elle.co.kr/article/82250"/>
         <updated>2023-11-21T17:40:56.983Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수종-하희라, 30년차 부부의 결혼기념일 맞이 럽스타그램.jpg]]></title>
-        <id>https://www.elle.co.kr/article/82242</id>
-        <link href="https://www.elle.co.kr/article/82242"/>
-        <updated>2023-11-21T17:40:56.985Z</updated>
     </entry>
 </feed>
