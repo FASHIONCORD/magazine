@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-11-24T05:41:02.574Z</updated>
+    <updated>2023-11-24T17:41:05.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나 홀로 집에' 케빈의 집처럼 사랑스러운 미아 모텐슨의 덴마크 하우스 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/82310</id>
+        <link href="https://www.elle.co.kr/article/82310"/>
+        <updated>2023-11-24T17:39:58.167Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의 소중한 동물 친구들]]></title>
         <id>https://www.elle.co.kr/article/82142</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/82251</id>
         <link href="https://www.elle.co.kr/article/82251"/>
         <updated>2023-11-21T17:41:05.969Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드]]></title>
-        <id>https://www.elle.co.kr/article/82219</id>
-        <link href="https://www.elle.co.kr/article/82219"/>
-        <updated>2023-11-21T17:41:05.971Z</updated>
-        <content type="html"><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content>
     </entry>
 </feed>

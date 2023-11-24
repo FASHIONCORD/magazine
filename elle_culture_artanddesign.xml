@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-11-24T05:41:02.584Z</updated>
+    <updated>2023-11-24T17:41:05.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비누, 오브제가 되다]]></title>
+        <id>https://www.elle.co.kr/article/82390</id>
+        <link href="https://www.elle.co.kr/article/82390"/>
+        <updated>2023-11-24T17:40:29.580Z</updated>
+        <content type="html"><![CDATA['세정'이라는 본래의 용도를 차지하고 새로운 시선으로 응시한 비누.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[작품 못지 않네! 판타스틱 전시장 디자인]]></title>
         <id>https://www.elle.co.kr/article/82369</id>
@@ -86,12 +93,5 @@
         <id>https://www.elle.co.kr/article/82171</id>
         <link href="https://www.elle.co.kr/article/82171"/>
         <updated>2023-11-16T17:40:18.162Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웨스 앤더슨 영화 속 컬러 팔레트]]></title>
-        <id>https://www.elle.co.kr/article/82094</id>
-        <link href="https://www.elle.co.kr/article/82094"/>
-        <updated>2023-11-14T17:40:26.121Z</updated>
-        <content type="html"><![CDATA[비주얼의 정점. 웨스 앤더슨 영화 속 다채로운 컬러와 리듬.]]></content>
     </entry>
 </feed>
