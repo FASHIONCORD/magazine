@@ -1,61 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/loveandlife</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-11-23T17:41:07.880Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드]]></title>
-        <id>https://www.elle.co.kr/article/82219</id>
-        <link href="https://www.elle.co.kr/article/82219"/>
-        <updated>2023-11-23T05:41:09.076Z</updated>
-        <content type="html"><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말을 빛낼 하이주얼리 전시 3]]></title>
-        <id>https://www.elle.co.kr/article/82209</id>
-        <link href="https://www.elle.co.kr/article/82209"/>
-        <updated>2023-11-21T17:41:38.974Z</updated>
-        <content type="html"><![CDATA[반클리프 아펠, 부쉐론, 프레드에 담긴 영롱한 서사.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 수능 끝! 수험 스트레스 날리고 힐링하기 딱인 전국 불빛축제 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/82198</id>
-        <link href="https://www.elle.co.kr/article/82198"/>
-        <updated>2023-11-21T17:41:38.975Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찬 바람 불면 더욱 생각나는! 달콤한 팬케이크 한 판 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/82195</id>
-        <link href="https://www.elle.co.kr/article/82195"/>
-        <updated>2023-11-21T05:40:17.194Z</updated>
-        <content type="html"><![CDATA[노란 버터 한 조각만 올려 담백하게 즐기거나 상큼한 과일과 시럽을 듬뿍 올려 푸짐하게 즐기거...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀러브리티가 찾은 맛집은? 분위기 있는 저녁을 위한 공간 3]]></title>
-        <id>https://www.elle.co.kr/article/82179</id>
-        <link href="https://www.elle.co.kr/article/82179"/>
-        <updated>2023-11-20T05:40:31.120Z</updated>
-        <content type="html"><![CDATA[오붓한 시간을 보내기에 좋은 우드파이어 다이닝부터 고풍스러운 중식당, 캐주얼한 영국식 펍까지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두바이에서 홈쿡 계정을 운영하며 '채소 식탁'을 펴낸 테이블민의 집 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/82171</id>
-        <link href="https://www.elle.co.kr/article/82171"/>
-        <updated>2023-11-19T17:40:40.382Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낮에는 커피와 디저트, 밤에는 위스키를 즐길 수 있는 두 곳]]></title>
-        <id>https://www.elle.co.kr/article/82074</id>
-        <link href="https://www.elle.co.kr/article/82074"/>
-        <updated>2023-11-18T05:40:57.601Z</updated>
-        <content type="html"><![CDATA[파츄코 파라다이스 &amp; 약수터.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 수능 끝나고 놀이동산 고? 놓치면 아쉬운 '수험생 할인 혜택' 총정리 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/82122</id>
-        <link href="https://www.elle.co.kr/article/82122"/>
-        <updated>2023-11-17T17:40:28.999Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 24 Nov 2023 05:41:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주에서 만나는 샤넬의 팝업 부티크]]></title>
+            <link>https://www.elle.co.kr/article/82227</link>
+            <guid>https://www.elle.co.kr/article/82227</guid>
+            <pubDate>Fri, 24 Nov 2023 05:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[이로써 제주에 가야할 이유가 또 하나 생겼습니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드]]></title>
+            <link>https://www.elle.co.kr/article/82219</link>
+            <guid>https://www.elle.co.kr/article/82219</guid>
+            <pubDate>Thu, 23 Nov 2023 05:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연말을 빛낼 하이주얼리 전시 3]]></title>
+            <link>https://www.elle.co.kr/article/82209</link>
+            <guid>https://www.elle.co.kr/article/82209</guid>
+            <pubDate>Tue, 21 Nov 2023 17:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[반클리프 아펠, 부쉐론, 프레드에 담긴 영롱한 서사.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2024 수능 끝! 수험 스트레스 날리고 힐링하기 딱인 전국 불빛축제 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/82198</link>
+            <guid>https://www.elle.co.kr/article/82198</guid>
+            <pubDate>Tue, 21 Nov 2023 17:41:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[찬 바람 불면 더욱 생각나는! 달콤한 팬케이크 한 판 #도쿄핫플]]></title>
+            <link>https://www.elle.co.kr/article/82195</link>
+            <guid>https://www.elle.co.kr/article/82195</guid>
+            <pubDate>Tue, 21 Nov 2023 05:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[노란 버터 한 조각만 올려 담백하게 즐기거나 상큼한 과일과 시럽을 듬뿍 올려 푸짐하게 즐기거...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/51e60a7c-7c51-4f11-baed-49e224f335af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셀러브리티가 찾은 맛집은? 분위기 있는 저녁을 위한 공간 3]]></title>
+            <link>https://www.elle.co.kr/article/82179</link>
+            <guid>https://www.elle.co.kr/article/82179</guid>
+            <pubDate>Mon, 20 Nov 2023 05:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[오붓한 시간을 보내기에 좋은 우드파이어 다이닝부터 고풍스러운 중식당, 캐주얼한 영국식 펍까지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/9f98e724-8bdf-4b70-bc8c-580cf2417fdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두바이에서 홈쿡 계정을 운영하며 '채소 식탁'을 펴낸 테이블민의 집 #홈터뷰]]></title>
+            <link>https://www.elle.co.kr/article/82171</link>
+            <guid>https://www.elle.co.kr/article/82171</guid>
+            <pubDate>Sun, 19 Nov 2023 17:40:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/16/b331da02-82ae-4753-9a97-9e3b98109c94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낮에는 커피와 디저트, 밤에는 위스키를 즐길 수 있는 두 곳]]></title>
+            <link>https://www.elle.co.kr/article/82074</link>
+            <guid>https://www.elle.co.kr/article/82074</guid>
+            <pubDate>Sat, 18 Nov 2023 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[파츄코 파라다이스 &amp; 약수터.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/15/d38c1dd3-91d1-4a8b-96cd-25ad050d3b2b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

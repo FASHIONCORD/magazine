@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-11-23T17:41:07.870Z</updated>
+    <updated>2023-11-24T05:41:02.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[59억 걸린 현실판 '오겜'부터 푸바오와의 작별 인사까지, 11월 4주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/82378</id>
+        <link href="https://www.elle.co.kr/article/82378"/>
+        <updated>2023-11-24T05:40:08.211Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[술 못 끊는 사람 주목! 오은영의 금주 서바이벌 '알콜지옥' 내용.txt]]></title>
         <id>https://www.elle.co.kr/article/82374</id>
@@ -76,11 +82,5 @@
         <id>https://www.elle.co.kr/article/81913</id>
         <link href="https://www.elle.co.kr/article/81913"/>
         <updated>2023-11-05T17:40:04.296Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진짜로 시작된 넷플릭스 공유비의 시대, 공유 금지 조건 총정리.txt]]></title>
-        <id>https://www.elle.co.kr/article/81904</id>
-        <link href="https://www.elle.co.kr/article/81904"/>
-        <updated>2023-11-03T17:40:51.763Z</updated>
     </entry>
 </feed>
