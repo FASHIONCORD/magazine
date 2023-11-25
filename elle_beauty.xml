@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-25T05:41:07.120Z</updated>
+    <updated>2023-11-25T17:41:35.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[집에서도 피부 관리 받은 것처럼! 앰풀 200% 활용법_선배’s 어드바이스 #195]]></title>
+        <id>https://www.elle.co.kr/article/82247</id>
+        <link href="https://www.elle.co.kr/article/82247"/>
+        <updated>2023-11-25T17:39:16.150Z</updated>
+        <content type="html"><![CDATA[시간과 비용은 DOWN, 효과는 UP!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SNS에서 본 그 메이크업! 김나영이 공개한 데일리 메이크업 튜토리얼]]></title>
         <id>https://www.elle.co.kr/article/82220</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/82096"/>
         <updated>2023-11-18T17:39:34.659Z</updated>
         <content type="html"><![CDATA[뷰티 팝업의 성지로 떠오른 성수부터 젠지(Gen-Z)들의 아지트 홍대, 감성 넘치는 K뷰티 브랜드의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가성비 끝판왕! 1만 원대 고기능성 모이스처라이저.zip_선배’s 어드바이스 #194]]></title>
-        <id>https://www.elle.co.kr/article/82093</id>
-        <link href="https://www.elle.co.kr/article/82093"/>
-        <updated>2023-11-17T17:39:33.450Z</updated>
-        <content type="html"><![CDATA[머리부터 발끝까지, 가격과 효과 둘 다 잡은 제품만 모았다!]]></content>
     </entry>
 </feed>

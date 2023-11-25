@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-25T05:41:07.106Z</updated>
+    <updated>2023-11-25T17:41:35.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[05:00PM 해질 무렵 시작된 이청아의 시간]]></title>
+        <id>https://www.elle.co.kr/article/82316</id>
+        <link href="https://www.elle.co.kr/article/82316"/>
+        <updated>2023-11-25T17:39:56.930Z</updated>
+        <content type="html"><![CDATA[낮과 밤, 블랙과 화이트의 간극에서 게임이 시작된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세 달 만에 15kg 빼고 사라진 턱선 드러난 강남 관리 비결 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/82343</id>
@@ -48,11 +55,5 @@
         <id>https://www.elle.co.kr/article/82280</id>
         <link href="https://www.elle.co.kr/article/82280"/>
         <updated>2023-11-22T17:39:46.109Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 이상 증명이 필요 없는 레전드, T1의 중심 페이커의 대기록.txt]]></title>
-        <id>https://www.elle.co.kr/article/82279</id>
-        <link href="https://www.elle.co.kr/article/82279"/>
-        <updated>2023-11-22T17:39:46.111Z</updated>
     </entry>
 </feed>
