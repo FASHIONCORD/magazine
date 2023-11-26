@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-26T05:41:09.924Z</updated>
+    <updated>2023-11-26T17:40:48.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박스 백을 열어봐]]></title>
+        <id>https://www.elle.co.kr/article/82380</id>
+        <link href="https://www.elle.co.kr/article/82380"/>
+        <updated>2023-11-26T17:39:16.721Z</updated>
+        <content type="html"><![CDATA[견고하고 입체적인 네모의 세상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤아더스토리즈의 스톡홀름 아틀리에를 제집처럼 드나든 사연]]></title>
+        <id>https://www.elle.co.kr/article/82347</id>
+        <link href="https://www.elle.co.kr/article/82347"/>
+        <updated>2023-11-26T17:39:16.723Z</updated>
+        <content type="html"><![CDATA[여성의 스토리를 근간으로 둔 브랜드 앤아더스토리즈가 10주년을 맞았다. 그가 전하고자 하는 이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수영부터 금새록, 고민시까지! 스타들의 각양각색 코트 패션 6]]></title>
         <id>https://www.elle.co.kr/article/82346</id>
@@ -46,18 +60,5 @@
         <link href="https://www.elle.co.kr/article/82294"/>
         <updated>2023-11-23T05:39:18.878Z</updated>
         <content type="html"><![CDATA[따사로운 햇살이 스며드는 아침, 커피 한잔과 함께 시작하는 하루.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타탄 체크의 두 얼굴]]></title>
-        <id>https://www.elle.co.kr/article/82112</id>
-        <link href="https://www.elle.co.kr/article/82112"/>
-        <updated>2023-11-22T17:39:26.583Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주에서 만나는 샤넬의 팝업 부티크]]></title>
-        <id>https://www.elle.co.kr/article/82227</id>
-        <link href="https://www.elle.co.kr/article/82227"/>
-        <updated>2023-11-22T17:39:26.584Z</updated>
-        <content type="html"><![CDATA[이로써 제주에 가야할 이유가 또 하나 생겼습니다.]]></content>
     </entry>
 </feed>

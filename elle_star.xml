@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-26T05:41:09.931Z</updated>
+    <updated>2023-11-26T17:40:48.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['무인도의 디바' 김효진이 출산 후 4개월 만에 18kg 감량한 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/82373</id>
+        <link href="https://www.elle.co.kr/article/82373"/>
+        <updated>2023-11-26T17:39:32.318Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송혜교가 직접 공개한 절친들과의 42번째 생일파티 (ft.김혜수X송윤아 선물)]]></title>
+        <id>https://www.elle.co.kr/article/82372</id>
+        <link href="https://www.elle.co.kr/article/82372"/>
+        <updated>2023-11-26T17:39:32.320Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시공간을 뛰어넘은 이세영과 배인혁]]></title>
         <id>https://www.elle.co.kr/article/82342</id>
@@ -43,18 +55,5 @@
         <link href="https://www.elle.co.kr/article/82297"/>
         <updated>2023-11-23T05:39:39.006Z</updated>
         <content type="html"><![CDATA[앤팀의 세 소년 의주, 케이, 조가 엘르와 처음으로 만났다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸예 부부의 기이한 패션]]></title>
-        <id>https://www.elle.co.kr/article/82228</id>
-        <link href="https://www.elle.co.kr/article/82228"/>
-        <updated>2023-11-22T17:39:46.106Z</updated>
-        <content type="html"><![CDATA[안드로메다로 향하는 건 아닐지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피겨 스타 하뉴 유즈루, 결혼 3개월 만의 이혼 결정이 씁쓸한 이유]]></title>
-        <id>https://www.elle.co.kr/article/82289</id>
-        <link href="https://www.elle.co.kr/article/82289"/>
-        <updated>2023-11-22T17:39:46.107Z</updated>
     </entry>
 </feed>

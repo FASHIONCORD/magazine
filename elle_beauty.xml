@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-26T05:41:09.901Z</updated>
+    <updated>2023-11-26T17:40:48.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 여자의 립스틱]]></title>
+        <id>https://www.elle.co.kr/article/82100</id>
+        <link href="https://www.elle.co.kr/article/82100"/>
+        <updated>2023-11-26T17:39:24.752Z</updated>
+        <content type="html"><![CDATA[서울 여자의 일상 속 언제나 함께하는 3CE 블러 매트 립스틱.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[집에서도 피부 관리 받은 것처럼! 앰풀 200% 활용법_선배’s 어드바이스 #195]]></title>
         <id>https://www.elle.co.kr/article/82247</id>
@@ -49,12 +56,5 @@
         <id>https://www.elle.co.kr/article/82144</id>
         <link href="https://www.elle.co.kr/article/82144"/>
         <updated>2023-11-20T05:39:39.653Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K뷰티 핫플에서 찾은 대세 오브 대세 메이크업 4]]></title>
-        <id>https://www.elle.co.kr/article/82096</id>
-        <link href="https://www.elle.co.kr/article/82096"/>
-        <updated>2023-11-18T17:39:34.659Z</updated>
-        <content type="html"><![CDATA[뷰티 팝업의 성지로 떠오른 성수부터 젠지(Gen-Z)들의 아지트 홍대, 감성 넘치는 K뷰티 브랜드의...]]></content>
     </entry>
 </feed>
