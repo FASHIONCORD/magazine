@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-11-25T17:41:35.469Z</updated>
+    <updated>2023-11-26T05:41:09.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수영부터 금새록, 고민시까지! 스타들의 각양각색 코트 패션 6]]></title>
+        <id>https://www.elle.co.kr/article/82346</id>
+        <link href="https://www.elle.co.kr/article/82346"/>
+        <updated>2023-11-26T05:39:23.057Z</updated>
+        <content type="html"><![CDATA[겨울은 코트의 계절. 클래식하고 차분한 매력의 코트를 꺼내 입을 타이밍입니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[05:00PM 해질 무렵 시작된 이청아의 시간]]></title>
         <id>https://www.elle.co.kr/article/82316</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/82227"/>
         <updated>2023-11-22T17:39:26.584Z</updated>
         <content type="html"><![CDATA[이로써 제주에 가야할 이유가 또 하나 생겼습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀라노 거리 한복판에서]]></title>
-        <id>https://www.elle.co.kr/article/82170</id>
-        <link href="https://www.elle.co.kr/article/82170"/>
-        <updated>2023-11-22T17:39:26.585Z</updated>
-        <content type="html"><![CDATA[잠에 취한 채.]]></content>
     </entry>
 </feed>

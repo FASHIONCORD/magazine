@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-11-25T17:41:35.468Z</updated>
+    <updated>2023-11-26T05:41:09.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화려하고 평화로운 흔적이 남아 있는 도시, 만토바 #여행예술]]></title>
+        <id>https://www.elle.co.kr/article/82239</id>
+        <link href="https://www.elle.co.kr/article/82239"/>
+        <updated>2023-11-26T05:41:01.627Z</updated>
+        <content type="html"><![CDATA[롬바르디아 주의 만토바는 16세기 곤차가 가문이 다스리던 만토바 공국의 화려하고 평화롭던 흔적...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감귤 체험은 기본, 반려견 데리고 레이싱까지?! 제주 이색 축제 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/82281</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/82195"/>
         <updated>2023-11-21T05:40:17.194Z</updated>
         <content type="html"><![CDATA[노란 버터 한 조각만 올려 담백하게 즐기거나 상큼한 과일과 시럽을 듬뿍 올려 푸짐하게 즐기거...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀러브리티가 찾은 맛집은? 분위기 있는 저녁을 위한 공간 3]]></title>
-        <id>https://www.elle.co.kr/article/82179</id>
-        <link href="https://www.elle.co.kr/article/82179"/>
-        <updated>2023-11-20T05:40:31.120Z</updated>
-        <content type="html"><![CDATA[오붓한 시간을 보내기에 좋은 우드파이어 다이닝부터 고풍스러운 중식당, 캐주얼한 영국식 펍까지...]]></content>
     </entry>
 </feed>
