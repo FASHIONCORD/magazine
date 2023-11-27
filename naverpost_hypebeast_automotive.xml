@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 05:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 17:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국에서 운전을 가장 못하는 연령대는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36949959&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36949959&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfNDgg/MDAxNzAxMDc2MzU0ODA3.no6Be8dtx4harj2zzRB8T8YGz_2oV72fX7C5YzXKsB8g.53j5m3ip5KmvrXc-TMuzW8shQWjvhjWQGzwLy1Wcy2og.JPEG/IJi4g6f59ImNboJcC5D25_oS9fmo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메르세데스-벤츠, 영화 ‘아바타’ 콘셉트 카 이미지 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36705258&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Jun 2022 17:47:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjBfMjYx/MDAxNjU1NzEwODE1OTIy.XOQJ3QIWn33nAZ6-ItLrZ1aFWhlDLOLw7aMPP6s1DuEg.KsSdmy2e8cV4CF5ZTDR9MmVLYVKQ0kqexEQLn9WY1WMg.JPEG/IhYGHN-enYQu8WOerDI2-F2OFKbs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Open Road: 페라리 로마]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33934659&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33934659&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 09 Jun 2022 17:43:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDlfMTY1/MDAxNjU0NzYzNzUzMjY4.VqPamoEJtq2CjP92lS7pRLJeZ1jFINViON3JBai4qfYg.dvAdfEfeXWJByYD4596NNx9uUdairGUCPCA4yevgwwAg.JPEG/IBso4uwadPuKc1JIPaLb1x49fkck.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

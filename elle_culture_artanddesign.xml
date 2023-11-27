@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-11-27T05:41:27.778Z</updated>
+    <updated>2023-11-27T17:40:44.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘르 데코의 거실로 놀러와!]]></title>
+        <id>https://www.elle.co.kr/article/82457</id>
+        <link href="https://www.elle.co.kr/article/82457"/>
+        <updated>2023-11-27T17:40:24.417Z</updated>
+        <content type="html"><![CDATA[이상하고도 아름다운 리빙룸으로의 초대.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백남준은 현재진행형이다]]></title>
         <id>https://www.elle.co.kr/article/82411</id>
@@ -87,12 +94,5 @@
         <link href="https://www.elle.co.kr/article/82155"/>
         <updated>2023-11-17T17:40:20.497Z</updated>
         <content type="html"><![CDATA[압도적인 풍경을 누릴, 무한한 가능성을 향해 떠나는 우주여행.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지엄으로 재탄생한 칼 엘드의 아틀리에 #조각뮤지엄]]></title>
-        <id>https://www.elle.co.kr/article/82097</id>
-        <link href="https://www.elle.co.kr/article/82097"/>
-        <updated>2023-11-16T17:40:18.161Z</updated>
-        <content type="html"><![CDATA[칼 엘드의 취향과 작업으로 가득한 아틀리에가 1963년부터 대중에게 개방됐다.]]></content>
     </entry>
 </feed>

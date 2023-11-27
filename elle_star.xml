@@ -2,9 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-27T05:41:27.774Z</updated>
+    <updated>2023-11-27T17:40:44.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[치즈 덕후가 바르셀로나에서 천국을 발견한 사연은? 작가 김민철의 #취향일지도]]></title>
+        <id>https://www.elle.co.kr/article/82439</id>
+        <link href="https://www.elle.co.kr/article/82439"/>
+        <updated>2023-11-27T17:39:43.005Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나도 도전해 볼까? 단발병 유발하는 셀러브리티 5]]></title>
+        <id>https://www.elle.co.kr/article/82427</id>
+        <link href="https://www.elle.co.kr/article/82427"/>
+        <updated>2023-11-27T17:39:43.005Z</updated>
+        <content type="html"><![CDATA[아이브 안유진부터 (여자)아이들 우기, 윤은혜 등 단발머리 뽐뿌 제대로 불러일으키는 스타들의 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[03:00PM 박지현의 나른한 휴일 오후]]></title>
+        <id>https://www.elle.co.kr/article/82349</id>
+        <link href="https://www.elle.co.kr/article/82349"/>
+        <updated>2023-11-27T17:39:43.008Z</updated>
+        <content type="html"><![CDATA[턴테이블에서 흘러나오는 음악이 나만의 시간을 가득 메운다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오랜만에 호캉스 근황 전한 한예슬 비주얼.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82423</id>
+        <link href="https://www.elle.co.kr/article/82423"/>
+        <updated>2023-11-27T17:39:43.012Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돌아온 장박의 계절, 김숙의 텐트로 놀러 오세요!]]></title>
+        <id>https://www.elle.co.kr/article/82420</id>
+        <link href="https://www.elle.co.kr/article/82420"/>
+        <updated>2023-11-27T17:39:43.014Z</updated>
+        <content type="html"><![CDATA[텐트 안에 거실과 침실이? 없는 게 없는 프로 캠퍼 김숙의 새로운 겨울 보금자리를 공개합니다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일주일만에 사라진 뱃살!? 이나연의 다이어트 Tip]]></title>
         <id>https://www.elle.co.kr/article/82418</id>
@@ -23,37 +56,5 @@
         <id>https://www.elle.co.kr/article/82373</id>
         <link href="https://www.elle.co.kr/article/82373"/>
         <updated>2023-11-26T17:39:32.318Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송혜교가 직접 공개한 절친들과의 42번째 생일파티 (ft.김혜수X송윤아 선물)]]></title>
-        <id>https://www.elle.co.kr/article/82372</id>
-        <link href="https://www.elle.co.kr/article/82372"/>
-        <updated>2023-11-26T17:39:32.320Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시공간을 뛰어넘은 이세영과 배인혁]]></title>
-        <id>https://www.elle.co.kr/article/82342</id>
-        <link href="https://www.elle.co.kr/article/82342"/>
-        <updated>2023-11-26T05:40:12.335Z</updated>
-        <content type="html"><![CDATA[&lt;열녀박씨 계약결혼뎐&gt;으로 마주한 두 사람.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[05:00PM 해질 무렵 시작된 이청아의 시간]]></title>
-        <id>https://www.elle.co.kr/article/82316</id>
-        <link href="https://www.elle.co.kr/article/82316"/>
-        <updated>2023-11-25T17:39:56.930Z</updated>
-        <content type="html"><![CDATA[낮과 밤, 블랙과 화이트의 간극에서 게임이 시작된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세 달 만에 15kg 빼고 사라진 턱선 드러난 강남 관리 비결 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/82343</id>
-        <link href="https://www.elle.co.kr/article/82343"/>
-        <updated>2023-11-23T17:39:44.961Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 드라마 아냐?! 영국 버킹엄 궁전 만찬 현장에 나타난 블랙핑크 완전체.jpg]]></title>
-        <id>https://www.elle.co.kr/article/82339</id>
-        <link href="https://www.elle.co.kr/article/82339"/>
-        <updated>2023-11-23T17:39:44.962Z</updated>
     </entry>
 </feed>

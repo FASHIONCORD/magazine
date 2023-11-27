@@ -4,16 +4,24 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 05:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 17:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘듄: 파트 2’, 국내 개봉 시기 확정]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36949979&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36949979&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 27 Nov 2023 17:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfMTY5/MDAxNzAxMDc2NTk2OTY4.r6Ao1dkdfpGBU1hTmEHKZct9WWY0KjP6zE-y_ngZ6Zgg.g6QYiKksmaJXK-1LHX9GeQx94HXmpX8PZXPkszgtcnEg.JPEG/IrZbvYcUKY7TrEr7VfjpnhtZMEgg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘오징어 게임: 더 챌린지’ 참가자들이 제작진을 고소했다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36937262&amp;memberNo=37600247&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36937262&amp;memberNo=37600247&amp;navigationType=push</guid>
             <pubDate>Fri, 24 Nov 2023 17:38:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTZfMjU3/MDAxNjA4MDg5NDc5NTI3.3L8PNHRhIKZv8SUl-WQd0fFUJc39Zu5McVIuQzOY2Ysg.wUeapgHt5W3PqtPkitS2GBLLBa1XYmxukzRQiXWrOgog.JPEG/post_9121271427993247926.jpg?type=f40_40" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfMTE3/MDAxNzAxMDc4NjY1ODA3.85KEvOWYbMYFPuaSQO6EFMLeqJxVPPQr5EnJHdw31gQg.lAjdqVcaEf8YA9pY3vOeIYCno0JVFjTldPtivFOvKUAg.JPEG/IAYv4IS6sLQn_CnydACQp2cHU9xg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이비드 핀처가 ‘파이트 클럽’을 다시 보고 싶지 않은 이유는?]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 07 Dec 2022 17:42:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDZfMTc1/MDAxNjcwMzE1MjMwODkz.wB3m1VrXCXlyu7XW-XzxxH14rUcb-mGAfEaNFZ_fzY0g.gVqa9HNIx8w6q-Pi75PQzTb-tIaKL0G6wD1wa4LrN0cg.JPEG/IakjfSmd8YX7wT9hZkfxO0xpdIDs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MCU 역대 쿠키 영상 49개 중 '최고의 쿠키' 순위는?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34532791&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34532791&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 27 Sep 2022 18:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjZfMTk1/MDAxNjY0MTgzODY0NTY1.8TKXx3OfpBQSyPxp4esdRczAWV33nQt_6tLVDRM2Z2Ag.XEpHtfhGktFH3_dJqhuxwQcBm32fyqsNLutr6Wke55Qg.JPEG/Iq4zzSfPzLFxULV0k2-77pO0AmAs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
