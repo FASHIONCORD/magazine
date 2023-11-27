@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-11-26T17:40:48.794Z</updated>
+    <updated>2023-11-27T05:41:27.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인간의 삶에 스며든 반려 로봇 '효순이']]></title>
+        <id>https://www.elle.co.kr/article/82089</id>
+        <link href="https://www.elle.co.kr/article/82089"/>
+        <updated>2023-11-27T05:41:26.961Z</updated>
+        <content type="html"><![CDATA[말벗이 돼주고 일과를 챙기는 반려 로봇 '효순이'가 인간의 삶에 스며든 장면.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엘르보이스] 틀림없는 내 편 만들기]]></title>
         <id>https://www.elle.co.kr/article/81880</id>
@@ -50,12 +57,5 @@
         <id>https://www.elle.co.kr/article/81988</id>
         <link href="https://www.elle.co.kr/article/81988"/>
         <updated>2023-11-13T05:42:35.213Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 잘하고 계신 것 같은데요!]]></title>
-        <id>https://www.elle.co.kr/article/81878</id>
-        <link href="https://www.elle.co.kr/article/81878"/>
-        <updated>2023-11-10T17:40:23.712Z</updated>
-        <content type="html"><![CDATA[황효진 작가가 뜻밖에도 초등학생의 말에 위안을 얻은 이유]]></content>
     </entry>
 </feed>

@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-26T17:40:48.796Z</updated>
+    <updated>2023-11-27T05:41:27.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세 달 만에 15kg 빼고 사라진 턱선 드러난 강남 관리 비결 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/82343</id>
+        <link href="https://www.elle.co.kr/article/82343"/>
+        <updated>2023-11-27T05:39:47.518Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 여자의 립스틱]]></title>
         <id>https://www.elle.co.kr/article/82100</id>
@@ -50,11 +56,5 @@
         <id>https://www.elle.co.kr/article/82169</id>
         <link href="https://www.elle.co.kr/article/82169"/>
         <updated>2023-11-20T17:39:42.419Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[효린의 넘치는 체력과 탄탄한 체형 유지 비결 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/82144</id>
-        <link href="https://www.elle.co.kr/article/82144"/>
-        <updated>2023-11-20T05:39:39.653Z</updated>
     </entry>
 </feed>
