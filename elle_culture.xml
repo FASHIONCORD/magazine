@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-11-28T05:40:52.014Z</updated>
+    <updated>2023-11-28T17:40:54.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가장 영화다운 이별, 김혜수의 마지막 청룡영화상 이야기 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/82453</id>
+        <link href="https://www.elle.co.kr/article/82453"/>
+        <updated>2023-11-28T17:40:17.063Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dear my blue]]></title>
         <id>https://www.elle.co.kr/article/82435</id>
@@ -51,12 +57,5 @@
         <id>https://www.elle.co.kr/article/82374</id>
         <link href="https://www.elle.co.kr/article/82374"/>
         <updated>2023-11-26T17:39:55.601Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자유로운 취향으로 가득한 가게, 파인드 스터프]]></title>
-        <id>https://www.elle.co.kr/article/82161</id>
-        <link href="https://www.elle.co.kr/article/82161"/>
-        <updated>2023-11-26T17:39:55.604Z</updated>
-        <content type="html"><![CDATA[파인드 스터프는 이름 그대로 좋아하는 물건을 찾고 모으는 과정이자 결과다.]]></content>
     </entry>
 </feed>
