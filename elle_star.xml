@@ -1,67 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 17:40:54 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[죽음 앞에 조우한 서인국과 박소담]]></title>
-            <link>https://www.elle.co.kr/article/82451</link>
-            <guid>https://www.elle.co.kr/article/82451</guid>
-            <pubDate>Tue, 28 Nov 2023 17:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;이재, 곧 죽습니다&gt;로 만난 서인국과 박소담, 그리고 엘르 12월호.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이영애가 직접 전한 초등학생 딸 진학 근황]]></title>
-            <link>https://www.elle.co.kr/article/82456</link>
-            <guid>https://www.elle.co.kr/article/82456</guid>
-            <pubDate>Tue, 28 Nov 2023 17:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[혹시... 다음 시즌 있나요? 자체 최고 시청률로 종영한 '강남순' 명장면 총정리 #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/82455</link>
-            <guid>https://www.elle.co.kr/article/82455</guid>
-            <pubDate>Tue, 28 Nov 2023 17:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[평단X대중 호평 다 잡고 단숨에 200만 관객 찍은'서울의 봄' 특별출연 스틸컷.jpg]]></title>
-            <link>https://www.elle.co.kr/article/82454</link>
-            <guid>https://www.elle.co.kr/article/82454</guid>
-            <pubDate>Tue, 28 Nov 2023 17:40:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/70fed922-2db9-4fe0-b74c-cec174cf1bd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 영화다운 이별, 김혜수의 마지막 청룡영화상 이야기 모음.zip]]></title>
-            <link>https://www.elle.co.kr/article/82453</link>
-            <guid>https://www.elle.co.kr/article/82453</guid>
-            <pubDate>Tue, 28 Nov 2023 05:39:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/a36506aa-d05d-4ce9-808d-3df8548f36b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마치 음악처럼, <엘르> 카메라 앞에 선 이영애의 시간]]></title>
-            <link>https://www.elle.co.kr/article/82443</link>
-            <guid>https://www.elle.co.kr/article/82443</guid>
-            <pubDate>Tue, 28 Nov 2023 05:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[이영애는 본격적으로 삶을 지휘하기로 결심했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/b6890636-aacc-46f4-84bd-380aa3636db6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치즈 덕후가 바르셀로나에서 천국을 발견한 사연은? 작가 김민철의 #취향일지도]]></title>
-            <link>https://www.elle.co.kr/article/82439</link>
-            <guid>https://www.elle.co.kr/article/82439</guid>
-            <pubDate>Mon, 27 Nov 2023 17:39:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/29ffa5f8-1751-488f-96c4-79c08d1d64f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나도 도전해 볼까? 단발병 유발하는 셀러브리티 5]]></title>
-            <link>https://www.elle.co.kr/article/82427</link>
-            <guid>https://www.elle.co.kr/article/82427</guid>
-            <pubDate>Mon, 27 Nov 2023 17:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[아이브 안유진부터 (여자)아이들 우기, 윤은혜 등 단발머리 뽐뿌 제대로 불러일으키는 스타들의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/4cb5e542-8711-4788-9076-fb799b0daae9.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2023-11-29T05:40:29.966Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아무도 모른 10시간 개복 수술, 남우현이 기스트암 투병을 지금 알린 까닭]]></title>
+        <id>https://www.elle.co.kr/article/82480</id>
+        <link href="https://www.elle.co.kr/article/82480"/>
+        <updated>2023-11-29T05:39:40.461Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[죽음 앞에 조우한 서인국과 박소담]]></title>
+        <id>https://www.elle.co.kr/article/82451</id>
+        <link href="https://www.elle.co.kr/article/82451"/>
+        <updated>2023-11-28T17:40:09.333Z</updated>
+        <content type="html"><![CDATA[&lt;이재, 곧 죽습니다&gt;로 만난 서인국과 박소담, 그리고 엘르 12월호.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이영애가 직접 전한 초등학생 딸 진학 근황]]></title>
+        <id>https://www.elle.co.kr/article/82456</id>
+        <link href="https://www.elle.co.kr/article/82456"/>
+        <updated>2023-11-28T17:40:09.334Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혹시... 다음 시즌 있나요? 자체 최고 시청률로 종영한 '강남순' 명장면 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/82455</id>
+        <link href="https://www.elle.co.kr/article/82455"/>
+        <updated>2023-11-28T17:40:09.336Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평단X대중 호평 다 잡고 단숨에 200만 관객 찍은'서울의 봄' 특별출연 스틸컷.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82454</id>
+        <link href="https://www.elle.co.kr/article/82454"/>
+        <updated>2023-11-28T17:40:09.338Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 영화다운 이별, 김혜수의 마지막 청룡영화상 이야기 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/82453</id>
+        <link href="https://www.elle.co.kr/article/82453"/>
+        <updated>2023-11-28T05:39:50.496Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마치 음악처럼, <엘르> 카메라 앞에 선 이영애의 시간]]></title>
+        <id>https://www.elle.co.kr/article/82443</id>
+        <link href="https://www.elle.co.kr/article/82443"/>
+        <updated>2023-11-28T05:39:50.498Z</updated>
+        <content type="html"><![CDATA[이영애는 본격적으로 삶을 지휘하기로 결심했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치즈 덕후가 바르셀로나에서 천국을 발견한 사연은? 작가 김민철의 #취향일지도]]></title>
+        <id>https://www.elle.co.kr/article/82439</id>
+        <link href="https://www.elle.co.kr/article/82439"/>
+        <updated>2023-11-27T17:39:43.005Z</updated>
+    </entry>
+</feed>
