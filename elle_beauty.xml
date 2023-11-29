@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-29T05:40:29.961Z</updated>
+    <updated>2023-11-29T17:40:30.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뽐뿌' 오는 화이트]]></title>
+        <id>https://www.elle.co.kr/article/82261</id>
+        <link href="https://www.elle.co.kr/article/82261"/>
+        <updated>2023-11-29T17:39:28.095Z</updated>
+        <content type="html"><![CDATA[심플하게만 느껴졌던 '화이트'의 색다른 변신.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['무인도의 디바' 김효진이 출산 후 4개월 만에 18kg 감량한 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/82373</id>
+        <link href="https://www.elle.co.kr/article/82373"/>
+        <updated>2023-11-29T17:39:28.096Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세 달 만에 15kg 빼고 사라진 턱선 드러난 강남 관리 비결 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/82343</id>
@@ -43,18 +56,5 @@
         <id>https://www.elle.co.kr/article/82162</id>
         <link href="https://www.elle.co.kr/article/82162"/>
         <updated>2023-11-22T17:39:36.798Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박제니, 조효진, 진절미의 '찐' 파우치 아이템! <엘르>에만 공개합니다]]></title>
-        <id>https://www.elle.co.kr/article/82116</id>
-        <link href="https://www.elle.co.kr/article/82116"/>
-        <updated>2023-11-21T17:40:48.047Z</updated>
-        <content type="html"><![CDATA[모델, 뷰티 유투버, 크리에이터 등 'K뷰티' 트렌드를 주도하는 인플루언서 3인의 '찐' 파우치 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20kg 감량 유지어터 강소라, 둘째 임신 후 관리 비결 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/82169</id>
-        <link href="https://www.elle.co.kr/article/82169"/>
-        <updated>2023-11-20T17:39:42.419Z</updated>
     </entry>
 </feed>

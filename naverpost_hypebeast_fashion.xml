@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 05:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 17:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뱀포드와 피너츠, 하입비스트의 트리플 컬래버레이션 시계 실루엣]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36961920&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36961920&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 29 Nov 2023 17:38:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjlfMjY4/MDAxNzAxMjQ2Nzg2ODc5.9WrcsY7wT7qRBB86YHuwKFlAm3TCfL_plECt57Dq1y8g.ExXdiKhy8MRbDbW6DPUXvqSIKkbpU8eFA1ZvbOWEGNkg.JPEG/Isd7FQMZezysiuqIoIyzNfh-tMX8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개털이 캐시미어에 대한 지속 가능한 대체 소재로 부상했다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36847450&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 07 Aug 2023 17:39:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfNzcg/MDAxNjkxMzk3NzE5MDI1.5KD_kEZCYlQ5qKpDN9cdTl7v5NUfS5lTTG7tX4tYiCAg.6TAJsu1TdCbd2QnCI10VRPZ5xbXuEXzI8-7MsYLDsk4g.JPEG/IxvCjAnDUXUT9RwyG9QugOR9Gr5g.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유민훈 인터뷰: 인디펜던트 워치메이커]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36369302&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36369302&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 07 Aug 2023 17:39:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfMTk5/MDAxNjkxMzk3MzgzNTE1.F-Xdlbs3HdHU6ZZW1gHNufSoa6dD_wHSZmz9nsAU9mog.BQBHFusvzPvTo8g7nAPGTQxJND7lUi_jFZLz_kJ9Fmsg.JPEG/IGxqhg8tgxKkuI2dcMaeZlLuD8_0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

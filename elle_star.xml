@@ -2,9 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-11-29T05:40:29.966Z</updated>
+    <updated>2023-11-29T17:40:30.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자유롭게 움직이는 미노이의 새출발]]></title>
+        <id>https://www.elle.co.kr/article/82507</id>
+        <link href="https://www.elle.co.kr/article/82507"/>
+        <updated>2023-11-29T17:39:37.363Z</updated>
+        <content type="html"><![CDATA[완전 무장하고 나타난 씩씩한 미노이의 두번째 챕터.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10:00AM 김소현의 기록]]></title>
+        <id>https://www.elle.co.kr/article/82352</id>
+        <link href="https://www.elle.co.kr/article/82352"/>
+        <updated>2023-11-29T17:39:37.363Z</updated>
+        <content type="html"><![CDATA[상쾌한 공기가 뺨을 스치는 기분 좋은 오전의 여유를 기록하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤팀의 세 사람, EJ·JO·K 의 이름]]></title>
+        <id>https://www.elle.co.kr/article/82511</id>
+        <link href="https://www.elle.co.kr/article/82511"/>
+        <updated>2023-11-29T17:39:37.365Z</updated>
+        <content type="html"><![CDATA[앞으로 더많이 불릴 것들. 2023년 뜨겁게 사랑받은 앤팀(&amp;TEAM) 그리고 앤팀의 세 사람, EJ·J...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이효리의 걸음이 완성한 궤도]]></title>
+        <id>https://www.elle.co.kr/article/82492</id>
+        <link href="https://www.elle.co.kr/article/82492"/>
+        <updated>2023-11-29T17:39:37.367Z</updated>
+        <content type="html"><![CDATA[나라는 사람 자체가 지금껏 만들어온 내 인생의 가치예요. 그건 흔들릴 것 같지 않다는 자신감...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아무 때나 입수 가능! 강남X이상화가 최초 공개한 하와이 별장 모습.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82510</id>
+        <link href="https://www.elle.co.kr/article/82510"/>
+        <updated>2023-11-29T17:39:37.369Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아무도 모른 10시간 개복 수술, 남우현이 기스트암 투병을 지금 알린 까닭]]></title>
         <id>https://www.elle.co.kr/article/82480</id>
@@ -23,36 +57,5 @@
         <id>https://www.elle.co.kr/article/82456</id>
         <link href="https://www.elle.co.kr/article/82456"/>
         <updated>2023-11-28T17:40:09.334Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혹시... 다음 시즌 있나요? 자체 최고 시청률로 종영한 '강남순' 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/82455</id>
-        <link href="https://www.elle.co.kr/article/82455"/>
-        <updated>2023-11-28T17:40:09.336Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평단X대중 호평 다 잡고 단숨에 200만 관객 찍은'서울의 봄' 특별출연 스틸컷.jpg]]></title>
-        <id>https://www.elle.co.kr/article/82454</id>
-        <link href="https://www.elle.co.kr/article/82454"/>
-        <updated>2023-11-28T17:40:09.338Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 영화다운 이별, 김혜수의 마지막 청룡영화상 이야기 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/82453</id>
-        <link href="https://www.elle.co.kr/article/82453"/>
-        <updated>2023-11-28T05:39:50.496Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마치 음악처럼, <엘르> 카메라 앞에 선 이영애의 시간]]></title>
-        <id>https://www.elle.co.kr/article/82443</id>
-        <link href="https://www.elle.co.kr/article/82443"/>
-        <updated>2023-11-28T05:39:50.498Z</updated>
-        <content type="html"><![CDATA[이영애는 본격적으로 삶을 지휘하기로 결심했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치즈 덕후가 바르셀로나에서 천국을 발견한 사연은? 작가 김민철의 #취향일지도]]></title>
-        <id>https://www.elle.co.kr/article/82439</id>
-        <link href="https://www.elle.co.kr/article/82439"/>
-        <updated>2023-11-27T17:39:43.005Z</updated>
     </entry>
 </feed>

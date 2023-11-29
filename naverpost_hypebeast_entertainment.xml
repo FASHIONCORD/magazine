@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 05:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 17:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 SM 엔터테인먼트 CEO, 미국 최초의 K팝 회사 설립]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36961110&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36961110&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 29 Nov 2023 17:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjlfMyAg/MDAxNzAxMjQwNTMxOTUz.vKuASDszWabumj_vdCeP_rKI0kNPh9A8qivO0fMNbpQg.LTM-C3LtNo6MhwvggYxxI8_XLbdKHfEuJwGiIwBoUcYg.JPEG/Ihu-jZneFuw4DtDG5PVSaLCUvVZY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스 에반스가 MCU 복귀 루머에 관해 입을 열었다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36955736&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 09 Jan 2023 05:41:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDlfMjQ4/MDAxNjczMjMxMjQ5MDg3.Hs2lGOaOz-1tT-bTnn8MK7Y4mSti9h3NrkPlh6rGc6sg.D4R3u_pZcvcK1QDefneWPnXPhnsY3BulSYLT2BE8JKYg.JPEG/Ilfw6U-E3oQzqXuOC6bvt5c2V2zo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년부터 공개될 한국 넷플릭스 영화 라인업]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34947825&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34947825&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 14 Dec 2022 05:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMTQ1/MDAxNjcwOTE0Njc5NjMx.VbUQzQl1CQJVElLwT0ce7N5u7GGtLGn528eimSwO0Rsg.9bEqbJiG4l8q1aGTIsWx3tapbpcc6swH1n-mjOtDtk8g.JPEG/IJ0ISkq2jnQ3bZYzv8Po18bCH_r8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
