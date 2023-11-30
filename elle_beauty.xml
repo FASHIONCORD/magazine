@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-29T17:40:30.572Z</updated>
+    <updated>2023-11-30T05:40:35.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일주일만에 사라진 뱃살!? 이나연의 다이어트 Tip]]></title>
+        <id>https://www.elle.co.kr/article/82418</id>
+        <link href="https://www.elle.co.kr/article/82418"/>
+        <updated>2023-11-30T05:39:31.273Z</updated>
+        <content type="html"><![CDATA[긴장감을 늦출 수 없는 겨울 다이어트를 위해! 이나연이 일주일 동안 식단과 운동을 병행하며 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뽐뿌' 오는 화이트]]></title>
         <id>https://www.elle.co.kr/article/82261</id>
@@ -50,11 +57,5 @@
         <id>https://www.elle.co.kr/article/82106</id>
         <link href="https://www.elle.co.kr/article/82106"/>
         <updated>2023-11-23T17:39:34.554Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 피부처럼 얇게, 가볍게, 고르게, 매끄럽게! 컨실러 위시리스트 7]]></title>
-        <id>https://www.elle.co.kr/article/82162</id>
-        <link href="https://www.elle.co.kr/article/82162"/>
-        <updated>2023-11-22T17:39:36.798Z</updated>
     </entry>
 </feed>
