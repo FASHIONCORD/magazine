@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2023-11-30T05:40:35.753Z</updated>
+    <updated>2023-11-30T17:41:01.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈물 어린 세븐틴 승관의 '2023 마마 어워즈' 대상 수상 소감]]></title>
+        <id>https://www.elle.co.kr/article/82600</id>
+        <link href="https://www.elle.co.kr/article/82600"/>
+        <updated>2023-11-30T17:40:22.008Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['조교' 진과 '훈련병' 지민X정국, 만날 가능성은? BTS 4인 입대 관련 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/82593</id>
+        <link href="https://www.elle.co.kr/article/82593"/>
+        <updated>2023-11-30T17:40:22.008Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 MAMA 같이 나온 11년차 공개 연인 수영X정경호.jpg]]></title>
         <id>https://www.elle.co.kr/article/82577</id>
@@ -75,18 +87,5 @@
         <id>https://www.elle.co.kr/article/81346</id>
         <link href="https://www.elle.co.kr/article/81346"/>
         <updated>2023-10-13T17:41:05.085Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니부터 정국, 이효리까지! 올가을 귀 호강 예약 신보 소식.list]]></title>
-        <id>https://www.elle.co.kr/article/81125</id>
-        <link href="https://www.elle.co.kr/article/81125"/>
-        <updated>2023-10-05T05:40:42.169Z</updated>
-        <content type="html"><![CDATA[빛이 나는 솔로, 황금막내, 디바의 귀환?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1996년 투팍 살인 사건 용의자, 27년 만에 체포된 후 꺼낸 진술]]></title>
-        <id>https://www.elle.co.kr/article/81031</id>
-        <link href="https://www.elle.co.kr/article/81031"/>
-        <updated>2023-09-30T05:41:07.437Z</updated>
     </entry>
 </feed>

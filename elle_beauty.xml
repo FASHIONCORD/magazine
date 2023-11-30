@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-11-30T05:40:35.737Z</updated>
+    <updated>2023-11-30T17:41:01.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나도 도전해 볼까? 단발병 유발하는 셀러브리티 5]]></title>
+        <id>https://www.elle.co.kr/article/82427</id>
+        <link href="https://www.elle.co.kr/article/82427"/>
+        <updated>2023-11-30T17:39:42.479Z</updated>
+        <content type="html"><![CDATA[아이브 안유진부터 (여자)아이들 우기, 윤은혜 등 단발머리 뽐뿌 제대로 불러일으키는 스타들의 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이의, 아이에 의한, 아이를 위한 컬렉션?]]></title>
+        <id>https://www.elle.co.kr/article/82425</id>
+        <link href="https://www.elle.co.kr/article/82425"/>
+        <updated>2023-11-30T17:39:42.481Z</updated>
+        <content type="html"><![CDATA[자크뮈스 최초의 키즈 컬렉션부터 아기를 위한 디올의 스킨케어 컬렉션까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일주일만에 사라진 뱃살!? 이나연의 다이어트 Tip]]></title>
         <id>https://www.elle.co.kr/article/82418</id>
@@ -44,18 +58,5 @@
         <link href="https://www.elle.co.kr/article/82247"/>
         <updated>2023-11-25T17:39:16.150Z</updated>
         <content type="html"><![CDATA[시간과 비용은 DOWN, 효과는 UP!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNS에서 본 그 메이크업! 김나영이 공개한 데일리 메이크업 튜토리얼]]></title>
-        <id>https://www.elle.co.kr/article/82220</id>
-        <link href="https://www.elle.co.kr/article/82220"/>
-        <updated>2023-11-23T17:39:34.549Z</updated>
-        <content type="html"><![CDATA[투명한 피부 표현부터 발그레한 치크 연출법까지. 자연스러워서 더 매력적인 김나영의 초간단 데...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특수 소재와 기능을 겸비한 NEW 마사저]]></title>
-        <id>https://www.elle.co.kr/article/82106</id>
-        <link href="https://www.elle.co.kr/article/82106"/>
-        <updated>2023-11-23T17:39:34.554Z</updated>
     </entry>
 </feed>

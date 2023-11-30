@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-11-30T05:40:35.750Z</updated>
+    <updated>2023-11-30T17:41:01.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[점점 더 가난해지는 사람의 특징은?_돈쓸신잡 #124]]></title>
+        <id>https://www.elle.co.kr/article/82173</id>
+        <link href="https://www.elle.co.kr/article/82173"/>
+        <updated>2023-11-30T17:41:00.447Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 창업한 회사에서 도망쳤다 #여자읽는여자]]></title>
         <id>https://www.elle.co.kr/article/82098</id>
@@ -51,11 +57,5 @@
         <id>https://www.elle.co.kr/article/82001</id>
         <link href="https://www.elle.co.kr/article/82001"/>
         <updated>2023-11-13T17:41:22.115Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카페 종이 빨대, 진짜 사라질까?]]></title>
-        <id>https://www.elle.co.kr/article/82000</id>
-        <link href="https://www.elle.co.kr/article/82000"/>
-        <updated>2023-11-13T17:41:22.117Z</updated>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-11-30T05:40:35.737Z</updated>
+    <updated>2023-11-30T17:41:01.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돌아온 장박의 계절, 김숙의 텐트로 놀러 오세요!]]></title>
+        <id>https://www.elle.co.kr/article/82420</id>
+        <link href="https://www.elle.co.kr/article/82420"/>
+        <updated>2023-11-30T17:40:51.597Z</updated>
+        <content type="html"><![CDATA[텐트 안에 거실과 침실이? 없는 게 없는 프로 캠퍼 김숙의 새로운 겨울 보금자리를 공개합니다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노아부터 탬버린즈까지! 서울에 새롭게 문을 연 플래그십 스토어 3]]></title>
+        <id>https://www.elle.co.kr/article/82419</id>
+        <link href="https://www.elle.co.kr/article/82419"/>
+        <updated>2023-11-30T17:40:51.599Z</updated>
+        <content type="html"><![CDATA[뉴욕의 럭셔리한 휴양지를 본뜬 이곳은 어디?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차 좋아하세요? #도쿄핫플]]></title>
         <id>https://www.elle.co.kr/article/82402</id>
@@ -44,19 +58,5 @@
         <link href="https://www.elle.co.kr/article/82254"/>
         <updated>2023-11-24T17:40:39.252Z</updated>
         <content type="html"><![CDATA[고즈넉한 고궁과 고독한 계절의 만남이 낭만 가득한 서순라길 맛집.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주에서 만나는 샤넬의 팝업 부티크]]></title>
-        <id>https://www.elle.co.kr/article/82227</id>
-        <link href="https://www.elle.co.kr/article/82227"/>
-        <updated>2023-11-24T05:40:54.941Z</updated>
-        <content type="html"><![CDATA[이로써 제주에 가야할 이유가 또 하나 생겼습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드]]></title>
-        <id>https://www.elle.co.kr/article/82219</id>
-        <link href="https://www.elle.co.kr/article/82219"/>
-        <updated>2023-11-23T05:41:09.076Z</updated>
-        <content type="html"><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content>
     </entry>
 </feed>
