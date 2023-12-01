@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 05:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 17:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개의 수명을 연장시키는 약품이 FDA로부터 효능을 인정받았다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36973715&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36973715&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 01 Dec 2023 17:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMzMg/MDAxNzAxNDE2MzIxOTA0.-wfjJBga7FYKxslydhYRbRiKwMeS_Hk8eflI_56mV5Mg.-CXkz7mkDV-i7LXl8noCOiR-_yzzKo2jPK2Z9hxGGDog.JPEG/IsgZGA0ppo6lwudFAxYjeBGoxGSY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 아이폰 16, 터치 ID 부활 안 한다?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36931759&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMTdfNDMg/MDAxNjE1OTcwNjQyNTg2.d5aML7aM2-U1VtcKF-GB7mW6Adh08-GCGlZUTcNERFog.mgD_ZL297_bEIMaaFUhE2QA7YV_pjQG25yBXRtPMrsYg.JPEG/IJQYPpX1QKhelhkMuy_4bvgndqS8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최초의 ‘우주 호텔’이 2027년에 문을 연다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30872603&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30872603&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMDVfMTAg/MDAxNjE0OTM2MDg1MDE2.bFRQPeYb0GLZxgXHhNGK2fKLED4nfFkEBlJ0kr7g1kgg.vtbclPzc6GeaDFpZuPn1DGZLKsUfpfHTy0rVTk3m5Lsg.JPEG/I8zNYl1D0LBr4cYaG83Ba-W-__AU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
