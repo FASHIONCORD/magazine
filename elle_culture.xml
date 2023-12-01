@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-11-30T17:41:01.158Z</updated>
+    <updated>2023-12-01T05:40:58.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['조교' 진과 '훈련병' 지민X정국, 만날 가능성은? BTS 4인 입대 관련 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/82593</id>
+        <link href="https://www.elle.co.kr/article/82593"/>
+        <updated>2023-12-01T05:40:10.411Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 MAMA 같이 나온 11년차 공개 연인 수영X정경호.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82577</id>
+        <link href="https://www.elle.co.kr/article/82577"/>
+        <updated>2023-12-01T05:40:10.412Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[37kg 독한 감량에 '환승연애' 등장까지? 2024년에 처음 볼 박민영 변신.jpg]]></title>
         <id>https://www.elle.co.kr/article/82554</id>
@@ -42,18 +54,5 @@
         <id>https://www.elle.co.kr/article/82454</id>
         <link href="https://www.elle.co.kr/article/82454"/>
         <updated>2023-11-29T17:39:45.551Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 영화다운 이별, 김혜수의 마지막 청룡영화상 이야기 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/82453</id>
-        <link href="https://www.elle.co.kr/article/82453"/>
-        <updated>2023-11-28T17:40:17.063Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear my blue]]></title>
-        <id>https://www.elle.co.kr/article/82435</id>
-        <link href="https://www.elle.co.kr/article/82435"/>
-        <updated>2023-11-28T05:40:01.275Z</updated>
-        <content type="html"><![CDATA[나의 서늘한 불안과 공포에게. &lt;나의 피투성이 연인&gt;의 감독 유지영은 끊임없이 질문을 던진다.]]></content>
     </entry>
 </feed>
