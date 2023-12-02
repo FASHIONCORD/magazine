@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-02T05:40:19.912Z</updated>
+    <updated>2023-12-02T17:55:51.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20kg 뺀 유지어터, 선명한 근육 뽐내는 조여정의 관리법 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/82556</id>
+        <link href="https://www.elle.co.kr/article/82556"/>
+        <updated>2023-12-02T17:54:47.099Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나도 도전해 볼까? 단발병 유발하는 셀러브리티 5]]></title>
         <id>https://www.elle.co.kr/article/82427</id>
@@ -51,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/82100"/>
         <updated>2023-11-26T17:39:24.752Z</updated>
         <content type="html"><![CDATA[서울 여자의 일상 속 언제나 함께하는 3CE 블러 매트 립스틱.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집에서도 피부 관리 받은 것처럼! 앰풀 200% 활용법_선배’s 어드바이스 #195]]></title>
-        <id>https://www.elle.co.kr/article/82247</id>
-        <link href="https://www.elle.co.kr/article/82247"/>
-        <updated>2023-11-25T17:39:16.150Z</updated>
-        <content type="html"><![CDATA[시간과 비용은 DOWN, 효과는 UP!]]></content>
     </entry>
 </feed>
