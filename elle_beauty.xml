@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-03T05:40:58.737Z</updated>
+    <updated>2023-12-03T17:41:29.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로맨틱 무드 뿜뿜, 12월의 뷰티 신상!]]></title>
+        <id>https://www.elle.co.kr/article/82525</id>
+        <link href="https://www.elle.co.kr/article/82525"/>
+        <updated>2023-12-03T17:39:30.342Z</updated>
+        <content type="html"><![CDATA[새하얀 눈이 내리는 마법 같은 순간, 춥지만 겨울이 주는 포근한 분위기.... 12월의 뷰티 신상...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20kg 뺀 유지어터, 선명한 근육 뽐내는 조여정의 관리법 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/82556</id>
@@ -50,12 +57,5 @@
         <id>https://www.elle.co.kr/article/82343</id>
         <link href="https://www.elle.co.kr/article/82343"/>
         <updated>2023-11-27T05:39:47.518Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 여자의 립스틱]]></title>
-        <id>https://www.elle.co.kr/article/82100</id>
-        <link href="https://www.elle.co.kr/article/82100"/>
-        <updated>2023-11-26T17:39:24.752Z</updated>
-        <content type="html"><![CDATA[서울 여자의 일상 속 언제나 함께하는 3CE 블러 매트 립스틱.]]></content>
     </entry>
 </feed>

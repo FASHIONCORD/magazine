@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-03T05:40:58.757Z</updated>
+    <updated>2023-12-03T17:41:29.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에디 슬리먼이 사랑한 뉴욕 미술계의 별은?]]></title>
+        <id>https://www.elle.co.kr/article/82625</id>
+        <link href="https://www.elle.co.kr/article/82625"/>
+        <updated>2023-12-03T17:39:20.905Z</updated>
+        <content type="html"><![CDATA[플래그십 스토어에도 그를 위한 공간을 만들었다고.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고윤정, 엘르 디 에디션(D Edition) 커버 공개 #ELLE_D에디션]]></title>
         <id>https://www.elle.co.kr/article/82624</id>
@@ -52,12 +59,5 @@
         <id>https://www.elle.co.kr/article/82387</id>
         <link href="https://www.elle.co.kr/article/82387"/>
         <updated>2023-11-29T17:39:20.185Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사무실에서]]></title>
-        <id>https://www.elle.co.kr/article/82448</id>
-        <link href="https://www.elle.co.kr/article/82448"/>
-        <updated>2023-11-29T17:39:20.190Z</updated>
-        <content type="html"><![CDATA[익숙한듯 낯선 펜디를 입은 오피스 우먼.]]></content>
     </entry>
 </feed>

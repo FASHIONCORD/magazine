@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-03T05:40:58.754Z</updated>
+    <updated>2023-12-03T17:41:29.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해의 작가상 2023: 4인 4색 예술세계 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/82619</id>
+        <link href="https://www.elle.co.kr/article/82619"/>
+        <updated>2023-12-03T17:40:16.342Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈물 어린 세븐틴 승관의 '2023 마마 어워즈' 대상 수상 소감]]></title>
         <id>https://www.elle.co.kr/article/82600</id>
@@ -48,11 +54,5 @@
         <link href="https://www.elle.co.kr/article/82457"/>
         <updated>2023-11-30T17:40:12.593Z</updated>
         <content type="html"><![CDATA[이상하고도 아름다운 리빙룸으로의 초대.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혹시... 다음 시즌 있나요? 자체 최고 시청률로 종영한 '강남순' 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/82455</id>
-        <link href="https://www.elle.co.kr/article/82455"/>
-        <updated>2023-11-30T05:39:48.462Z</updated>
     </entry>
 </feed>
