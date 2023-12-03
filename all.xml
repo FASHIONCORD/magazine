@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 17:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 05:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1816,6 +1816,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTEwMzFfMTIg/MDAxNTcyNDkxMjQ5NzY0.dX43UTYL9vh2rGqeNL8x-6NLzFKZ5Ck28wzKkcJtykQg.nVgkNqisjOrUyISpG6CtZAYi7HiYE1MkMzHZ-YKULCEg.JPEG/IFYBiZzNvUr2ExFvA5mMcThLdeMA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고윤정, 엘르 디 에디션(D Edition) 커버 공개 #ELLE_D에디션 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/82624</link>
+            <guid>https://www.elle.co.kr/article/82624</guid>
+            <pubDate>Sat, 02 Dec 2023 17:54:55 GMT</pubDate>
+            <content:encoded><![CDATA[고윤정, 캘리포니아 무드 속 영화같은 패션 화보 공개 ‘시선으로 압도하는 시니컬한 매력’]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이에르 페스티벌, 올해의 우승자는? (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/82537</link>
             <guid>https://www.elle.co.kr/article/82537</guid>
@@ -1862,13 +1869,6 @@
             <guid>https://www.elle.co.kr/article/82448</guid>
             <pubDate>Wed, 29 Nov 2023 17:39:20 GMT</pubDate>
             <content:encoded><![CDATA[익숙한듯 낯선 펜디를 입은 오피스 우먼.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이의, 아이에 의한, 아이를 위한 컬렉션? (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/82425</link>
-            <guid>https://www.elle.co.kr/article/82425</guid>
-            <pubDate>Wed, 29 Nov 2023 05:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[자크뮈스 최초의 키즈 컬렉션부터 아기를 위한 디올의 스킨케어 컬렉션까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[20kg 뺀 유지어터, 선명한 근육 뽐내는 조여정의 관리법 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -2030,21 +2030,18 @@
             <link>https://www.elle.co.kr/article/82600</link>
             <guid>https://www.elle.co.kr/article/82600</guid>
             <pubDate>Thu, 30 Nov 2023 17:40:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/30/20f4479e-306c-46f1-b1ea-191efb5ae1ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['조교' 진과 '훈련병' 지민X정국, 만날 가능성은? BTS 4인 입대 관련 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82593</link>
             <guid>https://www.elle.co.kr/article/82593</guid>
             <pubDate>Thu, 30 Nov 2023 17:40:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/30/3bb44df8-98ba-400b-8d59-9ef9693c74f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[또 MAMA 같이 나온 11년차 공개 연인 수영X정경호.jpg (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
             <link>https://www.elle.co.kr/article/82577</link>
             <guid>https://www.elle.co.kr/article/82577</guid>
             <pubDate>Thu, 30 Nov 2023 05:39:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/30/c9d17637-dd67-4907-ac1b-7e76a47711dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7년 만의 우승부터 뉴진스까지! 고척 스카이돔을 뒤흔든 '롤드컵' 비하인드 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -2052,7 +2049,6 @@
             <guid>https://www.elle.co.kr/article/82219</guid>
             <pubDate>Sun, 19 Nov 2023 17:40:02 GMT</pubDate>
             <content:encoded><![CDATA[최고, 최초의 타이틀로 가득한 역대급 경기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/25b683ef-a102-405a-be1b-d436bbec1557.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단 두 곡으로 가요계 제패한 레전드 유닛, 씨스타19 11년 만의 컴백 정보.txt (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
