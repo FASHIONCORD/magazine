@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-03T17:41:29.073Z</updated>
+    <updated>2023-12-04T05:40:22.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자꾸만 만지고 싶은 복슬이들!]]></title>
+        <id>https://www.elle.co.kr/article/82586</id>
+        <link href="https://www.elle.co.kr/article/82586"/>
+        <updated>2023-12-04T05:39:19.310Z</updated>
+        <content type="html"><![CDATA[손이 가요, 손이 가.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에디 슬리먼이 사랑한 뉴욕 미술계의 별은?]]></title>
         <id>https://www.elle.co.kr/article/82625</id>
@@ -53,11 +60,5 @@
         <link href="https://www.elle.co.kr/article/82466"/>
         <updated>2023-12-01T05:39:27.978Z</updated>
         <content type="html"><![CDATA[예쁜 목도리 하나면 찬 바람도 OK!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파티 후 맞이한 느린 오후]]></title>
-        <id>https://www.elle.co.kr/article/82387</id>
-        <link href="https://www.elle.co.kr/article/82387"/>
-        <updated>2023-11-29T17:39:20.185Z</updated>
     </entry>
 </feed>

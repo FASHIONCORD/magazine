@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-03T17:41:29.073Z</updated>
+    <updated>2023-12-04T05:40:22.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울철 면역력 챙겨! 채정안의 내돈내산 영양제.list]]></title>
+        <id>https://www.elle.co.kr/article/82567</id>
+        <link href="https://www.elle.co.kr/article/82567"/>
+        <updated>2023-12-04T05:39:27.144Z</updated>
+        <content type="html"><![CDATA[추운 겨울을 건강하게 보내기 위해 필요한 건 면역력! 이너뷰티에 진심인 채정안이 추천하는 8가...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로맨틱 무드 뿜뿜, 12월의 뷰티 신상!]]></title>
         <id>https://www.elle.co.kr/article/82525</id>
@@ -51,11 +58,5 @@
         <id>https://www.elle.co.kr/article/82373</id>
         <link href="https://www.elle.co.kr/article/82373"/>
         <updated>2023-11-29T17:39:28.096Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세 달 만에 15kg 빼고 사라진 턱선 드러난 강남 관리 비결 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/82343</id>
-        <link href="https://www.elle.co.kr/article/82343"/>
-        <updated>2023-11-27T05:39:47.518Z</updated>
     </entry>
 </feed>
