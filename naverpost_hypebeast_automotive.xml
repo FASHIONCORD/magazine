@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 05:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 17:41:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라 사이버트럭을 오프로드용으로 튜닝할 수 있다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36991935&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36991935&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 05 Dec 2023 17:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfMTcg/MDAxNzAxNzY1MTMxMjYz.a6V4fzfcyx_TbFD9-SWeZmZz7y6j_zxCCCUvZ1XLGIEg.i7i7ZFhyNQtD0KIUgOjQmr-_Q0rjOTukeiQvvkAcdR0g.JPEG/IavZWIn5z6eUTiz7Dh3qA3HnoroA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘탑기어’ 선정, 2023년 ‘올해의 베스트 카’는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36973686&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 05 Aug 2022 17:49:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDVfMTIw/MDAxNjU5Njg1MjU2OTYy.1NjAh7OrjOGpz8kV_eexgZFzZayG6JcyKRHQxoGD4IIg.bADfc8PzUJTqvnFx2H3128Zt8AXovu_OfGeH8dK8hfIg.JPEG/IemacOf7qErw2m41TaGmEHp2zj_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 자동차 마니아들의 드림카, ‘포르쉐 911’의 모든 것]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34207994&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34207994&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 28 Jul 2022 17:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjdfMjE5/MDAxNjU4OTE1NDcyMDky.dWe0-l7QsAonhtAarR-AjWXexS3kIUpd4zS5lct54QYg.l5nMYG41MnCGQJGOOzU0jcPNJn6ZWDi9rKws7bKQ81Ag.JPEG/IZl-cB113uiWqQUchHPg-pYZGHBc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
