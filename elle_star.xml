@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-04T17:40:36.667Z</updated>
+    <updated>2023-12-05T05:40:55.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스로 간 '약한 영웅' 시즌2 출연진.list]]></title>
+        <id>https://www.elle.co.kr/article/82690</id>
+        <link href="https://www.elle.co.kr/article/82690"/>
+        <updated>2023-12-05T05:39:28.454Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['희수' vs '낙수' 고윤정의 선택은? 고윤정의 ASK ME ANYTHING #ELLE_D에디션]]></title>
         <id>https://www.elle.co.kr/article/82674</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/82635</id>
         <link href="https://www.elle.co.kr/article/82635"/>
         <updated>2023-12-03T17:39:37.653Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고윤정, 엘르 디 에디션(D Edition) 커버 공개 #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/82624</id>
-        <link href="https://www.elle.co.kr/article/82624"/>
-        <updated>2023-12-02T17:54:55.931Z</updated>
-        <content type="html"><![CDATA[고윤정, 캘리포니아 무드 속 영화같은 패션 화보 공개 ‘시선으로 압도하는 시니컬한 매력’]]></content>
     </entry>
 </feed>
