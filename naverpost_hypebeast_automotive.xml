@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 05:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 17:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년 대한민국에서 가장 많이 팔린 차는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36998128&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36998128&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 06 Dec 2023 17:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfNTMg/MDAxNzAxODUyMTQxNDI2.SkiMpfAqZLDN9D4eFnEWrpz0qBuaboZc_NbMq2rAAuwg._kFLQI4joM-HyD0GT6iyCJG5FCVTcFJrOETiDz4X0Zgg.JPEG/I7nvjUcNZq0Vhm2ABTcyfuxXyUvo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테슬라 사이버트럭을 오프로드용으로 튜닝할 수 있다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36991935&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 09 Aug 2022 05:44:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDlfODEg/MDAxNjYwMDE1ODE5MDQ5.EzV2yQ52GDz_qx_PUvQm4bLjf5KvnqAnOplh1S7RKAkg.Fm6bvtycUcWTzhIaYvXiSqHGKJ5QgrDUaz4lRDFK2xog.JPEG/Ihzg8sS54Z5PepuMsHPZbUFaiftU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIVERS: 허재영 & 1987 메르세데스-벤츠 560 SL]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34260441&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34260441&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 05 Aug 2022 17:49:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDVfMTIw/MDAxNjU5Njg1MjU2OTYy.1NjAh7OrjOGpz8kV_eexgZFzZayG6JcyKRHQxoGD4IIg.bADfc8PzUJTqvnFx2H3128Zt8AXovu_OfGeH8dK8hfIg.JPEG/IemacOf7qErw2m41TaGmEHp2zj_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
