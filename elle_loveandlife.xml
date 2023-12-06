@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-12-05T17:41:21.658Z</updated>
+    <updated>2023-12-06T05:40:54.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차]]></title>
+        <id>https://www.elle.co.kr/article/82689</id>
+        <link href="https://www.elle.co.kr/article/82689"/>
+        <updated>2023-12-06T05:40:37.552Z</updated>
+        <content type="html"><![CDATA[모노레일까지 생긴다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쫄깃한 식감에 씹을수록 고소한 맛! 제철 맞은 겨울 방어 전국 맛집 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/82655</id>
@@ -48,11 +55,5 @@
         <id>https://www.elle.co.kr/article/82439</id>
         <link href="https://www.elle.co.kr/article/82439"/>
         <updated>2023-12-01T17:40:19.302Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찬바람 불고 군고구마 생각날 때 딱 좋은 겨울철 디저트 카페 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/82422</id>
-        <link href="https://www.elle.co.kr/article/82422"/>
-        <updated>2023-12-01T05:40:47.891Z</updated>
     </entry>
 </feed>
