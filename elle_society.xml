@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-12-07T05:40:44.741Z</updated>
+    <updated>2023-12-07T17:40:32.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부러움에 솔직하고 완벽하게 지는 법 #여자읽는여자]]></title>
+        <id>https://www.elle.co.kr/article/82657</id>
+        <link href="https://www.elle.co.kr/article/82657"/>
+        <updated>2023-12-07T17:40:31.669Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국밥 1만 원 시대, 건강하게 식비 아끼는 법_돈쓸신잡 #126]]></title>
         <id>https://www.elle.co.kr/article/82622</id>
@@ -48,12 +54,5 @@
         <id>https://www.elle.co.kr/article/82098</id>
         <link href="https://www.elle.co.kr/article/82098"/>
         <updated>2023-11-28T05:40:51.248Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간의 삶에 스며든 반려 로봇 '효순이']]></title>
-        <id>https://www.elle.co.kr/article/82089</id>
-        <link href="https://www.elle.co.kr/article/82089"/>
-        <updated>2023-11-27T05:41:26.961Z</updated>
-        <content type="html"><![CDATA[말벗이 돼주고 일과를 챙기는 반려 로봇 '효순이'가 인간의 삶에 스며든 장면.]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 05:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 17:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랭크 게리가 디자인한 루이 비통 핸드백 컬렉션 살펴보기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37003748&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37003748&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 07 Dec 2023 17:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDdfMTkw/MDAxNzAxOTM0ODcwMjEx.Qa6AEQDcSZ1-v7T-FEHDpeiZguaISVeHixxNHvhP1Jwg.cwgC0xTRgYJm5oYGxXQTTgw7mAodDfOojTpyp_lQLhcg.JPEG/IVEihhFZMKSkGwq1YVfUf7kLKji0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빈티지 롤렉스, 파텍 필립, 까르띠에 등 소더비 ‘임폴턴트 워치스’ 시계 목록 살펴보기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36991974&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Aug 2023 17:39:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MTdfMjEz/MDAxNjkyMjY0NDU4ODky.JZPbxQ9zca2FGnZPZQNSdxZGcSYxFuVEr-3GltIlUGwg.V3bhsW8nsc21xOfVXl5x8mFsW2p4KUzABPtJr5B11acg.JPEG/Iuxb9pUkabP9OaL6VsLJGD7DHHvU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Essentials: 백규희]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36392762&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36392762&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 11 Aug 2023 17:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MTFfMTIy/MDAxNjkxNzMzODkzNjk2.rCRIvke6RPhoTNdnLk3KiSK__95ZYddujNTMhPlvabQg.ZFY0onJbtpuNUyTOTTMv8Zfqppd3x3dIUzWUwti1lqgg.JPEG/IFvfo8_rfF-yNX-2bovHoBmXPrWM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
