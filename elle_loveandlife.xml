@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-12-08T05:40:38.323Z</updated>
+    <updated>2023-12-08T17:40:24.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 최고의 피자부터 '진짜' 핸드드립 커피까지, 합정동 플레이스 4 #엘르동]]></title>
+        <id>https://www.elle.co.kr/article/82769</id>
+        <link href="https://www.elle.co.kr/article/82769"/>
+        <updated>2023-12-08T17:40:15.667Z</updated>
+        <content type="html"><![CDATA[여기 다 알면 은둔 고수 인정.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결국 한국 시장서 손 터는 트위치, CEO가 직접 밝힌 철수 이유.txt]]></title>
+        <id>https://www.elle.co.kr/article/82751</id>
+        <link href="https://www.elle.co.kr/article/82751"/>
+        <updated>2023-12-08T17:40:15.668Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번 연말 모임은 여기! 비주얼부터 시선 강탈하는 호텔 딸기 뷔페 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/82738</id>
+        <link href="https://www.elle.co.kr/article/82738"/>
+        <updated>2023-12-08T17:40:15.671Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인류를 덮친 기후 위기, 샤넬 컬처 펀드와 리움미술관의 ‘아이디어 뮤지엄’에서 답을 모색하다]]></title>
         <id>https://www.elle.co.kr/article/82734</id>
@@ -38,25 +57,5 @@
         <id>https://www.elle.co.kr/article/82655</id>
         <link href="https://www.elle.co.kr/article/82655"/>
         <updated>2023-12-05T17:41:12.546Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 한정 음료부터 스테디 간식까지! 편의점에서 행복 찾기 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/82649</id>
-        <link href="https://www.elle.co.kr/article/82649"/>
-        <updated>2023-12-05T17:41:12.547Z</updated>
-        <content type="html"><![CDATA[생필품은 물론 동시대적이고 합리적인 디저트 메뉴까지 갖춘 일본의 편의점, 연말에 일본 여행을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감각적인 테이블 웨어부터 해외에서 공수한 공예품까지! 김나영의 서촌 인테리어 소품숍 투어 3]]></title>
-        <id>https://www.elle.co.kr/article/82623</id>
-        <link href="https://www.elle.co.kr/article/82623"/>
-        <updated>2023-12-05T17:41:12.553Z</updated>
-        <content type="html"><![CDATA[소박하고 정겨운 서촌에 이런 공간이? 예쁜 거 옆에 예쁜 거 가득한 인테리어 소품숍 세 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 가나가와 현 15평 아파트에 사는 카호의 집 풍경 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/82621</id>
-        <link href="https://www.elle.co.kr/article/82621"/>
-        <updated>2023-12-05T17:41:12.554Z</updated>
     </entry>
 </feed>

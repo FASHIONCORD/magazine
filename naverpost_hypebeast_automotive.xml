@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 05:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 17:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소니 플레이스테이션 x 메르세데스-벤츠 A 클래스 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37009705&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37009705&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 08 Dec 2023 17:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDhfMTY4/MDAxNzAyMDIwNDU5ODY5.xb4dF2dH8v_d3kdX0ROUkuaO-bvmplVOfwrvrP097S8g.pSZDu4du9Llnv7ORJs3MIeWJrnVz0NU7qXnNKToOC0Ug.JPEG/IBriY4JuTAU-pz__p7sa8YFfATfg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피치스, 부산에 자체 주유소를 오픈한다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37003770&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 27 Sep 2022 18:04:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjZfMTMw/MDAxNjY0MTgzMjAzMTUy.eqQa4XzGnUw-G5oinW52PYj7gAQSGTxV1eN7EsS8aL4g.n2Sr-usjhUUJGU3gAiBh4fp9h9PsB0lfGFYMAXazztkg.JPEG/IxKSOlqQwbtZs8_KpSFP_yRrZy5I.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페라리 최초의 SUV 푸로산게, 공개 하루 만에 예약 종료 임박?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34478773&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34478773&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 21 Sep 2022 17:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTZfNzgg/MDAxNjYzMjk4OTQyMTA3.Xx1ez5EkvGVtqXfbFO1NlkbC9J2txVJhHoHaqXGvCosg.Ov3KJzs8gnihNyp_jmDF6N875Hpg3dWe0k7IVnRmXQQg.JPEG/IQBNIYzQp6s3gmtSKVy8Zscjb7cA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-08T05:40:38.321Z</updated>
+    <updated>2023-12-08T17:40:24.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윈터의 새 헤어 컬러는? 요즘 눈에 띄는 #레드]]></title>
+        <id>https://www.elle.co.kr/article/82697</id>
+        <link href="https://www.elle.co.kr/article/82697"/>
+        <updated>2023-12-08T17:39:19.014Z</updated>
+        <content type="html"><![CDATA[빨간 머리에서 뿜어져 나오는 화려함과 에너지를 느껴보시길!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단 10분 만에 분위기 변신! 유인영의 초스피드 메이크업 HOW TO]]></title>
         <id>https://www.elle.co.kr/article/82663</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/82525"/>
         <updated>2023-12-03T17:39:30.342Z</updated>
         <content type="html"><![CDATA[새하얀 눈이 내리는 마법 같은 순간, 춥지만 겨울이 주는 포근한 분위기.... 12월의 뷰티 신상...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20kg 뺀 유지어터, 선명한 근육 뽐내는 조여정의 관리법 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/82556</id>
-        <link href="https://www.elle.co.kr/article/82556"/>
-        <updated>2023-12-02T17:54:47.099Z</updated>
     </entry>
 </feed>

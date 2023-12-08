@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-08T05:40:38.323Z</updated>
+    <updated>2023-12-08T17:40:24.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[런웨이에 흐드러지게 핀 겨울 꽃]]></title>
+        <id>https://www.elle.co.kr/article/82646</id>
+        <link href="https://www.elle.co.kr/article/82646"/>
+        <updated>2023-12-08T17:39:09.723Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[편의점에서 런웨이가 왜 나와?]]></title>
         <id>https://www.elle.co.kr/article/82719</id>
@@ -53,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/82653"/>
         <updated>2023-12-05T05:39:10.436Z</updated>
         <content type="html"><![CDATA[발끝까지 따뜻한 겨울을 위해! 스타들의 방한 부츠 패션부터 쇼핑 리스트까지 한번에 모았습니다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자꾸만 만지고 싶은 복슬이들!]]></title>
-        <id>https://www.elle.co.kr/article/82586</id>
-        <link href="https://www.elle.co.kr/article/82586"/>
-        <updated>2023-12-04T05:39:19.310Z</updated>
-        <content type="html"><![CDATA[손이 가요, 손이 가.]]></content>
     </entry>
 </feed>

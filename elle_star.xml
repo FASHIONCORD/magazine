@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-08T05:40:38.339Z</updated>
+    <updated>2023-12-08T17:40:24.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마에스트라가 된 이영애가 지휘봉을 높게 들었다]]></title>
+        <id>https://www.elle.co.kr/article/82819</id>
+        <link href="https://www.elle.co.kr/article/82819"/>
+        <updated>2023-12-08T17:39:28.630Z</updated>
+        <content type="html"><![CDATA[이영애는 이번에야말로 삶을 제대로 지휘할 작정이다. 보이지 않는 음계들이 강처럼 넘쳐흐르던 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건강미 대표 제시! 놀라운 힙업 비결은 이것? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/82817</id>
+        <link href="https://www.elle.co.kr/article/82817"/>
+        <updated>2023-12-08T17:39:28.632Z</updated>
+        <content type="html"><![CDATA[남성 2명 태우고 레그프레스를?!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 정국, 입대 앞두고 달라진 헤어스타일 공개하며 던진 농담.txt]]></title>
         <id>https://www.elle.co.kr/article/82816</id>
@@ -42,17 +56,5 @@
         <id>https://www.elle.co.kr/article/82783</id>
         <link href="https://www.elle.co.kr/article/82783"/>
         <updated>2023-12-07T17:39:36.082Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특명: 소진을 속여라! 걸스데이가 준비한 깜짝 브라이덜 샤워 현장.jpg]]></title>
-        <id>https://www.elle.co.kr/article/82756</id>
-        <link href="https://www.elle.co.kr/article/82756"/>
-        <updated>2023-12-07T05:39:43.616Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10준수 키가 190cm? 폭풍성장한 '슈돌' 랜선조카 이준수X엄지온 근황]]></title>
-        <id>https://www.elle.co.kr/article/82737</id>
-        <link href="https://www.elle.co.kr/article/82737"/>
-        <updated>2023-12-07T05:39:43.619Z</updated>
     </entry>
 </feed>

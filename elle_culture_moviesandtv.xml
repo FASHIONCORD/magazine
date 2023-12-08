@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-12-08T05:40:38.338Z</updated>
+    <updated>2023-12-08T17:40:24.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워터밤 여신 권은비의 배우 데뷔작 정보 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/82859</id>
+        <link href="https://www.elle.co.kr/article/82859"/>
+        <updated>2023-12-08T17:39:56.138Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황정민X정우성 신경전 돋보인 장면을 여기서? '서울의 봄' 촬영지 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/82857</id>
+        <link href="https://www.elle.co.kr/article/82857"/>
+        <updated>2023-12-08T17:39:56.141Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[목숨 건 마피아 게임과 보기만 해도 짠한 모녀 케미가 빛난 12월 2주차 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/82836</id>
@@ -72,19 +84,5 @@
         <link href="https://www.elle.co.kr/article/82435"/>
         <updated>2023-11-27T05:40:48.187Z</updated>
         <content type="html"><![CDATA[나의 서늘한 불안과 공포에게. &lt;나의 피투성이 연인&gt;의 감독 유지영은 끊임없이 질문을 던진다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄'이 쏘아 올린 기상천외한 챌린지가 뭐길래?]]></title>
-        <id>https://www.elle.co.kr/article/82426</id>
-        <link href="https://www.elle.co.kr/article/82426"/>
-        <updated>2023-11-26T17:40:10.885Z</updated>
-        <content type="html"><![CDATA[스트레스 지수, 누가 누가 더 높나.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백남준은 현재진행형이다]]></title>
-        <id>https://www.elle.co.kr/article/82411</id>
-        <link href="https://www.elle.co.kr/article/82411"/>
-        <updated>2023-11-26T17:40:10.887Z</updated>
-        <content type="html"><![CDATA[숱하게 들어본 이름 '비디오아트'의 백남준. 하지만 우리는 진짜 그를 얼만큼 알고 있을까.]]></content>
     </entry>
 </feed>

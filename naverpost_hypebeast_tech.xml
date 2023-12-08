@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 05:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 17:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 프리미엄, 한국에서 가격 인상한다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37009711&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37009711&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 08 Dec 2023 17:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDhfNDIg/MDAxNzAyMDIwNDk1NTI1._29-6uigPvcmuMRL-MBFrm4BVXoKAtNO19YJ8tfJf80g.Xf3VLZvaAzX0yI1YR_5FmnQqAYtHfuBY44F-IXHcMI4g.JPEG/IUN_wG8VwGY0SGhMc4tAdTw7ZZjA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올 한해 위키피디아에서 가장 많이 검색된 항목은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36998142&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjZfMTAy/MDAxNjI5OTQ3NDMzODQz.qLlK_9wTaTE-i160og7lOb2QjZUxT7Jna_KKbhC751kg.cJVZlkiZ7k3FR3kNRC_HNhVu3aovYjZJjVkxlF9rKjQg.JPEG/I2ipO4QxD-hZjHBOgyWq_sEBNrds.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화제의 가상 자산 'NFT'는 도대체 무엇일까?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31373248&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31373248&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjhfNjAg/MDAxNjE5NjAxMTkxNjA2.Rxqnzkejl280u7MUZvO0i7wmFlcKEVqreB_a4Jb5Oa8g.bLywE5uc11erlBP8DI8F9cE5m8eBbU8AS4Bp_bigm7gg.JPEG/I8DHD82lVieZBqcJS_zi7qhZVT00.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

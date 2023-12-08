@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2023-12-08T05:40:38.333Z</updated>
+    <updated>2023-12-08T17:40:24.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주살이에 반해 서귀포에 정착한 세컨드뮤지오 대표 김지윤의 주택 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/82844</id>
+        <link href="https://www.elle.co.kr/article/82844"/>
+        <updated>2023-12-08T17:40:06.098Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인류를 덮친 기후 위기, 샤넬 컬처 펀드와 리움미술관의 ‘아이디어 뮤지엄’에서 답을 모색하다]]></title>
         <id>https://www.elle.co.kr/article/82734</id>
@@ -85,11 +91,5 @@
         <link href="https://www.elle.co.kr/article/82161"/>
         <updated>2023-11-23T05:41:00.382Z</updated>
         <content type="html"><![CDATA[파인드 스터프는 이름 그대로 좋아하는 물건을 찾고 모으는 과정이자 결과다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나 홀로 집에' 케빈의 집처럼 사랑스러운 미아 모텐슨의 덴마크 하우스 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/82310</id>
-        <link href="https://www.elle.co.kr/article/82310"/>
-        <updated>2023-11-23T05:41:00.385Z</updated>
     </entry>
 </feed>
