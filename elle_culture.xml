@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-07T17:40:32.373Z</updated>
+    <updated>2023-12-08T05:40:38.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스로 간 '약한 영웅' 시즌2 출연진.list]]></title>
+        <id>https://www.elle.co.kr/article/82690</id>
+        <link href="https://www.elle.co.kr/article/82690"/>
+        <updated>2023-12-08T05:39:52.280Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차]]></title>
         <id>https://www.elle.co.kr/article/82689</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/82619</id>
         <link href="https://www.elle.co.kr/article/82619"/>
         <updated>2023-12-03T17:40:16.342Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈물 어린 세븐틴 승관의 '2023 마마 어워즈' 대상 수상 소감]]></title>
-        <id>https://www.elle.co.kr/article/82600</id>
-        <link href="https://www.elle.co.kr/article/82600"/>
-        <updated>2023-12-02T17:55:03.959Z</updated>
     </entry>
 </feed>

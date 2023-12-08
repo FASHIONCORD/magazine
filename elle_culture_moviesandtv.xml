@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-12-07T17:40:32.386Z</updated>
+    <updated>2023-12-08T05:40:38.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목숨 건 마피아 게임과 보기만 해도 짠한 모녀 케미가 빛난 12월 2주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/82836</id>
+        <link href="https://www.elle.co.kr/article/82836"/>
+        <updated>2023-12-08T05:40:11.341Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서울의 봄' 촬영지, 정우성도 인증샷 찍은 이곳! (ft.500만 돌파)]]></title>
         <id>https://www.elle.co.kr/article/82784</id>
@@ -80,11 +86,5 @@
         <link href="https://www.elle.co.kr/article/82411"/>
         <updated>2023-11-26T17:40:10.887Z</updated>
         <content type="html"><![CDATA[숱하게 들어본 이름 '비디오아트'의 백남준. 하지만 우리는 진짜 그를 얼만큼 알고 있을까.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[59억 걸린 현실판 '오겜'부터 푸바오와의 작별 인사까지, 11월 4주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/82378</id>
-        <link href="https://www.elle.co.kr/article/82378"/>
-        <updated>2023-11-24T05:40:08.211Z</updated>
     </entry>
 </feed>
