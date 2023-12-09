@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 05:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 17:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1934,6 +1934,13 @@
             <content:encoded><![CDATA[새하얀 눈이 내리는 마법 같은 순간, 춥지만 겨울이 주는 포근한 분위기.... 12월의 뷰티 신상...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[공효진이 반려견과 함께 찾은 카페는? 셀러브리티가 다녀간 베이커리 카페 3 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/82827</link>
+            <guid>https://www.elle.co.kr/article/82827</guid>
+            <pubDate>Sat, 09 Dec 2023 17:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[소금빵 플렉스를 부르는 카페부터 천연발효종 베이커리까지, 스타가 방문 인증한 빵집을 지금 공...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마에스트라가 된 이영애가 지휘봉을 높게 들었다 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/82819</link>
             <guid>https://www.elle.co.kr/article/82819</guid>
@@ -1978,12 +1985,6 @@
             <link>https://www.elle.co.kr/article/82784</link>
             <guid>https://www.elle.co.kr/article/82784</guid>
             <pubDate>Wed, 06 Dec 2023 17:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[모델 중의 모델, 이소라가 20년 넘게 변치 않는 체형 유지하는 방법 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/82783</link>
-            <guid>https://www.elle.co.kr/article/82783</guid>
-            <pubDate>Thu, 07 Dec 2023 17:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[인류를 덮친 기후 위기, 샤넬 컬처 펀드와 리움미술관의 ‘아이디어 뮤지엄’에서 답을 모색하다 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2340,6 +2341,13 @@
             <pubDate>Tue, 05 Dec 2023 17:41:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[단돈 2만 원이면 인스타그램 ‘파란 배지’ 달 수 있다? (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82660</link>
+            <guid>https://www.elle.co.kr/article/82660</guid>
+            <pubDate>Sat, 09 Dec 2023 17:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 국내에 상륙한 메타의 이색 유료 구독 서비스.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[부러움에 솔직하고 완벽하게 지는 법 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82657</link>
             <guid>https://www.elle.co.kr/article/82657</guid>
@@ -2382,12 +2390,6 @@
             <link>https://www.elle.co.kr/article/82173</link>
             <guid>https://www.elle.co.kr/article/82173</guid>
             <pubDate>Thu, 30 Nov 2023 17:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[내가 창업한 회사에서 도망쳤다 #여자읽는여자 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82098</link>
-            <guid>https://www.elle.co.kr/article/82098</guid>
-            <pubDate>Tue, 28 Nov 2023 05:40:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

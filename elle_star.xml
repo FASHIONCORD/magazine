@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-09T05:40:33.866Z</updated>
+    <updated>2023-12-09T17:41:01.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공효진이 반려견과 함께 찾은 카페는? 셀러브리티가 다녀간 베이커리 카페 3]]></title>
+        <id>https://www.elle.co.kr/article/82827</id>
+        <link href="https://www.elle.co.kr/article/82827"/>
+        <updated>2023-12-09T17:40:11.956Z</updated>
+        <content type="html"><![CDATA[소금빵 플렉스를 부르는 카페부터 천연발효종 베이커리까지, 스타가 방문 인증한 빵집을 지금 공...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마에스트라가 된 이영애가 지휘봉을 높게 들었다]]></title>
         <id>https://www.elle.co.kr/article/82819</id>
@@ -50,11 +57,5 @@
         <id>https://www.elle.co.kr/article/82784</id>
         <link href="https://www.elle.co.kr/article/82784"/>
         <updated>2023-12-07T17:39:36.067Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모델 중의 모델, 이소라가 20년 넘게 변치 않는 체형 유지하는 방법 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/82783</id>
-        <link href="https://www.elle.co.kr/article/82783"/>
-        <updated>2023-12-07T17:39:36.082Z</updated>
     </entry>
 </feed>
