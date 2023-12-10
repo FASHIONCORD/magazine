@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-09T17:41:01.862Z</updated>
+    <updated>2023-12-10T05:40:39.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해린이 피어나는 순간 #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/82828</id>
+        <link href="https://www.elle.co.kr/article/82828"/>
+        <updated>2023-12-10T05:39:46.668Z</updated>
+        <content type="html"><![CDATA[피어나는 꽃, 그리고 그 꽃망울을 지키려 돋은 가시처럼. 순수하고 맑은 얼굴과 차가 눈빛이 교...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공효진이 반려견과 함께 찾은 카페는? 셀러브리티가 다녀간 베이커리 카페 3]]></title>
         <id>https://www.elle.co.kr/article/82827</id>
@@ -51,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/82791"/>
         <updated>2023-12-07T17:39:36.064Z</updated>
         <content type="html"><![CDATA[친구들이랑 모이면 즉석 사진은 국룰! 올해 추억을 하나라도 더 남기고 싶다면 이렇게 찍어보세...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 촬영지, 정우성도 인증샷 찍은 이곳! (ft.500만 돌파)]]></title>
-        <id>https://www.elle.co.kr/article/82784</id>
-        <link href="https://www.elle.co.kr/article/82784"/>
-        <updated>2023-12-07T17:39:36.067Z</updated>
     </entry>
 </feed>
