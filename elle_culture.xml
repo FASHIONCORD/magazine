@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-10T17:40:54.289Z</updated>
+    <updated>2023-12-11T05:40:44.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황정민X정우성 신경전 돋보인 장면을 여기서? '서울의 봄' 촬영지 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/82857</id>
+        <link href="https://www.elle.co.kr/article/82857"/>
+        <updated>2023-12-11T05:39:46.751Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제주살이에 반해 서귀포에 정착한 세컨드뮤지오 대표 김지윤의 주택 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/82844</id>
+        <link href="https://www.elle.co.kr/article/82844"/>
+        <updated>2023-12-11T05:39:46.752Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[목숨 건 마피아 게임과 보기만 해도 짠한 모녀 케미가 빛난 12월 2주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/82836</id>
+        <link href="https://www.elle.co.kr/article/82836"/>
+        <updated>2023-12-11T05:39:46.786Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄' 촬영지, 정우성도 인증샷 찍은 이곳! (ft.500만 돌파)]]></title>
+        <id>https://www.elle.co.kr/article/82784</id>
+        <link href="https://www.elle.co.kr/article/82784"/>
+        <updated>2023-12-11T05:39:46.788Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인류를 덮친 기후 위기, 샤넬 컬처 펀드와 리움미술관의 ‘아이디어 뮤지엄’에서 답을 모색하다]]></title>
         <id>https://www.elle.co.kr/article/82734</id>
@@ -29,31 +53,5 @@
         <id>https://www.elle.co.kr/article/82690</id>
         <link href="https://www.elle.co.kr/article/82690"/>
         <updated>2023-12-08T05:39:52.280Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[런던 아이보다 크다! 서울 상암동에 상륙하는 초대형 대관람차]]></title>
-        <id>https://www.elle.co.kr/article/82689</id>
-        <link href="https://www.elle.co.kr/article/82689"/>
-        <updated>2023-12-06T17:39:44.812Z</updated>
-        <content type="html"><![CDATA[모노레일까지 생긴다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나 홀로 집에' 케빈, 30년 만에 엄마와 눈물의 재회?]]></title>
-        <id>https://www.elle.co.kr/article/82659</id>
-        <link href="https://www.elle.co.kr/article/82659"/>
-        <updated>2023-12-05T17:40:23.737Z</updated>
-        <content type="html"><![CDATA[두 사람의 만남이 더욱 특별한 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부러움에 솔직하고 완벽하게 지는 법 #여자읽는여자]]></title>
-        <id>https://www.elle.co.kr/article/82657</id>
-        <link href="https://www.elle.co.kr/article/82657"/>
-        <updated>2023-12-04T17:39:50.215Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성이 13년 전 판권 산 드라마에 더 스케일 커진 ‘스홈2’까지! 12월 첫 주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/82635</id>
-        <link href="https://www.elle.co.kr/article/82635"/>
-        <updated>2023-12-04T17:39:50.216Z</updated>
     </entry>
 </feed>
