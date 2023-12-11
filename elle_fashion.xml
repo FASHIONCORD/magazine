@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-11T05:40:44.678Z</updated>
+    <updated>2023-12-11T17:40:57.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해린이 피어나는 순간 #ELLE_D에디션]]></title>
+        <id>https://www.elle.co.kr/article/82828</id>
+        <link href="https://www.elle.co.kr/article/82828"/>
+        <updated>2023-12-11T17:39:42.780Z</updated>
+        <content type="html"><![CDATA[피어나는 꽃, 그리고 그 꽃망울을 지키려 돋은 가시처럼. 순수하고 맑은 얼굴과 차가운 눈빛이 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해린의 눈맞춤]]></title>
         <id>https://www.elle.co.kr/article/82739</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/82672"/>
         <updated>2023-12-07T05:39:30.057Z</updated>
         <content type="html"><![CDATA[소중한 사람에게 주고 싶은 룰루레몬의 윈터 화이트 홀리데이 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 화려하게, 더 유쾌하게!]]></title>
-        <id>https://www.elle.co.kr/article/82634</id>
-        <link href="https://www.elle.co.kr/article/82634"/>
-        <updated>2023-12-06T05:39:22.612Z</updated>
-        <content type="html"><![CDATA[끊임없이 확장하는 부쉐론 하이 주얼리.]]></content>
     </entry>
 </feed>
