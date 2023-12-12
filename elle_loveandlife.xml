@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-12-12T05:40:43.562Z</updated>
+    <updated>2023-12-12T17:41:06.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주살이에 반해 서귀포에 정착한 세컨드뮤지오 대표 김지윤의 주택 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/82844</id>
+        <link href="https://www.elle.co.kr/article/82844"/>
+        <updated>2023-12-12T17:40:57.314Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공효진이 반려견과 함께 찾은 카페는? 셀러브리티가 다녀간 베이커리 카페 3]]></title>
         <id>https://www.elle.co.kr/article/82827</id>
@@ -51,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/82715"/>
         <updated>2023-12-07T05:40:34.130Z</updated>
         <content type="html"><![CDATA[딱딱하게 굳어 있던 정신과 육체를 말랑하게 풀어줘야 할 때. 일본 교토 ‘두짓 타니 교토(Dus...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여행자가 자연을 껴안는 방법, 아만풀로에서 보낸 일주일]]></title>
-        <id>https://www.elle.co.kr/article/82717</id>
-        <link href="https://www.elle.co.kr/article/82717"/>
-        <updated>2023-12-06T17:40:21.953Z</updated>
-        <content type="html"><![CDATA[바다와 하늘, 생명과의 조우로 충만했던 필리핀 '아만풀로(Amanpulo)']]></content>
     </entry>
 </feed>
