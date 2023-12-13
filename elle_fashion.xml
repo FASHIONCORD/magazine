@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-13T05:40:59.300Z</updated>
+    <updated>2023-12-13T17:41:01.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트리 앞에서 인생샷 건지는 법 (feat. 지수, 크리스탈, 슬기)]]></title>
+        <id>https://www.elle.co.kr/article/82912</id>
+        <link href="https://www.elle.co.kr/article/82912"/>
+        <updated>2023-12-13T17:39:37.417Z</updated>
+        <content type="html"><![CDATA[12월의 ‘프사’로 강력 추천! 화려한 크리스마스트리 앞에서 찍은 인생샷으로 12월의 추억을 간...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[막스 마라의 스톡홀름 여정]]></title>
+        <id>https://www.elle.co.kr/article/82910</id>
+        <link href="https://www.elle.co.kr/article/82910"/>
+        <updated>2023-12-13T17:39:37.419Z</updated>
+        <content type="html"><![CDATA[스톡홀름에서 열린 막스 마라의 리조트 컬렉션은 동화 같은 미드소마 페스티벌과 낭만주의 건축양...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리집 댕댕이를 위한 연말 선물?]]></title>
         <id>https://www.elle.co.kr/article/82883</id>
@@ -46,19 +60,5 @@
         <link href="https://www.elle.co.kr/article/82739"/>
         <updated>2023-12-11T05:39:17.548Z</updated>
         <content type="html"><![CDATA[카메라를 응시하는 해린의 눈빛은 또렷함이 빛난다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타들이 네 컷으로 추억을 남기는 법 #포토부스 #즉석사진]]></title>
-        <id>https://www.elle.co.kr/article/82791</id>
-        <link href="https://www.elle.co.kr/article/82791"/>
-        <updated>2023-12-11T05:39:17.548Z</updated>
-        <content type="html"><![CDATA[친구들이랑 모이면 즉석 사진은 국룰! 올해 추억을 하나라도 더 남기고 싶다면 이렇게 찍어보세...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭닥폭닥해! 겨울이면 생각나는 터틀넥 스웨터 6]]></title>
-        <id>https://www.elle.co.kr/article/82743</id>
-        <link href="https://www.elle.co.kr/article/82743"/>
-        <updated>2023-12-09T05:39:28.978Z</updated>
-        <content type="html"><![CDATA[이너로도 좋고, 레이어드 아이템으로도 훌륭한 터틀넥 스웨터 스타일링을 확인해 보세요.]]></content>
     </entry>
 </feed>

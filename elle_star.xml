@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-13T05:40:59.299Z</updated>
+    <updated>2023-12-13T17:41:01.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번에도 케미 대박! 이세영 사극 '계약결혼뎐' 인기 요인 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/82913</id>
+        <link href="https://www.elle.co.kr/article/82913"/>
+        <updated>2023-12-13T17:39:52.915Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸값 9200억, 오타니 쇼헤이의 LA다저스 첫 무대가 서울 고척돔?!]]></title>
+        <id>https://www.elle.co.kr/article/82894</id>
+        <link href="https://www.elle.co.kr/article/82894"/>
+        <updated>2023-12-13T17:39:52.922Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 같은 파리 여행, 처음 공개된 다니엘 헤니X루 쿠마가이 #럽스타그램]]></title>
         <id>https://www.elle.co.kr/article/82884</id>
@@ -42,18 +54,5 @@
         <id>https://www.elle.co.kr/article/82858</id>
         <link href="https://www.elle.co.kr/article/82858"/>
         <updated>2023-12-11T05:39:36.231Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목숨 건 마피아 게임과 보기만 해도 짠한 모녀 케미가 빛난 12월 2주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/82836</id>
-        <link href="https://www.elle.co.kr/article/82836"/>
-        <updated>2023-12-11T05:39:36.237Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해린이 피어나는 순간 #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/82828</id>
-        <link href="https://www.elle.co.kr/article/82828"/>
-        <updated>2023-12-10T05:39:46.668Z</updated>
-        <content type="html"><![CDATA[피어나는 꽃, 그리고 그 꽃망울을 지키려 돋은 가시처럼. 순수하고 맑은 얼굴과 차가운 눈빛이 ...]]></content>
     </entry>
 </feed>

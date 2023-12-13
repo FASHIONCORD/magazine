@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 05:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 17:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘뉴욕타임스’ 선정, ‘올해 최고의 요리’에 포함된 한국 음식은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37033359&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37033359&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Dec 2023 17:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTNfODYg/MDAxNzAyNDU4NjU2MTU2.xtn7UsknDnnY55SKdXxcBReVeJDT5v0C3QVGEbbWCK4g.ymwgPU3rVypU6H-PgaIDynH52Z9UvSPc9vqx_fMd65Ug.JPEG/IxC-IcqfbooEJ-DzFbvfda44DOP0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023년 전 세계에서 가장 많이 검색된 레시피는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37027571&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 29 May 2022 17:45:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfMjEw/MDAxNjUzNjQ1MTkzNDE0.L_XUma2vPaKUbck8T4ThWEj7H13Wpzb9L1xu0nemTP8g.8kwQc1xmlcmU-tbyLweJohH_xgVW_No0Vhg4naDdhJMg.JPEG/IBPMHQb2ja_CmHnqPiA2ynjYoQJ8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버거킹 & 서브웨이 등, 패스트푸드 음식점에서 감자튀김 판매 중단된다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33871128&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33871128&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Sat, 28 May 2022 05:42:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjdfMTAz/MDAxNjUzNjQ0Njc5NTAw.P4veT5Ar7m5QsTCHFfIRQEEho-Bdrbl0r9xN5Y3gRsgg.YndA3q40DSsaZs8XVLMBgSjY4FP1AhK-Lti91EULX3Ug.JPEG/IYiN5ywgVUZlSi2EavxJqRmE0Le8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

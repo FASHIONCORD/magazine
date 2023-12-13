@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-12-13T05:40:59.300Z</updated>
+    <updated>2023-12-13T17:41:01.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[270만 명이 즐긴 비욘세 월드 투어 공연 CGV 단독 개봉 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/82971</id>
+        <link href="https://www.elle.co.kr/article/82971"/>
+        <updated>2023-12-13T17:40:30.528Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팀 버튼의 원조 '배트맨'부터 속편 앞둔 '듄'까지, 2023 겨울 재개봉 영화 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/82936</id>
@@ -77,11 +83,5 @@
         <id>https://www.elle.co.kr/article/82455</id>
         <link href="https://www.elle.co.kr/article/82455"/>
         <updated>2023-11-27T17:40:15.008Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평단X대중 호평 다 잡고 단숨에 200만 관객 찍은'서울의 봄' 특별출연 스틸컷.jpg]]></title>
-        <id>https://www.elle.co.kr/article/82454</id>
-        <link href="https://www.elle.co.kr/article/82454"/>
-        <updated>2023-11-27T17:40:15.009Z</updated>
     </entry>
 </feed>

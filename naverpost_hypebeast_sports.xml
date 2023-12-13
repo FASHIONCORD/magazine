@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 05:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 17:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정후, 샌프란시스코 자이언츠로 이적한다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37033375&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37033375&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Dec 2023 17:39:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTNfOTQg/MDAxNzAyNDU4Nzg3NDI4.CM_SfrUiEpf1lNVKfapCYiIY12eNC1Dw4zVuKRk2Oe8g.CeLiQ_f-uULZZNlV5NUy5HhzkWtvx2ls72OOUN3OEOYg.JPEG/IMXjQO3oQbrzGT-8z27eThuDTNxY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리오넬 메시의 월드컵 우승 유니폼이 소더비 경매에 오른다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36937257&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMDNfMjk3/MDAxNTgwNjk4MTc4NTgy.HGaq3ERE3nP-npM14VDlW3y_OzFTvYDomL-ch_sVX_gg.z23emPghPYs-E_ygVrMVtL3if1rS-69ZswgaCOD7Qcwg.JPEG/IdhH-tTDvZ7aF81SuSX8_UjiJutk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔라스와 아디다스가 공동 제작한 유벤투스 유니폼, 그라운드에 등판]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=26745284&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=26745284&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTEwMzFfMTIg/MDAxNTcyNDkxMjQ5NzY0.dX43UTYL9vh2rGqeNL8x-6NLzFKZ5Ck28wzKkcJtykQg.nVgkNqisjOrUyISpG6CtZAYi7HiYE1MkMzHZ-YKULCEg.JPEG/IFYBiZzNvUr2ExFvA5mMcThLdeMA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

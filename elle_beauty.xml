@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-13T05:40:59.299Z</updated>
+    <updated>2023-12-13T17:41:01.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모델 중의 모델, 이소라가 20년 넘게 변치 않는 체형 유지하는 방법 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/82783</id>
+        <link href="https://www.elle.co.kr/article/82783"/>
+        <updated>2023-12-13T17:39:45.760Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[악건성은 주목! 피부를 구원해 줄 겨울철 보디 모이스처라이저.zip_선배’s 어드바이스 #197]]></title>
         <id>https://www.elle.co.kr/article/82748</id>
@@ -53,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/82618"/>
         <updated>2023-12-05T17:39:56.220Z</updated>
         <content type="html"><![CDATA[피부 톤은 맑게, 결은 쫀쫀하게! 게다가 보습까지 잡았다?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9년 만의 도쿄돔에서 파격 드레스 선보인 최수영의 관리 비결 총정리 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/82594</id>
-        <link href="https://www.elle.co.kr/article/82594"/>
-        <updated>2023-12-05T05:39:20.431Z</updated>
     </entry>
 </feed>
