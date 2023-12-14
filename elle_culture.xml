@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-14T05:40:47.377Z</updated>
+    <updated>2023-12-14T17:41:01.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팀 버튼의 원조 '배트맨'부터 속편 앞둔 '듄'까지, 2023 겨울 재개봉 영화 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/82936</id>
+        <link href="https://www.elle.co.kr/article/82936"/>
+        <updated>2023-12-14T17:39:59.787Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번에도 케미 대박! 이세영 사극 '계약결혼뎐' 인기 요인 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/82913</id>
+        <link href="https://www.elle.co.kr/article/82913"/>
+        <updated>2023-12-14T17:39:59.789Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸값 9200억, 오타니 쇼헤이의 LA다저스 첫 무대가 서울 고척돔?!]]></title>
+        <id>https://www.elle.co.kr/article/82894</id>
+        <link href="https://www.elle.co.kr/article/82894"/>
+        <updated>2023-12-14T17:39:59.790Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데코데코 리빙룸 아케이드: 삶을 짓는 공간을 조명하다 #요즘전시]]></title>
         <id>https://www.elle.co.kr/article/82886</id>
@@ -34,23 +52,5 @@
         <id>https://www.elle.co.kr/article/82857</id>
         <link href="https://www.elle.co.kr/article/82857"/>
         <updated>2023-12-11T05:39:46.751Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주살이에 반해 서귀포에 정착한 세컨드뮤지오 대표 김지윤의 주택 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/82844</id>
-        <link href="https://www.elle.co.kr/article/82844"/>
-        <updated>2023-12-11T05:39:46.752Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목숨 건 마피아 게임과 보기만 해도 짠한 모녀 케미가 빛난 12월 2주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/82836</id>
-        <link href="https://www.elle.co.kr/article/82836"/>
-        <updated>2023-12-11T05:39:46.786Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 촬영지, 정우성도 인증샷 찍은 이곳! (ft.500만 돌파)]]></title>
-        <id>https://www.elle.co.kr/article/82784</id>
-        <link href="https://www.elle.co.kr/article/82784"/>
-        <updated>2023-12-11T05:39:46.788Z</updated>
     </entry>
 </feed>

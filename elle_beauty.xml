@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-14T05:40:47.391Z</updated>
+    <updated>2023-12-14T17:41:01.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
     <entry>
@@ -26,7 +26,7 @@
         <content type="html"><![CDATA[뷰티 브랜드의 베스트셀러를 다채롭게 경험할 수 있는 어드벤트 캘린더.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윈터의 새 헤어 컬러는? 요즘 눈에 띄는 #레드]]></title>
+        <title type="html"><![CDATA[요즘 눈에 띄는 헤어 컬러 #레드]]></title>
         <id>https://www.elle.co.kr/article/82697</id>
         <link href="https://www.elle.co.kr/article/82697"/>
         <updated>2023-12-08T17:39:19.014Z</updated>

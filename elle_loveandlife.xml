@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-12-14T05:40:47.394Z</updated>
+    <updated>2023-12-14T17:41:01.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일루미네이션 보러 도쿄에 간다 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/82855</id>
+        <link href="https://www.elle.co.kr/article/82855"/>
+        <updated>2023-12-14T17:40:52.676Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주살이에 반해 서귀포에 정착한 세컨드뮤지오 대표 김지윤의 주택 #홈터뷰]]></title>
         <id>https://www.elle.co.kr/article/82844</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/82734"/>
         <updated>2023-12-08T05:40:29.440Z</updated>
         <content type="html"><![CDATA[생태적 전환, 그러면 무엇을 알아야 할까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두짓타니 교토에서 보낸 고요한 하루]]></title>
-        <id>https://www.elle.co.kr/article/82715</id>
-        <link href="https://www.elle.co.kr/article/82715"/>
-        <updated>2023-12-07T05:40:34.130Z</updated>
-        <content type="html"><![CDATA[딱딱하게 굳어 있던 정신과 육체를 말랑하게 풀어줘야 할 때. 일본 교토 ‘두짓 타니 교토(Dus...]]></content>
     </entry>
 </feed>
