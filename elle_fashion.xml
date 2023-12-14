@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-13T17:41:01.542Z</updated>
+    <updated>2023-12-14T05:40:47.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무겁게 즐기는 XXL 코트]]></title>
+        <id>https://www.elle.co.kr/article/82941</id>
+        <link href="https://www.elle.co.kr/article/82941"/>
+        <updated>2023-12-14T05:39:26.840Z</updated>
+        <content type="html"><![CDATA[바닥을 쓸고 다니는 그녀들의 맥시 코트 연출법.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트리 앞에서 인생샷 건지는 법 (feat. 지수, 크리스탈, 슬기)]]></title>
         <id>https://www.elle.co.kr/article/82912</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/82828"/>
         <updated>2023-12-11T17:39:42.780Z</updated>
         <content type="html"><![CDATA[피어나는 꽃, 그리고 그 꽃망울을 지키려 돋은 가시처럼. 순수하고 맑은 얼굴과 차가운 눈빛이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해린의 눈맞춤]]></title>
-        <id>https://www.elle.co.kr/article/82739</id>
-        <link href="https://www.elle.co.kr/article/82739"/>
-        <updated>2023-12-11T05:39:17.548Z</updated>
-        <content type="html"><![CDATA[카메라를 응시하는 해린의 눈빛은 또렷함이 빛난다.]]></content>
     </entry>
 </feed>

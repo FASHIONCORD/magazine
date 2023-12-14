@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-13T17:41:01.550Z</updated>
+    <updated>2023-12-14T05:40:47.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데코데코 리빙룸 아케이드: 삶을 짓는 공간을 조명하다 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/82886</id>
+        <link href="https://www.elle.co.kr/article/82886"/>
+        <updated>2023-12-14T05:39:57.349Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[txt와 jpg의 차이?! 성격 따라 확 갈리는 RM과 뷔의 입대 소감]]></title>
         <id>https://www.elle.co.kr/article/82876</id>
@@ -46,12 +52,5 @@
         <id>https://www.elle.co.kr/article/82784</id>
         <link href="https://www.elle.co.kr/article/82784"/>
         <updated>2023-12-11T05:39:46.788Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인류를 덮친 기후 위기, 샤넬 컬처 펀드와 리움미술관의 ‘아이디어 뮤지엄’에서 답을 모색하다]]></title>
-        <id>https://www.elle.co.kr/article/82734</id>
-        <link href="https://www.elle.co.kr/article/82734"/>
-        <updated>2023-12-08T17:39:36.824Z</updated>
-        <content type="html"><![CDATA[생태적 전환, 그러면 무엇을 알아야 할까?]]></content>
     </entry>
 </feed>

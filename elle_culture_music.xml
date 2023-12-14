@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2023-12-13T17:41:01.561Z</updated>
+    <updated>2023-12-14T05:40:47.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (1)]]></title>
+        <id>https://www.elle.co.kr/article/82981</id>
+        <link href="https://www.elle.co.kr/article/82981"/>
+        <updated>2023-12-14T05:40:07.394Z</updated>
+        <content type="html"><![CDATA[커플화보 홍수부터 더글로리를 대하는 엘르의 방식, 그리고 BTS와의 조우까지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진짜 '뉴스룸' 뜬 노엘 갤러거, '여권 훔치겠다'는 팬 보고 든 생각.txt]]></title>
         <id>https://www.elle.co.kr/article/82692</id>
@@ -80,12 +87,5 @@
         <id>https://www.elle.co.kr/article/81432</id>
         <link href="https://www.elle.co.kr/article/81432"/>
         <updated>2023-10-18T17:41:46.151Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작지만 결코 작지 않은, 타이니 데스크 코리아의 시작]]></title>
-        <id>https://www.elle.co.kr/article/81322</id>
-        <link href="https://www.elle.co.kr/article/81322"/>
-        <updated>2023-10-17T17:41:21.400Z</updated>
-        <content type="html"><![CDATA[타이니 데스크 코리아는 K팝이 주도하는 지금의 음악 씬에 어떤 변화를 선사할 수 있을까]]></content>
     </entry>
 </feed>
