@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-14T17:41:01.892Z</updated>
+    <updated>2023-12-15T05:41:28.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메이저리거 된 '바람의 손자', 1484억에 MLB 가는 이정후 이적 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/82956</id>
+        <link href="https://www.elle.co.kr/article/82956"/>
+        <updated>2023-12-15T05:40:25.295Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제이홉과 슈가도 함께! 밤톨이 그 자체인 지민X정국 입대 근황.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82937</id>
+        <link href="https://www.elle.co.kr/article/82937"/>
+        <updated>2023-12-15T05:40:25.295Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박나래가 자택에 직접 설치한 최신 유행 트리.jpg]]></title>
+        <id>https://www.elle.co.kr/article/82914</id>
+        <link href="https://www.elle.co.kr/article/82914"/>
+        <updated>2023-12-15T05:40:25.296Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번에도 케미 대박! 이세영 사극 '계약결혼뎐' 인기 요인 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/82913</id>
@@ -35,24 +53,5 @@
         <link href="https://www.elle.co.kr/article/82869"/>
         <updated>2023-12-12T05:39:35.093Z</updated>
         <content type="html"><![CDATA[매일의 노고와 고민을 내려놓고 흥미로운 일에 몰두하는 셀러브리티의 취미생활.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<이재, 곧 죽습니다> 에서 서인국과 박소담이 마주한 수십 번의 죽음. 그 가운데서 두 사람이 알게 된 것들.]]></title>
-        <id>https://www.elle.co.kr/article/82866</id>
-        <link href="https://www.elle.co.kr/article/82866"/>
-        <updated>2023-12-12T05:39:35.094Z</updated>
-        <content type="html"><![CDATA[&lt;이재, 곧 죽습니다&gt; 에서 서인국과 박소담이 마주한 수십 번의 죽음. 그 가운데서 두 사람이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 여신 권은비의 배우 데뷔작 정보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/82859</id>
-        <link href="https://www.elle.co.kr/article/82859"/>
-        <updated>2023-12-11T05:39:36.231Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공효진과 케빈오의 달달한 밤 산책 #럽스타그램]]></title>
-        <id>https://www.elle.co.kr/article/82858</id>
-        <link href="https://www.elle.co.kr/article/82858"/>
-        <updated>2023-12-11T05:39:36.231Z</updated>
     </entry>
 </feed>
