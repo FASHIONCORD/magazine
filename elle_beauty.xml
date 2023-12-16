@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-15T17:40:45.776Z</updated>
+    <updated>2023-12-16T05:40:38.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울엔 오일]]></title>
+        <id>https://www.elle.co.kr/article/82864</id>
+        <link href="https://www.elle.co.kr/article/82864"/>
+        <updated>2023-12-16T05:39:30.487Z</updated>
+        <content type="html"><![CDATA[겉과 속이 바싹 말라버린 살갗에 온기를 더하기엔 오일만한 게 없다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건강미 대표 제시! 놀라운 힙업 비결은 이것? #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/82817</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/82596"/>
         <updated>2023-12-06T17:39:23.596Z</updated>
         <content type="html"><![CDATA[시선을 뗄 수 없을걸?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 조합 실화? 뷰티 브랜드의 색다른 협업]]></title>
-        <id>https://www.elle.co.kr/article/82588</id>
-        <link href="https://www.elle.co.kr/article/82588"/>
-        <updated>2023-12-06T05:39:31.880Z</updated>
-        <content type="html"><![CDATA[두 팔 벌려 환영하고 싶은 뷰티 브랜드의 전례 없는 컬래버레이션 소식!]]></content>
     </entry>
 </feed>

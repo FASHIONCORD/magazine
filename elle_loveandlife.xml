@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-12-15T17:40:45.773Z</updated>
+    <updated>2023-12-16T05:40:38.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빙어-송어-산천어까지! 겨울철 낚시 축제 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/82939</id>
+        <link href="https://www.elle.co.kr/article/82939"/>
+        <updated>2023-12-16T05:40:28.258Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셰프 피에르 에르메가 선사하는 베지터블 디저트의 세계]]></title>
         <id>https://www.elle.co.kr/article/82911</id>
@@ -49,12 +55,5 @@
         <link href="https://www.elle.co.kr/article/82757"/>
         <updated>2023-12-11T05:40:34.510Z</updated>
         <content type="html"><![CDATA[사랑스러운 연말 선물을 준비할 시간이 찾아왔다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 최고의 피자부터 '진짜' 핸드드립 커피까지, 합정동 플레이스 4 #엘르동]]></title>
-        <id>https://www.elle.co.kr/article/82769</id>
-        <link href="https://www.elle.co.kr/article/82769"/>
-        <updated>2023-12-08T17:40:15.667Z</updated>
-        <content type="html"><![CDATA[여기 다 알면 은둔 고수 인정.]]></content>
     </entry>
 </feed>
