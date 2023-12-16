@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-16T05:40:38.276Z</updated>
+    <updated>2023-12-16T17:40:56.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안경 사러 갈 때 이것만 보고 가세요]]></title>
+        <id>https://www.elle.co.kr/article/83003</id>
+        <link href="https://www.elle.co.kr/article/83003"/>
+        <updated>2023-12-16T17:39:18.842Z</updated>
+        <content type="html"><![CDATA[유재석의 스타일링을 완성하는 건 안경? 국민 MC의 스타일리스트 이주은과 함께 하는 안경 토크...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화려한 연말을 위한 진주 주얼리]]></title>
         <id>https://www.elle.co.kr/article/82973</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/82912"/>
         <updated>2023-12-13T17:39:37.417Z</updated>
         <content type="html"><![CDATA[12월의 ‘프사’로 강력 추천! 화려한 크리스마스트리 앞에서 찍은 인생샷으로 12월의 추억을 간...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막스 마라의 스톡홀름 여정]]></title>
-        <id>https://www.elle.co.kr/article/82910</id>
-        <link href="https://www.elle.co.kr/article/82910"/>
-        <updated>2023-12-13T17:39:37.419Z</updated>
-        <content type="html"><![CDATA[스톡홀름에서 열린 막스 마라의 리조트 컬렉션은 동화 같은 미드소마 페스티벌과 낭만주의 건축양...]]></content>
     </entry>
 </feed>
