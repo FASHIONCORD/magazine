@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-16T17:40:56.285Z</updated>
+    <updated>2023-12-17T05:40:57.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈밭을 뛰어놀아도 거뜬한 패딩 아이템]]></title>
+        <id>https://www.elle.co.kr/article/83014</id>
+        <link href="https://www.elle.co.kr/article/83014"/>
+        <updated>2023-12-17T05:39:34.544Z</updated>
+        <content type="html"><![CDATA[새하얀 설원 위를 가르며.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홀리데이 분위기를 돋울 크리스마스 아이템]]></title>
+        <id>https://www.elle.co.kr/article/83013</id>
+        <link href="https://www.elle.co.kr/article/83013"/>
+        <updated>2023-12-17T05:39:34.546Z</updated>
+        <content type="html"><![CDATA[누구나 산타는 될 수 있어!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안경 사러 갈 때 이것만 보고 가세요]]></title>
         <id>https://www.elle.co.kr/article/83003</id>
@@ -46,19 +60,5 @@
         <link href="https://www.elle.co.kr/article/82942"/>
         <updated>2023-12-14T17:39:31.111Z</updated>
         <content type="html"><![CDATA[빨갛게 빨갛게 물들었네.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무겁게 즐기는 XXL 코트]]></title>
-        <id>https://www.elle.co.kr/article/82941</id>
-        <link href="https://www.elle.co.kr/article/82941"/>
-        <updated>2023-12-14T05:39:26.840Z</updated>
-        <content type="html"><![CDATA[바닥을 쓸고 다니는 그녀들의 맥시 코트 연출법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트리 앞에서 인생샷 건지는 법 (feat. 지수, 크리스탈, 슬기)]]></title>
-        <id>https://www.elle.co.kr/article/82912</id>
-        <link href="https://www.elle.co.kr/article/82912"/>
-        <updated>2023-12-13T17:39:37.417Z</updated>
-        <content type="html"><![CDATA[12월의 ‘프사’로 강력 추천! 화려한 크리스마스트리 앞에서 찍은 인생샷으로 12월의 추억을 간...]]></content>
     </entry>
 </feed>
