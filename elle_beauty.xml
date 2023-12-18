@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-17T17:40:50.944Z</updated>
+    <updated>2023-12-18T05:41:12.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이돌의 겨울 스킨케어 비법 대공개! 소민의 꿀피부를 위한 아이템 5]]></title>
+        <id>https://www.elle.co.kr/article/82873</id>
+        <link href="https://www.elle.co.kr/article/82873"/>
+        <updated>2023-12-18T05:40:06.813Z</updated>
+        <content type="html"><![CDATA[속건조를 확실하게 잡아주는 아이템부터 슬로에이징을 위한 앰플까지! KARD 소민의 화장대를 지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[겨울엔 오일]]></title>
         <id>https://www.elle.co.kr/article/82864</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/82663"/>
         <updated>2023-12-07T17:39:28.158Z</updated>
         <content type="html"><![CDATA[피부 표현은 자연스럽게, 립 메이크업은 강렬하게! 유인영을 따라 도회적인 분위기 연출해 보세요...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신상 아이섀도 탐구]]></title>
-        <id>https://www.elle.co.kr/article/82596</id>
-        <link href="https://www.elle.co.kr/article/82596"/>
-        <updated>2023-12-06T17:39:23.596Z</updated>
-        <content type="html"><![CDATA[시선을 뗄 수 없을걸?]]></content>
     </entry>
 </feed>

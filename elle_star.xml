@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-17T17:40:50.956Z</updated>
+    <updated>2023-12-18T05:41:12.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아들 젬마와 첫 크리스마스 맞이 시작한 윤승아 근황.jpg]]></title>
+        <id>https://www.elle.co.kr/article/83011</id>
+        <link href="https://www.elle.co.kr/article/83011"/>
+        <updated>2023-12-18T05:40:13.946Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[270만 명이 즐긴 비욘세 월드 투어 공연 CGV 단독 개봉 정보.txt]]></title>
         <id>https://www.elle.co.kr/article/82971</id>
@@ -46,11 +52,5 @@
         <id>https://www.elle.co.kr/article/82894</id>
         <link href="https://www.elle.co.kr/article/82894"/>
         <updated>2023-12-13T17:39:52.922Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 같은 파리 여행, 처음 공개된 다니엘 헤니X루 쿠마가이 #럽스타그램]]></title>
-        <id>https://www.elle.co.kr/article/82884</id>
-        <link href="https://www.elle.co.kr/article/82884"/>
-        <updated>2023-12-13T05:39:55.192Z</updated>
     </entry>
 </feed>
