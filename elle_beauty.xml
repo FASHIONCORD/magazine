@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-18T05:41:12.565Z</updated>
+    <updated>2023-12-18T17:41:07.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꿈의 안티에이징 성분, 펩타이드의 모든 것_선배’s 어드바이스 #198]]></title>
+        <id>https://www.elle.co.kr/article/82920</id>
+        <link href="https://www.elle.co.kr/article/82920"/>
+        <updated>2023-12-18T17:39:38.387Z</updated>
+        <content type="html"><![CDATA[식지 않는 유행! 스킨케어의 미래, 펩타이드가 궁금하다면.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이돌의 겨울 스킨케어 비법 대공개! 소민의 꿀피부를 위한 아이템 5]]></title>
         <id>https://www.elle.co.kr/article/82873</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/82697"/>
         <updated>2023-12-08T17:39:19.014Z</updated>
         <content type="html"><![CDATA[빨간 머리에서 뿜어져 나오는 화려함과 에너지를 느껴보시길!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단 10분 만에 분위기 변신! 유인영의 초스피드 메이크업 HOW TO]]></title>
-        <id>https://www.elle.co.kr/article/82663</id>
-        <link href="https://www.elle.co.kr/article/82663"/>
-        <updated>2023-12-07T17:39:28.158Z</updated>
-        <content type="html"><![CDATA[피부 표현은 자연스럽게, 립 메이크업은 강렬하게! 유인영을 따라 도회적인 분위기 연출해 보세요...]]></content>
     </entry>
 </feed>

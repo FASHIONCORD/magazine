@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2023-12-18T05:41:12.536Z</updated>
+    <updated>2023-12-18T17:41:07.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신혜선X지창욱 청정 로맨스, '웰컴투 삼달리' 인기 요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/83091</id>
+        <link href="https://www.elle.co.kr/article/83091"/>
+        <updated>2023-12-18T17:40:25.632Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열 두 번 죽었다 살아난 남자와 브로맨스 사극이 있는 12월 3주차 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/83035</id>
@@ -78,12 +84,5 @@
         <id>https://www.elle.co.kr/article/82690</id>
         <link href="https://www.elle.co.kr/article/82690"/>
         <updated>2023-12-04T17:40:09.182Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나 홀로 집에' 케빈, 30년 만에 엄마와 눈물의 재회?]]></title>
-        <id>https://www.elle.co.kr/article/82659</id>
-        <link href="https://www.elle.co.kr/article/82659"/>
-        <updated>2023-12-03T17:40:32.937Z</updated>
-        <content type="html"><![CDATA[두 사람의 만남이 더욱 특별한 이유.]]></content>
     </entry>
 </feed>

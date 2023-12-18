@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-18T05:41:12.554Z</updated>
+    <updated>2023-12-18T17:41:07.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꿈꾸는 크리스마스 트리]]></title>
+        <id>https://www.elle.co.kr/article/83046</id>
+        <link href="https://www.elle.co.kr/article/83046"/>
+        <updated>2023-12-18T17:39:30.326Z</updated>
+        <content type="html"><![CDATA[크리스마스트리 위에 반짝이는 오너먼트처럼 밋밋한 룩도 특별하게 업그레이드해 줄 백들이 쏟아졌...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홀리데이 무드 200% 끌어 올리는 스타들의 반짝이 패션 6]]></title>
         <id>https://www.elle.co.kr/article/83039</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/82969"/>
         <updated>2023-12-16T05:39:20.377Z</updated>
         <content type="html"><![CDATA[육아도, 반려견 콜롬보도, 패션도 놓칠 수 없어!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말에만 가질 수 있어!]]></title>
-        <id>https://www.elle.co.kr/article/82968</id>
-        <link href="https://www.elle.co.kr/article/82968"/>
-        <updated>2023-12-15T05:40:08.781Z</updated>
-        <content type="html"><![CDATA[올해가 가기 전 확인해야할 협업 모음.zip]]></content>
     </entry>
 </feed>
