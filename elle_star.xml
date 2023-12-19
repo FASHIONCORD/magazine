@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-18T17:41:07.354Z</updated>
+    <updated>2023-12-19T05:40:42.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[롤드컵 직관한 박보영, 직접 공개한 페이커와의 인증샷은?]]></title>
+        <id>https://www.elle.co.kr/article/83032</id>
+        <link href="https://www.elle.co.kr/article/83032"/>
+        <updated>2023-12-19T05:39:47.214Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고유명사 '한복수지'! 엘르 1월호 커버스타 등극]]></title>
         <id>https://www.elle.co.kr/article/83004</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/82937</id>
         <link href="https://www.elle.co.kr/article/82937"/>
         <updated>2023-12-15T05:40:25.295Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박나래가 자택에 직접 설치한 최신 유행 트리.jpg]]></title>
-        <id>https://www.elle.co.kr/article/82914</id>
-        <link href="https://www.elle.co.kr/article/82914"/>
-        <updated>2023-12-15T05:40:25.296Z</updated>
     </entry>
 </feed>
