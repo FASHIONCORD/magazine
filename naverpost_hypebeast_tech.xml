@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 05:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 17:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 워치, 미국에서 일시 판매 중단 조치]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37062113&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37062113&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 19 Dec 2023 17:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTlfMTQ1/MDAxNzAyOTc2MjM5NDI4.IOjGeX5_7zY2WsNx7FK2yjCXyS7IVuuTRcFyNJkoyOwg.a3Xre9zLkcnBb6IKAwaK-DG7kNnJn1ScvbOl-_vawfgg.JPEG/IWQJudvF83yQ7bJrVnbVjz9eP8w4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘네이처’가 선정한 2023년 과학계 주요 인물은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37044702&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Apr 2022 17:44:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTFfMTYx/MDAxNjQ5NjU5NTA3NTEz._smg0Ihii_6o5_xVR_Sj6RZYbODansjVNMjDdJ2ubAsg.g8iPcEbaufpp_n0WQrywESuJ44xX2xM2bFpi6o90VL8g.JPEG/IvWDmwopFLXg54DmFfHpfOrF9Mlk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램 포스팅에서 사진 따로 골라 삭제 가능해진다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32811104&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32811104&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 23 Nov 2021 17:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfMTE3/MDAxNjM3NjU3MTc2MjA0.HDISn-VnrhdbwMMagOQVkL1kJD6iM5rN5odNIW4vtjMg.boxIeEAFdtPutrSNUlnp1a0EVWF4WVuRQKc4d6HnUVAg.JPEG/IMkD10qArE_ghU4gm_0NG2D8XGpE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

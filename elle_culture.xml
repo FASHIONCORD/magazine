@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-19T05:40:42.120Z</updated>
+    <updated>2023-12-19T17:40:49.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (2)]]></title>
+        <id>https://www.elle.co.kr/article/83009</id>
+        <link href="https://www.elle.co.kr/article/83009"/>
+        <updated>2023-12-19T17:40:03.834Z</updated>
+        <content type="html"><![CDATA[나이들어가는 것에 대한 아름다움, 그리고 우리가 조금 더 소리높여 자꾸 말하고 싶은 것들에 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인테리어 스튜디오 라이크라이크홈 대표 손명희가 손수 고친 아파트 #홈터뷰]]></title>
+        <id>https://www.elle.co.kr/article/82997</id>
+        <link href="https://www.elle.co.kr/article/82997"/>
+        <updated>2023-12-19T17:40:03.838Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신이 아는 ‘암컷’에 관한 사실은 전부 틀렸다! 여성의 진짜 이야기를 그려낸 책 3]]></title>
         <id>https://www.elle.co.kr/article/82994</id>
@@ -42,17 +55,5 @@
         <id>https://www.elle.co.kr/article/82894</id>
         <link href="https://www.elle.co.kr/article/82894"/>
         <updated>2023-12-14T17:39:59.790Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데코데코 리빙룸 아케이드: 삶을 짓는 공간을 조명하다 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/82886</id>
-        <link href="https://www.elle.co.kr/article/82886"/>
-        <updated>2023-12-14T05:39:57.349Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[txt와 jpg의 차이?! 성격 따라 확 갈리는 RM과 뷔의 입대 소감]]></title>
-        <id>https://www.elle.co.kr/article/82876</id>
-        <link href="https://www.elle.co.kr/article/82876"/>
-        <updated>2023-12-13T17:40:14.124Z</updated>
     </entry>
 </feed>
