@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-20T05:40:28.671Z</updated>
+    <updated>2023-12-20T17:41:09.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[열 두 번 죽었다 살아난 남자와 브로맨스 사극이 있는 12월 3주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/83035</id>
+        <link href="https://www.elle.co.kr/article/83035"/>
+        <updated>2023-12-20T17:39:53.465Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (2)]]></title>
         <id>https://www.elle.co.kr/article/83009</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/82913</id>
         <link href="https://www.elle.co.kr/article/82913"/>
         <updated>2023-12-14T17:39:59.789Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸값 9200억, 오타니 쇼헤이의 LA다저스 첫 무대가 서울 고척돔?!]]></title>
-        <id>https://www.elle.co.kr/article/82894</id>
-        <link href="https://www.elle.co.kr/article/82894"/>
-        <updated>2023-12-14T17:39:59.790Z</updated>
     </entry>
 </feed>

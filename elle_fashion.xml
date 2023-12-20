@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-20T05:40:28.725Z</updated>
+    <updated>2023-12-20T17:41:09.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테이블 위 메리 크리스마스!]]></title>
+        <id>https://www.elle.co.kr/article/83099</id>
+        <link href="https://www.elle.co.kr/article/83099"/>
+        <updated>2023-12-20T17:39:26.466Z</updated>
+        <content type="html"><![CDATA[테이블 위에서 펼쳐지는 따스하고 감각적인 크리스마스 기프트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진짜보다 아름다운 페이크 퍼 코트]]></title>
+        <id>https://www.elle.co.kr/article/83056</id>
+        <link href="https://www.elle.co.kr/article/83056"/>
+        <updated>2023-12-20T17:39:26.467Z</updated>
+        <content type="html"><![CDATA[진짜보다 아름다운 페이크 퍼 코트더 풍성하고 과감하게.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 신인 모델을 주목하세요!]]></title>
+        <id>https://www.elle.co.kr/article/83055</id>
+        <link href="https://www.elle.co.kr/article/83055"/>
+        <updated>2023-12-20T17:39:26.469Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스웨이드 슈즈의 두 가지 면모]]></title>
         <id>https://www.elle.co.kr/article/83049</id>
@@ -39,26 +59,5 @@
         <link href="https://www.elle.co.kr/article/83036"/>
         <updated>2023-12-17T17:39:34.964Z</updated>
         <content type="html"><![CDATA[흑심을 품은 백조.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈밭을 뛰어놀아도 거뜬한 패딩 아이템]]></title>
-        <id>https://www.elle.co.kr/article/83014</id>
-        <link href="https://www.elle.co.kr/article/83014"/>
-        <updated>2023-12-17T05:39:34.544Z</updated>
-        <content type="html"><![CDATA[새하얀 설원 위를 가르며.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홀리데이 분위기를 돋울 크리스마스 아이템]]></title>
-        <id>https://www.elle.co.kr/article/83013</id>
-        <link href="https://www.elle.co.kr/article/83013"/>
-        <updated>2023-12-17T05:39:34.546Z</updated>
-        <content type="html"><![CDATA[누구나 산타는 될 수 있어!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안경 사러 갈 때 이것만 보고 가세요]]></title>
-        <id>https://www.elle.co.kr/article/83003</id>
-        <link href="https://www.elle.co.kr/article/83003"/>
-        <updated>2023-12-16T17:39:18.842Z</updated>
-        <content type="html"><![CDATA[유재석의 스타일링을 완성하는 건 안경? 국민 MC의 스타일리스트 이주은과 함께 하는 안경 토크...]]></content>
     </entry>
 </feed>

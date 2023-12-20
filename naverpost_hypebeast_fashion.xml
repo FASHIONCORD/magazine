@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 05:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 17:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스, 롤렉스에 벌금 약 1천3백억 원 부과]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37068900&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37068900&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 20 Dec 2023 17:38:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjBfNDUg/MDAxNzAzMDcwMTk5NTgy.RyXwJewqCW7sBa16aqqbo5pegqFGJWLnz_KMCzpcZrUg.GGlblD5Bz5Csgdxr_V_jkbSgwPZcQUWt07WAJJCqMvwg.JPEG/IodrJ5uJifdCW2RHtuVe8CJ17-Ik.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡, 글로벌 이커머스 파페치 인수 발표]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37061900&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Aug 2023 05:38:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMTg5/MDAxNjkyNjY3MjEzMjA0.Mb8Do8hAbJ4HcfdYlp7uPv7xJgPwQFNHQki72FVMcQIg.aaHUQZakx-PzzAZqp0h-iq7xDZiKWxVb6AReZOyuyKMg.JPEG/ICv93ShkoQN_yuwtKJ7lRKuZ92o8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#Streetsnaps: 브라이언 체이스]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36442953&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36442953&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 22 Aug 2023 05:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMTIz/MDAxNjkyNjY3MDgzNzU1.LFksIWv-wj_s09YYglY7C8afkS220GeJxeBPCwko-ecg.NToFj-cenEoV0z1Z3E-sSlDlJfwlV3T-b88eYMgx8aUg.JPEG/I1jZ2HwHi-nonlVY0RRm8psFSGi4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
