@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 05:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 17:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년 EPL에서 인스타그램 팔로워가 가장 많이 늘어난 구단은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37074760&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37074760&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 21 Dec 2023 17:39:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjFfMjAg/MDAxNzAzMTUyNjAyNDIx.9l9ekOtzncLl4DFV_GpCOruuw6WmMAL6pfL4Xav5UTUg.BBZ6umcZVpoSCdnLrJ-SSxQ3FWtHVQ3lP_SzmkT-tbEg.JPEG/Im8GM-0GRwFDR9MYo5W_jZp0mlKg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정후, 샌프란시스코 자이언츠로 이적한다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37033375&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMDVfNjcg/MDAxNTgwODc2MDUwMTk5.z219W93QYFXKvM1rypYpjszgmZvRmYJn5EMhJjh3Aicg.zocHS_5MXt83-DXC7czYros7n-O_siJarjienuMc3fAg.JPEG/I-UZArg4596M3ZOKI0HJBQBDTwUc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민, 시즌 13호 골 기록하며 맨시티 전 2-0 승리]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27412366&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27412366&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMDNfMjk3/MDAxNTgwNjk4MTc4NTgy.HGaq3ERE3nP-npM14VDlW3y_OzFTvYDomL-ch_sVX_gg.z23emPghPYs-E_ygVrMVtL3if1rS-69ZswgaCOD7Qcwg.JPEG/IdhH-tTDvZ7aF81SuSX8_UjiJutk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

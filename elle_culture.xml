@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-21T05:41:04.170Z</updated>
+    <updated>2023-12-21T17:41:45.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신혜선X지창욱 청정 로맨스, '웰컴투 삼달리' 인기 요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/83091</id>
+        <link href="https://www.elle.co.kr/article/83091"/>
+        <updated>2023-12-21T17:39:50.700Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열 두 번 죽었다 살아난 남자와 브로맨스 사극이 있는 12월 3주차 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/83035</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/82936</id>
         <link href="https://www.elle.co.kr/article/82936"/>
         <updated>2023-12-14T17:39:59.787Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번에도 케미 대박! 이세영 사극 '계약결혼뎐' 인기 요인 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/82913</id>
-        <link href="https://www.elle.co.kr/article/82913"/>
-        <updated>2023-12-14T17:39:59.789Z</updated>
     </entry>
 </feed>
