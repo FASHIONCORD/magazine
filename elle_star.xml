@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-20T17:41:09.727Z</updated>
+    <updated>2023-12-21T05:41:04.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말 선물 고민이라면? 10만원대 이하 선물 Best 8 (ft.레이디제인)]]></title>
+        <id>https://www.elle.co.kr/article/83124</id>
+        <link href="https://www.elle.co.kr/article/83124"/>
+        <updated>2023-12-21T05:39:46.113Z</updated>
+        <content type="html"><![CDATA[여기저기 선물할 곳이 많아지는 연말, 레이디제인이 꼽은 가성비와 가심비를 모두 잡은 선물 리...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딸 로아와 손 꼭 잡고 일본 여행 떠난 조윤희 근황.jpg]]></title>
+        <id>https://www.elle.co.kr/article/83118</id>
+        <link href="https://www.elle.co.kr/article/83118"/>
+        <updated>2023-12-21T05:39:46.114Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금새록과 노상현이 다시 만난 날]]></title>
         <id>https://www.elle.co.kr/article/83096</id>
@@ -42,18 +55,5 @@
         <id>https://www.elle.co.kr/article/83032</id>
         <link href="https://www.elle.co.kr/article/83032"/>
         <updated>2023-12-19T05:39:47.214Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고유명사 '한복수지'! 엘르 1월호 커버스타 등극]]></title>
-        <id>https://www.elle.co.kr/article/83004</id>
-        <link href="https://www.elle.co.kr/article/83004"/>
-        <updated>2023-12-18T17:39:47.743Z</updated>
-        <content type="html"><![CDATA[한복을 곱게 차려입은 수지. 그 6개의 초상이 &lt;엘르&gt;의 2024년 새해 첫 커버를 장식했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체지방률 8.9%! 이시영의 근육질 체형 유지 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83012</id>
-        <link href="https://www.elle.co.kr/article/83012"/>
-        <updated>2023-12-18T17:39:47.744Z</updated>
     </entry>
 </feed>
