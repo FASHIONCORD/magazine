@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-12-22T05:40:50.773Z</updated>
+    <updated>2023-12-22T17:40:54.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말 선물 고민이라면? 10만원대 이하 선물 Best 8 (ft.레이디제인)]]></title>
+        <id>https://www.elle.co.kr/article/83124</id>
+        <link href="https://www.elle.co.kr/article/83124"/>
+        <updated>2023-12-22T17:40:31.256Z</updated>
+        <content type="html"><![CDATA[여기저기 선물할 곳이 많아지는 연말, 레이디제인이 꼽은 가성비와 가심비를 모두 잡은 선물 리...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 동지에는 어떤 팥죽을?! 맛집 추천 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/83117</id>
+        <link href="https://www.elle.co.kr/article/83117"/>
+        <updated>2023-12-22T17:40:31.259Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만의 작업실부터 워케이션 숙소까지! 4년차 프리워커 정혜윤의 #취향일지도]]></title>
+        <id>https://www.elle.co.kr/article/83040</id>
+        <link href="https://www.elle.co.kr/article/83040"/>
+        <updated>2023-12-22T17:40:31.262Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 크리스마스 인증샷은 이곳에서? 핫플로 떠오른 백화점 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/83034</id>
+        <link href="https://www.elle.co.kr/article/83034"/>
+        <updated>2023-12-22T17:40:31.265Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도쿄의 요즘 뜨는 동네, 구라마에 한 바퀴 #도쿄핫플]]></title>
         <id>https://www.elle.co.kr/article/83030</id>
@@ -29,30 +54,5 @@
         <id>https://www.elle.co.kr/article/82939</id>
         <link href="https://www.elle.co.kr/article/82939"/>
         <updated>2023-12-16T05:40:28.258Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셰프 피에르 에르메가 선사하는 베지터블 디저트의 세계]]></title>
-        <id>https://www.elle.co.kr/article/82911</id>
-        <link href="https://www.elle.co.kr/article/82911"/>
-        <updated>2023-12-15T17:40:37.076Z</updated>
-        <content type="html"><![CDATA[셰프 피에르 에르메의 시그너처 디저트가 식물성 재료로 재탄생한다면? 그의 과감하고 새로운 레...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데코데코 리빙룸 아케이드: 삶을 짓는 공간을 조명하다 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/82886</id>
-        <link href="https://www.elle.co.kr/article/82886"/>
-        <updated>2023-12-15T17:40:37.079Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황정민X정우성 신경전 돋보인 장면을 여기서? '서울의 봄' 촬영지 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/82857</id>
-        <link href="https://www.elle.co.kr/article/82857"/>
-        <updated>2023-12-15T05:41:21.502Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일루미네이션 보러 도쿄에 간다 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/82855</id>
-        <link href="https://www.elle.co.kr/article/82855"/>
-        <updated>2023-12-14T17:40:52.676Z</updated>
     </entry>
 </feed>

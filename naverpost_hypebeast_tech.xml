@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 05:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 17:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차세대 애플 워치, 스트랩 규격 변경?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37080539&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37080539&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 22 Dec 2023 17:38:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjJfMTg2/MDAxNzAzMjM2NTg5NDk4.yOBP-Ts1Xctp2mU6pRba04fumPKhHmJlkLhyHANi3Qog.jTRhmZ5KoAz8QtIWB3GHmo-_zPLeszG0O_RPtHOjnuIg.JPEG/IBZDNW3YG8BzY9Av2FSSGG7CmcB8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023년 한국인이 가장 많이 사용한 앱은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37074734&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 May 2022 17:46:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzBfMTI5/MDAxNjUzODk3NTAxOTE0.tukBICznGED6XR6jI6sd4cIpD1ejuYptDohHG-jxBpQg.PC17x8IogeMoUFCh5LSVdPH6dv0YZUtL6uxsQrV-NO0g.JPEG/IywoxNPuFc5Byqty8A2J8LDWZixQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올가을 3년 만의 '애플 에어팟 프로 2세대'가 출시된다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33767631&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33767631&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 09 May 2022 17:48:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDlfMTQ1/MDAxNjUyMDg4ODY4NjMy.05fvLvbi1T1eQkdc2tQ8Sk9bFM1vz37-nLFsNW4hImwg.K4GucQkePJAy7Q3Jdx2bIAVjC217y45-HM8jQ0wrW08g.JPEG/IQhobNIj8PM6Vkynkba0fDmLey6c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

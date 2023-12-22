@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 05:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 17:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수면 부족이 정서에도 악영향을 미친다?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37080559&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37080559&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 22 Dec 2023 17:38:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjJfMTMg/MDAxNzAzMjM2NzE2OTgz.PAAaRWr51dZl3h4wew0u_zDBJSUw_JVtAduzWOJWQs4g.tLdnOkheS7MmxFTXyqPut6wi1vyGrnsXTAHUEIZSiXog.JPEG/IFXh3uaryhHuH072bx_azDmungHo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘워싱턴 포스트’, 2023 ‘올해의 피노키오’ 리스트 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37056452&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Apr 2023 05:39:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDZfMjAy/MDAxNjgwNzQ0MzUxOTc2.UY5d08HiKQK7i70DtNG-HS2A-68pntISSmiqbh89B5gg.rIMwiaXFU5TP6wAADlp5aZzGR0JjIp8VJzxd12S46Hwg.JPEG/I-4sCOeZBbnFgzUXNT3vjypFo3jg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 전세계 브랜드들의 만우절 이벤트 모음]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35731908&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35731908&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 04 Apr 2023 17:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDRfMTg3/MDAxNjgwNTkzNDcxNDg3.9gR_ju20Me3K67JdXvIjZ0PT55AWgiS4yR4vLSPZetkg.ToJEKb7SkC5fyiOZxju9PUReukIVJn-jiAPclNgbjwwg.JPEG/ItX7GACc-WHSNxmdEGAc1HR8hfbA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

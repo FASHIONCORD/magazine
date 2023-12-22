@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2023-12-22T05:40:50.784Z</updated>
+    <updated>2023-12-22T17:40:55.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남들은 어떻게 연애하고 살아요? 틴더가 공개한 2023 데이팅 트렌드]]></title>
+        <id>https://www.elle.co.kr/article/82967</id>
+        <link href="https://www.elle.co.kr/article/82967"/>
+        <updated>2023-12-22T17:40:54.309Z</updated>
+        <content type="html"><![CDATA[데이트도 유행을 탑니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엘르보이스]지구가 태양을 한 바퀴 도는 시간]]></title>
         <id>https://www.elle.co.kr/article/82824</id>
@@ -51,11 +58,5 @@
         <id>https://www.elle.co.kr/article/82657</id>
         <link href="https://www.elle.co.kr/article/82657"/>
         <updated>2023-12-07T17:40:31.669Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국밥 1만 원 시대, 건강하게 식비 아끼는 법_돈쓸신잡 #126]]></title>
-        <id>https://www.elle.co.kr/article/82622</id>
-        <link href="https://www.elle.co.kr/article/82622"/>
-        <updated>2023-12-06T17:40:30.896Z</updated>
     </entry>
 </feed>
