@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-23T17:40:20.990Z</updated>
+    <updated>2023-12-24T05:41:02.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파티 패션 종결자, 미니 드레스 입는 법 6]]></title>
+        <id>https://www.elle.co.kr/article/83236</id>
+        <link href="https://www.elle.co.kr/article/83236"/>
+        <updated>2023-12-24T05:39:18.588Z</updated>
+        <content type="html"><![CDATA[빛나는 파티 룩을 원한다면 미니 드레스를 선택해 보세요! 세 가지 키워드로 알아보는 연말 파...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설경을 가르는 아찔한 스키 모멘트]]></title>
         <id>https://www.elle.co.kr/article/83169</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/83056"/>
         <updated>2023-12-20T17:39:26.467Z</updated>
         <content type="html"><![CDATA[진짜보다 아름다운 페이크 퍼 코트더 풍성하고 과감하게.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 신인 모델을 주목하세요!]]></title>
-        <id>https://www.elle.co.kr/article/83055</id>
-        <link href="https://www.elle.co.kr/article/83055"/>
-        <updated>2023-12-20T17:39:26.469Z</updated>
     </entry>
 </feed>
