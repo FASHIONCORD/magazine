@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-24T05:41:02.536Z</updated>
+    <updated>2023-12-24T17:40:31.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자연을 향한 그리움이 담긴 아트 퍼니처]]></title>
+        <id>https://www.elle.co.kr/article/83171</id>
+        <link href="https://www.elle.co.kr/article/83171"/>
+        <updated>2023-12-24T17:39:49.858Z</updated>
+        <content type="html"><![CDATA[아티스트 주연수가 자연 위에 쌓아 올린 말들.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 최초로 먹을 수 있는 전시가 등장했다?]]></title>
         <id>https://www.elle.co.kr/article/83228</id>
@@ -50,12 +57,5 @@
         <id>https://www.elle.co.kr/article/83035</id>
         <link href="https://www.elle.co.kr/article/83035"/>
         <updated>2023-12-20T17:39:53.465Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘르가 돌아본 2023년, FLASHBACK! (2)]]></title>
-        <id>https://www.elle.co.kr/article/83009</id>
-        <link href="https://www.elle.co.kr/article/83009"/>
-        <updated>2023-12-19T17:40:03.834Z</updated>
-        <content type="html"><![CDATA[나이들어가는 것에 대한 아름다움, 그리고 우리가 조금 더 소리높여 자꾸 말하고 싶은 것들에 ...]]></content>
     </entry>
 </feed>

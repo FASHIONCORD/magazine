@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-24T05:41:02.540Z</updated>
+    <updated>2023-12-24T17:40:31.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먹지 마세요, 코에 양보하세요! 달콤한 구어망드 향 아이템.zip_선배’s 어드바이스 #199]]></title>
+        <id>https://www.elle.co.kr/article/83086</id>
+        <link href="https://www.elle.co.kr/article/83086"/>
+        <updated>2023-12-24T17:39:16.526Z</updated>
+        <content type="html"><![CDATA[후각을 위한 디저트! 겨울과 더없이 어울리는 구어망드 향의 모든 것.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말 메이크업 치트키! 도도한 매력의 #레드립]]></title>
         <id>https://www.elle.co.kr/article/83057</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/82864"/>
         <updated>2023-12-16T05:39:30.487Z</updated>
         <content type="html"><![CDATA[겉과 속이 바싹 말라버린 살갗에 온기를 더하기엔 오일만한 게 없다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건강미 대표 제시! 놀라운 힙업 비결은 이것? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/82817</id>
-        <link href="https://www.elle.co.kr/article/82817"/>
-        <updated>2023-12-15T05:40:16.943Z</updated>
-        <content type="html"><![CDATA[남성 2명 태우고 레그프레스를?!]]></content>
     </entry>
 </feed>
