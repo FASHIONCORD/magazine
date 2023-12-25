@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-25T05:41:38.876Z</updated>
+    <updated>2023-12-25T17:40:29.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노량 앞바다로 간 김윤석과 경성으로 간 박서준X한소희! 시대극 꽃핀 12월 4주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/83238</id>
+        <link href="https://www.elle.co.kr/article/83238"/>
+        <updated>2023-12-25T17:39:37.392Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김윤지의 두번째 챕터]]></title>
         <id>https://www.elle.co.kr/article/83190</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/83175"/>
         <updated>2023-12-21T17:39:42.348Z</updated>
         <content type="html"><![CDATA[소이현처럼 촉촉하고 빛나는 피부가 갖고 싶다면 주목!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔 26주년, 원조 '롱다리 가수' 김현정의 늘씬한 체형 유지 비결#스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83167</id>
-        <link href="https://www.elle.co.kr/article/83167"/>
-        <updated>2023-12-21T17:39:42.350Z</updated>
     </entry>
 </feed>
