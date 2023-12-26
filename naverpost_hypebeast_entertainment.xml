@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 05:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 17:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 내 최고 & 최악의 공항 순위가 공개됐다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37096289&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37096289&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 26 Dec 2023 17:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjZfNjUg/MDAxNzAzNTk2NjQ1OTgw.xgQKBcY4akPbiCAfPcNWHrdMpwkpsQiaszAQRkfn7WMg.nq8xxAh_yR40sCtxC4wWr4Nl7RwaRzwjEo9hrs-2ONAg.JPEG/IuG5vihXJHc-XuGYaSAHJB0F0P7c.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수면 부족이 정서에도 악영향을 미친다?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37080559&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Apr 2023 05:39:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDZfMTg3/MDAxNjgwNzQ1MTU0NzA1.Ut9NEAg1Wz0AS-dCHWSpYjCXNu2B4gTjMI8ScmKFG8sg.KUj9F1izA_rPKKwSt7VmqjKQRCpHSciHi2IkpIRV3uIg.JPEG/IvMPpMTJ6PRQ1arIUWCGOBdSZD2U.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재미있는 서점 ‘그래픽’ 팀 멤버들이 직접 꼽은 만화책 7]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35740539&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35740539&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 06 Apr 2023 05:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDZfMjAy/MDAxNjgwNzQ0MzUxOTc2.UY5d08HiKQK7i70DtNG-HS2A-68pntISSmiqbh89B5gg.rIMwiaXFU5TP6wAADlp5aZzGR0JjIp8VJzxd12S46Hwg.JPEG/I-4sCOeZBbnFgzUXNT3vjypFo3jg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

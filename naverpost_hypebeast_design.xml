@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 05:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 17:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울시, 40년 만에 새로운 지하철 노선도 도입한다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37096277&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37096277&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 26 Dec 2023 17:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjZfMjk0/MDAxNzAzNTk2NDc2MTc1.pPmMpMQasM_d0Vql9SM-KGKFt5CLH8EeFpTz48muZ8Eg.ImXled9__PDzPXfnoubHexrrXbZPgxFp-6j9VO4qNmkg.JPEG/IpI-5skuMu7vV3bRNYX3_y6wCLjA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칸예 웨스트, 마이애미 저택을 창문과 전기가 없는 방공호로 개조하려 했다?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36577131&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMTRfMTk3/MDAxNjAyNjY2MjM1ODk0.BJZqCGY2lngaGiIHDvv2_-f5riCV3R9ladvDa3OeUeIg.m-MCsqkTG4XGjMM7pLcN0Zr7_hTeMoF8Rl3Z32QGskIg.JPEG/IVF26Gz9qKeo32-CJdYKJZprl3kM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘해리 포터’의 상점가 ‘다이애건 앨리’를 재현한 레고 세트 출시]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29310356&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29310356&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MDJfMjA4/MDAxNTk5MDMwMjA4NTA3.6C09EJ8RwTa4Eui1qprkkNaPf5HPw3M5Mt9YKLV_TI8g.SajiqP3voSlnoWmjHso3HPWvoJXW6p5nP-kjDDOO2B0g.JPEG/IwdeEr-nXWRg5EGysoVahV2jMjgo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

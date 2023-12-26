@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-26T05:40:37.469Z</updated>
+    <updated>2023-12-26T17:40:58.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼식 당일에 공개된 김동욱 아내, 모두가 놀란 의외의 친분.jpg]]></title>
+        <id>https://www.elle.co.kr/article/83270</id>
+        <link href="https://www.elle.co.kr/article/83270"/>
+        <updated>2023-12-26T17:39:45.653Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1억 받기 VS. 이상형과 데이트' 밸런스 게임에 비가 야유 받은 이유]]></title>
         <id>https://www.elle.co.kr/article/83267</id>
@@ -47,12 +53,5 @@
         <id>https://www.elle.co.kr/article/83231</id>
         <link href="https://www.elle.co.kr/article/83231"/>
         <updated>2023-12-22T05:39:35.520Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서함이 다시 건넨 안부 인사]]></title>
-        <id>https://www.elle.co.kr/article/83173</id>
-        <link href="https://www.elle.co.kr/article/83173"/>
-        <updated>2023-12-22T05:39:35.523Z</updated>
-        <content type="html"><![CDATA[소집해제후 첫 화보! 배우 박서함이 그리는 내일.]]></content>
     </entry>
 </feed>
