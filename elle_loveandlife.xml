@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2023-12-27T05:41:08.244Z</updated>
+    <updated>2023-12-27T17:40:35.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말 파티, 취향을 뽐내기 좋은 새 술 두 병]]></title>
+        <id>https://www.elle.co.kr/article/83275</id>
+        <link href="https://www.elle.co.kr/article/83275"/>
+        <updated>2023-12-27T17:40:26.976Z</updated>
+        <content type="html"><![CDATA[비슷비슷한 선물용 와인 리스트에 질렸다면]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌아다니기 힘든 겨울 나들이에 딱! 이색 찜질방 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/83268</id>
@@ -48,11 +55,5 @@
         <id>https://www.elle.co.kr/article/83040</id>
         <link href="https://www.elle.co.kr/article/83040"/>
         <updated>2023-12-22T17:40:31.262Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 크리스마스 인증샷은 이곳에서? 핫플로 떠오른 백화점 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/83034</id>
-        <link href="https://www.elle.co.kr/article/83034"/>
-        <updated>2023-12-22T17:40:31.265Z</updated>
     </entry>
 </feed>

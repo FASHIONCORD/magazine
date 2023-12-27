@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-27T05:41:08.253Z</updated>
+    <updated>2023-12-27T17:40:35.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최수종X하희라가 '대표 동안' 타이틀 유지하는 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/83234</id>
+        <link href="https://www.elle.co.kr/article/83234"/>
+        <updated>2023-12-27T17:39:37.545Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건조한 겨울철에도 꿀피부 유지하려면? 소이현의 피부 관리 노하우]]></title>
+        <id>https://www.elle.co.kr/article/83175</id>
+        <link href="https://www.elle.co.kr/article/83175"/>
+        <updated>2023-12-27T17:39:37.550Z</updated>
+        <content type="html"><![CDATA[소이현처럼 촉촉하고 빛나는 피부가 갖고 싶다면 주목!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔 26주년, 원조 '롱다리 가수' 김현정의 늘씬한 체형 유지 비결#스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/83167</id>
@@ -43,19 +56,5 @@
         <id>https://www.elle.co.kr/article/82970</id>
         <link href="https://www.elle.co.kr/article/82970"/>
         <updated>2023-12-20T17:39:34.845Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈의 안티에이징 성분, 펩타이드의 모든 것_선배’s 어드바이스 #198]]></title>
-        <id>https://www.elle.co.kr/article/82920</id>
-        <link href="https://www.elle.co.kr/article/82920"/>
-        <updated>2023-12-18T17:39:38.387Z</updated>
-        <content type="html"><![CDATA[식지 않는 유행! 스킨케어의 미래, 펩타이드가 궁금하다면.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이돌의 겨울 스킨케어 비법 대공개! 소민의 꿀피부를 위한 아이템 5]]></title>
-        <id>https://www.elle.co.kr/article/82873</id>
-        <link href="https://www.elle.co.kr/article/82873"/>
-        <updated>2023-12-18T05:40:06.813Z</updated>
-        <content type="html"><![CDATA[속건조를 확실하게 잡아주는 아이템부터 슬로에이징을 위한 앰플까지! KARD 소민의 화장대를 지...]]></content>
     </entry>
 </feed>
