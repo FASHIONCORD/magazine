@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 17:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 05:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존 시나 주연의 2006년 영화가 넷플릭스를 강타했다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37099713&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37099713&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 27 Dec 2023 05:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjdfMjg2/MDAxNzAzNjU0NTQzNzk4.kCY8r5hjv3MmwLZs3-a7TNaF5u82lzSc4rq--zQeMq8g.n-oN6c3I1KvpU1pviOHeJ8XSUmvHA63ECGSu75_LS_Yg.JPEG/I3psYHHUxAXiF4dk2xsULHpaUdEw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 내 최고 & 최악의 공항 순위가 공개됐다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37096289&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Apr 2023 05:39:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjVfMTY1/MDAxNjgyMzg5MjA4MTM1.F4YOY0g8Z1A4gxW7_UX56sTvWKn1JsagnQR8rdPkPYwg.nw9V1auuhS0y8LqilgoQOFST5lIRZBU1w_eFWDRO1wkg.JPEG/ImDjrd0H-FNIuNlC_jtaSFkOfxPs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이클 조던 영화 ‘에어’를 보기 전 알면 쓸데 있는 정보 7]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35740629&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35740629&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 06 Apr 2023 05:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDZfMTg3/MDAxNjgwNzQ1MTU0NzA1.Ut9NEAg1Wz0AS-dCHWSpYjCXNu2B4gTjMI8ScmKFG8sg.KUj9F1izA_rPKKwSt7VmqjKQRCpHSciHi2IkpIRV3uIg.JPEG/IvMPpMTJ6PRQ1arIUWCGOBdSZD2U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
