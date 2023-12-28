@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 05:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 17:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타벅스 코리아, 전국 10대 명소 매장 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37106864&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37106864&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 28 Dec 2023 17:38:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjhfOTUg/MDAxNzAzNzUwMDM3NzE3.RO8tfeQl-P3GdiOaxVxMuSz6TF7-H0IhqoEQWqvQ8y4g.TfkMJIIJDMj8QTH_5n15hSQgTwnRJp6k2rWxNowKefsg.JPEG/IIgmGK1CaNajaO71HYOnjf9KN9MU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맥도날드 CEO, “더 큰 햄버거를 만들 것이다”]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37056433&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 22 Jun 2022 17:51:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjJfMjYx/MDAxNjU1ODg4MDA0NDI0.M8Q-Yt2ISz1V4Y0FbW_3UssgHQOfR1crsoBMT6V46OMg.KbNxotimFwkCSY1inFWAKetgGpHqJ-W1EdTT0Ppxb8Ig.JPEG/IJ7kAssRxMiZUtTS5Mq7JHY8jqHM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잭 다니엘스 x 코카콜라 '잭콕' 칵테일 캔 출시한다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33968236&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33968236&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 15 Jun 2022 17:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTVfMjY0/MDAxNjU1Mjg0OTQ2MDU3.jPUHWlhxlhkAybnIvK-lClF0977JCArhRy2BVcvJ17Ag.1jG0sgWq8k19NCXfqTSA0jR0IFuTdYS2bo6qEgcHHUog.JPEG/InAWy1g1Vv0zO3bouLQqZk0lLc9Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

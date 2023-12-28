@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-28T05:41:35.310Z</updated>
+    <updated>2023-12-28T17:40:36.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[럭셔리 끝판왕! 모든게 남다른 고품격 뷰티템]]></title>
+        <id>https://www.elle.co.kr/article/83278</id>
+        <link href="https://www.elle.co.kr/article/83278"/>
+        <updated>2023-12-28T17:39:22.651Z</updated>
+        <content type="html"><![CDATA[진귀한 재료로 만든 요리가 우리의 오감을 만족시키듯 최상위 뷰티 제품은 피부에 놀랍도록 감각...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수종X하희라가 '대표 동안' 타이틀 유지하는 비결 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/83234</id>
@@ -50,11 +57,5 @@
         <id>https://www.elle.co.kr/article/83012</id>
         <link href="https://www.elle.co.kr/article/83012"/>
         <updated>2023-12-21T05:39:37.417Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운동 마니아 강민경! 하루 4-5끼 챙겨 먹는 이유는 벌크업? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/82970</id>
-        <link href="https://www.elle.co.kr/article/82970"/>
-        <updated>2023-12-20T17:39:34.845Z</updated>
     </entry>
 </feed>
