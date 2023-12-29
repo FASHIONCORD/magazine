@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 05:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 17:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사람들이 2023년 불법으로 많이 받아 본 드라마는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37112780&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37112780&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 29 Dec 2023 17:38:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjlfMTQx/MDAxNzAzODM2NzgwNDQ4.16d7DURmevrN9n8g6aqeZEf6YCdomrvDj3E_HkZo17Ag.ceFziqiRowCJJ1SqhWNYRvqtWDgeZu5dM2Upu6b8w-Ig.JPEG/IHInQtq-hJGjYbe6Yuw8xtfRzUgA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버락 오바마가 꼽은 ‘올해의 영화’ 리스트 살펴보기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37106843&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Jun 2023 05:39:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDJfOTUg/MDAxNjg1NjY3OTEyMTE3.QndIXGtXLVtSVDxtY3jVjthT056acjvAfq87REnIFa0g.MxgIkN720by8XG-65p8-g72gJ1ym_W8NPJHabh-2pf8g.PNG/IdgNJ_ARg_xIeuQuIYrZPV__xDWk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동휘 인터뷰: 영화적인 삶에 대하여]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35978256&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35978256&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 22 May 2023 17:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjJfMTEx/MDAxNjg0NzQ4NTgzMDU4.U5GPMN83l9f_H1ffR_8YP3d2neKKXZFEg0Tw7zXMviUg.DJP1m_tDJKFFHO5XvHS5pQL6Mc-uJ-e0IvEmMbCo2Vkg.JPEG/I-xufhnk6BmaRmzU6jxmariK_H-E.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

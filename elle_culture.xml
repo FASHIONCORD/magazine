@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2023-12-29T05:41:21.064Z</updated>
+    <updated>2023-12-29T17:40:57.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결함에서 출발하는 예술]]></title>
+        <id>https://www.elle.co.kr/article/83281</id>
+        <link href="https://www.elle.co.kr/article/83281"/>
+        <updated>2023-12-29T17:40:09.442Z</updated>
+        <content type="html"><![CDATA[낡고 부서진 것을 향해 가는 수선가들의 이야기.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우연과 상상의 힘, 어쩌다 책방 디렉터 김수진]]></title>
         <id>https://www.elle.co.kr/article/83279</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/83170"/>
         <updated>2023-12-22T17:39:53.489Z</updated>
         <content type="html"><![CDATA[그녀가 계절을 바라보는 애정 어린 시선에 대한 이야기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑스러운 홀리데이 모멘트!]]></title>
-        <id>https://www.elle.co.kr/article/83123</id>
-        <link href="https://www.elle.co.kr/article/83123"/>
-        <updated>2023-12-22T17:39:53.492Z</updated>
-        <content type="html"><![CDATA[“당신의 사랑스러운 홀리데이 모멘트를 보여주세요!” 미국 라스베이거스, 인도 고아, 호주 멜버...]]></content>
     </entry>
 </feed>

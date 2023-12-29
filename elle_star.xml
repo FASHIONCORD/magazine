@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2023-12-29T05:41:21.063Z</updated>
+    <updated>2023-12-29T17:40:57.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시아의 시야]]></title>
+        <id>https://www.elle.co.kr/article/83323</id>
+        <link href="https://www.elle.co.kr/article/83323"/>
+        <updated>2023-12-29T17:39:59.813Z</updated>
+        <content type="html"><![CDATA[이제 열여섯 살. 배우 김시아의 눈에 들어온 이야기, 그가 그려나가고 싶은 것들.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이어트 안 했는데 3kg이 쏙?! 사유리 감량 비결 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/83327</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/83221"/>
         <updated>2023-12-27T17:39:45.941Z</updated>
         <content type="html"><![CDATA[이미 먼 길을 항해해 온 수지가 지금 고요하게 닻을 내리고 응시하는 마음.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타가 크리스마스를 맞이하는 법 5]]></title>
-        <id>https://www.elle.co.kr/article/83285</id>
-        <link href="https://www.elle.co.kr/article/83285"/>
-        <updated>2023-12-27T05:40:02.369Z</updated>
-        <content type="html"><![CDATA[모두 메리 크리스마스! 한껏 사랑스럽게 차려입은 스타들의 홀리데이 룩을 참고해 크리스마스 OO...]]></content>
     </entry>
 </feed>
