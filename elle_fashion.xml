@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2023-12-31T17:40:59.162Z</updated>
+    <updated>2024-01-01T05:40:57.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갤러리에서 만나요]]></title>
+        <id>https://www.elle.co.kr/article/83329</id>
+        <link href="https://www.elle.co.kr/article/83329"/>
+        <updated>2024-01-01T05:39:27.007Z</updated>
+        <content type="html"><![CDATA[우리는 왜 이렇게 전시를 좋아하게 됐을까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수지의 한복이 뉴욕 타임스퀘어에 걸렸다! 함께한 6개의 브랜드 인터뷰]]></title>
         <id>https://www.elle.co.kr/article/83308</id>
@@ -51,12 +58,5 @@
         <id>https://www.elle.co.kr/article/83273</id>
         <link href="https://www.elle.co.kr/article/83273"/>
         <updated>2023-12-26T05:39:20.023Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기이한 볼륨 드레싱]]></title>
-        <id>https://www.elle.co.kr/article/83272</id>
-        <link href="https://www.elle.co.kr/article/83272"/>
-        <updated>2023-12-25T17:39:19.329Z</updated>
-        <content type="html"><![CDATA[빵빵한 아이디어로 완성한 두 디자이너의 패션세계.]]></content>
     </entry>
 </feed>

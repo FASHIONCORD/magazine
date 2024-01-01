@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2023-12-31T17:40:59.161Z</updated>
+    <updated>2024-01-01T05:40:57.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메이크업도 레드가 트렌드?! 아이키의 데일리 메이크업 Tip]]></title>
+        <id>https://www.elle.co.kr/article/83309</id>
+        <link href="https://www.elle.co.kr/article/83309"/>
+        <updated>2024-01-01T05:39:38.065Z</updated>
+        <content type="html"><![CDATA[빨간 머리가 시그니처인 댄서 아이키가 아이와 치크, 립까지 붉게 물들인 유니크한 메이크업을 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그 누구도 유방암으로부터 안전하지 않다]]></title>
         <id>https://www.elle.co.kr/article/83280</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/83057"/>
         <updated>2023-12-23T17:39:14.829Z</updated>
         <content type="html"><![CDATA[맨얼굴에도 풀 메이크업에도 성공 확률 100%, 스타들도 선호하는 레드립 메이크업을 확인하세요....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울향기]]></title>
-        <id>https://www.elle.co.kr/article/83038</id>
-        <link href="https://www.elle.co.kr/article/83038"/>
-        <updated>2023-12-21T17:39:35.389Z</updated>
-        <content type="html"><![CDATA[메마른 흙과 스모키한 나무, 달콤한 초콜릿과 알싸한 시나몬.... 디퓨저부터 캔들까지, 다양한 향...]]></content>
     </entry>
 </feed>
