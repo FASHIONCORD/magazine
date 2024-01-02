@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 05:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 17:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테이스트아틀라스 선정 세계 최악의 음식 100]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37127702&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37127702&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 02 Jan 2024 17:39:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDJfMTI0/MDAxNzA0MTg3NTI0NDYx.iM7SYq5mA45SoUvf6Q8__yO4IPpABy03AKruhCfaDkkg.aZQ3hSxKPvXyWHKjdYgDdh2NTtdLT21sPG2kJ8iebF8g.JPEG/ICLCexEEg2J6f60HlIfueoOocIR4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타벅스 코리아, 전국 10대 명소 매장 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37106864&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 20 Aug 2022 17:46:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTlfMjM1/MDAxNjYwODkxNjkwODIw.KSyR22oV3cE1wsEHFjBA4_isAWgxDQII4_i7llaqvhkg.kidTPFhKrlRJBE5PbZhuhSS36CmQzMVhhf35plWiAaIg.JPEG/IhibrlbW8obim75m0w0ff7tl3YdI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 대표 평양냉면 맛집, ‘을지면옥’이 결국 철거된다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34006059&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34006059&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 22 Jun 2022 17:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjJfMjYx/MDAxNjU1ODg4MDA0NDI0.M8Q-Yt2ISz1V4Y0FbW_3UssgHQOfR1crsoBMT6V46OMg.KbNxotimFwkCSY1inFWAKetgGpHqJ-W1EdTT0Ppxb8Ig.JPEG/IJ7kAssRxMiZUtTS5Mq7JHY8jqHM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
