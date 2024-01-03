@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-02T17:41:07.142Z</updated>
+    <updated>2024-01-03T05:40:50.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해 에너지를 북돋워줄 청룡의 기운으로!]]></title>
+        <id>https://www.elle.co.kr/article/83351</id>
+        <link href="https://www.elle.co.kr/article/83351"/>
+        <updated>2024-01-03T05:39:23.537Z</updated>
+        <content type="html"><![CDATA[2024년은 청룡의 해.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신년운세가 궁금해? 엘르가 알려주는 2024년 새해운세]]></title>
         <id>https://www.elle.co.kr/article/83336</id>
@@ -51,12 +58,5 @@
         <id>https://www.elle.co.kr/article/83282</id>
         <link href="https://www.elle.co.kr/article/83282"/>
         <updated>2023-12-29T17:39:24.928Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타가 크리스마스를 맞이하는 법 5]]></title>
-        <id>https://www.elle.co.kr/article/83285</id>
-        <link href="https://www.elle.co.kr/article/83285"/>
-        <updated>2023-12-28T05:39:47.259Z</updated>
-        <content type="html"><![CDATA[모두 메리 크리스마스! 한껏 사랑스럽게 차려입은 스타들의 홀리데이 룩을 참고해 크리스마스 OO...]]></content>
     </entry>
 </feed>

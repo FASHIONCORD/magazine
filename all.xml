@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 17:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 05:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1840,6 +1840,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMDVfNjcg/MDAxNTgwODc2MDUwMTk5.z219W93QYFXKvM1rypYpjszgmZvRmYJn5EMhJjh3Aicg.zocHS_5MXt83-DXC7czYros7n-O_siJarjienuMc3fAg.JPEG/I-UZArg4596M3ZOKI0HJBQBDTwUc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새해 에너지를 북돋워줄 청룡의 기운으로! (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/83351</link>
+            <guid>https://www.elle.co.kr/article/83351</guid>
+            <pubDate>Wed, 03 Jan 2024 05:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024년은 청룡의 해.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[신년운세가 궁금해? 엘르가 알려주는 2024년 새해운세 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/83336</link>
             <guid>https://www.elle.co.kr/article/83336</guid>
@@ -1885,13 +1892,6 @@
             <link>https://www.elle.co.kr/article/83282</link>
             <guid>https://www.elle.co.kr/article/83282</guid>
             <pubDate>Fri, 29 Dec 2023 17:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[스타가 크리스마스를 맞이하는 법 5 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/83285</link>
-            <guid>https://www.elle.co.kr/article/83285</guid>
-            <pubDate>Wed, 27 Dec 2023 05:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[모두 메리 크리스마스! 한껏 사랑스럽게 차려입은 스타들의 홀리데이 룩을 참고해 크리스마스 OO...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다이어트 안 했는데 3kg이 쏙?! 사유리 감량 비결 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -2301,7 +2301,7 @@
             <title><![CDATA[성공적인 데이트를 위한 핫플레이스 3 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/83346</link>
             <guid>https://www.elle.co.kr/article/83346</guid>
-            <pubDate>Tue, 02 Jan 2024 17:40:55 GMT</pubDate>
+            <pubDate>Tue, 02 Jan 2024 17:40:04 GMT</pubDate>
             <content:encoded><![CDATA[시티뷰 야경을 조망할 수 있는 이탈리안 레스토랑부터 분위기에 취하는 와인 바까지! 사랑하는 ...]]></content:encoded>
         </item>
         <item>
@@ -2351,6 +2351,12 @@
             <content:encoded><![CDATA[비슷비슷한 선물용 와인 리스트에 질렸다면]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[결국 ‘외유내강’이 돈을 번다_돈쓸신잡 #128 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/82999</link>
+            <guid>https://www.elle.co.kr/article/82999</guid>
+            <pubDate>Wed, 03 Jan 2024 05:40:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[당신이 아는 ‘암컷’에 관한 사실은 전부 틀렸다! 여성의 진짜 이야기를 그려낸 책 3 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/82994</link>
             <guid>https://www.elle.co.kr/article/82994</guid>
@@ -2397,13 +2403,6 @@
             <guid>https://www.elle.co.kr/article/82719</guid>
             <pubDate>Wed, 13 Dec 2023 17:41:00 GMT</pubDate>
             <content:encoded><![CDATA[라면이랑 가디건 하나 주세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[단돈 2만 원이면 인스타그램 ‘파란 배지’ 달 수 있다? (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/82660</link>
-            <guid>https://www.elle.co.kr/article/82660</guid>
-            <pubDate>Sat, 09 Dec 2023 17:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 국내에 상륙한 메타의 이색 유료 구독 서비스.]]></content:encoded>
         </item>
     </channel>
 </rss>
