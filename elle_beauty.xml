@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-03T05:40:50.782Z</updated>
+    <updated>2024-01-03T17:40:58.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건강미 넘치는 부부 추성훈X야노시호의 관리 비결 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/83342</id>
+        <link href="https://www.elle.co.kr/article/83342"/>
+        <updated>2024-01-03T17:39:31.562Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세수가 두려워? 오아시스처럼 촉촉한 클렌저 모음.zip_선배’s 어드바이스 #200]]></title>
+        <id>https://www.elle.co.kr/article/83330</id>
+        <link href="https://www.elle.co.kr/article/83330"/>
+        <updated>2024-01-03T17:39:31.563Z</updated>
+        <content type="html"><![CDATA[악건성 주목! 피부 장벽을 회복시켜 줄 단비 같은 클렌저를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이어트 안 했는데 3kg이 쏙?! 사유리 감량 비결 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/83327</id>
@@ -43,18 +56,5 @@
         <link href="https://www.elle.co.kr/article/83175"/>
         <updated>2023-12-27T17:39:37.550Z</updated>
         <content type="html"><![CDATA[소이현처럼 촉촉하고 빛나는 피부가 갖고 싶다면 주목!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔 26주년, 원조 '롱다리 가수' 김현정의 늘씬한 체형 유지 비결#스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83167</id>
-        <link href="https://www.elle.co.kr/article/83167"/>
-        <updated>2023-12-27T05:39:54.675Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹지 마세요, 코에 양보하세요! 달콤한 구어망드 향 아이템.zip_선배’s 어드바이스 #199]]></title>
-        <id>https://www.elle.co.kr/article/83086</id>
-        <link href="https://www.elle.co.kr/article/83086"/>
-        <updated>2023-12-24T17:39:16.526Z</updated>
-        <content type="html"><![CDATA[후각을 위한 디저트! 겨울과 더없이 어울리는 구어망드 향의 모든 것.]]></content>
     </entry>
 </feed>

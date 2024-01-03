@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-03T05:40:50.775Z</updated>
+    <updated>2024-01-03T17:40:58.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[찬 바람 불 땐 발라클라바]]></title>
+        <id>https://www.elle.co.kr/article/83383</id>
+        <link href="https://www.elle.co.kr/article/83383"/>
+        <updated>2024-01-03T17:39:23.011Z</updated>
+        <content type="html"><![CDATA[매서운 겨울바람을 멋지게 맞서는 방법! 여전히 유효한 발라클라바 스타일.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팬톤이 선정한 올해의 컬러는? 발그레한 복숭아를 떠올리는 '피치 퍼즈'!]]></title>
+        <id>https://www.elle.co.kr/article/83353</id>
+        <link href="https://www.elle.co.kr/article/83353"/>
+        <updated>2024-01-03T17:39:23.013Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새해 에너지를 북돋워줄 청룡의 기운으로!]]></title>
         <id>https://www.elle.co.kr/article/83351</id>
@@ -45,18 +58,5 @@
         <link href="https://www.elle.co.kr/article/83308"/>
         <updated>2023-12-31T17:39:10.239Z</updated>
         <content type="html"><![CDATA[한복을 짓는 마음, 전통을 잇는 마음. 수지가 함께한 2023 한복웨이브의 여정, 그 비하인드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포근한 매력의 시어링 백 스타일 #쇼핑리스트]]></title>
-        <id>https://www.elle.co.kr/article/83289</id>
-        <link href="https://www.elle.co.kr/article/83289"/>
-        <updated>2023-12-30T17:39:20.800Z</updated>
-        <content type="html"><![CDATA[보는 것만으로도 체온 상승! 제철을 맞은 복슬복슬 시어링 백 스타일.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다사다난, 시끌벅적했던 2023년 패션계에는 무슨 일이 있었나?]]></title>
-        <id>https://www.elle.co.kr/article/83282</id>
-        <link href="https://www.elle.co.kr/article/83282"/>
-        <updated>2023-12-29T17:39:24.928Z</updated>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 05:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 17:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년 1월 넷플릭스 신작 모아보기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37133956&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37133956&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 03 Jan 2024 17:38:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDNfMTc2/MDAxNzA0Mjc1NjYyMTU4.29eTXsM-uYdGpusTGri-wast-g2Zx3Nzr7YAfo5N1RUg.KN-KqzJwLrSPoHfkBE55MvWzVoJnQgfVOu9e8-O5OKQg.JPEG/IQ9JmI13QjwNWvzINq83d8mfUB-0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사람들이 2023년 불법으로 많이 받아 본 드라마는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37112780&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Sep 2023 17:39:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfMTcx/MDAxNjk0MDY1MzY2NjY3.Q5mL4Lijh59TNEvh_4ne92TqClRnnT5T_2eu4OMY1hMg.HInNZM-FdagKRs63gDQbCY3enp_7BINJPCV7qLyM4Bwg.JPEG/IVS1EqWeQt20okpFzz6gMtbFLG2s.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타코미디 인터뷰 1: 숏박스, 김해준, 박세미, 대니 초, 김동하, 손동훈, 이제규]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36032762&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36032762&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 02 Jun 2023 05:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDJfOTUg/MDAxNjg1NjY3OTEyMTE3.QndIXGtXLVtSVDxtY3jVjthT056acjvAfq87REnIFa0g.MxgIkN720by8XG-65p8-g72gJ1ym_W8NPJHabh-2pf8g.PNG/IdgNJ_ARg_xIeuQuIYrZPV__xDWk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
