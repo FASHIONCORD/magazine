@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 05:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 17:40:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 저가 항공사 요금, 소비자의 기대보다 비싸다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37140405&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37140405&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 04 Jan 2024 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDRfMTkz/MDAxNzA0MzY4OTU5ODQ2.SqNkmgvRueK2VAKKL4kiEzQEgUv_T9RfNEUNc8VYkOEg.3dVehIURaTznZMXyOWhb96wx2J37P-DGbSiO7B36g5Ug.JPEG/I9NKxQuSnfGJnkmJ-31qNI1beXqg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024년 1월 넷플릭스 신작 모아보기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37133956&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 13 Sep 2023 05:39:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTNfMTUw/MDAxNjk0NTc3NTk5MTY0.esHT7MjuxUExC1AVuXKUs_Fs5KqEwNxjxTABJ8rkwNkg.qw3zpjIn8wSexJJJE0Nera4duL5e7k0r6LLwfgS4FNIg.JPEG/ImrwpsW-42q5kFPSxku4CIEgGW-4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘원피스’ 실사화 제작진이 로그 타운 에피소드를 제외한 이유를 밝혔다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36537742&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36537742&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Sep 2023 17:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfMTcx/MDAxNjk0MDY1MzY2NjY3.Q5mL4Lijh59TNEvh_4ne92TqClRnnT5T_2eu4OMY1hMg.HInNZM-FdagKRs63gDQbCY3enp_7BINJPCV7qLyM4Bwg.JPEG/IVS1EqWeQt20okpFzz6gMtbFLG2s.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

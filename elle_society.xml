@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-01-04T05:41:42.652Z</updated>
+    <updated>2024-01-04T17:40:11.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경복궁 2차 낙서범, 지난달엔 ‘이 전시’에서 물건 훔쳤다?]]></title>
+        <id>https://www.elle.co.kr/article/83142</id>
+        <link href="https://www.elle.co.kr/article/83142"/>
+        <updated>2024-01-04T17:40:10.221Z</updated>
+        <content type="html"><![CDATA['아톰 부츠'가 여기서 왜 나와?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결국 ‘외유내강’이 돈을 번다_돈쓸신잡 #128]]></title>
         <id>https://www.elle.co.kr/article/82999</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/82734"/>
         <updated>2023-12-14T17:41:01.173Z</updated>
         <content type="html"><![CDATA[생태적 전환, 그러면 무엇을 알아야 할까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[편의점에서 런웨이가 왜 나와?]]></title>
-        <id>https://www.elle.co.kr/article/82719</id>
-        <link href="https://www.elle.co.kr/article/82719"/>
-        <updated>2023-12-13T17:41:00.828Z</updated>
-        <content type="html"><![CDATA[라면이랑 가디건 하나 주세요.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-04T05:41:42.656Z</updated>
+    <updated>2024-01-04T17:40:11.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤혜진의 한 살 더 어려지는 관리법]]></title>
+        <id>https://www.elle.co.kr/article/83462</id>
+        <link href="https://www.elle.co.kr/article/83462"/>
+        <updated>2024-01-04T17:39:25.225Z</updated>
+        <content type="html"><![CDATA[한결같은 몸매를 유지하는 발레리나 윤혜진의 관리 방법은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난 사랑 앞에 선 금새록과 노상현]]></title>
+        <id>https://www.elle.co.kr/article/83458</id>
+        <link href="https://www.elle.co.kr/article/83458"/>
+        <updated>2024-01-04T17:39:25.226Z</updated>
+        <content type="html"><![CDATA[우리의 지금은 언제나 과거가 된다. &lt;사운드트랙 #2&gt;의 금새록과 노상현이 지금 사랑 앞에 온 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐X이다해 부부, 새해 맞이 부산 여행 #럽스타그램]]></title>
         <id>https://www.elle.co.kr/article/83456</id>
@@ -43,18 +57,5 @@
         <link href="https://www.elle.co.kr/article/83357"/>
         <updated>2024-01-03T17:39:39.148Z</updated>
         <content type="html"><![CDATA[느리고 고요하게 시작되는 전투. 단단함으로 무장한 세상 둘도 없는 삼촌과 조카, &lt;킬러들의 쇼...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑스럽게 닮은 두 사람, 민하와 세리나]]></title>
-        <id>https://www.elle.co.kr/article/83350</id>
-        <link href="https://www.elle.co.kr/article/83350"/>
-        <updated>2024-01-03T17:39:39.149Z</updated>
-        <content type="html"><![CDATA[나른한 눈빛, 말간 피부와 그 위로 퍼진 주근깨까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[훈련소에서도 늠름 그 자체인 뷔XRM 근황.jpg]]></title>
-        <id>https://www.elle.co.kr/article/83363</id>
-        <link href="https://www.elle.co.kr/article/83363"/>
-        <updated>2024-01-02T17:40:04.307Z</updated>
     </entry>
 </feed>
