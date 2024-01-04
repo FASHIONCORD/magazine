@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-03T17:40:58.323Z</updated>
+    <updated>2024-01-04T05:41:42.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기나긴 겨울밤을 활용한 전방위적 나이트 케어 가이드]]></title>
+        <id>https://www.elle.co.kr/article/83367</id>
+        <link href="https://www.elle.co.kr/article/83367"/>
+        <updated>2024-01-04T05:39:31.660Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건강미 넘치는 부부 추성훈X야노시호의 관리 비결 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/83342</id>
@@ -49,12 +55,5 @@
         <id>https://www.elle.co.kr/article/83234</id>
         <link href="https://www.elle.co.kr/article/83234"/>
         <updated>2023-12-27T17:39:37.545Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건조한 겨울철에도 꿀피부 유지하려면? 소이현의 피부 관리 노하우]]></title>
-        <id>https://www.elle.co.kr/article/83175</id>
-        <link href="https://www.elle.co.kr/article/83175"/>
-        <updated>2023-12-27T17:39:37.550Z</updated>
-        <content type="html"><![CDATA[소이현처럼 촉촉하고 빛나는 피부가 갖고 싶다면 주목!]]></content>
     </entry>
 </feed>

@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-01-03T17:40:58.316Z</updated>
+    <updated>2024-01-04T05:41:42.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음악방송 MC 데뷔하는 이효리의 '레드카펫' 첫 게스트 라인업.list]]></title>
+        <id>https://www.elle.co.kr/article/83465</id>
+        <link href="https://www.elle.co.kr/article/83465"/>
+        <updated>2024-01-04T05:40:17.670Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청춘의 ‘찐’ 연애 스토리와 ‘종이의 집’ 속편이 있는 12월 마지막 주 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/83347</id>
@@ -79,11 +85,5 @@
         <id>https://www.elle.co.kr/article/82857</id>
         <link href="https://www.elle.co.kr/article/82857"/>
         <updated>2023-12-08T17:39:56.141Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목숨 건 마피아 게임과 보기만 해도 짠한 모녀 케미가 빛난 12월 2주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/82836</id>
-        <link href="https://www.elle.co.kr/article/82836"/>
-        <updated>2023-12-08T05:40:11.341Z</updated>
     </entry>
 </feed>
