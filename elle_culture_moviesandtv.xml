@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-01-05T05:40:33.333Z</updated>
+    <updated>2024-01-05T17:40:47.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재회한 이효리와 베베 바다부터 박민영의 타임 슬립 복수극까지! 1월 첫째주 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/83498</id>
+        <link href="https://www.elle.co.kr/article/83498"/>
+        <updated>2024-01-05T17:40:04.406Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 박스오피스에서 '서울의 봄'과 '노량' 제친 영화는?]]></title>
         <id>https://www.elle.co.kr/article/83489</id>
@@ -79,11 +85,5 @@
         <id>https://www.elle.co.kr/article/82913</id>
         <link href="https://www.elle.co.kr/article/82913"/>
         <updated>2023-12-12T05:40:01.129Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 여신 권은비의 배우 데뷔작 정보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/82859</id>
-        <link href="https://www.elle.co.kr/article/82859"/>
-        <updated>2023-12-08T17:39:56.138Z</updated>
     </entry>
 </feed>

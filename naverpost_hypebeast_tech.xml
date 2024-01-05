@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 05:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 17:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 아이폰에 연결해 사용하는 키보드 케이스가 출시됐다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37145755&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37145755&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 05 Jan 2024 17:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDVfMTUg/MDAxNzA0NDQ2MjE1MTM1.mGA26zLA8IS6OQdUt2wusnW4NdFG6j93RVSyJbdiC5Qg.OqD0rhjhHerHPqVxIwiTmnAzm6tKSP0zgRBJC9VTmscg.JPEG/IKiC3Hd9CQ8m4o0Z92WMLrSJAH3o.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자 초소형 4K 프로젝터 ‘LG 시네빔 큐브’ 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37127717&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Oct 2022 06:08:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDRfMzQg/MDAxNjY0ODY1MDc1Mjky.xsLK5yAN0v7IfIa8e9oech9ohG7d2TjwXHNPLn4ksr8g.a3_ftxapM-9IJn1LHGKiMfaxXCivTF7Kaz6WciZI1qwg.JPEG/I2yRJKsYoyHM0BufzOGtqQUr5L58.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카이스트 뉴욕 캠퍼스가 만들어진다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34517989&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34517989&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Sep 2022 06:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjNfMTQ0/MDAxNjYzOTA1MzcyNDE2.g45Jf9YXJ8BUGsc39PWfdDA62O8M_ocsamUsyZVu4Uog.4fj3OZEbQEl2rpqEI5FGODNkn4hdiwWwKXM7lZFxRHUg.JPEG/IwS5yIoztNxT4soiDWhAHKybfayE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
