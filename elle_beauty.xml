@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-06T17:41:15.700Z</updated>
+    <updated>2024-01-07T05:41:03.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NEW 뷰티 브랜드 론칭 소식]]></title>
+        <id>https://www.elle.co.kr/article/83484</id>
+        <link href="https://www.elle.co.kr/article/83484"/>
+        <updated>2024-01-07T05:39:48.022Z</updated>
+        <content type="html"><![CDATA[드.디.어. 수잔 카프만!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤혜진의 한 살 더 어려지는 관리법]]></title>
         <id>https://www.elle.co.kr/article/83462</id>
@@ -50,12 +57,5 @@
         <id>https://www.elle.co.kr/article/83342</id>
         <link href="https://www.elle.co.kr/article/83342"/>
         <updated>2024-01-03T17:39:31.562Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세수가 두려워? 오아시스처럼 촉촉한 클렌저 모음.zip_선배’s 어드바이스 #200]]></title>
-        <id>https://www.elle.co.kr/article/83330</id>
-        <link href="https://www.elle.co.kr/article/83330"/>
-        <updated>2024-01-03T17:39:31.563Z</updated>
-        <content type="html"><![CDATA[악건성 주목! 피부 장벽을 회복시켜 줄 단비 같은 클렌저를 소개합니다.]]></content>
     </entry>
 </feed>
