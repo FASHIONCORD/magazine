@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 05:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 17:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국이 남성 스킨케어 소비액 세계 1위를 기록했다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37157910&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37157910&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 08 Jan 2024 17:38:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDhfMjQ1/MDAxNzA0NzE2MzM5MjMw.9A8TfLysp4_GtOPZ1hi2NUN3ZAoQgni31omI79YDCF0g.cdk4RJONRVntsvyu5zxybpCzX7rL76XiUwGaQBxuypUg.JPEG/I8aMxAZ9Cgpk-fXUysBOQjBtsPoU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스, 롤렉스에 벌금 약 1천3백억 원 부과]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37068900&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Aug 2023 05:38:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMTE1/MDAxNjkyNjY3NDg2NTQ1.4SCX5223Y7_p1ISjrgti-9mBCz0-daQF6SWWYFQFQ3Ig.ZC9pA-FdCL4kKA_vdOd61HCNN1NJQBXLSdhaRlW0OXsg.JPEG/ILyWvhy8Gpf8IfZotyE9YBRGJpro.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸바오를 닮은 ‘판다’ 시계 7]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36442979&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36442979&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 22 Aug 2023 05:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjJfMTg5/MDAxNjkyNjY3MjEzMjA0.Mb8Do8hAbJ4HcfdYlp7uPv7xJgPwQFNHQki72FVMcQIg.aaHUQZakx-PzzAZqp0h-iq7xDZiKWxVb6AReZOyuyKMg.JPEG/ICv93ShkoQN_yuwtKJ7lRKuZ92o8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

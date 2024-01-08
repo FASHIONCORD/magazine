@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-01-08T05:40:34.838Z</updated>
+    <updated>2024-01-08T17:40:34.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키워드로 살펴보는 올해의 경제 이슈 4_돈쓸신잡 #130]]></title>
+        <id>https://www.elle.co.kr/article/83331</id>
+        <link href="https://www.elle.co.kr/article/83331"/>
+        <updated>2024-01-08T17:40:31.581Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워킹맘이 말하는 '엄마의 자격'과 '타협할 용기' #여자읽는여자]]></title>
         <id>https://www.elle.co.kr/article/83269</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/82824"/>
         <updated>2023-12-21T05:41:03.434Z</updated>
         <content type="html"><![CDATA[누구나 새해를 맞이하는 의식이 있을 것이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워런 버핏의 영원한 단짝, 찰리 멍거가 남긴 어록 4_돈쓸신잡 #127]]></title>
-        <id>https://www.elle.co.kr/article/82823</id>
-        <link href="https://www.elle.co.kr/article/82823"/>
-        <updated>2023-12-20T17:41:09.019Z</updated>
     </entry>
 </feed>

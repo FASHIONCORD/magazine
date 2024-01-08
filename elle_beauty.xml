@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-08T05:40:34.837Z</updated>
+    <updated>2024-01-08T17:40:32.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난해 가장 사랑받은 유스케어 제품은? #엘르뷰티어워즈2024]]></title>
+        <id>https://www.elle.co.kr/article/83438</id>
+        <link href="https://www.elle.co.kr/article/83438"/>
+        <updated>2024-01-08T17:39:27.244Z</updated>
+        <content type="html"><![CDATA[탄탄하게 끌어올려진 라인과 우아하게 뿜어나오는 광채, 부드럽고 매끈한 피부 결. 이 세 가지를...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[따뜻한 겨울나기를 위한 최은경의 소비 목록 6]]></title>
         <id>https://www.elle.co.kr/article/83520</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/83462"/>
         <updated>2024-01-06T17:40:09.967Z</updated>
         <content type="html"><![CDATA[한결같은 몸매를 유지하는 발레리나 윤혜진의 관리 방법은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고민시의 꼿꼿한 자세와 체형 유지 비결! 그의 최애 운동은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83455</id>
-        <link href="https://www.elle.co.kr/article/83455"/>
-        <updated>2024-01-06T05:39:17.199Z</updated>
     </entry>
 </feed>

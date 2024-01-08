@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 스포츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 05:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 17:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손웅정 감독이 “한국 대표팀이 이번 아시안컵에서 우승해선 안 된다”라고 말한 이유는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37157931&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37157931&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 08 Jan 2024 17:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDhfMTg0/MDAxNzA0NzE2NDc4NTU3.O8ScYNOSaaxxoY3IACpaO8X49S_sUXvdBk2KekQfSdEg.B3ymp4809gZvTIIS436xG1NoFXIYIUTbmO7MdzaQSHwg.JPEG/IyyApR2z2H0iQZH2XrAXcF7xrtus.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파리 생제르맹 FC, 2023 프랑스 슈퍼컵 우승]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37140396&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMDlfMTYy/MDAxNTgzNzI1MjQyMzQw.tp3aJLgtE2DkDCAPZ3e4VLKl70cm-BNhjSrBGadQYJgg.5MQ_JQc-bm5czvawGubJCHXJwYXDqL_0qeRXsEl4lvUg.JPEG/IwaK16pvFloow1lCUnCQdoS2HGI8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2020 도쿄 올림픽, 코로나19 영향으로 취소될 수 있다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27592663&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27592663&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMjZfMzAw/MDAxNTgyNjkwNzkxNjgw.E9pbV0evNvVxuyY2-RZA3iXD9rr2cIN3m0jnlib0gl0g.0VdfdXz_5pX2ZSIPknC-YLLw2a1BH49nmDyqB2mEgbIg.JPEG/IRjdIvlv44OrK16LPCjTRdt8WA94.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
