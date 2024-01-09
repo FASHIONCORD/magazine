@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-08T17:40:32.283Z</updated>
+    <updated>2024-01-09T05:40:54.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퇴폐미 MAX! 한소희의 홍콩 여행기 속 드레스는 어디 거?]]></title>
+        <id>https://www.elle.co.kr/article/83521</id>
+        <link href="https://www.elle.co.kr/article/83521"/>
+        <updated>2024-01-09T05:39:24.277Z</updated>
+        <content type="html"><![CDATA[언니라고 부를게요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몸을 따스하게 감싸는 6가지 방법]]></title>
         <id>https://www.elle.co.kr/article/83517</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/83417"/>
         <updated>2024-01-06T05:39:08.960Z</updated>
         <content type="html"><![CDATA[제니와 지수의 레이블부터 미즈하라 키코의 브랜드까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑스러움은 나이를 안 먹어요! 2024년 새해를 여는 패션 꿀템 16개 추천!]]></title>
-        <id>https://www.elle.co.kr/article/83395</id>
-        <link href="https://www.elle.co.kr/article/83395"/>
-        <updated>2024-01-04T17:39:11.133Z</updated>
-        <content type="html"><![CDATA[앤아더스토리즈의 뉴이어 리미티드 컬렉션을 소개합니다.]]></content>
     </entry>
 </feed>
