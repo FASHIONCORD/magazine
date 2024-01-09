@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-09T05:40:54.145Z</updated>
+    <updated>2024-01-09T17:41:11.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갓 소집해제한 박서함이 BTS 진에게 받은 의외의 선물 (feat. 인증샷)]]></title>
+        <id>https://www.elle.co.kr/article/83526</id>
+        <link href="https://www.elle.co.kr/article/83526"/>
+        <updated>2024-01-09T17:39:36.322Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배다해의 화장대를 지키고 있는 뷰티템 7]]></title>
         <id>https://www.elle.co.kr/article/83525</id>
@@ -49,12 +55,5 @@
         <id>https://www.elle.co.kr/article/83490</id>
         <link href="https://www.elle.co.kr/article/83490"/>
         <updated>2024-01-07T05:39:54.510Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시민덕희'의 라미란과 박영주 감독]]></title>
-        <id>https://www.elle.co.kr/article/83488</id>
-        <link href="https://www.elle.co.kr/article/83488"/>
-        <updated>2024-01-06T17:40:18.544Z</updated>
-        <content type="html"><![CDATA[보이스 피싱 총책임자를 잡으러 떠난 덕희는 어떻게 됐을까? 라미란 배우와 박영주 감독이 &lt;시민...]]></content>
     </entry>
 </feed>

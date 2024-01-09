@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 05:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 17:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페인 바르셀로나 추로스 맛집의 해외 1호점이 연남동에 문을 연다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37163958&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37163958&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Jan 2024 17:38:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDlfMjQ4/MDAxNzA0ODAwNDEyODYy.33jBYNVheUnjBhbaT_dHuyV2fW0CvWkx9Lfq0J0pYt4g.fWLQ1TTyIe41GkD9NCcNfjUyovHUmE0R3LMWsGmpfIIg.JPEG/IxlwabVTJFnOOePVp1CZcthbp1cE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테이스트아틀라스 선정 세계 최악의 음식 100]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37127702&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Oct 2022 18:04:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDZfMjY2/MDAxNjY1MDM3MTMyNjM1.GRwT6bE7ZsKN4t7a4tu2oUehc0BmP34i2tLqedMZJGIg.HnjFTv8e52kOky17c1KluAQnWdMafKDdHJ8jIQdcoEQg.JPEG/IU9EEhppjO4GrkzvbkvhIQIpx14c.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 15개 구 곳곳에 위치한 추천 라멘 맛집 67]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34335716&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34335716&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Sat, 20 Aug 2022 17:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTlfMjM1/MDAxNjYwODkxNjkwODIw.KSyR22oV3cE1wsEHFjBA4_isAWgxDQII4_i7llaqvhkg.kidTPFhKrlRJBE5PbZhuhSS36CmQzMVhhf35plWiAaIg.JPEG/IhibrlbW8obim75m0w0ff7tl3YdI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

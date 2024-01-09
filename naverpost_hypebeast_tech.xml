@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 05:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 17:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[p형 혈액형을 보유한 사람에게서 데이터베이스에 없는 새로운 유전자 서열이 발견됐다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37163973&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37163973&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Jan 2024 17:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDlfMjc2/MDAxNzA0ODAwNTY0MTQ5.Q8iifXmFSV3h5qKmk6nZnh2E7Su_jOdqkS9aY7vEzuUg.aK48CvMYovAdZDlYozOLRMdXXYIiFPsmwSkBjd5RASQg.JPEG/IVnNYLJSioCR0Z0VbiOLqcdavvy0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 아이폰에 연결해 사용하는 키보드 케이스가 출시됐다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37145755&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 09 Nov 2022 17:47:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDdfMjEy/MDAxNjY3ODEzMzgwNjYz.1WNRQ9eL1xA3OCOi-PHzTp6hIZNorLJAb18c-Af-uS0g.IPehpwrsDhT27zP-7abwd-MpNsPeVR7aBtGSmCSnnrgg.JPEG/IwM2YkcoOt5aBnqu4-dUzDO1iU6M.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴근길 인터넷 속도 저하가 심각한 지하철 구간은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34572038&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34572038&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 05 Oct 2022 06:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDRfMzQg/MDAxNjY0ODY1MDc1Mjky.xsLK5yAN0v7IfIa8e9oech9ohG7d2TjwXHNPLn4ksr8g.a3_ftxapM-9IJn1LHGKiMfaxXCivTF7Kaz6WciZI1qwg.JPEG/I2yRJKsYoyHM0BufzOGtqQUr5L58.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
