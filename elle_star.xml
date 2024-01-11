@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-11T05:41:08.515Z</updated>
+    <updated>2024-01-11T17:41:00.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역주행 부담감에 극단적 체중 감량? 고충 토로했던 브브걸 근황 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/83599</id>
+        <link href="https://www.elle.co.kr/article/83599"/>
+        <updated>2024-01-11T17:39:44.206Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈빛에서 꿀 뚝뚝! 마이큐가 찍은 김나영 사진.jpg #럽스타그램]]></title>
+        <id>https://www.elle.co.kr/article/83585</id>
+        <link href="https://www.elle.co.kr/article/83585"/>
+        <updated>2024-01-11T17:39:44.208Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신혜선X지창욱 로맨스의 향방은? '웰컴투 삼달리' 후반부 관전 포인트 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/83558</id>
@@ -42,18 +54,5 @@
         <link href="https://www.elle.co.kr/article/83525"/>
         <updated>2024-01-08T17:39:36.806Z</updated>
         <content type="html"><![CDATA[깨끗한 피부 표현을 위한 쿠션 팩트부터 다양한 룩을 연출하는 립 제품까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따뜻한 겨울나기를 위한 최은경의 소비 목록 6]]></title>
-        <id>https://www.elle.co.kr/article/83520</id>
-        <link href="https://www.elle.co.kr/article/83520"/>
-        <updated>2024-01-08T17:39:36.808Z</updated>
-        <content type="html"><![CDATA[패션과 뷰티, 그리고 리빙 아이템까지! 겨울철 최고의 컨디션을 유지하기 위해 최은경이 고른 여...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공연계 플미 거래 아웃?! 예매 전체 취소시킨 장범준의 콘서트 정보]]></title>
-        <id>https://www.elle.co.kr/article/83518</id>
-        <link href="https://www.elle.co.kr/article/83518"/>
-        <updated>2024-01-08T17:39:36.810Z</updated>
     </entry>
 </feed>

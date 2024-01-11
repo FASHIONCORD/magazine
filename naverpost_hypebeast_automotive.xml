@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 자동차</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 05:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 17:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상에서 가장 비싼 자동차 컬렉션을 보유한 사람은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37175855&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37175855&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 11 Jan 2024 17:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTFfNCAg/MDAxNzA0OTc0NTYwMTY0.Y-8VJi4VV0I7t0IMLHn9yjUYcAGSSq5cggUOMUw4Rz4g.BIMwDBLF7rQJZlz-5F8jbRJGPnSlkjlWUMM03nj9cGEg.JPEG/IFhz5SvkSQzynnlp6qIHXKWpcFEY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니 플레이스테이션 x 메르세데스-벤츠 A 클래스 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37009705&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 28 Sep 2022 18:05:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjhfMjA3/MDAxNjY0MzUwNzM4ODUy.HeMuDS-H0zj7fAHa07hBtxmwJ3zwXAqUbVDdFhVJARUg.jZzlj9jR7xOZoJwzYYtFHH6_PBvmHy69NH2uObcUg3Ug.JPEG/IUvVtecSWsrRqZP7hjJIdx81S8Mc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페라리부터 테슬라까지, 자동차 브랜드의 모델 작명법은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34532752&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34532752&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 27 Sep 2022 18:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjZfMTMw/MDAxNjY0MTgzMjAzMTUy.eqQa4XzGnUw-G5oinW52PYj7gAQSGTxV1eN7EsS8aL4g.n2Sr-usjhUUJGU3gAiBh4fp9h9PsB0lfGFYMAXazztkg.JPEG/IxKSOlqQwbtZs8_KpSFP_yRrZy5I.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

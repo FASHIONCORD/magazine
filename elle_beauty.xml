@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-11T05:41:08.514Z</updated>
+    <updated>2024-01-11T17:41:00.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난해 가장 사랑받은 파운데이션 제품은? #엘르뷰티어워즈2024]]></title>
+        <id>https://www.elle.co.kr/article/83439</id>
+        <link href="https://www.elle.co.kr/article/83439"/>
+        <updated>2024-01-11T17:39:34.444Z</updated>
+        <content type="html"><![CDATA[단순히 광채만 고집하던 시대는 지났다. 수분광으로 만든 입체적 볼륨의 글로우 피부가 대세다. ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난해 가장 사랑받은 데이케어 제품은? #엘르뷰티어워즈2024]]></title>
         <id>https://www.elle.co.kr/article/83412</id>
@@ -52,12 +59,5 @@
         <id>https://www.elle.co.kr/article/83490</id>
         <link href="https://www.elle.co.kr/article/83490"/>
         <updated>2024-01-07T17:39:25.548Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<엘르> 뷰티 어워즈 2024 - 지난 한해를 빛낸 최고의 스킨케어 제품은?]]></title>
-        <id>https://www.elle.co.kr/article/83486</id>
-        <link href="https://www.elle.co.kr/article/83486"/>
-        <updated>2024-01-07T17:39:25.551Z</updated>
-        <content type="html"><![CDATA[농밀한 텍스처를 손에 덜어 피부를 부드럽게 쓰다듬는 행위를 통해 스스로를 가꾸고 있다는 자존...]]></content>
     </entry>
 </feed>
