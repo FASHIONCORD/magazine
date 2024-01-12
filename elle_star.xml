@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-12T05:41:46.257Z</updated>
+    <updated>2024-01-12T17:40:38.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박신혜가 출산 후 3년 만에 돌아온다]]></title>
+        <id>https://www.elle.co.kr/article/83623</id>
+        <link href="https://www.elle.co.kr/article/83623"/>
+        <updated>2024-01-12T17:39:46.170Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김대호가 밝힌 MBC 아나운서 시절 나경은 미담 (ft. 유재석 반응)]]></title>
+        <id>https://www.elle.co.kr/article/83610</id>
+        <link href="https://www.elle.co.kr/article/83610"/>
+        <updated>2024-01-12T17:39:46.171Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허니제이 딸 정러브, 생후 8개월 만에 TV 데뷔?]]></title>
+        <id>https://www.elle.co.kr/article/83602</id>
+        <link href="https://www.elle.co.kr/article/83602"/>
+        <updated>2024-01-12T17:39:46.172Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이장우, 우동집에 이어 순댓국집 오픈! 여자친구 조혜원의 방문 인증샷.jpg]]></title>
         <id>https://www.elle.co.kr/article/83600</id>
@@ -34,24 +52,5 @@
         <id>https://www.elle.co.kr/article/83557</id>
         <link href="https://www.elle.co.kr/article/83557"/>
         <updated>2024-01-10T17:39:29.963Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제81회 골든글로브 시상식을 빛낸 베스트 드레서는?]]></title>
-        <id>https://www.elle.co.kr/article/83548</id>
-        <link href="https://www.elle.co.kr/article/83548"/>
-        <updated>2024-01-10T17:39:29.964Z</updated>
-        <content type="html"><![CDATA[루이 비통부터 디올, 발렌티노, 조르지오 아르마니까지! 영롱한 드레스로 눈 호강하세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다사다난했던 출산 발표? '인어공주' 할리 베일리가 엄마 된 소감을 전했다]]></title>
-        <id>https://www.elle.co.kr/article/83534</id>
-        <link href="https://www.elle.co.kr/article/83534"/>
-        <updated>2024-01-10T17:39:29.965Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓 소집해제한 박서함이 BTS 진에게 받은 의외의 선물 (feat. 인증샷)]]></title>
-        <id>https://www.elle.co.kr/article/83526</id>
-        <link href="https://www.elle.co.kr/article/83526"/>
-        <updated>2024-01-09T17:39:36.322Z</updated>
     </entry>
 </feed>
