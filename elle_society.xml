@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-01-12T17:40:38.284Z</updated>
+    <updated>2024-01-13T05:40:58.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유기견을 입양했다. 내 세계와 그의 세계가 뒤섞인 약 한 달간의 기록]]></title>
+        <id>https://www.elle.co.kr/article/83559</id>
+        <link href="https://www.elle.co.kr/article/83559"/>
+        <updated>2024-01-13T05:40:57.759Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 3차원의 세계에서 발견!]]></title>
+        <id>https://www.elle.co.kr/article/83522</id>
+        <link href="https://www.elle.co.kr/article/83522"/>
+        <updated>2024-01-13T05:40:57.763Z</updated>
+        <content type="html"><![CDATA[11년 차 운동 코치 에리카가 푹 빠진 운동, 불가리안백의 매력!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엘르보이스] 기꺼이 먼저 연결되기]]></title>
         <id>https://www.elle.co.kr/article/83507</id>
@@ -41,18 +54,5 @@
         <id>https://www.elle.co.kr/article/83179</id>
         <link href="https://www.elle.co.kr/article/83179"/>
         <updated>2024-01-05T17:40:46.465Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경복궁 2차 낙서범, 지난달엔 ‘이 전시’에서 물건 훔쳤다?]]></title>
-        <id>https://www.elle.co.kr/article/83142</id>
-        <link href="https://www.elle.co.kr/article/83142"/>
-        <updated>2024-01-04T17:40:10.221Z</updated>
-        <content type="html"><![CDATA['아톰 부츠'가 여기서 왜 나와?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결국 ‘외유내강’이 돈을 번다_돈쓸신잡 #128]]></title>
-        <id>https://www.elle.co.kr/article/82999</id>
-        <link href="https://www.elle.co.kr/article/82999"/>
-        <updated>2024-01-03T05:40:50.076Z</updated>
     </entry>
 </feed>
