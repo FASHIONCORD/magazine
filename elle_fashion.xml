@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-13T17:40:30.681Z</updated>
+    <updated>2024-01-14T05:40:48.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한파도 두렵지 않은 머플러 스타일링 5]]></title>
+        <id>https://www.elle.co.kr/article/83590</id>
+        <link href="https://www.elle.co.kr/article/83590"/>
+        <updated>2024-01-14T05:39:26.027Z</updated>
+        <content type="html"><![CDATA[매서운 겨울 바람을 막아주면서 스타일까지 챙겨 주는 기특한 아이템! 셀러브리티의 윈터 룩에서...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[확실한 존재감! 레드 스타킹을 신은 셀럽 8]]></title>
         <id>https://www.elle.co.kr/article/83562</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/83517"/>
         <updated>2024-01-08T17:39:19.449Z</updated>
         <content type="html"><![CDATA[자신만의 숨겨진 매력을 한껏 배가시켜줄 메이크업, 그리고 완성된 룩에 정점을 찍을 향수와 매...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우아하고 화려한 깃털을 주목하라!]]></title>
-        <id>https://www.elle.co.kr/article/83509</id>
-        <link href="https://www.elle.co.kr/article/83509"/>
-        <updated>2024-01-08T17:39:19.451Z</updated>
-        <content type="html"><![CDATA[드라마틱한 무드를 끌어올리는 스타들의 깃털 패션.]]></content>
     </entry>
 </feed>
