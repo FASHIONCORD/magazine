@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-14T05:40:48.529Z</updated>
+    <updated>2024-01-14T17:41:00.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패션만큼은 프로처럼! 멋있는 스키복 스타일 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/83609</id>
+        <link href="https://www.elle.co.kr/article/83609"/>
+        <updated>2024-01-14T17:39:25.878Z</updated>
+        <content type="html"><![CDATA[예쁘고 느낌 있는 스키복 입으면 기분이 좋거든요~ 설원 위 인생 사진을 위해 스타들의 스키장...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생 로랑과 에르메스, 다이아몬드? 에스실 대표 김영실이 앤데믹을 대하는 법!]]></title>
+        <id>https://www.elle.co.kr/article/83594</id>
+        <link href="https://www.elle.co.kr/article/83594"/>
+        <updated>2024-01-14T17:39:25.879Z</updated>
+        <content type="html"><![CDATA[사물(사람과 물건) 인터뷰 #11 에스실 대표 김영실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한파도 두렵지 않은 머플러 스타일링 5]]></title>
         <id>https://www.elle.co.kr/article/83590</id>
@@ -45,19 +59,5 @@
         <id>https://www.elle.co.kr/article/83523</id>
         <link href="https://www.elle.co.kr/article/83523"/>
         <updated>2024-01-10T05:39:27.700Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴폐미 MAX! 한소희의 홍콩 여행기 속 드레스는 어디 거?]]></title>
-        <id>https://www.elle.co.kr/article/83521</id>
-        <link href="https://www.elle.co.kr/article/83521"/>
-        <updated>2024-01-09T05:39:24.277Z</updated>
-        <content type="html"><![CDATA[언니라고 부를게요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸을 따스하게 감싸는 6가지 방법]]></title>
-        <id>https://www.elle.co.kr/article/83517</id>
-        <link href="https://www.elle.co.kr/article/83517"/>
-        <updated>2024-01-08T17:39:19.449Z</updated>
-        <content type="html"><![CDATA[자신만의 숨겨진 매력을 한껏 배가시켜줄 메이크업, 그리고 완성된 룩에 정점을 찍을 향수와 매...]]></content>
     </entry>
 </feed>

@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-14T05:40:48.519Z</updated>
+    <updated>2024-01-14T17:41:00.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넥크림, 아직도 안 발라?]]></title>
+        <id>https://www.elle.co.kr/article/83632</id>
+        <link href="https://www.elle.co.kr/article/83632"/>
+        <updated>2024-01-14T17:40:05.513Z</updated>
+        <content type="html"><![CDATA[올해엔 기필코 목주름과 이별을 고하리.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신작 준비하며 건강하게 7kg 증량한 박지현의 최애 운동은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/83624</id>
+        <link href="https://www.elle.co.kr/article/83624"/>
+        <updated>2024-01-14T17:40:05.518Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넌 립밤 발라? 난 립세린 발라]]></title>
+        <id>https://www.elle.co.kr/article/83571</id>
+        <link href="https://www.elle.co.kr/article/83571"/>
+        <updated>2024-01-14T17:40:05.520Z</updated>
+        <content type="html"><![CDATA[전에 없던 입술 케어의 끝판왕 카테고리, '립세린'이 탄생했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역주행 부담감에 극단적 체중 감량? 고충 토로했던 브브걸 근황 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/83599</id>
+        <link href="https://www.elle.co.kr/article/83599"/>
+        <updated>2024-01-14T17:40:05.522Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금은 미니 시대! 작아서 더 좋은 화장품_선배’s 어드바이스 #202]]></title>
         <id>https://www.elle.co.kr/article/83549</id>
@@ -32,33 +58,5 @@
         <link href="https://www.elle.co.kr/article/83412"/>
         <updated>2024-01-10T17:39:19.610Z</updated>
         <content type="html"><![CDATA[아침에 단 한 번 발랐는데, 온종일 피부가 탄탄하고 환해지는 기분. &lt;엘르&gt; 뷰티 어워즈 2024 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난해 가장 사랑받은 쿠션 제품은? #엘르뷰티어워즈2024]]></title>
-        <id>https://www.elle.co.kr/article/83441</id>
-        <link href="https://www.elle.co.kr/article/83441"/>
-        <updated>2024-01-10T17:39:19.611Z</updated>
-        <content type="html"><![CDATA[계절에 상관 없이 컴포트 매트 제형을 사용하고 싶다면 블루 쿠션이라 불리며 &lt;엘르&gt; 뷰티 어워...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난해 가장 사랑받은 유스케어 제품은? #엘르뷰티어워즈2024]]></title>
-        <id>https://www.elle.co.kr/article/83438</id>
-        <link href="https://www.elle.co.kr/article/83438"/>
-        <updated>2024-01-08T17:39:27.244Z</updated>
-        <content type="html"><![CDATA[탄탄하게 끌어올려진 라인과 우아하게 뿜어나오는 광채, 부드럽고 매끈한 피부 결. 이 세 가지를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따뜻한 겨울나기를 위한 최은경의 소비 목록 6]]></title>
-        <id>https://www.elle.co.kr/article/83520</id>
-        <link href="https://www.elle.co.kr/article/83520"/>
-        <updated>2024-01-08T05:39:34.528Z</updated>
-        <content type="html"><![CDATA[패션과 뷰티, 그리고 리빙 아이템까지! 겨울철 최고의 컨디션을 유지하기 위해 최은경이 고른 여...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<엘르> 뷰티 어워즈 2024 - 지난 한해를 빛낸 최고의 헤어&보디 제품은?]]></title>
-        <id>https://www.elle.co.kr/article/83511</id>
-        <link href="https://www.elle.co.kr/article/83511"/>
-        <updated>2024-01-07T17:39:25.545Z</updated>
-        <content type="html"><![CDATA[작은 차이가 큰 변화를 만들어내는 보디&amp;헤어 케어. 저자극 포뮬러는 기본, 더욱 감각적인 제형...]]></content>
     </entry>
 </feed>
