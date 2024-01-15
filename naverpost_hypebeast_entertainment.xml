@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 05:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 17:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닉 프로스트, ‘드래곤 길들이기’ 실사 영화 출연 확정]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37194108&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37194108&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 15 Jan 2024 17:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTVfOTcg/MDAxNzA1MzIwNjI4NzY1.4uOm3InokmzNQlm-b1jtJYyK2vZHuGIYeR1w61HLRsog.E79Cb2GHzc1sj_PLl1OlGcMHxhgHt0p_sbDQf_WepAQg.JPEG/Iw8amDTkxfbK-zuSMh6tRmAB4fLs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미야자키 하야오가 20년 만에 직접 밝힌 ‘가오나시’의 정체]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37182918&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Nov 2023 17:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjhfMTQz/MDAxNzAxMTU3NTQ1OTQ1.QFwL9AzO6VnS81uqOAD0c7IqqvqWb2p04_g2yKaSaJwg.5fPK_NqC1RDZLcrrRPGkHDQVu4RS-EWdG9vuT-IvAYEg.JPEG/Ich3xzxcJLaIbf3otpoIPOetl7AE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘듄: 파트 2’, 국내 개봉 시기 확정]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36949979&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36949979&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 27 Nov 2023 17:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfMTY5/MDAxNzAxMDc2NTk2OTY4.r6Ao1dkdfpGBU1hTmEHKZct9WWY0KjP6zE-y_ngZ6Zgg.g6QYiKksmaJXK-1LHX9GeQx94HXmpX8PZXPkszgtcnEg.JPEG/IrZbvYcUKY7TrEr7VfjpnhtZMEgg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
