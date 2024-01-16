@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-01-16T05:40:56.748Z</updated>
+    <updated>2024-01-16T17:41:27.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아자부다이 힐스 디저트 원정대 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/83633</id>
+        <link href="https://www.elle.co.kr/article/83633"/>
+        <updated>2024-01-16T17:41:01.029Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매콤한 수프 카레부터 인생 라멘까지! 혜리의 삿포로 맛집 탐방 3]]></title>
         <id>https://www.elle.co.kr/article/83627</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/83500</id>
         <link href="https://www.elle.co.kr/article/83500"/>
         <updated>2024-01-10T05:41:20.416Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간판 없는 원테이블 레스토랑부터 바베큐 맛집까지! 지연 & 황재균 부부의 미식 투어 3]]></title>
-        <id>https://www.elle.co.kr/article/83487</id>
-        <link href="https://www.elle.co.kr/article/83487"/>
-        <updated>2024-01-09T17:40:33.037Z</updated>
-        <content type="html"><![CDATA[야구 오프 시즌을 맞은 지연과 황재균 부부는 맛집 도장깨기 중!]]></content>
     </entry>
 </feed>
