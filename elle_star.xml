@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-15T17:41:09.894Z</updated>
+    <updated>2024-01-16T05:40:56.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최강 축구 대표팀의 아시안컵 일정부터 개고기 금지법 통과까지 #이번주요약]]></title>
+        <id>https://www.elle.co.kr/article/83649</id>
+        <link href="https://www.elle.co.kr/article/83649"/>
+        <updated>2024-01-16T05:39:44.627Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역대 최강 전력, 64년 만의 정상 도전? 아시안컵 축구 대표팀 일정 총정리]]></title>
         <id>https://www.elle.co.kr/article/83638</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/83610</id>
         <link href="https://www.elle.co.kr/article/83610"/>
         <updated>2024-01-12T17:39:46.171Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허니제이 딸 정러브, 생후 8개월 만에 TV 데뷔?]]></title>
-        <id>https://www.elle.co.kr/article/83602</id>
-        <link href="https://www.elle.co.kr/article/83602"/>
-        <updated>2024-01-12T17:39:46.172Z</updated>
     </entry>
 </feed>

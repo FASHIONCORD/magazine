@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-15T17:41:09.914Z</updated>
+    <updated>2024-01-16T05:40:56.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난해 가장 사랑받은 블러셔 제품은? #엘르뷰티어워즈2024]]></title>
+        <id>https://www.elle.co.kr/article/83470</id>
+        <link href="https://www.elle.co.kr/article/83470"/>
+        <updated>2024-01-16T05:39:34.687Z</updated>
+        <content type="html"><![CDATA[수줍은 듯 빛나는, 생기 넘치듯 화사한, 처음부터 내 것인 듯 자연스러운 글로우. '나스 에프...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[품절 대란! '센녹' 담당자는 여기서 영감을 얻는다?]]></title>
         <id>https://www.elle.co.kr/article/83640</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/83525"/>
         <updated>2024-01-12T17:39:38.351Z</updated>
         <content type="html"><![CDATA[깨끗한 피부 표현을 위한 쿠션 팩트부터 다양한 룩을 연출하는 립 제품까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난해 가장 사랑받은 파운데이션 제품은? #엘르뷰티어워즈2024]]></title>
-        <id>https://www.elle.co.kr/article/83439</id>
-        <link href="https://www.elle.co.kr/article/83439"/>
-        <updated>2024-01-11T17:39:34.444Z</updated>
-        <content type="html"><![CDATA[단순히 광채만 고집하던 시대는 지났다. 수분광으로 만든 입체적 볼륨의 글로우 피부가 대세다. ...]]></content>
     </entry>
 </feed>
