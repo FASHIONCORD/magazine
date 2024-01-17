@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-17T05:41:22.313Z</updated>
+    <updated>2024-01-17T17:40:39.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난해 가장 사랑받은 모이스처라이징 크림 제품은? #엘르뷰티어워즈2024]]></title>
+        <id>https://www.elle.co.kr/article/83474</id>
+        <link href="https://www.elle.co.kr/article/83474"/>
+        <updated>2024-01-17T17:39:38.710Z</updated>
+        <content type="html"><![CDATA[매일 자극받는 피부 장벽을 강화하고 확신의 수분 케어를 선포하며 업그레이드된 '키엘 울트라 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난해 국내 뷰티시장을 이끈 K뷰티 리더 제품은? #엘르뷰티어워즈2024]]></title>
         <id>https://www.elle.co.kr/article/83479</id>
@@ -51,12 +58,5 @@
         <id>https://www.elle.co.kr/article/83599</id>
         <link href="https://www.elle.co.kr/article/83599"/>
         <updated>2024-01-14T17:40:05.522Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금은 미니 시대! 작아서 더 좋은 화장품_선배’s 어드바이스 #202]]></title>
-        <id>https://www.elle.co.kr/article/83549</id>
-        <link href="https://www.elle.co.kr/article/83549"/>
-        <updated>2024-01-14T05:39:34.922Z</updated>
-        <content type="html"><![CDATA[얇아진 지갑을 달래주고, 낭비 없이 비울 수 있는 합리적인 소용량 제품을 소개합니다.]]></content>
     </entry>
 </feed>

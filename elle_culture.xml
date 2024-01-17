@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-01-17T05:41:22.316Z</updated>
+    <updated>2024-01-17T17:40:39.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것]]></title>
+        <id>https://www.elle.co.kr/article/83684</id>
+        <link href="https://www.elle.co.kr/article/83684"/>
+        <updated>2024-01-17T17:39:57.002Z</updated>
+        <content type="html"><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흔적으로 지은 덩어리: 정현 개인전 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/83683</id>
+        <link href="https://www.elle.co.kr/article/83683"/>
+        <updated>2024-01-17T17:39:57.004Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진한 여운과 함께 종영한 '마에스트라' 명장면 총정리 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/83674</id>
@@ -40,18 +53,5 @@
         <id>https://www.elle.co.kr/article/83628</id>
         <link href="https://www.elle.co.kr/article/83628"/>
         <updated>2024-01-15T17:40:10.113Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소파가 된 몽클레르의 블랙 다운 재킷]]></title>
-        <id>https://www.elle.co.kr/article/83572</id>
-        <link href="https://www.elle.co.kr/article/83572"/>
-        <updated>2024-01-15T17:40:10.114Z</updated>
-        <content type="html"><![CDATA[작가 연진영과 몽클레르가 함께 완성한, 순환하는 검은 거실.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대호가 밝힌 MBC 아나운서 시절 나경은 미담 (ft. 유재석 반응)]]></title>
-        <id>https://www.elle.co.kr/article/83610</id>
-        <link href="https://www.elle.co.kr/article/83610"/>
-        <updated>2024-01-15T17:40:10.117Z</updated>
     </entry>
 </feed>

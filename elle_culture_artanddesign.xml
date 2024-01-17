@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2024-01-17T05:41:22.314Z</updated>
+    <updated>2024-01-17T17:40:39.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프리츠한센의 첫 로킹 홀스]]></title>
+        <id>https://www.elle.co.kr/article/83715</id>
+        <link href="https://www.elle.co.kr/article/83715"/>
+        <updated>2024-01-17T17:40:23.743Z</updated>
+        <content type="html"><![CDATA[어느 날 프리츠한센 헤리티지 팀이 발견한 1946년의 비밀스러운 사진 두 장.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것]]></title>
         <id>https://www.elle.co.kr/article/83684</id>
@@ -83,12 +90,5 @@
         <link href="https://www.elle.co.kr/article/83281"/>
         <updated>2023-12-24T17:40:14.415Z</updated>
         <content type="html"><![CDATA[낡고 부서진 것을 향해 가는 수선가들의 이야기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우연과 상상의 힘, 어쩌다 책방 디렉터 김수진]]></title>
-        <id>https://www.elle.co.kr/article/83279</id>
-        <link href="https://www.elle.co.kr/article/83279"/>
-        <updated>2023-12-23T17:40:01.830Z</updated>
-        <content type="html"><![CDATA[수많은 문장을 따라 다져온 김수진의 취향.]]></content>
     </entry>
 </feed>
