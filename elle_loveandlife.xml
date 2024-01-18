@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-01-18T05:40:34.834Z</updated>
+    <updated>2024-01-18T17:40:55.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스키 타고 출입할 수 있는 해외 숙소 3]]></title>
+        <id>https://www.elle.co.kr/article/83641</id>
+        <link href="https://www.elle.co.kr/article/83641"/>
+        <updated>2024-01-18T17:40:46.961Z</updated>
+        <content type="html"><![CDATA[아직도 집에 들어갈 때 스키 부츠 벗는 사람?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뷔페부터 애프터눈 티세트까지! 제철 딸기 활용한 호텔 디저트 추천 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/83634</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/83582"/>
         <updated>2024-01-12T17:40:26.747Z</updated>
         <content type="html"><![CDATA[이번 주말은 삼각지네, 삼각지야.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암벽 타고 승천한 용 보러 가자! 2024 청룡의 해, 인생샷 찍기 좋은 명소 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/83505</id>
-        <link href="https://www.elle.co.kr/article/83505"/>
-        <updated>2024-01-12T05:41:38.266Z</updated>
     </entry>
 </feed>

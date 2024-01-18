@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 05:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 17:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 갤럭시 S24 시리즈 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37211241&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37211241&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 18 Jan 2024 17:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMThfNDIg/MDAxNzA1NTg1MjIwOTAx.dVWuqS4wMATVR1OF1KT6_0ZW9zA4mA3Yi-boxKEeZhAg.FFElfuh-NYKVvES_EwffQ1fEFuyPHXUB7wnzE8QTaLwg.JPEG/IgauCEW-sd-QOhoOWjQrAIq8phwk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플, 애플 워치에서 혈중 산소 농도 측정 기능 삭제한다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37200021&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Aug 2023 05:39:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MzBfMTM3/MDAxNjkzMzcxNDI4NDM2.mD3VhuoONG6A1pFqQKqRd5HftcYk5C4Y8o5s4FH0fwcg.eRrlQV9m7sI4VBb8fzecamr9eF-mid5h2vUonnSmr8Ag.JPEG/IYxMGVbNGISeWwCyRzvPh8E2ob0c.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 아이폰 15를 위한 정품 케이스가 유출됐다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36486303&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36486303&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 29 Aug 2023 17:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjlfNTUg/MDAxNjkzMzAyNjc2NjAx.hIOHkTXwFdaVrf6HLZatjWVNHOfpugf3A4JoVqs3Vgcg.ivL9TBzF8n_uRAaixoZfZJJzsSaWeaOhR9PmflgdV1Ag.JPEG/IdKFSQfHvcU58yo82BReb5nNOKzs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
