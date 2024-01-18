@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-17T17:40:39.163Z</updated>
+    <updated>2024-01-18T05:40:34.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난해 가장 주목받은 이노베이터 제품은? #엘르뷰티어워즈2024]]></title>
+        <id>https://www.elle.co.kr/article/83478</id>
+        <link href="https://www.elle.co.kr/article/83478"/>
+        <updated>2024-01-18T05:39:30.039Z</updated>
+        <content type="html"><![CDATA[뷰티 시장이야 말로 세상에서 가장 진일보한 테크놀로지가 펼쳐지는 곳이다. 그중에서도 &lt;엘르&gt; ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난해 가장 사랑받은 모이스처라이징 크림 제품은? #엘르뷰티어워즈2024]]></title>
         <id>https://www.elle.co.kr/article/83474</id>
@@ -52,11 +59,5 @@
         <link href="https://www.elle.co.kr/article/83571"/>
         <updated>2024-01-14T17:40:05.520Z</updated>
         <content type="html"><![CDATA[전에 없던 입술 케어의 끝판왕 카테고리, '립세린'이 탄생했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역주행 부담감에 극단적 체중 감량? 고충 토로했던 브브걸 근황 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83599</id>
-        <link href="https://www.elle.co.kr/article/83599"/>
-        <updated>2024-01-14T17:40:05.522Z</updated>
     </entry>
 </feed>

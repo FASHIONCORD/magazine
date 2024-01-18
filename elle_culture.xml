@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-01-17T17:40:39.080Z</updated>
+    <updated>2024-01-18T05:40:34.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이강인X황인범 득점에 바레인전 승! 석연찮은 경고 남발에 캡틴이 한 작심발언]]></title>
+        <id>https://www.elle.co.kr/article/83691</id>
+        <link href="https://www.elle.co.kr/article/83691"/>
+        <updated>2024-01-18T05:39:50.713Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것]]></title>
         <id>https://www.elle.co.kr/article/83684</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/83638</id>
         <link href="https://www.elle.co.kr/article/83638"/>
         <updated>2024-01-16T05:39:53.771Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘정의로운 과부’ 이하늬X외계인과 싸우는 김태리! 매력있는 여성 캐릭터에 빠질 1월 둘째주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83628</id>
-        <link href="https://www.elle.co.kr/article/83628"/>
-        <updated>2024-01-15T17:40:10.113Z</updated>
     </entry>
 </feed>
