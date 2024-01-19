@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-01-18T17:40:55.260Z</updated>
+    <updated>2024-01-19T05:40:37.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/83759</id>
+        <link href="https://www.elle.co.kr/article/83759"/>
+        <updated>2024-01-19T05:39:53.672Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역대 박스오피스 10위 올라 선 '서울의 봄' 제작사 차기작 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/83702</id>
@@ -77,11 +83,5 @@
         <id>https://www.elle.co.kr/article/83489</id>
         <link href="https://www.elle.co.kr/article/83489"/>
         <updated>2024-01-05T05:40:05.912Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악방송 MC 데뷔하는 이효리의 '레드카펫' 첫 게스트 라인업.list]]></title>
-        <id>https://www.elle.co.kr/article/83465</id>
-        <link href="https://www.elle.co.kr/article/83465"/>
-        <updated>2024-01-04T05:40:17.670Z</updated>
     </entry>
 </feed>
