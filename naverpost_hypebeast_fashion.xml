@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 17:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오메가, 스피드마스터 문워치 ‘다크 사이드 오브 더 문’ 아폴로 8]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37217029&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37217029&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 19 Jan 2024 17:38:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTlfMjAx/MDAxNzA1NjcyODA5MTU3.DhnQgWuji2F-mXefWD5by40lFoQE-atMJDqyrRW9Dvog.LGdV2OuiVzst1x2odL0smzPYig5ZEyTTR3qkXI07S78g.JPEG/Ibr4QczfwSooELzX75F7WbS0gNBw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아놀드 슈왈제네거, 오데마 피게 손목시계로 인해 공항에 억류됐다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37211229&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Aug 2023 05:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MzBfMjI2/MDAxNjkzMzcxODEzNjk4.2Suc4pZM4HEe4Fp50q0ydOqUAzK-jRHfjY62ohFMr5wg.qmtWCBw7UtSVPYCZAYkkiYi8IONk6PAsjDJy4SjsOwcg.JPEG/IInUvnwJyN7TUak28Dz51sw2BjM8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오메가 x 스와치 문스와치 ‘미션 투 넵튠’이 재출시된다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36486272&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36486272&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 29 Aug 2023 17:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjlfMjIy/MDAxNjkzMzAyMDAwMDU1.qCO6n07mBegbvd2wPG4c2MCDinuBF2cub7ufze8cyB4g.LGx0ABJwb8k5CsVmzXKUIa8Jgl3NPU1dsWB1_hdIZiYg.JPEG/ItEZ6xAZSMxDZbELnXUlxBSgOP1c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

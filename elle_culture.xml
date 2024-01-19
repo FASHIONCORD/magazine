@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-01-19T05:40:37.598Z</updated>
+    <updated>2024-01-19T17:41:44.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역대 박스오피스 10위 올라 선 '서울의 봄' 제작사 차기작 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/83702</id>
+        <link href="https://www.elle.co.kr/article/83702"/>
+        <updated>2024-01-19T17:40:32.682Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼달리' 지창욱X신혜선 로맨스가 이곳에서? 드라마 촬영 명소 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/83698</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/83668</id>
         <link href="https://www.elle.co.kr/article/83668"/>
         <updated>2024-01-16T17:40:12.923Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최강 축구 대표팀의 아시안컵 일정부터 개고기 금지법 통과까지 #이번주요약]]></title>
-        <id>https://www.elle.co.kr/article/83649</id>
-        <link href="https://www.elle.co.kr/article/83649"/>
-        <updated>2024-01-16T05:39:53.770Z</updated>
     </entry>
 </feed>
