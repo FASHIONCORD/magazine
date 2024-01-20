@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 스타</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 17:41:45 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김윤지의 제 2막]]></title>
-            <link>https://www.elle.co.kr/article/83776</link>
-            <guid>https://www.elle.co.kr/article/83776</guid>
-            <pubDate>Fri, 19 Jan 2024 17:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[꿈꿔온 일이 현실로 눈앞에 펼쳐진 지금, 김윤지의 두 번째 챕터가 시작된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/f44a9ac8-3dc7-4106-93e5-6c5ba5952727.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 번째 공개 연애 vs 홍보?! 현아X용준형 커플 사진 기습 공개에 나온 소속사 입장]]></title>
-            <link>https://www.elle.co.kr/article/83761</link>
-            <guid>https://www.elle.co.kr/article/83761</guid>
-            <pubDate>Fri, 19 Jan 2024 17:40:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/839caf85-19d4-4bb2-a03c-d8672e52c2c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
-            <link>https://www.elle.co.kr/article/83759</link>
-            <guid>https://www.elle.co.kr/article/83759</guid>
-            <pubDate>Fri, 19 Jan 2024 17:40:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/fb0bf489-a2fc-4776-af48-27291be5d4ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤박X김수빈 부부의 소탈한 신혼 데이트 #럽스타그램]]></title>
-            <link>https://www.elle.co.kr/article/83752</link>
-            <guid>https://www.elle.co.kr/article/83752</guid>
-            <pubDate>Fri, 19 Jan 2024 17:40:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/a30f5fa7-6ce6-4bdc-9c26-7962ef36844b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1시간 만에 -2.2kg! 군살 하나 없는 근육질 김혜선의 최애 운동은? #스타다이어트]]></title>
-            <link>https://www.elle.co.kr/article/83751</link>
-            <guid>https://www.elle.co.kr/article/83751</guid>
-            <pubDate>Fri, 19 Jan 2024 17:40:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/8354ce87-d0f5-4a6f-9d31-ec9ad61d4323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앤톤이 데뷔 후 아빠 윤상을 울렸다?! (ft. 낙하산설 해명)]]></title>
-            <link>https://www.elle.co.kr/article/83750</link>
-            <guid>https://www.elle.co.kr/article/83750</guid>
-            <pubDate>Fri, 19 Jan 2024 17:40:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/63182642-a266-4387-98f2-2fe94b1a00fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월에 전격 데뷔하는 NCT WISH가 누구?]]></title>
-            <link>https://www.elle.co.kr/article/83732</link>
-            <guid>https://www.elle.co.kr/article/83732</guid>
-            <pubDate>Fri, 19 Jan 2024 05:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[NCT의 세계관은 계속된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/1024bd92-00d4-46ec-92bb-a73b1330d65f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 목표가 작심삼일이 되지 않길 바란다면! 스타들의 운동 생활 4]]></title>
-            <link>https://www.elle.co.kr/article/83727</link>
-            <guid>https://www.elle.co.kr/article/83727</guid>
-            <pubDate>Fri, 19 Jan 2024 05:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[자기 관리에 철저한 이들을 보며 동기부여를 해보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/0e2935df-79ad-40c9-a309-d840b637492a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/star</id>
+    <title>엘르 코리아 ─ 스타</title>
+    <updated>2024-01-20T05:41:11.153Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김윤지의 제 2막]]></title>
+        <id>https://www.elle.co.kr/article/83776</id>
+        <link href="https://www.elle.co.kr/article/83776"/>
+        <updated>2024-01-19T17:40:24.248Z</updated>
+        <content type="html"><![CDATA[꿈꿔온 일이 현실로 눈앞에 펼쳐진 지금, 김윤지의 두 번째 챕터가 시작된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두 번째 공개 연애 vs 홍보?! 현아X용준형 커플 사진 기습 공개에 나온 소속사 입장]]></title>
+        <id>https://www.elle.co.kr/article/83761</id>
+        <link href="https://www.elle.co.kr/article/83761"/>
+        <updated>2024-01-19T17:40:24.250Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/83759</id>
+        <link href="https://www.elle.co.kr/article/83759"/>
+        <updated>2024-01-19T17:40:24.251Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤박X김수빈 부부의 소탈한 신혼 데이트 #럽스타그램]]></title>
+        <id>https://www.elle.co.kr/article/83752</id>
+        <link href="https://www.elle.co.kr/article/83752"/>
+        <updated>2024-01-19T17:40:24.251Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1시간 만에 -2.2kg! 군살 하나 없는 근육질 김혜선의 최애 운동은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/83751</id>
+        <link href="https://www.elle.co.kr/article/83751"/>
+        <updated>2024-01-19T17:40:24.253Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤톤이 데뷔 후 아빠 윤상을 울렸다?! (ft. 낙하산설 해명)]]></title>
+        <id>https://www.elle.co.kr/article/83750</id>
+        <link href="https://www.elle.co.kr/article/83750"/>
+        <updated>2024-01-19T17:40:24.254Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2월에 전격 데뷔하는 NCT WISH가 누구?]]></title>
+        <id>https://www.elle.co.kr/article/83732</id>
+        <link href="https://www.elle.co.kr/article/83732"/>
+        <updated>2024-01-19T05:39:25.237Z</updated>
+        <content type="html"><![CDATA[NCT의 세계관은 계속된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새해 목표가 작심삼일이 되지 않길 바란다면! 스타들의 운동 생활 4]]></title>
+        <id>https://www.elle.co.kr/article/83727</id>
+        <link href="https://www.elle.co.kr/article/83727"/>
+        <updated>2024-01-19T05:39:25.274Z</updated>
+        <content type="html"><![CDATA[자기 관리에 철저한 이들을 보며 동기부여를 해보세요.]]></content>
+    </entry>
+</feed>

@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-19T17:41:44.985Z</updated>
+    <updated>2024-01-20T05:41:11.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이어리 vs 파자마, 독자가 꼽은 하루 마무리 아이템은? #취향의발견_1]]></title>
+        <id>https://www.elle.co.kr/article/83722</id>
+        <link href="https://www.elle.co.kr/article/83722"/>
+        <updated>2024-01-20T05:39:51.687Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웅장하고 아름다운 너의 실루엣]]></title>
         <id>https://www.elle.co.kr/article/83713</id>
@@ -51,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/83663"/>
         <updated>2024-01-17T05:39:20.892Z</updated>
         <content type="html"><![CDATA[사바토 데 사르노가 2024 가을-겨울 남성복 컬렉션을 공개했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작고 소중한 키 링]]></title>
-        <id>https://www.elle.co.kr/article/83655</id>
-        <link href="https://www.elle.co.kr/article/83655"/>
-        <updated>2024-01-17T05:39:20.895Z</updated>
-        <content type="html"><![CDATA[주렁주렁.]]></content>
     </entry>
 </feed>
