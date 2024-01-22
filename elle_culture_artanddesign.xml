@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2024-01-22T05:40:20.638Z</updated>
+    <updated>2024-01-22T17:41:26.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[집과 예술을 사랑하는 모두가 한자리에!]]></title>
+        <id>https://www.elle.co.kr/article/83824</id>
+        <link href="https://www.elle.co.kr/article/83824"/>
+        <updated>2024-01-22T17:40:41.114Z</updated>
+        <content type="html"><![CDATA[일상 속 예술을 향한 열기로 '후끈' 달아오른 &lt;엘르 데코&gt; 전시 오프닝 현장.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건축에 관한 지극히 사적인 기록]]></title>
         <id>https://www.elle.co.kr/article/83798</id>
@@ -84,11 +91,5 @@
         <id>https://www.elle.co.kr/article/83447</id>
         <link href="https://www.elle.co.kr/article/83447"/>
         <updated>2024-01-03T17:40:41.963Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['숲세권' 아파트의 삶을 담아내는 아륜홈의 새로운 시도, 세컨 하우스 #홈터뷰]]></title>
-        <id>https://www.elle.co.kr/article/83332</id>
-        <link href="https://www.elle.co.kr/article/83332"/>
-        <updated>2023-12-27T17:40:18.053Z</updated>
     </entry>
 </feed>

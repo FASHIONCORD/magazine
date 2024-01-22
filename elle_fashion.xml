@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-22T05:40:20.568Z</updated>
+    <updated>2024-01-22T17:41:26.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흥미로운 실루엣에 녹아든 깊은 탐미의 순간]]></title>
+        <id>https://www.elle.co.kr/article/83793</id>
+        <link href="https://www.elle.co.kr/article/83793"/>
+        <updated>2024-01-22T17:39:21.284Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정상급 아이콘 총출동! 역대 스킴스 캠페인 모델.zip]]></title>
         <id>https://www.elle.co.kr/article/83790</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/83701"/>
         <updated>2024-01-19T17:39:38.407Z</updated>
         <content type="html"><![CDATA[바지보다 따뜻한 맥시 스커트로 패셔너블한 윈터 룩을 완성해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4인4색 남성복 스타일, 당신의 선택은?]]></title>
-        <id>https://www.elle.co.kr/article/83700</id>
-        <link href="https://www.elle.co.kr/article/83700"/>
-        <updated>2024-01-17T17:39:29.252Z</updated>
-        <content type="html"><![CDATA[2024 FW 밀라노 남성복 패션위크에서 포착한 네 가지 트렌드.]]></content>
     </entry>
 </feed>

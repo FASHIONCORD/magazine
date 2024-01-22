@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-01-22T05:40:20.562Z</updated>
+    <updated>2024-01-22T17:41:26.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/83809</id>
+        <link href="https://www.elle.co.kr/article/83809"/>
+        <updated>2024-01-22T17:40:33.557Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/83759</id>
@@ -77,11 +83,5 @@
         <id>https://www.elle.co.kr/article/83498</id>
         <link href="https://www.elle.co.kr/article/83498"/>
         <updated>2024-01-05T17:40:04.406Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 박스오피스에서 '서울의 봄'과 '노량' 제친 영화는?]]></title>
-        <id>https://www.elle.co.kr/article/83489</id>
-        <link href="https://www.elle.co.kr/article/83489"/>
-        <updated>2024-01-05T05:40:05.912Z</updated>
     </entry>
 </feed>
