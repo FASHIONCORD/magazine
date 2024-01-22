@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-21T17:40:35.747Z</updated>
+    <updated>2024-01-22T05:40:20.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[먹지 마세요! 꿀피부 치트키, 소프트 크림이 뭐길래?_선배’s 어드바이스 #203]]></title>
+        <id>https://www.elle.co.kr/article/83680</id>
+        <link href="https://www.elle.co.kr/article/83680"/>
+        <updated>2024-01-22T05:39:20.376Z</updated>
+        <content type="html"><![CDATA[생크림 질감에 유∙수분 밸런스, 안티에이징, 브라이트닝, 진정 효과까지!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황신혜의 이너 뷰티를 책임지는 영양제.list]]></title>
         <id>https://www.elle.co.kr/article/83656</id>
@@ -53,11 +60,5 @@
         <link href="https://www.elle.co.kr/article/83632"/>
         <updated>2024-01-14T17:40:05.513Z</updated>
         <content type="html"><![CDATA[올해엔 기필코 목주름과 이별을 고하리.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신작 준비하며 건강하게 7kg 증량한 박지현의 최애 운동은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83624</id>
-        <link href="https://www.elle.co.kr/article/83624"/>
-        <updated>2024-01-14T17:40:05.518Z</updated>
     </entry>
 </feed>
