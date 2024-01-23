@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-22T17:41:26.411Z</updated>
+    <updated>2024-01-23T05:41:55.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밀라노가 떠들썩했던 이유, 이들 때문이라고?]]></title>
+        <id>https://www.elle.co.kr/article/83795</id>
+        <link href="https://www.elle.co.kr/article/83795"/>
+        <updated>2024-01-23T05:39:47.352Z</updated>
+        <content type="html"><![CDATA[2024 FW 밀라노 남성복 패션위크를 찾은 K-셀러브리티.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보부상 아니어도 탐날 걸? 스타들이 선택한 빅 백 6]]></title>
+        <id>https://www.elle.co.kr/article/83794</id>
+        <link href="https://www.elle.co.kr/article/83794"/>
+        <updated>2024-01-23T05:39:47.353Z</updated>
+        <content type="html"><![CDATA[빅 백 나가신다!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흥미로운 실루엣에 녹아든 깊은 탐미의 순간]]></title>
         <id>https://www.elle.co.kr/article/83793</id>
@@ -43,18 +57,5 @@
         <id>https://www.elle.co.kr/article/83713</id>
         <link href="https://www.elle.co.kr/article/83713"/>
         <updated>2024-01-19T17:39:38.403Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 한 번 화이트]]></title>
-        <id>https://www.elle.co.kr/article/83708</id>
-        <link href="https://www.elle.co.kr/article/83708"/>
-        <updated>2024-01-19T17:39:38.405Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[길수록 멋스러워! '맥시 스커트'의 무한한 매력]]></title>
-        <id>https://www.elle.co.kr/article/83701</id>
-        <link href="https://www.elle.co.kr/article/83701"/>
-        <updated>2024-01-19T17:39:38.407Z</updated>
-        <content type="html"><![CDATA[바지보다 따뜻한 맥시 스커트로 패셔너블한 윈터 룩을 완성해 보세요.]]></content>
     </entry>
 </feed>

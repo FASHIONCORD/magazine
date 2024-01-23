@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-22T17:41:26.409Z</updated>
+    <updated>2024-01-23T05:41:55.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공개 연애 시작한 '프로 불참러' 조세호, 결혼식 참석 선언한 셀럽은? (ft. 연애 스토리)]]></title>
+        <id>https://www.elle.co.kr/article/83807</id>
+        <link href="https://www.elle.co.kr/article/83807"/>
+        <updated>2024-01-23T05:40:10.632Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밀라노가 떠들썩했던 이유, 이들 때문이라고?]]></title>
+        <id>https://www.elle.co.kr/article/83795</id>
+        <link href="https://www.elle.co.kr/article/83795"/>
+        <updated>2024-01-23T05:40:10.634Z</updated>
+        <content type="html"><![CDATA[2024 FW 밀라노 남성복 패션위크를 찾은 K-셀러브리티.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑스러운 케미스트리! <닥터슬럼프> 박신혜, 박형식]]></title>
+        <id>https://www.elle.co.kr/article/83791</id>
+        <link href="https://www.elle.co.kr/article/83791"/>
+        <updated>2024-01-23T05:40:10.635Z</updated>
+        <content type="html"><![CDATA[11년만에 조우한 박신혜와 박형식이 전하는 따스하고 경쾌한 에너지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정상급 아이콘 총출동! 역대 스킴스 캠페인 모델.zip]]></title>
         <id>https://www.elle.co.kr/article/83790</id>
@@ -37,23 +57,5 @@
         <link href="https://www.elle.co.kr/article/83776"/>
         <updated>2024-01-19T17:40:24.248Z</updated>
         <content type="html"><![CDATA[꿈꿔온 일이 현실로 눈앞에 펼쳐진 지금, 김윤지의 두 번째 챕터가 시작된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두 번째 공개 연애 vs 홍보?! 현아X용준형 커플 사진 기습 공개에 나온 소속사 입장]]></title>
-        <id>https://www.elle.co.kr/article/83761</id>
-        <link href="https://www.elle.co.kr/article/83761"/>
-        <updated>2024-01-19T17:40:24.250Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83759</id>
-        <link href="https://www.elle.co.kr/article/83759"/>
-        <updated>2024-01-19T17:40:24.251Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤박X김수빈 부부의 소탈한 신혼 데이트 #럽스타그램]]></title>
-        <id>https://www.elle.co.kr/article/83752</id>
-        <link href="https://www.elle.co.kr/article/83752"/>
-        <updated>2024-01-19T17:40:24.251Z</updated>
     </entry>
 </feed>
