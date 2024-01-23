@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 05:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 17:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포티파이에서 전곡이 3억 이상 스트리밍을 기록한 최초의 앨범이 등장했다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37234448&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37234448&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 23 Jan 2024 17:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjNfNjQg/MDAxNzA2MDExMzY0ODAx.Om2f2AWGqZFQGkJCthJVFyXvYOWCT4qbtYDd3zHMgjYg.scjkbtk_Ht4GHWGNfOCqolqIubCCLqi25Ph5jV0T3uwg.JPEG/IB9xzQOL1Ip3yvnRmLa6MvjG7fTg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#Streetsnaps: 다이나믹 듀오]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36719498&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 05 Feb 2023 05:40:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjdfMjcz/MDAxNjc0ODAyODM3MTIz.DWyz_7Aa_G0IunfeyxxQ6Tj5Jc4nbKLBB_RspgIK67og.M_8wJmVoh94zCsDGeTP4LZbqJDzNuoN5EDAQVFxvmFIg.JPEG/IPaSk7IKXgcnHFGj6dzSR4CdzRiE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우원재 인터뷰: 쉬지 않는 래퍼의 쉼표 ‘comma’]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35064653&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35064653&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 03 Jan 2023 05:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDJfMTg2/MDAxNjcyNjQ0Nzk0MTYw.LNmeVc69Usdm05Zu_0B-dEk3NLxvXPc1I8ov7D56ZGQg.n5WTnr5pylk_1rSgS_7eTta9gmN1Ur-SthTC6g-WAO0g.JPEG/I6CBvhFyrSJfU5uJIJNI4fqGGeTU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

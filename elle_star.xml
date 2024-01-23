@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-23T05:41:55.848Z</updated>
+    <updated>2024-01-23T17:40:29.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[속세의 맛 다 먹고도 6kg 뺐다?! 규현의 다이어트 잡채밥 레시피]]></title>
+        <id>https://www.elle.co.kr/article/83820</id>
+        <link href="https://www.elle.co.kr/article/83820"/>
+        <updated>2024-01-23T17:39:33.698Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/83809</id>
+        <link href="https://www.elle.co.kr/article/83809"/>
+        <updated>2024-01-23T17:39:33.698Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공개 연애 시작한 '프로 불참러' 조세호, 결혼식 참석 선언한 셀럽은? (ft. 연애 스토리)]]></title>
         <id>https://www.elle.co.kr/article/83807</id>
@@ -44,18 +56,5 @@
         <link href="https://www.elle.co.kr/article/83788"/>
         <updated>2024-01-22T17:40:07.152Z</updated>
         <content type="html"><![CDATA[매일 매고 다니는 가방, SNS에서 찾고 찾다 만난 인생템까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은지와 '싱어게인3' 소수빈이 찐친이었다고?! (ft. 파이널 결과)]]></title>
-        <id>https://www.elle.co.kr/article/83781</id>
-        <link href="https://www.elle.co.kr/article/83781"/>
-        <updated>2024-01-20T17:39:52.172Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김윤지의 제 2막]]></title>
-        <id>https://www.elle.co.kr/article/83776</id>
-        <link href="https://www.elle.co.kr/article/83776"/>
-        <updated>2024-01-19T17:40:24.248Z</updated>
-        <content type="html"><![CDATA[꿈꿔온 일이 현실로 눈앞에 펼쳐진 지금, 김윤지의 두 번째 챕터가 시작된다.]]></content>
     </entry>
 </feed>

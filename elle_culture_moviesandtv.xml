@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-01-23T05:41:55.815Z</updated>
+    <updated>2024-01-23T17:40:29.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번엔 풍수사X장의사X무속인! 오컬트 외길 인생 장재현 신작 '파묘' 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/83853</id>
+        <link href="https://www.elle.co.kr/article/83853"/>
+        <updated>2024-01-23T17:40:01.782Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/83809</id>
@@ -77,11 +83,5 @@
         <id>https://www.elle.co.kr/article/83557</id>
         <link href="https://www.elle.co.kr/article/83557"/>
         <updated>2024-01-08T17:40:05.979Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재회한 이효리와 베베 바다부터 박민영의 타임 슬립 복수극까지! 1월 첫째주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83498</id>
-        <link href="https://www.elle.co.kr/article/83498"/>
-        <updated>2024-01-05T17:40:04.406Z</updated>
     </entry>
 </feed>
