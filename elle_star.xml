@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-23T17:40:29.414Z</updated>
+    <updated>2024-01-24T05:40:55.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하와이로 떠난 고민시! 스타들의 휴양지 패션 4]]></title>
+        <id>https://www.elle.co.kr/article/83825</id>
+        <link href="https://www.elle.co.kr/article/83825"/>
+        <updated>2024-01-24T05:39:49.274Z</updated>
+        <content type="html"><![CDATA[따뜻한 나라로 겨울 휴가를 떠난 스타들의 행복한 순간.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[속세의 맛 다 먹고도 6kg 뺐다?! 규현의 다이어트 잡채밥 레시피]]></title>
         <id>https://www.elle.co.kr/article/83820</id>
@@ -49,12 +56,5 @@
         <id>https://www.elle.co.kr/article/83789</id>
         <link href="https://www.elle.co.kr/article/83789"/>
         <updated>2024-01-22T17:40:07.150Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 신수현이 마르고 닳도록 사용한 애장템은?]]></title>
-        <id>https://www.elle.co.kr/article/83788</id>
-        <link href="https://www.elle.co.kr/article/83788"/>
-        <updated>2024-01-22T17:40:07.152Z</updated>
-        <content type="html"><![CDATA[매일 매고 다니는 가방, SNS에서 찾고 찾다 만난 인생템까지!]]></content>
     </entry>
 </feed>

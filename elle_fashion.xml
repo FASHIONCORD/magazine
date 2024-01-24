@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-23T17:40:29.410Z</updated>
+    <updated>2024-01-24T05:40:55.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맑고 정갈한 소녀의 시간]]></title>
+        <id>https://www.elle.co.kr/article/83823</id>
+        <link href="https://www.elle.co.kr/article/83823"/>
+        <updated>2024-01-24T05:39:29.255Z</updated>
+        <content type="html"><![CDATA[가지런한 마음가짐으로.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누가 누가 더 크나, 빅 백]]></title>
         <id>https://www.elle.co.kr/article/83797</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/83774"/>
         <updated>2024-01-21T05:39:44.643Z</updated>
         <content type="html"><![CDATA[당장이라도 바이크를 타고 떠날 것 같은.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 남자친구가 라이즈처럼 데님 입어주면 좋겠다]]></title>
-        <id>https://www.elle.co.kr/article/83723</id>
-        <link href="https://www.elle.co.kr/article/83723"/>
-        <updated>2024-01-20T17:39:37.625Z</updated>
-        <content type="html"><![CDATA[남자친구가 이렇게 입어주길. 라이즈의 파리 OOTD에서 살펴본 데님 스타일링!]]></content>
     </entry>
 </feed>

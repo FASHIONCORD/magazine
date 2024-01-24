@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/music</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 뮤직</title>
-    <updated>2024-01-23T17:40:29.413Z</updated>
+    <updated>2024-01-24T05:40:55.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웨딩네컷 장인이세요? 아련한데 예쁜 아이유X뷔 커플 사진.jpg]]></title>
+        <id>https://www.elle.co.kr/article/83870</id>
+        <link href="https://www.elle.co.kr/article/83870"/>
+        <updated>2024-01-24T05:40:04.990Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유가 2년 만의 신곡 제목을 바꾼 이유와 그 의미 (ft. 손편지)]]></title>
         <id>https://www.elle.co.kr/article/83789</id>
@@ -81,11 +87,5 @@
         <id>https://www.elle.co.kr/article/82593</id>
         <link href="https://www.elle.co.kr/article/82593"/>
         <updated>2023-11-30T17:40:22.008Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 MAMA 같이 나온 11년차 공개 연인 수영X정경호.jpg]]></title>
-        <id>https://www.elle.co.kr/article/82577</id>
-        <link href="https://www.elle.co.kr/article/82577"/>
-        <updated>2023-11-30T05:39:57.419Z</updated>
     </entry>
 </feed>

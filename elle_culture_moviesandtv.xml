@@ -1,87 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/moviesandtv</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-01-23T17:40:29.414Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이번엔 풍수사X장의사X무속인! 오컬트 외길 인생 장재현 신작 '파묘' 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/83853</id>
-        <link href="https://www.elle.co.kr/article/83853"/>
-        <updated>2024-01-23T17:40:01.782Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/83809</id>
-        <link href="https://www.elle.co.kr/article/83809"/>
-        <updated>2024-01-22T17:40:33.557Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83759</id>
-        <link href="https://www.elle.co.kr/article/83759"/>
-        <updated>2024-01-19T05:39:53.672Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 박스오피스 10위 올라 선 '서울의 봄' 제작사 차기작 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/83702</id>
-        <link href="https://www.elle.co.kr/article/83702"/>
-        <updated>2024-01-17T05:40:29.269Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼달리' 지창욱X신혜선 로맨스가 이곳에서? 드라마 촬영 명소 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/83698</id>
-        <link href="https://www.elle.co.kr/article/83698"/>
-        <updated>2024-01-16T17:40:30.312Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것]]></title>
-        <id>https://www.elle.co.kr/article/83684</id>
-        <link href="https://www.elle.co.kr/article/83684"/>
-        <updated>2024-01-16T05:40:10.024Z</updated>
-        <content type="html"><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진한 여운과 함께 종영한 '마에스트라' 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/83674</id>
-        <link href="https://www.elle.co.kr/article/83674"/>
-        <updated>2024-01-15T17:40:42.559Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐스팅 확정 후 1년 반 만에 공개되는 넷플릭스 기대작 '살인자ㅇ난감' 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/83668</id>
-        <link href="https://www.elle.co.kr/article/83668"/>
-        <updated>2024-01-15T17:40:42.563Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘정의로운 과부’ 이하늬X외계인과 싸우는 김태리! 매력있는 여성 캐릭터에 빠질 1월 둘째주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83628</id>
-        <link href="https://www.elle.co.kr/article/83628"/>
-        <updated>2024-01-12T17:40:09.433Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대호가 밝힌 MBC 아나운서 시절 나경은 미담 (ft. 유재석 반응)]]></title>
-        <id>https://www.elle.co.kr/article/83610</id>
-        <link href="https://www.elle.co.kr/article/83610"/>
-        <updated>2024-01-11T05:40:41.858Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허니제이 딸 정러브, 생후 8개월 만에 TV 데뷔?]]></title>
-        <id>https://www.elle.co.kr/article/83602</id>
-        <link href="https://www.elle.co.kr/article/83602"/>
-        <updated>2024-01-10T17:39:58.209Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선X지창욱 로맨스의 향방은? '웰컴투 삼달리' 후반부 관전 포인트 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/83558</id>
-        <link href="https://www.elle.co.kr/article/83558"/>
-        <updated>2024-01-08T17:40:05.977Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 골든글로브 남주상 탄 스티븐 연의 뭉클 수상 소감.txt]]></title>
-        <id>https://www.elle.co.kr/article/83557</id>
-        <link href="https://www.elle.co.kr/article/83557"/>
-        <updated>2024-01-08T17:40:05.979Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 24 Jan 2024 05:40:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번엔 풍수사X장의사X무속인! 오컬트 외길 인생 장재현 신작 '파묘' 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/83853</link>
+            <guid>https://www.elle.co.kr/article/83853</guid>
+            <pubDate>Tue, 23 Jan 2024 17:40:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/32991a5c-0a08-46af-aa89-7afc1c1678de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일과 사랑 다 잡은 지창욱X신혜선, '웰컴투 삼달리' 명장면 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/83809</link>
+            <guid>https://www.elle.co.kr/article/83809</guid>
+            <pubDate>Mon, 22 Jan 2024 17:40:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/59ba9d1c-221f-4605-b2eb-8d48dc8b2145.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑몰부터 선산까지, 수상한 유산의 미스터리가 풀릴 1월 3주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/83759</link>
+            <guid>https://www.elle.co.kr/article/83759</guid>
+            <pubDate>Fri, 19 Jan 2024 05:39:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/19/fb0bf489-a2fc-4776-af48-27291be5d4ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역대 박스오피스 10위 올라 선 '서울의 봄' 제작사 차기작 모음.zip]]></title>
+            <link>https://www.elle.co.kr/article/83702</link>
+            <guid>https://www.elle.co.kr/article/83702</guid>
+            <pubDate>Wed, 17 Jan 2024 05:40:29 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/17/ac1cf2ee-ce18-4032-891b-44ce823057eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['삼달리' 지창욱X신혜선 로맨스가 이곳에서? 드라마 촬영 명소 3 #가볼만한곳]]></title>
+            <link>https://www.elle.co.kr/article/83698</link>
+            <guid>https://www.elle.co.kr/article/83698</guid>
+            <pubDate>Tue, 16 Jan 2024 17:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[한국적인 게 뭔데? 게임, 웹툰, K팝, 드라마에 녹아든 우리다운 것]]></title>
+            <link>https://www.elle.co.kr/article/83684</link>
+            <guid>https://www.elle.co.kr/article/83684</guid>
+            <pubDate>Tue, 16 Jan 2024 05:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[진한 여운과 함께 종영한 '마에스트라' 명장면 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/83674</link>
+            <guid>https://www.elle.co.kr/article/83674</guid>
+            <pubDate>Mon, 15 Jan 2024 17:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[캐스팅 확정 후 1년 반 만에 공개되는 넷플릭스 기대작 '살인자ㅇ난감' 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/83668</link>
+            <guid>https://www.elle.co.kr/article/83668</guid>
+            <pubDate>Mon, 15 Jan 2024 17:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘정의로운 과부’ 이하늬X외계인과 싸우는 김태리! 매력있는 여성 캐릭터에 빠질 1월 둘째주 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/83628</link>
+            <guid>https://www.elle.co.kr/article/83628</guid>
+            <pubDate>Fri, 12 Jan 2024 17:40:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[김대호가 밝힌 MBC 아나운서 시절 나경은 미담 (ft. 유재석 반응)]]></title>
+            <link>https://www.elle.co.kr/article/83610</link>
+            <guid>https://www.elle.co.kr/article/83610</guid>
+            <pubDate>Thu, 11 Jan 2024 05:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[허니제이 딸 정러브, 생후 8개월 만에 TV 데뷔?]]></title>
+            <link>https://www.elle.co.kr/article/83602</link>
+            <guid>https://www.elle.co.kr/article/83602</guid>
+            <pubDate>Wed, 10 Jan 2024 17:39:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[신혜선X지창욱 로맨스의 향방은? '웰컴투 삼달리' 후반부 관전 포인트 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/83558</link>
+            <guid>https://www.elle.co.kr/article/83558</guid>
+            <pubDate>Mon, 08 Jan 2024 17:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[미국 골든글로브 남주상 탄 스티븐 연의 뭉클 수상 소감.txt]]></title>
+            <link>https://www.elle.co.kr/article/83557</link>
+            <guid>https://www.elle.co.kr/article/83557</guid>
+            <pubDate>Mon, 08 Jan 2024 17:40:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
