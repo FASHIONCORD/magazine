@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-25T05:40:32.278Z</updated>
+    <updated>2024-01-25T17:41:13.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해 목표가 작심삼일이 되지 않길 바란다면! 스타들의 운동 생활 4]]></title>
+        <id>https://www.elle.co.kr/article/83727</id>
+        <link href="https://www.elle.co.kr/article/83727"/>
+        <updated>2024-01-25T17:39:43.582Z</updated>
+        <content type="html"><![CDATA[자기 관리에 철저한 이들을 보며 동기부여를 해보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20kg 감량 후 요요 없이 유지어터! '서준맘' 박세미의 최애 음식 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/83720</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/83479"/>
         <updated>2024-01-16T17:39:55.190Z</updated>
         <content type="html"><![CDATA[&lt;엘르&gt; 뷰티 어워즈 2024’ K뷰티 리더 부문 코리아 위너에 빛나는 '어뮤즈 젤핏 틴트’. 마치...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난해 가장 사랑받은 블러셔 제품은? #엘르뷰티어워즈2024]]></title>
-        <id>https://www.elle.co.kr/article/83470</id>
-        <link href="https://www.elle.co.kr/article/83470"/>
-        <updated>2024-01-16T05:39:34.687Z</updated>
-        <content type="html"><![CDATA[수줍은 듯 빛나는, 생기 넘치듯 화사한, 처음부터 내 것인 듯 자연스러운 글로우. '나스 에프...]]></content>
     </entry>
 </feed>

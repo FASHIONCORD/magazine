@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-25T05:40:32.273Z</updated>
+    <updated>2024-01-25T17:41:13.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[니트 드레스의 반전]]></title>
+        <id>https://www.elle.co.kr/article/83838</id>
+        <link href="https://www.elle.co.kr/article/83838"/>
+        <updated>2024-01-25T17:39:35.239Z</updated>
+        <content type="html"><![CDATA[언제까지 '코지'할 줄 알았니?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세상이라는 캔버스를 가로지르는 강렬한 몸짓]]></title>
         <id>https://www.elle.co.kr/article/83837</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/83795"/>
         <updated>2024-01-23T05:39:47.352Z</updated>
         <content type="html"><![CDATA[2024 FW 밀라노 남성복 패션위크를 찾은 K-셀러브리티.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보부상 아니어도 탐날 걸? 스타들이 선택한 빅 백 6]]></title>
-        <id>https://www.elle.co.kr/article/83794</id>
-        <link href="https://www.elle.co.kr/article/83794"/>
-        <updated>2024-01-23T05:39:47.353Z</updated>
-        <content type="html"><![CDATA[빅 백 나가신다!]]></content>
     </entry>
 </feed>

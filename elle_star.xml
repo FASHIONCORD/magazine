@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-25T05:40:32.282Z</updated>
+    <updated>2024-01-25T17:41:13.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[감동의 눈물바다! 산다라박이 결혼 앞둔 천둥X미미 커플에게 건넨 진심]]></title>
+        <id>https://www.elle.co.kr/article/83857</id>
+        <link href="https://www.elle.co.kr/article/83857"/>
+        <updated>2024-01-25T17:39:51.242Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국에서의 마지막 봄 보낼 푸바오의 향후 판다월드 스케줄 (ft. 중국 외교부 반응)]]></title>
+        <id>https://www.elle.co.kr/article/83855</id>
+        <link href="https://www.elle.co.kr/article/83855"/>
+        <updated>2024-01-25T17:39:51.243Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호나우지뉴가 왜 거기서 나와?]]></title>
         <id>https://www.elle.co.kr/article/83828</id>
@@ -43,19 +55,5 @@
         <id>https://www.elle.co.kr/article/83807</id>
         <link href="https://www.elle.co.kr/article/83807"/>
         <updated>2024-01-23T05:40:10.632Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀라노가 떠들썩했던 이유, 이들 때문이라고?]]></title>
-        <id>https://www.elle.co.kr/article/83795</id>
-        <link href="https://www.elle.co.kr/article/83795"/>
-        <updated>2024-01-23T05:40:10.634Z</updated>
-        <content type="html"><![CDATA[2024 FW 밀라노 남성복 패션위크를 찾은 K-셀러브리티.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑스러운 케미스트리! <닥터슬럼프> 박신혜, 박형식]]></title>
-        <id>https://www.elle.co.kr/article/83791</id>
-        <link href="https://www.elle.co.kr/article/83791"/>
-        <updated>2024-01-23T05:40:10.635Z</updated>
-        <content type="html"><![CDATA[11년만에 조우한 박신혜와 박형식이 전하는 따스하고 경쾌한 에너지]]></content>
     </entry>
 </feed>
