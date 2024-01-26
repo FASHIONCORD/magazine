@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-25T17:41:13.244Z</updated>
+    <updated>2024-01-26T05:40:36.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[향초 vs 스피커, 독자가 꼽은 주말 아침 아이템은? #취향의발견_2]]></title>
+        <id>https://www.elle.co.kr/article/83875</id>
+        <link href="https://www.elle.co.kr/article/83875"/>
+        <updated>2024-01-26T05:39:27.280Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘얼죽숏’에게 꼭 필요한 레깅스 스타일링 5]]></title>
+        <id>https://www.elle.co.kr/article/83861</id>
+        <link href="https://www.elle.co.kr/article/83861"/>
+        <updated>2024-01-26T05:39:27.280Z</updated>
+        <content type="html"><![CDATA[한겨울에도 하의 실종 룩을 연출하고 싶다면 레깅스가 정답! 셀러브리티들이 즐긴 무궁무진한 레...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[니트 드레스의 반전]]></title>
         <id>https://www.elle.co.kr/article/83838</id>
@@ -46,19 +59,5 @@
         <link href="https://www.elle.co.kr/article/83797"/>
         <updated>2024-01-23T17:39:15.485Z</updated>
         <content type="html"><![CDATA[빅 백을 들고 '쿨'하게 걷는 거리의 보부상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 아우터 안에 쏙! 스타들의 카디건 스타일 5]]></title>
-        <id>https://www.elle.co.kr/article/83796</id>
-        <link href="https://www.elle.co.kr/article/83796"/>
-        <updated>2024-01-23T17:39:15.488Z</updated>
-        <content type="html"><![CDATA[레이어드 하기 좋은 카디건 스타일을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀라노가 떠들썩했던 이유, 이들 때문이라고?]]></title>
-        <id>https://www.elle.co.kr/article/83795</id>
-        <link href="https://www.elle.co.kr/article/83795"/>
-        <updated>2024-01-23T05:39:47.352Z</updated>
-        <content type="html"><![CDATA[2024 FW 밀라노 남성복 패션위크를 찾은 K-셀러브리티.]]></content>
     </entry>
 </feed>
