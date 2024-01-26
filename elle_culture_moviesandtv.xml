@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-01-26T05:40:36.567Z</updated>
+    <updated>2024-01-26T17:40:54.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/83937</id>
+        <link href="https://www.elle.co.kr/article/83937"/>
+        <updated>2024-01-26T17:40:11.005Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번엔 풍수사X장의사X무속인! 오컬트 외길 인생 장재현 신작 '파묘' 정보.txt]]></title>
         <id>https://www.elle.co.kr/article/83853</id>
@@ -77,11 +83,5 @@
         <id>https://www.elle.co.kr/article/83558</id>
         <link href="https://www.elle.co.kr/article/83558"/>
         <updated>2024-01-08T17:40:05.977Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 골든글로브 남주상 탄 스티븐 연의 뭉클 수상 소감.txt]]></title>
-        <id>https://www.elle.co.kr/article/83557</id>
-        <link href="https://www.elle.co.kr/article/83557"/>
-        <updated>2024-01-08T17:40:05.979Z</updated>
     </entry>
 </feed>
