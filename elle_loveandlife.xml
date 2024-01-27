@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-01-26T17:40:54.448Z</updated>
+    <updated>2024-01-27T05:41:11.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[볼보 EX30이라는 시대]]></title>
+        <id>https://www.elle.co.kr/article/83860</id>
+        <link href="https://www.elle.co.kr/article/83860"/>
+        <updated>2024-01-27T05:41:01.651Z</updated>
+        <content type="html"><![CDATA[볼보의 작고 커다란 전기 SUV EX30을 타고 바르셀로나를 달렸다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찬바람 불 때 생각나는 따끈한 국물, 서울 오뎅바 추천 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/83856</id>
@@ -47,12 +54,5 @@
         <id>https://www.elle.co.kr/article/83780</id>
         <link href="https://www.elle.co.kr/article/83780"/>
         <updated>2024-01-22T17:40:47.438Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따끈따끈한 신상 브런치 맛집 3]]></title>
-        <id>https://www.elle.co.kr/article/83755</id>
-        <link href="https://www.elle.co.kr/article/83755"/>
-        <updated>2024-01-22T17:40:47.439Z</updated>
-        <content type="html"><![CDATA[맨날 가던 곳 말고 새로운 브런치 카페를 찾고 있다면? 맛잘알 셀러브리티들이 발 빠르게 섭렵...]]></content>
     </entry>
 </feed>
