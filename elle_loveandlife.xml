@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-01-27T05:41:11.046Z</updated>
+    <updated>2024-01-27T17:41:11.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바다 내음 가득! 윤보미의 제주도 식도락 여행 3]]></title>
+        <id>https://www.elle.co.kr/article/83919</id>
+        <link href="https://www.elle.co.kr/article/83919"/>
+        <updated>2024-01-27T17:40:46.968Z</updated>
+        <content type="html"><![CDATA[즉흥적으로 제주 여행길에 오른 윤보미의 여행 컨셉은 '먹'기행! 갈치구이와 보말 칼국수, 전복...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[볼보 EX30이라는 시대]]></title>
         <id>https://www.elle.co.kr/article/83860</id>
@@ -48,11 +55,5 @@
         <id>https://www.elle.co.kr/article/83783</id>
         <link href="https://www.elle.co.kr/article/83783"/>
         <updated>2024-01-23T17:40:20.231Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울의 '찐' 밥도둑! 제철 맞은 꼬막 맛집 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/83780</id>
-        <link href="https://www.elle.co.kr/article/83780"/>
-        <updated>2024-01-22T17:40:47.438Z</updated>
     </entry>
 </feed>
