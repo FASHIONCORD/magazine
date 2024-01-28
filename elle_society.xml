@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-01-28T05:40:52.947Z</updated>
+    <updated>2024-01-28T17:40:15.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[집으로 돌아가지 못하는 사람들]]></title>
+        <id>https://www.elle.co.kr/article/83631</id>
+        <link href="https://www.elle.co.kr/article/83631"/>
+        <updated>2024-01-28T17:40:14.798Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스마트폰'은 옛말? 올해 주목해야 할 기술 빅3 #돈쓸신잡 132]]></title>
         <id>https://www.elle.co.kr/article/83619</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/83468</id>
         <link href="https://www.elle.co.kr/article/83468"/>
         <updated>2024-01-10T05:41:28.261Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 새해에는 귀를 열고, 마음을 열고]]></title>
-        <id>https://www.elle.co.kr/article/83421</id>
-        <link href="https://www.elle.co.kr/article/83421"/>
-        <updated>2024-01-09T17:41:10.960Z</updated>
     </entry>
 </feed>
