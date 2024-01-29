@@ -1,59 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/star</id>
-    <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-29T05:40:43.024Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/83937</id>
-        <link href="https://www.elle.co.kr/article/83937"/>
-        <updated>2024-01-29T05:39:52.990Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 바로 있지 #ELLE_D에디션]]></title>
-        <id>https://www.elle.co.kr/article/83935</id>
-        <link href="https://www.elle.co.kr/article/83935"/>
-        <updated>2024-01-27T05:39:56.698Z</updated>
-        <content type="html"><![CDATA[그저 자신들을 믿고 사랑하는 있지의 단단하고 강렬한 마음.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미니 8집 으로 돌아온 있지(ITZY)]]></title>
-        <id>https://www.elle.co.kr/article/83922</id>
-        <link href="https://www.elle.co.kr/article/83922"/>
-        <updated>2024-01-27T05:39:56.702Z</updated>
-        <content type="html"><![CDATA[&lt;엘르&gt;와 ‘쿨’하고 사랑스러운 조우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다 내음 가득! 윤보미의 제주도 식도락 여행 3]]></title>
-        <id>https://www.elle.co.kr/article/83919</id>
-        <link href="https://www.elle.co.kr/article/83919"/>
-        <updated>2024-01-27T05:39:56.712Z</updated>
-        <content type="html"><![CDATA[즉흥적으로 제주 여행길에 오른 윤보미의 여행 컨셉은 '먹'기행! 갈치구이와 보말 칼국수, 전복...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희가 신혜선에게 "멜로 한 번 하자" 제안했다고?!]]></title>
-        <id>https://www.elle.co.kr/article/83916</id>
-        <link href="https://www.elle.co.kr/article/83916"/>
-        <updated>2024-01-27T05:39:56.712Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모래꽃' 위해 14kg 찌운 장동윤이 순식간에 원래 체형으로 돌아간 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83915</id>
-        <link href="https://www.elle.co.kr/article/83915"/>
-        <updated>2024-01-27T05:39:56.713Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2월의 신부 되는 AOA 유나 웨딩 화보 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/83881</id>
-        <link href="https://www.elle.co.kr/article/83881"/>
-        <updated>2024-01-27T05:39:56.714Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민영이 37kg까지 빼고도 이 감량법을 추천하지 않는 이유 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/83880</id>
-        <link href="https://www.elle.co.kr/article/83880"/>
-        <updated>2024-01-26T05:39:45.017Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 스타</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 29 Jan 2024 17:41:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Love wins all' 뮤비 세계관 과몰입한 뷔의 한 마디.txt]]></title>
+            <link>https://www.elle.co.kr/article/83978</link>
+            <guid>https://www.elle.co.kr/article/83978</guid>
+            <pubDate>Mon, 29 Jan 2024 17:40:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/84bcd4f3-f650-49c7-827e-eaf4f7ad2318.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조예은이 좇는 신기루]]></title>
+            <link>https://www.elle.co.kr/article/83968</link>
+            <guid>https://www.elle.co.kr/article/83968</guid>
+            <pubDate>Mon, 29 Jan 2024 17:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[신간 &lt;꿰맨 눈의 마을&gt;에서 그녀가 직조해낸 아름답고 환상적인 세계를 따라가보았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/29/3b67c5e5-529f-44ed-bdfc-331b44e8c50f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신상 카페 대신 오래된 다방으로! 유행에 휩쓸리지 않는 김규림의 #취향일지도]]></title>
+            <link>https://www.elle.co.kr/article/83951</link>
+            <guid>https://www.elle.co.kr/article/83951</guid>
+            <pubDate>Mon, 29 Jan 2024 17:40:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/27/9ff3583a-51da-4c54-9501-622bca4419f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[르세라핌 'EASY' 트레일러 미공개 스틸 컷]]></title>
+            <link>https://www.elle.co.kr/article/83944</link>
+            <guid>https://www.elle.co.kr/article/83944</guid>
+            <pubDate>Mon, 29 Jan 2024 17:40:23 GMT</pubDate>
+            <content:encoded><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/be7e9b03-7a95-45bc-90f2-fd1b36c27ca0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[션이 두 아들에게 물려준 것 #근황스타그램]]></title>
+            <link>https://www.elle.co.kr/article/83941</link>
+            <guid>https://www.elle.co.kr/article/83941</guid>
+            <pubDate>Mon, 29 Jan 2024 17:40:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/3352201d-8f8f-4b8c-8c07-9d957c8c1bab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기성용이 36번째 생일에 딸에게 받은 뜻밖의 선물 (ft. 손편지)]]></title>
+            <link>https://www.elle.co.kr/article/83938</link>
+            <guid>https://www.elle.co.kr/article/83938</guid>
+            <pubDate>Mon, 29 Jan 2024 17:40:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/4a2507db-1fa4-48bf-ba4d-2c4913175e79.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/83937</link>
+            <guid>https://www.elle.co.kr/article/83937</guid>
+            <pubDate>Mon, 29 Jan 2024 05:39:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/307d0177-1963-4acb-983b-16f865f3632c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 바로 있지 #ELLE_D에디션]]></title>
+            <link>https://www.elle.co.kr/article/83935</link>
+            <guid>https://www.elle.co.kr/article/83935</guid>
+            <pubDate>Sat, 27 Jan 2024 05:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[그저 자신들을 믿고 사랑하는 있지의 단단하고 강렬한 마음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/33d92c15-17fc-4f7f-863a-0756cce37cff.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

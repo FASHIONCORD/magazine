@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-01-29T05:40:43.026Z</updated>
+    <updated>2024-01-29T17:41:25.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이하늬가 끓인 코믹 김치찌개, '밤에 피는 꽃' 인기요인 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/83979</id>
+        <link href="https://www.elle.co.kr/article/83979"/>
+        <updated>2024-01-29T17:40:46.914Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재벌 3세 낙하산 형사와 슬럼프에 빠진 의사를 만날 수 있는 1월 4주차 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/83937</id>
@@ -77,11 +83,5 @@
         <id>https://www.elle.co.kr/article/83602</id>
         <link href="https://www.elle.co.kr/article/83602"/>
         <updated>2024-01-10T17:39:58.209Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선X지창욱 로맨스의 향방은? '웰컴투 삼달리' 후반부 관전 포인트 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/83558</id>
-        <link href="https://www.elle.co.kr/article/83558"/>
-        <updated>2024-01-08T17:40:05.977Z</updated>
     </entry>
 </feed>
