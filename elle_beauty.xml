@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-01-28T17:40:15.479Z</updated>
+    <updated>2024-01-29T05:40:43.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[식약처 인증! '찐' 피부 장벽 강화 스킨케어 제품은?_선배’s 어드바이스 #204]]></title>
+        <id>https://www.elle.co.kr/article/83805</id>
+        <link href="https://www.elle.co.kr/article/83805"/>
+        <updated>2024-01-29T05:39:45.823Z</updated>
+        <content type="html"><![CDATA[실제로 효과가 입증된 제품은 그리 많지 않다는 사실, 아시나요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘첫사랑 재질’ 남보라표 청순 메이크업 튜토리얼]]></title>
+        <id>https://www.elle.co.kr/article/83799</id>
+        <link href="https://www.elle.co.kr/article/83799"/>
+        <updated>2024-01-29T05:39:45.824Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1시간 만에 -2.2kg! 군살 하나 없는 근육질 김혜선의 최애 운동은? #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/83751</id>
@@ -44,19 +57,5 @@
         <link href="https://www.elle.co.kr/article/83656"/>
         <updated>2024-01-18T17:39:40.813Z</updated>
         <content type="html"><![CDATA[새해 목표를 건강과 이너 뷰티로 세웠다면 주목! 황신혜가 웰에이징을 위해 챙겨 먹는 7가지 영...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난해 가장 주목받은 이노베이터 제품은? #엘르뷰티어워즈2024]]></title>
-        <id>https://www.elle.co.kr/article/83478</id>
-        <link href="https://www.elle.co.kr/article/83478"/>
-        <updated>2024-01-18T05:39:30.039Z</updated>
-        <content type="html"><![CDATA[뷰티 시장이야 말로 세상에서 가장 진일보한 테크놀로지가 펼쳐지는 곳이다. 그중에서도 &lt;엘르&gt; ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난해 가장 사랑받은 모이스처라이징 크림 제품은? #엘르뷰티어워즈2024]]></title>
-        <id>https://www.elle.co.kr/article/83474</id>
-        <link href="https://www.elle.co.kr/article/83474"/>
-        <updated>2024-01-17T17:39:38.710Z</updated>
-        <content type="html"><![CDATA[매일 자극받는 피부 장벽을 강화하고 확신의 수분 케어를 선포하며 업그레이드된 '키엘 울트라 ...]]></content>
     </entry>
 </feed>
