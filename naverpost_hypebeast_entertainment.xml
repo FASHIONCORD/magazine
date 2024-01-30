@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 05:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 17:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘데드풀 3’의 시놉시스가 공개됐다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37269377&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37269377&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 30 Jan 2024 17:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMzBfMTY5/MDAxNzA2NjI0MTIyNjA1.IFsTKaKzZczMs5Rt1MBHr_kJfgG1ouY36N_RV_FxUdog.MtTjbUXnnXJ-0giJLSkgOrDQfxSRKpNMgWuiWJXGCk4g.JPEG/IwMaFI9nqxrabpulz5ZynDs1G9SA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국의 성형외과 의원 의사 수가 최근 10년 사이 76% 증가했다. 피부과 의원 의사 수도]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37262885&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Dec 2023 17:39:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMThfMjk0/MDAxNzAyODkyODIwMDY3.xi2Uu0ghZxTPBuMsjoZQNbaJMDCViF0OHcvfp8ifcOAg.s_wbNUL44hysxwxvSqsmLzxVA1ZYY2d5Lew7k0LlXlog.JPEG/Imnu3Avm6aoC_lofpAFEii1NUMiI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 비평가 1백58명이 선정한 2023년 최고의 영화 50]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37039599&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37039599&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 14 Dec 2023 17:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTRfMTUw/MDAxNzAyNTUxMjMzMDg5.oDYuukIUX35YKd7XTTn0DUBA9T1nPLvh8y8TH5P1fTQg.9_7uLWMKOGF3cBJI4ENkX2YkgtA8bTzFF_2pAwZWlU4g.JPEG/IOO_eruJAUCVDYa9iVNHFdKikK4Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
