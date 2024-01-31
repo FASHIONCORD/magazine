@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-30T17:40:55.903Z</updated>
+    <updated>2024-01-31T05:40:32.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#내돈내산 죽은 스케치도 살려주는 1천5백원 짜리 붓펜?]]></title>
+        <id>https://www.elle.co.kr/article/83964</id>
+        <link href="https://www.elle.co.kr/article/83964"/>
+        <updated>2024-01-31T05:39:17.460Z</updated>
+        <content type="html"><![CDATA[#사람과물건 인터뷰 011 굼허 디렉터 허금연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해피 뉴 헤어! 새해 맞이 헤어 변신한 스타 5]]></title>
+        <id>https://www.elle.co.kr/article/83959</id>
+        <link href="https://www.elle.co.kr/article/83959"/>
+        <updated>2024-01-31T05:39:17.461Z</updated>
+        <content type="html"><![CDATA[아이유와 한예슬, 아이브의 가을까지! 확실한 이미지 변신을 원한다면 헤어 스타일을 바꿔보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손끝까지 반짝반짝! 스타들의 네일 아트 5]]></title>
         <id>https://www.elle.co.kr/article/83954</id>
@@ -45,19 +59,5 @@
         <link href="https://www.elle.co.kr/article/83918"/>
         <updated>2024-01-28T05:39:18.491Z</updated>
         <content type="html"><![CDATA[안경 선배 처럼.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽땅 채워 넣을 수 있는 보부상 백]]></title>
-        <id>https://www.elle.co.kr/article/83910</id>
-        <link href="https://www.elle.co.kr/article/83910"/>
-        <updated>2024-01-27T17:39:47.135Z</updated>
-        <content type="html"><![CDATA[클 수록 좋아.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 키 컬러는 #피치퍼즈]]></title>
-        <id>https://www.elle.co.kr/article/83883</id>
-        <link href="https://www.elle.co.kr/article/83883"/>
-        <updated>2024-01-26T17:39:17.395Z</updated>
-        <content type="html"><![CDATA[스타들의 SNS에서 포착된 팬톤 선정 올해의 컬러, 피치 퍼즈!]]></content>
     </entry>
 </feed>

@@ -1,71 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 17:40:55 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[신상 카페 대신 오래된 다방으로! 유행에 휩쓸리지 않는 김규림의 #취향일지도]]></title>
-            <link>https://www.elle.co.kr/article/83951</link>
-            <guid>https://www.elle.co.kr/article/83951</guid>
-            <pubDate>Tue, 30 Jan 2024 17:40:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/27/9ff3583a-51da-4c54-9501-622bca4419f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마세라티 그레칼레와 함께한 하루]]></title>
-            <link>https://www.elle.co.kr/article/83947</link>
-            <guid>https://www.elle.co.kr/article/83947</guid>
-            <pubDate>Tue, 30 Jan 2024 17:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[청명한 도쿄 하늘 아래 마세라티 그레칼레를 오감으로 경험하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/27/a494b0aa-ce70-4fd3-b4d8-85027eb1b953.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추운 겨울, 마음까지 녹이는 따뜻한 수프 맛집 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/83942</link>
-            <guid>https://www.elle.co.kr/article/83942</guid>
-            <pubDate>Mon, 29 Jan 2024 17:41:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/62409724-d602-4234-b29e-d7090d8e8dac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지 헌터를 위한 가구 & 소품 숍 4 #도쿄핫플]]></title>
-            <link>https://www.elle.co.kr/article/83939</link>
-            <guid>https://www.elle.co.kr/article/83939</guid>
-            <pubDate>Mon, 29 Jan 2024 17:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[오래된 것들의 가치를 찾아 느긋하게 떠나보는 여행! 눈호강하기 좋은 도쿄의 주옥 같은 빈티지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/a1bc6176-87f0-4543-973d-50e6bafcccbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다 내음 가득! 윤보미의 제주도 식도락 여행 3]]></title>
-            <link>https://www.elle.co.kr/article/83919</link>
-            <guid>https://www.elle.co.kr/article/83919</guid>
-            <pubDate>Sat, 27 Jan 2024 17:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[즉흥적으로 제주 여행길에 오른 윤보미의 여행 컨셉은 '먹'기행! 갈치구이와 보말 칼국수, 전복...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/9d03d10b-523d-4396-ac56-5cd43b51dbc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼보 EX30이라는 시대]]></title>
-            <link>https://www.elle.co.kr/article/83860</link>
-            <guid>https://www.elle.co.kr/article/83860</guid>
-            <pubDate>Sat, 27 Jan 2024 05:41:01 GMT</pubDate>
-            <content:encoded><![CDATA[볼보의 작고 커다란 전기 SUV EX30을 타고 바르셀로나를 달렸다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/24/c7f06afe-9e93-431a-9cea-47a97758bba1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬바람 불 때 생각나는 따끈한 국물, 서울 오뎅바 추천 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/83856</link>
-            <guid>https://www.elle.co.kr/article/83856</guid>
-            <pubDate>Fri, 26 Jan 2024 17:40:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/23/d9337ca1-911c-4e7e-9ee3-70efff0a15d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워치보다 나을까? 삼성의 스마트 반지 '갤럭시링' 출시 관련 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/83821</link>
-            <guid>https://www.elle.co.kr/article/83821</guid>
-            <pubDate>Fri, 26 Jan 2024 17:40:29 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/22/9874d82e-30a9-4ae8-8bb9-94fafefe060f.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2024-01-31T05:40:32.187Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신상 카페 대신 오래된 다방으로! 유행에 휩쓸리지 않는 김규림의 #취향일지도]]></title>
+        <id>https://www.elle.co.kr/article/83951</id>
+        <link href="https://www.elle.co.kr/article/83951"/>
+        <updated>2024-01-30T17:40:45.285Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마세라티 그레칼레와 함께한 하루]]></title>
+        <id>https://www.elle.co.kr/article/83947</id>
+        <link href="https://www.elle.co.kr/article/83947"/>
+        <updated>2024-01-30T17:40:45.286Z</updated>
+        <content type="html"><![CDATA[청명한 도쿄 하늘 아래 마세라티 그레칼레를 오감으로 경험하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추운 겨울, 마음까지 녹이는 따뜻한 수프 맛집 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/83942</id>
+        <link href="https://www.elle.co.kr/article/83942"/>
+        <updated>2024-01-29T17:41:16.700Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빈티지 헌터를 위한 가구 & 소품 숍 4 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/83939</id>
+        <link href="https://www.elle.co.kr/article/83939"/>
+        <updated>2024-01-29T17:41:16.700Z</updated>
+        <content type="html"><![CDATA[오래된 것들의 가치를 찾아 느긋하게 떠나보는 여행! 눈호강하기 좋은 도쿄의 주옥 같은 빈티지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바다 내음 가득! 윤보미의 제주도 식도락 여행 3]]></title>
+        <id>https://www.elle.co.kr/article/83919</id>
+        <link href="https://www.elle.co.kr/article/83919"/>
+        <updated>2024-01-27T17:40:46.968Z</updated>
+        <content type="html"><![CDATA[즉흥적으로 제주 여행길에 오른 윤보미의 여행 컨셉은 '먹'기행! 갈치구이와 보말 칼국수, 전복...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[볼보 EX30이라는 시대]]></title>
+        <id>https://www.elle.co.kr/article/83860</id>
+        <link href="https://www.elle.co.kr/article/83860"/>
+        <updated>2024-01-27T05:41:01.651Z</updated>
+        <content type="html"><![CDATA[볼보의 작고 커다란 전기 SUV EX30을 타고 바르셀로나를 달렸다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찬바람 불 때 생각나는 따끈한 국물, 서울 오뎅바 추천 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/83856</id>
+        <link href="https://www.elle.co.kr/article/83856"/>
+        <updated>2024-01-26T17:40:29.512Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워치보다 나을까? 삼성의 스마트 반지 '갤럭시링' 출시 관련 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/83821</id>
+        <link href="https://www.elle.co.kr/article/83821"/>
+        <updated>2024-01-26T17:40:29.518Z</updated>
+    </entry>
+</feed>

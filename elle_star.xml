@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-01-30T17:40:55.889Z</updated>
+    <updated>2024-01-31T05:40:32.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보기만 해도 흐뭇한 봉태규X하시시박 가족의 평화로운 근황 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/84015</id>
+        <link href="https://www.elle.co.kr/article/84015"/>
+        <updated>2024-01-31T05:39:36.702Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[같은 춤을 출 수 있는 사이, < 닥터슬럼프 > 박신혜와 박형식]]></title>
+        <id>https://www.elle.co.kr/article/83994</id>
+        <link href="https://www.elle.co.kr/article/83994"/>
+        <updated>2024-01-31T05:39:36.703Z</updated>
+        <content type="html"><![CDATA[함께 들었던 음악이 흘러나오는 순간, 곧바로 같은 춤을 출 수 있는 사이. &lt;닥터 슬럼프&gt;의 박...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한소희는 끝까지 가는 것을 두려워하지 않는다]]></title>
         <id>https://www.elle.co.kr/article/83932</id>
@@ -40,18 +53,5 @@
         <id>https://www.elle.co.kr/article/83978</id>
         <link href="https://www.elle.co.kr/article/83978"/>
         <updated>2024-01-29T17:40:23.434Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조예은이 좇는 신기루]]></title>
-        <id>https://www.elle.co.kr/article/83968</id>
-        <link href="https://www.elle.co.kr/article/83968"/>
-        <updated>2024-01-29T17:40:23.434Z</updated>
-        <content type="html"><![CDATA[신간 &lt;꿰맨 눈의 마을&gt;에서 그녀가 직조해낸 아름답고 환상적인 세계를 따라가보았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신상 카페 대신 오래된 다방으로! 유행에 휩쓸리지 않는 김규림의 #취향일지도]]></title>
-        <id>https://www.elle.co.kr/article/83951</id>
-        <link href="https://www.elle.co.kr/article/83951"/>
-        <updated>2024-01-29T17:40:23.436Z</updated>
     </entry>
 </feed>
