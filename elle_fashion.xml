@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-01-31T05:40:32.180Z</updated>
+    <updated>2024-01-31T17:41:38.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[골든 글로브 레드카펫 위의 드레스 열전!]]></title>
+        <id>https://www.elle.co.kr/article/84003</id>
+        <link href="https://www.elle.co.kr/article/84003"/>
+        <updated>2024-01-31T17:39:30.023Z</updated>
+        <content type="html"><![CDATA[제81회 골든 글로브 베스트 드레서 5.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두근두근 데뷔 컬렉션! 패션 하우스의 새 얼굴들 4]]></title>
+        <id>https://www.elle.co.kr/article/84022</id>
+        <link href="https://www.elle.co.kr/article/84022"/>
+        <updated>2024-01-31T17:39:30.025Z</updated>
+        <content type="html"><![CDATA[첫 번째 컬렉션 공개를 앞둔 새로운 크리에이티브 디렉터는?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어디까지 짧아지는 거예요? #마이크로쇼츠]]></title>
+        <id>https://www.elle.co.kr/article/83985</id>
+        <link href="https://www.elle.co.kr/article/83985"/>
+        <updated>2024-01-31T17:39:30.027Z</updated>
+        <content type="html"><![CDATA[핫팬츠보다 더 짧은 마이크로 쇼츠 트렌드. 마치 입지 않은 것처럼 보이는 것이 핵심!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#내돈내산 죽은 스케치도 살려주는 1천5백원 짜리 붓펜?]]></title>
         <id>https://www.elle.co.kr/article/83964</id>
@@ -39,25 +60,5 @@
         <link href="https://www.elle.co.kr/article/83944"/>
         <updated>2024-01-30T05:39:31.563Z</updated>
         <content type="html"><![CDATA["세상이 우리에게만 쉬운 것 같니? 내가 진짜 비밀을 알려줄게" 르세라핌(LE SSERAFIM)이 미니...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GD도 반했다! CES2024에서 발견한 흥미로운 AI 집템 3]]></title>
-        <id>https://www.elle.co.kr/article/83940</id>
-        <link href="https://www.elle.co.kr/article/83940"/>
-        <updated>2024-01-29T05:39:36.683Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파리에 도착한 단추]]></title>
-        <id>https://www.elle.co.kr/article/83924</id>
-        <link href="https://www.elle.co.kr/article/83924"/>
-        <updated>2024-01-29T05:39:36.688Z</updated>
-        <content type="html"><![CDATA[그랑 팔레에서 공개된 샤넬 24 SS 쿠튀르 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[날카롭고 예리한 시선으로, 메탈 프레임 안경]]></title>
-        <id>https://www.elle.co.kr/article/83918</id>
-        <link href="https://www.elle.co.kr/article/83918"/>
-        <updated>2024-01-28T05:39:18.491Z</updated>
-        <content type="html"><![CDATA[안경 선배 처럼.]]></content>
     </entry>
 </feed>

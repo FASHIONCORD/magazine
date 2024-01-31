@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-01-31T05:40:32.180Z</updated>
+    <updated>2024-01-31T17:41:38.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태희부터 박해수까지, 할리우드로 가는 한국 배우 3]]></title>
+        <id>https://www.elle.co.kr/article/84043</id>
+        <link href="https://www.elle.co.kr/article/84043"/>
+        <updated>2024-01-31T17:40:42.738Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요리사 '대장금'이 20년 만에 의사로 돌아온다 (ft. 캐스팅)]]></title>
         <id>https://www.elle.co.kr/article/84021</id>
@@ -77,11 +83,5 @@
         <id>https://www.elle.co.kr/article/83628</id>
         <link href="https://www.elle.co.kr/article/83628"/>
         <updated>2024-01-12T17:40:09.433Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대호가 밝힌 MBC 아나운서 시절 나경은 미담 (ft. 유재석 반응)]]></title>
-        <id>https://www.elle.co.kr/article/83610</id>
-        <link href="https://www.elle.co.kr/article/83610"/>
-        <updated>2024-01-11T05:40:41.858Z</updated>
     </entry>
 </feed>
