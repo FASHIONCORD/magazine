@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-01T05:40:58.681Z</updated>
+    <updated>2024-02-01T17:40:44.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김태희부터 박해수까지, 할리우드로 가는 한국 배우 3]]></title>
+        <id>https://www.elle.co.kr/article/84043</id>
+        <link href="https://www.elle.co.kr/article/84043"/>
+        <updated>2024-02-01T17:39:32.587Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 8강 진출 이끈 반전의 조규성과 '그저 빛' 조현우 (ft. 멱살&머리채)]]></title>
+        <id>https://www.elle.co.kr/article/84033</id>
+        <link href="https://www.elle.co.kr/article/84033"/>
+        <updated>2024-02-01T17:39:32.589Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화려한 여정, <싱어게인3> Top7의 우리 어느 기쁜날]]></title>
         <id>https://www.elle.co.kr/article/84026</id>
@@ -43,17 +55,5 @@
         <link href="https://www.elle.co.kr/article/83994"/>
         <updated>2024-01-31T05:39:36.703Z</updated>
         <content type="html"><![CDATA[함께 들었던 음악이 흘러나오는 순간, 곧바로 같은 춤을 출 수 있는 사이. &lt;닥터 슬럼프&gt;의 박...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소희는 끝까지 가는 것을 두려워하지 않는다]]></title>
-        <id>https://www.elle.co.kr/article/83932</id>
-        <link href="https://www.elle.co.kr/article/83932"/>
-        <updated>2024-01-30T17:39:53.487Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀드윅이 8년 만에 돌아온다]]></title>
-        <id>https://www.elle.co.kr/article/83983</id>
-        <link href="https://www.elle.co.kr/article/83983"/>
-        <updated>2024-01-30T17:39:53.492Z</updated>
     </entry>
 </feed>
