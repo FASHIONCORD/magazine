@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-02-02T05:40:25.712Z</updated>
+    <updated>2024-02-02T17:40:32.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[본인도 깜짝 놀란 유튜버 랄랄의 결혼할 결심 (ft. 예비신랑은 누구?)]]></title>
+        <id>https://www.elle.co.kr/article/84104</id>
+        <link href="https://www.elle.co.kr/article/84104"/>
+        <updated>2024-02-02T17:40:04.162Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 남친과 동업 가능?! 이지아X강기영의 케미가 기대되는 2월 1주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/84092</id>
+        <link href="https://www.elle.co.kr/article/84092"/>
+        <updated>2024-02-02T17:40:04.167Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 꼭 봐야 할 패션 시리즈 3]]></title>
         <id>https://www.elle.co.kr/article/84076</id>
@@ -72,17 +84,5 @@
         <link href="https://www.elle.co.kr/article/83684"/>
         <updated>2024-01-16T05:40:10.024Z</updated>
         <content type="html"><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진한 여운과 함께 종영한 '마에스트라' 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/83674</id>
-        <link href="https://www.elle.co.kr/article/83674"/>
-        <updated>2024-01-15T17:40:42.559Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐스팅 확정 후 1년 반 만에 공개되는 넷플릭스 기대작 '살인자ㅇ난감' 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/83668</id>
-        <link href="https://www.elle.co.kr/article/83668"/>
-        <updated>2024-01-15T17:40:42.563Z</updated>
     </entry>
 </feed>

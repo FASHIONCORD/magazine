@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-02T05:40:25.711Z</updated>
+    <updated>2024-02-02T17:40:32.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정주행 각! 패션 드라마]]></title>
+        <id>https://www.elle.co.kr/article/84089</id>
+        <link href="https://www.elle.co.kr/article/84089"/>
+        <updated>2024-02-02T17:39:15.344Z</updated>
+        <content type="html"><![CDATA[패션계의 히스토리를 담은 드라마가 연이어 공개될 예정이다. 두 편 모두 '각 잡고 만든' 웰메...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 꼭 봐야 할 패션 시리즈 3]]></title>
+        <id>https://www.elle.co.kr/article/84076</id>
+        <link href="https://www.elle.co.kr/article/84076"/>
+        <updated>2024-02-02T17:39:15.345Z</updated>
+        <content type="html"><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈AI에 취직한 예술가는 한 달간 무엇을 했을까?]]></title>
         <id>https://www.elle.co.kr/article/84067</id>
@@ -45,19 +59,5 @@
         <link href="https://www.elle.co.kr/article/84035"/>
         <updated>2024-02-01T17:39:13.832Z</updated>
         <content type="html"><![CDATA[새로운 크리에이티브 디렉터 션 맥기르의 데뷔 컬렉션이 오는 3월 2일 공개됩니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화려한 여정, <싱어게인3> Top7의 우리 어느 기쁜날]]></title>
-        <id>https://www.elle.co.kr/article/84026</id>
-        <link href="https://www.elle.co.kr/article/84026"/>
-        <updated>2024-02-01T05:39:32.317Z</updated>
-        <content type="html"><![CDATA[오직 노래를 향한 진심으로 함께 한 일곱 명이 엘르 카메라 앞에 모였다. 그 축제 같은 순간...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핑크를 포기할 수 없는 백만 가지 이유]]></title>
-        <id>https://www.elle.co.kr/article/84025</id>
-        <link href="https://www.elle.co.kr/article/84025"/>
-        <updated>2024-02-01T05:39:32.319Z</updated>
-        <content type="html"><![CDATA[칙칙한 윈터 아웃핏에 긍정과 사랑의 에너지를 불어넣어 줄 만능 컬러! 핑크로 돋보이는 사복 ...]]></content>
     </entry>
 </feed>

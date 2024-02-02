@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-02-02T05:40:25.706Z</updated>
+    <updated>2024-02-02T17:40:32.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돈 모으는 것도 재능일까? #돈쓸신잡 134]]></title>
+        <id>https://www.elle.co.kr/article/83967</id>
+        <link href="https://www.elle.co.kr/article/83967"/>
+        <updated>2024-02-02T17:40:31.277Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끊임없이 고통받는 모나리자, 이번엔 수프 테러 당했다?]]></title>
         <id>https://www.elle.co.kr/article/83955</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/83619</id>
         <link href="https://www.elle.co.kr/article/83619"/>
         <updated>2024-01-24T05:40:54.751Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2027년, 개고기가 한국에서 사라진다]]></title>
-        <id>https://www.elle.co.kr/article/83604</id>
-        <link href="https://www.elle.co.kr/article/83604"/>
-        <updated>2024-01-18T17:40:54.555Z</updated>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 05:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 17:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스토퍼 놀란의 촬영장에 화장실이 없는 이유는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37285773&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37285773&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 02 Feb 2024 17:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDJfMjQ4/MDAxNzA2ODc1NTIxNDg1.Fj7UkWEjDttghUg-3n5lgb5aS_HYJ0Y_ANUf9M1BvWMg.ASFv_iKP-5dBDZf-NTzmTqW496J5Ar-3szqZqhL3Lpsg.JPEG/IaDdyaCtCfp9-XenSrGmiYkJpTcE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘마녀 배달부 키키’ 속 요리 레시피를 다룬 레시피북이 발간된다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37280416&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Dec 2023 17:38:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjZfNjUg/MDAxNzAzNTk2NjQ1OTgw.xgQKBcY4akPbiCAfPcNWHrdMpwkpsQiaszAQRkfn7WMg.nq8xxAh_yR40sCtxC4wWr4Nl7RwaRzwjEo9hrs-2ONAg.JPEG/IuG5vihXJHc-XuGYaSAHJB0F0P7c.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수면 부족이 정서에도 악영향을 미친다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37080559&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37080559&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 22 Dec 2023 17:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjJfMTMg/MDAxNzAzMjM2NzE2OTgz.PAAaRWr51dZl3h4wew0u_zDBJSUw_JVtAduzWOJWQs4g.tLdnOkheS7MmxFTXyqPut6wi1vyGrnsXTAHUEIZSiXog.JPEG/IFXh3uaryhHuH072bx_azDmungHo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

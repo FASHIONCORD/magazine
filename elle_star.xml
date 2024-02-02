@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-02T05:40:25.705Z</updated>
+    <updated>2024-02-02T17:40:32.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손예진이 베이비박스를 직접 찾은 사연]]></title>
+        <id>https://www.elle.co.kr/article/84078</id>
+        <link href="https://www.elle.co.kr/article/84078"/>
+        <updated>2024-02-02T17:39:35.569Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디올 뷰티와 한소희, 그 독보적 아름다움에 대하여]]></title>
+        <id>https://www.elle.co.kr/article/83850</id>
+        <link href="https://www.elle.co.kr/article/83850"/>
+        <updated>2024-02-02T17:39:35.570Z</updated>
+        <content type="html"><![CDATA[크리스챤 디올 뷰티 '2024 NEW 루즈 디올'을 바른 한소희의 얼굴에서 시간을 초월하는 아름다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투잡 중이던 루 쿠마가이?! 다니엘 헤니가 직접 밝힌 아내와의 러브 스토리]]></title>
+        <id>https://www.elle.co.kr/article/84046</id>
+        <link href="https://www.elle.co.kr/article/84046"/>
+        <updated>2024-02-02T17:39:35.571Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킹받는 연기 속에서도 돋보이는 피지컬! 이이경의 관리 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84044</id>
+        <link href="https://www.elle.co.kr/article/84044"/>
+        <updated>2024-02-02T17:39:35.574Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김태희부터 박해수까지, 할리우드로 가는 한국 배우 3]]></title>
         <id>https://www.elle.co.kr/article/84043</id>
@@ -30,30 +55,5 @@
         <link href="https://www.elle.co.kr/article/84007"/>
         <updated>2024-01-31T17:40:18.752Z</updated>
         <content type="html"><![CDATA[그의 사무실에서는 유쾌한 사장도, 정의로운 변호사도, 절대 악도 성실히 근무한다. 강기영이 배...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요리사 '대장금'이 20년 만에 의사로 돌아온다 (ft. 캐스팅)]]></title>
-        <id>https://www.elle.co.kr/article/84021</id>
-        <link href="https://www.elle.co.kr/article/84021"/>
-        <updated>2024-01-31T17:40:18.756Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재계약 하면서 입장문까지?! 오정세가 밝힌 뜻밖의 소속사 복지.txt]]></title>
-        <id>https://www.elle.co.kr/article/84020</id>
-        <link href="https://www.elle.co.kr/article/84020"/>
-        <updated>2024-01-31T17:40:18.758Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보기만 해도 흐뭇한 봉태규X하시시박 가족의 평화로운 근황 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/84015</id>
-        <link href="https://www.elle.co.kr/article/84015"/>
-        <updated>2024-01-31T05:39:36.702Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 춤을 출 수 있는 사이, < 닥터슬럼프 > 박신혜와 박형식]]></title>
-        <id>https://www.elle.co.kr/article/83994</id>
-        <link href="https://www.elle.co.kr/article/83994"/>
-        <updated>2024-01-31T05:39:36.703Z</updated>
-        <content type="html"><![CDATA[함께 들었던 음악이 흘러나오는 순간, 곧바로 같은 춤을 출 수 있는 사이. &lt;닥터 슬럼프&gt;의 박...]]></content>
     </entry>
 </feed>

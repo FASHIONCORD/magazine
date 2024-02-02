@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-02T05:40:25.703Z</updated>
+    <updated>2024-02-02T17:40:32.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작지만 강한 미니 향수_선배’s 어드바이스 #205]]></title>
+        <id>https://www.elle.co.kr/article/83965</id>
+        <link href="https://www.elle.co.kr/article/83965"/>
+        <updated>2024-02-02T17:39:25.699Z</updated>
+        <content type="html"><![CDATA[가벼운 지갑도 환영! 소용량 스틱부터 밤, 롤온, 오일, 펜, 네일 퍼퓸까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해피 뉴 헤어! 새해 맞이 헤어 변신한 스타 5]]></title>
         <id>https://www.elle.co.kr/article/83959</id>
@@ -49,12 +56,5 @@
         <id>https://www.elle.co.kr/article/83751</id>
         <link href="https://www.elle.co.kr/article/83751"/>
         <updated>2024-01-28T05:39:26.101Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 목표가 작심삼일이 되지 않길 바란다면! 스타들의 운동 생활 4]]></title>
-        <id>https://www.elle.co.kr/article/83727</id>
-        <link href="https://www.elle.co.kr/article/83727"/>
-        <updated>2024-01-25T17:39:43.582Z</updated>
-        <content type="html"><![CDATA[자기 관리에 철저한 이들을 보며 동기부여를 해보세요.]]></content>
     </entry>
 </feed>
