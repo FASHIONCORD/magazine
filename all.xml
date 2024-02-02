@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 17:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 05:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1888,6 +1888,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTVfNTYg/MDAxNTg5NTM4MjM1ODQ3.Ea6-Zsc04HRHQtbyNalsaZ3KDeF0cJmRnnr1IArIoxsg.XUgqeqoLiZYwvEjgL07y4wGTZFvq5PSsCGvWJ5MOl8Ug.JPEG/IA31KX2UIQCPRtjCFszSpV1upJwo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오픈AI에 취직한 예술가는 한 달간 무엇을 했을까? (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84067</link>
+            <guid>https://www.elle.co.kr/article/84067</guid>
+            <pubDate>Fri, 02 Feb 2024 05:39:12 GMT</pubDate>
+            <content:encoded><![CDATA[AI 회사의 예술가 1]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[긱시크의 정석은 여기서! (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84059</link>
             <guid>https://www.elle.co.kr/article/84059</guid>
@@ -1934,13 +1941,6 @@
             <guid>https://www.elle.co.kr/article/84025</guid>
             <pubDate>Thu, 01 Feb 2024 05:39:32 GMT</pubDate>
             <content:encoded><![CDATA[칙칙한 윈터 아웃핏에 긍정과 사랑의 에너지를 불어넣어 줄 만능 컬러! 핑크로 돋보이는 사복 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[골든 글로브 레드카펫 위의 드레스 열전! (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84003</link>
-            <guid>https://www.elle.co.kr/article/84003</guid>
-            <pubDate>Wed, 31 Jan 2024 17:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[제81회 골든 글로브 베스트 드레서 5.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해피 뉴 헤어! 새해 맞이 헤어 변신한 스타 5 (엘르 코리아 ─ 뷰티)]]></title>
@@ -2264,7 +2264,7 @@
             <title><![CDATA[올해 꼭 봐야 할 패션 시리즈 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84076</link>
             <guid>https://www.elle.co.kr/article/84076</guid>
-            <pubDate>Thu, 01 Feb 2024 17:40:25 GMT</pubDate>
+            <pubDate>Thu, 01 Feb 2024 17:40:15 GMT</pubDate>
             <content:encoded><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content:encoded>
         </item>
         <item>
