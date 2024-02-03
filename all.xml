@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 17:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 05:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1888,6 +1888,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MThfMTQ1/MDAxNTg5Nzg0NDc2NDAx.QY_61IVEK1k9AB7oK1VQbl3SrY0m8uMD5Afxi7Hjp8wg.tWTNXcegfwoEi6moOwc3GVntzYBq27_BEZS_cBnUJHkg.JPEG/ITEXuKrooYq_XRMTGCW3MUexy8QA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름에도 레더 픽 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84063</link>
+            <guid>https://www.elle.co.kr/article/84063</guid>
+            <pubDate>Sat, 03 Feb 2024 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[한여름에 레더를 입는다고? 가능!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정주행 각! 패션 드라마 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84089</link>
             <guid>https://www.elle.co.kr/article/84089</guid>
@@ -1936,11 +1943,11 @@
             <pubDate>Thu, 01 Feb 2024 17:39:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[지금 알렉산더 맥퀸에 주목해야 하는 이유 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84035</link>
-            <guid>https://www.elle.co.kr/article/84035</guid>
-            <pubDate>Thu, 01 Feb 2024 17:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 크리에이티브 디렉터 션 맥기르의 데뷔 컬렉션이 오는 3월 2일 공개됩니다.]]></content:encoded>
+            <title><![CDATA[뷰러 끝판왕 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/83995</link>
+            <guid>https://www.elle.co.kr/article/83995</guid>
+            <pubDate>Sat, 03 Feb 2024 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[세상에서 가장 럭셔리한 아이래시컬러의 등장]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[작지만 강한 미니 향수_선배’s 어드바이스 #205 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1987,12 +1994,6 @@
             <link>https://www.elle.co.kr/article/83799</link>
             <guid>https://www.elle.co.kr/article/83799</guid>
             <pubDate>Mon, 29 Jan 2024 05:39:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1시간 만에 -2.2kg! 군살 하나 없는 근육질 김혜선의 최애 운동은? #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/83751</link>
-            <guid>https://www.elle.co.kr/article/83751</guid>
-            <pubDate>Sun, 28 Jan 2024 05:39:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[손예진이 베이비박스를 직접 찾은 사연 (엘르 코리아 ─ 스타)]]></title>
@@ -2401,6 +2402,12 @@
             <pubDate>Mon, 29 Jan 2024 17:41:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[엘르보이스] 그래도 미래를 향해 걸어야 한다면 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/83949</link>
+            <guid>https://www.elle.co.kr/article/83949</guid>
+            <pubDate>Sat, 03 Feb 2024 05:41:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[돈 모으는 것도 재능일까? #돈쓸신잡 134 (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/83967</link>
             <guid>https://www.elle.co.kr/article/83967</guid>
@@ -2442,12 +2449,6 @@
             <link>https://www.elle.co.kr/article/83631</link>
             <guid>https://www.elle.co.kr/article/83631</guid>
             <pubDate>Sun, 28 Jan 2024 17:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['스마트폰'은 옛말? 올해 주목해야 할 기술 빅3 #돈쓸신잡 132 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/83619</link>
-            <guid>https://www.elle.co.kr/article/83619</guid>
-            <pubDate>Wed, 24 Jan 2024 05:40:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
