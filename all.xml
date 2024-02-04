@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 17:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 05:40:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1888,6 +1888,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MThfMTQ1/MDAxNTg5Nzg0NDc2NDAx.QY_61IVEK1k9AB7oK1VQbl3SrY0m8uMD5Afxi7Hjp8wg.tWTNXcegfwoEi6moOwc3GVntzYBq27_BEZS_cBnUJHkg.JPEG/ITEXuKrooYq_XRMTGCW3MUexy8QA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스키장 뽐뿌 부르는 셀럽의 스타일리시한 스키 웨어 모음.zip (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84090</link>
+            <guid>https://www.elle.co.kr/article/84090</guid>
+            <pubDate>Sun, 04 Feb 2024 05:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[순백의 설원 위에서도 스타일을 놓치지 않고 싶다면 주목하세요. 공효진부터 강승현까지, 옷 잘 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[표류하듯 항해해 온 구본창의 시간 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84088</link>
             <guid>https://www.elle.co.kr/article/84088</guid>
@@ -1935,13 +1942,6 @@
             <guid>https://www.elle.co.kr/article/84051</guid>
             <pubDate>Thu, 01 Feb 2024 17:39:13 GMT</pubDate>
             <content:encoded><![CDATA[프로 집콕러에게 추천하는 편안하고 예쁜 홈웨어 스타일링.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[두근 두근, 하트 아이템 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84010</link>
-            <guid>https://www.elle.co.kr/article/84010</guid>
-            <pubDate>Thu, 01 Feb 2024 17:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[사랑을 싣고.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뷰러 끝판왕 (엘르 코리아 ─ 뷰티)]]></title>
@@ -2207,6 +2207,7 @@
             <link>https://www.elle.co.kr/article/84043</link>
             <guid>https://www.elle.co.kr/article/84043</guid>
             <pubDate>Wed, 31 Jan 2024 17:40:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/605ee447-1442-4737-be59-626fd142e0a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요리사 '대장금'이 20년 만에 의사로 돌아온다 (ft. 캐스팅) (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
