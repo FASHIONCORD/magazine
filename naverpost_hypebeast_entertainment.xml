@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 05:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 17:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짐 캐리, 실사 영화 ‘수퍼 소닉 3’으로 복귀 예정]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37297723&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37297723&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 05 Feb 2024 17:38:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDVfNTcg/MDAxNzA3MTM3Mjk3NDgw.CSsNhUHnuSMdxVC1fBZHZKshr6cIpTtiukSbVrbzJ00g.7Hc46Z72xjh-hO-asRAhdbJJA6xzAlEUkQzA5NMVbmIg.JPEG/IOcOcSXrsFzpuLWInEYeUHfFTr2I.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스토퍼 놀란의 촬영장에 화장실이 없는 이유는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37285773&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Dec 2023 05:39:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjdfMjg2/MDAxNzAzNjU0NTQzNzk4.kCY8r5hjv3MmwLZs3-a7TNaF5u82lzSc4rq--zQeMq8g.n-oN6c3I1KvpU1pviOHeJ8XSUmvHA63ECGSu75_LS_Yg.JPEG/I3psYHHUxAXiF4dk2xsULHpaUdEw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 내 최고 & 최악의 공항 순위가 공개됐다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37096289&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37096289&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 26 Dec 2023 17:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjZfNjUg/MDAxNzAzNTk2NjQ1OTgw.xgQKBcY4akPbiCAfPcNWHrdMpwkpsQiaszAQRkfn7WMg.nq8xxAh_yR40sCtxC4wWr4Nl7RwaRzwjEo9hrs-2ONAg.JPEG/IuG5vihXJHc-XuGYaSAHJB0F0P7c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

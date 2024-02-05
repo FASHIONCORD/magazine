@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 05:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 17:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 아이폰 16 렌더링 이미지 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37297727&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37297727&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 05 Feb 2024 17:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDVfMjE0/MDAxNzA3MTM3NDYyMzEy.ecLJrY6Ex4oQ-d7j72oiJ4rsne9QEAs5vdeBx3UaxDYg.SfM99jwu0QrsBDZiIJrQtEXG1YA0Ra7xEq79gCgClaIg.JPEG/Ix06Sf6FA9L4UGJJDAKMVU6aD9Is.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[14년 만의 네 번째 이동통신사, 스테이지엑스가 탄생했다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37280410&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Sep 2023 17:39:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTJfMjE4/MDAxNjk0NTAyMzAwNDkw.m0Zb_4fhS3aaOyG-aH3DsVtKqUKcIrMBqOw90zCq9I0g.gmfo_eE0YcGWT1GFYGRgEhQH1cZWRXn3Ay-8D_EKIF0g.JPEG/Ih6MRh_OmbjujOCDyb8dJbQtrcE4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 엑스박스 시리즈 S 1TB ‘카본 블랙’ 공개]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36518572&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36518572&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 04 Sep 2023 17:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDRfNzEg/MDAxNjkzODEyMzc1MTIw.CHcdzdzqZ6xVEnzRFonpsyZd9kBiz-4R-M7kF6U5NTcg.ZHsDhYK0RV9etrFeLPATJs25xWy2uBCRQ8KPafXgRXEg.JPEG/IVBg-BwNmKQxp0J4MknJxzWMiwkk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
