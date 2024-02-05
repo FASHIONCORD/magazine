@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-04T17:41:02.453Z</updated>
+    <updated>2024-02-05T05:40:40.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[걸을 때마다 이걸 신경 쓴다고? 있지 유나의 특별한 관리법  #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84079</id>
+        <link href="https://www.elle.co.kr/article/84079"/>
+        <updated>2024-02-05T05:39:23.158Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킹받는 연기 속에서도 돋보이는 피지컬! 이이경의 관리 비결 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/84044</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/83880</id>
         <link href="https://www.elle.co.kr/article/83880"/>
         <updated>2024-01-30T05:39:38.381Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식약처 인증! '찐' 피부 장벽 강화 스킨케어 제품은?_선배’s 어드바이스 #204]]></title>
-        <id>https://www.elle.co.kr/article/83805</id>
-        <link href="https://www.elle.co.kr/article/83805"/>
-        <updated>2024-01-29T05:39:45.823Z</updated>
-        <content type="html"><![CDATA[실제로 효과가 입증된 제품은 그리 많지 않다는 사실, 아시나요?]]></content>
     </entry>
 </feed>
