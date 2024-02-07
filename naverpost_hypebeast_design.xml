@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 05:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 17:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘한국인이 가장 많이 사는 가구’는 무엇일까?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37308819&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37308819&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Wed, 07 Feb 2024 17:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDdfMTMx/MDAxNzA3MzA1OTA1MDE0.4vrVnjAKF_IjJ37HgXtVBiMXKR0dvbsIvm5uJzmqY30g.9QxUqH0tI8_Se34D7d_TV8oFlijxGOFpHG2-FhTrPUQg.JPEG/IG4w__E3xMoHalpUGQhs7rBrqwno.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고 ‘스타워즈’ 25주년 기념 제품군이 발매된다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37275219&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMDRfMjY4/MDAxNjA3MDc1OTA5ODM4.aM0VAVOvr5YPtu1TqrsBxe5vX1hjJxHHhCPTquKYsj4g.ExXOEIokFw1nC0KIFw7iB216c9_2b2JvoqKmvZZE9Usg.JPEG/I5uKky9u-pTsiGLSe6WnM3uUtlII.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램 맥스? iOS 14 전용 ‘에어 맥스 90 아이콘 팩’ 출시]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29742402&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29742402&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMTlfMjk2/MDAxNjAzMDk2MzMwOTMy.LCusPHqKVlZDlTvXQQ1HmYhuWFp8BqWtt4l96gLZrwcg.Jinv8qDyjLvFikLXMq0_A49iVN22Gf2klzUhfb_trT8g.JPEG/I2UXQlIt0_EPvMMLr53fQIovpGIM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

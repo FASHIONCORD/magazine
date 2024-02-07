@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-07T05:40:47.929Z</updated>
+    <updated>2024-02-07T17:41:12.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보아가 '내 남편과 결혼해 줘'에 등장한 이유]]></title>
+        <id>https://www.elle.co.kr/article/84159</id>
+        <link href="https://www.elle.co.kr/article/84159"/>
+        <updated>2024-02-07T17:39:49.131Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그래미 어워드 본상 수상자는 레드카펫 룩도 남다를까?]]></title>
+        <id>https://www.elle.co.kr/article/84154</id>
+        <link href="https://www.elle.co.kr/article/84154"/>
+        <updated>2024-02-07T17:39:49.133Z</updated>
+        <content type="html"><![CDATA[무려 675시간에 걸쳐 완성된 드레스의 주인공은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고거전' 원정왕후가 '미스터 션샤인' 유진 초이 엄마? 이시아 인생캐 3선 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/84136</id>
+        <link href="https://www.elle.co.kr/article/84136"/>
+        <updated>2024-02-07T17:39:49.134Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정]]></title>
         <id>https://www.elle.co.kr/article/84135</id>
@@ -35,23 +54,5 @@
         <id>https://www.elle.co.kr/article/84101</id>
         <link href="https://www.elle.co.kr/article/84101"/>
         <updated>2024-02-05T17:39:41.193Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옛 연인 신동엽X이소라가 두 번째로 재회하는 뜻밖의 장소]]></title>
-        <id>https://www.elle.co.kr/article/84100</id>
-        <link href="https://www.elle.co.kr/article/84100"/>
-        <updated>2024-02-05T17:39:41.194Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 남친과 동업 가능?! 이지아X강기영의 케미가 기대되는 2월 1주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84092</id>
-        <link href="https://www.elle.co.kr/article/84092"/>
-        <updated>2024-02-05T05:39:32.272Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸을 때마다 이걸 신경 쓴다고? 있지 유나의 특별한 관리법  #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84079</id>
-        <link href="https://www.elle.co.kr/article/84079"/>
-        <updated>2024-02-05T05:39:32.273Z</updated>
     </entry>
 </feed>
