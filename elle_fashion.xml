@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-07T17:41:12.855Z</updated>
+    <updated>2024-02-08T05:40:45.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태연이 고른 겨울 모자는? 트루퍼 햇 #쇼핑리스트]]></title>
+        <id>https://www.elle.co.kr/article/84170</id>
+        <link href="https://www.elle.co.kr/article/84170"/>
+        <updated>2024-02-08T05:39:37.415Z</updated>
+        <content type="html"><![CDATA[옷잘알 셀럽들의 윈터 아웃핏에서 자주 포착되는 이것! 귀여운 이어플랩이 달린 트루퍼 햇으로 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영원히 함께할 커플 링]]></title>
+        <id>https://www.elle.co.kr/article/84160</id>
+        <link href="https://www.elle.co.kr/article/84160"/>
+        <updated>2024-02-08T05:39:37.416Z</updated>
+        <content type="html"><![CDATA[두 손에 꼭.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[함께 있을 때 더 빛나는 '환상의 커플']]></title>
         <id>https://www.elle.co.kr/article/84156</id>
@@ -46,19 +60,5 @@
         <link href="https://www.elle.co.kr/article/84115"/>
         <updated>2024-02-06T17:39:23.691Z</updated>
         <content type="html"><![CDATA[패션 센스 좋은 김나영의 데일리룩 치트키는 바로 스니커즈라는 사실!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[담백한 맛, 화이트 셔츠]]></title>
-        <id>https://www.elle.co.kr/article/84113</id>
-        <link href="https://www.elle.co.kr/article/84113"/>
-        <updated>2024-02-06T17:39:23.692Z</updated>
-        <content type="html"><![CDATA[공들여 꾸미지 않고도 우아한 스타일은 화이트 셔츠로 완성된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한겨울에도 코트를 포기할 수 없다면! '얼죽코'를 위한 스타일링 tip]]></title>
-        <id>https://www.elle.co.kr/article/84110</id>
-        <link href="https://www.elle.co.kr/article/84110"/>
-        <updated>2024-02-06T05:39:17.135Z</updated>
-        <content type="html"><![CDATA[카리나부터 손나은까지 옷 잘 입는 스타들의 한겨울 멋있는 코트 스타일.]]></content>
     </entry>
 </feed>
