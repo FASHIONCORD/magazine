@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-08T05:40:45.183Z</updated>
+    <updated>2024-02-08T17:40:34.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[립밤 vs 핸드크림, 일할 때 손이 가는 아이템? #취향의발견_4]]></title>
+        <id>https://www.elle.co.kr/article/84182</id>
+        <link href="https://www.elle.co.kr/article/84182"/>
+        <updated>2024-02-08T17:39:28.128Z</updated>
+        <content type="html"><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어깨를 드러내자]]></title>
+        <id>https://www.elle.co.kr/article/84178</id>
+        <link href="https://www.elle.co.kr/article/84178"/>
+        <updated>2024-02-08T17:39:28.128Z</updated>
+        <content type="html"><![CDATA[브라 끈에 유의하세요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태연이 고른 겨울 모자는? 트루퍼 햇 #쇼핑리스트]]></title>
         <id>https://www.elle.co.kr/article/84170</id>
@@ -46,19 +60,5 @@
         <link href="https://www.elle.co.kr/article/84144"/>
         <updated>2024-02-07T05:39:25.575Z</updated>
         <content type="html"><![CDATA[평범한 스타일은 거부한다! 개성에 맞게 꾸며 드는 가방 트렌드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크고 헐렁하게]]></title>
-        <id>https://www.elle.co.kr/article/84118</id>
-        <link href="https://www.elle.co.kr/article/84118"/>
-        <updated>2024-02-06T17:39:23.689Z</updated>
-        <content type="html"><![CDATA[남자친구의 재킷을 빌려 입은 듯 넉넉한 사이즈의 가죽 재킷에 시선을 돌려야 할 때.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션의 완성은 스니커즈! 김나영 추천 운동화.list]]></title>
-        <id>https://www.elle.co.kr/article/84115</id>
-        <link href="https://www.elle.co.kr/article/84115"/>
-        <updated>2024-02-06T17:39:23.691Z</updated>
-        <content type="html"><![CDATA[패션 센스 좋은 김나영의 데일리룩 치트키는 바로 스니커즈라는 사실!]]></content>
     </entry>
 </feed>
