@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-02-08T17:40:34.846Z</updated>
+    <updated>2024-02-09T05:40:39.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이거지...!!! 채종협이 일본에서 말아주는 대형견 연하남 로코]]></title>
+        <id>https://www.elle.co.kr/article/84163</id>
+        <link href="https://www.elle.co.kr/article/84163"/>
+        <updated>2024-02-09T05:39:51.799Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위대한 유산]]></title>
         <id>https://www.elle.co.kr/article/84148</id>
@@ -47,12 +53,5 @@
         <id>https://www.elle.co.kr/article/84104</id>
         <link href="https://www.elle.co.kr/article/84104"/>
         <updated>2024-02-05T17:39:49.714Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모님과 가족 여행할 때 먹어야 할 마음가짐 #여자읽는여자]]></title>
-        <id>https://www.elle.co.kr/article/84102</id>
-        <link href="https://www.elle.co.kr/article/84102"/>
-        <updated>2024-02-05T17:39:49.715Z</updated>
-        <content type="html"><![CDATA[이 사랑은 결코 당연하지 않다.]]></content>
     </entry>
 </feed>

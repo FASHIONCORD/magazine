@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-08T17:40:34.847Z</updated>
+    <updated>2024-02-09T05:40:39.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허니제이가 최초 공개한 복층 신혼집 모습]]></title>
+        <id>https://www.elle.co.kr/article/84192</id>
+        <link href="https://www.elle.co.kr/article/84192"/>
+        <updated>2024-02-09T05:39:43.530Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달달 공개 연애부터 과거사 폭로까지, 할리우드 스타들의 사랑 3]]></title>
+        <id>https://www.elle.co.kr/article/84191</id>
+        <link href="https://www.elle.co.kr/article/84191"/>
+        <updated>2024-02-09T05:39:43.533Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설 연휴 급하게 찐 살 급하게 빼려면? 스타들의 스피드 감량 식단 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/84190</id>
@@ -41,17 +53,5 @@
         <id>https://www.elle.co.kr/article/84136</id>
         <link href="https://www.elle.co.kr/article/84136"/>
         <updated>2024-02-07T17:39:49.134Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정]]></title>
-        <id>https://www.elle.co.kr/article/84135</id>
-        <link href="https://www.elle.co.kr/article/84135"/>
-        <updated>2024-02-06T17:39:45.263Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['맨유 성골'이자 '잉글랜드 국대', 제시 린가드 한국행의 배경 (ft. 여행 아님)]]></title>
-        <id>https://www.elle.co.kr/article/84123</id>
-        <link href="https://www.elle.co.kr/article/84123"/>
-        <updated>2024-02-06T17:39:45.266Z</updated>
     </entry>
 </feed>
