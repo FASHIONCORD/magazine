@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-09T05:40:39.386Z</updated>
+    <updated>2024-02-09T17:40:44.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 당신의 목표는? 보통과는 다른 새해 다짐별 선물 4]]></title>
+        <id>https://www.elle.co.kr/article/84202</id>
+        <link href="https://www.elle.co.kr/article/84202"/>
+        <updated>2024-02-09T17:39:16.726Z</updated>
+        <content type="html"><![CDATA[사랑하고 싶은 사람, 개성 찾고 싶은 사람 모여라. 루이자비아로마에서 골라보는 새해 선물 리스...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘꾸꾸’하고 싶은 밸런타인데이에는 '오프숄더'가 제격]]></title>
         <id>https://www.elle.co.kr/article/84199</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84156"/>
         <updated>2024-02-07T17:39:31.893Z</updated>
         <content type="html"><![CDATA[둘이서 나란히.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래미 어워드 본상 수상자는 레드카펫 룩도 남다를까?]]></title>
-        <id>https://www.elle.co.kr/article/84154</id>
-        <link href="https://www.elle.co.kr/article/84154"/>
-        <updated>2024-02-07T17:39:31.895Z</updated>
-        <content type="html"><![CDATA[무려 675시간에 걸쳐 완성된 드레스의 주인공은?]]></content>
     </entry>
 </feed>

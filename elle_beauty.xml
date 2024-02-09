@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-09T05:40:39.399Z</updated>
+    <updated>2024-02-09T17:40:44.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남성 화장품의 모든 것_선배’s 어드바이스 #206]]></title>
+        <id>https://www.elle.co.kr/article/84146</id>
+        <link href="https://www.elle.co.kr/article/84146"/>
+        <updated>2024-02-09T17:39:27.179Z</updated>
+        <content type="html"><![CDATA[투명하게 빛나는 남배우 피부, 비결이 궁금해?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달라진 뷰티 업계의 新리더들]]></title>
         <id>https://www.elle.co.kr/article/84138</id>
@@ -52,11 +59,5 @@
         <id>https://www.elle.co.kr/article/84079</id>
         <link href="https://www.elle.co.kr/article/84079"/>
         <updated>2024-02-05T05:39:23.158Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킹받는 연기 속에서도 돋보이는 피지컬! 이이경의 관리 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84044</id>
-        <link href="https://www.elle.co.kr/article/84044"/>
-        <updated>2024-02-04T17:39:44.513Z</updated>
     </entry>
 </feed>

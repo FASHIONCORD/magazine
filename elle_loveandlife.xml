@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-02-09T05:40:39.410Z</updated>
+    <updated>2024-02-09T17:40:44.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 설 4일 연휴, 그저 푹 쉬고 싶은 사람이라면? 호캉스 추천 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84158</id>
+        <link href="https://www.elle.co.kr/article/84158"/>
+        <updated>2024-02-09T17:40:35.575Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호텔에도 영혼이 있다면, 자누도쿄]]></title>
+        <id>https://www.elle.co.kr/article/84137</id>
+        <link href="https://www.elle.co.kr/article/84137"/>
+        <updated>2024-02-09T17:40:35.576Z</updated>
+        <content type="html"><![CDATA[어쩌면 우리가 호텔에 바라는 건, 품격 있는 평화일지도 모른다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맛있는 설 선물 6가지]]></title>
         <id>https://www.elle.co.kr/article/84066</id>
@@ -44,18 +57,5 @@
         <link href="https://www.elle.co.kr/article/84057"/>
         <updated>2024-02-04T17:40:50.981Z</updated>
         <content type="html"><![CDATA[패션 에디터와 패션 PR, 패션 콘텐츠 디렉터, 패션사 대표가 발리에 빠진 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[섬유 디자이너가 향신료를 만든 이유]]></title>
-        <id>https://www.elle.co.kr/article/84017</id>
-        <link href="https://www.elle.co.kr/article/84017"/>
-        <updated>2024-02-02T17:40:24.743Z</updated>
-        <content type="html"><![CDATA[캐나다 디자인 페스티벌에서 가장 주목받은 그 작품]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이크부터 장어까지, 든든하고 따끈한 솥밥 맛집 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/84014</id>
-        <link href="https://www.elle.co.kr/article/84014"/>
-        <updated>2024-02-02T17:40:24.745Z</updated>
     </entry>
 </feed>

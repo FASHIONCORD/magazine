@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 05:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 17:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스토퍼 놀란이 꼽은 ‘영화 역사상 가장 중요한 캐스팅’]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37317005&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37317005&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 09 Feb 2024 17:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDlfMzYg/MDAxNzA3NDczMDgyMjUw.FFPdD-mfdEpwi3_N_HLF-4FGJ11m2JeBIyYBQvBLZYYg.9koKEwlwHDPDKifuukQIn-8Y9PsELCpD7jn1-L1SVF0g.JPEG/IgiialBuVn1VgwVGuzzBJUAHEv5U.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[약 3백년 된 레몬이 경매에 나왔다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37314242&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 10 Jan 2024 17:38:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTBfMTQx/MDAxNzA0ODg4MzE0NzY1.PJSTTR6hxHtF_fFPbtqulLo2kDG9Ob_jj9n4Ctkg27Eg.RHq4oVVnN5hBqXcWUb0FfQOMaYnbQHKoztQ0MxwAlyYg.JPEG/I7QAU9jR8O2PVMt9qrU1qGuiiaAw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 저가 항공사 요금, 소비자의 기대보다 비싸다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37140405&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37140405&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 04 Jan 2024 17:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDRfMTkz/MDAxNzA0MzY4OTU5ODQ2.SqNkmgvRueK2VAKKL4kiEzQEgUv_T9RfNEUNc8VYkOEg.3dVehIURaTznZMXyOWhb96wx2J37P-DGbSiO7B36g5Ug.JPEG/I9NKxQuSnfGJnkmJ-31qNI1beXqg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
