@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-09T17:40:44.780Z</updated>
+    <updated>2024-02-10T05:40:27.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아직도 믿기지 않는 제시 린가드 FC서울 입단, 그가 이적한 진짜 이유]]></title>
+        <id>https://www.elle.co.kr/article/84212</id>
+        <link href="https://www.elle.co.kr/article/84212"/>
+        <updated>2024-02-10T05:39:32.908Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이유가 인스타 개설 때부터 바꾼 적 없던 프사를 변경한 배경]]></title>
+        <id>https://www.elle.co.kr/article/84208</id>
+        <link href="https://www.elle.co.kr/article/84208"/>
+        <updated>2024-02-10T05:39:32.910Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허니제이가 최초 공개한 복층 신혼집 모습]]></title>
         <id>https://www.elle.co.kr/article/84192</id>
@@ -40,18 +52,5 @@
         <id>https://www.elle.co.kr/article/84159</id>
         <link href="https://www.elle.co.kr/article/84159"/>
         <updated>2024-02-07T17:39:49.131Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래미 어워드 본상 수상자는 레드카펫 룩도 남다를까?]]></title>
-        <id>https://www.elle.co.kr/article/84154</id>
-        <link href="https://www.elle.co.kr/article/84154"/>
-        <updated>2024-02-07T17:39:49.133Z</updated>
-        <content type="html"><![CDATA[무려 675시간에 걸쳐 완성된 드레스의 주인공은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고거전' 원정왕후가 '미스터 션샤인' 유진 초이 엄마? 이시아 인생캐 3선 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/84136</id>
-        <link href="https://www.elle.co.kr/article/84136"/>
-        <updated>2024-02-07T17:39:49.134Z</updated>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-09T17:40:44.782Z</updated>
+    <updated>2024-02-10T05:40:27.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI가 없었다면 보지 못했을 '웡카'의 세트장]]></title>
+        <id>https://www.elle.co.kr/article/84209</id>
+        <link href="https://www.elle.co.kr/article/84209"/>
+        <updated>2024-02-10T05:39:14.980Z</updated>
+        <content type="html"><![CDATA[이번 설에 직접 확인해 보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 당신의 목표는? 보통과는 다른 새해 다짐별 선물 4]]></title>
         <id>https://www.elle.co.kr/article/84202</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84160"/>
         <updated>2024-02-08T05:39:37.416Z</updated>
         <content type="html"><![CDATA[두 손에 꼭.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함께 있을 때 더 빛나는 '환상의 커플']]></title>
-        <id>https://www.elle.co.kr/article/84156</id>
-        <link href="https://www.elle.co.kr/article/84156"/>
-        <updated>2024-02-07T17:39:31.893Z</updated>
-        <content type="html"><![CDATA[둘이서 나란히.]]></content>
     </entry>
 </feed>

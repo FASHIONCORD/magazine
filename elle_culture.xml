@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-02-09T17:40:44.759Z</updated>
+    <updated>2024-02-10T05:40:27.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 상반기 넷플릭스, 새 시즌 컴백 드라마와 웹툰 원작 오리지널 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/84194</id>
+        <link href="https://www.elle.co.kr/article/84194"/>
+        <updated>2024-02-10T05:39:41.932Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이거지...!!! 채종협이 일본에서 말아주는 대형견 연하남 로코]]></title>
         <id>https://www.elle.co.kr/article/84163</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/84122</id>
         <link href="https://www.elle.co.kr/article/84122"/>
         <updated>2024-02-06T05:39:42.509Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본인도 깜짝 놀란 유튜버 랄랄의 결혼할 결심 (ft. 예비신랑은 누구?)]]></title>
-        <id>https://www.elle.co.kr/article/84104</id>
-        <link href="https://www.elle.co.kr/article/84104"/>
-        <updated>2024-02-05T17:39:49.714Z</updated>
     </entry>
 </feed>
