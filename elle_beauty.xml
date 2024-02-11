@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-11T05:41:26.881Z</updated>
+    <updated>2024-02-11T17:40:55.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['힙'하게 치카치카 타임! 예쁜데 맛도 좋은 요즘 치약 4]]></title>
+        <id>https://www.elle.co.kr/article/84167</id>
+        <link href="https://www.elle.co.kr/article/84167"/>
+        <updated>2024-02-11T17:39:40.355Z</updated>
+        <content type="html"><![CDATA[치약은 효과만 확실하면 된다는 구시대적 발상은 그만!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남성 화장품의 모든 것_선배’s 어드바이스 #206]]></title>
         <id>https://www.elle.co.kr/article/84146</id>
@@ -53,11 +60,5 @@
         <link href="https://www.elle.co.kr/article/84060"/>
         <updated>2024-02-05T17:39:32.287Z</updated>
         <content type="html"><![CDATA[오늘도 한소희는 레전드를 갱신합니다. 크리스챤 디올 뷰티 2024 NEW 루즈 디올을 바르고 &lt;엘...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸을 때마다 이걸 신경 쓴다고? 있지 유나의 특별한 관리법  #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84079</id>
-        <link href="https://www.elle.co.kr/article/84079"/>
-        <updated>2024-02-05T05:39:23.158Z</updated>
     </entry>
 </feed>

@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-02-11T05:41:26.867Z</updated>
+    <updated>2024-02-11T17:40:55.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아직도 연말정산이 헷갈리는 당신에게 #돈쓸신잡 135]]></title>
+        <id>https://www.elle.co.kr/article/84068</id>
+        <link href="https://www.elle.co.kr/article/84068"/>
+        <updated>2024-02-11T17:40:54.925Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['틱톡 핫템' 스탠리 텀블러 대유행에 찬물?]]></title>
         <id>https://www.elle.co.kr/article/84052</id>
@@ -48,11 +54,5 @@
         <id>https://www.elle.co.kr/article/83747</id>
         <link href="https://www.elle.co.kr/article/83747"/>
         <updated>2024-01-29T17:41:24.718Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최강 축구 대표팀의 아시안컵 일정부터 개고기 금지법 통과까지 #이번주요약]]></title>
-        <id>https://www.elle.co.kr/article/83649</id>
-        <link href="https://www.elle.co.kr/article/83649"/>
-        <updated>2024-01-29T17:41:24.720Z</updated>
     </entry>
 </feed>
