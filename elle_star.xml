@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-10T17:41:31.875Z</updated>
+    <updated>2024-02-11T05:41:26.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[깊은 밤 설산에서 펼쳐진 몽클레르 그레노블 컬렉션이 화제인 이유]]></title>
+        <id>https://www.elle.co.kr/article/84213</id>
+        <link href="https://www.elle.co.kr/article/84213"/>
+        <updated>2024-02-11T05:40:09.937Z</updated>
+        <content type="html"><![CDATA[글로벌 앰버서더 황민현과 스위스 생모리츠에서 만난 2024 FW 몽클레르 그레노블 컬렉션.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아직도 믿기지 않는 제시 린가드 FC서울 입단, 그가 이적한 진짜 이유]]></title>
         <id>https://www.elle.co.kr/article/84212</id>
@@ -46,11 +53,5 @@
         <id>https://www.elle.co.kr/article/84161</id>
         <link href="https://www.elle.co.kr/article/84161"/>
         <updated>2024-02-08T17:39:46.223Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보아가 '내 남편과 결혼해 줘'에 등장한 이유]]></title>
-        <id>https://www.elle.co.kr/article/84159</id>
-        <link href="https://www.elle.co.kr/article/84159"/>
-        <updated>2024-02-07T17:39:49.131Z</updated>
     </entry>
 </feed>
