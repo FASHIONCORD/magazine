@@ -1,88 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/moviesandtv</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-02-12T05:40:50.850Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이렇게 빨리 안방에서?! 날짜별로 보는 2024 설 연휴 특선 영화 편성표]]></title>
-        <id>https://www.elle.co.kr/article/84235</id>
-        <link href="https://www.elle.co.kr/article/84235"/>
-        <updated>2024-02-10T05:40:00.202Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설 연휴 새벽까지 정주행! ‘살인자ㅇ난감’과 ‘크씬 리턴즈’가 있는 2월 2주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84219</id>
-        <link href="https://www.elle.co.kr/article/84219"/>
-        <updated>2024-02-09T05:40:14.761Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI가 없었다면 보지 못했을 '웡카'의 세트장]]></title>
-        <id>https://www.elle.co.kr/article/84209</id>
-        <link href="https://www.elle.co.kr/article/84209"/>
-        <updated>2024-02-08T17:40:09.991Z</updated>
-        <content type="html"><![CDATA[이번 설에 직접 확인해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 상반기 넷플릭스, 새 시즌 컴백 드라마와 웹툰 원작 오리지널 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/84194</id>
-        <link href="https://www.elle.co.kr/article/84194"/>
-        <updated>2024-02-07T17:40:31.784Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이거지...!!! 채종협이 일본에서 말아주는 대형견 연하남 로코]]></title>
-        <id>https://www.elle.co.kr/article/84163</id>
-        <link href="https://www.elle.co.kr/article/84163"/>
-        <updated>2024-02-06T17:40:15.328Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고거전' 원정왕후가 '미스터 션샤인' 유진 초이 엄마? 이시아 인생캐 3선 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/84136</id>
-        <link href="https://www.elle.co.kr/article/84136"/>
-        <updated>2024-02-05T17:40:06.724Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정]]></title>
-        <id>https://www.elle.co.kr/article/84135</id>
-        <link href="https://www.elle.co.kr/article/84135"/>
-        <updated>2024-02-05T17:40:06.724Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 만에 돌아오는 '오징어 게임' 시즌2 정보]]></title>
-        <id>https://www.elle.co.kr/article/84122</id>
-        <link href="https://www.elle.co.kr/article/84122"/>
-        <updated>2024-02-05T05:40:00.021Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본인도 깜짝 놀란 유튜버 랄랄의 결혼할 결심 (ft. 예비신랑은 누구?)]]></title>
-        <id>https://www.elle.co.kr/article/84104</id>
-        <link href="https://www.elle.co.kr/article/84104"/>
-        <updated>2024-02-02T17:40:04.162Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 남친과 동업 가능?! 이지아X강기영의 케미가 기대되는 2월 1주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84092</id>
-        <link href="https://www.elle.co.kr/article/84092"/>
-        <updated>2024-02-02T17:40:04.167Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 꼭 봐야 할 패션 시리즈 3]]></title>
-        <id>https://www.elle.co.kr/article/84076</id>
-        <link href="https://www.elle.co.kr/article/84076"/>
-        <updated>2024-02-01T17:40:15.936Z</updated>
-        <content type="html"><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태희부터 박해수까지, 할리우드로 가는 한국 배우 3]]></title>
-        <id>https://www.elle.co.kr/article/84043</id>
-        <link href="https://www.elle.co.kr/article/84043"/>
-        <updated>2024-01-31T17:40:42.738Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요리사 '대장금'이 20년 만에 의사로 돌아온다 (ft. 캐스팅)]]></title>
-        <id>https://www.elle.co.kr/article/84021</id>
-        <link href="https://www.elle.co.kr/article/84021"/>
-        <updated>2024-01-30T17:40:22.768Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 12 Feb 2024 17:41:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이렇게 빨리 안방에서?! 날짜별로 보는 2024 설 연휴 특선 영화 편성표]]></title>
+            <link>https://www.elle.co.kr/article/84235</link>
+            <guid>https://www.elle.co.kr/article/84235</guid>
+            <pubDate>Sat, 10 Feb 2024 05:40:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/10/cc2f9d81-fadf-4438-98af-8a68b7725762.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 연휴 새벽까지 정주행! ‘살인자ㅇ난감’과 ‘크씬 리턴즈’가 있는 2월 2주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/84219</link>
+            <guid>https://www.elle.co.kr/article/84219</guid>
+            <pubDate>Fri, 09 Feb 2024 05:40:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/09/cc3a3598-0a54-4f3c-9a5e-89de05592e7a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI가 없었다면 보지 못했을 '웡카'의 세트장]]></title>
+            <link>https://www.elle.co.kr/article/84209</link>
+            <guid>https://www.elle.co.kr/article/84209</guid>
+            <pubDate>Thu, 08 Feb 2024 17:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[이번 설에 직접 확인해 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/2a00b835-7f58-480e-afa9-b7952774bd94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024년 상반기 넷플릭스, 새 시즌 컴백 드라마와 웹툰 원작 오리지널 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/84194</link>
+            <guid>https://www.elle.co.kr/article/84194</guid>
+            <pubDate>Wed, 07 Feb 2024 17:40:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/3757b0cc-e679-4e4e-add4-ceb308b98a66.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이거지...!!! 채종협이 일본에서 말아주는 대형견 연하남 로코]]></title>
+            <link>https://www.elle.co.kr/article/84163</link>
+            <guid>https://www.elle.co.kr/article/84163</guid>
+            <pubDate>Tue, 06 Feb 2024 17:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['고거전' 원정왕후가 '미스터 션샤인' 유진 초이 엄마? 이시아 인생캐 3선 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/84136</link>
+            <guid>https://www.elle.co.kr/article/84136</guid>
+            <pubDate>Mon, 05 Feb 2024 17:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정]]></title>
+            <link>https://www.elle.co.kr/article/84135</link>
+            <guid>https://www.elle.co.kr/article/84135</guid>
+            <pubDate>Mon, 05 Feb 2024 17:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3년 만에 돌아오는 '오징어 게임' 시즌2 정보]]></title>
+            <link>https://www.elle.co.kr/article/84122</link>
+            <guid>https://www.elle.co.kr/article/84122</guid>
+            <pubDate>Mon, 05 Feb 2024 05:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[본인도 깜짝 놀란 유튜버 랄랄의 결혼할 결심 (ft. 예비신랑은 누구?)]]></title>
+            <link>https://www.elle.co.kr/article/84104</link>
+            <guid>https://www.elle.co.kr/article/84104</guid>
+            <pubDate>Fri, 02 Feb 2024 17:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[전 남친과 동업 가능?! 이지아X강기영의 케미가 기대되는 2월 1주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/84092</link>
+            <guid>https://www.elle.co.kr/article/84092</guid>
+            <pubDate>Fri, 02 Feb 2024 17:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[올해 꼭 봐야 할 패션 시리즈 3]]></title>
+            <link>https://www.elle.co.kr/article/84076</link>
+            <guid>https://www.elle.co.kr/article/84076</guid>
+            <pubDate>Thu, 01 Feb 2024 17:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[크리스토발 발렌시아가부터 제인 버킨, 가브리엘 샤넬까지.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김태희부터 박해수까지, 할리우드로 가는 한국 배우 3]]></title>
+            <link>https://www.elle.co.kr/article/84043</link>
+            <guid>https://www.elle.co.kr/article/84043</guid>
+            <pubDate>Wed, 31 Jan 2024 17:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[요리사 '대장금'이 20년 만에 의사로 돌아온다 (ft. 캐스팅)]]></title>
+            <link>https://www.elle.co.kr/article/84021</link>
+            <guid>https://www.elle.co.kr/article/84021</guid>
+            <pubDate>Tue, 30 Jan 2024 17:40:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
