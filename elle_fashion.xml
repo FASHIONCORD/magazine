@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-12T17:41:02.032Z</updated>
+    <updated>2024-02-13T05:41:17.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 핫한 스타킹, 어디까지 신어봤니?]]></title>
+        <id>https://www.elle.co.kr/article/84233</id>
+        <link href="https://www.elle.co.kr/article/84233"/>
+        <updated>2024-02-13T05:40:14.312Z</updated>
+        <content type="html"><![CDATA[느낌 있는 데일리룩의 치트키 스타킹 스타일 모음.zip]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도도한 고양이 같은 레더 스커트]]></title>
         <id>https://www.elle.co.kr/article/84222</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/84199"/>
         <updated>2024-02-09T05:39:24.697Z</updated>
         <content type="html"><![CDATA[유나, 리사, 혜리의 매력적인 사복 패션 치트키는 바로 오프숄더!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이렇게 짧아도 돼?]]></title>
-        <id>https://www.elle.co.kr/article/84197</id>
-        <link href="https://www.elle.co.kr/article/84197"/>
-        <updated>2024-02-09T05:39:24.700Z</updated>
-        <content type="html"><![CDATA[패션 트렌드의 흐름이 짧게, 더 짧게를 외치고 있다! 손바닥보다 짧은 마이크로 미니 쇼츠의 범...]]></content>
     </entry>
 </feed>

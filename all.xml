@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 17:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 05:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1888,6 +1888,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MThfMTQ1/MDAxNTg5Nzg0NDc2NDAx.QY_61IVEK1k9AB7oK1VQbl3SrY0m8uMD5Afxi7Hjp8wg.tWTNXcegfwoEi6moOwc3GVntzYBq27_BEZS_cBnUJHkg.JPEG/ITEXuKrooYq_XRMTGCW3MUexy8QA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 핫한 스타킹, 어디까지 신어봤니? (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84233</link>
+            <guid>https://www.elle.co.kr/article/84233</guid>
+            <pubDate>Tue, 13 Feb 2024 05:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[느낌 있는 데일리룩의 치트키 스타킹 스타일 모음.zip]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[도도한 고양이 같은 레더 스커트 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84222</link>
             <guid>https://www.elle.co.kr/article/84222</guid>
@@ -1936,11 +1943,10 @@
             <content:encoded><![CDATA[유나, 리사, 혜리의 매력적인 사복 패션 치트키는 바로 오프숄더!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이렇게 짧아도 돼? (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84197</link>
-            <guid>https://www.elle.co.kr/article/84197</guid>
-            <pubDate>Fri, 09 Feb 2024 05:39:24 GMT</pubDate>
-            <content:encoded><![CDATA[패션 트렌드의 흐름이 짧게, 더 짧게를 외치고 있다! 손바닥보다 짧은 마이크로 미니 쇼츠의 범...]]></content:encoded>
+            <title><![CDATA[설 연휴 급하게 찐 살 급하게 빼려면? 스타들의 스피드 감량 식단 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84190</link>
+            <guid>https://www.elle.co.kr/article/84190</guid>
+            <pubDate>Thu, 08 Feb 2024 17:39:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[추운 마음까지 녹여줄 2월의 뷰티 신상 10 (엘르 코리아 ─ 뷰티)]]></title>
@@ -1992,11 +1998,11 @@
             <content:encoded><![CDATA[나만의 느낌을 찾는 여정. 나이키 웰 콜렉티브와 함께한 하루]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SO ICY! 여돌들이 푹 빠진 이 메이크업은? (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/84107</link>
-            <guid>https://www.elle.co.kr/article/84107</guid>
-            <pubDate>Tue, 06 Feb 2024 05:39:25 GMT</pubDate>
-            <content:encoded><![CDATA['여돌'들의 메이크업은 여전히 겨울!]]></content:encoded>
+            <title><![CDATA[신세경이 알려주는 구움과자 레서피 3 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84218</link>
+            <guid>https://www.elle.co.kr/article/84218</guid>
+            <pubDate>Tue, 13 Feb 2024 05:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[연휴에 베이킹 어때요? 여유롭게 집에서 만들어 먹기에도, 설 선물로도 좋은 신세경표 구움과자...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[깊은 밤 설산에서 펼쳐진 몽클레르 그레노블 컬렉션이 화제인 이유 (엘르 코리아 ─ 스타)]]></title>
@@ -2040,12 +2046,6 @@
             <link>https://www.elle.co.kr/article/84163</link>
             <guid>https://www.elle.co.kr/article/84163</guid>
             <pubDate>Tue, 06 Feb 2024 17:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[마동석 포털 프로필 사진의 숨은 비밀 (ft. 아내) (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84161</link>
-            <guid>https://www.elle.co.kr/article/84161</guid>
-            <pubDate>Thu, 08 Feb 2024 17:39:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024년 상반기 넷플릭스, 새 시즌 컴백 드라마와 웹툰 원작 오리지널 정보.txt (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2186,14 +2186,12 @@
             <link>https://www.elle.co.kr/article/84235</link>
             <guid>https://www.elle.co.kr/article/84235</guid>
             <pubDate>Sat, 10 Feb 2024 05:40:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/10/cc2f9d81-fadf-4438-98af-8a68b7725762.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설 연휴 새벽까지 정주행! ‘살인자ㅇ난감’과 ‘크씬 리턴즈’가 있는 2월 2주차 #신작이OnAir (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84219</link>
             <guid>https://www.elle.co.kr/article/84219</guid>
             <pubDate>Fri, 09 Feb 2024 05:40:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/09/cc3a3598-0a54-4f3c-9a5e-89de05592e7a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 없었다면 보지 못했을 '웡카'의 세트장 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
@@ -2201,14 +2199,12 @@
             <guid>https://www.elle.co.kr/article/84209</guid>
             <pubDate>Thu, 08 Feb 2024 17:40:09 GMT</pubDate>
             <content:encoded><![CDATA[이번 설에 직접 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/2a00b835-7f58-480e-afa9-b7952774bd94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024년 상반기 넷플릭스, 새 시즌 컴백 드라마와 웹툰 원작 오리지널 정보.txt (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84194</link>
             <guid>https://www.elle.co.kr/article/84194</guid>
             <pubDate>Wed, 07 Feb 2024 17:40:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/3757b0cc-e679-4e4e-add4-ceb308b98a66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이거지...!!! 채종협이 일본에서 말아주는 대형견 연하남 로코 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
