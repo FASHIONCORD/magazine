@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 17:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 05:41:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1896,6 +1896,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MThfMTQ1/MDAxNTg5Nzg0NDc2NDAx.QY_61IVEK1k9AB7oK1VQbl3SrY0m8uMD5Afxi7Hjp8wg.tWTNXcegfwoEi6moOwc3GVntzYBq27_BEZS_cBnUJHkg.JPEG/ITEXuKrooYq_XRMTGCW3MUexy8QA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요조숙녀처럼 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84225</link>
+            <guid>https://www.elle.co.kr/article/84225</guid>
+            <pubDate>Wed, 14 Feb 2024 05:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[40년대 레이디라이크 무드 속으로.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[요트에 올라탄 서머 트렌드 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84226</link>
             <guid>https://www.elle.co.kr/article/84226</guid>
@@ -1942,13 +1949,6 @@
             <guid>https://www.elle.co.kr/article/84209</guid>
             <pubDate>Thu, 08 Feb 2024 17:40:09 GMT</pubDate>
             <content:encoded><![CDATA[이번 설에 직접 확인해 보세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올해 당신의 목표는? 보통과는 다른 새해 다짐별 선물 4 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84202</link>
-            <guid>https://www.elle.co.kr/article/84202</guid>
-            <pubDate>Thu, 08 Feb 2024 05:40:22 GMT</pubDate>
-            <content:encoded><![CDATA[사랑하고 싶은 사람, 개성 찾고 싶은 사람 모여라. 루이자비아로마에서 골라보는 새해 선물 리스...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[설 연휴 급하게 찐 살 급하게 빼려면? 스타들의 스피드 감량 식단 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -2276,7 +2276,6 @@
             <guid>https://www.elle.co.kr/article/84258</guid>
             <pubDate>Tue, 13 Feb 2024 17:40:07 GMT</pubDate>
             <content:encoded><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/13/3ae0d9e7-e120-40d4-bf20-1d0b0420226b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 당신의 목표는? 보통과는 다른 새해 다짐별 선물 4 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2284,7 +2283,6 @@
             <guid>https://www.elle.co.kr/article/84202</guid>
             <pubDate>Thu, 08 Feb 2024 05:40:22 GMT</pubDate>
             <content:encoded><![CDATA[사랑하고 싶은 사람, 개성 찾고 싶은 사람 모여라. 루이자비아로마에서 골라보는 새해 선물 리스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/b9f92b32-84ef-4988-a53b-eaa0809e59ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위대한 유산 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2292,7 +2290,6 @@
             <guid>https://www.elle.co.kr/article/84148</guid>
             <pubDate>Tue, 06 Feb 2024 05:40:09 GMT</pubDate>
             <content:encoded><![CDATA[&lt;반클리프 아펠: 시간, 자연, 사랑&gt; 전시 디렉터 알렉산드린 마비엘 소네와 나눈 대화.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/5831c5b1-f7c2-4a81-9870-7d06e5b52bc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭔가 다른 미술관 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2300,7 +2297,6 @@
             <guid>https://www.elle.co.kr/article/84096</guid>
             <pubDate>Fri, 02 Feb 2024 17:40:13 GMT</pubDate>
             <content:encoded><![CDATA[보석 같은 아티스트의 작품만 감상하러 미술관에 가는 건 아니잖아요? 건축적인 아름다움과 그림...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/2e572376-8da7-4101-ac10-3363ebe0212d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 꼭 봐야 할 패션 시리즈 3 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2367,7 +2363,6 @@
             <link>https://www.elle.co.kr/article/84210</link>
             <guid>https://www.elle.co.kr/article/84210</guid>
             <pubDate>Tue, 13 Feb 2024 17:40:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/d428342f-9eff-4bc3-bd2a-57b0c6be7eda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 없었다면 보지 못했을 '웡카'의 세트장 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -2375,14 +2370,12 @@
             <guid>https://www.elle.co.kr/article/84209</guid>
             <pubDate>Thu, 08 Feb 2024 17:40:09 GMT</pubDate>
             <content:encoded><![CDATA[이번 설에 직접 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/2a00b835-7f58-480e-afa9-b7952774bd94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 설 4일 연휴, 그저 푹 쉬고 싶은 사람이라면? 호캉스 추천 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84158</link>
             <guid>https://www.elle.co.kr/article/84158</guid>
             <pubDate>Fri, 09 Feb 2024 17:40:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/07/8c613997-7622-4fd1-aa90-38a85e2e4f3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔에도 영혼이 있다면, 자누도쿄 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -2390,7 +2383,6 @@
             <guid>https://www.elle.co.kr/article/84137</guid>
             <pubDate>Fri, 09 Feb 2024 17:40:35 GMT</pubDate>
             <content:encoded><![CDATA[어쩌면 우리가 호텔에 바라는 건, 품격 있는 평화일지도 모른다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/06/eb884ba5-6621-42dc-9966-27f39afa6057.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맛있는 설 선물 6가지 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -2398,14 +2390,12 @@
             <guid>https://www.elle.co.kr/article/84066</guid>
             <pubDate>Fri, 09 Feb 2024 05:40:30 GMT</pubDate>
             <content:encoded><![CDATA[당신께 고운 마음으로 건넬 맛있는 설날 선물 여섯 가지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/b7ac35c1-cd2e-4199-a020-39c3831eeac9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손흥민X이강인X조규성의 추천 맛집 3 #가볼만한곳 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
             <link>https://www.elle.co.kr/article/84101</link>
             <guid>https://www.elle.co.kr/article/84101</guid>
             <pubDate>Mon, 05 Feb 2024 05:39:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/aff2e4e1-3bf3-4f27-9206-7deb0e8f8bbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭔가 다른 미술관 #도쿄핫플 (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -2413,7 +2403,6 @@
             <guid>https://www.elle.co.kr/article/84096</guid>
             <pubDate>Fri, 02 Feb 2024 17:40:13 GMT</pubDate>
             <content:encoded><![CDATA[보석 같은 아티스트의 작품만 감상하러 미술관에 가는 건 아니잖아요? 건축적인 아름다움과 그림...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/2e572376-8da7-4101-ac10-3363ebe0212d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오픈AI에 취직한 예술가는 한 달간 무엇을 했을까? (엘르 코리아 ─ 컬쳐 ─ 러브&라이프)]]></title>
@@ -2421,7 +2410,6 @@
             <guid>https://www.elle.co.kr/article/84067</guid>
             <pubDate>Tue, 06 Feb 2024 17:40:33 GMT</pubDate>
             <content:encoded><![CDATA[AI 회사의 예술가 1]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/02520777-9924-4050-99ef-73654c00b3cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숨, 그리고 연결. 나이키가 서울에서 이야기한 진짜 웰니스 (엘르 코리아 ─ 소사이어티)]]></title>
