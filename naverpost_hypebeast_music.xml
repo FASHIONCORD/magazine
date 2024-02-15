@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음악</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 05:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 17:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4만5천 원 이하의 서울 맛집 57곳 선정한 ‘미쉐린 가이드 빕 구르망 2024’ 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37342371&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37342371&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 15 Feb 2024 17:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTVfNzUg/MDAxNzA3OTk4MTQ1MjI3.mgiU-NgkA8PJT0axpAIK5Spb8b48lW1kNXkWyYoC2V0g.E1fxOTDol4CQldg7Sc4JapmepsAs3wpAliud2LAjzaMg.JPEG/IIrdCUsiWCt1OoJiB1ojDvM3bk74.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스포티파이에서 전곡이 3억 이상 스트리밍을 기록한 최초의 앨범이 등장했다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37234448&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 05 Feb 2023 05:40:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDNfMjQg/MDAxNjc1MzkyOTIyNTMy.8t2SaDod_9TpLPiTsXDYiYCrl8ZqxcbHAmkuOPxnCbQg.JwZ1wdCNmyQFsl9ZZ-MNGfTziJJmCMuMlmW-jR8Ch8Mg.JPEG/IgimmXdM02wpqB_UteR7JmopTEaw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로듀서, A&R 등 음악 관계자가 꼽은 ‘2023년 주목할 아티스트’ 10]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35268277&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35268277&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Sun, 05 Feb 2023 05:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjdfMjcz/MDAxNjc0ODAyODM3MTIz.DWyz_7Aa_G0IunfeyxxQ6Tj5Jc4nbKLBB_RspgIK67og.M_8wJmVoh94zCsDGeTP4LZbqJDzNuoN5EDAQVFxvmFIg.JPEG/IPaSk7IKXgcnHFGj6dzSR4CdzRiE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
