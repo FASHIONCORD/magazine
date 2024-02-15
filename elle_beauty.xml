@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-14T17:40:47.006Z</updated>
+    <updated>2024-02-15T05:40:37.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핑쿠 핑쿠해! 뷰덕들이 홀릭하는 '에이오유' 사과밤의 탄생 비하인드는?]]></title>
+        <id>https://www.elle.co.kr/article/84228</id>
+        <link href="https://www.elle.co.kr/article/84228"/>
+        <updated>2024-02-15T05:39:27.827Z</updated>
+        <content type="html"><![CDATA[뷰티 업계의 신흥 강자로 떠오른 K뷰티 브랜드를 파헤치는 &lt;엘르&gt;의 무드보드 칼럼! 이번에 &lt;엘르...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['봄웜' 찰떡! 올해의 컬러 '피치 퍼즈' 뷰티템 모음ZIP]]></title>
         <id>https://www.elle.co.kr/article/84224</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84138"/>
         <updated>2024-02-08T17:39:37.306Z</updated>
         <content type="html"><![CDATA[코로나19 이후 달라진 뷰티 업계의 변화를 이끄는 국내 대표 온라인 플랫폼 관계자들과 그 안에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나만 알고 싶은 윤혜진의 피부 비결은? 스팀 타월 세안법 HOW TO]]></title>
-        <id>https://www.elle.co.kr/article/84121</id>
-        <link href="https://www.elle.co.kr/article/84121"/>
-        <updated>2024-02-07T17:39:40.531Z</updated>
-        <content type="html"><![CDATA[다양한 외부 자극으로부터 지친 피부를 건강하게 유지하기 위한 윤혜진의 클렌징 루틴을 따라 해...]]></content>
     </entry>
 </feed>

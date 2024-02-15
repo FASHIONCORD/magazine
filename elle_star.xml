@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-14T17:40:47.016Z</updated>
+    <updated>2024-02-15T05:40:37.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유가 탕웨이 엄마로 변신한다고?!]]></title>
+        <id>https://www.elle.co.kr/article/84256</id>
+        <link href="https://www.elle.co.kr/article/84256"/>
+        <updated>2024-02-15T05:39:36.174Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[친근 그 자체인 이효리의 설날 풍경.jpg]]></title>
         <id>https://www.elle.co.kr/article/84248</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/84213"/>
         <updated>2024-02-11T05:40:09.937Z</updated>
         <content type="html"><![CDATA[글로벌 앰버서더 황민현과 스위스 생모리츠에서 만난 2024 FW 몽클레르 그레노블 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 믿기지 않는 제시 린가드 FC서울 입단, 그가 이적한 진짜 이유]]></title>
-        <id>https://www.elle.co.kr/article/84212</id>
-        <link href="https://www.elle.co.kr/article/84212"/>
-        <updated>2024-02-10T05:39:32.908Z</updated>
     </entry>
 </feed>

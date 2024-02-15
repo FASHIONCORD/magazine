@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-14T17:40:46.999Z</updated>
+    <updated>2024-02-15T05:40:37.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제는 필수템이자 클래식 액세서리, 실버백 쇼핑 리스트 7]]></title>
+        <id>https://www.elle.co.kr/article/84247</id>
+        <link href="https://www.elle.co.kr/article/84247"/>
+        <updated>2024-02-15T05:39:17.437Z</updated>
+        <content type="html"><![CDATA[실버 이즈 뉴 블랙!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자유로운 영혼]]></title>
+        <id>https://www.elle.co.kr/article/84230</id>
+        <link href="https://www.elle.co.kr/article/84230"/>
+        <updated>2024-02-15T05:39:17.437Z</updated>
+        <content type="html"><![CDATA[서머 룩을 겨냥해 마르케시에서 마주칠 법한 보호(Boho)룩이 런웨이에 귀환했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한여름의 LBD]]></title>
         <id>https://www.elle.co.kr/article/84227</id>
@@ -45,19 +59,5 @@
         <id>https://www.elle.co.kr/article/84220</id>
         <link href="https://www.elle.co.kr/article/84220"/>
         <updated>2024-02-11T17:39:32.260Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반짝이는 것이 좋아!]]></title>
-        <id>https://www.elle.co.kr/article/84181</id>
-        <link href="https://www.elle.co.kr/article/84181"/>
-        <updated>2024-02-10T17:40:12.192Z</updated>
-        <content type="html"><![CDATA[별빛처럼 빛나는.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[깊은 밤 설산에서 펼쳐진 몽클레르 그레노블 컬렉션이 화제인 이유]]></title>
-        <id>https://www.elle.co.kr/article/84213</id>
-        <link href="https://www.elle.co.kr/article/84213"/>
-        <updated>2024-02-10T17:40:12.193Z</updated>
-        <content type="html"><![CDATA[글로벌 앰버서더 황민현과 스위스 생모리츠에서 만난 2024 FW 몽클레르 그레노블 컬렉션.]]></content>
     </entry>
 </feed>
