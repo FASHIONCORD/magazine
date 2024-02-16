@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2024-02-15T17:40:37.468Z</updated>
+    <updated>2024-02-16T05:40:40.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선]]></title>
+        <id>https://www.elle.co.kr/article/84315</id>
+        <link href="https://www.elle.co.kr/article/84315"/>
+        <updated>2024-02-16T05:40:23.045Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시]]></title>
         <id>https://www.elle.co.kr/article/84308</id>
@@ -85,11 +91,5 @@
         <link href="https://www.elle.co.kr/article/83684"/>
         <updated>2024-01-16T05:40:37.570Z</updated>
         <content type="html"><![CDATA[전통과 고증, 때로는 상상력을 토대로 탄생한 2024년 'K'에 대한 지속적 논의.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흔적으로 지은 덩어리: 정현 개인전 #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/83683</id>
-        <link href="https://www.elle.co.kr/article/83683"/>
-        <updated>2024-01-16T05:40:37.571Z</updated>
     </entry>
 </feed>

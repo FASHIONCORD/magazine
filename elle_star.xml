@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-15T17:40:37.437Z</updated>
+    <updated>2024-02-16T05:40:40.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가장 이효리다웠던 국민대 졸업식 축사.txt]]></title>
+        <id>https://www.elle.co.kr/article/84287</id>
+        <link href="https://www.elle.co.kr/article/84287"/>
+        <updated>2024-02-16T05:39:30.764Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한소희와 나탈리 포트만?! 해외 배우들과 투샷 남긴 스타 3]]></title>
+        <id>https://www.elle.co.kr/article/84283</id>
+        <link href="https://www.elle.co.kr/article/84283"/>
+        <updated>2024-02-16T05:39:30.765Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모두가 울컥! 이은형X강재준 부부가 7년 만에 전한 소식]]></title>
         <id>https://www.elle.co.kr/article/84282</id>
@@ -41,17 +53,5 @@
         <id>https://www.elle.co.kr/article/84235</id>
         <link href="https://www.elle.co.kr/article/84235"/>
         <updated>2024-02-14T17:39:56.627Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유X유재석이 공유하는 뜻밖의 공통점]]></title>
-        <id>https://www.elle.co.kr/article/84234</id>
-        <link href="https://www.elle.co.kr/article/84234"/>
-        <updated>2024-02-14T17:39:56.629Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설 연휴 새벽까지 정주행! ‘살인자ㅇ난감’과 ‘크씬 리턴즈’가 있는 2월 2주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84219</id>
-        <link href="https://www.elle.co.kr/article/84219"/>
-        <updated>2024-02-13T17:39:27.059Z</updated>
     </entry>
 </feed>

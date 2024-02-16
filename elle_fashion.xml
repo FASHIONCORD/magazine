@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-15T17:40:37.466Z</updated>
+    <updated>2024-02-16T05:40:40.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비비드 컬러 무브]]></title>
+        <id>https://www.elle.co.kr/article/84280</id>
+        <link href="https://www.elle.co.kr/article/84280"/>
+        <updated>2024-02-16T05:39:13.517Z</updated>
+        <content type="html"><![CDATA[형형색색의 액세서리 군단.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금부터 봄까지 기억해야 할 단어, ‘비즈니스 코어’]]></title>
+        <id>https://www.elle.co.kr/article/84262</id>
+        <link href="https://www.elle.co.kr/article/84262"/>
+        <updated>2024-02-16T05:39:13.518Z</updated>
+        <content type="html"><![CDATA[새로운 시즌의 시작을 앞둔 지금, 테일러링에 기반한 메가 트렌드 '비즈니스 코어'를 일상에서 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30년 된 램프부터, 전열 테이프로 칭칭 감은 카메라까지. 엘르편집부의 오래된 취향]]></title>
         <id>https://www.elle.co.kr/article/84261</id>
@@ -46,19 +60,5 @@
         <link href="https://www.elle.co.kr/article/84225"/>
         <updated>2024-02-14T05:39:59.405Z</updated>
         <content type="html"><![CDATA[40년대 레이디라이크 무드 속으로.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 핫한 스타킹, 어디까지 신어봤니?]]></title>
-        <id>https://www.elle.co.kr/article/84233</id>
-        <link href="https://www.elle.co.kr/article/84233"/>
-        <updated>2024-02-13T05:40:14.312Z</updated>
-        <content type="html"><![CDATA[느낌 있는 데일리룩의 치트키 스타킹 스타일 모음.zip]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도도한 고양이 같은 레더 스커트]]></title>
-        <id>https://www.elle.co.kr/article/84222</id>
-        <link href="https://www.elle.co.kr/article/84222"/>
-        <updated>2024-02-12T17:39:31.335Z</updated>
-        <content type="html"><![CDATA[흐트러짐 없는 우아한 실루엣.]]></content>
     </entry>
 </feed>

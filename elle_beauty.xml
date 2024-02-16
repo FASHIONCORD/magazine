@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-15T17:40:37.456Z</updated>
+    <updated>2024-02-16T05:40:40.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피부에 꽃이 피었습니다! 꽃 추출물과 스킨케어의 만남_선배’s 어드바이스 #207]]></title>
+        <id>https://www.elle.co.kr/article/84255</id>
+        <link href="https://www.elle.co.kr/article/84255"/>
+        <updated>2024-02-16T05:39:21.232Z</updated>
+        <content type="html"><![CDATA[꽃의 힘으로 안티에이징부터 브라이트닝, 진정, 보습까지!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배우 차예련의 피부 비결은? 매일 진행하는 모닝 루틴이 답!]]></title>
         <id>https://www.elle.co.kr/article/84241</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84167"/>
         <updated>2024-02-11T17:39:40.355Z</updated>
         <content type="html"><![CDATA[치약은 효과만 확실하면 된다는 구시대적 발상은 그만!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남성 화장품의 모든 것_선배’s 어드바이스 #206]]></title>
-        <id>https://www.elle.co.kr/article/84146</id>
-        <link href="https://www.elle.co.kr/article/84146"/>
-        <updated>2024-02-09T17:39:27.179Z</updated>
-        <content type="html"><![CDATA[투명하게 빛나는 남배우 피부, 비결이 궁금해?]]></content>
     </entry>
 </feed>
