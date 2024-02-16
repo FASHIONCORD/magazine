@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 05:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 17:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, ‘난감한 이름 대회’ 수상자 명단 공개]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37347912&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37347912&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 16 Feb 2024 17:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTZfMjM3/MDAxNzA4MDgyNTIzMjkz.9t2fPHesIoMGB4gK0DWRXP9Oyvg0rtgKI2PX-Y6ie2Eg.63a1GLG9fLygzmOTYsrhuJMdNWNCWqFoIojNBegG7qYg.JPEG/IxIyneyWZJajp4qElTToMcoRjUhc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘혹성탈출: 새로운 시대’ 슈퍼볼 예고편 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37336877&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 17:39:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTNfMTU4/MDAxNzA1MDc0OTgyMDg3.o2_UlXumlmpnfjd7CJZlO9hHQ8amufQHoUuoWXRHxGgg.zxNXjyHuoPNKj2fyC0VzX234NI8Ij4Ug2jXoy8Kwxasg.JPEG/IRFnfPo2IVSI0NZhQ3tjT9-jzma4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비상구 유도등 안내 표시에 치마 입은 여성도 등장한다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37182894&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37182894&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 12 Jan 2024 17:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTNfMjcw/MDAxNzA1MDc0MzkwMjYy.ueI7xTLZE1k681Wt6VYXLDD8FuTu1WWnv42zWWvtTD0g.mWz_xrucDaIAsZkeTOdfqKNkOgVId4OLOsX0tNVRf7Ig.JPEG/IU0vTa75F46-q5Jlt0HpiYFBK9Bs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

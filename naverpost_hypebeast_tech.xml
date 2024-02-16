@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 전자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 05:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 17:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 최저 30만 원대 저가형 스마트폰 출시 예정]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37347925&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37347925&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 16 Feb 2024 17:39:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTZfMTEy/MDAxNzA4MDgyOTA4NTMw.WHOlYY_xsDTf4VAyJz7qx4L3QnnH-vSg3rRor59S0cUg.FDw2i6XLXNoEFJHGdXISmutA47jE9S8oyK2V2pfCZj8g.JPEG/I2fQlIaezS3dD1ZOVlF7yMiqORjI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[챗GPT-4, 스테이블 디퓨전을 비롯한 AI 탑재 스마트 안경이 출시됐다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37336892&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Dec 2023 17:38:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMzMg/MDAxNzAxNDE2MzIxOTA0.-wfjJBga7FYKxslydhYRbRiKwMeS_Hk8eflI_56mV5Mg.-CXkz7mkDV-i7LXl8noCOiR-_yzzKo2jPK2Z9hxGGDog.JPEG/IsgZGA0ppo6lwudFAxYjeBGoxGSY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 아이폰 16, 터치 ID 부활 안 한다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36931759&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36931759&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Thu, 23 Nov 2023 17:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjdfOTkg/MDAxNzAxMDc4NTMyNTcx.4O_WquwK0kVOmBR8rIKZowqQTFHq0ANht6UgZG9WoMMg.xZgowsXIsEYokSB6PelL19rYAqPpRH2hx-tS4DaTZWYg.JPEG/IzGsk1L3R8adZeOjeNcxOxweziAs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
