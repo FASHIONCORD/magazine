@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-17T05:40:53.326Z</updated>
+    <updated>2024-02-17T17:40:46.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20kg 가까이 빼고 벌크업 성공한 스윙스의 관리 비결 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84281</id>
+        <link href="https://www.elle.co.kr/article/84281"/>
+        <updated>2024-02-17T17:39:32.992Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피부에 꽃이 피었습니다! 꽃 추출물과 스킨케어의 만남_선배’s 어드바이스 #207]]></title>
         <id>https://www.elle.co.kr/article/84255</id>
@@ -51,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/84180"/>
         <updated>2024-02-12T05:39:49.852Z</updated>
         <content type="html"><![CDATA[아직은 춥고 공허한 2월, 따스한 봄을 기다리며 메마른 피부에 꽃을 피워줄 2월의 뷰티 신상.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['힙'하게 치카치카 타임! 예쁜데 맛도 좋은 요즘 치약 4]]></title>
-        <id>https://www.elle.co.kr/article/84167</id>
-        <link href="https://www.elle.co.kr/article/84167"/>
-        <updated>2024-02-11T17:39:40.355Z</updated>
-        <content type="html"><![CDATA[치약은 효과만 확실하면 된다는 구시대적 발상은 그만!]]></content>
     </entry>
 </feed>

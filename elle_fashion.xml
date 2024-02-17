@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-17T05:40:53.315Z</updated>
+    <updated>2024-02-17T17:40:46.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유머러스한 플라워 트렌드]]></title>
+        <id>https://www.elle.co.kr/article/84293</id>
+        <link href="https://www.elle.co.kr/article/84293"/>
+        <updated>2024-02-17T17:39:22.988Z</updated>
+        <content type="html"><![CDATA[옷차림으로 즐기는 가드닝 코드.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미리 만나는 션 맥기르의 알렉산더 맥퀸]]></title>
         <id>https://www.elle.co.kr/article/84297</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84230"/>
         <updated>2024-02-15T05:39:17.437Z</updated>
         <content type="html"><![CDATA[서머 룩을 겨냥해 마르케시에서 마주칠 법한 보호(Boho)룩이 런웨이에 귀환했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한여름의 LBD]]></title>
-        <id>https://www.elle.co.kr/article/84227</id>
-        <link href="https://www.elle.co.kr/article/84227"/>
-        <updated>2024-02-14T17:39:40.921Z</updated>
-        <content type="html"><![CDATA[이번 여름은 리틀블랙드레스를 마음껏 즐겨볼 때.]]></content>
     </entry>
 </feed>
