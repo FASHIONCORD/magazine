@@ -1,66 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 17:40:53 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[조커X할리퀸 투샷이 공개됐다]]></title>
-            <link>https://www.elle.co.kr/article/84306</link>
-            <guid>https://www.elle.co.kr/article/84306</guid>
-            <pubDate>Fri, 16 Feb 2024 17:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 파리 하계 올림픽 메달에 숨겨진 비밀]]></title>
-            <link>https://www.elle.co.kr/article/84285</link>
-            <guid>https://www.elle.co.kr/article/84285</guid>
-            <pubDate>Fri, 16 Feb 2024 17:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[쿠킹 북 vs 앞치마, 나의 요리 세포를 깨우는 아이템은? #취향의발견_5]]></title>
-            <link>https://www.elle.co.kr/article/84275</link>
-            <guid>https://www.elle.co.kr/article/84275</guid>
-            <pubDate>Fri, 16 Feb 2024 17:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이케아가 영감을 받았다는 그 아티스트]]></title>
-            <link>https://www.elle.co.kr/article/84258</link>
-            <guid>https://www.elle.co.kr/article/84258</guid>
-            <pubDate>Fri, 16 Feb 2024 05:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 빨리 안방에서?! 날짜별로 보는 2024 설 연휴 특선 영화 편성표]]></title>
-            <link>https://www.elle.co.kr/article/84235</link>
-            <guid>https://www.elle.co.kr/article/84235</guid>
-            <pubDate>Thu, 15 Feb 2024 17:40:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/10/cc2f9d81-fadf-4438-98af-8a68b7725762.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 연휴 새벽까지 정주행! ‘살인자ㅇ난감’과 ‘크씬 리턴즈’가 있는 2월 2주차 #신작이OnAir]]></title>
-            <link>https://www.elle.co.kr/article/84219</link>
-            <guid>https://www.elle.co.kr/article/84219</guid>
-            <pubDate>Thu, 15 Feb 2024 17:40:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/09/cc3a3598-0a54-4f3c-9a5e-89de05592e7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 믿기지 않는 제시 린가드 FC서울 입단, 그가 이적한 진짜 이유]]></title>
-            <link>https://www.elle.co.kr/article/84212</link>
-            <guid>https://www.elle.co.kr/article/84212</guid>
-            <pubDate>Thu, 15 Feb 2024 05:39:51 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/b5e626e8-67bd-4309-980f-bf7444650784.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI가 없었다면 보지 못했을 '웡카'의 세트장]]></title>
-            <link>https://www.elle.co.kr/article/84209</link>
-            <guid>https://www.elle.co.kr/article/84209</guid>
-            <pubDate>Thu, 15 Feb 2024 05:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[이번 설에 직접 확인해 보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/08/2a00b835-7f58-480e-afa9-b7952774bd94.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2024-02-17T05:40:53.323Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조커X할리퀸 투샷이 공개됐다]]></title>
+        <id>https://www.elle.co.kr/article/84306</id>
+        <link href="https://www.elle.co.kr/article/84306"/>
+        <updated>2024-02-16T17:40:14.600Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 파리 하계 올림픽 메달에 숨겨진 비밀]]></title>
+        <id>https://www.elle.co.kr/article/84285</id>
+        <link href="https://www.elle.co.kr/article/84285"/>
+        <updated>2024-02-16T17:40:14.601Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠킹 북 vs 앞치마, 나의 요리 세포를 깨우는 아이템은? #취향의발견_5]]></title>
+        <id>https://www.elle.co.kr/article/84275</id>
+        <link href="https://www.elle.co.kr/article/84275"/>
+        <updated>2024-02-16T17:40:14.609Z</updated>
+        <content type="html"><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이케아가 영감을 받았다는 그 아티스트]]></title>
+        <id>https://www.elle.co.kr/article/84258</id>
+        <link href="https://www.elle.co.kr/article/84258"/>
+        <updated>2024-02-16T05:39:41.126Z</updated>
+        <content type="html"><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이렇게 빨리 안방에서?! 날짜별로 보는 2024 설 연휴 특선 영화 편성표]]></title>
+        <id>https://www.elle.co.kr/article/84235</id>
+        <link href="https://www.elle.co.kr/article/84235"/>
+        <updated>2024-02-15T17:40:00.788Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설 연휴 새벽까지 정주행! ‘살인자ㅇ난감’과 ‘크씬 리턴즈’가 있는 2월 2주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/84219</id>
+        <link href="https://www.elle.co.kr/article/84219"/>
+        <updated>2024-02-15T17:40:00.788Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 믿기지 않는 제시 린가드 FC서울 입단, 그가 이적한 진짜 이유]]></title>
+        <id>https://www.elle.co.kr/article/84212</id>
+        <link href="https://www.elle.co.kr/article/84212"/>
+        <updated>2024-02-15T05:39:51.697Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI가 없었다면 보지 못했을 '웡카'의 세트장]]></title>
+        <id>https://www.elle.co.kr/article/84209</id>
+        <link href="https://www.elle.co.kr/article/84209"/>
+        <updated>2024-02-15T05:39:51.700Z</updated>
+        <content type="html"><![CDATA[이번 설에 직접 확인해 보세요.]]></content>
+    </entry>
+</feed>
