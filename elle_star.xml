@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-19T05:41:19.754Z</updated>
+    <updated>2024-02-19T17:40:47.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재의 하프 타임]]></title>
+        <id>https://www.elle.co.kr/article/84314</id>
+        <link href="https://www.elle.co.kr/article/84314"/>
+        <updated>2024-02-19T17:39:46.460Z</updated>
+        <content type="html"><![CDATA[&lt;엘르&gt; 3월호 커버를 장식한 이정재. 맹렬히 달려가는 시간 뒤편 포착한 그의 여유로운 시간.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[발레 입문자를 위한 채정안의 잇템 6]]></title>
+        <id>https://www.elle.co.kr/article/84313</id>
+        <link href="https://www.elle.co.kr/article/84313"/>
+        <updated>2024-02-19T17:39:46.461Z</updated>
+        <content type="html"><![CDATA[헬스장이 지겨워졌다면 발레에 도전해 보는 것은 어떨까요? 4년째 취미 발레를 즐기는 채정안이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천국의 계단'을 무려 1000개나? 손나은의 관리 비결 총정리 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/84307</id>
@@ -41,17 +55,5 @@
         <id>https://www.elle.co.kr/article/84282</id>
         <link href="https://www.elle.co.kr/article/84282"/>
         <updated>2024-02-15T17:39:53.801Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20kg 가까이 빼고 벌크업 성공한 스윙스의 관리 비결 #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84281</id>
-        <link href="https://www.elle.co.kr/article/84281"/>
-        <updated>2024-02-15T17:39:53.802Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유가 탕웨이 엄마로 변신한다고?!]]></title>
-        <id>https://www.elle.co.kr/article/84256</id>
-        <link href="https://www.elle.co.kr/article/84256"/>
-        <updated>2024-02-15T05:39:36.174Z</updated>
     </entry>
 </feed>

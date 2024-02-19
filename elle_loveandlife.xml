@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-02-19T05:41:19.752Z</updated>
+    <updated>2024-02-19T17:40:47.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동물 보호소로 마실 갈 사람?]]></title>
+        <id>https://www.elle.co.kr/article/84309</id>
+        <link href="https://www.elle.co.kr/article/84309"/>
+        <updated>2024-02-19T17:40:36.543Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시]]></title>
         <id>https://www.elle.co.kr/article/84308</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/84223</id>
         <link href="https://www.elle.co.kr/article/84223"/>
         <updated>2024-02-14T17:40:35.988Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신세경이 알려주는 구움과자 레서피 3]]></title>
-        <id>https://www.elle.co.kr/article/84218</id>
-        <link href="https://www.elle.co.kr/article/84218"/>
-        <updated>2024-02-14T17:40:35.988Z</updated>
-        <content type="html"><![CDATA[연휴에 베이킹 어때요? 여유롭게 집에서 만들어 먹기에도, 설 선물로도 좋은 신세경표 구움과자...]]></content>
     </entry>
 </feed>

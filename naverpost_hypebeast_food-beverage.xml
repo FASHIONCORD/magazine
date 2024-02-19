@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 17:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘테이스트아틀라스’ 선정 ‘세계 최고의 도넛’ 리스트에 이름을 올린 한국 음식은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37358142&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37358142&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 19 Feb 2024 17:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMjI3/MDAxNzA4MzI1MjkxMzYx.GbzZ2-y8V2oMafWKVMK4KDL9He7NBbqIeXPSffvQsYMg.5f5H9g-jOsJznzJPvIWey4RFC_ZGKjcvlQmTSxTm8Xkg.JPEG/IT8yIS-F8kndelKzvINvJsJ-5dH0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연세대학교 연구진이 쇠고기 쌀을 만드는 데 성공했다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37342365&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 Jan 2023 05:39:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjVfMTM4/MDAxNjc0NjI4NzUwOTg1.E7vUX4dQvt0rvpKk_Lqn7CqInAnhfGpRBi_JxGd78F8g.x6bS9djvbv0_f1zCCfjPfa2Jz7-1GJbm702touugr9Ug.JPEG/IxQ7IlW1ClcTiPZED75Y31rE5xJ4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘원소주 클래식’ 오리지널 버전이 출시된다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34873348&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34873348&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Sun, 04 Dec 2022 17:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMzBfNzgg/MDAxNjY5Nzg5NTI3ODA5.NELtP4K0F-uYGl9a4mhLRvb42g8-7iHZjGCBCX_ZL5Eg.9_9L9OpU6RjULEfieih0eOmXzDChBMX2VIdTOHEO3zsg.JPEG/IPLOjSDmaGQtW6kJXthsTNyT4-3I.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
