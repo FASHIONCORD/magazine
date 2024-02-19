@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 17:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 05:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1951,6 +1951,13 @@
             <content:encoded><![CDATA[모든 물건과 취향이 빠르게 쏟아지고 빠르게 사라지는 시대,  오래도록 사랑받은 물건에서 찾은...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[다이어트 간식부터 장거리 이동 꿀템까지, 한혜진의 가방 속이 궁금해! (엘르 코리아 ─ 뷰티)]]></title>
+            <link>https://www.elle.co.kr/article/84291</link>
+            <guid>https://www.elle.co.kr/article/84291</guid>
+            <pubDate>Fri, 16 Feb 2024 17:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[한혜진의 가방 속 ‘찐템’을 모아모아!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[럽!럽!럽! (엘르 코리아 ─ 뷰티)]]></title>
             <link>https://www.elle.co.kr/article/84286</link>
             <guid>https://www.elle.co.kr/article/84286</guid>
@@ -1996,12 +2003,6 @@
             <link>https://www.elle.co.kr/article/84210</link>
             <guid>https://www.elle.co.kr/article/84210</guid>
             <pubDate>Tue, 13 Feb 2024 17:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[설 연휴 급하게 찐 살 급하게 빼려면? 스타들의 스피드 감량 식단 총정리 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
-            <link>https://www.elle.co.kr/article/84190</link>
-            <guid>https://www.elle.co.kr/article/84190</guid>
-            <pubDate>Thu, 08 Feb 2024 17:39:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['천국의 계단'을 무려 1000개나? 손나은의 관리 비결 총정리 #스타다이어트 (엘르 코리아 ─ 스타)]]></title>
@@ -2271,23 +2272,20 @@
             <title><![CDATA[젠데이아가 사이보그로 변신했다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84329</link>
             <guid>https://www.elle.co.kr/article/84329</guid>
-            <pubDate>Sun, 18 Feb 2024 17:41:02 GMT</pubDate>
+            <pubDate>Sun, 18 Feb 2024 17:40:26 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/e824b676-a0fe-4193-b100-630f9ad59b55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84315</link>
             <guid>https://www.elle.co.kr/article/84315</guid>
             <pubDate>Fri, 16 Feb 2024 05:40:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/5418ffc8-47cf-4740-9ff2-b95992727ae2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
             <link>https://www.elle.co.kr/article/84308</link>
             <guid>https://www.elle.co.kr/article/84308</guid>
             <pubDate>Thu, 15 Feb 2024 17:40:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/78d23888-2c47-4010-8621-667b0f01095d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이케아가 영감을 받았다는 그 아티스트 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
@@ -2295,7 +2293,6 @@
             <guid>https://www.elle.co.kr/article/84258</guid>
             <pubDate>Tue, 13 Feb 2024 17:40:07 GMT</pubDate>
             <content:encoded><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/13/3ae0d9e7-e120-40d4-bf20-1d0b0420226b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해 당신의 목표는? 보통과는 다른 새해 다짐별 선물 4 (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
