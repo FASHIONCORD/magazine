@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-19T17:40:47.386Z</updated>
+    <updated>2024-02-20T05:40:33.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[각기 다른 매력의 새로운 얼굴들.]]></title>
+        <id>https://www.elle.co.kr/article/84301</id>
+        <link href="https://www.elle.co.kr/article/84301"/>
+        <updated>2024-02-20T05:39:28.388Z</updated>
+        <content type="html"><![CDATA[2024년에 주목해야할 모델들이 컴카드를 들고 찾아왔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리사부터 권은비까지 스타들이 사랑한 레드백]]></title>
         <id>https://www.elle.co.kr/article/84323</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/84292"/>
         <updated>2024-02-16T17:39:36.304Z</updated>
         <content type="html"><![CDATA[큼직한 아웃포켓, 카키 컬러로 도심을 탐험해보자.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비드 컬러 무브]]></title>
-        <id>https://www.elle.co.kr/article/84280</id>
-        <link href="https://www.elle.co.kr/article/84280"/>
-        <updated>2024-02-16T05:39:13.517Z</updated>
-        <content type="html"><![CDATA[형형색색의 액세서리 군단.]]></content>
     </entry>
 </feed>
