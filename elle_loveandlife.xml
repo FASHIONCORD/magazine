@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-02-20T05:40:33.780Z</updated>
+    <updated>2024-02-20T17:41:34.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마니아들의 심장을 두근거리게 할 캐릭터 숍 5 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/84318</id>
+        <link href="https://www.elle.co.kr/article/84318"/>
+        <updated>2024-02-20T17:41:24.382Z</updated>
+        <content type="html"><![CDATA[일본 여행의 묘미는 뭐니뭐니해도 캐릭터 아이템 쇼핑 아닐까요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동물 보호소로 마실 갈 사람?]]></title>
         <id>https://www.elle.co.kr/article/84309</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/84229"/>
         <updated>2024-02-15T17:40:30.209Z</updated>
         <content type="html"><![CDATA[겨울 도쿄 여행에서 맛집 투어, 쇼핑도 좋지만 조금 더 몽글몽글하고 따뜻한 기억을 남기고 싶...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹는 즐거움에 보는 감성까지, ‘한 끗’ 다른 미디어 아트 식당 4]]></title>
-        <id>https://www.elle.co.kr/article/84223</id>
-        <link href="https://www.elle.co.kr/article/84223"/>
-        <updated>2024-02-14T17:40:35.988Z</updated>
     </entry>
 </feed>

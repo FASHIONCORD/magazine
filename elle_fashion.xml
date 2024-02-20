@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-20T05:40:33.841Z</updated>
+    <updated>2024-02-20T17:41:34.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤넬 그 자체인 시계]]></title>
+        <id>https://www.elle.co.kr/article/84302</id>
+        <link href="https://www.elle.co.kr/article/84302"/>
+        <updated>2024-02-20T17:39:41.173Z</updated>
+        <content type="html"><![CDATA[시간 안에 담은 클래식의 정수.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[각기 다른 매력의 새로운 얼굴들.]]></title>
         <id>https://www.elle.co.kr/article/84301</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/84297"/>
         <updated>2024-02-17T05:39:31.480Z</updated>
         <content type="html"><![CDATA[새로운 크리에이티브 디렉터 션 맥기르와 함께한 캠페인을 공개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탐험가의 정신으로]]></title>
-        <id>https://www.elle.co.kr/article/84292</id>
-        <link href="https://www.elle.co.kr/article/84292"/>
-        <updated>2024-02-16T17:39:36.304Z</updated>
-        <content type="html"><![CDATA[큼직한 아웃포켓, 카키 컬러로 도심을 탐험해보자.]]></content>
     </entry>
 </feed>

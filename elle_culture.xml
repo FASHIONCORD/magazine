@@ -1,58 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-02-20T05:40:33.780Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['내 발로는 안 나가' 일관하던 클린스만이 결국 잘렸다 (ft. 경질 스포)]]></title>
-        <id>https://www.elle.co.kr/article/84317</id>
-        <link href="https://www.elle.co.kr/article/84317"/>
-        <updated>2024-02-19T17:39:57.229Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선]]></title>
-        <id>https://www.elle.co.kr/article/84315</id>
-        <link href="https://www.elle.co.kr/article/84315"/>
-        <updated>2024-02-19T17:39:57.230Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/84308</id>
-        <link href="https://www.elle.co.kr/article/84308"/>
-        <updated>2024-02-18T17:40:09.021Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조커X할리퀸 투샷이 공개됐다]]></title>
-        <id>https://www.elle.co.kr/article/84306</id>
-        <link href="https://www.elle.co.kr/article/84306"/>
-        <updated>2024-02-16T17:40:14.600Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 파리 하계 올림픽 메달에 숨겨진 비밀]]></title>
-        <id>https://www.elle.co.kr/article/84285</id>
-        <link href="https://www.elle.co.kr/article/84285"/>
-        <updated>2024-02-16T17:40:14.601Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠킹 북 vs 앞치마, 나의 요리 세포를 깨우는 아이템은? #취향의발견_5]]></title>
-        <id>https://www.elle.co.kr/article/84275</id>
-        <link href="https://www.elle.co.kr/article/84275"/>
-        <updated>2024-02-16T17:40:14.609Z</updated>
-        <content type="html"><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이케아가 영감을 받았다는 그 아티스트]]></title>
-        <id>https://www.elle.co.kr/article/84258</id>
-        <link href="https://www.elle.co.kr/article/84258"/>
-        <updated>2024-02-16T05:39:41.126Z</updated>
-        <content type="html"><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이렇게 빨리 안방에서?! 날짜별로 보는 2024 설 연휴 특선 영화 편성표]]></title>
-        <id>https://www.elle.co.kr/article/84235</id>
-        <link href="https://www.elle.co.kr/article/84235"/>
-        <updated>2024-02-15T17:40:00.788Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 20 Feb 2024 17:41:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['내 발로는 안 나가' 일관하던 클린스만이 결국 잘렸다 (ft. 경질 스포)]]></title>
+            <link>https://www.elle.co.kr/article/84317</link>
+            <guid>https://www.elle.co.kr/article/84317</guid>
+            <pubDate>Mon, 19 Feb 2024 17:39:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/b253c11c-e653-451d-84b6-b491efa4c11c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선]]></title>
+            <link>https://www.elle.co.kr/article/84315</link>
+            <guid>https://www.elle.co.kr/article/84315</guid>
+            <pubDate>Mon, 19 Feb 2024 17:39:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/5418ffc8-47cf-4740-9ff2-b95992727ae2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시]]></title>
+            <link>https://www.elle.co.kr/article/84308</link>
+            <guid>https://www.elle.co.kr/article/84308</guid>
+            <pubDate>Sun, 18 Feb 2024 17:40:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/16/78d23888-2c47-4010-8621-667b0f01095d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조커X할리퀸 투샷이 공개됐다]]></title>
+            <link>https://www.elle.co.kr/article/84306</link>
+            <guid>https://www.elle.co.kr/article/84306</guid>
+            <pubDate>Fri, 16 Feb 2024 17:40:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/15/cd62a636-836c-4fed-9efc-8b448746e5bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 파리 하계 올림픽 메달에 숨겨진 비밀]]></title>
+            <link>https://www.elle.co.kr/article/84285</link>
+            <guid>https://www.elle.co.kr/article/84285</guid>
+            <pubDate>Fri, 16 Feb 2024 17:40:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/1fdb242a-c065-4d4d-aa2a-266d4e7e36cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠킹 북 vs 앞치마, 나의 요리 세포를 깨우는 아이템은? #취향의발견_5]]></title>
+            <link>https://www.elle.co.kr/article/84275</link>
+            <guid>https://www.elle.co.kr/article/84275</guid>
+            <pubDate>Fri, 16 Feb 2024 17:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/14/dd2b0add-79de-4841-b1ac-8d5ccab5ea21.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이케아가 영감을 받았다는 그 아티스트]]></title>
+            <link>https://www.elle.co.kr/article/84258</link>
+            <guid>https://www.elle.co.kr/article/84258</guid>
+            <pubDate>Fri, 16 Feb 2024 05:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/13/3ae0d9e7-e120-40d4-bf20-1d0b0420226b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이렇게 빨리 안방에서?! 날짜별로 보는 2024 설 연휴 특선 영화 편성표]]></title>
+            <link>https://www.elle.co.kr/article/84235</link>
+            <guid>https://www.elle.co.kr/article/84235</guid>
+            <pubDate>Thu, 15 Feb 2024 17:40:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/10/cc2f9d81-fadf-4438-98af-8a68b7725762.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
