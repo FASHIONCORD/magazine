@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-20T17:41:34.741Z</updated>
+    <updated>2024-02-21T05:42:09.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데님에 데님에 데님을]]></title>
+        <id>https://www.elle.co.kr/article/84353</id>
+        <link href="https://www.elle.co.kr/article/84353"/>
+        <updated>2024-02-21T05:39:35.525Z</updated>
+        <content type="html"><![CDATA[새롭게 떠오른 데님 룩의 진리는 '다다익선'이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠데이아가 사이보그로 변신했다?]]></title>
+        <id>https://www.elle.co.kr/article/84329</id>
+        <link href="https://www.elle.co.kr/article/84329"/>
+        <updated>2024-02-21T05:39:35.527Z</updated>
+        <content type="html"><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤넬 그 자체인 시계]]></title>
         <id>https://www.elle.co.kr/article/84302</id>
@@ -45,19 +59,5 @@
         <id>https://www.elle.co.kr/article/84315</id>
         <link href="https://www.elle.co.kr/article/84315"/>
         <updated>2024-02-18T17:39:28.897Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유머러스한 플라워 트렌드]]></title>
-        <id>https://www.elle.co.kr/article/84293</id>
-        <link href="https://www.elle.co.kr/article/84293"/>
-        <updated>2024-02-17T17:39:22.988Z</updated>
-        <content type="html"><![CDATA[옷차림으로 즐기는 가드닝 코드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미리 만나는 션 맥기르의 알렉산더 맥퀸]]></title>
-        <id>https://www.elle.co.kr/article/84297</id>
-        <link href="https://www.elle.co.kr/article/84297"/>
-        <updated>2024-02-17T05:39:31.480Z</updated>
-        <content type="html"><![CDATA[새로운 크리에이티브 디렉터 션 맥기르와 함께한 캠페인을 공개한다.]]></content>
     </entry>
 </feed>
