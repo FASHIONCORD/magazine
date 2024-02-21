@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-21T05:42:09.718Z</updated>
+    <updated>2024-02-21T17:41:16.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트윈 데스티니]]></title>
+        <id>https://www.elle.co.kr/article/84354</id>
+        <link href="https://www.elle.co.kr/article/84354"/>
+        <updated>2024-02-21T17:39:24.201Z</updated>
+        <content type="html"><![CDATA[운명 공동체, 쌍둥이 로라와 마리의 만남.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데님에 데님에 데님을]]></title>
         <id>https://www.elle.co.kr/article/84353</id>
@@ -53,11 +60,5 @@
         <link href="https://www.elle.co.kr/article/84277"/>
         <updated>2024-02-18T17:39:28.896Z</updated>
         <content type="html"><![CDATA[서울패션위크에서 선사하는 또 하나의 패션 축제, 2024 F/W 서울패션위크 오프쇼가 펼쳐졌다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선]]></title>
-        <id>https://www.elle.co.kr/article/84315</id>
-        <link href="https://www.elle.co.kr/article/84315"/>
-        <updated>2024-02-18T17:39:28.897Z</updated>
     </entry>
 </feed>
