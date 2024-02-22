@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-02-22T05:40:45.894Z</updated>
+    <updated>2024-02-22T17:40:42.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아저씨 누구세요...? 공개 앞둔 박찬욱 드라마 속 로다주의 다역 변신.jpg]]></title>
+        <id>https://www.elle.co.kr/article/84322</id>
+        <link href="https://www.elle.co.kr/article/84322"/>
+        <updated>2024-02-22T17:39:44.782Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['검은 사제들' 속편 '검은 수녀들', 워맨스 장인 송혜교는 누구와 만날까?]]></title>
         <id>https://www.elle.co.kr/article/84321</id>
@@ -47,12 +53,5 @@
         <link href="https://www.elle.co.kr/article/84275"/>
         <updated>2024-02-16T17:40:14.609Z</updated>
         <content type="html"><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이케아가 영감을 받았다는 그 아티스트]]></title>
-        <id>https://www.elle.co.kr/article/84258</id>
-        <link href="https://www.elle.co.kr/article/84258"/>
-        <updated>2024-02-16T05:39:41.126Z</updated>
-        <content type="html"><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content>
     </entry>
 </feed>

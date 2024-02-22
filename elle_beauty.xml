@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-22T05:40:45.910Z</updated>
+    <updated>2024-02-22T17:40:42.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무심한 듯 쿨한 '톰보이' 헤어 스타일 어때?]]></title>
+        <id>https://www.elle.co.kr/article/84296</id>
+        <link href="https://www.elle.co.kr/article/84296"/>
+        <updated>2024-02-22T17:39:24.007Z</updated>
+        <content type="html"><![CDATA[시크한 포인트를 주고 싶다면 디올, 로에베 등 이번 시즌 빅쇼들의 런웨이 속 톰보이룩을 참고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발레 입문자를 위한 채정안의 잇템 6]]></title>
         <id>https://www.elle.co.kr/article/84313</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84241"/>
         <updated>2024-02-15T17:39:45.037Z</updated>
         <content type="html"><![CDATA[단순한 행동도 꾸준하게 실천하는 것은 쉽지 않죠. 차예련은 모닝 루틴에 따라 미모를 관리하고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핑쿠 핑쿠해! 뷰덕들이 홀릭하는 '에이오유' 사과밤의 탄생 비하인드는?]]></title>
-        <id>https://www.elle.co.kr/article/84228</id>
-        <link href="https://www.elle.co.kr/article/84228"/>
-        <updated>2024-02-15T05:39:27.827Z</updated>
-        <content type="html"><![CDATA[뷰티 업계의 신흥 강자로 떠오른 K뷰티 브랜드를 파헤치는 &lt;엘르&gt;의 무드보드 칼럼! 이번에 &lt;엘르...]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-02-22T05:40:45.911Z</updated>
+    <updated>2024-02-22T17:40:42.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[길 위에서 할머니가 운 이유]]></title>
+        <id>https://www.elle.co.kr/article/84240</id>
+        <link href="https://www.elle.co.kr/article/84240"/>
+        <updated>2024-02-22T17:40:42.074Z</updated>
+        <content type="html"><![CDATA[할머니는 길 위에서 펑펑 울었다. 그저 택시를 타고 싶었을 뿐인데. '스마트'한 세상이 바보처...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 기업 후려치기? '코리아 디스카운트'가 뭐길래 #돈쓸신잡 136]]></title>
         <id>https://www.elle.co.kr/article/84201</id>
@@ -50,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/83950"/>
         <updated>2024-02-05T17:40:32.205Z</updated>
         <content type="html"><![CDATA[어느덧 사람 나이로 아흔 살이 된 우리집 소리의 견생.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 그래도 미래를 향해 걸어야 한다면]]></title>
-        <id>https://www.elle.co.kr/article/83949</id>
-        <link href="https://www.elle.co.kr/article/83949"/>
-        <updated>2024-02-03T05:41:55.542Z</updated>
     </entry>
 </feed>

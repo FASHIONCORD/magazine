@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-02-22T05:40:45.912Z</updated>
+    <updated>2024-02-22T17:40:42.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["로미야, 넌 지금 어디 있니": 한 쪽 눈 가린 20대 정우성을 극장서 보는 법]]></title>
+        <id>https://www.elle.co.kr/article/84424</id>
+        <link href="https://www.elle.co.kr/article/84424"/>
+        <updated>2024-02-22T17:40:01.129Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 눈 앞에 둔 '내남결', 박민영과 송하윤X이이경이 맞을 결말은? #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/84343</id>
@@ -78,11 +84,5 @@
         <id>https://www.elle.co.kr/article/84135</id>
         <link href="https://www.elle.co.kr/article/84135"/>
         <updated>2024-02-05T17:40:06.724Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 만에 돌아오는 '오징어 게임' 시즌2 정보]]></title>
-        <id>https://www.elle.co.kr/article/84122</id>
-        <link href="https://www.elle.co.kr/article/84122"/>
-        <updated>2024-02-05T05:40:00.021Z</updated>
     </entry>
 </feed>
