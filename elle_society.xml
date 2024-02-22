@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-02-21T17:41:16.430Z</updated>
+    <updated>2024-02-22T05:40:45.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2024-02-18T17:41:17.845Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[엘르 보이스] 21세기 밸런스 게임]]></title>
+        <title type="html"><![CDATA[[엘르보이스] 21세기 밸런스 게임]]></title>
         <id>https://www.elle.co.kr/article/84139</id>
         <link href="https://www.elle.co.kr/article/84139"/>
         <updated>2024-02-15T17:40:36.645Z</updated>

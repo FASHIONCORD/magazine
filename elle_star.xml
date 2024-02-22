@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-21T17:41:16.429Z</updated>
+    <updated>2024-02-22T05:40:45.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[직접 찾아와 사과한 이강인의 뉘우침에 손흥민이 보인 반응.txt]]></title>
+        <id>https://www.elle.co.kr/article/84389</id>
+        <link href="https://www.elle.co.kr/article/84389"/>
+        <updated>2024-02-22T05:39:51.797Z</updated>
+        <content type="html"><![CDATA[그릇 사이즈 레전드.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이무생의 느와르]]></title>
         <id>https://www.elle.co.kr/article/84381</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/84341"/>
         <updated>2024-02-21T05:39:50.663Z</updated>
         <content type="html"><![CDATA[가장 빠르고 명확하게 본인들의 무대를 구축 중인 6명의 소년들. BOYNEXTDOOR.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21세기로 귀환한 이인! <세작 - 매혹된 자들> 조정석 엘르와 조우]]></title>
-        <id>https://www.elle.co.kr/article/84340</id>
-        <link href="https://www.elle.co.kr/article/84340"/>
-        <updated>2024-02-21T05:39:50.665Z</updated>
-        <content type="html"><![CDATA[조정석이 진지한 얼굴로 엘르 카메라 앞에 섰다.]]></content>
     </entry>
 </feed>
