@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-02-23T05:40:43.765Z</updated>
+    <updated>2024-02-23T17:40:52.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티모시와 젠데이아는 영등포에 무엇을 입고 왔을까?]]></title>
+        <id>https://www.elle.co.kr/article/84444</id>
+        <link href="https://www.elle.co.kr/article/84444"/>
+        <updated>2024-02-23T17:39:57.126Z</updated>
+        <content type="html"><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예능 컴백한 제니와 굿판 벌인 김고은이 있는 2월 마지막주 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/84434</id>
@@ -78,11 +85,5 @@
         <id>https://www.elle.co.kr/article/84163</id>
         <link href="https://www.elle.co.kr/article/84163"/>
         <updated>2024-02-06T17:40:15.328Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고거전' 원정왕후가 '미스터 션샤인' 유진 초이 엄마? 이시아 인생캐 3선 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/84136</id>
-        <link href="https://www.elle.co.kr/article/84136"/>
-        <updated>2024-02-05T17:40:06.724Z</updated>
     </entry>
 </feed>
