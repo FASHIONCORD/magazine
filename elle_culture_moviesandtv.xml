@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-02-22T17:40:42.810Z</updated>
+    <updated>2024-02-23T05:40:43.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예능 컴백한 제니와 굿판 벌인 김고은이 있는 2월 마지막주 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/84434</id>
+        <link href="https://www.elle.co.kr/article/84434"/>
+        <updated>2024-02-23T05:40:17.120Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA["로미야, 넌 지금 어디 있니": 한 쪽 눈 가린 20대 정우성을 극장서 보는 법]]></title>
         <id>https://www.elle.co.kr/article/84424</id>
@@ -77,12 +83,6 @@
         <title type="html"><![CDATA['고거전' 원정왕후가 '미스터 션샤인' 유진 초이 엄마? 이시아 인생캐 3선 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/84136</id>
         <link href="https://www.elle.co.kr/article/84136"/>
-        <updated>2024-02-05T17:40:06.724Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5년 만에 한국 오는 티모시 샬라메 내한 일정]]></title>
-        <id>https://www.elle.co.kr/article/84135</id>
-        <link href="https://www.elle.co.kr/article/84135"/>
         <updated>2024-02-05T17:40:06.724Z</updated>
     </entry>
 </feed>
