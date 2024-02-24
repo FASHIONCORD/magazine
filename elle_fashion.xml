@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-24T05:40:56.078Z</updated>
+    <updated>2024-02-24T17:40:48.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[때론 과감할 것! 뒷모습마저 멋진 스타들의 백리스 패션 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/84401</id>
+        <link href="https://www.elle.co.kr/article/84401"/>
+        <updated>2024-02-24T17:39:16.196Z</updated>
+        <content type="html"><![CDATA[우리가 탄탄한 등 근육을 만들어야 할 이유.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새콤달콤, 캔디 컬러 백]]></title>
         <id>https://www.elle.co.kr/article/84378</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84353"/>
         <updated>2024-02-21T05:39:35.525Z</updated>
         <content type="html"><![CDATA[새롭게 떠오른 데님 룩의 진리는 '다다익선'이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젠데이아가 사이보그로 변신했다?]]></title>
-        <id>https://www.elle.co.kr/article/84329</id>
-        <link href="https://www.elle.co.kr/article/84329"/>
-        <updated>2024-02-21T05:39:35.527Z</updated>
-        <content type="html"><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content>
     </entry>
 </feed>
