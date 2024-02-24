@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-02-23T17:40:52.086Z</updated>
+    <updated>2024-02-24T05:40:56.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종영 눈 앞에 둔 '내남결', 박민영과 송하윤X이이경이 맞을 결말은? #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/84343</id>
+        <link href="https://www.elle.co.kr/article/84343"/>
+        <updated>2024-02-24T05:40:08.831Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젠데이아가 사이보그로 변신했다?]]></title>
         <id>https://www.elle.co.kr/article/84329</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/84306</id>
         <link href="https://www.elle.co.kr/article/84306"/>
         <updated>2024-02-16T17:40:14.600Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 파리 하계 올림픽 메달에 숨겨진 비밀]]></title>
-        <id>https://www.elle.co.kr/article/84285</id>
-        <link href="https://www.elle.co.kr/article/84285"/>
-        <updated>2024-02-16T17:40:14.601Z</updated>
     </entry>
 </feed>

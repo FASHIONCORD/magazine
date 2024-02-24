@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-23T17:40:52.223Z</updated>
+    <updated>2024-02-24T05:40:56.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번 시즌 뷰티 키워드는 파.스.텔!]]></title>
+        <id>https://www.elle.co.kr/article/84298</id>
+        <link href="https://www.elle.co.kr/article/84298"/>
+        <updated>2024-02-24T05:39:48.206Z</updated>
+        <content type="html"><![CDATA[이런게 바로 파스텔 메이크업의 매력! 다채로운 파스텔 컬러 플레이를 주목할 것.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무심한 듯 쿨한 '톰보이' 헤어 스타일 어때?]]></title>
         <id>https://www.elle.co.kr/article/84296</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84255"/>
         <updated>2024-02-16T05:39:21.232Z</updated>
         <content type="html"><![CDATA[꽃의 힘으로 안티에이징부터 브라이트닝, 진정, 보습까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 차예련의 피부 비결은? 매일 진행하는 모닝 루틴이 답!]]></title>
-        <id>https://www.elle.co.kr/article/84241</id>
-        <link href="https://www.elle.co.kr/article/84241"/>
-        <updated>2024-02-15T17:39:45.037Z</updated>
-        <content type="html"><![CDATA[단순한 행동도 꾸준하게 실천하는 것은 쉽지 않죠. 차예련은 모닝 루틴에 따라 미모를 관리하고...]]></content>
     </entry>
 </feed>
