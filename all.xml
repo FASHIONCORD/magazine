@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 05:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 17:40:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1896,6 +1896,20 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MjZfMjkz/MDAxNTkzMTQ3NTQ2ODAw.6oS7rXbbfRKI7XHPTFe4X4xNUpG38k8OsTx48Xu_zpMg.LYamMwElQl7nI-vnYIvevxYMUrqBZIc-BUv-bdtsT_cg.JPEG/IB1YrFol9M9uf9VjCjOHg2dLyack.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[퍼렐의 새 가방 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84385</link>
+            <guid>https://www.elle.co.kr/article/84385</guid>
+            <pubDate>Sun, 25 Feb 2024 17:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[퍼렐이 루이비통에서 만는 첫 번째 가방!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[티모시와 젠데이아는 영등포에 무엇을 입고 왔을까? (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84444</link>
+            <guid>https://www.elle.co.kr/article/84444</guid>
+            <pubDate>Fri, 23 Feb 2024 17:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1년에 한 번, 불태워지기 위해 건축되는 사원 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84443</link>
             <guid>https://www.elle.co.kr/article/84443</guid>
@@ -1935,20 +1949,6 @@
             <guid>https://www.elle.co.kr/article/84386</guid>
             <pubDate>Fri, 23 Feb 2024 17:39:17 GMT</pubDate>
             <content:encoded><![CDATA[패션 센스 좋은 스타들이 너도나도 선택하는 힙템! 괴짜라서 더 시크한 너드미를 추가하고 싶다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[책순이들의 시대가 왔다, 책장 트렌드 #BookshelfWealth (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84382</link>
-            <guid>https://www.elle.co.kr/article/84382</guid>
-            <pubDate>Thu, 22 Feb 2024 17:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[돌고 돌아 다시 책.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김나영부터 차정원, 한지민까지! 봄맞이 컬러플 스니커즈 3 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84356</link>
-            <guid>https://www.elle.co.kr/article/84356</guid>
-            <pubDate>Thu, 22 Feb 2024 05:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[올봄엔 날렵한 실루엣의 스니커즈를 신어보세요.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오마이걸 효정의 상큼 발랄 데일리 메이크업 Tip (엘르 코리아 ─ 뷰티)]]></title>
@@ -2005,6 +2005,13 @@
             <pubDate>Thu, 15 Feb 2024 17:39:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[김도완 & 문상민 두 남자와 <엘르>의 쿨한 조우 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84432</link>
+            <guid>https://www.elle.co.kr/article/84432</guid>
+            <pubDate>Sun, 25 Feb 2024 17:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;웨딩 임파서블&gt;로 돌아온 문상민·김도완의 강렬한 카리스마를 공개합니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[SNS 업데이트 각! 한예슬, 기은세, 김성은이 인생샷 찍은 카페 3 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84431</link>
             <guid>https://www.elle.co.kr/article/84431</guid>
@@ -2046,12 +2053,6 @@
             <title><![CDATA[이제 남친짤 아닌 남편짤 생성기! 윤박X김수빈 럽스타그램 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84397</link>
             <guid>https://www.elle.co.kr/article/84397</guid>
-            <pubDate>Thu, 22 Feb 2024 17:39:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[한국 알뜰하게 즐기는 중! 티모시 샬라메-젠데이아 콜먼 내한 스케줄 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84396</link>
-            <guid>https://www.elle.co.kr/article/84396</guid>
             <pubDate>Thu, 22 Feb 2024 17:39:34 GMT</pubDate>
         </item>
         <item>
@@ -2189,6 +2190,13 @@
             <content:encoded><![CDATA[나이들어가는 것에 대한 아름다움, 그리고 우리가 조금 더 소리높여 자꾸 말하고 싶은 것들에 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[악마는 프라다가 아닌 ‘이 컬러’를 입는다? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
+            <link>https://www.elle.co.kr/article/84459</link>
+            <guid>https://www.elle.co.kr/article/84459</guid>
+            <pubDate>Sun, 25 Feb 2024 17:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[제30회 미국배우조합상 시상식에서 포착한 영화 &lt;악마는 프라다를 입는다&gt;의 사랑스러운 모먼트.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[티모시와 젠데이아는 영등포에 무엇을 입고 왔을까? (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
             <link>https://www.elle.co.kr/article/84444</link>
             <guid>https://www.elle.co.kr/article/84444</guid>
@@ -2262,12 +2270,6 @@
             <link>https://www.elle.co.kr/article/84194</link>
             <guid>https://www.elle.co.kr/article/84194</guid>
             <pubDate>Wed, 07 Feb 2024 17:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이거지...!!! 채종협이 일본에서 말아주는 대형견 연하남 로코 (엘르 코리아 ─ 컬쳐 ─ 무비&TV)]]></title>
-            <link>https://www.elle.co.kr/article/84163</link>
-            <guid>https://www.elle.co.kr/article/84163</guid>
-            <pubDate>Tue, 06 Feb 2024 17:40:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[젠데이아가 사이보그로 변신했다? (엘르 코리아 ─ 컬쳐 ─ 아트&디자인)]]></title>
