@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-02-26T05:40:39.637Z</updated>
+    <updated>2024-02-26T17:40:53.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 정월 대보름에 찾아야 할 오곡밥 유명 맛집 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84376</id>
+        <link href="https://www.elle.co.kr/article/84376"/>
+        <updated>2024-02-26T17:40:44.419Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘바나나 블루’를 아시나요?]]></title>
         <id>https://www.elle.co.kr/article/84339</id>
@@ -50,12 +56,5 @@
         <id>https://www.elle.co.kr/article/84308</id>
         <link href="https://www.elle.co.kr/article/84308"/>
         <updated>2024-02-18T05:40:52.453Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그리운 식사]]></title>
-        <id>https://www.elle.co.kr/article/84284</id>
-        <link href="https://www.elle.co.kr/article/84284"/>
-        <updated>2024-02-16T17:40:45.201Z</updated>
-        <content type="html"><![CDATA[아홉 명의 미식가가 말하는, 오랜 추억이 담긴 식당에 관한 이야기. 사라진 곳에는 경의를, 굳...]]></content>
     </entry>
 </feed>

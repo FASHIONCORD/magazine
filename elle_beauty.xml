@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-26T05:40:39.641Z</updated>
+    <updated>2024-02-26T17:40:53.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월에 바프 찍는 전현무, 이번에 도전한 이색 운동은? #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84398</id>
+        <link href="https://www.elle.co.kr/article/84398"/>
+        <updated>2024-02-26T17:39:31.654Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오일로 목욕을 한다고?_선배’s 어드바이스 #208]]></title>
         <id>https://www.elle.co.kr/article/84357</id>
@@ -52,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84291"/>
         <updated>2024-02-19T05:40:19.716Z</updated>
         <content type="html"><![CDATA[한혜진의 가방 속 ‘찐템’을 모아모아!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[럽!럽!럽!]]></title>
-        <id>https://www.elle.co.kr/article/84286</id>
-        <link href="https://www.elle.co.kr/article/84286"/>
-        <updated>2024-02-18T17:39:37.429Z</updated>
-        <content type="html"><![CDATA['요리 보고 조리 봐도' 하트다, 하트! 사랑으로 가득한 2월의 위시리스트.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-02-26T05:40:39.623Z</updated>
+    <updated>2024-02-26T17:40:53.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 2024년형 발렌타인을 찾습니다]]></title>
+        <id>https://www.elle.co.kr/article/84260</id>
+        <link href="https://www.elle.co.kr/article/84260"/>
+        <updated>2024-02-26T17:40:53.156Z</updated>
+        <content type="html"><![CDATA[밸런타인데이, 사랑을 표현하는 방식이 업그레이드되어야 할 때.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고작 1.5도로? 이제 되돌릴 수 없을 지 모르는 기후 위기의 결정적 징후]]></title>
+        <id>https://www.elle.co.kr/article/84259</id>
+        <link href="https://www.elle.co.kr/article/84259"/>
+        <updated>2024-02-26T17:40:53.159Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[길 위에서 할머니가 운 이유]]></title>
         <id>https://www.elle.co.kr/article/84240</id>
@@ -44,18 +57,5 @@
         <id>https://www.elle.co.kr/article/84068</id>
         <link href="https://www.elle.co.kr/article/84068"/>
         <updated>2024-02-11T17:40:54.925Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['틱톡 핫템' 스탠리 텀블러 대유행에 찬물?]]></title>
-        <id>https://www.elle.co.kr/article/84052</id>
-        <link href="https://www.elle.co.kr/article/84052"/>
-        <updated>2024-02-08T05:40:44.414Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시골진도와 살고 있습니다]]></title>
-        <id>https://www.elle.co.kr/article/83950</id>
-        <link href="https://www.elle.co.kr/article/83950"/>
-        <updated>2024-02-05T17:40:32.205Z</updated>
-        <content type="html"><![CDATA[어느덧 사람 나이로 아흔 살이 된 우리집 소리의 견생.]]></content>
     </entry>
 </feed>
