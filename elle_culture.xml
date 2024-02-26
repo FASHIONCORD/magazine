@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-02-25T17:40:54.608Z</updated>
+    <updated>2024-02-26T05:40:39.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국의 신들이 등장하는 두 권의 신간]]></title>
+        <id>https://www.elle.co.kr/article/84351</id>
+        <link href="https://www.elle.co.kr/article/84351"/>
+        <updated>2024-02-26T05:39:51.586Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종영 눈 앞에 둔 '내남결', 박민영과 송하윤X이이경이 맞을 결말은? #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/84343</id>
@@ -47,11 +53,5 @@
         <id>https://www.elle.co.kr/article/84308</id>
         <link href="https://www.elle.co.kr/article/84308"/>
         <updated>2024-02-18T17:40:09.021Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조커X할리퀸 투샷이 공개됐다]]></title>
-        <id>https://www.elle.co.kr/article/84306</id>
-        <link href="https://www.elle.co.kr/article/84306"/>
-        <updated>2024-02-16T17:40:14.600Z</updated>
     </entry>
 </feed>
