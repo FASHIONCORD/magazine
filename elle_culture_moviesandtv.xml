@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-02-27T05:41:31.476Z</updated>
+    <updated>2024-02-27T17:40:38.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수현X김지원 웨딩 사진.jpg]]></title>
+        <id>https://www.elle.co.kr/article/84505</id>
+        <link href="https://www.elle.co.kr/article/84505"/>
+        <updated>2024-02-27T17:40:10.075Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조정석X신세경 '혐관 로맨스' 결말은? 2회 남은 '세작' 관전포인트 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/84473</id>
@@ -79,12 +85,5 @@
         <id>https://www.elle.co.kr/article/84219</id>
         <link href="https://www.elle.co.kr/article/84219"/>
         <updated>2024-02-09T05:40:14.761Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI가 없었다면 보지 못했을 '웡카'의 세트장]]></title>
-        <id>https://www.elle.co.kr/article/84209</id>
-        <link href="https://www.elle.co.kr/article/84209"/>
-        <updated>2024-02-08T17:40:09.991Z</updated>
-        <content type="html"><![CDATA[이번 설에 직접 확인해 보세요.]]></content>
     </entry>
 </feed>
