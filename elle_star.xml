@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-26T17:40:53.888Z</updated>
+    <updated>2024-02-27T05:41:31.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강소라가 둘째 출산 3개월 만에 복귀한다]]></title>
+        <id>https://www.elle.co.kr/article/84471</id>
+        <link href="https://www.elle.co.kr/article/84471"/>
+        <updated>2024-02-27T05:39:52.109Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유부장의 반전 매력!]]></title>
+        <id>https://www.elle.co.kr/article/84464</id>
+        <link href="https://www.elle.co.kr/article/84464"/>
+        <updated>2024-02-27T05:39:52.110Z</updated>
+        <content type="html"><![CDATA[나인우의 강렬한 눈빛과 사랑스러운 미소 담은 &lt;엘르&gt; 화보.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김세정의 사랑스러운 순간]]></title>
         <id>https://www.elle.co.kr/article/84461</id>
@@ -45,18 +58,5 @@
         <link href="https://www.elle.co.kr/article/84444"/>
         <updated>2024-02-26T05:39:44.041Z</updated>
         <content type="html"><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예능 컴백한 제니와 굿판 벌인 김고은이 있는 2월 마지막주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84434</id>
-        <link href="https://www.elle.co.kr/article/84434"/>
-        <updated>2024-02-26T05:39:44.043Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김도완 & 문상민 두 남자와 <엘르>의 쿨한 조우]]></title>
-        <id>https://www.elle.co.kr/article/84432</id>
-        <link href="https://www.elle.co.kr/article/84432"/>
-        <updated>2024-02-25T17:39:53.371Z</updated>
-        <content type="html"><![CDATA[&lt;웨딩 임파서블&gt;로 돌아온 문상민·김도완의 강렬한 카리스마를 공개합니다.]]></content>
     </entry>
 </feed>

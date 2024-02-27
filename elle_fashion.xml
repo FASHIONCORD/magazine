@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-26T17:40:53.870Z</updated>
+    <updated>2024-02-27T05:41:31.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[악마는 프라다가 아닌 ‘이 컬러’를 입는다?]]></title>
+        <id>https://www.elle.co.kr/article/84459</id>
+        <link href="https://www.elle.co.kr/article/84459"/>
+        <updated>2024-02-27T05:39:34.639Z</updated>
+        <content type="html"><![CDATA[제30회 미국배우조합상 시상식에서 포착한 영화 &lt;악마는 프라다를 입는다&gt;의 사랑스러운 모먼트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벨라 하디드가 푹 빠진 웨스턴 룩 HOW TO]]></title>
+        <id>https://www.elle.co.kr/article/84458</id>
+        <link href="https://www.elle.co.kr/article/84458"/>
+        <updated>2024-02-27T05:39:34.643Z</updated>
+        <content type="html"><![CDATA[카우보이 모자, 웨스턴 벨트, 부츠컷 데님 팬츠까지! 카우걸이 된 벨라를 만나보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱그러운 커플 주얼리 모먼트]]></title>
+        <id>https://www.elle.co.kr/article/84449</id>
+        <link href="https://www.elle.co.kr/article/84449"/>
+        <updated>2024-02-27T05:39:34.645Z</updated>
+        <content type="html"><![CDATA[난 너 뿐이야.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한 손에 착! 클러치 백]]></title>
         <id>https://www.elle.co.kr/article/84457</id>
@@ -38,26 +59,5 @@
         <link href="https://www.elle.co.kr/article/84425"/>
         <updated>2024-02-25T05:39:39.206Z</updated>
         <content type="html"><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[때론 과감할 것! 뒷모습마저 멋진 스타들의 백리스 패션 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/84401</id>
-        <link href="https://www.elle.co.kr/article/84401"/>
-        <updated>2024-02-24T17:39:16.196Z</updated>
-        <content type="html"><![CDATA[우리가 탄탄한 등 근육을 만들어야 할 이유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새콤달콤, 캔디 컬러 백]]></title>
-        <id>https://www.elle.co.kr/article/84378</id>
-        <link href="https://www.elle.co.kr/article/84378"/>
-        <updated>2024-02-23T17:39:17.597Z</updated>
-        <content type="html"><![CDATA[사르르 녹는 솜사탕처럼.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이불 밖은 위험'하다고 생각하다는 당신을 위한 트렌드.]]></title>
-        <id>https://www.elle.co.kr/article/84366</id>
-        <link href="https://www.elle.co.kr/article/84366"/>
-        <updated>2024-02-23T17:39:17.600Z</updated>
-        <content type="html"><![CDATA[파자마 차림으로 나서봐도 될 때?!]]></content>
     </entry>
 </feed>

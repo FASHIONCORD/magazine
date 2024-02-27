@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-02-26T17:40:53.878Z</updated>
+    <updated>2024-02-27T05:41:31.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[취미에 얼마를 써야 할까? #돈쓸신잡 137]]></title>
+        <id>https://www.elle.co.kr/article/84310</id>
+        <link href="https://www.elle.co.kr/article/84310"/>
+        <updated>2024-02-27T05:41:30.736Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엘르보이스] 2024년형 발렌타인을 찾습니다]]></title>
         <id>https://www.elle.co.kr/article/84260</id>
@@ -51,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/84102"/>
         <updated>2024-02-13T17:40:42.110Z</updated>
         <content type="html"><![CDATA[이 사랑은 결코 당연하지 않다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 연말정산이 헷갈리는 당신에게 #돈쓸신잡 135]]></title>
-        <id>https://www.elle.co.kr/article/84068</id>
-        <link href="https://www.elle.co.kr/article/84068"/>
-        <updated>2024-02-11T17:40:54.925Z</updated>
     </entry>
 </feed>
