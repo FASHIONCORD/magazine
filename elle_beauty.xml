@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-02-27T17:40:38.741Z</updated>
+    <updated>2024-02-28T05:40:45.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마음껏 먹어도 살 빠진다?! 설현이 효과 본 최애 운동 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84423</id>
+        <link href="https://www.elle.co.kr/article/84423"/>
+        <updated>2024-02-28T05:39:22.130Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월에 바프 찍는 전현무, 이번에 도전한 이색 운동은? #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/84398</id>
@@ -51,12 +57,5 @@
         <id>https://www.elle.co.kr/article/84307</id>
         <link href="https://www.elle.co.kr/article/84307"/>
         <updated>2024-02-20T05:39:37.740Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이어트 간식부터 장거리 이동 꿀템까지, 한혜진의 가방 속이 궁금해!]]></title>
-        <id>https://www.elle.co.kr/article/84291</id>
-        <link href="https://www.elle.co.kr/article/84291"/>
-        <updated>2024-02-19T05:40:19.716Z</updated>
-        <content type="html"><![CDATA[한혜진의 가방 속 ‘찐템’을 모아모아!]]></content>
     </entry>
 </feed>

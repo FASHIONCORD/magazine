@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-27T17:40:38.722Z</updated>
+    <updated>2024-02-28T05:40:45.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[77세의 가황, 나훈아가 '마이크 내려 놓겠다'며 전한 심경.txt]]></title>
+        <id>https://www.elle.co.kr/article/84493</id>
+        <link href="https://www.elle.co.kr/article/84493"/>
+        <updated>2024-02-28T05:39:57.283Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조정석의 전술]]></title>
         <id>https://www.elle.co.kr/article/84487</id>
@@ -50,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/84461"/>
         <updated>2024-02-26T17:39:41.924Z</updated>
         <content type="html"><![CDATA[꺼지지 않고 뭉근하게 버티는 불씨처럼 가늘고 오래도록 빛나는 세정의 순간들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안소희의 후회 없는 내돈내산 소비 목록.txt]]></title>
-        <id>https://www.elle.co.kr/article/84460</id>
-        <link href="https://www.elle.co.kr/article/84460"/>
-        <updated>2024-02-26T17:39:41.931Z</updated>
-        <content type="html"><![CDATA[최애 립밤부터 센스있는 꾸안꾸 룩을 위한 볼캡, 운동 전 챙겨 먹는 영양제 등 안소희가 직접...]]></content>
     </entry>
 </feed>
