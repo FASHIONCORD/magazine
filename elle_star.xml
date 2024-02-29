@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-28T17:42:08.863Z</updated>
+    <updated>2024-02-29T05:41:04.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[운동 루틴부터 '프렌즈' 절친들과의 우정까지! 제니퍼 애니스톤 근황 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/84530</id>
+        <link href="https://www.elle.co.kr/article/84530"/>
+        <updated>2024-02-29T05:39:50.414Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장원영 친언니 장다아, 투표로 왕따 뽑는 게임에 참여한다고?]]></title>
         <id>https://www.elle.co.kr/article/84529</id>
@@ -48,12 +54,5 @@
         <id>https://www.elle.co.kr/article/84493</id>
         <link href="https://www.elle.co.kr/article/84493"/>
         <updated>2024-02-28T05:39:57.283Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조정석의 전술]]></title>
-        <id>https://www.elle.co.kr/article/84487</id>
-        <link href="https://www.elle.co.kr/article/84487"/>
-        <updated>2024-02-27T17:39:38.730Z</updated>
-        <content type="html"><![CDATA[조정석이 삶과 연기를 완벽하게 주도하는 법. 그 유연하고 흥미로운 전술.]]></content>
     </entry>
 </feed>

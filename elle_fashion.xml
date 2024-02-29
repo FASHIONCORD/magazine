@@ -2,63 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-02-28T17:42:08.879Z</updated>
+    <updated>2024-02-29T05:41:04.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검은 유혹]]></title>
+        <id>https://www.elle.co.kr/article/84539</id>
+        <link href="https://www.elle.co.kr/article/84539"/>
+        <updated>2024-02-29T05:39:35.183Z</updated>
+        <content type="html"><![CDATA[서서히 스며드는 매력.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[속 보이는 스커트 트렌드]]></title>
+        <id>https://www.elle.co.kr/article/84538</id>
+        <link href="https://www.elle.co.kr/article/84538"/>
+        <updated>2024-02-29T05:39:35.184Z</updated>
+        <content type="html"><![CDATA[런웨이와 리얼웨이를 모두 장악한 시스루 스커트 트렌드를 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달빛 아래 샤넬 립스틱]]></title>
+        <id>https://www.elle.co.kr/article/84523</id>
+        <link href="https://www.elle.co.kr/article/84523"/>
+        <updated>2024-02-29T05:39:35.186Z</updated>
+        <content type="html"><![CDATA[샤넬 루쥬 알뤼르 벨벳 NUIT BLANCHE를 바르고 하얗게 지새우는 봄밤.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뿌연 안개 속 빛바랜 블루]]></title>
+        <id>https://www.elle.co.kr/article/84520</id>
+        <link href="https://www.elle.co.kr/article/84520"/>
+        <updated>2024-02-29T05:39:35.187Z</updated>
+        <content type="html"><![CDATA[채도는 낮추고 실루엣은 과감해진 데님 트렌드.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보테가 베네타와 함께, 보물섬을 찾아서]]></title>
+        <id>https://www.elle.co.kr/article/84513</id>
+        <link href="https://www.elle.co.kr/article/84513"/>
+        <updated>2024-02-29T05:39:35.188Z</updated>
+        <content type="html"><![CDATA[익숙한 도시 속 낯선 여행길에서 길어올린 보물같은 선물들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모노톤의 두 얼굴]]></title>
+        <id>https://www.elle.co.kr/article/84456</id>
+        <link href="https://www.elle.co.kr/article/84456"/>
+        <updated>2024-02-29T05:39:35.190Z</updated>
+        <content type="html"><![CDATA[고요한 모노톤 실루엣에 담아낸 파워플한 페미니티.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코코 크러쉬와 한옥의 신비로운 만남]]></title>
+        <id>https://www.elle.co.kr/article/84517</id>
+        <link href="https://www.elle.co.kr/article/84517"/>
+        <updated>2024-02-29T05:39:35.191Z</updated>
+        <content type="html"><![CDATA[발그레 물든 어느 봄날.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타일리시한 개강 룩 준비는 ‘로퍼’로 끝!]]></title>
         <id>https://www.elle.co.kr/article/84518</id>
         <link href="https://www.elle.co.kr/article/84518"/>
         <updated>2024-02-28T05:39:13.625Z</updated>
         <content type="html"><![CDATA[개강 패션의 키 아이템으로 로퍼가 제격! 패션 센스 좋은 셀러브리티의 데일리 룩에서 발견한 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의]]></title>
-        <id>https://www.elle.co.kr/article/84512</id>
-        <link href="https://www.elle.co.kr/article/84512"/>
-        <updated>2024-02-28T05:39:13.627Z</updated>
-        <content type="html"><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루이비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시)]]></title>
-        <id>https://www.elle.co.kr/article/84507</id>
-        <link href="https://www.elle.co.kr/article/84507"/>
-        <updated>2024-02-28T05:39:13.628Z</updated>
-        <content type="html"><![CDATA[힌트: 리움미술관 개인전 주인공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#패잘알 스타일링의 귀재, 린드라 메딘이 머플러를 톱처럼 활용하는 법]]></title>
-        <id>https://www.elle.co.kr/article/84496</id>
-        <link href="https://www.elle.co.kr/article/84496"/>
-        <updated>2024-02-28T05:39:13.630Z</updated>
-        <content type="html"><![CDATA[간절기부터 올봄까지 활용하기 좋은 스타일링 팁을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올세인츠와의 특별한 재회]]></title>
-        <id>https://www.elle.co.kr/article/84462</id>
-        <link href="https://www.elle.co.kr/article/84462"/>
-        <updated>2024-02-28T05:39:13.632Z</updated>
-        <content type="html"><![CDATA[올세인츠 코리아가 론칭 10주년을 맞이했다. 서울을 다시 찾은 올세인츠 글로벌 CEO 피터 우드...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재킷 안에 뭐 입지? #폴로셔츠]]></title>
-        <id>https://www.elle.co.kr/article/84490</id>
-        <link href="https://www.elle.co.kr/article/84490"/>
-        <updated>2024-02-28T05:39:13.634Z</updated>
-        <content type="html"><![CDATA[다가올 봄에는 칼라 장식의 폴로 셔츠 하나면 ‘멋잘알’ 될 수 있어요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAG 어워즈의 베스트 드레서를 찾아라!]]></title>
-        <id>https://www.elle.co.kr/article/84467</id>
-        <link href="https://www.elle.co.kr/article/84467"/>
-        <updated>2024-02-27T17:39:18.204Z</updated>
-        <content type="html"><![CDATA[고혹적인 그레타 리부터 편견을 깬 빌리 아일리시까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사바토 드 사르노가 규칙을 어기는 법]]></title>
-        <id>https://www.elle.co.kr/article/84466</id>
-        <link href="https://www.elle.co.kr/article/84466"/>
-        <updated>2024-02-27T17:39:18.207Z</updated>
-        <content type="html"><![CDATA[구찌의 2024 F/W 컬렉션이 발표됐다.]]></content>
     </entry>
 </feed>
