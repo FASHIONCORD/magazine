@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-02-29T05:41:04.259Z</updated>
+    <updated>2024-02-29T17:40:50.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[열애 3년차, 전종서가 직접 전한 이충현 감독과의 썸 스토리.txt]]></title>
+        <id>https://www.elle.co.kr/article/84532</id>
+        <link href="https://www.elle.co.kr/article/84532"/>
+        <updated>2024-02-29T17:39:37.663Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김고은이 '파묘'에서 신들린 칼춤 출 수 있던 비결  #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84531</id>
+        <link href="https://www.elle.co.kr/article/84531"/>
+        <updated>2024-02-29T17:39:37.666Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운동 루틴부터 '프렌즈' 절친들과의 우정까지! 제니퍼 애니스톤 근황 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/84530</id>
@@ -42,17 +54,5 @@
         <id>https://www.elle.co.kr/article/84504</id>
         <link href="https://www.elle.co.kr/article/84504"/>
         <updated>2024-02-28T17:41:03.349Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공개 연애 시작한 이재욱과 에스파 카리나의 하트 시그널]]></title>
-        <id>https://www.elle.co.kr/article/84498</id>
-        <link href="https://www.elle.co.kr/article/84498"/>
-        <updated>2024-02-28T17:41:03.350Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[77세의 가황, 나훈아가 '마이크 내려 놓겠다'며 전한 심경.txt]]></title>
-        <id>https://www.elle.co.kr/article/84493</id>
-        <link href="https://www.elle.co.kr/article/84493"/>
-        <updated>2024-02-28T05:39:57.283Z</updated>
     </entry>
 </feed>

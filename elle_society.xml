@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-02-29T05:41:04.212Z</updated>
+    <updated>2024-02-29T17:40:50.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 회피형, 네 머릿속을 열고 싶어]]></title>
+        <id>https://www.elle.co.kr/article/84299</id>
+        <link href="https://www.elle.co.kr/article/84299"/>
+        <updated>2024-02-29T17:40:50.112Z</updated>
+        <content type="html"><![CDATA[상대방을 위해서, 나는 기꺼이 안정형이 될 수 있을까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[취미에 얼마를 써야 할까? #돈쓸신잡 137]]></title>
         <id>https://www.elle.co.kr/article/84310</id>
@@ -50,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/84111"/>
         <updated>2024-02-13T17:40:42.106Z</updated>
         <content type="html"><![CDATA[나만의 느낌을 찾는 여정. 나이키 웰 콜렉티브와 함께한 하루]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모님과 가족 여행할 때 먹어야 할 마음가짐 #여자읽는여자]]></title>
-        <id>https://www.elle.co.kr/article/84102</id>
-        <link href="https://www.elle.co.kr/article/84102"/>
-        <updated>2024-02-13T17:40:42.110Z</updated>
-        <content type="html"><![CDATA[이 사랑은 결코 당연하지 않다.]]></content>
     </entry>
 </feed>
