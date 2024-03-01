@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-02-29T17:40:50.977Z</updated>
+    <updated>2024-03-01T05:41:14.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/84477</id>
+        <link href="https://www.elle.co.kr/article/84477"/>
+        <updated>2024-03-01T05:41:05.317Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 정월대보름엔 커피와 함께 견과류 즐기기? 디저트 카페 추천 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/84447</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/84326"/>
         <updated>2024-02-23T17:40:44.808Z</updated>
         <content type="html"><![CDATA[나만 알고 싶은 우니동 식당부터 200년 역사의 디저트 카페까지 맛과 멋이 가득한 도쿄 핫 플...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매콤한 찜부터 고소한 수육까지! 2월 제철 맞은 아귀 맛집 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/84320</id>
-        <link href="https://www.elle.co.kr/article/84320"/>
-        <updated>2024-02-23T17:40:44.809Z</updated>
     </entry>
 </feed>
