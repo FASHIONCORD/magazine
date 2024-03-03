@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-03T05:41:00.292Z</updated>
+    <updated>2024-03-03T17:41:09.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[끌로에와 지방시를 이끌던 클레어 웨이트 켈러, 유니클로를 만나다]]></title>
+        <id>https://www.elle.co.kr/article/84572</id>
+        <link href="https://www.elle.co.kr/article/84572"/>
+        <updated>2024-03-03T17:39:35.638Z</updated>
+        <content type="html"><![CDATA[단연 올봄을 지배할 산뜻함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY와 G-SHOCK이 제안하는 경쾌한 봄 워치 스타일링]]></title>
+        <id>https://www.elle.co.kr/article/84494</id>
+        <link href="https://www.elle.co.kr/article/84494"/>
+        <updated>2024-03-03T17:39:35.642Z</updated>
+        <content type="html"><![CDATA[강렬하고 생동감 넘치는 컬러, 스포티하면서 패셔너블한 무드를 가진 G-SHOCK의 뉴 아이템. IT...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤넬 루쥬 알뤼르 벨벳 NUIT BLANCHE로 연출한 봄밤 메이크업]]></title>
+        <id>https://www.elle.co.kr/article/84545</id>
+        <link href="https://www.elle.co.kr/article/84545"/>
+        <updated>2024-03-03T17:39:35.642Z</updated>
+        <content type="html"><![CDATA[달빛 아래 말갛게 빛나는 모델의 얼굴을 물들인 샤넬 뷰티 제품들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 숙소 소파 정보 좀요]]></title>
+        <id>https://www.elle.co.kr/article/84543</id>
+        <link href="https://www.elle.co.kr/article/84543"/>
+        <updated>2024-03-03T17:39:35.651Z</updated>
+        <content type="html"><![CDATA[거실에 놓인 가구 얼만데?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로로피아나의 조용한 속삭임]]></title>
         <id>https://www.elle.co.kr/article/84541</id>
@@ -32,33 +60,5 @@
         <link href="https://www.elle.co.kr/article/84538"/>
         <updated>2024-02-29T05:39:35.184Z</updated>
         <content type="html"><![CDATA[런웨이와 리얼웨이를 모두 장악한 시스루 스커트 트렌드를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달빛 아래 샤넬 립스틱]]></title>
-        <id>https://www.elle.co.kr/article/84523</id>
-        <link href="https://www.elle.co.kr/article/84523"/>
-        <updated>2024-02-29T05:39:35.186Z</updated>
-        <content type="html"><![CDATA[샤넬 루쥬 알뤼르 벨벳 NUIT BLANCHE를 바르고 하얗게 지새우는 봄밤.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뿌연 안개 속 빛바랜 블루]]></title>
-        <id>https://www.elle.co.kr/article/84520</id>
-        <link href="https://www.elle.co.kr/article/84520"/>
-        <updated>2024-02-29T05:39:35.187Z</updated>
-        <content type="html"><![CDATA[채도는 낮추고 실루엣은 과감해진 데님 트렌드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보테가 베네타와 함께, 보물섬을 찾아서]]></title>
-        <id>https://www.elle.co.kr/article/84513</id>
-        <link href="https://www.elle.co.kr/article/84513"/>
-        <updated>2024-02-29T05:39:35.188Z</updated>
-        <content type="html"><![CDATA[익숙한 도시 속 낯선 여행길에서 길어올린 보물같은 선물들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모노톤의 두 얼굴]]></title>
-        <id>https://www.elle.co.kr/article/84456</id>
-        <link href="https://www.elle.co.kr/article/84456"/>
-        <updated>2024-02-29T05:39:35.190Z</updated>
-        <content type="html"><![CDATA[고요한 모노톤 실루엣에 담아낸 파워플한 페미니티.]]></content>
     </entry>
 </feed>
