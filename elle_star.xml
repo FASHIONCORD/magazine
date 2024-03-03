@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-02T17:41:29.211Z</updated>
+    <updated>2024-03-03T05:41:00.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 숙소 소파 정보 좀요]]></title>
+        <id>https://www.elle.co.kr/article/84543</id>
+        <link href="https://www.elle.co.kr/article/84543"/>
+        <updated>2024-03-03T05:39:46.697Z</updated>
+        <content type="html"><![CDATA[거실에 놓인 가구 얼만데?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정재의 하프타임]]></title>
         <id>https://www.elle.co.kr/article/84535</id>
@@ -49,12 +56,5 @@
         <link href="https://www.elle.co.kr/article/84519"/>
         <updated>2024-02-28T17:41:03.344Z</updated>
         <content type="html"><![CDATA[배우처럼 메이크업하는 법? 피부 자극을 줄이는 아침 세안법과 스킨케어, 자연스러운 혈색이 도...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이토록 '슈퍼'한 르세라핌 다섯 명이 확장시킨 소녀의 정의]]></title>
-        <id>https://www.elle.co.kr/article/84512</id>
-        <link href="https://www.elle.co.kr/article/84512"/>
-        <updated>2024-02-28T17:41:03.348Z</updated>
-        <content type="html"><![CDATA[루이 비통과 조우하며 다시 한번 소녀의 의미를 확장한 르세라핌]]></content>
     </entry>
 </feed>
