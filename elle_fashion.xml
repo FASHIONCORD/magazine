@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-04T06:08:51.591Z</updated>
+    <updated>2024-03-04T17:41:02.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[힙한 거울 셀피를 위해! 시선 강탈 폰 케이스 5]]></title>
+        <id>https://www.elle.co.kr/article/84583</id>
+        <link href="https://www.elle.co.kr/article/84583"/>
+        <updated>2024-03-04T17:39:39.836Z</updated>
+        <content type="html"><![CDATA[폰 케이스, 아무거나 하지 마세요~]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끌로에와 지방시를 이끌던 클레어 웨이트 켈러, 유니클로를 만나다]]></title>
         <id>https://www.elle.co.kr/article/84572</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84539"/>
         <updated>2024-02-29T05:39:35.183Z</updated>
         <content type="html"><![CDATA[서서히 스며드는 매력.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[속 보이는 스커트 트렌드]]></title>
-        <id>https://www.elle.co.kr/article/84538</id>
-        <link href="https://www.elle.co.kr/article/84538"/>
-        <updated>2024-02-29T05:39:35.184Z</updated>
-        <content type="html"><![CDATA[런웨이와 리얼웨이를 모두 장악한 시스루 스커트 트렌드를 소개합니다.]]></content>
     </entry>
 </feed>

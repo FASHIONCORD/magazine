@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-04T06:08:51.619Z</updated>
+    <updated>2024-03-04T17:41:02.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 삼일절엔 션과 함께 기부 마라톤? 3·1절 기념 이색 캠페인 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84504</id>
+        <link href="https://www.elle.co.kr/article/84504"/>
+        <updated>2024-03-04T17:40:54.071Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시]]></title>
         <id>https://www.elle.co.kr/article/84477</id>
@@ -49,12 +55,5 @@
         <link href="https://www.elle.co.kr/article/84339"/>
         <updated>2024-02-23T17:40:44.805Z</updated>
         <content type="html"><![CDATA[지속 가능한 매장 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웨이팅이 아깝지 않아! 스타도 다녀간 도쿄의 줄 서는 맛집 3]]></title>
-        <id>https://www.elle.co.kr/article/84326</id>
-        <link href="https://www.elle.co.kr/article/84326"/>
-        <updated>2024-02-23T17:40:44.808Z</updated>
-        <content type="html"><![CDATA[나만 알고 싶은 우니동 식당부터 200년 역사의 디저트 카페까지 맛과 멋이 가득한 도쿄 핫 플...]]></content>
     </entry>
 </feed>

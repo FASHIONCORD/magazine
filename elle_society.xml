@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-03-04T06:08:51.589Z</updated>
+    <updated>2024-03-04T17:41:02.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르보이스] 철학 공부하는 여자]]></title>
+        <id>https://www.elle.co.kr/article/84489</id>
+        <link href="https://www.elle.co.kr/article/84489"/>
+        <updated>2024-03-04T17:41:01.390Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흙탕물과 부유물을 마주하고 나면 생기는 힘 #여자읽는여자]]></title>
         <id>https://www.elle.co.kr/article/84476</id>
@@ -49,11 +55,5 @@
         <link href="https://www.elle.co.kr/article/84240"/>
         <updated>2024-02-22T17:40:42.074Z</updated>
         <content type="html"><![CDATA[할머니는 길 위에서 펑펑 울었다. 그저 택시를 타고 싶었을 뿐인데. '스마트'한 세상이 바보처...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 기업 후려치기? '코리아 디스카운트'가 뭐길래 #돈쓸신잡 136]]></title>
-        <id>https://www.elle.co.kr/article/84201</id>
-        <link href="https://www.elle.co.kr/article/84201"/>
-        <updated>2024-02-18T17:41:17.845Z</updated>
     </entry>
 </feed>
