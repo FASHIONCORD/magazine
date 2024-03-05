@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2024-03-04T17:41:02.174Z</updated>
+    <updated>2024-03-05T05:40:44.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프리즈 LA에 데뷔한 만 89세 한국 아티스트]]></title>
+        <id>https://www.elle.co.kr/article/84638</id>
+        <link href="https://www.elle.co.kr/article/84638"/>
+        <updated>2024-03-05T05:40:28.704Z</updated>
+        <content type="html"><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시)]]></title>
         <id>https://www.elle.co.kr/article/84507</id>
@@ -83,12 +90,5 @@
         <id>https://www.elle.co.kr/article/83974</id>
         <link href="https://www.elle.co.kr/article/83974"/>
         <updated>2024-01-29T17:40:53.878Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집과 예술을 사랑하는 모두가 한자리에!]]></title>
-        <id>https://www.elle.co.kr/article/83824</id>
-        <link href="https://www.elle.co.kr/article/83824"/>
-        <updated>2024-01-22T17:40:41.114Z</updated>
-        <content type="html"><![CDATA[일상 속 예술을 향한 열기로 '후끈' 달아오른 &lt;엘르 데코&gt; 전시 오프닝 현장.]]></content>
     </entry>
 </feed>

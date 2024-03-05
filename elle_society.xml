@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-03-04T17:41:02.105Z</updated>
+    <updated>2024-03-05T05:40:44.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국제 북극곰의 날'이 사라질지도 모른다?!]]></title>
+        <id>https://www.elle.co.kr/article/84491</id>
+        <link href="https://www.elle.co.kr/article/84491"/>
+        <updated>2024-03-05T05:40:44.044Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엘르보이스] 철학 공부하는 여자]]></title>
         <id>https://www.elle.co.kr/article/84489</id>
@@ -48,12 +54,5 @@
         <id>https://www.elle.co.kr/article/84259</id>
         <link href="https://www.elle.co.kr/article/84259"/>
         <updated>2024-02-26T17:40:53.159Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[길 위에서 할머니가 운 이유]]></title>
-        <id>https://www.elle.co.kr/article/84240</id>
-        <link href="https://www.elle.co.kr/article/84240"/>
-        <updated>2024-02-22T17:40:42.074Z</updated>
-        <content type="html"><![CDATA[할머니는 길 위에서 펑펑 울었다. 그저 택시를 타고 싶었을 뿐인데. '스마트'한 세상이 바보처...]]></content>
     </entry>
 </feed>
