@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-03-05T05:40:44.883Z</updated>
+    <updated>2024-03-05T17:41:44.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT]]></title>
+        <id>https://www.elle.co.kr/article/84595</id>
+        <link href="https://www.elle.co.kr/article/84595"/>
+        <updated>2024-03-05T17:39:46.847Z</updated>
+        <content type="html"><![CDATA[여자가 여자에게 반한다는 건, 가히 '빅뱅이론'과 맞먹을 만큼 큰 사건이다! 그간 내가 반한 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[완전히 달라진 티모시 샬라메X송중기X차은우!? 삼일절 연휴에 볼만한 3월 첫 주 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/84571</id>
@@ -49,11 +56,5 @@
         <id>https://www.elle.co.kr/article/84483</id>
         <link href="https://www.elle.co.kr/article/84483"/>
         <updated>2024-02-29T17:39:47.509Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/84477</id>
-        <link href="https://www.elle.co.kr/article/84477"/>
-        <updated>2024-02-27T17:39:48.564Z</updated>
     </entry>
 </feed>

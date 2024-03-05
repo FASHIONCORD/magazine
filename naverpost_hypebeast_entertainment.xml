@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 05:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 17:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘원펀맨’ 애니메이션 제3기의 첫 번째 예고편이 공개됐다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37434546&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37434546&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Tue, 05 Mar 2024 17:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMDVfMjMw/MDAxNzA5NjMwOTQ0OTM1.6Nu-Byy1QnItJYvVZTqOVmDieKtYUd-AQ1CHi6Jsz2kg.-8IjRPMSZAS_plsm9FcKdeAdP4klBOwnn_x214aUsoEg.PNG/IqQNZIgHSzY3IKaE8v0ByQ7zbXeU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스토퍼 놀란, 공포영화 제작 관심 드러냈다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37358168&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 16 Jan 2024 17:39:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTZfMTc2/MDAxNzA1NDEyMDIxNDMx.FQ0JyRnXLGYZZ62FbEVsEswYcAIKQaB96v9Qvisj9Fkg.yMUJDNkrBif1WBEuv-f_3gHffEpJtMc1vWNHKuBQ5JAg.JPEG/IyLYJP_rcqyE_suJXFa-Ez_OrMyY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닉 프로스트, ‘드래곤 길들이기’ 실사 영화 출연 확정]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37194108&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37194108&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Mon, 15 Jan 2024 17:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTVfOTcg/MDAxNzA1MzIwNjI4NzY1.4uOm3InokmzNQlm-b1jtJYyK2vZHuGIYeR1w61HLRsog.E79Cb2GHzc1sj_PLl1OlGcMHxhgHt0p_sbDQf_WepAQg.JPEG/Iw8amDTkxfbK-zuSMh6tRmAB4fLs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
