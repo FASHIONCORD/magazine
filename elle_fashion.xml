@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-06T17:44:16.431Z</updated>
+    <updated>2024-03-07T05:40:46.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[탐나는 스타일링 공식! 팬츠 더하기 스커트 5]]></title>
+        <id>https://www.elle.co.kr/article/84655</id>
+        <link href="https://www.elle.co.kr/article/84655"/>
+        <updated>2024-03-07T05:39:28.233Z</updated>
+        <content type="html"><![CDATA[올봄 주목해야 할 레이어드 트렌드를 짚어드려요! 팬츠 위에 스커트를 더하는 레이어드 기술로 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘사복 천재’ 스타들의 트렌치코트 패션 5]]></title>
+        <id>https://www.elle.co.kr/article/84627</id>
+        <link href="https://www.elle.co.kr/article/84627"/>
+        <updated>2024-03-07T05:39:28.236Z</updated>
+        <content type="html"><![CDATA[김나영, 정유미, 차정원 등 트렌치코트 입고 봄을 맞이한 스타들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알렉산더 맥퀸의 새 시대]]></title>
+        <id>https://www.elle.co.kr/article/84619</id>
+        <link href="https://www.elle.co.kr/article/84619"/>
+        <updated>2024-03-07T05:39:28.237Z</updated>
+        <content type="html"><![CDATA[션 맥기르가 알렉산더 맥퀸에 새로운 바람을 일으켰다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리한나가 공연비로 84억 원을 받은 행사의 정체는?]]></title>
         <id>https://www.elle.co.kr/article/84591</id>
@@ -39,26 +60,5 @@
         <link href="https://www.elle.co.kr/article/84583"/>
         <updated>2024-03-04T17:39:39.836Z</updated>
         <content type="html"><![CDATA[폰 케이스, 아무거나 하지 마세요~]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끌로에와 지방시를 이끌던 클레어 웨이트 켈러, 유니클로를 만나다]]></title>
-        <id>https://www.elle.co.kr/article/84572</id>
-        <link href="https://www.elle.co.kr/article/84572"/>
-        <updated>2024-03-03T17:39:35.638Z</updated>
-        <content type="html"><![CDATA[단연 올봄을 지배할 산뜻함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY와 G-SHOCK이 제안하는 경쾌한 봄 워치 스타일링]]></title>
-        <id>https://www.elle.co.kr/article/84494</id>
-        <link href="https://www.elle.co.kr/article/84494"/>
-        <updated>2024-03-03T17:39:35.642Z</updated>
-        <content type="html"><![CDATA[강렬하고 생동감 넘치는 컬러, 스포티하면서 패셔너블한 무드를 가진 G-SHOCK의 뉴 아이템. IT...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤넬 루쥬 알뤼르 벨벳 NUIT BLANCHE로 연출한 봄밤 메이크업]]></title>
-        <id>https://www.elle.co.kr/article/84545</id>
-        <link href="https://www.elle.co.kr/article/84545"/>
-        <updated>2024-03-03T17:39:35.642Z</updated>
-        <content type="html"><![CDATA[달빛 아래 말갛게 빛나는 모델의 얼굴을 물들인 샤넬 뷰티 제품들.]]></content>
     </entry>
 </feed>
