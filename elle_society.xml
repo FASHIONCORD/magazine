@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-03-08T05:40:48.733Z</updated>
+    <updated>2024-03-08T17:40:27.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다시 진일보한 여성사: 프랑스가 최초로 헌법 상 낙태의 자유를 보장했다]]></title>
+        <id>https://www.elle.co.kr/article/84640</id>
+        <link href="https://www.elle.co.kr/article/84640"/>
+        <updated>2024-03-08T17:40:27.044Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23 마리의 개와 고양이 가족을 찾아보내며 깨닫게 된 것]]></title>
         <id>https://www.elle.co.kr/article/84598</id>
@@ -49,11 +55,5 @@
         <id>https://www.elle.co.kr/article/84476</id>
         <link href="https://www.elle.co.kr/article/84476"/>
         <updated>2024-03-04T06:08:50.813Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세금 확 줄여주는 통장이 있다고? #돈쓸신잡 138]]></title>
-        <id>https://www.elle.co.kr/article/84417</id>
-        <link href="https://www.elle.co.kr/article/84417"/>
-        <updated>2024-03-03T17:41:08.905Z</updated>
     </entry>
 </feed>

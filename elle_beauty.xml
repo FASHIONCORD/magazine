@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-08T05:40:48.745Z</updated>
+    <updated>2024-03-08T17:40:27.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 간단해진 규현의 두 번째 다이어트 식단, '양참덮밥' 만드는 법]]></title>
+        <id>https://www.elle.co.kr/article/84659</id>
+        <link href="https://www.elle.co.kr/article/84659"/>
+        <updated>2024-03-08T17:39:23.478Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 최신 버전! 자외선 차단제 총정리_선배’s 어드바이스 #210]]></title>
         <id>https://www.elle.co.kr/article/84607</id>
@@ -51,12 +57,5 @@
         <link href="https://www.elle.co.kr/article/84482"/>
         <updated>2024-03-04T06:07:24.954Z</updated>
         <content type="html"><![CDATA[수분과 유분, 두 마리 토끼를 동시에!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안소희의 후회 없는 내돈내산 소비 목록.txt]]></title>
-        <id>https://www.elle.co.kr/article/84460</id>
-        <link href="https://www.elle.co.kr/article/84460"/>
-        <updated>2024-02-29T17:39:30.778Z</updated>
-        <content type="html"><![CDATA[최애 립밤부터 센스있는 꾸안꾸 룩을 위한 볼캡, 운동 전 챙겨 먹는 영양제 등 안소희가 직접...]]></content>
     </entry>
 </feed>
