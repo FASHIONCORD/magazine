@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-03-07T17:40:47.697Z</updated>
+    <updated>2024-03-08T05:40:48.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[23 마리의 개와 고양이 가족을 찾아보내며 깨닫게 된 것]]></title>
+        <id>https://www.elle.co.kr/article/84598</id>
+        <link href="https://www.elle.co.kr/article/84598"/>
+        <updated>2024-03-08T05:40:47.856Z</updated>
+        <content type="html"><![CDATA[일러스트레이터 홍조가 확실하게 깨달은 것. 모든 생명은 똑같이 소중하고 사랑스럽다는 사실!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT]]></title>
         <id>https://www.elle.co.kr/article/84595</id>
@@ -48,12 +55,5 @@
         <id>https://www.elle.co.kr/article/84417</id>
         <link href="https://www.elle.co.kr/article/84417"/>
         <updated>2024-03-03T17:41:08.905Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 회피형, 네 머릿속을 열고 싶어]]></title>
-        <id>https://www.elle.co.kr/article/84299</id>
-        <link href="https://www.elle.co.kr/article/84299"/>
-        <updated>2024-02-29T17:40:50.112Z</updated>
-        <content type="html"><![CDATA[상대방을 위해서, 나는 기꺼이 안정형이 될 수 있을까?]]></content>
     </entry>
 </feed>

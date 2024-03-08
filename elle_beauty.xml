@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-07T17:40:47.707Z</updated>
+    <updated>2024-03-08T05:40:48.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 최신 버전! 자외선 차단제 총정리_선배’s 어드바이스 #210]]></title>
+        <id>https://www.elle.co.kr/article/84607</id>
+        <link href="https://www.elle.co.kr/article/84607"/>
+        <updated>2024-03-08T05:39:41.921Z</updated>
+        <content type="html"><![CDATA[기온보다 먼저 치솟는다는 자외선량? 지금이야말로 더 막강해진 ‘자차’ 챙길 때!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[귀티가 철철! 소이현 메이크업 HOW TO]]></title>
         <id>https://www.elle.co.kr/article/84594</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84460"/>
         <updated>2024-02-29T17:39:30.778Z</updated>
         <content type="html"><![CDATA[최애 립밤부터 센스있는 꾸안꾸 룩을 위한 볼캡, 운동 전 챙겨 먹는 영양제 등 안소희가 직접...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안아줘]]></title>
-        <id>https://www.elle.co.kr/article/84450</id>
-        <link href="https://www.elle.co.kr/article/84450"/>
-        <updated>2024-02-28T17:40:54.893Z</updated>
-        <content type="html"><![CDATA[풍부한 향과 질감으로 살결을 포근하게 안아주는 퍼퓸드 보디 모이스처라이저 7.]]></content>
     </entry>
 </feed>
