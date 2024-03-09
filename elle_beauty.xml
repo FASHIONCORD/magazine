@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-09T05:40:58.276Z</updated>
+    <updated>2024-03-09T17:41:18.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6개월 동안 '이것'만 먹으면서 -7kg? '김남주가 전한 감량 썰.txt #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84698</id>
+        <link href="https://www.elle.co.kr/article/84698"/>
+        <updated>2024-03-09T17:39:27.157Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[술 마시면서 살 뺀다고? '20kg 감량' 유지어터 박세미의 감량 노하우 총정리 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84672</id>
+        <link href="https://www.elle.co.kr/article/84672"/>
+        <updated>2024-03-09T17:39:27.161Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 간단해진 규현의 두 번째 다이어트 식단, '양참덮밥' 만드는 법]]></title>
         <id>https://www.elle.co.kr/article/84659</id>
@@ -43,19 +55,5 @@
         <id>https://www.elle.co.kr/article/84531</id>
         <link href="https://www.elle.co.kr/article/84531"/>
         <updated>2024-03-06T05:39:17.058Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 오윤아의 뷰티 노하우 대방출!]]></title>
-        <id>https://www.elle.co.kr/article/84519</id>
-        <link href="https://www.elle.co.kr/article/84519"/>
-        <updated>2024-03-04T06:07:24.952Z</updated>
-        <content type="html"><![CDATA[배우처럼 메이크업하는 법? 피부 자극을 줄이는 아침 세안법과 스킨케어, 자연스러운 혈색이 도...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칵테일처럼 흔들어 쓰는 화장품? 이층상 스킨케어의 모든 것_선배’s 어드바이스 #209]]></title>
-        <id>https://www.elle.co.kr/article/84482</id>
-        <link href="https://www.elle.co.kr/article/84482"/>
-        <updated>2024-03-04T06:07:24.954Z</updated>
-        <content type="html"><![CDATA[수분과 유분, 두 마리 토끼를 동시에!]]></content>
     </entry>
 </feed>

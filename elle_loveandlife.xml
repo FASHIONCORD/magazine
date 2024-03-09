@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-09T05:40:58.296Z</updated>
+    <updated>2024-03-09T17:41:18.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에디터가 먹고 싶어서 정리한 부산 미쉐린 면 요리.list]]></title>
+        <id>https://www.elle.co.kr/article/84685</id>
+        <link href="https://www.elle.co.kr/article/84685"/>
+        <updated>2024-03-09T17:41:10.992Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산수유부터 매화까지! 꽃 피는 3월, 향기로운 봄꽃 축제 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/84653</id>
@@ -50,11 +56,5 @@
         <id>https://www.elle.co.kr/article/84504</id>
         <link href="https://www.elle.co.kr/article/84504"/>
         <updated>2024-03-04T17:40:54.071Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시]]></title>
-        <id>https://www.elle.co.kr/article/84477</id>
-        <link href="https://www.elle.co.kr/article/84477"/>
-        <updated>2024-03-01T05:41:05.317Z</updated>
     </entry>
 </feed>
