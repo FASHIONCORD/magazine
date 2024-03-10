@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-09T17:41:18.479Z</updated>
+    <updated>2024-03-10T05:40:37.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엽서 3000개가 빼곡히 들어찬 편집숍? #엘르동]]></title>
+        <id>https://www.elle.co.kr/article/84694</id>
+        <link href="https://www.elle.co.kr/article/84694"/>
+        <updated>2024-03-10T05:40:26.789Z</updated>
+        <content type="html"><![CDATA[자고로 연희동의 진정한 매력은 홍제천길에 숨어있는 법.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에디터가 먹고 싶어서 정리한 부산 미쉐린 면 요리.list]]></title>
         <id>https://www.elle.co.kr/article/84685</id>
@@ -50,11 +57,5 @@
         <id>https://www.elle.co.kr/article/84506</id>
         <link href="https://www.elle.co.kr/article/84506"/>
         <updated>2024-03-05T17:41:35.625Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 삼일절엔 션과 함께 기부 마라톤? 3·1절 기념 이색 캠페인 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/84504</id>
-        <link href="https://www.elle.co.kr/article/84504"/>
-        <updated>2024-03-04T17:40:54.071Z</updated>
     </entry>
 </feed>
