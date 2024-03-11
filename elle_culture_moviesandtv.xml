@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-03-11T05:41:20.087Z</updated>
+    <updated>2024-03-11T17:41:13.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[귀주대첩으로 용두용미 엔딩 낸 '고려거란전쟁' 명장면 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/84755</id>
+        <link href="https://www.elle.co.kr/article/84755"/>
+        <updated>2024-03-11T17:40:41.296Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역)]]></title>
         <id>https://www.elle.co.kr/article/84740</id>
@@ -80,11 +86,5 @@
         <link href="https://www.elle.co.kr/article/84444"/>
         <updated>2024-02-23T17:39:57.126Z</updated>
         <content type="html"><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예능 컴백한 제니와 굿판 벌인 김고은이 있는 2월 마지막주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84434</id>
-        <link href="https://www.elle.co.kr/article/84434"/>
-        <updated>2024-02-23T05:40:17.120Z</updated>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-11T05:41:20.056Z</updated>
+    <updated>2024-03-11T17:41:13.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄바람 타고 온 스카프 패션, 지수 또는 제니처럼!]]></title>
+        <id>https://www.elle.co.kr/article/84724</id>
+        <link href="https://www.elle.co.kr/article/84724"/>
+        <updated>2024-03-11T17:39:35.285Z</updated>
+        <content type="html"><![CDATA[지수처럼 목에 매거나 제니처럼 머리에 둘러 연출해 보세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌드 업!]]></title>
         <id>https://www.elle.co.kr/article/84722</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84684"/>
         <updated>2024-03-08T17:39:15.999Z</updated>
         <content type="html"><![CDATA[스커트 어울리는 계절을 위해 추천하는 벌룬 스커트! 풍성하고 통통할수록 예뻐요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루이비통의 그 시계]]></title>
-        <id>https://www.elle.co.kr/article/84657</id>
-        <link href="https://www.elle.co.kr/article/84657"/>
-        <updated>2024-03-07T17:39:29.386Z</updated>
-        <content type="html"><![CDATA[주목해야할 루이비통의 성장형 시계]]></content>
     </entry>
 </feed>
