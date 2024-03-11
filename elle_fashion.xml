@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-10T17:40:44.178Z</updated>
+    <updated>2024-03-11T05:41:20.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌드 업!]]></title>
+        <id>https://www.elle.co.kr/article/84722</id>
+        <link href="https://www.elle.co.kr/article/84722"/>
+        <updated>2024-03-11T05:39:14.313Z</updated>
+        <content type="html"><![CDATA[더할 수록 배가 되는 강렬함.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조용한 아름다움의 방법]]></title>
+        <id>https://www.elle.co.kr/article/84710</id>
+        <link href="https://www.elle.co.kr/article/84710"/>
+        <updated>2024-03-11T05:39:14.314Z</updated>
+        <content type="html"><![CDATA[과감한 색은 중립적인 색채로 변했고, 대담한 로고는 슬그머니 자취를 감췄다. 그러나 2024년의 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타일리스트 정윤기가 전하는 소식]]></title>
         <id>https://www.elle.co.kr/article/84702</id>
@@ -46,19 +60,5 @@
         <link href="https://www.elle.co.kr/article/84657"/>
         <updated>2024-03-07T17:39:29.386Z</updated>
         <content type="html"><![CDATA[주목해야할 루이비통의 성장형 시계]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤넬 프리미에르의 새로운 얼굴]]></title>
-        <id>https://www.elle.co.kr/article/84665</id>
-        <link href="https://www.elle.co.kr/article/84665"/>
-        <updated>2024-03-07T17:39:29.392Z</updated>
-        <content type="html"><![CDATA[시대를 초월한 샤넬 프리미에르 워치의 뮤즈, 제니와 함께한 2024 캠페인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탐나는 스타일링 공식! 팬츠 더하기 스커트 5]]></title>
-        <id>https://www.elle.co.kr/article/84655</id>
-        <link href="https://www.elle.co.kr/article/84655"/>
-        <updated>2024-03-07T05:39:28.233Z</updated>
-        <content type="html"><![CDATA[올봄 주목해야 할 레이어드 트렌드를 짚어드려요! 팬츠 위에 스커트를 더하는 레이어드 기술로 ...]]></content>
     </entry>
 </feed>
