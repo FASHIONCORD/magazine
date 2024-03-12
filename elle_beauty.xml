@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-11T17:41:14.462Z</updated>
+    <updated>2024-03-12T05:41:16.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[풀 마라톤은 시작에 불과? 6일간 달리고 또 내달리는 10명의 울트라 마라토너.]]></title>
+        <id>https://www.elle.co.kr/article/84708</id>
+        <link href="https://www.elle.co.kr/article/84708"/>
+        <updated>2024-03-12T05:39:34.763Z</updated>
+        <content type="html"><![CDATA[인종과 체형, 나이, 직업은 다르지만 여성의 연대 아래 뭉친 10명의 룰루레몬 앰배서더입니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감탄 주의! 제품력 '넘사'인 3월의 뷰티 신상 10.]]></title>
         <id>https://www.elle.co.kr/article/84695</id>
@@ -49,12 +56,5 @@
         <id>https://www.elle.co.kr/article/84569</id>
         <link href="https://www.elle.co.kr/article/84569"/>
         <updated>2024-03-07T17:39:37.782Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['퍼프'도 레벨 업!]]></title>
-        <id>https://www.elle.co.kr/article/84525</id>
-        <link href="https://www.elle.co.kr/article/84525"/>
-        <updated>2024-03-06T17:42:42.971Z</updated>
-        <content type="html"><![CDATA[촉감도 형태도 달라도 너무 다른 요즘 퍼프들. 내 피부 타입과 얼굴 굴곡에 맞게 골라 쓸 수...]]></content>
     </entry>
 </feed>

@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-11T17:41:13.591Z</updated>
+    <updated>2024-03-12T05:41:16.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘사이즈 업’ 해주세요! 오버사이즈 재킷 스타일링 5]]></title>
+        <id>https://www.elle.co.kr/article/84739</id>
+        <link href="https://www.elle.co.kr/article/84739"/>
+        <updated>2024-03-12T05:39:25.867Z</updated>
+        <content type="html"><![CDATA[두아 리파, 예리, 금새록 등 스타들이 보여준 클 수록 좋은 이번 시즌 재킷 연출법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙 박스]]></title>
+        <id>https://www.elle.co.kr/article/84736</id>
+        <link href="https://www.elle.co.kr/article/84736"/>
+        <updated>2024-03-12T05:39:25.869Z</updated>
+        <content type="html"><![CDATA[서랍일까? 가구 같은 블랙 박스 백!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매치스패션이 문을 닫는다]]></title>
+        <id>https://www.elle.co.kr/article/84734</id>
+        <link href="https://www.elle.co.kr/article/84734"/>
+        <updated>2024-03-12T05:39:25.870Z</updated>
+        <content type="html"><![CDATA[쿠팡의 파페치 인수에 이어.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봄바람 타고 온 스카프 패션, 지수 또는 제니처럼!]]></title>
         <id>https://www.elle.co.kr/article/84724</id>
@@ -39,26 +60,5 @@
         <link href="https://www.elle.co.kr/article/84693"/>
         <updated>2024-03-10T17:39:23.743Z</updated>
         <content type="html"><![CDATA[시종일관 화려한 클라이맥스가 펼쳐진 몽클레르 그레노블의 설산.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로에베가 전하는 조형적인 아름다움]]></title>
-        <id>https://www.elle.co.kr/article/84687</id>
-        <link href="https://www.elle.co.kr/article/84687"/>
-        <updated>2024-03-09T05:39:42.318Z</updated>
-        <content type="html"><![CDATA[강인하면서도 유연하게.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동아시아 무드로 만난 패션]]></title>
-        <id>https://www.elle.co.kr/article/84600</id>
-        <link href="https://www.elle.co.kr/article/84600"/>
-        <updated>2024-03-08T17:39:15.992Z</updated>
-        <content type="html"><![CDATA[격렬하면서도  고요한 움직임으로 담아낸 뉴 시즌의 정제된 키 룩 15.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 스커트 스타일링은 이렇게! #벌룬스커트]]></title>
-        <id>https://www.elle.co.kr/article/84684</id>
-        <link href="https://www.elle.co.kr/article/84684"/>
-        <updated>2024-03-08T17:39:15.999Z</updated>
-        <content type="html"><![CDATA[스커트 어울리는 계절을 위해 추천하는 벌룬 스커트! 풍성하고 통통할수록 예뻐요.]]></content>
     </entry>
 </feed>
