@@ -1,59 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture</id>
-    <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-03-12T05:41:16.595Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[민예품의 재발견 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/84715</id>
-        <link href="https://www.elle.co.kr/article/84715"/>
-        <updated>2024-03-11T17:40:22.726Z</updated>
-        <content type="html"><![CDATA[민예품을 판매하는 도쿄의 가게 네 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['MZ무당 봉길' 이도현이 연기할 때 '화림 선생님'만 생각한 이유]]></title>
-        <id>https://www.elle.co.kr/article/84700</id>
-        <link href="https://www.elle.co.kr/article/84700"/>
-        <updated>2024-03-11T05:40:10.439Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나란히 개봉한 오스카 후보작! '패스트 라이브즈' vs '가여운 것들' 관전포인트는?]]></title>
-        <id>https://www.elle.co.kr/article/84673</id>
-        <link href="https://www.elle.co.kr/article/84673"/>
-        <updated>2024-03-11T05:40:10.440Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시4' 개봉일이 확정됐다 (ft. 4대 빌런)]]></title>
-        <id>https://www.elle.co.kr/article/84656</id>
-        <link href="https://www.elle.co.kr/article/84656"/>
-        <updated>2024-03-11T05:40:10.441Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['패스트 라이브즈' 셀린 송 감독이 데뷔작에 '인연'의 정서를 담은 까닭]]></title>
-        <id>https://www.elle.co.kr/article/84654</id>
-        <link href="https://www.elle.co.kr/article/84654"/>
-        <updated>2024-03-08T17:39:41.243Z</updated>
-        <content type="html"><![CDATA[과거와의 인연으로 살지만, 미래로 나아가야 할 모두를 위한 작품.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리즈 LA에 데뷔한 만 89세 한국 아티스트]]></title>
-        <id>https://www.elle.co.kr/article/84638</id>
-        <link href="https://www.elle.co.kr/article/84638"/>
-        <updated>2024-03-08T17:39:41.368Z</updated>
-        <content type="html"><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트]]></title>
-        <id>https://www.elle.co.kr/article/84625</id>
-        <link href="https://www.elle.co.kr/article/84625"/>
-        <updated>2024-03-07T17:39:55.709Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야구 밖에 모르는 바보인 줄 알았던 오타니 쇼헤이의 결혼 상대]]></title>
-        <id>https://www.elle.co.kr/article/84623</id>
-        <link href="https://www.elle.co.kr/article/84623"/>
-        <updated>2024-03-06T17:43:16.658Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 12 Mar 2024 17:40:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그림자 속의 빛나는 여성들]]></title>
+            <link>https://www.elle.co.kr/article/84723</link>
+            <guid>https://www.elle.co.kr/article/84723</guid>
+            <pubDate>Tue, 12 Mar 2024 17:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[기나긴 그림자, 그 안에서 고유한 세계를 구축한 세 명의 여성 아티스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/09/0a4d3f64-2c3c-448d-9a16-bf5f39b7b4c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민예품의 재발견 #도쿄핫플]]></title>
+            <link>https://www.elle.co.kr/article/84715</link>
+            <guid>https://www.elle.co.kr/article/84715</guid>
+            <pubDate>Mon, 11 Mar 2024 17:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[민예품을 판매하는 도쿄의 가게 네 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/08/2d308158-6227-4030-9b7c-0d448b8b7c6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['MZ무당 봉길' 이도현이 연기할 때 '화림 선생님'만 생각한 이유]]></title>
+            <link>https://www.elle.co.kr/article/84700</link>
+            <guid>https://www.elle.co.kr/article/84700</guid>
+            <pubDate>Mon, 11 Mar 2024 05:40:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/619410a4-e979-42de-b21b-ce69219e940f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나란히 개봉한 오스카 후보작! '패스트 라이브즈' vs '가여운 것들' 관전포인트는?]]></title>
+            <link>https://www.elle.co.kr/article/84673</link>
+            <guid>https://www.elle.co.kr/article/84673</guid>
+            <pubDate>Mon, 11 Mar 2024 05:40:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/2f6e49a8-c324-4022-82ac-dde2dc95a549.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시4' 개봉일이 확정됐다 (ft. 4대 빌런)]]></title>
+            <link>https://www.elle.co.kr/article/84656</link>
+            <guid>https://www.elle.co.kr/article/84656</guid>
+            <pubDate>Mon, 11 Mar 2024 05:40:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/dfc7e692-eb59-428e-a3e6-39a770cd4ac0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['패스트 라이브즈' 셀린 송 감독이 데뷔작에 '인연'의 정서를 담은 까닭]]></title>
+            <link>https://www.elle.co.kr/article/84654</link>
+            <guid>https://www.elle.co.kr/article/84654</guid>
+            <pubDate>Fri, 08 Mar 2024 17:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[과거와의 인연으로 살지만, 미래로 나아가야 할 모두를 위한 작품.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/6ef009b0-fc3f-40b8-bc99-dd2827277328.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즈 LA에 데뷔한 만 89세 한국 아티스트]]></title>
+            <link>https://www.elle.co.kr/article/84638</link>
+            <guid>https://www.elle.co.kr/article/84638</guid>
+            <pubDate>Fri, 08 Mar 2024 17:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/3e7d43eb-9b04-4340-88a8-a246bcb08bd2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트]]></title>
+            <link>https://www.elle.co.kr/article/84625</link>
+            <guid>https://www.elle.co.kr/article/84625</guid>
+            <pubDate>Thu, 07 Mar 2024 17:39:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/04/2f586016-81c3-4735-b555-75dba0a303da.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

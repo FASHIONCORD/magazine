@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-12T05:41:16.715Z</updated>
+    <updated>2024-03-12T17:40:59.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손끝에 피어난 봄, 네일 아트 아이디어 5]]></title>
+        <id>https://www.elle.co.kr/article/84759</id>
+        <link href="https://www.elle.co.kr/article/84759"/>
+        <updated>2024-03-12T17:39:45.186Z</updated>
+        <content type="html"><![CDATA[새로운 계절, 새로운 네일! 아이유, 르세라핌 은채, 아이린 등 스타들이 선보인 네일 디자인을 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너와 엮인 날]]></title>
+        <id>https://www.elle.co.kr/article/84758</id>
+        <link href="https://www.elle.co.kr/article/84758"/>
+        <updated>2024-03-12T17:39:45.190Z</updated>
+        <content type="html"><![CDATA[우연인 듯 운명처럼.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이애미에서 먼저 만난 핫한 시계]]></title>
+        <id>https://www.elle.co.kr/article/84752</id>
+        <link href="https://www.elle.co.kr/article/84752"/>
+        <updated>2024-03-12T17:39:45.196Z</updated>
+        <content type="html"><![CDATA[더욱 풍성한 라인업으로 찾아온 'LVMH 워치 워크 2024'에 다녀온 후기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[짜요짜요, 우븐 백]]></title>
+        <id>https://www.elle.co.kr/article/84726</id>
+        <link href="https://www.elle.co.kr/article/84726"/>
+        <updated>2024-03-12T17:39:45.199Z</updated>
+        <content type="html"><![CDATA[엮이고 엮인 관계.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘사이즈 업’ 해주세요! 오버사이즈 재킷 스타일링 5]]></title>
         <id>https://www.elle.co.kr/article/84739</id>
@@ -32,33 +60,5 @@
         <link href="https://www.elle.co.kr/article/84724"/>
         <updated>2024-03-11T17:39:35.285Z</updated>
         <content type="html"><![CDATA[지수처럼 목에 매거나 제니처럼 머리에 둘러 연출해 보세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌드 업!]]></title>
-        <id>https://www.elle.co.kr/article/84722</id>
-        <link href="https://www.elle.co.kr/article/84722"/>
-        <updated>2024-03-11T05:39:14.313Z</updated>
-        <content type="html"><![CDATA[더할 수록 배가 되는 강렬함.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조용한 아름다움의 방법]]></title>
-        <id>https://www.elle.co.kr/article/84710</id>
-        <link href="https://www.elle.co.kr/article/84710"/>
-        <updated>2024-03-11T05:39:14.314Z</updated>
-        <content type="html"><![CDATA[과감한 색은 중립적인 색채로 변했고, 대담한 로고는 슬그머니 자취를 감췄다. 그러나 2024년의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타일리스트 정윤기가 전하는 소식]]></title>
-        <id>https://www.elle.co.kr/article/84702</id>
-        <link href="https://www.elle.co.kr/article/84702"/>
-        <updated>2024-03-10T17:39:23.742Z</updated>
-        <content type="html"><![CDATA[신상 백, 에르메스 오브제 프레젠테이션 그리고 마르니와의 협업 컬렉션까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설원 속 몽클레르 그레노블]]></title>
-        <id>https://www.elle.co.kr/article/84693</id>
-        <link href="https://www.elle.co.kr/article/84693"/>
-        <updated>2024-03-10T17:39:23.743Z</updated>
-        <content type="html"><![CDATA[시종일관 화려한 클라이맥스가 펼쳐진 몽클레르 그레노블의 설산.]]></content>
     </entry>
 </feed>
