@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-03-13T05:41:06.128Z</updated>
+    <updated>2024-03-13T17:40:47.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역)]]></title>
+        <id>https://www.elle.co.kr/article/84740</id>
+        <link href="https://www.elle.co.kr/article/84740"/>
+        <updated>2024-03-13T17:39:54.130Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그림자 속의 빛나는 여성들]]></title>
         <id>https://www.elle.co.kr/article/84723</id>
@@ -50,11 +56,5 @@
         <link href="https://www.elle.co.kr/article/84638"/>
         <updated>2024-03-08T17:39:41.368Z</updated>
         <content type="html"><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게스트는 뉴진스-라이즈에, 객석엔 유재석-이종석이?! 난리난 아이유 콘서트]]></title>
-        <id>https://www.elle.co.kr/article/84625</id>
-        <link href="https://www.elle.co.kr/article/84625"/>
-        <updated>2024-03-07T17:39:55.709Z</updated>
     </entry>
 </feed>

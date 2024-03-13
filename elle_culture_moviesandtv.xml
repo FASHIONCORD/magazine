@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-03-13T05:41:06.139Z</updated>
+    <updated>2024-03-13T17:40:47.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출연작 재개봉 소식부터 결별설까지, 티모시 샬라메 근황 업데이트 3]]></title>
+        <id>https://www.elle.co.kr/article/84808</id>
+        <link href="https://www.elle.co.kr/article/84808"/>
+        <updated>2024-03-13T17:40:24.050Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[귀주대첩으로 용두용미 엔딩 낸 '고려거란전쟁' 명장면 총정리 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/84755</id>
@@ -79,12 +85,5 @@
         <link href="https://www.elle.co.kr/article/84459"/>
         <updated>2024-02-25T17:40:19.904Z</updated>
         <content type="html"><![CDATA[제30회 미국배우조합상 시상식에서 포착한 영화 &lt;악마는 프라다를 입는다&gt;의 사랑스러운 모먼트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티모시와 젠데이아는 영등포에 무엇을 입고 왔을까?]]></title>
-        <id>https://www.elle.co.kr/article/84444</id>
-        <link href="https://www.elle.co.kr/article/84444"/>
-        <updated>2024-02-23T17:39:57.126Z</updated>
-        <content type="html"><![CDATA[런던에서 사이보그 룩을 선보인 젠데이아, 서울에선 이것?]]></content>
     </entry>
 </feed>

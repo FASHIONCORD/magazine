@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-13T05:41:06.138Z</updated>
+    <updated>2024-03-13T17:40:47.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[입안에 봄이 가득! 기은세표 냉이 레서피 3]]></title>
+        <id>https://www.elle.co.kr/article/84731</id>
+        <link href="https://www.elle.co.kr/article/84731"/>
+        <updated>2024-03-13T17:40:39.649Z</updated>
+        <content type="html"><![CDATA[봄기운이 솔솔 불어오는 요즘, 고급스러운 냉이 파스타부터 바삭한 식감을 자랑하는 냉이 튀김까...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타향살이]]></title>
         <id>https://www.elle.co.kr/article/84713</id>
@@ -50,12 +57,5 @@
         <id>https://www.elle.co.kr/article/84653</id>
         <link href="https://www.elle.co.kr/article/84653"/>
         <updated>2024-03-08T17:40:17.646Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케팅 CEO가 AI 아티스트가 되자 벌어진 일]]></title>
-        <id>https://www.elle.co.kr/article/84613</id>
-        <link href="https://www.elle.co.kr/article/84613"/>
-        <updated>2024-03-08T17:40:17.713Z</updated>
-        <content type="html"><![CDATA[설산 속 몽클레르, 일본 출신 디올, 섬 위 루이 비통의 공통점]]></content>
     </entry>
 </feed>
