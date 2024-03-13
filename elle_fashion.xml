@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-12T17:40:59.454Z</updated>
+    <updated>2024-03-13T05:41:06.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올봄을 지배할 단 하나의 클래식 슈즈_선배’s 어드바이스 #211]]></title>
+        <id>https://www.elle.co.kr/article/84760</id>
+        <link href="https://www.elle.co.kr/article/84760"/>
+        <updated>2024-03-13T05:39:17.494Z</updated>
+        <content type="html"><![CDATA[발레코어에 이은 메리 제인 슈즈 열풍! 그 천의 얼굴은?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손끝에 피어난 봄, 네일 아트 아이디어 5]]></title>
         <id>https://www.elle.co.kr/article/84759</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84734"/>
         <updated>2024-03-12T05:39:25.870Z</updated>
         <content type="html"><![CDATA[쿠팡의 파페치 인수에 이어.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄바람 타고 온 스카프 패션, 지수 또는 제니처럼!]]></title>
-        <id>https://www.elle.co.kr/article/84724</id>
-        <link href="https://www.elle.co.kr/article/84724"/>
-        <updated>2024-03-11T17:39:35.285Z</updated>
-        <content type="html"><![CDATA[지수처럼 목에 매거나 제니처럼 머리에 둘러 연출해 보세요.]]></content>
     </entry>
 </feed>
