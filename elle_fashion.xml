@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-14T05:40:48.340Z</updated>
+    <updated>2024-03-14T17:40:46.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세기의 투샷이 탄생했다]]></title>
+        <id>https://www.elle.co.kr/article/84805</id>
+        <link href="https://www.elle.co.kr/article/84805"/>
+        <updated>2024-03-14T17:39:22.258Z</updated>
+        <content type="html"><![CDATA[한중 대표 미인의 만남이라니, 장관이네요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포근한 '이것'을 꺼내야 할 때! 올봄 당신이 주목해야 카디건 스타일 5]]></title>
+        <id>https://www.elle.co.kr/article/84788</id>
+        <link href="https://www.elle.co.kr/article/84788"/>
+        <updated>2024-03-14T17:39:22.259Z</updated>
+        <content type="html"><![CDATA[따라 입고 싶은 스프링 룩의 비법은? 비즈니스 코어에 활용하기 좋은 그레이 카디건부터 정겨운...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프레시 트랙!]]></title>
         <id>https://www.elle.co.kr/article/84769</id>
@@ -45,19 +59,5 @@
         <link href="https://www.elle.co.kr/article/84759"/>
         <updated>2024-03-12T17:39:45.186Z</updated>
         <content type="html"><![CDATA[새로운 계절, 새로운 네일! 아이유, 르세라핌 은채, 아이린 등 스타들이 선보인 네일 디자인을 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너와 엮인 날]]></title>
-        <id>https://www.elle.co.kr/article/84758</id>
-        <link href="https://www.elle.co.kr/article/84758"/>
-        <updated>2024-03-12T17:39:45.190Z</updated>
-        <content type="html"><![CDATA[우연인 듯 운명처럼.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이애미에서 먼저 만난 핫한 시계]]></title>
-        <id>https://www.elle.co.kr/article/84752</id>
-        <link href="https://www.elle.co.kr/article/84752"/>
-        <updated>2024-03-12T17:39:45.196Z</updated>
-        <content type="html"><![CDATA[더욱 풍성한 라인업으로 찾아온 'LVMH 워치 워크 2024'에 다녀온 후기]]></content>
     </entry>
 </feed>

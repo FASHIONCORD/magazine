@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-14T05:40:48.354Z</updated>
+    <updated>2024-03-14T17:40:46.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나누고 기억하다, 국립중앙박물관 기증관 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/84741</id>
+        <link href="https://www.elle.co.kr/article/84741"/>
+        <updated>2024-03-14T17:40:37.437Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포르쉐의 두번째 전기차, 마칸]]></title>
         <id>https://www.elle.co.kr/article/84735</id>
@@ -52,11 +58,5 @@
         <link href="https://www.elle.co.kr/article/84694"/>
         <updated>2024-03-10T05:40:26.789Z</updated>
         <content type="html"><![CDATA[자고로 연희동의 진정한 매력은 홍제천길에 숨어있는 법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에디터가 먹고 싶어서 정리한 부산 미쉐린 면 요리.list]]></title>
-        <id>https://www.elle.co.kr/article/84685</id>
-        <link href="https://www.elle.co.kr/article/84685"/>
-        <updated>2024-03-09T17:41:10.992Z</updated>
     </entry>
 </feed>

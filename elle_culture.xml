@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-03-14T05:40:48.356Z</updated>
+    <updated>2024-03-14T17:40:46.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유 콘서트에 박보검의 등장이라]]></title>
+        <id>https://www.elle.co.kr/article/84742</id>
+        <link href="https://www.elle.co.kr/article/84742"/>
+        <updated>2024-03-14T17:39:49.001Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나누고 기억하다, 국립중앙박물관 기증관 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/84741</id>
+        <link href="https://www.elle.co.kr/article/84741"/>
+        <updated>2024-03-14T17:39:49.002Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역)]]></title>
         <id>https://www.elle.co.kr/article/84740</id>
@@ -42,19 +54,5 @@
         <id>https://www.elle.co.kr/article/84656</id>
         <link href="https://www.elle.co.kr/article/84656"/>
         <updated>2024-03-11T05:40:10.441Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['패스트 라이브즈' 셀린 송 감독이 데뷔작에 '인연'의 정서를 담은 까닭]]></title>
-        <id>https://www.elle.co.kr/article/84654</id>
-        <link href="https://www.elle.co.kr/article/84654"/>
-        <updated>2024-03-08T17:39:41.243Z</updated>
-        <content type="html"><![CDATA[과거와의 인연으로 살지만, 미래로 나아가야 할 모두를 위한 작품.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리즈 LA에 데뷔한 만 89세 한국 아티스트]]></title>
-        <id>https://www.elle.co.kr/article/84638</id>
-        <link href="https://www.elle.co.kr/article/84638"/>
-        <updated>2024-03-08T17:39:41.368Z</updated>
-        <content type="html"><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content>
     </entry>
 </feed>
