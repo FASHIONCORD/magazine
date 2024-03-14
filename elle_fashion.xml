@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-13T17:40:47.032Z</updated>
+    <updated>2024-03-14T05:40:48.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프레시 트랙!]]></title>
+        <id>https://www.elle.co.kr/article/84769</id>
+        <link href="https://www.elle.co.kr/article/84769"/>
+        <updated>2024-03-14T05:39:33.792Z</updated>
+        <content type="html"><![CDATA[새로운 행성에 첫발을 내디딘 듯 짜릿한 경험.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멘즈 패션위크 살펴보기]]></title>
+        <id>https://www.elle.co.kr/article/84773</id>
+        <link href="https://www.elle.co.kr/article/84773"/>
+        <updated>2024-03-14T05:39:33.797Z</updated>
+        <content type="html"><![CDATA[밀란과 파리에서 열린 2024 맨즈 패션위크에서 생긴일.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안락의자에서 백일몽을 꾸는 아티스트]]></title>
         <id>https://www.elle.co.kr/article/84779</id>
@@ -45,19 +59,5 @@
         <link href="https://www.elle.co.kr/article/84752"/>
         <updated>2024-03-12T17:39:45.196Z</updated>
         <content type="html"><![CDATA[더욱 풍성한 라인업으로 찾아온 'LVMH 워치 워크 2024'에 다녀온 후기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짜요짜요, 우븐 백]]></title>
-        <id>https://www.elle.co.kr/article/84726</id>
-        <link href="https://www.elle.co.kr/article/84726"/>
-        <updated>2024-03-12T17:39:45.199Z</updated>
-        <content type="html"><![CDATA[엮이고 엮인 관계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘사이즈 업’ 해주세요! 오버사이즈 재킷 스타일링 5]]></title>
-        <id>https://www.elle.co.kr/article/84739</id>
-        <link href="https://www.elle.co.kr/article/84739"/>
-        <updated>2024-03-12T05:39:25.867Z</updated>
-        <content type="html"><![CDATA[두아 리파, 예리, 금새록 등 스타들이 보여준 클 수록 좋은 이번 시즌 재킷 연출법.]]></content>
     </entry>
 </feed>

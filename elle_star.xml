@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-13T17:40:47.016Z</updated>
+    <updated>2024-03-14T05:40:48.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세기의 투샷이 탄생했다]]></title>
+        <id>https://www.elle.co.kr/article/84805</id>
+        <link href="https://www.elle.co.kr/article/84805"/>
+        <updated>2024-03-14T05:39:52.121Z</updated>
+        <content type="html"><![CDATA[한중 대표 미인의 만남이라니, 장관이네요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지성X이보영 럽스타그램.jpg]]></title>
+        <id>https://www.elle.co.kr/article/84785</id>
+        <link href="https://www.elle.co.kr/article/84785"/>
+        <updated>2024-03-14T05:39:52.126Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공간을 그리는 아티스트가 추천하는 봄 산책 코스는? 반지수의 #취향일지도]]></title>
         <id>https://www.elle.co.kr/article/84768</id>
@@ -41,17 +54,5 @@
         <id>https://www.elle.co.kr/article/84751</id>
         <link href="https://www.elle.co.kr/article/84751"/>
         <updated>2024-03-12T17:40:01.349Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유 콘서트에 박보검의 등장이라]]></title>
-        <id>https://www.elle.co.kr/article/84742</id>
-        <link href="https://www.elle.co.kr/article/84742"/>
-        <updated>2024-03-12T05:39:41.488Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역)]]></title>
-        <id>https://www.elle.co.kr/article/84740</id>
-        <link href="https://www.elle.co.kr/article/84740"/>
-        <updated>2024-03-12T05:39:41.489Z</updated>
     </entry>
 </feed>

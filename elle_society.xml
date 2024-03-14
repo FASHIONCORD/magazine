@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-03-13T17:40:47.038Z</updated>
+    <updated>2024-03-14T05:40:48.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘르 보이스] 커뮤니티라는 소중한 방]]></title>
+        <id>https://www.elle.co.kr/article/84696</id>
+        <link href="https://www.elle.co.kr/article/84696"/>
+        <updated>2024-03-14T05:40:47.652Z</updated>
+        <content type="html"><![CDATA[일하는 여성 커뮤니티 뉴그라운드 황효진 대표가 외롭지 않은 이유.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루만 돈을 맡겨도 이자가 들어온다고요? #돈쓸신잡 140]]></title>
         <id>https://www.elle.co.kr/article/84688</id>
@@ -50,11 +57,5 @@
         <id>https://www.elle.co.kr/article/84566</id>
         <link href="https://www.elle.co.kr/article/84566"/>
         <updated>2024-03-06T17:44:15.599Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국제 북극곰의 날'이 사라질지도 모른다?!]]></title>
-        <id>https://www.elle.co.kr/article/84491</id>
-        <link href="https://www.elle.co.kr/article/84491"/>
-        <updated>2024-03-05T05:40:44.044Z</updated>
     </entry>
 </feed>
