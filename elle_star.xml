@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-14T17:40:46.164Z</updated>
+    <updated>2024-03-15T05:40:37.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[언제나 피부 성수기! 안소희의 동안 피부 비결은?]]></title>
+        <id>https://www.elle.co.kr/article/84812</id>
+        <link href="https://www.elle.co.kr/article/84812"/>
+        <updated>2024-03-15T05:39:44.766Z</updated>
+        <content type="html"><![CDATA[피부의 시간을 되돌리고 싶다면? 안소희의 피부 관리법을 놓치지 마세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결혼 14년차 전혜진X이천희 럽스타그램.jpg]]></title>
+        <id>https://www.elle.co.kr/article/84809</id>
+        <link href="https://www.elle.co.kr/article/84809"/>
+        <updated>2024-03-15T05:39:44.767Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출연작 재개봉 소식부터 결별설까지, 티모시 샬라메 근황 업데이트 3]]></title>
         <id>https://www.elle.co.kr/article/84808</id>
@@ -41,18 +54,5 @@
         <id>https://www.elle.co.kr/article/84762</id>
         <link href="https://www.elle.co.kr/article/84762"/>
         <updated>2024-03-13T17:39:47.476Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올봄을 지배할 단 하나의 클래식 슈즈_선배’s 어드바이스 #211]]></title>
-        <id>https://www.elle.co.kr/article/84760</id>
-        <link href="https://www.elle.co.kr/article/84760"/>
-        <updated>2024-03-13T17:39:47.478Z</updated>
-        <content type="html"><![CDATA[발레코어에 이은 메리 제인 슈즈 열풍! 그 천의 얼굴은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안재홍X류승룡이 인생네컷으로 소환한 아이유X뷔]]></title>
-        <id>https://www.elle.co.kr/article/84756</id>
-        <link href="https://www.elle.co.kr/article/84756"/>
-        <updated>2024-03-13T17:39:47.481Z</updated>
     </entry>
 </feed>

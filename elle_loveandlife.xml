@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-14T17:40:46.176Z</updated>
+    <updated>2024-03-15T05:40:38.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['벤치 맛집'이 도전한 탄소 배출 0% 가구]]></title>
+        <id>https://www.elle.co.kr/article/84749</id>
+        <link href="https://www.elle.co.kr/article/84749"/>
+        <updated>2024-03-15T05:40:29.648Z</updated>
+        <content type="html"><![CDATA[벤치: 제대로 지속 가능해줄게]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나누고 기억하다, 국립중앙박물관 기증관 #요즘전시]]></title>
         <id>https://www.elle.co.kr/article/84741</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84705"/>
         <updated>2024-03-10T17:40:31.248Z</updated>
         <content type="html"><![CDATA[힙당동에 방문한다면 고민 말고 무조건 이곳으로 향해보세요. 유이를 감동시킨 30년 전통의 이자...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엽서 3000개가 빼곡히 들어찬 편집숍? #엘르동]]></title>
-        <id>https://www.elle.co.kr/article/84694</id>
-        <link href="https://www.elle.co.kr/article/84694"/>
-        <updated>2024-03-10T05:40:26.789Z</updated>
-        <content type="html"><![CDATA[자고로 연희동의 진정한 매력은 홍제천길에 숨어있는 법.]]></content>
     </entry>
 </feed>
