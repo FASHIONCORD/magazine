@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-15T05:40:37.952Z</updated>
+    <updated>2024-03-15T17:40:41.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[언제나 피부 성수기! 안소희의 동안 피부 비결은?]]></title>
+        <id>https://www.elle.co.kr/article/84812</id>
+        <link href="https://www.elle.co.kr/article/84812"/>
+        <updated>2024-03-15T17:39:43.494Z</updated>
+        <content type="html"><![CDATA[피부의 시간을 되돌리고 싶다면? 안소희의 피부 관리법을 놓치지 마세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['체지방 9kg' 한혜진이 살 빼다 스트레스 받을 때 먹는 음식 #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/84807</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/84708"/>
         <updated>2024-03-12T05:39:34.763Z</updated>
         <content type="html"><![CDATA[인종과 체형, 나이, 직업은 다르지만 여성의 연대 아래 뭉친 10명의 룰루레몬 앰배서더입니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감탄 주의! 제품력 '넘사'인 3월의 뷰티 신상 10.]]></title>
-        <id>https://www.elle.co.kr/article/84695</id>
-        <link href="https://www.elle.co.kr/article/84695"/>
-        <updated>2024-03-11T17:39:46.167Z</updated>
-        <content type="html"><![CDATA[감각적인 디자인과 남다른 제품력. 우리 두 눈과 피부에 황홀감을 선사해 줄 3월의 뷰티 신상.]]></content>
     </entry>
 </feed>

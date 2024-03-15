@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 엔터테인먼트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 17:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비단뱀이 미래 대체 식량이 될 수도 있다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37488484&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37488484&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Fri, 15 Mar 2024 17:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTVfMzYg/MDAxNzEwNDk4Mzk0NjAw.G9TWdui4ALxX5vo6PNy2fXksTTlt5Z4mD6HQTR-OTB0g.SKGncAaGyGwA0ve2XYldn_hfQf1bb8JyMKanCyhLEXQg.JPEG/IvKB-SJpVATaBbMRYH6iiapkkZk8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마크 저커버그를 홀린 ‘입문 시계’는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37440497&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 22 Jan 2024 17:38:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjJfMTQ0/MDAxNzA1OTMyMjg2MTUz.WELKU4LX9KG4m0qtreELzzTdOLX479rg8lqUWXT3nPAg.a-a5dBVyFlNUGE4RJtYw4PEQo-_HTxsrB13BqO4QMOcg.JPEG/IBKxCAKuME84TuT2795NsR-y7cVI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘서울의 봄’ 제작사, 두 개의 한국 근현대사 영화 추가 제작한다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37205199&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37205199&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Wed, 17 Jan 2024 17:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTdfNDUg/MDAxNzA1NDkwMjkwMDI5._3cWMOaxcMuNypumpLXTwu1JEoEGUbX_JfeH5CBJDkcg.AvwEXv1-EEhW1zRcdCAAsWES_OCgP3QCyxMPx6alDc0g.JPEG/IJWdihh89prP4petO7nVtxiQ80xE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

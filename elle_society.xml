@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-03-15T05:40:37.965Z</updated>
+    <updated>2024-03-15T17:40:41.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 세계 여성의 날 구호, '포용을 고취하라'의 의미 #InspireInclusion]]></title>
+        <id>https://www.elle.co.kr/article/84706</id>
+        <link href="https://www.elle.co.kr/article/84706"/>
+        <updated>2024-03-15T17:40:40.598Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엘르 보이스] 커뮤니티라는 소중한 방]]></title>
         <id>https://www.elle.co.kr/article/84696</id>
@@ -51,11 +57,5 @@
         <link href="https://www.elle.co.kr/article/84581"/>
         <updated>2024-03-07T17:40:46.942Z</updated>
         <content type="html"><![CDATA[하지만 모든 변화는 점진적으로 일어나기에 우리의 고민과 실천은 무엇도 부질없지 않다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자본주의 사회에서 바보 되는 법 #돈쓸신잡 139]]></title>
-        <id>https://www.elle.co.kr/article/84566</id>
-        <link href="https://www.elle.co.kr/article/84566"/>
-        <updated>2024-03-06T17:44:15.599Z</updated>
     </entry>
 </feed>

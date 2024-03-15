@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-15T05:40:38.033Z</updated>
+    <updated>2024-03-15T17:40:41.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몰디브의 두 리조트가 알려준 것들]]></title>
+        <id>https://www.elle.co.kr/article/84792</id>
+        <link href="https://www.elle.co.kr/article/84792"/>
+        <updated>2024-03-15T17:40:33.767Z</updated>
+        <content type="html"><![CDATA[세상에 같은 색의 바다는 없다. 그런 확신을 심어준 몰디브의 두 리조트와 그곳에서 깨우친 바...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화이트데이 선물 고민이라면? 비주얼 대박인 수제 사탕 전문점 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84784</id>
+        <link href="https://www.elle.co.kr/article/84784"/>
+        <updated>2024-03-15T17:40:33.775Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['벤치 맛집'이 도전한 탄소 배출 0% 가구]]></title>
         <id>https://www.elle.co.kr/article/84749</id>
@@ -45,18 +58,5 @@
         <link href="https://www.elle.co.kr/article/84715"/>
         <updated>2024-03-11T17:41:02.192Z</updated>
         <content type="html"><![CDATA[민예품을 판매하는 도쿄의 가게 네 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랜선으로 봄 향기 전해 주는 해외 도서관 3]]></title>
-        <id>https://www.elle.co.kr/article/84714</id>
-        <link href="https://www.elle.co.kr/article/84714"/>
-        <updated>2024-03-11T05:40:40.114Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핫플 of 핫플! 신당동 중앙시장 속 맛집 3]]></title>
-        <id>https://www.elle.co.kr/article/84705</id>
-        <link href="https://www.elle.co.kr/article/84705"/>
-        <updated>2024-03-10T17:40:31.248Z</updated>
-        <content type="html"><![CDATA[힙당동에 방문한다면 고민 말고 무조건 이곳으로 향해보세요. 유이를 감동시킨 30년 전통의 이자...]]></content>
     </entry>
 </feed>

@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/moviesandtv</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-03-15T05:40:37.964Z</updated>
+    <updated>2024-03-15T17:40:41.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['세상에 이런 일이'가 26년 만에 사라질지도 모른다]]></title>
+        <id>https://www.elle.co.kr/article/84854</id>
+        <link href="https://www.elle.co.kr/article/84854"/>
+        <updated>2024-03-15T17:40:19.037Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/84845</id>
+        <link href="https://www.elle.co.kr/article/84845"/>
+        <updated>2024-03-15T17:40:19.041Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 5년 만의 신작 '미키17' 개봉 정보.txt]]></title>
         <id>https://www.elle.co.kr/article/84826</id>
@@ -72,17 +84,5 @@
         <link href="https://www.elle.co.kr/article/84595"/>
         <updated>2024-03-04T06:08:22.693Z</updated>
         <content type="html"><![CDATA[여자가 여자에게 반한다는 건, 가히 '빅뱅이론'과 맞먹을 만큼 큰 사건이다! 그간 내가 반한 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완전히 달라진 티모시 샬라메X송중기X차은우!? 삼일절 연휴에 볼만한 3월 첫 주 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84571</id>
-        <link href="https://www.elle.co.kr/article/84571"/>
-        <updated>2024-03-01T05:40:46.657Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수현X김지원 웨딩 사진.jpg]]></title>
-        <id>https://www.elle.co.kr/article/84505</id>
-        <link href="https://www.elle.co.kr/article/84505"/>
-        <updated>2024-02-27T17:40:10.075Z</updated>
     </entry>
 </feed>
