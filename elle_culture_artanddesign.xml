@@ -1,100 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 17:40:41 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[추악함이라는 아름다움]]></title>
-            <link>https://www.elle.co.kr/article/84856</link>
-            <guid>https://www.elle.co.kr/article/84856</guid>
-            <pubDate>Fri, 15 Mar 2024 17:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[마릴린 민터가 아름다움을 말하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/16/184b0a13-bf36-4d50-9a47-ab62182f1bfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리 올림픽 포스터가 유독 따뜻한 이유]]></title>
-            <link>https://www.elle.co.kr/article/84843</link>
-            <guid>https://www.elle.co.kr/article/84843</guid>
-            <pubDate>Fri, 15 Mar 2024 17:40:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/fd125014-6abb-4e76-b5e1-8cf14117cad9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나누고 기억하다, 국립중앙박물관 기증관 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/84741</link>
-            <guid>https://www.elle.co.kr/article/84741</guid>
-            <pubDate>Mon, 11 Mar 2024 05:40:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/42ddcaaf-9d12-45a1-b44c-e43da941c71d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그림자 속의 빛나는 여성들]]></title>
-            <link>https://www.elle.co.kr/article/84723</link>
-            <guid>https://www.elle.co.kr/article/84723</guid>
-            <pubDate>Fri, 08 Mar 2024 17:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[기나긴 그림자, 그 안에서 고유한 세계를 구축한 세 명의 여성 아티스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/09/0a4d3f64-2c3c-448d-9a16-bf5f39b7b4c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민예품의 재발견 #도쿄핫플]]></title>
-            <link>https://www.elle.co.kr/article/84715</link>
-            <guid>https://www.elle.co.kr/article/84715</guid>
-            <pubDate>Fri, 08 Mar 2024 17:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[민예품을 판매하는 도쿄의 가게 네 곳.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프리즈 LA에 데뷔한 만 89세 한국 아티스트]]></title>
-            <link>https://www.elle.co.kr/article/84638</link>
-            <guid>https://www.elle.co.kr/article/84638</guid>
-            <pubDate>Tue, 05 Mar 2024 05:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시)]]></title>
-            <link>https://www.elle.co.kr/article/84507</link>
-            <guid>https://www.elle.co.kr/article/84507</guid>
-            <pubDate>Tue, 27 Feb 2024 17:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[힌트: 리움미술관 개인전 주인공]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[누가 여기 거인들을 풀어 놨어?]]></title>
-            <link>https://www.elle.co.kr/article/84483</link>
-            <guid>https://www.elle.co.kr/article/84483</guid>
-            <pubDate>Mon, 26 Feb 2024 17:40:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/84477</link>
-            <guid>https://www.elle.co.kr/article/84477</guid>
-            <pubDate>Mon, 26 Feb 2024 17:40:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[젠데이아가 사이보그로 변신했다?]]></title>
-            <link>https://www.elle.co.kr/article/84329</link>
-            <guid>https://www.elle.co.kr/article/84329</guid>
-            <pubDate>Sun, 18 Feb 2024 17:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선]]></title>
-            <link>https://www.elle.co.kr/article/84315</link>
-            <guid>https://www.elle.co.kr/article/84315</guid>
-            <pubDate>Fri, 16 Feb 2024 05:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/84308</link>
-            <guid>https://www.elle.co.kr/article/84308</guid>
-            <pubDate>Thu, 15 Feb 2024 17:40:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이케아가 영감을 받았다는 그 아티스트]]></title>
-            <link>https://www.elle.co.kr/article/84258</link>
-            <guid>https://www.elle.co.kr/article/84258</guid>
-            <pubDate>Tue, 13 Feb 2024 17:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture/artanddesign</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
+    <updated>2024-03-16T05:41:11.478Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추악함이라는 아름다움]]></title>
+        <id>https://www.elle.co.kr/article/84856</id>
+        <link href="https://www.elle.co.kr/article/84856"/>
+        <updated>2024-03-15T17:40:25.861Z</updated>
+        <content type="html"><![CDATA[마릴린 민터가 아름다움을 말하는 법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파리 올림픽 포스터가 유독 따뜻한 이유]]></title>
+        <id>https://www.elle.co.kr/article/84843</id>
+        <link href="https://www.elle.co.kr/article/84843"/>
+        <updated>2024-03-15T17:40:25.862Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나누고 기억하다, 국립중앙박물관 기증관 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/84741</id>
+        <link href="https://www.elle.co.kr/article/84741"/>
+        <updated>2024-03-11T05:40:32.499Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그림자 속의 빛나는 여성들]]></title>
+        <id>https://www.elle.co.kr/article/84723</id>
+        <link href="https://www.elle.co.kr/article/84723"/>
+        <updated>2024-03-08T17:40:09.341Z</updated>
+        <content type="html"><![CDATA[기나긴 그림자, 그 안에서 고유한 세계를 구축한 세 명의 여성 아티스트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민예품의 재발견 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/84715</id>
+        <link href="https://www.elle.co.kr/article/84715"/>
+        <updated>2024-03-08T17:40:09.342Z</updated>
+        <content type="html"><![CDATA[민예품을 판매하는 도쿄의 가게 네 곳.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프리즈 LA에 데뷔한 만 89세 한국 아티스트]]></title>
+        <id>https://www.elle.co.kr/article/84638</id>
+        <link href="https://www.elle.co.kr/article/84638"/>
+        <updated>2024-03-05T05:40:28.704Z</updated>
+        <content type="html"><![CDATA[이 정도는 되어야 2개 갤러리 러브콜을 받는구나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루이 비통의 몬스터 꽃 무대를 만든 사람? (feat. 서울 전시)]]></title>
+        <id>https://www.elle.co.kr/article/84507</id>
+        <link href="https://www.elle.co.kr/article/84507"/>
+        <updated>2024-02-27T17:40:17.994Z</updated>
+        <content type="html"><![CDATA[힌트: 리움미술관 개인전 주인공]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누가 여기 거인들을 풀어 놨어?]]></title>
+        <id>https://www.elle.co.kr/article/84483</id>
+        <link href="https://www.elle.co.kr/article/84483"/>
+        <updated>2024-02-26T17:40:34.765Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 현대미술의 시차, 당신은 어느 시간에 탑승하시겠습니까? #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/84477</id>
+        <link href="https://www.elle.co.kr/article/84477"/>
+        <updated>2024-02-26T17:40:34.783Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠데이아가 사이보그로 변신했다?]]></title>
+        <id>https://www.elle.co.kr/article/84329</id>
+        <link href="https://www.elle.co.kr/article/84329"/>
+        <updated>2024-02-18T17:41:02.790Z</updated>
+        <content type="html"><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선]]></title>
+        <id>https://www.elle.co.kr/article/84315</id>
+        <link href="https://www.elle.co.kr/article/84315"/>
+        <updated>2024-02-16T05:40:23.045Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 1세대 여성 추상화가 최욱경의 개인전, '낯설은 얼굴들처럼' #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/84308</id>
+        <link href="https://www.elle.co.kr/article/84308"/>
+        <updated>2024-02-15T17:40:22.903Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이케아가 영감을 받았다는 그 아티스트]]></title>
+        <id>https://www.elle.co.kr/article/84258</id>
+        <link href="https://www.elle.co.kr/article/84258"/>
+        <updated>2024-02-13T17:40:07.804Z</updated>
+        <content type="html"><![CDATA[누구나 꿈꾸는 스웨덴 시골 생활을 그려내다]]></content>
+    </entry>
+</feed>

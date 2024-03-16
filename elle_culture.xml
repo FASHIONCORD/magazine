@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-03-15T17:40:41.253Z</updated>
+    <updated>2024-03-16T05:41:11.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봉준호 5년 만의 신작 '미키17' 개봉 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/84826</id>
+        <link href="https://www.elle.co.kr/article/84826"/>
+        <updated>2024-03-16T05:40:12.366Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["은퇴 전 꼭 보여드릴 이야기": 김은희의 '시그널'이 돌아온다]]></title>
+        <id>https://www.elle.co.kr/article/84823</id>
+        <link href="https://www.elle.co.kr/article/84823"/>
+        <updated>2024-03-16T05:40:12.383Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출연작 재개봉 소식부터 결별설까지, 티모시 샬라메 근황 업데이트 3]]></title>
+        <id>https://www.elle.co.kr/article/84808</id>
+        <link href="https://www.elle.co.kr/article/84808"/>
+        <updated>2024-03-16T05:40:12.384Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공간을 그리는 아티스트가 추천하는 봄 산책 코스는? 반지수의 #취향일지도]]></title>
+        <id>https://www.elle.co.kr/article/84768</id>
+        <link href="https://www.elle.co.kr/article/84768"/>
+        <updated>2024-03-16T05:40:12.384Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀주대첩으로 용두용미 엔딩 낸 '고려거란전쟁' 명장면 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/84755</id>
+        <link href="https://www.elle.co.kr/article/84755"/>
+        <updated>2024-03-16T05:40:12.385Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유 콘서트에 박보검의 등장이라]]></title>
         <id>https://www.elle.co.kr/article/84742</id>
@@ -22,37 +52,5 @@
         <id>https://www.elle.co.kr/article/84740</id>
         <link href="https://www.elle.co.kr/article/84740"/>
         <updated>2024-03-13T17:39:54.130Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그림자 속의 빛나는 여성들]]></title>
-        <id>https://www.elle.co.kr/article/84723</id>
-        <link href="https://www.elle.co.kr/article/84723"/>
-        <updated>2024-03-12T17:40:12.614Z</updated>
-        <content type="html"><![CDATA[기나긴 그림자, 그 안에서 고유한 세계를 구축한 세 명의 여성 아티스트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민예품의 재발견 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/84715</id>
-        <link href="https://www.elle.co.kr/article/84715"/>
-        <updated>2024-03-11T17:40:22.726Z</updated>
-        <content type="html"><![CDATA[민예품을 판매하는 도쿄의 가게 네 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['MZ무당 봉길' 이도현이 연기할 때 '화림 선생님'만 생각한 이유]]></title>
-        <id>https://www.elle.co.kr/article/84700</id>
-        <link href="https://www.elle.co.kr/article/84700"/>
-        <updated>2024-03-11T05:40:10.439Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나란히 개봉한 오스카 후보작! '패스트 라이브즈' vs '가여운 것들' 관전포인트는?]]></title>
-        <id>https://www.elle.co.kr/article/84673</id>
-        <link href="https://www.elle.co.kr/article/84673"/>
-        <updated>2024-03-11T05:40:10.440Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시4' 개봉일이 확정됐다 (ft. 4대 빌런)]]></title>
-        <id>https://www.elle.co.kr/article/84656</id>
-        <link href="https://www.elle.co.kr/article/84656"/>
-        <updated>2024-03-11T05:40:10.441Z</updated>
     </entry>
 </feed>
