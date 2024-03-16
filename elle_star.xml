@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-16T05:41:11.433Z</updated>
+    <updated>2024-03-16T17:41:43.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박소담이 애정하는 디저트 맛집은 어디?]]></title>
+        <id>https://www.elle.co.kr/article/84833</id>
+        <link href="https://www.elle.co.kr/article/84833"/>
+        <updated>2024-03-16T17:39:54.164Z</updated>
+        <content type="html"><![CDATA[맛있는 디저트로 100% 행복 충전하고 싶다면 여기로! 프레첼 맛집부터 젤라테리아까지, 지금 당장...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의외의 사랑꾼 김민재가 밝힌 '한소희 닮은꼴' 아내의 활동 계획]]></title>
         <id>https://www.elle.co.kr/article/84832</id>
@@ -48,12 +55,5 @@
         <id>https://www.elle.co.kr/article/84807</id>
         <link href="https://www.elle.co.kr/article/84807"/>
         <updated>2024-03-14T17:39:38.901Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세기의 투샷이 탄생했다]]></title>
-        <id>https://www.elle.co.kr/article/84805</id>
-        <link href="https://www.elle.co.kr/article/84805"/>
-        <updated>2024-03-14T05:39:52.121Z</updated>
-        <content type="html"><![CDATA[한중 대표 미인의 만남이라니, 장관이네요.]]></content>
     </entry>
 </feed>
