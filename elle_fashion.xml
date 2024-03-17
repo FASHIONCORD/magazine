@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-16T17:41:43.517Z</updated>
+    <updated>2024-03-17T05:41:17.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄 바람 따라온 비비드 컬러]]></title>
+        <id>https://www.elle.co.kr/article/84795</id>
+        <link href="https://www.elle.co.kr/article/84795"/>
+        <updated>2024-03-17T05:39:34.438Z</updated>
+        <content type="html"><![CDATA[무슨 색을 칠해볼까?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루이 비통의 두 번째 '딥 타임' 컬렉션]]></title>
         <id>https://www.elle.co.kr/article/84793</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84769"/>
         <updated>2024-03-14T05:39:33.792Z</updated>
         <content type="html"><![CDATA[새로운 행성에 첫발을 내디딘 듯 짜릿한 경험.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멘즈 패션위크 살펴보기]]></title>
-        <id>https://www.elle.co.kr/article/84773</id>
-        <link href="https://www.elle.co.kr/article/84773"/>
-        <updated>2024-03-14T05:39:33.797Z</updated>
-        <content type="html"><![CDATA[밀란과 파리에서 열린 2024 맨즈 패션위크에서 생긴일.]]></content>
     </entry>
 </feed>
