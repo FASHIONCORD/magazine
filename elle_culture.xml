@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-03-17T05:41:17.698Z</updated>
+    <updated>2024-03-17T17:41:28.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파리 올림픽 포스터가 유독 따뜻한 이유]]></title>
+        <id>https://www.elle.co.kr/article/84843</id>
+        <link href="https://www.elle.co.kr/article/84843"/>
+        <updated>2024-03-17T17:40:07.699Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉준호 5년 만의 신작 '미키17' 개봉 정보.txt]]></title>
         <id>https://www.elle.co.kr/article/84826</id>
@@ -46,11 +52,5 @@
         <id>https://www.elle.co.kr/article/84741</id>
         <link href="https://www.elle.co.kr/article/84741"/>
         <updated>2024-03-14T17:39:49.002Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑꾼 로다주가 첫 오스카 남우조연상 받고 한 말 (ft. 아카데미 수상 내역)]]></title>
-        <id>https://www.elle.co.kr/article/84740</id>
-        <link href="https://www.elle.co.kr/article/84740"/>
-        <updated>2024-03-13T17:39:54.130Z</updated>
     </entry>
 </feed>
