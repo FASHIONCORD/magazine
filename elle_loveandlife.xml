@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 17:41:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[화이트데이니까 괜찮아! 사탕 vs 초콜릿, 무엇을 먹을까요? #취향의발견_9]]></title>
-            <link>https://www.elle.co.kr/article/84819</link>
-            <guid>https://www.elle.co.kr/article/84819</guid>
-            <pubDate>Sat, 16 Mar 2024 05:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/555b7402-e5d0-4361-ac93-a24b08ff5621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몰디브의 두 리조트가 알려준 것들]]></title>
-            <link>https://www.elle.co.kr/article/84792</link>
-            <guid>https://www.elle.co.kr/article/84792</guid>
-            <pubDate>Fri, 15 Mar 2024 17:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[세상에 같은 색의 바다는 없다. 그런 확신을 심어준 몰디브의 두 리조트와 그곳에서 깨우친 바...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/14/7963bb29-b6d5-4fe8-a901-cc341db55a46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트데이 선물 고민이라면? 비주얼 대박인 수제 사탕 전문점 3 #가볼만한곳]]></title>
-            <link>https://www.elle.co.kr/article/84784</link>
-            <guid>https://www.elle.co.kr/article/84784</guid>
-            <pubDate>Fri, 15 Mar 2024 17:40:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/2e210425-c585-4674-8653-863c9f118718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['벤치 맛집'이 도전한 탄소 배출 0% 가구]]></title>
-            <link>https://www.elle.co.kr/article/84749</link>
-            <guid>https://www.elle.co.kr/article/84749</guid>
-            <pubDate>Fri, 15 Mar 2024 05:40:29 GMT</pubDate>
-            <content:encoded><![CDATA[벤치: 제대로 지속 가능해줄게]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/4113f304-af84-440e-b287-8ff96ad0d99f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나누고 기억하다, 국립중앙박물관 기증관 #요즘전시]]></title>
-            <link>https://www.elle.co.kr/article/84741</link>
-            <guid>https://www.elle.co.kr/article/84741</guid>
-            <pubDate>Thu, 14 Mar 2024 17:40:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/42ddcaaf-9d12-45a1-b44c-e43da941c71d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐의 두번째 전기차, 마칸]]></title>
-            <link>https://www.elle.co.kr/article/84735</link>
-            <guid>https://www.elle.co.kr/article/84735</guid>
-            <pubDate>Thu, 14 Mar 2024 05:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[싱가포르 마리나 베이 한가운데서 마칸과 마주한 순간, 우리를 더 먼 세상으로 이끌 전기차의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/6f2a6b82-0f98-4a05-ab37-632382ace619.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입안에 봄이 가득! 기은세표 냉이 레서피 3]]></title>
-            <link>https://www.elle.co.kr/article/84731</link>
-            <guid>https://www.elle.co.kr/article/84731</guid>
-            <pubDate>Wed, 13 Mar 2024 17:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[봄기운이 솔솔 불어오는 요즘, 고급스러운 냉이 파스타부터 바삭한 식감을 자랑하는 냉이 튀김까...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/10/1dd178f5-4c53-46c9-bcc7-ad277bb970bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타향살이]]></title>
-            <link>https://www.elle.co.kr/article/84713</link>
-            <guid>https://www.elle.co.kr/article/84713</guid>
-            <pubDate>Tue, 12 Mar 2024 17:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[고향을 떠나 먼 도시에 발을 디딘 사람들이 일궈낸 공간. 그 익숙하고 낯선 향취가 공존하는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/10/46fc904a-8c5b-4a16-a038-45a31ee5a3b3.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/loveandlife</id>
+    <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
+    <updated>2024-03-18T05:40:38.422Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화이트데이니까 괜찮아! 사탕 vs 초콜릿, 무엇을 먹을까요? #취향의발견_9]]></title>
+        <id>https://www.elle.co.kr/article/84819</id>
+        <link href="https://www.elle.co.kr/article/84819"/>
+        <updated>2024-03-16T05:41:02.019Z</updated>
+        <content type="html"><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몰디브의 두 리조트가 알려준 것들]]></title>
+        <id>https://www.elle.co.kr/article/84792</id>
+        <link href="https://www.elle.co.kr/article/84792"/>
+        <updated>2024-03-15T17:40:33.767Z</updated>
+        <content type="html"><![CDATA[세상에 같은 색의 바다는 없다. 그런 확신을 심어준 몰디브의 두 리조트와 그곳에서 깨우친 바...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화이트데이 선물 고민이라면? 비주얼 대박인 수제 사탕 전문점 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84784</id>
+        <link href="https://www.elle.co.kr/article/84784"/>
+        <updated>2024-03-15T17:40:33.775Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['벤치 맛집'이 도전한 탄소 배출 0% 가구]]></title>
+        <id>https://www.elle.co.kr/article/84749</id>
+        <link href="https://www.elle.co.kr/article/84749"/>
+        <updated>2024-03-15T05:40:29.648Z</updated>
+        <content type="html"><![CDATA[벤치: 제대로 지속 가능해줄게]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나누고 기억하다, 국립중앙박물관 기증관 #요즘전시]]></title>
+        <id>https://www.elle.co.kr/article/84741</id>
+        <link href="https://www.elle.co.kr/article/84741"/>
+        <updated>2024-03-14T17:40:37.437Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포르쉐의 두번째 전기차, 마칸]]></title>
+        <id>https://www.elle.co.kr/article/84735</id>
+        <link href="https://www.elle.co.kr/article/84735"/>
+        <updated>2024-03-14T05:40:39.060Z</updated>
+        <content type="html"><![CDATA[싱가포르 마리나 베이 한가운데서 마칸과 마주한 순간, 우리를 더 먼 세상으로 이끌 전기차의 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[입안에 봄이 가득! 기은세표 냉이 레서피 3]]></title>
+        <id>https://www.elle.co.kr/article/84731</id>
+        <link href="https://www.elle.co.kr/article/84731"/>
+        <updated>2024-03-13T17:40:39.649Z</updated>
+        <content type="html"><![CDATA[봄기운이 솔솔 불어오는 요즘, 고급스러운 냉이 파스타부터 바삭한 식감을 자랑하는 냉이 튀김까...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타향살이]]></title>
+        <id>https://www.elle.co.kr/article/84713</id>
+        <link href="https://www.elle.co.kr/article/84713"/>
+        <updated>2024-03-12T17:40:49.463Z</updated>
+        <content type="html"><![CDATA[고향을 떠나 먼 도시에 발을 디딘 사람들이 일궈낸 공간. 그 익숙하고 낯선 향취가 공존하는 ...]]></content>
+    </entry>
+</feed>
