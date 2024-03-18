@@ -2,9 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-18T05:40:38.417Z</updated>
+    <updated>2024-03-18T17:40:33.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공개 연애 시작한 류준열과 한소희의 입장 정리]]></title>
+        <id>https://www.elle.co.kr/article/84867</id>
+        <link href="https://www.elle.co.kr/article/84867"/>
+        <updated>2024-03-18T17:39:41.921Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멋을 아는 언니, 엄정화의 뷰티 아이템 9]]></title>
+        <id>https://www.elle.co.kr/article/84864</id>
+        <link href="https://www.elle.co.kr/article/84864"/>
+        <updated>2024-03-18T17:39:41.925Z</updated>
+        <content type="html"><![CDATA[자기 전에 뿌리는 향수부터 도톰한 입술을 만들어 주는 플럼핑 립스틱까지, 엄정화의 취향이 느...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 찾은 오타니 쇼헤이, 그가 묵을 호텔은?]]></title>
+        <id>https://www.elle.co.kr/article/84863</id>
+        <link href="https://www.elle.co.kr/article/84863"/>
+        <updated>2024-03-18T17:39:41.928Z</updated>
+        <content type="html"><![CDATA[베일에 싸여있던 아내와의 첫 투샷까지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이무생의 순정]]></title>
+        <id>https://www.elle.co.kr/article/84827</id>
+        <link href="https://www.elle.co.kr/article/84827"/>
+        <updated>2024-03-18T17:39:41.930Z</updated>
+        <content type="html"><![CDATA["저를 찾고 싶어서 연기해요." 고요하고 담담한 얼굴로 늘 사랑 앞에 용감해지는 남자. 이무생이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸움 난 것 아니죠?! 한소희가 류준열과의 열애설에 직접 밝힌 입장]]></title>
+        <id>https://www.elle.co.kr/article/84855</id>
+        <link href="https://www.elle.co.kr/article/84855"/>
+        <updated>2024-03-18T17:39:41.931Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양복 입고 아이유 콘서트 간 유재석의 직관 후기.txt]]></title>
         <id>https://www.elle.co.kr/article/84851</id>
@@ -23,38 +56,5 @@
         <link href="https://www.elle.co.kr/article/84837"/>
         <updated>2024-03-17T17:39:57.142Z</updated>
         <content type="html"><![CDATA[&lt;닭강정&gt;으로 조우한 류승룡과 안재홍, 두 사람만의 달콤한 여정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박소담이 애정하는 디저트 맛집은 어디?]]></title>
-        <id>https://www.elle.co.kr/article/84833</id>
-        <link href="https://www.elle.co.kr/article/84833"/>
-        <updated>2024-03-16T17:39:54.164Z</updated>
-        <content type="html"><![CDATA[맛있는 디저트로 100% 행복 충전하고 싶다면 여기로! 프레첼 맛집부터 젤라테리아까지, 지금 당장...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의외의 사랑꾼 김민재가 밝힌 '한소희 닮은꼴' 아내의 활동 계획]]></title>
-        <id>https://www.elle.co.kr/article/84832</id>
-        <link href="https://www.elle.co.kr/article/84832"/>
-        <updated>2024-03-15T17:39:51.792Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 유아가 통통 볼살 쏙 뺀 비결은? #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84831</id>
-        <link href="https://www.elle.co.kr/article/84831"/>
-        <updated>2024-03-15T17:39:51.793Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청춘 그 자체! 엘르 4월호 커버스타 마크]]></title>
-        <id>https://www.elle.co.kr/article/84813</id>
-        <link href="https://www.elle.co.kr/article/84813"/>
-        <updated>2024-03-15T17:39:51.797Z</updated>
-        <content type="html"><![CDATA[지금의 마크는 아무런 문제가 없다. 그 누구보다 성실하게 자신을 탐색해온 마크의 시간.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언제나 피부 성수기! 안소희의 동안 피부 비결은?]]></title>
-        <id>https://www.elle.co.kr/article/84812</id>
-        <link href="https://www.elle.co.kr/article/84812"/>
-        <updated>2024-03-15T05:39:44.766Z</updated>
-        <content type="html"><![CDATA[피부의 시간을 되돌리고 싶다면? 안소희의 피부 관리법을 놓치지 마세요.]]></content>
     </entry>
 </feed>

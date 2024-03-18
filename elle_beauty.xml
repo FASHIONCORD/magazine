@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-18T05:40:38.415Z</updated>
+    <updated>2024-03-18T17:40:33.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 민지가 선택한, 어린 생기와 활력을 선사하는 세럼]]></title>
+        <id>https://www.elle.co.kr/article/84806</id>
+        <link href="https://www.elle.co.kr/article/84806"/>
+        <updated>2024-03-18T17:39:34.390Z</updated>
+        <content type="html"><![CDATA[혹독한 환경 속에서 기어코 꽃을 피우는 레드 까멜리아처럼, 민지의 얼굴에 강인한 생명력이 움...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[야, 너두 오버립 할 수 있어 (feat.로즈 립 펜슬)]]></title>
         <id>https://www.elle.co.kr/article/84815</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/84730"/>
         <updated>2024-03-14T05:39:43.754Z</updated>
         <content type="html"><![CDATA[피부 컨디션 끌올하는 오버나이트 마스크 6]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문라이트 파워!]]></title>
-        <id>https://www.elle.co.kr/article/84729</id>
-        <link href="https://www.elle.co.kr/article/84729"/>
-        <updated>2024-03-14T05:39:43.760Z</updated>
-        <content type="html"><![CDATA[달빛을 드리운 피부.]]></content>
     </entry>
 </feed>
