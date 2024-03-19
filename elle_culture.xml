@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-03-19T05:41:00.971Z</updated>
+    <updated>2024-03-19T17:40:47.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추악함이라는 아름다움]]></title>
+        <id>https://www.elle.co.kr/article/84856</id>
+        <link href="https://www.elle.co.kr/article/84856"/>
+        <updated>2024-03-19T17:39:49.948Z</updated>
+        <content type="html"><![CDATA[마릴린 민터가 아름다움을 말하는 법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세상에 이런 일이'가 26년 만에 사라질지도 모른다]]></title>
+        <id>https://www.elle.co.kr/article/84854</id>
+        <link href="https://www.elle.co.kr/article/84854"/>
+        <updated>2024-03-19T17:39:49.950Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프리랜서가 내 일에 가격을 붙이는 법 #여자읽는여자]]></title>
         <id>https://www.elle.co.kr/article/84853</id>
@@ -40,17 +53,5 @@
         <id>https://www.elle.co.kr/article/84808</id>
         <link href="https://www.elle.co.kr/article/84808"/>
         <updated>2024-03-16T05:40:12.384Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공간을 그리는 아티스트가 추천하는 봄 산책 코스는? 반지수의 #취향일지도]]></title>
-        <id>https://www.elle.co.kr/article/84768</id>
-        <link href="https://www.elle.co.kr/article/84768"/>
-        <updated>2024-03-16T05:40:12.384Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀주대첩으로 용두용미 엔딩 낸 '고려거란전쟁' 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/84755</id>
-        <link href="https://www.elle.co.kr/article/84755"/>
-        <updated>2024-03-16T05:40:12.385Z</updated>
     </entry>
 </feed>
