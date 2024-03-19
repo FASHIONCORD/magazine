@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 17:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 05:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1903,6 +1903,13 @@
             <content:encoded><![CDATA[이번시즌, '생활감' 가득 묻어나는 하이패션에 주목해야 할 이유.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[일상에 스며든 오트 쿠튀르 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84829</link>
+            <guid>https://www.elle.co.kr/article/84829</guid>
+            <pubDate>Tue, 19 Mar 2024 05:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[풍성하고 우아한 방식으로.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[거침없이 데님재킷 (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84798</link>
             <guid>https://www.elle.co.kr/article/84798</guid>
@@ -1942,13 +1949,6 @@
             <guid>https://www.elle.co.kr/article/84814</guid>
             <pubDate>Fri, 15 Mar 2024 17:39:35 GMT</pubDate>
             <content:encoded><![CDATA[셀린느의 24 아크 드 트리옹프 컬렉션 영상을 공개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['반짝' 효과 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84778</link>
-            <guid>https://www.elle.co.kr/article/84778</guid>
-            <pubDate>Fri, 15 Mar 2024 17:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[반짝이는 것이 좋아.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴진스 민지가 선택한, 어린 생기와 활력을 선사하는 세럼 (엘르 코리아 ─ 뷰티)]]></title>
@@ -2006,6 +2006,18 @@
             <content:encoded><![CDATA[피부 컨디션 끌올하는 오버나이트 마스크 6]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[난임 고백했던 박수홍 부부가 임신 소식 전하며 한 말 (ft. 태명) (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84873</link>
+            <guid>https://www.elle.co.kr/article/84873</guid>
+            <pubDate>Tue, 19 Mar 2024 05:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마 (엘르 코리아 ─ 스타)]]></title>
+            <link>https://www.elle.co.kr/article/84872</link>
+            <guid>https://www.elle.co.kr/article/84872</guid>
+            <pubDate>Mon, 18 Mar 2024 17:40:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[공개 연애 시작한 류준열과 한소희의 입장 정리 (엘르 코리아 ─ 스타)]]></title>
             <link>https://www.elle.co.kr/article/84867</link>
             <guid>https://www.elle.co.kr/article/84867</guid>
@@ -2045,17 +2057,16 @@
             <pubDate>Mon, 18 Mar 2024 05:39:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir (엘르 코리아 ─ 스타)]]></title>
+            <title><![CDATA[프리랜서가 내 일에 가격을 붙이는 법 #여자읽는여자 (엘르 코리아 ─ 컬쳐)]]></title>
+            <link>https://www.elle.co.kr/article/84853</link>
+            <guid>https://www.elle.co.kr/article/84853</guid>
+            <pubDate>Tue, 19 Mar 2024 05:40:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84845</link>
             <guid>https://www.elle.co.kr/article/84845</guid>
             <pubDate>Fri, 15 Mar 2024 17:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[류승룡과 안재홍의 사랑 (엘르 코리아 ─ 스타)]]></title>
-            <link>https://www.elle.co.kr/article/84837</link>
-            <guid>https://www.elle.co.kr/article/84837</guid>
-            <pubDate>Sun, 17 Mar 2024 17:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;닭강정&gt;으로 조우한 류승룡과 안재홍, 두 사람만의 달콤한 여정.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[파리 올림픽 포스터가 유독 따뜻한 이유 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2092,18 +2103,6 @@
             <link>https://www.elle.co.kr/article/84755</link>
             <guid>https://www.elle.co.kr/article/84755</guid>
             <pubDate>Mon, 11 Mar 2024 17:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/84742</link>
-            <guid>https://www.elle.co.kr/article/84742</guid>
-            <pubDate>Mon, 11 Mar 2024 05:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[나누고 기억하다, 국립중앙박물관 기증관 #요즘전시 (엘르 코리아 ─ 컬쳐)]]></title>
-            <link>https://www.elle.co.kr/article/84741</link>
-            <guid>https://www.elle.co.kr/article/84741</guid>
-            <pubDate>Mon, 11 Mar 2024 05:40:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
@@ -2407,6 +2406,19 @@
             <content:encoded><![CDATA[고향을 떠나 먼 도시에 발을 디딘 사람들이 일궈낸 공간. 그 익숙하고 낯선 향취가 공존하는 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[매치스패션이 문을 닫는다 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/84734</link>
+            <guid>https://www.elle.co.kr/article/84734</guid>
+            <pubDate>Tue, 19 Mar 2024 05:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡의 파페치 인수에 이어.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전시부터 강연, 클래스까지! 세계 여성의 날 기념 행사 총정리 #가볼만한곳 (엘르 코리아 ─ 소사이어티)]]></title>
+            <link>https://www.elle.co.kr/article/84718</link>
+            <guid>https://www.elle.co.kr/article/84718</guid>
+            <pubDate>Tue, 19 Mar 2024 05:41:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2024 세계 여성의 날 구호, '포용을 고취하라'의 의미 #InspireInclusion (엘르 코리아 ─ 소사이어티)]]></title>
             <link>https://www.elle.co.kr/article/84706</link>
             <guid>https://www.elle.co.kr/article/84706</guid>
@@ -2444,20 +2456,6 @@
             <guid>https://www.elle.co.kr/article/84598</guid>
             <pubDate>Fri, 08 Mar 2024 05:40:47 GMT</pubDate>
             <content:encoded><![CDATA[일러스트레이터 홍조가 확실하게 깨달은 것. 모든 생명은 똑같이 소중하고 사랑스럽다는 사실!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/84595</link>
-            <guid>https://www.elle.co.kr/article/84595</guid>
-            <pubDate>Mon, 04 Mar 2024 06:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[여자가 여자에게 반한다는 건, 가히 '빅뱅이론'과 맞먹을 만큼 큰 사건이다! 그간 내가 반한 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[엘르보이스] 참으로 바보같고 부질없다는 느낌 (엘르 코리아 ─ 소사이어티)]]></title>
-            <link>https://www.elle.co.kr/article/84581</link>
-            <guid>https://www.elle.co.kr/article/84581</guid>
-            <pubDate>Thu, 07 Mar 2024 17:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[하지만 모든 변화는 점진적으로 일어나기에 우리의 고민과 실천은 무엇도 부질없지 않다.]]></content:encoded>
         </item>
     </channel>
 </rss>

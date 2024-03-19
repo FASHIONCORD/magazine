@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-18T17:40:33.276Z</updated>
+    <updated>2024-03-19T05:41:00.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.elle.co.kr/article/84818"/>
         <updated>2024-03-18T05:39:15.165Z</updated>
         <content type="html"><![CDATA[이번시즌, '생활감' 가득 묻어나는 하이패션에 주목해야 할 이유.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일상에 스며든 오트 쿠튀르]]></title>
+        <id>https://www.elle.co.kr/article/84829</id>
+        <link href="https://www.elle.co.kr/article/84829"/>
+        <updated>2024-03-19T05:39:50.858Z</updated>
+        <content type="html"><![CDATA[풍성하고 우아한 방식으로.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거침없이 데님재킷]]></title>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/84814"/>
         <updated>2024-03-15T17:39:35.121Z</updated>
         <content type="html"><![CDATA[셀린느의 24 아크 드 트리옹프 컬렉션 영상을 공개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['반짝' 효과]]></title>
-        <id>https://www.elle.co.kr/article/84778</id>
-        <link href="https://www.elle.co.kr/article/84778"/>
-        <updated>2024-03-15T17:39:35.122Z</updated>
-        <content type="html"><![CDATA[반짝이는 것이 좋아.]]></content>
     </entry>
 </feed>

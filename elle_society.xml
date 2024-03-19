@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/society</id>
     <title>엘르 코리아 ─ 소사이어티</title>
-    <updated>2024-03-18T17:40:33.162Z</updated>
+    <updated>2024-03-19T05:41:00.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매치스패션이 문을 닫는다]]></title>
+        <id>https://www.elle.co.kr/article/84734</id>
+        <link href="https://www.elle.co.kr/article/84734"/>
+        <updated>2024-03-19T05:41:00.241Z</updated>
+        <content type="html"><![CDATA[쿠팡의 파페치 인수에 이어.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전시부터 강연, 클래스까지! 세계 여성의 날 기념 행사 총정리 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84718</id>
+        <link href="https://www.elle.co.kr/article/84718"/>
+        <updated>2024-03-19T05:41:00.244Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 세계 여성의 날 구호, '포용을 고취하라'의 의미 #InspireInclusion]]></title>
         <id>https://www.elle.co.kr/article/84706</id>
@@ -43,19 +56,5 @@
         <link href="https://www.elle.co.kr/article/84598"/>
         <updated>2024-03-08T05:40:47.856Z</updated>
         <content type="html"><![CDATA[일러스트레이터 홍조가 확실하게 깨달은 것. 모든 생명은 똑같이 소중하고 사랑스럽다는 사실!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나를 일깨운 여자들! AWAKENING MOMENT]]></title>
-        <id>https://www.elle.co.kr/article/84595</id>
-        <link href="https://www.elle.co.kr/article/84595"/>
-        <updated>2024-03-07T17:40:46.942Z</updated>
-        <content type="html"><![CDATA[여자가 여자에게 반한다는 건, 가히 '빅뱅이론'과 맞먹을 만큼 큰 사건이다! 그간 내가 반한 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘르보이스] 참으로 바보같고 부질없다는 느낌]]></title>
-        <id>https://www.elle.co.kr/article/84581</id>
-        <link href="https://www.elle.co.kr/article/84581"/>
-        <updated>2024-03-07T17:40:46.942Z</updated>
-        <content type="html"><![CDATA[하지만 모든 변화는 점진적으로 일어나기에 우리의 고민과 실천은 무엇도 부질없지 않다.]]></content>
     </entry>
 </feed>
