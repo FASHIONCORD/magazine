@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-20T05:40:21.481Z</updated>
+    <updated>2024-03-21T05:40:59.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박소담이 애정하는 디저트 맛집은 어디?]]></title>
+        <id>https://www.elle.co.kr/article/84833</id>
+        <link href="https://www.elle.co.kr/article/84833"/>
+        <updated>2024-03-21T05:40:49.772Z</updated>
+        <content type="html"><![CDATA[맛있는 디저트로 100% 행복 충전하고 싶다면 여기로! 프레첼 맛집부터 젤라테리아까지, 지금 당장...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 신대륙의 개척자로 나선 디자이너들의 생생한 체험기]]></title>
         <id>https://www.elle.co.kr/article/84794</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84735"/>
         <updated>2024-03-14T05:40:39.060Z</updated>
         <content type="html"><![CDATA[싱가포르 마리나 베이 한가운데서 마칸과 마주한 순간, 우리를 더 먼 세상으로 이끌 전기차의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입안에 봄이 가득! 기은세표 냉이 레서피 3]]></title>
-        <id>https://www.elle.co.kr/article/84731</id>
-        <link href="https://www.elle.co.kr/article/84731"/>
-        <updated>2024-03-13T17:40:39.649Z</updated>
-        <content type="html"><![CDATA[봄기운이 솔솔 불어오는 요즘, 고급스러운 냉이 파스타부터 바삭한 식감을 자랑하는 냉이 튀김까...]]></content>
     </entry>
 </feed>
