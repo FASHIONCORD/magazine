@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-22T05:40:15.395Z</updated>
+    <updated>2024-03-22T17:41:06.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠튀르 쇼에선 무슨 일이?]]></title>
+        <id>https://www.elle.co.kr/article/84848</id>
+        <link href="https://www.elle.co.kr/article/84848"/>
+        <updated>2024-03-22T17:39:28.319Z</updated>
+        <content type="html"><![CDATA[패션에 동화적 상상을 불어넣으며 한계를 뛰어넘는 쇼를 선보이는 오트 쿠튀르 컬렉션. 신선한 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반려인 핫 키워드 '멍테리어' 들어보셨나요? #Barkitecture]]></title>
         <id>https://www.elle.co.kr/article/84923</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/84820"/>
         <updated>2024-03-20T05:39:08.727Z</updated>
         <content type="html"><![CDATA[얼굴 위에 깃든 봄꽃의 향연.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데님이 빛날 때]]></title>
-        <id>https://www.elle.co.kr/article/84821</id>
-        <link href="https://www.elle.co.kr/article/84821"/>
-        <updated>2024-03-20T05:39:08.728Z</updated>
-        <content type="html"><![CDATA[씁쓸하고 강렬하게 즐기는 데님의 맛.]]></content>
     </entry>
 </feed>

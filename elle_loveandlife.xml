@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-22T05:40:15.411Z</updated>
+    <updated>2024-03-22T17:41:06.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행복을 찾아 떠난 부부의 집]]></title>
+        <id>https://www.elle.co.kr/article/84842</id>
+        <link href="https://www.elle.co.kr/article/84842"/>
+        <updated>2024-03-22T17:40:56.113Z</updated>
+        <content type="html"><![CDATA[샐러드&amp;샌드위치 가게, '샐러드 셀러'의 주인장 부부가 잘 먹고, 잘 쉬고, 잘 살기 위해 마련...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[춘분 맞이 기력 회복에 좋은 봄나물 맛집 추천 3 #가볼만한곳]]></title>
+        <id>https://www.elle.co.kr/article/84905</id>
+        <link href="https://www.elle.co.kr/article/84905"/>
+        <updated>2024-03-22T17:40:56.114Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘밤 양갱’ 들으면서 ‘양갱’ 한 입!]]></title>
+        <id>https://www.elle.co.kr/article/84858</id>
+        <link href="https://www.elle.co.kr/article/84858"/>
+        <updated>2024-03-22T17:40:56.115Z</updated>
+        <content type="html"><![CDATA[왠지 모르게 밤 양갱이 먹고 싶은 요즘. 달콤한 양갱 맛집을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해 봄 나들이는 이곳에서? 경마 관람까지 가능한 전국 벚꽃 축제 3 #가볼만한곳]]></title>
         <id>https://www.elle.co.kr/article/84852</id>
@@ -38,25 +58,5 @@
         <link href="https://www.elle.co.kr/article/84819"/>
         <updated>2024-03-16T05:41:02.019Z</updated>
         <content type="html"><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몰디브의 두 리조트가 알려준 것들]]></title>
-        <id>https://www.elle.co.kr/article/84792</id>
-        <link href="https://www.elle.co.kr/article/84792"/>
-        <updated>2024-03-15T17:40:33.767Z</updated>
-        <content type="html"><![CDATA[세상에 같은 색의 바다는 없다. 그런 확신을 심어준 몰디브의 두 리조트와 그곳에서 깨우친 바...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이트데이 선물 고민이라면? 비주얼 대박인 수제 사탕 전문점 3 #가볼만한곳]]></title>
-        <id>https://www.elle.co.kr/article/84784</id>
-        <link href="https://www.elle.co.kr/article/84784"/>
-        <updated>2024-03-15T17:40:33.775Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['벤치 맛집'이 도전한 탄소 배출 0% 가구]]></title>
-        <id>https://www.elle.co.kr/article/84749</id>
-        <link href="https://www.elle.co.kr/article/84749"/>
-        <updated>2024-03-15T05:40:29.648Z</updated>
-        <content type="html"><![CDATA[벤치: 제대로 지속 가능해줄게]]></content>
     </entry>
 </feed>
