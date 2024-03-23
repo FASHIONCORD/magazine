@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-22T17:41:06.632Z</updated>
+    <updated>2024-03-23T05:40:51.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[40kg 뺀 프로 다이어터&유지어터 권혁수의 최애 음식 #스타다이어트]]></title>
+        <id>https://www.elle.co.kr/article/84919</id>
+        <link href="https://www.elle.co.kr/article/84919"/>
+        <updated>2024-03-23T05:39:45.338Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뷰티 디바이스의 신세계(ver.2024)]]></title>
         <id>https://www.elle.co.kr/article/84834</id>
@@ -52,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84806"/>
         <updated>2024-03-18T17:39:34.390Z</updated>
         <content type="html"><![CDATA[혹독한 환경 속에서 기어코 꽃을 피우는 레드 까멜리아처럼, 민지의 얼굴에 강인한 생명력이 움...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야, 너두 오버립 할 수 있어 (feat.로즈 립 펜슬)]]></title>
-        <id>https://www.elle.co.kr/article/84815</id>
-        <link href="https://www.elle.co.kr/article/84815"/>
-        <updated>2024-03-18T05:39:25.338Z</updated>
-        <content type="html"><![CDATA[정교한 풀 립(Full Lip)부터 매력적인 오버립까지 이것만 있으면 '쌉가능!' 로즈 누드 톤의 립...]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-22T17:41:06.616Z</updated>
+    <updated>2024-03-23T05:40:51.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤혜진 픽! 양평 로컬 맛집 대방출 3]]></title>
+        <id>https://www.elle.co.kr/article/84953</id>
+        <link href="https://www.elle.co.kr/article/84953"/>
+        <updated>2024-03-23T05:39:54.365Z</updated>
+        <content type="html"><![CDATA[45년 전통을 자랑하는 떡볶이 맛집과 낭만 가득한 포차 횟집, K-디저트 카페 등 N차 방문을 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멜로망스 김민석이 40장씩 챙겨 먹었더니 25kg 빠졌다는 음식  #스타다이어트]]></title>
         <id>https://www.elle.co.kr/article/84952</id>
@@ -47,11 +54,5 @@
         <id>https://www.elle.co.kr/article/84919</id>
         <link href="https://www.elle.co.kr/article/84919"/>
         <updated>2024-03-21T17:40:06.245Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에일리가 내년 결혼을 앞두고 공개 연애 시작하며 밝힌 소감]]></title>
-        <id>https://www.elle.co.kr/article/84918</id>
-        <link href="https://www.elle.co.kr/article/84918"/>
-        <updated>2024-03-21T05:39:51.661Z</updated>
     </entry>
 </feed>

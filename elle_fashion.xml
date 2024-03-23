@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-22T17:41:06.633Z</updated>
+    <updated>2024-03-23T05:40:51.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄 기운 가득 머금은 '플로럴 패션' 모음.zip]]></title>
+        <id>https://www.elle.co.kr/article/84924</id>
+        <link href="https://www.elle.co.kr/article/84924"/>
+        <updated>2024-03-23T05:39:37.096Z</updated>
+        <content type="html"><![CDATA[지효의 코르사주부터 로제의 플로럴 패턴 드레스까지!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠튀르 쇼에선 무슨 일이?]]></title>
         <id>https://www.elle.co.kr/article/84848</id>
@@ -52,12 +59,5 @@
         <link href="https://www.elle.co.kr/article/84868"/>
         <updated>2024-03-21T05:39:34.585Z</updated>
         <content type="html"><![CDATA[‘패스트 라이브즈’ 말고 현생부터.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IN BLOOM! 봄을 위한 '꽃' 모티프 메이크업]]></title>
-        <id>https://www.elle.co.kr/article/84820</id>
-        <link href="https://www.elle.co.kr/article/84820"/>
-        <updated>2024-03-20T05:39:08.727Z</updated>
-        <content type="html"><![CDATA[얼굴 위에 깃든 봄꽃의 향연.]]></content>
     </entry>
 </feed>
