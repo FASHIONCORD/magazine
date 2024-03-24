@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 17:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 05:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1904,6 +1904,13 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MjZfMjkz/MDAxNTkzMTQ3NTQ2ODAw.6oS7rXbbfRKI7XHPTFe4X4xNUpG38k8OsTx48Xu_zpMg.LYamMwElQl7nI-vnYIvevxYMUrqBZIc-BUv-bdtsT_cg.JPEG/IB1YrFol9M9uf9VjCjOHg2dLyack.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[왠지 허전한 벽, 무엇을 걸어볼까요? #취향의발견_10 (엘르 코리아 ─ 패션)]]></title>
+            <link>https://www.elle.co.kr/article/84946</link>
+            <guid>https://www.elle.co.kr/article/84946</guid>
+            <pubDate>Sun, 24 Mar 2024 05:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엘르 데코&gt; 독자들이 직접 투표했습니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[봄 기운 가득 머금은 '플로럴 패션' 모음.zip (엘르 코리아 ─ 패션)]]></title>
             <link>https://www.elle.co.kr/article/84924</link>
             <guid>https://www.elle.co.kr/article/84924</guid>
@@ -1950,13 +1957,6 @@
             <guid>https://www.elle.co.kr/article/84881</guid>
             <pubDate>Thu, 21 Mar 2024 05:39:34 GMT</pubDate>
             <content:encoded><![CDATA[언제 입어도 실패 없는 데님 스타일이 궁금하다면 스타들의 데일리룩을 참고하세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[옷은 이렇게 입는 거야! 그레타 리의 스타일 모음 (엘르 코리아 ─ 패션)]]></title>
-            <link>https://www.elle.co.kr/article/84868</link>
-            <guid>https://www.elle.co.kr/article/84868</guid>
-            <pubDate>Thu, 21 Mar 2024 05:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[‘패스트 라이브즈’ 말고 현생부터.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[40kg 뺀 프로 다이어터&유지어터 권혁수의 최애 음식 #스타다이어트 (엘르 코리아 ─ 뷰티)]]></title>
@@ -2067,18 +2067,21 @@
             <link>https://www.elle.co.kr/article/84906</link>
             <guid>https://www.elle.co.kr/article/84906</guid>
             <pubDate>Tue, 19 Mar 2024 17:40:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/4bc4881e-f82e-4ada-ba81-c3270c92c2ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽃 피기 전에 만나는 한국 작가들의 봄꽃 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84877</link>
             <guid>https://www.elle.co.kr/article/84877</guid>
             <pubDate>Mon, 18 Mar 2024 17:40:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/83eacce4-8166-4e2d-8e96-a58f96963114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84872</link>
             <guid>https://www.elle.co.kr/article/84872</guid>
             <pubDate>Mon, 18 Mar 2024 17:40:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/96fa48c9-9efe-4b48-9ddc-42f014839b43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 찾은 오타니 쇼헤이, 그가 묵을 호텔은? (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2086,6 +2089,7 @@
             <guid>https://www.elle.co.kr/article/84863</guid>
             <pubDate>Mon, 18 Mar 2024 17:39:41 GMT</pubDate>
             <content:encoded><![CDATA[베일에 싸여있던 아내와의 첫 투샷까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/17/f3d18599-256b-49a5-999d-89e63e63038f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추악함이라는 아름다움 (엘르 코리아 ─ 컬쳐)]]></title>
@@ -2093,24 +2097,28 @@
             <guid>https://www.elle.co.kr/article/84856</guid>
             <pubDate>Fri, 15 Mar 2024 17:40:25 GMT</pubDate>
             <content:encoded><![CDATA[마릴린 민터가 아름다움을 말하는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/16/184b0a13-bf36-4d50-9a47-ab62182f1bfb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['세상에 이런 일이'가 26년 만에 사라질지도 모른다 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84854</link>
             <guid>https://www.elle.co.kr/article/84854</guid>
             <pubDate>Fri, 15 Mar 2024 17:40:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/8566a2cb-eb6b-469d-b8fb-494ccce654d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리랜서가 내 일에 가격을 붙이는 법 #여자읽는여자 (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84853</link>
             <guid>https://www.elle.co.kr/article/84853</guid>
             <pubDate>Tue, 19 Mar 2024 05:40:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/994519d0-2aac-4720-8570-5563216f93fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir (엘르 코리아 ─ 컬쳐)]]></title>
             <link>https://www.elle.co.kr/article/84845</link>
             <guid>https://www.elle.co.kr/article/84845</guid>
             <pubDate>Fri, 15 Mar 2024 17:40:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/4781ec01-c059-4e6e-bb25-a80152588e56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유 콘서트에 박보검의 등장이라 (엘르 코리아 ─ 컬쳐 ─ 뮤직)]]></title>
