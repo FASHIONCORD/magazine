@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture/artanddesign</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 아트&amp;디자인</title>
-    <updated>2024-03-25T05:40:24.789Z</updated>
+    <updated>2024-03-25T17:42:15.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2000년대 대표 알앤비 스타 앨리샤 키스가 사랑한 의외의 일]]></title>
+        <id>https://www.elle.co.kr/article/84996</id>
+        <link href="https://www.elle.co.kr/article/84996"/>
+        <updated>2024-03-25T17:41:58.780Z</updated>
+        <content type="html"><![CDATA[예체능 천재 맞네요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 옥션에서는 어떤 작품을 팔까? (feat. 권지용 그림)]]></title>
         <id>https://www.elle.co.kr/article/84907</id>
@@ -82,11 +89,5 @@
         <link href="https://www.elle.co.kr/article/84329"/>
         <updated>2024-02-18T17:41:02.790Z</updated>
         <content type="html"><![CDATA[이번 주 목요일, 서울에선 과연 어떤 모습을 보여줄지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테이트 모던도 반한 한국인 작가의 즉물적 시선]]></title>
-        <id>https://www.elle.co.kr/article/84315</id>
-        <link href="https://www.elle.co.kr/article/84315"/>
-        <updated>2024-02-16T05:40:23.045Z</updated>
     </entry>
 </feed>

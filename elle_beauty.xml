@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-25T05:40:24.729Z</updated>
+    <updated>2024-03-25T17:42:15.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤넬 르 블랑 메이크업 베이스 라이트로 완성하는 복숭앗빛 광채 피부]]></title>
+        <id>https://www.elle.co.kr/article/84875</id>
+        <link href="https://www.elle.co.kr/article/84875"/>
+        <updated>2024-03-25T17:41:14.165Z</updated>
+        <content type="html"><![CDATA[더욱 가볍게 돌아온 샤넬 르 블랑 메이크업 베이스로 투명한 피부 광채를 살려볼 것.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맑고 건강한 배우 황민현의 빛나는 뷰티 화보]]></title>
         <id>https://www.elle.co.kr/article/84938</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84864"/>
         <updated>2024-03-21T17:39:58.051Z</updated>
         <content type="html"><![CDATA[자기 전에 뿌리는 향수부터 도톰한 입술을 만들어 주는 플럼핑 립스틱까지, 엄정화의 취향이 느...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핸드크림 쇼핑]]></title>
-        <id>https://www.elle.co.kr/article/84796</id>
-        <link href="https://www.elle.co.kr/article/84796"/>
-        <updated>2024-03-21T05:39:43.415Z</updated>
-        <content type="html"><![CDATA[봄맞이 핸드크림 쇼핑 위시리스트!]]></content>
     </entry>
 </feed>

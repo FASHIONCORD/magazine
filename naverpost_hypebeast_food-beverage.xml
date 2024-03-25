@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 음식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 05:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 17:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘스타 워즈: 새로운 희망’ 속 ‘블루 밀크’ 출시된다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37538931&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37538931&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Mon, 25 Mar 2024 17:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjVfMTMy/MDAxNzExMzYzNTk5MjAy.dszIJJsvE6arz1AjUF7xkza5e_o5eZpqgZUGsPnTALsg.en1dhudr0vfsNVh6C-u_VtlpLvF7yBkaYKy1WWn1QcYg.PNG/Ie0Pj10q_fsyZxX4ya2PUQL3J35s.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘테이스트아틀라스’ 선정 ‘세계 최고의 도넛’ 리스트에 이름을 올린 한국 음식은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37358142&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Feb 2023 05:39:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjNfMjUg/MDAxNjc3MTM2OTQxNzYy.NBNhJp7WR38INC9d1YAKbS1un0vnAQEaEJnXd6mt_8Qg.k3sJlW8E2DdMFbE2HhsaWaigmxsfDx0rtw60jjrjEeMg.JPEG/IPcdQR1NbI9rrZqqUi1tUWKivONE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOW TO: 향이 강한 고수를 디저트로 즐길 수 있는 레시피]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35243822&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35243822&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Fri, 27 Jan 2023 05:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjVfMTM4/MDAxNjc0NjI4NzUwOTg1.E7vUX4dQvt0rvpKk_Lqn7CqInAnhfGpRBi_JxGd78F8g.x6bS9djvbv0_f1zCCfjPfa2Jz7-1GJbm702touugr9Ug.JPEG/IxQ7IlW1ClcTiPZED75Y31rE5xJ4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
