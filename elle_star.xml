@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-24T17:41:02.609Z</updated>
+    <updated>2024-03-25T05:40:24.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류승룡과 안재홍의 로드무비]]></title>
+        <id>https://www.elle.co.kr/article/84961</id>
+        <link href="https://www.elle.co.kr/article/84961"/>
+        <updated>2024-03-25T05:39:31.091Z</updated>
+        <content type="html"><![CDATA[류승룡과 안재홍이 그리 애타게 찾아 헤맨 건 무엇이었을까? &lt;닭강정&gt;의 그녀 혹은 또 다른 웃...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금 이보영은 어디든지 갈 수 있다]]></title>
+        <id>https://www.elle.co.kr/article/84962</id>
+        <link href="https://www.elle.co.kr/article/84962"/>
+        <updated>2024-03-25T05:39:31.100Z</updated>
+        <content type="html"><![CDATA[결핍을 딛고 자신을 다시 세운 이보영. &lt;하이드&gt;로 다시 새로운 여정에 오른 이보영의 쿨한 얼...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘프로 갓생러’ 이나연의 자기 관리 법 (a.k.a 나를 사랑하는 법)]]></title>
+        <id>https://www.elle.co.kr/article/84978</id>
+        <link href="https://www.elle.co.kr/article/84978"/>
+        <updated>2024-03-25T05:39:31.101Z</updated>
+        <content type="html"><![CDATA[이나연처럼 부지런하게 나를 아끼는 삶이 진정한 자기 관리가 아닐까요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13년 절친 아이유X김수현의 우정스타그램.jpg]]></title>
+        <id>https://www.elle.co.kr/article/84977</id>
+        <link href="https://www.elle.co.kr/article/84977"/>
+        <updated>2024-03-25T05:39:31.102Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[본연의 지젤]]></title>
         <id>https://www.elle.co.kr/article/84939</id>
@@ -31,29 +58,5 @@
         <link href="https://www.elle.co.kr/article/84953"/>
         <updated>2024-03-23T05:39:54.365Z</updated>
         <content type="html"><![CDATA[45년 전통을 자랑하는 떡볶이 맛집과 낭만 가득한 포차 횟집, K-디저트 카페 등 N차 방문을 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멜로망스 김민석이 40장씩 챙겨 먹었더니 25kg 빠졌다는 음식  #스타다이어트]]></title>
-        <id>https://www.elle.co.kr/article/84952</id>
-        <link href="https://www.elle.co.kr/article/84952"/>
-        <updated>2024-03-22T17:39:44.542Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지성-이보영에 황재균-지연까지?! 고척돔 데이트 즐긴 스타들 모음.zip]]></title>
-        <id>https://www.elle.co.kr/article/84951</id>
-        <link href="https://www.elle.co.kr/article/84951"/>
-        <updated>2024-03-22T17:39:44.545Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시리즈 2차전 앞둔 오타니 쇼헤이가 '7년 절친' 통역사 해고한 이유]]></title>
-        <id>https://www.elle.co.kr/article/84931</id>
-        <link href="https://www.elle.co.kr/article/84931"/>
-        <updated>2024-03-22T05:39:24.195Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미대 오빠 충재씨' 김충재가 정은채와 공개 연애를 시작했다 (ft. 럽스타?)]]></title>
-        <id>https://www.elle.co.kr/article/84925</id>
-        <link href="https://www.elle.co.kr/article/84925"/>
-        <updated>2024-03-22T05:39:24.234Z</updated>
     </entry>
 </feed>

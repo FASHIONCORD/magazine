@@ -1,69 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>엘르 코리아 ─ 컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 17:41:02 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt]]></title>
-            <link>https://www.elle.co.kr/article/84906</link>
-            <guid>https://www.elle.co.kr/article/84906</guid>
-            <pubDate>Fri, 22 Mar 2024 05:39:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/4bc4881e-f82e-4ada-ba81-c3270c92c2ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃 피기 전에 만나는 한국 작가들의 봄꽃]]></title>
-            <link>https://www.elle.co.kr/article/84877</link>
-            <guid>https://www.elle.co.kr/article/84877</guid>
-            <pubDate>Thu, 21 Mar 2024 17:40:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/83eacce4-8166-4e2d-8e96-a58f96963114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마]]></title>
-            <link>https://www.elle.co.kr/article/84872</link>
-            <guid>https://www.elle.co.kr/article/84872</guid>
-            <pubDate>Thu, 21 Mar 2024 17:40:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/18/96fa48c9-9efe-4b48-9ddc-42f014839b43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 찾은 오타니 쇼헤이, 그가 묵을 호텔은?]]></title>
-            <link>https://www.elle.co.kr/article/84863</link>
-            <guid>https://www.elle.co.kr/article/84863</guid>
-            <pubDate>Wed, 20 Mar 2024 05:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[베일에 싸여있던 아내와의 첫 투샷까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/17/f3d18599-256b-49a5-999d-89e63e63038f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추악함이라는 아름다움]]></title>
-            <link>https://www.elle.co.kr/article/84856</link>
-            <guid>https://www.elle.co.kr/article/84856</guid>
-            <pubDate>Tue, 19 Mar 2024 17:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[마릴린 민터가 아름다움을 말하는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/16/184b0a13-bf36-4d50-9a47-ab62182f1bfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세상에 이런 일이'가 26년 만에 사라질지도 모른다]]></title>
-            <link>https://www.elle.co.kr/article/84854</link>
-            <guid>https://www.elle.co.kr/article/84854</guid>
-            <pubDate>Tue, 19 Mar 2024 17:39:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/8566a2cb-eb6b-469d-b8fb-494ccce654d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리랜서가 내 일에 가격을 붙이는 법 #여자읽는여자]]></title>
-            <link>https://www.elle.co.kr/article/84853</link>
-            <guid>https://www.elle.co.kr/article/84853</guid>
-            <pubDate>Tue, 19 Mar 2024 05:40:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/15/994519d0-2aac-4720-8570-5563216f93fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir]]></title>
-            <link>https://www.elle.co.kr/article/84845</link>
-            <guid>https://www.elle.co.kr/article/84845</guid>
-            <pubDate>Tue, 19 Mar 2024 05:40:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/19/4781ec01-c059-4e6e-bb25-a80152588e56.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.elle.co.kr/culture</id>
+    <title>엘르 코리아 ─ 컬쳐</title>
+    <updated>2024-03-25T05:40:24.716Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt]]></title>
+        <id>https://www.elle.co.kr/article/84906</id>
+        <link href="https://www.elle.co.kr/article/84906"/>
+        <updated>2024-03-22T05:39:32.423Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽃 피기 전에 만나는 한국 작가들의 봄꽃]]></title>
+        <id>https://www.elle.co.kr/article/84877</id>
+        <link href="https://www.elle.co.kr/article/84877"/>
+        <updated>2024-03-21T17:40:14.120Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/84872</id>
+        <link href="https://www.elle.co.kr/article/84872"/>
+        <updated>2024-03-21T17:40:14.122Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 찾은 오타니 쇼헤이, 그가 묵을 호텔은?]]></title>
+        <id>https://www.elle.co.kr/article/84863</id>
+        <link href="https://www.elle.co.kr/article/84863"/>
+        <updated>2024-03-20T05:39:36.563Z</updated>
+        <content type="html"><![CDATA[베일에 싸여있던 아내와의 첫 투샷까지!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추악함이라는 아름다움]]></title>
+        <id>https://www.elle.co.kr/article/84856</id>
+        <link href="https://www.elle.co.kr/article/84856"/>
+        <updated>2024-03-19T17:39:49.948Z</updated>
+        <content type="html"><![CDATA[마릴린 민터가 아름다움을 말하는 법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세상에 이런 일이'가 26년 만에 사라질지도 모른다]]></title>
+        <id>https://www.elle.co.kr/article/84854</id>
+        <link href="https://www.elle.co.kr/article/84854"/>
+        <updated>2024-03-19T17:39:49.950Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프리랜서가 내 일에 가격을 붙이는 법 #여자읽는여자]]></title>
+        <id>https://www.elle.co.kr/article/84853</id>
+        <link href="https://www.elle.co.kr/article/84853"/>
+        <updated>2024-03-19T05:40:16.278Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/84845</id>
+        <link href="https://www.elle.co.kr/article/84845"/>
+        <updated>2024-03-19T05:40:16.279Z</updated>
+    </entry>
+</feed>

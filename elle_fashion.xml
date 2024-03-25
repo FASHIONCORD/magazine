@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-24T17:41:02.592Z</updated>
+    <updated>2024-03-25T05:40:24.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부쉐론의 꾸뛰르]]></title>
+        <id>https://www.elle.co.kr/article/84847</id>
+        <link href="https://www.elle.co.kr/article/84847"/>
+        <updated>2024-03-25T05:39:12.161Z</updated>
+        <content type="html"><![CDATA[일상에서 쿠튀르를 향유할 수 있는 부쉐론의 '파워 오브 쿠튀르(The Power of Couture)'는 지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 로우와 032c가 서울에 상륙한다]]></title>
         <id>https://www.elle.co.kr/article/84948</id>
@@ -53,11 +60,5 @@
         <link href="https://www.elle.co.kr/article/84908"/>
         <updated>2024-03-21T17:39:50.382Z</updated>
         <content type="html"><![CDATA[레더의 계절이 돌아왔어요~ 이주연의 관능적인 레더 코트 룩부터 오하영의 믹스 앤 매치까지, 셀...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 옥션에서는 어떤 작품을 팔까? (feat. 권지용 그림)]]></title>
-        <id>https://www.elle.co.kr/article/84907</id>
-        <link href="https://www.elle.co.kr/article/84907"/>
-        <updated>2024-03-21T05:39:34.581Z</updated>
     </entry>
 </feed>
