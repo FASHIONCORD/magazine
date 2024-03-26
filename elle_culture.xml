@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-03-26T05:41:25.444Z</updated>
+    <updated>2024-03-26T17:41:25.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부부 사이 괜찮은 거죠? 이보영X추자현X김하늘의 열연 돋보인 3월 4주차 #신작이OnAir]]></title>
+        <id>https://www.elle.co.kr/article/84954</id>
+        <link href="https://www.elle.co.kr/article/84954"/>
+        <updated>2024-03-26T17:40:36.349Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지성-이보영에 황재균-지연까지?! 고척돔 데이트 즐긴 스타들 모음.zip]]></title>
         <id>https://www.elle.co.kr/article/84951</id>
@@ -46,12 +52,5 @@
         <id>https://www.elle.co.kr/article/84872</id>
         <link href="https://www.elle.co.kr/article/84872"/>
         <updated>2024-03-21T17:40:14.122Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 찾은 오타니 쇼헤이, 그가 묵을 호텔은?]]></title>
-        <id>https://www.elle.co.kr/article/84863</id>
-        <link href="https://www.elle.co.kr/article/84863"/>
-        <updated>2024-03-20T05:39:36.563Z</updated>
-        <content type="html"><![CDATA[베일에 싸여있던 아내와의 첫 투샷까지!]]></content>
     </entry>
 </feed>

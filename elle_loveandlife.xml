@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/loveandlife</id>
     <title>엘르 코리아 ─ 컬쳐 ─ 러브&amp;라이프</title>
-    <updated>2024-03-26T05:41:25.441Z</updated>
+    <updated>2024-03-26T17:41:25.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새 김 시대]]></title>
+        <id>https://www.elle.co.kr/article/84844</id>
+        <link href="https://www.elle.co.kr/article/84844"/>
+        <updated>2024-03-26T17:41:15.610Z</updated>
+        <content type="html"><![CDATA[김, 감태, 우뭇가사리, 매생이・・・. 해양 식재료들의 과감하고 발칙한 시도가 엿보이는 디저트 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈으로 즐기는 벚꽃 디저트 #도쿄핫플]]></title>
+        <id>https://www.elle.co.kr/article/84973</id>
+        <link href="https://www.elle.co.kr/article/84973"/>
+        <updated>2024-03-26T17:41:15.647Z</updated>
+        <content type="html"><![CDATA[프랜차이즈 음료점부터 호텔 베이커리까지 온통 핑크 빛으로 물든 도쿄의 디저트 코너를 소개합니...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25평 집에 수영장까지 있다고요?]]></title>
+        <id>https://www.elle.co.kr/article/84957</id>
+        <link href="https://www.elle.co.kr/article/84957"/>
+        <updated>2024-03-26T17:41:15.648Z</updated>
+        <content type="html"><![CDATA[좁은 면적을 활용한 해외 집 3]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤혜진 픽! 양평 로컬 맛집 대방출 3]]></title>
         <id>https://www.elle.co.kr/article/84953</id>
@@ -37,26 +58,5 @@
         <id>https://www.elle.co.kr/article/84852</id>
         <link href="https://www.elle.co.kr/article/84852"/>
         <updated>2024-03-22T05:40:07.127Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[궁극의 쿠키 한 점 #도쿄핫플]]></title>
-        <id>https://www.elle.co.kr/article/84849</id>
-        <link href="https://www.elle.co.kr/article/84849"/>
-        <updated>2024-03-22T05:40:07.132Z</updated>
-        <content type="html"><![CDATA[평생 기억에 남을 인상적인 쿠키 한 조각을 찾아서! 도쿄 최고의 구움과자 가게를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박소담이 애정하는 디저트 맛집은 어디?]]></title>
-        <id>https://www.elle.co.kr/article/84833</id>
-        <link href="https://www.elle.co.kr/article/84833"/>
-        <updated>2024-03-21T05:40:49.772Z</updated>
-        <content type="html"><![CDATA[맛있는 디저트로 100% 행복 충전하고 싶다면 여기로! 프레첼 맛집부터 젤라테리아까지, 지금 당장...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 신대륙의 개척자로 나선 디자이너들의 생생한 체험기]]></title>
-        <id>https://www.elle.co.kr/article/84794</id>
-        <link href="https://www.elle.co.kr/article/84794"/>
-        <updated>2024-03-19T17:40:38.208Z</updated>
-        <content type="html"><![CDATA[인공지능으로 구현한 멋진 인테리어와 건축이 현실세계에 존재할 수 있을까?]]></content>
     </entry>
 </feed>
