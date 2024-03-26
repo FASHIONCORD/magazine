@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-25T17:42:15.238Z</updated>
+    <updated>2024-03-26T05:41:25.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고현정 첫 인스타그램 개설에 강민경이 난리 난 이유]]></title>
+        <id>https://www.elle.co.kr/article/84990</id>
+        <link href="https://www.elle.co.kr/article/84990"/>
+        <updated>2024-03-26T05:40:27.278Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지효와 윤성빈이 새벽 3시 열애설에 보인 반응]]></title>
         <id>https://www.elle.co.kr/article/84989</id>
@@ -51,12 +57,5 @@
         <id>https://www.elle.co.kr/article/84977</id>
         <link href="https://www.elle.co.kr/article/84977"/>
         <updated>2024-03-25T05:39:31.102Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본연의 지젤]]></title>
-        <id>https://www.elle.co.kr/article/84939</id>
-        <link href="https://www.elle.co.kr/article/84939"/>
-        <updated>2024-03-24T17:40:11.269Z</updated>
-        <content type="html"><![CDATA[파리에서 만난 지젤. 흐트러뜨릴수록 더욱 유유히 피어나는, 있는 그대로의 모습으로.]]></content>
     </entry>
 </feed>

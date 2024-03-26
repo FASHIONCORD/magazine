@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-25T17:42:15.238Z</updated>
+    <updated>2024-03-26T05:41:25.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤승아, 김무열 부부가 마르고 닳도록 신는 신발 Top 6]]></title>
+        <id>https://www.elle.co.kr/article/84980</id>
+        <link href="https://www.elle.co.kr/article/84980"/>
+        <updated>2024-03-26T05:40:09.099Z</updated>
+        <content type="html"><![CDATA[자타공인 스니커즈 ‘덕후’로 소문난 윤승아, 김무열 부부의 여섯 가지 데일리 슈즈를 확인해 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핸들은 그저 도울 뿐! 가방을 드는 새로운 방법]]></title>
         <id>https://www.elle.co.kr/article/84979</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84848"/>
         <updated>2024-03-22T17:39:28.319Z</updated>
         <content type="html"><![CDATA[패션에 동화적 상상을 불어넣으며 한계를 뛰어넘는 쇼를 선보이는 오트 쿠튀르 컬렉션. 신선한 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반려인 핫 키워드 '멍테리어' 들어보셨나요? #Barkitecture]]></title>
-        <id>https://www.elle.co.kr/article/84923</id>
-        <link href="https://www.elle.co.kr/article/84923"/>
-        <updated>2024-03-21T17:39:50.380Z</updated>
-        <content type="html"><![CDATA[다음 생은 견생으로 부탁해요]]></content>
     </entry>
 </feed>
