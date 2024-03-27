@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/star</id>
     <title>엘르 코리아 ─ 스타</title>
-    <updated>2024-03-26T17:41:25.853Z</updated>
+    <updated>2024-03-27T05:41:32.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['하이브 막내딸' 아일릿, 슈퍼엘르 커버 장식]]></title>
+        <id>https://www.elle.co.kr/article/84994</id>
+        <link href="https://www.elle.co.kr/article/84994"/>
+        <updated>2024-03-27T05:39:47.422Z</updated>
+        <content type="html"><![CDATA[아일릿 다섯 소녀들이 전해온 떨리는 데뷔 인사.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재욱과 이준영, 홍수주의 숲]]></title>
+        <id>https://www.elle.co.kr/article/84969</id>
+        <link href="https://www.elle.co.kr/article/84969"/>
+        <updated>2024-03-27T05:39:47.424Z</updated>
+        <content type="html"><![CDATA[어둠 속에서 아주 희미한 빛을 향해 파고드는 세 사람. &lt;로얄로더&gt;의 이재욱, 이준영 그리고 홍...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안보현 인생 캐릭터 경신한 '재벌X형사' 종영 기념 명장면 총정리 #요즘드라마]]></title>
         <id>https://www.elle.co.kr/article/85009</id>
@@ -42,19 +56,5 @@
         <link href="https://www.elle.co.kr/article/84972"/>
         <updated>2024-03-25T17:41:22.184Z</updated>
         <content type="html"><![CDATA[7년 만에 다시 &lt;헤드윅&gt;의 헤드윅으로 돌아온 유연석. 그의 무대 감각.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년 살인자와 막걸리 소녀 사이, 김다민 감독]]></title>
-        <id>https://www.elle.co.kr/article/84965</id>
-        <link href="https://www.elle.co.kr/article/84965"/>
-        <updated>2024-03-25T17:41:22.187Z</updated>
-        <content type="html"><![CDATA[청년 살인자와 막걸이에 빠진 소녀의 마음을 자유자재로 오가는 93년생 이야기꾼. 김다민 감독은...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승룡과 안재홍의 로드무비]]></title>
-        <id>https://www.elle.co.kr/article/84961</id>
-        <link href="https://www.elle.co.kr/article/84961"/>
-        <updated>2024-03-25T05:39:31.091Z</updated>
-        <content type="html"><![CDATA[류승룡과 안재홍이 그리 애타게 찾아 헤맨 건 무엇이었을까? &lt;닭강정&gt;의 그녀 혹은 또 다른 웃...]]></content>
     </entry>
 </feed>

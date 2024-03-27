@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/fashion</id>
     <title>엘르 코리아 ─ 패션</title>
-    <updated>2024-03-26T17:41:25.856Z</updated>
+    <updated>2024-03-27T05:41:32.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이아몬드로 피어난 루이 비통 하이 주얼리]]></title>
+        <id>https://www.elle.co.kr/article/85010</id>
+        <link href="https://www.elle.co.kr/article/85010"/>
+        <updated>2024-03-27T05:39:34.089Z</updated>
+        <content type="html"><![CDATA[루이 비통의 색을 입은 특별한 다이아몬드 주얼리 컬렉션. LV 다이아몬드.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2000년대 대표 알앤비 스타 앨리샤 키스가 사랑한 의외의 일]]></title>
         <id>https://www.elle.co.kr/article/84996</id>
@@ -53,12 +60,5 @@
         <link href="https://www.elle.co.kr/article/84847"/>
         <updated>2024-03-25T05:39:12.161Z</updated>
         <content type="html"><![CDATA[일상에서 쿠튀르를 향유할 수 있는 부쉐론의 '파워 오브 쿠튀르(The Power of Couture)'는 지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 로우와 032c가 서울에 상륙한다]]></title>
-        <id>https://www.elle.co.kr/article/84948</id>
-        <link href="https://www.elle.co.kr/article/84948"/>
-        <updated>2024-03-24T17:39:54.527Z</updated>
-        <content type="html"><![CDATA[제니가 빠진 그 브랜드!]]></content>
     </entry>
 </feed>
