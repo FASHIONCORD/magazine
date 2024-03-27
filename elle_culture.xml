@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/culture</id>
     <title>엘르 코리아 ─ 컬쳐</title>
-    <updated>2024-03-27T05:41:32.746Z</updated>
+    <updated>2024-03-27T17:40:39.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안보현 인생 캐릭터 경신한 '재벌X형사' 종영 기념 명장면 총정리 #요즘드라마]]></title>
+        <id>https://www.elle.co.kr/article/85009</id>
+        <link href="https://www.elle.co.kr/article/85009"/>
+        <updated>2024-03-27T17:39:49.175Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["귀신 장르 어떻게 천만 하냐"고? '파묘'가 해냈다]]></title>
+        <id>https://www.elle.co.kr/article/85000</id>
+        <link href="https://www.elle.co.kr/article/85000"/>
+        <updated>2024-03-27T17:39:49.180Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 최악의 마라톤을 완주한 최초의 여성이 탄생했다]]></title>
+        <id>https://www.elle.co.kr/article/84999</id>
+        <link href="https://www.elle.co.kr/article/84999"/>
+        <updated>2024-03-27T17:39:49.181Z</updated>
+        <content type="html"><![CDATA[탈옥범의 루트에서 영감을 얻은 기상천외한 마라톤의 정체는?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2000년대 대표 알앤비 스타 앨리샤 키스가 사랑한 의외의 일]]></title>
+        <id>https://www.elle.co.kr/article/84996</id>
+        <link href="https://www.elle.co.kr/article/84996"/>
+        <updated>2024-03-27T17:39:49.182Z</updated>
+        <content type="html"><![CDATA[예체능 천재 맞네요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부부 사이 괜찮은 거죠? 이보영X추자현X김하늘의 열연 돋보인 3월 4주차 #신작이OnAir]]></title>
         <id>https://www.elle.co.kr/article/84954</id>
@@ -28,29 +54,5 @@
         <id>https://www.elle.co.kr/article/84913</id>
         <link href="https://www.elle.co.kr/article/84913"/>
         <updated>2024-03-26T05:40:35.498Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 옥션에서는 어떤 작품을 팔까? (feat. 권지용 그림)]]></title>
-        <id>https://www.elle.co.kr/article/84907</id>
-        <link href="https://www.elle.co.kr/article/84907"/>
-        <updated>2024-03-26T05:40:35.500Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/84906</id>
-        <link href="https://www.elle.co.kr/article/84906"/>
-        <updated>2024-03-22T05:39:32.423Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽃 피기 전에 만나는 한국 작가들의 봄꽃]]></title>
-        <id>https://www.elle.co.kr/article/84877</id>
-        <link href="https://www.elle.co.kr/article/84877"/>
-        <updated>2024-03-21T17:40:14.120Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/84872</id>
-        <link href="https://www.elle.co.kr/article/84872"/>
-        <updated>2024-03-21T17:40:14.122Z</updated>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.elle.co.kr/beauty</id>
     <title>엘르 코리아 ─ 뷰티</title>
-    <updated>2024-03-27T05:41:32.894Z</updated>
+    <updated>2024-03-27T17:40:39.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.elle.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아모레퍼시픽, AP로 부활하다]]></title>
+        <id>https://www.elle.co.kr/article/84982</id>
+        <link href="https://www.elle.co.kr/article/84982"/>
+        <updated>2024-03-27T17:39:34.059Z</updated>
+        <content type="html"><![CDATA[20여 년 전 K뷰티 대부흥을 이끈 아모레퍼시픽이 AP(에이피)라는 이름으로 부활했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘프로 갓생러’ 이나연의 자기 관리 법 (a.k.a 나를 사랑하는 법)]]></title>
         <id>https://www.elle.co.kr/article/84978</id>
@@ -51,12 +58,5 @@
         <link href="https://www.elle.co.kr/article/84834"/>
         <updated>2024-03-22T17:39:36.577Z</updated>
         <content type="html"><![CDATA[홈 뷰티의 새로운 시대에 오신 것을 환영합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림 스킨, 세럼 한 방울로 완성할 수 있다]]></title>
-        <id>https://www.elle.co.kr/article/84825</id>
-        <link href="https://www.elle.co.kr/article/84825"/>
-        <updated>2024-03-22T05:39:17.453Z</updated>
-        <content type="html"><![CDATA[어떤 피부 고민도 바로 개선하는 원 드롭 올라운더, 아벤느 시칼파트+.]]></content>
     </entry>
 </feed>
