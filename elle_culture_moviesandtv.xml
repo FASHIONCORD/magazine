@@ -1,87 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.elle.co.kr/culture/moviesandtv</id>
-    <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
-    <updated>2024-03-27T17:40:39.773Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.elle.co.kr/culture/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[BTS 안무팀장 제이홉의 춤 이야기와 김순옥표 막장 드라마가 있는 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/85038</id>
-        <link href="https://www.elle.co.kr/article/85038"/>
-        <updated>2024-03-27T17:40:03.871Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브래드 피트와 페넬로페 크루즈가 출연한 작품 개봉?]]></title>
-        <id>https://www.elle.co.kr/article/85035</id>
-        <link href="https://www.elle.co.kr/article/85035"/>
-        <updated>2024-03-27T17:40:03.876Z</updated>
-        <content type="html"><![CDATA[제작은 샤넬! 샤넬의 아이코닉 핸드백 캠페인 영상을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안보현 인생 캐릭터 경신한 '재벌X형사' 종영 기념 명장면 총정리 #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/85009</id>
-        <link href="https://www.elle.co.kr/article/85009"/>
-        <updated>2024-03-25T17:41:50.299Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["귀신 장르 어떻게 천만 하냐"고? '파묘'가 해냈다]]></title>
-        <id>https://www.elle.co.kr/article/85000</id>
-        <link href="https://www.elle.co.kr/article/85000"/>
-        <updated>2024-03-25T17:41:50.301Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부부 사이 괜찮은 거죠? 이보영X추자현X김하늘의 열연 돋보인 3월 4주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84954</id>
-        <link href="https://www.elle.co.kr/article/84954"/>
-        <updated>2024-03-22T05:39:50.557Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9년 만에 밝혀지는 퓨리오사의 과거, '매드맥스 사가' 개봉 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/84913</id>
-        <link href="https://www.elle.co.kr/article/84913"/>
-        <updated>2024-03-20T05:39:54.753Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/84906</id>
-        <link href="https://www.elle.co.kr/article/84906"/>
-        <updated>2024-03-19T17:40:22.472Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마]]></title>
-        <id>https://www.elle.co.kr/article/84872</id>
-        <link href="https://www.elle.co.kr/article/84872"/>
-        <updated>2024-03-18T17:40:06.985Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세상에 이런 일이'가 26년 만에 사라질지도 모른다]]></title>
-        <id>https://www.elle.co.kr/article/84854</id>
-        <link href="https://www.elle.co.kr/article/84854"/>
-        <updated>2024-03-15T17:40:19.037Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir]]></title>
-        <id>https://www.elle.co.kr/article/84845</id>
-        <link href="https://www.elle.co.kr/article/84845"/>
-        <updated>2024-03-15T17:40:19.041Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉준호 5년 만의 신작 '미키17' 개봉 정보.txt]]></title>
-        <id>https://www.elle.co.kr/article/84826</id>
-        <link href="https://www.elle.co.kr/article/84826"/>
-        <updated>2024-03-14T17:40:12.708Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["은퇴 전 꼭 보여드릴 이야기": 김은희의 '시그널'이 돌아온다]]></title>
-        <id>https://www.elle.co.kr/article/84823</id>
-        <link href="https://www.elle.co.kr/article/84823"/>
-        <updated>2024-03-14T17:40:12.708Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출연작 재개봉 소식부터 결별설까지, 티모시 샬라메 근황 업데이트 3]]></title>
-        <id>https://www.elle.co.kr/article/84808</id>
-        <link href="https://www.elle.co.kr/article/84808"/>
-        <updated>2024-03-13T17:40:24.050Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>엘르 코리아 ─ 컬쳐 ─ 무비&amp;TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 28 Mar 2024 05:40:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS 안무팀장 제이홉의 춤 이야기와 김순옥표 막장 드라마가 있는 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/85038</link>
+            <guid>https://www.elle.co.kr/article/85038</guid>
+            <pubDate>Wed, 27 Mar 2024 17:40:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/27/aff76501-dbef-4b10-ac21-dafab36518c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브래드 피트와 페넬로페 크루즈가 출연한 작품 개봉?]]></title>
+            <link>https://www.elle.co.kr/article/85035</link>
+            <guid>https://www.elle.co.kr/article/85035</guid>
+            <pubDate>Wed, 27 Mar 2024 17:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[제작은 샤넬! 샤넬의 아이코닉 핸드백 캠페인 영상을 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/27/1ff435bc-d6bc-4559-9b31-7dddb138bd67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안보현 인생 캐릭터 경신한 '재벌X형사' 종영 기념 명장면 총정리 #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/85009</link>
+            <guid>https://www.elle.co.kr/article/85009</guid>
+            <pubDate>Mon, 25 Mar 2024 17:41:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/25/33f71beb-f474-4587-8fb1-28bf8e61fa75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["귀신 장르 어떻게 천만 하냐"고? '파묘'가 해냈다]]></title>
+            <link>https://www.elle.co.kr/article/85000</link>
+            <guid>https://www.elle.co.kr/article/85000</guid>
+            <pubDate>Mon, 25 Mar 2024 17:41:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/25/34a95254-639b-431a-b65e-aacf0f53eb31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부부 사이 괜찮은 거죠? 이보영X추자현X김하늘의 열연 돋보인 3월 4주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/84954</link>
+            <guid>https://www.elle.co.kr/article/84954</guid>
+            <pubDate>Fri, 22 Mar 2024 05:39:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[9년 만에 밝혀지는 퓨리오사의 과거, '매드맥스 사가' 개봉 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/84913</link>
+            <guid>https://www.elle.co.kr/article/84913</guid>
+            <pubDate>Wed, 20 Mar 2024 05:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[한국 최초로 '스타워즈' 시리즈 찍은 이정재의 '애콜라이트' 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/84906</link>
+            <guid>https://www.elle.co.kr/article/84906</guid>
+            <pubDate>Tue, 19 Mar 2024 17:40:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[충격의 반전 엔딩! 김남주X차은우 '원더풀 월드' 인기 요인 총정리! #요즘드라마]]></title>
+            <link>https://www.elle.co.kr/article/84872</link>
+            <guid>https://www.elle.co.kr/article/84872</guid>
+            <pubDate>Mon, 18 Mar 2024 17:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['세상에 이런 일이'가 26년 만에 사라질지도 모른다]]></title>
+            <link>https://www.elle.co.kr/article/84854</link>
+            <guid>https://www.elle.co.kr/article/84854</guid>
+            <pubDate>Fri, 15 Mar 2024 17:40:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[닭강정 된 김유정과 귀신 전문 사진사 주원이 있는 3월 3주차 #신작이OnAir]]></title>
+            <link>https://www.elle.co.kr/article/84845</link>
+            <guid>https://www.elle.co.kr/article/84845</guid>
+            <pubDate>Fri, 15 Mar 2024 17:40:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[봉준호 5년 만의 신작 '미키17' 개봉 정보.txt]]></title>
+            <link>https://www.elle.co.kr/article/84826</link>
+            <guid>https://www.elle.co.kr/article/84826</guid>
+            <pubDate>Thu, 14 Mar 2024 17:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["은퇴 전 꼭 보여드릴 이야기": 김은희의 '시그널'이 돌아온다]]></title>
+            <link>https://www.elle.co.kr/article/84823</link>
+            <guid>https://www.elle.co.kr/article/84823</guid>
+            <pubDate>Thu, 14 Mar 2024 17:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[출연작 재개봉 소식부터 결별설까지, 티모시 샬라메 근황 업데이트 3]]></title>
+            <link>https://www.elle.co.kr/article/84808</link>
+            <guid>https://www.elle.co.kr/article/84808</guid>
+            <pubDate>Wed, 13 Mar 2024 17:40:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
