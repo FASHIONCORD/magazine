@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하입비스트 ─ 디자인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 05:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 17:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국인 약 1300명이 답한 ‘집에 꼭 갖고 싶은 공간’ 1위는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37558337&amp;memberNo=37600247&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37558337&amp;memberNo=37600247&amp;navigationType=push</guid>
+            <pubDate>Thu, 28 Mar 2024 17:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjhfMjA2/MDAxNzExNjIzNDU3ODY0.zAGAdsmmYgBdORrfe3GDMDpoQHN2hHSyY_DTy0LsAZAg.mLa0WiD0gtQRgKfmpKVOt_s3bcJJSn8VsKa7V5UyAu0g.PNG/IF2Fb_ZCcJWk28M10tZ7Bmk69i6E.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘한국인이 가장 많이 사는 가구’는 무엇일까?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37308819&amp;memberNo=37600247&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Sep 2021 06:51:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMDdfMiAg/MDAxNjA3MzM1MjQzODYx.-kopAuJxGI53fi6dfVJFTMyi3-iLGPV9UsxSUo945_8g.WAXCvd8rgy0z5C2QOzfRv4xvrjWrvU4R1XQ8GlqKcT8g.JPEG/IW95qS2A076XuQo6oiPQml2ea9Ew.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그리핀도르, 슬리데린 등 '해리 포터'의 기숙사별 문장을 재현한 레고 세트 출시]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30147249&amp;memberNo=37600247&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30147249&amp;memberNo=37600247&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Sep 2021 06:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하입비스트</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMDRfMjY4/MDAxNjA3MDc1OTA5ODM4.aM0VAVOvr5YPtu1TqrsBxe5vX1hjJxHHhCPTquKYsj4g.ExXOEIokFw1nC0KIFw7iB216c9_2b2JvoqKmvZZE9Usg.JPEG/I5uKky9u-pTsiGLSe6WnM3uUtlII.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
